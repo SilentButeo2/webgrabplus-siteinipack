@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="horizon.tv.ro">
+  <channels>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895198" xmltv_id="TVR 1">TVR 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895134" xmltv_id="Pro TV">Pro TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895231" xmltv_id="Antena 1">Antena 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895166" xmltv_id="Antena Stars">Antena Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895169" xmltv_id="Prima TV">Prima TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895154" xmltv_id="Kanal D">Kanal D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895118" xmltv_id="Look Plus">Look Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895114" xmltv_id="Look TV">Look TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895141" xmltv_id="TVR 2">TVR 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895168" xmltv_id="Naţional TV">Naţional TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895162" xmltv_id="TVR 3">TVR 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895210" xmltv_id="Top Shop TV">Top Shop TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895174" xmltv_id="Neptun TV">Neptun TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895265" xmltv_id="Naţional 24 Plus">Naţional 24 Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895273" xmltv_id="Acasa Gold">Acasa Gold</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895164" xmltv_id="Acasa TV">Acasa TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895116" xmltv_id="Filmcafe">Filmcafe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895153" xmltv_id="Happy Channel">Happy Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895246" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895182" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895257" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895204" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895092" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159441" xmltv_id="Food TV">Food TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="669765158974" xmltv_id="IDA TV">IDA TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895131" xmltv_id="Pro Cinema">Pro Cinema</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895214" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895108" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895191" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895212" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895155" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895201" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895170" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895124" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895145" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983426" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983433" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895123" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895156" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327053" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895172" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895193" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895107" xmltv_id="Bollywood TV Film">Bollywood TV Film</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895255" xmltv_id="Bollywood Clasic">Bollywood Clasic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895157" xmltv_id="Bollywood TV">Bollywood TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895150" xmltv_id="FilmBox Extra HD&gt;SD">FilmBox Extra HD&gt;SD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895095" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895127" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983431" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895125" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895151" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895144" xmltv_id="Sundance HD">Sundance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895099" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895251" xmltv_id="Shorts HD">Shorts HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839005" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839004" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327054" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895098" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895248" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895117" xmltv_id="Sport.ro HD">Sport.ro HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="649717287246" xmltv_id="Auto Motor Sport HD">Auto Motor Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895263" xmltv_id="Look Plus HD">Look Plus HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895119" xmltv_id="Look HD">Look HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791038" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791035" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791034" xmltv_id="MyZen HD">MyZen HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327052" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895207" xmltv_id="TVR HD">TVR HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895140" xmltv_id="Pro TV HD">Pro TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127320" xmltv_id="Kanal D HD">Kanal D HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895173" xmltv_id="Acasa HD">Acasa HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895243" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895188" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895247" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895200" xmltv_id="Disc. Showcase HD">Disc. Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895189" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607446" xmltv_id="Travel HD">Travel HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895190" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895258" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895254" xmltv_id="High TV 3D">High TV 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="634049575400" xmltv_id="Taraf HD">Taraf HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983428" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895277" xmltv_id="Etno HD">Etno HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895266" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895194" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895128" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895115" xmltv_id="Sport.ro">Sport.ro</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607445" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895196" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895152" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895225" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895213" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471284" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791036" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895165" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895211" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895184" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895195" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895238" xmltv_id="Crime&amp;Investigation Network">Crime&amp;Investigation Network</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895185" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895159" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895180" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895233" xmltv_id="Travel Mix">Travel Mix</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895235" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895237" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895223" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895130" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895100" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895249" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895250" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791037" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895234" xmltv_id="Realitatea TV">Realitatea TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895224" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895269" xmltv_id="România Tv">România Tv</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895186" xmltv_id="B1">B1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895264" xmltv_id="Naşul TV">Naşul TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895209" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895232" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895236" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895241" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895094" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895097" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895240" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895268" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895197" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895109" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895221" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895192" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895205" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895252" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="688024615285" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127321" xmltv_id="Nickelodeon Jr.">Nickelodeon Jr.</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895220" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895105" xmltv_id="VH1 Channel">VH1 Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895274" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895103" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895112" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895259" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895096" xmltv_id="ZU TV">ZU TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895242" xmltv_id="Music Channel">Music Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895104" xmltv_id="H!T Music">H!T Music</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895183" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895110" xmltv_id="Favorit">Favorit</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895101" xmltv_id="Etno">Etno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895270" xmltv_id="Inedit TV">Inedit TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895102" xmltv_id="Taraf TV">Taraf TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895272" xmltv_id="Balkanika MTV">Balkanika MTV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895175" xmltv_id="KBS HD">KBS HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895218" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895222" xmltv_id="DW">DW</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895181" xmltv_id="RTL Channel">RTL Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895187" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895215" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895129" xmltv_id="M2">M2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895239" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895132" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895106" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895121" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471282" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="695707174954" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895167" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895133" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895178" xmltv_id="Samanyolu TV">Samanyolu TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895244" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895203" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895206" xmltv_id="Film+2">Film+2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471283" xmltv_id="RTL +">RTL +</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895179" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895113" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895199" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159440" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895143" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895176" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895093" xmltv_id="Erdély TV">Erdély TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895142" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895245" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895163" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895217" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895262" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159439" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895147" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895260" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895120" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895261" xmltv_id="Pink'O TV">Pink'O TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895149" xmltv_id="Penthouse 3D">Penthouse 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895148" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="699175975060" xmltv_id="Penthouse HD">Penthouse HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895198" xmltv_id="TVR 1">TVR 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895134" xmltv_id="Pro TV">Pro TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895231" xmltv_id="Antena 1">Antena 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895166" xmltv_id="Antena Stars">Antena Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895169" xmltv_id="Prima TV">Prima TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895154" xmltv_id="Kanal D">Kanal D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895118" xmltv_id="Look Plus">Look Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895114" xmltv_id="Look TV">Look TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895141" xmltv_id="TVR 2">TVR 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895168" xmltv_id="Naţional TV">Naţional TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895162" xmltv_id="TVR 3">TVR 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895210" xmltv_id="Top Shop TV">Top Shop TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895174" xmltv_id="Neptun TV">Neptun TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895265" xmltv_id="Naţional 24 Plus">Naţional 24 Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895273" xmltv_id="Acasa Gold">Acasa Gold</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895164" xmltv_id="Acasa TV">Acasa TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895116" xmltv_id="Filmcafe">Filmcafe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895153" xmltv_id="Happy Channel">Happy Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895246" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895182" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895257" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895204" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895092" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159441" xmltv_id="Food TV">Food TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="669765158974" xmltv_id="IDA TV">IDA TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895131" xmltv_id="Pro Cinema">Pro Cinema</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895214" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895108" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895191" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895212" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895155" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895201" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895170" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895124" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895145" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983426" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983433" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895123" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895156" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327053" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895172" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895193" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895107" xmltv_id="Bollywood TV Film">Bollywood TV Film</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895255" xmltv_id="Bollywood Clasic">Bollywood Clasic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895157" xmltv_id="Bollywood TV">Bollywood TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895150" xmltv_id="FilmBox Extra HD&gt;SD">FilmBox Extra HD&gt;SD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895095" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895127" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983431" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895125" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895151" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895144" xmltv_id="Sundance HD">Sundance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895099" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895251" xmltv_id="Shorts HD">Shorts HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839005" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839004" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327054" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895098" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895248" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895117" xmltv_id="Sport.ro HD">Sport.ro HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="649717287246" xmltv_id="Auto Motor Sport HD">Auto Motor Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895263" xmltv_id="Look Plus HD">Look Plus HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895119" xmltv_id="Look HD">Look HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791038" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791035" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791034" xmltv_id="MyZen HD">MyZen HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327052" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895207" xmltv_id="TVR HD">TVR HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895140" xmltv_id="Pro TV HD">Pro TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127320" xmltv_id="Kanal D HD">Kanal D HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895173" xmltv_id="Acasa HD">Acasa HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895243" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895188" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895247" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895200" xmltv_id="Disc. Showcase HD">Disc. Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895189" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607446" xmltv_id="Travel HD">Travel HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895190" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895258" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895254" xmltv_id="High TV 3D">High TV 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="634049575400" xmltv_id="Taraf HD">Taraf HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983428" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895277" xmltv_id="Etno HD">Etno HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895266" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895194" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895128" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895115" xmltv_id="Sport.ro">Sport.ro</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607445" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895196" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895152" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895225" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895213" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471284" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791036" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895165" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895211" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895184" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895195" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895238" xmltv_id="Crime&amp;Investigation Network">Crime&amp;Investigation Network</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895185" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895159" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895180" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895233" xmltv_id="Travel Mix">Travel Mix</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895235" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895237" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895223" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895130" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895100" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895249" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895250" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791037" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895234" xmltv_id="Realitatea TV">Realitatea TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895224" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895269" xmltv_id="România Tv">România Tv</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895186" xmltv_id="B1">B1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895264" xmltv_id="Naşul TV">Naşul TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895209" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895232" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895236" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895241" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895094" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895097" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895240" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895268" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895197" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895109" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895221" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895192" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895205" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895252" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="688024615285" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127321" xmltv_id="Nickelodeon Jr.">Nickelodeon Jr.</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895220" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895105" xmltv_id="VH1 Channel">VH1 Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895274" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895103" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895112" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895259" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895096" xmltv_id="ZU TV">ZU TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895242" xmltv_id="Music Channel">Music Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895104" xmltv_id="H!T Music">H!T Music</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895183" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895110" xmltv_id="Favorit">Favorit</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895101" xmltv_id="Etno">Etno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895270" xmltv_id="Inedit TV">Inedit TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895102" xmltv_id="Taraf TV">Taraf TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895272" xmltv_id="Balkanika MTV">Balkanika MTV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895175" xmltv_id="KBS HD">KBS HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895218" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895222" xmltv_id="DW">DW</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895181" xmltv_id="RTL Channel">RTL Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895187" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895215" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895129" xmltv_id="M2">M2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895239" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895132" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895106" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895121" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471282" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="695707174954" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895167" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895133" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895178" xmltv_id="Samanyolu TV">Samanyolu TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895244" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895203" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895206" xmltv_id="Film+2">Film+2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471283" xmltv_id="RTL +">RTL +</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895179" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895113" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895199" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159440" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895143" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895176" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895093" xmltv_id="Erdély TV">Erdély TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895142" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895245" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895163" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895217" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895262" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159439" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895147" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895260" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895120" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895261" xmltv_id="Pink'O TV">Pink'O TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895149" xmltv_id="Penthouse 3D">Penthouse 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895148" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="699175975060" xmltv_id="Penthouse HD">Penthouse HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895198" xmltv_id="TVR 1">TVR 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895134" xmltv_id="Pro TV">Pro TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895231" xmltv_id="Antena 1">Antena 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895166" xmltv_id="Antena Stars">Antena Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895169" xmltv_id="Prima TV">Prima TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895154" xmltv_id="Kanal D">Kanal D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895118" xmltv_id="Look Plus">Look Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895114" xmltv_id="Look TV">Look TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895141" xmltv_id="TVR 2">TVR 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895168" xmltv_id="Naţional TV">Naţional TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895162" xmltv_id="TVR 3">TVR 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895210" xmltv_id="Top Shop TV">Top Shop TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895174" xmltv_id="Neptun TV">Neptun TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895265" xmltv_id="Naţional 24 Plus">Naţional 24 Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895273" xmltv_id="Acasa Gold">Acasa Gold</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895164" xmltv_id="Acasa TV">Acasa TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895116" xmltv_id="Filmcafe">Filmcafe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895153" xmltv_id="Happy Channel">Happy Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895246" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895182" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895257" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895204" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895092" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159441" xmltv_id="Food TV">Food TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="669765158974" xmltv_id="IDA TV">IDA TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895131" xmltv_id="Pro Cinema">Pro Cinema</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895214" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895108" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895191" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895212" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895155" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895201" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895170" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895124" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895145" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983426" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983433" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895123" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895156" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327053" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895172" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895193" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895107" xmltv_id="Bollywood TV Film">Bollywood TV Film</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895255" xmltv_id="Bollywood Clasic">Bollywood Clasic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895157" xmltv_id="Bollywood TV">Bollywood TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895150" xmltv_id="FilmBox Extra HD&gt;SD">FilmBox Extra HD&gt;SD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895095" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895127" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983431" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895125" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895151" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895144" xmltv_id="Sundance HD">Sundance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895099" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895251" xmltv_id="Shorts HD">Shorts HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839005" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839004" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327054" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895098" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895248" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895117" xmltv_id="Sport.ro HD">Sport.ro HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="649717287246" xmltv_id="Auto Motor Sport HD">Auto Motor Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895263" xmltv_id="Look Plus HD">Look Plus HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895119" xmltv_id="Look HD">Look HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791038" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791035" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791034" xmltv_id="MyZen HD">MyZen HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327052" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895207" xmltv_id="TVR HD">TVR HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895140" xmltv_id="Pro TV HD">Pro TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127320" xmltv_id="Kanal D HD">Kanal D HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895173" xmltv_id="Acasa HD">Acasa HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895243" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895188" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895247" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895200" xmltv_id="Disc. Showcase HD">Disc. Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895189" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607446" xmltv_id="Travel HD">Travel HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895190" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895258" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895254" xmltv_id="High TV 3D">High TV 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="634049575400" xmltv_id="Taraf HD">Taraf HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983428" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895277" xmltv_id="Etno HD">Etno HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895266" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895194" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895128" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895115" xmltv_id="Sport.ro">Sport.ro</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607445" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895196" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895152" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895225" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895213" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471284" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791036" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895165" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895211" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895184" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895195" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895238" xmltv_id="Crime&amp;Investigation Network">Crime&amp;Investigation Network</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895185" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895159" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895180" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895233" xmltv_id="Travel Mix">Travel Mix</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895235" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895237" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895223" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895130" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895100" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895249" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895250" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791037" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895234" xmltv_id="Realitatea TV">Realitatea TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895224" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895269" xmltv_id="România Tv">România Tv</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895186" xmltv_id="B1">B1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895264" xmltv_id="Naşul TV">Naşul TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895209" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895232" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895236" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895241" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895094" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895097" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895240" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895268" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895197" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895109" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895221" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895192" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895205" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895252" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="688024615285" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127321" xmltv_id="Nickelodeon Jr.">Nickelodeon Jr.</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895220" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895105" xmltv_id="VH1 Channel">VH1 Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895274" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895103" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895112" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895259" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895096" xmltv_id="ZU TV">ZU TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895242" xmltv_id="Music Channel">Music Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895104" xmltv_id="H!T Music">H!T Music</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895183" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895110" xmltv_id="Favorit">Favorit</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895101" xmltv_id="Etno">Etno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895270" xmltv_id="Inedit TV">Inedit TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895102" xmltv_id="Taraf TV">Taraf TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895272" xmltv_id="Balkanika MTV">Balkanika MTV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895175" xmltv_id="KBS HD">KBS HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895218" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895222" xmltv_id="DW">DW</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895181" xmltv_id="RTL Channel">RTL Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895187" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895215" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895129" xmltv_id="M2">M2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895239" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895132" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895106" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895121" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471282" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="695707174954" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895167" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895133" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895178" xmltv_id="Samanyolu TV">Samanyolu TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895244" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895203" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895206" xmltv_id="Film+2">Film+2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471283" xmltv_id="RTL +">RTL +</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895179" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895113" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895199" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159440" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895143" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895176" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895093" xmltv_id="Erdély TV">Erdély TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895142" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895245" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895163" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895217" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895262" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159439" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895147" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895260" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895120" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895261" xmltv_id="Pink'O TV">Pink'O TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895149" xmltv_id="Penthouse 3D">Penthouse 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895148" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="699175975060" xmltv_id="Penthouse HD">Penthouse HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895198" xmltv_id="TVR 1">TVR 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895134" xmltv_id="Pro TV">Pro TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895231" xmltv_id="Antena 1">Antena 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895166" xmltv_id="Antena Stars">Antena Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895169" xmltv_id="Prima TV">Prima TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895154" xmltv_id="Kanal D">Kanal D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895118" xmltv_id="Look Plus">Look Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895114" xmltv_id="Look TV">Look TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895141" xmltv_id="TVR 2">TVR 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895168" xmltv_id="Naţional TV">Naţional TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895162" xmltv_id="TVR 3">TVR 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895210" xmltv_id="Top Shop TV">Top Shop TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895174" xmltv_id="Neptun TV">Neptun TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895265" xmltv_id="Naţional 24 Plus">Naţional 24 Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895273" xmltv_id="Acasa Gold">Acasa Gold</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895164" xmltv_id="Acasa TV">Acasa TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895116" xmltv_id="Filmcafe">Filmcafe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895153" xmltv_id="Happy Channel">Happy Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895246" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895182" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895257" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895204" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895092" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159441" xmltv_id="Food TV">Food TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="669765158974" xmltv_id="IDA TV">IDA TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895131" xmltv_id="Pro Cinema">Pro Cinema</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895214" xmltv_id="Diva Universal">Diva Universal</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895108" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895191" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895212" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895155" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895201" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895170" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895124" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895145" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983426" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983433" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895123" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895156" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327053" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895172" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895193" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895107" xmltv_id="Bollywood TV Film">Bollywood TV Film</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895255" xmltv_id="Bollywood Clasic">Bollywood Clasic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895157" xmltv_id="Bollywood TV">Bollywood TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895150" xmltv_id="FilmBox Extra HD&gt;SD">FilmBox Extra HD&gt;SD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895095" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895127" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983431" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895125" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895151" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895144" xmltv_id="Sundance HD">Sundance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895099" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895251" xmltv_id="Shorts HD">Shorts HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839005" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="563340839004" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327054" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895098" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895248" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895117" xmltv_id="Sport.ro HD">Sport.ro HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="649717287246" xmltv_id="Auto Motor Sport HD">Auto Motor Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895263" xmltv_id="Look Plus HD">Look Plus HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895119" xmltv_id="Look HD">Look HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791038" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791035" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791034" xmltv_id="MyZen HD">MyZen HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="715724327052" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895207" xmltv_id="TVR HD">TVR HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895140" xmltv_id="Pro TV HD">Pro TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127320" xmltv_id="Kanal D HD">Kanal D HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895173" xmltv_id="Acasa HD">Acasa HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895243" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895188" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895247" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895200" xmltv_id="Disc. Showcase HD">Disc. Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895189" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607446" xmltv_id="Travel HD">Travel HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895190" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895258" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895254" xmltv_id="High TV 3D">High TV 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="634049575400" xmltv_id="Taraf HD">Taraf HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="558994983428" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895277" xmltv_id="Etno HD">Etno HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895266" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895194" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895128" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895115" xmltv_id="Sport.ro">Sport.ro</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="554605607445" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895196" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895152" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895225" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895213" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471284" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791036" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895165" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895211" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895184" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895195" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895238" xmltv_id="Crime&amp;Investigation Network">Crime&amp;Investigation Network</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895185" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895159" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895180" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895233" xmltv_id="Travel Mix">Travel Mix</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895235" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895237" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895223" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895130" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895100" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895249" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895250" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="674506791037" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895234" xmltv_id="Realitatea TV">Realitatea TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895224" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895269" xmltv_id="România Tv">România Tv</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895186" xmltv_id="B1">B1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895264" xmltv_id="Naşul TV">Naşul TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895209" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895232" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895236" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895241" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895094" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895097" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895240" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895268" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895197" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895109" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895221" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895192" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895205" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895252" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="688024615285" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562841127321" xmltv_id="Nickelodeon Jr.">Nickelodeon Jr.</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895220" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895105" xmltv_id="VH1 Channel">VH1 Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895274" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895103" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895112" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895259" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895096" xmltv_id="ZU TV">ZU TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895242" xmltv_id="Music Channel">Music Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895104" xmltv_id="H!T Music">H!T Music</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895183" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895110" xmltv_id="Favorit">Favorit</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895101" xmltv_id="Etno">Etno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895270" xmltv_id="Inedit TV">Inedit TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895102" xmltv_id="Taraf TV">Taraf TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895272" xmltv_id="Balkanika MTV">Balkanika MTV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895175" xmltv_id="KBS HD">KBS HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895218" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895222" xmltv_id="DW">DW</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895181" xmltv_id="RTL Channel">RTL Channel</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895187" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895215" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895129" xmltv_id="M2">M2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895239" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895132" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895106" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895121" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471282" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="695707174954" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895167" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895133" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895178" xmltv_id="Samanyolu TV">Samanyolu TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895244" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895203" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895206" xmltv_id="Film+2">Film+2</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="562194471283" xmltv_id="RTL +">RTL +</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895179" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895113" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895199" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159440" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895143" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895176" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895093" xmltv_id="Erdély TV">Erdély TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895142" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895245" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895163" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895217" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895262" xmltv_id="Canal religios">Canal religios</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="637189159439" xmltv_id="Canal generalist">Canal generalist</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895147" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895260" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895120" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895261" xmltv_id="Pink'O TV">Pink'O TV</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895149" xmltv_id="Penthouse 3D">Penthouse 3D</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="552441895148" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="horizon.tv.ro" site_id="699175975060" xmltv_id="Penthouse HD">Penthouse HD</channel>
+  </channels>
+</site>

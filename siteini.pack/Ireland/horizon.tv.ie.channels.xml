@@ -1,0 +1,829 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="horizon.tv.ie">
+  <channels>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470983" xmltv_id="UPC Customer Channel">UPC Customer Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471047" xmltv_id="RTE One HD">RTE One HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471044" xmltv_id="RTE One">RTE One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471034" xmltv_id="RTE2">RTE2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471037" xmltv_id="RTE2 HD">RTE2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471001" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471060" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471061" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470970" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470972" xmltv_id="Setanta HD">Setanta HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471144" xmltv_id="3e">3e</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470965" xmltv_id="RTE One +1">RTE One +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471139" xmltv_id="BBC1 HD">BBC1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471132" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471056" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471040" xmltv_id="UTV Ireland">UTV Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471041" xmltv_id="UTV Ireland HD">UTV Ireland HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471069" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471103" xmltv_id="E4">E4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471101" xmltv_id="E4+1">E4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471156" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471099" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470973" xmltv_id="BBC THREE">BBC THREE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470974" xmltv_id="BBC FOUR">BBC FOUR</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471106" xmltv_id="More4">More4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471048" xmltv_id="TV3+1">TV3+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471045" xmltv_id="G.O.L.D.">G.O.L.D.</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471140" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471083" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471091" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471058" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471049" xmltv_id="Sky Living+1">Sky Living+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471120" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471102" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471151" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471153" xmltv_id="Comedy +1">Comedy +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470989" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471005" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471006" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471051" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471108" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471147" xmltv_id="Comedy Extra">Comedy Extra</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471057" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471094" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703103" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471157" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471059" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471112" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471134" xmltv_id="E!">E!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="654285863000" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471020" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471066" xmltv_id="More4+1">More4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471062" xmltv_id="G.O.L.D. +1">G.O.L.D. +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471116" xmltv_id="Discovery Quest">Discovery Quest</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471105" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471090" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471082" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471143" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471107" xmltv_id="FOX +1">FOX +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703102" xmltv_id="Comedy HD">Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470997" xmltv_id="RTE News Now">RTE News Now</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471077" xmltv_id="BBC News 24">BBC News 24</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471070" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470977" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471133" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471071" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471074" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471125" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471138" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471135" xmltv_id="Disc Channel +1">Disc Channel +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471092" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471080" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471081" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471078" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471115" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471079" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471095" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471087" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471127" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471136" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471119" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471118" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471117" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471137" xmltv_id="Crime &amp; Investigation HD">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215247" xmltv_id="H2">H2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471122" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471158" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215119" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471042" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471016" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471038" xmltv_id="Sky Family">Sky Family</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471011" xmltv_id="Sky SCi Fi/Horror">Sky SCi Fi/Horror</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471032" xmltv_id="Sky Disney">Sky Disney</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471012" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470998" xmltv_id="Sky Greats">Sky Greats</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471007" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471111" xmltv_id="Sky Crime and Thriller">Sky Crime and Thriller</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471010" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471146" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471031" xmltv_id="Sky Premiere +1">Sky Premiere +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470966" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470967" xmltv_id="FILMFOUR +1">FILMFOUR +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471036" xmltv_id="MGM Movies">MGM Movies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471013" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471063" xmltv_id="TCM +1">TCM +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471023" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471043" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471017" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471039" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471014" xmltv_id="Sky SciFi/Horror HD">Sky SciFi/Horror HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471033" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471015" xmltv_id="Sky Select HD">Sky Select HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470999" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471008" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471109" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471009" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471149" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470971" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471003" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471004" xmltv_id="Setanta Sports 1 HD">Setanta Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471145" xmltv_id="Sky Sports">Sky Sports</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471075" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471000" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470991" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471026" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470987" xmltv_id="BT Sport/ESPN">BT Sport/ESPN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471085" xmltv_id="Sky Sports News HQ">Sky Sports News HQ</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471054" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471024" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471155" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503212" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470988" xmltv_id="BT Sport/ESPN HD">BT Sport/ESPN HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471096" xmltv_id="At the Races">At the Races</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471035" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471046" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471093" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471126" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471084" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471148" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471113" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471002" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470995" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471027" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471123" xmltv_id="Sky Sports News HQ HD">Sky Sports News HQ HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471055" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471025" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503213" xmltv_id="BT Sport Europe HD">BT Sport Europe HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871231" xmltv_id="BT Sport Extra 1">BT Sport Extra 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359310" xmltv_id="BT Sport Extra 2">BT Sport Extra 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871280" xmltv_id="BT Sport Extra 3">BT Sport Extra 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871283" xmltv_id="BT Sport Extra 4">BT Sport Extra 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871286" xmltv_id="BT Sport Extra 5">BT Sport Extra 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359313" xmltv_id="BT Sport Extra 6">BT Sport Extra 6</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470969" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471050" xmltv_id="ID">ID</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470986" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471121" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471076" xmltv_id="Home">Home</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471067" xmltv_id="RTEjr">RTEjr</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470985" xmltv_id="TRTE">TRTE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471064" xmltv_id="Cula4">Cula4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471154" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471088" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471097" xmltv_id="Nick Replay">Nick Replay</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471160" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471089" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471142" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471065" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471052" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471068" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471098" xmltv_id="CN+1">CN+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471110" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471104" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471053" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677423654951" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471130" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471086" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470990" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471021" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471159" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471018" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471028" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471124" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471022" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471019" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471131" xmltv_id="Smash Hits">Smash Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471141" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471030" xmltv_id="Heat">Heat</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471128" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471029" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471129" xmltv_id="KISS">KISS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471114" xmltv_id="DCTV">DCTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471072" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471100" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471150" xmltv_id="The God Channel">The God Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471073" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470978" xmltv_id="Euronews FRA">Euronews FRA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470979" xmltv_id="Euronews DEU">Euronews DEU</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470980" xmltv_id="Euronews ITA">Euronews ITA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470981" xmltv_id="Euronews ESP">Euronews ESP</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470982" xmltv_id="Euronews RUS">Euronews RUS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470976" xmltv_id="TVX">TVX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470968" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470975" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470992" xmltv_id="PPV Channel">PPV Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470996" xmltv_id="PPV Channel 2">PPV Channel 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470983" xmltv_id="UPC Customer Channel">UPC Customer Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471047" xmltv_id="RTE One HD">RTE One HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471044" xmltv_id="RTE One">RTE One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471034" xmltv_id="RTE2">RTE2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471037" xmltv_id="RTE2 HD">RTE2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471001" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471060" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471061" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470970" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470972" xmltv_id="Setanta HD">Setanta HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471144" xmltv_id="3e">3e</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470965" xmltv_id="RTE One +1">RTE One +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471139" xmltv_id="BBC1 HD">BBC1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471132" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471056" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471040" xmltv_id="UTV Ireland">UTV Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471041" xmltv_id="UTV Ireland HD">UTV Ireland HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471069" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471103" xmltv_id="E4">E4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471101" xmltv_id="E4+1">E4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471156" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471099" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470973" xmltv_id="BBC THREE">BBC THREE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470974" xmltv_id="BBC FOUR">BBC FOUR</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471106" xmltv_id="More4">More4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471048" xmltv_id="TV3+1">TV3+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471045" xmltv_id="G.O.L.D.">G.O.L.D.</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471140" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471083" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471091" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471058" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471049" xmltv_id="Sky Living+1">Sky Living+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471120" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471102" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471151" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471153" xmltv_id="Comedy +1">Comedy +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470989" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471005" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471006" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471051" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471108" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471147" xmltv_id="Comedy Extra">Comedy Extra</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471057" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471094" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703103" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471157" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471059" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471112" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471134" xmltv_id="E!">E!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="654285863000" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471020" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471066" xmltv_id="More4+1">More4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471062" xmltv_id="G.O.L.D. +1">G.O.L.D. +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471116" xmltv_id="Discovery Quest">Discovery Quest</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471105" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471090" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471082" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471143" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471107" xmltv_id="FOX +1">FOX +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703102" xmltv_id="Comedy HD">Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470997" xmltv_id="RTE News Now">RTE News Now</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471077" xmltv_id="BBC News 24">BBC News 24</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471070" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470977" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471133" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471071" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471074" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471125" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471138" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471135" xmltv_id="Disc Channel +1">Disc Channel +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471092" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471080" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471081" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471078" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471115" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471079" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471095" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471087" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471127" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471136" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471119" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471118" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471117" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471137" xmltv_id="Crime &amp; Investigation HD">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215247" xmltv_id="H2">H2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471122" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471158" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215119" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471042" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471016" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471038" xmltv_id="Sky Family">Sky Family</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471011" xmltv_id="Sky SCi Fi/Horror">Sky SCi Fi/Horror</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471032" xmltv_id="Sky Disney">Sky Disney</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471012" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470998" xmltv_id="Sky Greats">Sky Greats</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471007" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471111" xmltv_id="Sky Crime and Thriller">Sky Crime and Thriller</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471010" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471146" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471031" xmltv_id="Sky Premiere +1">Sky Premiere +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470966" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470967" xmltv_id="FILMFOUR +1">FILMFOUR +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471036" xmltv_id="MGM Movies">MGM Movies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471013" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471063" xmltv_id="TCM +1">TCM +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471023" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471043" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471017" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471039" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471014" xmltv_id="Sky SciFi/Horror HD">Sky SciFi/Horror HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471033" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471015" xmltv_id="Sky Select HD">Sky Select HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470999" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471008" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471109" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471009" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471149" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470971" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471003" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471004" xmltv_id="Setanta Sports 1 HD">Setanta Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471145" xmltv_id="Sky Sports">Sky Sports</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471075" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471000" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470991" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471026" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470987" xmltv_id="BT Sport/ESPN">BT Sport/ESPN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471085" xmltv_id="Sky Sports News HQ">Sky Sports News HQ</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471054" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471024" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471155" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503212" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470988" xmltv_id="BT Sport/ESPN HD">BT Sport/ESPN HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471096" xmltv_id="At the Races">At the Races</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471035" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471046" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471093" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471126" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471084" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471148" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471113" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471002" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470995" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471027" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471123" xmltv_id="Sky Sports News HQ HD">Sky Sports News HQ HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471055" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471025" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503213" xmltv_id="BT Sport Europe HD">BT Sport Europe HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871231" xmltv_id="BT Sport Extra 1">BT Sport Extra 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359310" xmltv_id="BT Sport Extra 2">BT Sport Extra 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871280" xmltv_id="BT Sport Extra 3">BT Sport Extra 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871283" xmltv_id="BT Sport Extra 4">BT Sport Extra 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871286" xmltv_id="BT Sport Extra 5">BT Sport Extra 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359313" xmltv_id="BT Sport Extra 6">BT Sport Extra 6</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470969" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471050" xmltv_id="ID">ID</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470986" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471121" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471076" xmltv_id="Home">Home</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471067" xmltv_id="RTEjr">RTEjr</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470985" xmltv_id="TRTE">TRTE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471064" xmltv_id="Cula4">Cula4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471154" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471088" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471097" xmltv_id="Nick Replay">Nick Replay</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471160" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471089" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471142" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471065" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471052" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471068" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471098" xmltv_id="CN+1">CN+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471110" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471104" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471053" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677423654951" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471130" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471086" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470990" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471021" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471159" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471018" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471028" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471124" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471022" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471019" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471131" xmltv_id="Smash Hits">Smash Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471141" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471030" xmltv_id="Heat">Heat</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471128" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471029" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471129" xmltv_id="KISS">KISS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471114" xmltv_id="DCTV">DCTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471072" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471100" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471150" xmltv_id="The God Channel">The God Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471073" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470978" xmltv_id="Euronews FRA">Euronews FRA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470979" xmltv_id="Euronews DEU">Euronews DEU</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470980" xmltv_id="Euronews ITA">Euronews ITA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470981" xmltv_id="Euronews ESP">Euronews ESP</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470982" xmltv_id="Euronews RUS">Euronews RUS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470976" xmltv_id="TVX">TVX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470968" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470975" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470992" xmltv_id="PPV Channel">PPV Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470996" xmltv_id="PPV Channel 2">PPV Channel 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470983" xmltv_id="UPC Customer Channel">UPC Customer Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471047" xmltv_id="RTE One HD">RTE One HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471044" xmltv_id="RTE One">RTE One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471034" xmltv_id="RTE2">RTE2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471037" xmltv_id="RTE2 HD">RTE2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471001" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471060" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471061" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470970" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470972" xmltv_id="Setanta HD">Setanta HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471144" xmltv_id="3e">3e</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470965" xmltv_id="RTE One +1">RTE One +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471139" xmltv_id="BBC1 HD">BBC1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471132" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471056" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471040" xmltv_id="UTV Ireland">UTV Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471041" xmltv_id="UTV Ireland HD">UTV Ireland HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471069" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471103" xmltv_id="E4">E4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471101" xmltv_id="E4+1">E4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471156" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471099" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470973" xmltv_id="BBC THREE">BBC THREE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470974" xmltv_id="BBC FOUR">BBC FOUR</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471106" xmltv_id="More4">More4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471048" xmltv_id="TV3+1">TV3+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471045" xmltv_id="G.O.L.D.">G.O.L.D.</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471140" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471083" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471091" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471058" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471049" xmltv_id="Sky Living+1">Sky Living+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471120" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471102" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471151" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471153" xmltv_id="Comedy +1">Comedy +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470989" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471005" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471006" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471051" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471108" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471147" xmltv_id="Comedy Extra">Comedy Extra</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471057" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471094" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703103" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471157" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471059" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471112" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471134" xmltv_id="E!">E!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="654285863000" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471020" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471066" xmltv_id="More4+1">More4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471062" xmltv_id="G.O.L.D. +1">G.O.L.D. +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471116" xmltv_id="Discovery Quest">Discovery Quest</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471105" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471090" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471082" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471143" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471107" xmltv_id="FOX +1">FOX +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703102" xmltv_id="Comedy HD">Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470997" xmltv_id="RTE News Now">RTE News Now</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471077" xmltv_id="BBC News 24">BBC News 24</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471070" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470977" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471133" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471071" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471074" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471125" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471138" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471135" xmltv_id="Disc Channel +1">Disc Channel +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471092" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471080" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471081" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471078" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471115" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471079" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471095" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471087" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471127" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471136" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471119" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471118" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471117" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471137" xmltv_id="Crime &amp; Investigation HD">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215247" xmltv_id="H2">H2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471122" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471158" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215119" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471042" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471016" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471038" xmltv_id="Sky Family">Sky Family</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471011" xmltv_id="Sky SCi Fi/Horror">Sky SCi Fi/Horror</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471032" xmltv_id="Sky Disney">Sky Disney</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471012" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470998" xmltv_id="Sky Greats">Sky Greats</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471007" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471111" xmltv_id="Sky Crime and Thriller">Sky Crime and Thriller</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471010" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471146" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471031" xmltv_id="Sky Premiere +1">Sky Premiere +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470966" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470967" xmltv_id="FILMFOUR +1">FILMFOUR +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471036" xmltv_id="MGM Movies">MGM Movies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471013" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471063" xmltv_id="TCM +1">TCM +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471023" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471043" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471017" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471039" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471014" xmltv_id="Sky SciFi/Horror HD">Sky SciFi/Horror HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471033" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471015" xmltv_id="Sky Select HD">Sky Select HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470999" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471008" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471109" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471009" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471149" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470971" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471003" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471004" xmltv_id="Setanta Sports 1 HD">Setanta Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471145" xmltv_id="Sky Sports">Sky Sports</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471075" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471000" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470991" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471026" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470987" xmltv_id="BT Sport/ESPN">BT Sport/ESPN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471085" xmltv_id="Sky Sports News HQ">Sky Sports News HQ</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471054" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471024" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471155" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503212" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470988" xmltv_id="BT Sport/ESPN HD">BT Sport/ESPN HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471096" xmltv_id="At the Races">At the Races</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471035" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471046" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471093" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471126" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471084" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471148" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471113" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471002" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470995" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471027" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471123" xmltv_id="Sky Sports News HQ HD">Sky Sports News HQ HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471055" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471025" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503213" xmltv_id="BT Sport Europe HD">BT Sport Europe HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871231" xmltv_id="BT Sport Extra 1">BT Sport Extra 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359310" xmltv_id="BT Sport Extra 2">BT Sport Extra 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871280" xmltv_id="BT Sport Extra 3">BT Sport Extra 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871283" xmltv_id="BT Sport Extra 4">BT Sport Extra 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871286" xmltv_id="BT Sport Extra 5">BT Sport Extra 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359313" xmltv_id="BT Sport Extra 6">BT Sport Extra 6</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470969" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471050" xmltv_id="ID">ID</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470986" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471121" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471076" xmltv_id="Home">Home</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471067" xmltv_id="RTEjr">RTEjr</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470985" xmltv_id="TRTE">TRTE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471064" xmltv_id="Cula4">Cula4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471154" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471088" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471097" xmltv_id="Nick Replay">Nick Replay</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471160" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471089" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471142" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471065" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471052" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471068" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471098" xmltv_id="CN+1">CN+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471110" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471104" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471053" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677423654951" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471130" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471086" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470990" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471021" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471159" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471018" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471028" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471124" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471022" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471019" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471131" xmltv_id="Smash Hits">Smash Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471141" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471030" xmltv_id="Heat">Heat</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471128" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471029" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471129" xmltv_id="KISS">KISS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471114" xmltv_id="DCTV">DCTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471072" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471100" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471150" xmltv_id="The God Channel">The God Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471073" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470978" xmltv_id="Euronews FRA">Euronews FRA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470979" xmltv_id="Euronews DEU">Euronews DEU</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470980" xmltv_id="Euronews ITA">Euronews ITA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470981" xmltv_id="Euronews ESP">Euronews ESP</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470982" xmltv_id="Euronews RUS">Euronews RUS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470976" xmltv_id="TVX">TVX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470968" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470975" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470992" xmltv_id="PPV Channel">PPV Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470996" xmltv_id="PPV Channel 2">PPV Channel 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470983" xmltv_id="UPC Customer Channel">UPC Customer Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471047" xmltv_id="RTE One HD">RTE One HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471044" xmltv_id="RTE One">RTE One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471034" xmltv_id="RTE2">RTE2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471037" xmltv_id="RTE2 HD">RTE2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471001" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471060" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471061" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470970" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470972" xmltv_id="Setanta HD">Setanta HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471144" xmltv_id="3e">3e</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470965" xmltv_id="RTE One +1">RTE One +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471139" xmltv_id="BBC1 HD">BBC1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471132" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471056" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471040" xmltv_id="UTV Ireland">UTV Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471041" xmltv_id="UTV Ireland HD">UTV Ireland HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471069" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471103" xmltv_id="E4">E4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471101" xmltv_id="E4+1">E4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471156" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471099" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470973" xmltv_id="BBC THREE">BBC THREE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470974" xmltv_id="BBC FOUR">BBC FOUR</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471106" xmltv_id="More4">More4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471048" xmltv_id="TV3+1">TV3+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471045" xmltv_id="G.O.L.D.">G.O.L.D.</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471140" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471083" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471091" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471058" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471049" xmltv_id="Sky Living+1">Sky Living+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471120" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471102" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471151" xmltv_id="Comedy">Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471153" xmltv_id="Comedy +1">Comedy +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470989" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471005" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471006" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471051" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471108" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471147" xmltv_id="Comedy Extra">Comedy Extra</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471057" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471094" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703103" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471157" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471059" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471112" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471134" xmltv_id="E!">E!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="654285863000" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471020" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471066" xmltv_id="More4+1">More4+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471062" xmltv_id="G.O.L.D. +1">G.O.L.D. +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471116" xmltv_id="Discovery Quest">Discovery Quest</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471105" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471090" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471082" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471143" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471107" xmltv_id="FOX +1">FOX +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677425703102" xmltv_id="Comedy HD">Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470997" xmltv_id="RTE News Now">RTE News Now</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471077" xmltv_id="BBC News 24">BBC News 24</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471070" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470977" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471133" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471071" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471074" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471125" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471138" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471135" xmltv_id="Disc Channel +1">Disc Channel +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471092" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471080" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471081" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471078" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471115" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471079" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471095" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471087" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471127" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471136" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471119" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471118" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471117" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471137" xmltv_id="Crime &amp; Investigation HD">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215247" xmltv_id="H2">H2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471122" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471158" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677426215119" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471042" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471016" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471038" xmltv_id="Sky Family">Sky Family</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471011" xmltv_id="Sky SCi Fi/Horror">Sky SCi Fi/Horror</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471032" xmltv_id="Sky Disney">Sky Disney</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471012" xmltv_id="Sky Select">Sky Select</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470998" xmltv_id="Sky Greats">Sky Greats</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471007" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471111" xmltv_id="Sky Crime and Thriller">Sky Crime and Thriller</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471010" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471146" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471031" xmltv_id="Sky Premiere +1">Sky Premiere +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470966" xmltv_id="Film Four">Film Four</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470967" xmltv_id="FILMFOUR +1">FILMFOUR +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471036" xmltv_id="MGM Movies">MGM Movies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471013" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471063" xmltv_id="TCM +1">TCM +1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471023" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471043" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471017" xmltv_id="Sky Action HD">Sky Action HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471039" xmltv_id="Sky Family HD">Sky Family HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471014" xmltv_id="Sky SciFi/Horror HD">Sky SciFi/Horror HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471033" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471015" xmltv_id="Sky Select HD">Sky Select HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470999" xmltv_id="Sky Greats HD">Sky Greats HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471008" xmltv_id="Sky Drama HD">Sky Drama HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471109" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471009" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471149" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470971" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471003" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471004" xmltv_id="Setanta Sports 1 HD">Setanta Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471145" xmltv_id="Sky Sports">Sky Sports</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471075" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471000" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470991" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471026" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470987" xmltv_id="BT Sport/ESPN">BT Sport/ESPN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471085" xmltv_id="Sky Sports News HQ">Sky Sports News HQ</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471054" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471024" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471155" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503212" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470988" xmltv_id="BT Sport/ESPN HD">BT Sport/ESPN HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471096" xmltv_id="At the Races">At the Races</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471035" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471046" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471093" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471126" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471084" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471148" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471113" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471002" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470995" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471027" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471123" xmltv_id="Sky Sports News HQ HD">Sky Sports News HQ HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471055" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471025" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="655614503213" xmltv_id="BT Sport Europe HD">BT Sport Europe HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871231" xmltv_id="BT Sport Extra 1">BT Sport Extra 1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359310" xmltv_id="BT Sport Extra 2">BT Sport Extra 2</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871280" xmltv_id="BT Sport Extra 3">BT Sport Extra 3</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871283" xmltv_id="BT Sport Extra 4">BT Sport Extra 4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968871286" xmltv_id="BT Sport Extra 5">BT Sport Extra 5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="662968359313" xmltv_id="BT Sport Extra 6">BT Sport Extra 6</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470969" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471050" xmltv_id="ID">ID</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470986" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471121" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471076" xmltv_id="Home">Home</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471067" xmltv_id="RTEjr">RTEjr</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470985" xmltv_id="TRTE">TRTE</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471064" xmltv_id="Cula4">Cula4</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471154" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471088" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471097" xmltv_id="Nick Replay">Nick Replay</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471160" xmltv_id="Nick Toons">Nick Toons</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471089" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471142" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471065" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471052" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471068" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471098" xmltv_id="CN+1">CN+1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471110" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471104" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471053" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="677423654951" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471130" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471086" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470990" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471021" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471159" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471018" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471028" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471124" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471022" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471019" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471131" xmltv_id="Smash Hits">Smash Hits</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471141" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471030" xmltv_id="Heat">Heat</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471128" xmltv_id="Kerrang!">Kerrang!</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471029" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471129" xmltv_id="KISS">KISS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471114" xmltv_id="DCTV">DCTV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471072" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471100" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471150" xmltv_id="The God Channel">The God Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698471073" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470978" xmltv_id="Euronews FRA">Euronews FRA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470979" xmltv_id="Euronews DEU">Euronews DEU</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470980" xmltv_id="Euronews ITA">Euronews ITA</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470981" xmltv_id="Euronews ESP">Euronews ESP</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470982" xmltv_id="Euronews RUS">Euronews RUS</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470976" xmltv_id="TVX">TVX</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470968" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470975" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470992" xmltv_id="PPV Channel">PPV Channel</channel>
+    <channel update="i" site="horizon.tv.ie" site_id="639698470996" xmltv_id="PPV Channel 2">PPV Channel 2</channel>
+  </channels>
+</site>

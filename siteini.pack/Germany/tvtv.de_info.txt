@@ -1,0 +1,31 @@
+* This sites has some special channels that are merged together. These are channels that have only small regional differences.
+* Now this siteini, supports this. But you'll need to addjust your config for it.
+
+
+**************************************************************************************************
+*           get the region name
+**************************************************************************************************
+01. go to the site 
+02. go to the channel with regions. (this you can see when there are several shows that start 
+    on the same hour.
+03. below the start hour, you will find a region between brackets (eg. (SACH), (THUE), (BW), (SR), ...)
+04. the value between the bracket, is the region name
+**************************************************************************************************
+*           create custom channels
+**************************************************************************************************
+05. get the channel from the .channels.xml file
+	eg. <channel update="i" site="tvtv.de" site_id="MDR_#region=NOTUSED" xmltv_id="MDR">MDR</channel>
+06. replace the "NOTUSED" part, with your own region
+	eg. <channel update="i" site="tvtv.de" site_id="MDR_#region=SACH" xmltv_id="MDR">MDR</channel>
+**************************************************************************************************
+*           multiple region for the same channel
+**************************************************************************************************
+07. if you want multiple regional channels from the same base channel, don't forget to adjust
+    the xmlt_id (no duplicates must be defined in your .config.xm file)
+	eg.
+       <channel update="i" site="tvtv.de" site_id="MDR_#region=THUE"     xmltv_id="MDR-THUE">MDR-THUE</channel>
+       <channel update="i" site="tvtv.de" site_id="MDR_#region=SA-A"     xmltv_id="MDR-SA-A">MDR-SA-A</channel>
+       <channel update="i" site="tvtv.de" site_id="MDR_#region=SAT"      xmltv_id="MDR-SAT">MDR-SAT</channel>
+	   
+       <channel update="i" site="tvtv.de" site_id="RBB_#region=BERLIN"   xmltv_id="rbb Brandenburg-BERLIN">rbb Brandenburg-BERLIN</channel>
+       <channel update="i" site="tvtv.de" site_id="RBB_#region=BRANDENB" xmltv_id="rbb Brandenburg-BRANDENB">rbb Brandenburg-BRANDENB</channel>

@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.25 -- Jan van Straaten" site="horizon.tv">
+  <channels>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111311" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111313" xmltv_id="M1 HD">M1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111261" xmltv_id="M2/Petőfi">M2/Petőfi</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111262" xmltv_id="M2/Petőfi HD">M2/Petőfi HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111229" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111230" xmltv_id="Duna HD">Duna HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111205" xmltv_id="M4">M4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111206" xmltv_id="M4 HD">M4 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111208" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111317" xmltv_id="M3">M3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111324" xmltv_id="upc info csatorna">upc info csatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111202" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111203" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111213" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111214" xmltv_id="TV2 HD">TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111256" xmltv_id="VIASAT3">VIASAT3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111274" xmltv_id="VIASAT6">VIASAT6</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111319" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111257" xmltv_id="Super TV2">Super TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111263" xmltv_id="Super TV2 HD">Super TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111339" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111251" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111207" xmltv_id="Film+ 2">Film+ 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111244" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111247" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111226" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111259" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111280" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111322" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111264" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111296" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111275" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111281" xmltv_id="STORY4">STORY4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111220" xmltv_id="Story5">Story5</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111282" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111297" xmltv_id="Film Café">Film Café</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111236" xmltv_id="RTL+">RTL+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111266" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111238" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111258" xmltv_id="PRO4">PRO4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111225" xmltv_id="FEM3">FEM3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111298" xmltv_id="LifeNetwork">LifeNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111283" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111245" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111284" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111227" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111231" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111223" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111307" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111314" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111308" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111286" xmltv_id="Echo TV">Echo TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111270" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111272" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111242" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111221" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111210" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111234" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111222" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111246" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111271" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111228" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111211" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111212" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111287" xmltv_id="Sport2">Sport2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111320" xmltv_id="Sport2 HD">Sport2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111239" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111240" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111288" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111316" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111312" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111300" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111301" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111289" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111315" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111291" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111250" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111302" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111232" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111292" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111273" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111233" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111235" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111241" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111269" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111293" xmltv_id="ID Xtra">ID Xtra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111303" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111318" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111299" xmltv_id="OzoneNetwork">OzoneNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111249" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111237" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111350" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111349" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111216" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111267" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111304" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111243" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111290" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111330" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111254" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111294" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111253" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111260" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111265" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111321" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111309" xmltv_id="Minimax/C8">Minimax/C8</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111305" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111268" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111306" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111279" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111204" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111310" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111217" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111295" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111219" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111255" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111340" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111201" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111333" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111334" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111278" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111341" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111332" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111331" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111248" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111347" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111337" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111348" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111277" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111276" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111346" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111345" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111209" xmltv_id="RTR-Planeta">RTR-Planeta</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111336" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111335" xmltv_id="Polonia">Polonia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111342" xmltv_id="RTV SLO 1">RTV SLO 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111218" xmltv_id="HUSTLER TV">HUSTLER TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111338" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111224" xmltv_id="X-MO">X-MO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111215" xmltv_id="D1 TV">D1 TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111252" xmltv_id="Pax Televízió">Pax Televízió</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111285" xmltv_id="FIX TV">FIX TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111344" xmltv_id="hatoscsatorna">hatoscsatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111311" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111313" xmltv_id="M1 HD">M1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111261" xmltv_id="M2/Petőfi">M2/Petőfi</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111262" xmltv_id="M2/Petőfi HD">M2/Petőfi HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111229" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111230" xmltv_id="Duna HD">Duna HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111205" xmltv_id="M4">M4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111206" xmltv_id="M4 HD">M4 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111208" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111317" xmltv_id="M3">M3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111324" xmltv_id="upc info csatorna">upc info csatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111202" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111203" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111213" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111214" xmltv_id="TV2 HD">TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111256" xmltv_id="VIASAT3">VIASAT3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111274" xmltv_id="VIASAT6">VIASAT6</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111319" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111257" xmltv_id="Super TV2">Super TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111263" xmltv_id="Super TV2 HD">Super TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111339" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111251" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111207" xmltv_id="Film+ 2">Film+ 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111244" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111247" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111226" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111259" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111280" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111322" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111264" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111296" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111275" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111281" xmltv_id="STORY4">STORY4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111220" xmltv_id="Story5">Story5</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111282" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111297" xmltv_id="Film Café">Film Café</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111236" xmltv_id="RTL+">RTL+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111266" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111238" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111258" xmltv_id="PRO4">PRO4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111225" xmltv_id="FEM3">FEM3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111298" xmltv_id="LifeNetwork">LifeNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111283" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111245" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111284" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111227" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111231" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111223" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111307" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111314" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111308" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111286" xmltv_id="Echo TV">Echo TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111270" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111272" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111242" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111221" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111210" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111234" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111222" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111246" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111271" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111228" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111211" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111212" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111287" xmltv_id="Sport2">Sport2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111320" xmltv_id="Sport2 HD">Sport2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111239" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111240" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111288" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111316" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111312" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111300" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111301" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111289" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111315" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111291" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111250" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111302" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111232" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111292" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111273" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111233" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111235" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111241" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111269" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111293" xmltv_id="ID Xtra">ID Xtra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111303" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111318" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111299" xmltv_id="OzoneNetwork">OzoneNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111249" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111237" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111350" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111349" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111216" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111267" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111304" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111243" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111290" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111330" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111254" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111294" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111253" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111260" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111265" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111321" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111309" xmltv_id="Minimax/C8">Minimax/C8</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111305" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111268" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111306" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111279" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111204" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111310" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111217" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111295" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111219" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111255" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111340" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111201" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111333" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111334" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111278" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111341" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111332" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111331" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111248" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111347" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111337" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111348" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111277" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111276" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111346" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111345" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111209" xmltv_id="RTR-Planeta">RTR-Planeta</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111336" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111335" xmltv_id="Polonia">Polonia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111342" xmltv_id="RTV SLO 1">RTV SLO 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111218" xmltv_id="HUSTLER TV">HUSTLER TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111338" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111224" xmltv_id="X-MO">X-MO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111215" xmltv_id="D1 TV">D1 TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111252" xmltv_id="Pax Televízió">Pax Televízió</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111285" xmltv_id="FIX TV">FIX TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111344" xmltv_id="hatoscsatorna">hatoscsatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111311" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111313" xmltv_id="M1 HD">M1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111261" xmltv_id="M2/Petőfi">M2/Petőfi</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111262" xmltv_id="M2/Petőfi HD">M2/Petőfi HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111229" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111230" xmltv_id="Duna HD">Duna HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111205" xmltv_id="M4">M4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111206" xmltv_id="M4 HD">M4 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111208" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111317" xmltv_id="M3">M3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111324" xmltv_id="upc info csatorna">upc info csatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111202" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111203" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111213" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111214" xmltv_id="TV2 HD">TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111256" xmltv_id="VIASAT3">VIASAT3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111274" xmltv_id="VIASAT6">VIASAT6</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111319" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111257" xmltv_id="Super TV2">Super TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111263" xmltv_id="Super TV2 HD">Super TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111339" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111251" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111207" xmltv_id="Film+ 2">Film+ 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111244" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111247" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111226" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111259" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111280" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111322" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111264" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111296" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111275" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111281" xmltv_id="STORY4">STORY4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111220" xmltv_id="Story5">Story5</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111282" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111297" xmltv_id="Film Café">Film Café</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111236" xmltv_id="RTL+">RTL+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111266" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111238" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111258" xmltv_id="PRO4">PRO4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111225" xmltv_id="FEM3">FEM3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111298" xmltv_id="LifeNetwork">LifeNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111283" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111245" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111284" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111227" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111231" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111223" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111307" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111314" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111308" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111286" xmltv_id="Echo TV">Echo TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111270" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111272" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111242" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111221" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111210" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111234" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111222" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111246" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111271" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111228" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111211" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111212" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111287" xmltv_id="Sport2">Sport2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111320" xmltv_id="Sport2 HD">Sport2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111239" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111240" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111288" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111316" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111312" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111300" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111301" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111289" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111315" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111291" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111250" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111302" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111232" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111292" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111273" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111233" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111235" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111241" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111269" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111293" xmltv_id="ID Xtra">ID Xtra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111303" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111318" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111299" xmltv_id="OzoneNetwork">OzoneNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111249" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111237" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111350" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111349" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111216" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111267" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111304" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111243" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111290" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111330" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111254" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111294" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111253" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111260" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111265" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111321" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111309" xmltv_id="Minimax/C8">Minimax/C8</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111305" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111268" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111306" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111279" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111204" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111310" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111217" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111295" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111219" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111255" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111340" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111201" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111333" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111334" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111278" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111341" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111332" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111331" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111248" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111347" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111337" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111348" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111277" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111276" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111346" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111345" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111209" xmltv_id="RTR-Planeta">RTR-Planeta</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111336" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111335" xmltv_id="Polonia">Polonia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111342" xmltv_id="RTV SLO 1">RTV SLO 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111218" xmltv_id="HUSTLER TV">HUSTLER TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111338" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111224" xmltv_id="X-MO">X-MO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111215" xmltv_id="D1 TV">D1 TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111252" xmltv_id="Pax Televízió">Pax Televízió</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111285" xmltv_id="FIX TV">FIX TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111344" xmltv_id="hatoscsatorna">hatoscsatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111311" xmltv_id="M1">M1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111313" xmltv_id="M1 HD">M1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111261" xmltv_id="M2/Petőfi">M2/Petőfi</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111262" xmltv_id="M2/Petőfi HD">M2/Petőfi HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111229" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111230" xmltv_id="Duna HD">Duna HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111205" xmltv_id="M4">M4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111206" xmltv_id="M4 HD">M4 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111208" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111317" xmltv_id="M3">M3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111324" xmltv_id="upc info csatorna">upc info csatorna</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111202" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111203" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111213" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111214" xmltv_id="TV2 HD">TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111256" xmltv_id="VIASAT3">VIASAT3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111274" xmltv_id="VIASAT6">VIASAT6</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111319" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111257" xmltv_id="Super TV2">Super TV2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111263" xmltv_id="Super TV2 HD">Super TV2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111339" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111251" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111207" xmltv_id="Film+ 2">Film+ 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111244" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111247" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111226" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111259" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111280" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111322" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111264" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111296" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111275" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111281" xmltv_id="STORY4">STORY4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111220" xmltv_id="Story5">Story5</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111282" xmltv_id="Film Mánia">Film Mánia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111297" xmltv_id="Film Café">Film Café</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111236" xmltv_id="RTL+">RTL+</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111266" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111238" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111258" xmltv_id="PRO4">PRO4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111225" xmltv_id="FEM3">FEM3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111298" xmltv_id="LifeNetwork">LifeNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111283" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111245" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111284" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111227" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111231" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111223" xmltv_id="Galaxy">Galaxy</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111307" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111314" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111308" xmltv_id="Hír TV">Hír TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111286" xmltv_id="Echo TV">Echo TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111270" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111272" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111242" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111221" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111210" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111234" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111222" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111246" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111271" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111228" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111211" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111212" xmltv_id="Sport1 HD">Sport1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111287" xmltv_id="Sport2">Sport2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111320" xmltv_id="Sport2 HD">Sport2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111239" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111240" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111288" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111316" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111312" xmltv_id="SportM">SportM</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111300" xmltv_id="Fishing&amp;Hunting">Fishing&amp;Hunting</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111301" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111289" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111315" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111291" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111250" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111302" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111232" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111292" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111273" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111233" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111235" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111241" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111269" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111293" xmltv_id="ID Xtra">ID Xtra</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111303" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111318" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111299" xmltv_id="OzoneNetwork">OzoneNetwork</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111249" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111237" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111350" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111349" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111216" xmltv_id="DoQ">DoQ</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111267" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111304" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111243" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111290" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111330" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111254" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111294" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111253" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111260" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111265" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111321" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111309" xmltv_id="Minimax/C8">Minimax/C8</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111305" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111268" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111306" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111279" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111204" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111310" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111217" xmltv_id="Sláger TV">Sláger TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111295" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111219" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111255" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111340" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111201" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111333" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111334" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111278" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111341" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111332" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111331" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111248" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111347" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111337" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111348" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111277" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111276" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111346" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111345" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111209" xmltv_id="RTR-Planeta">RTR-Planeta</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111336" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111335" xmltv_id="Polonia">Polonia</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111342" xmltv_id="RTV SLO 1">RTV SLO 1</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111218" xmltv_id="HUSTLER TV">HUSTLER TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111338" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111224" xmltv_id="X-MO">X-MO</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111215" xmltv_id="D1 TV">D1 TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111252" xmltv_id="Pax Televízió">Pax Televízió</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111285" xmltv_id="FIX TV">FIX TV</channel>
+    <channel update="i" site="horizon.tv.hu" site_id="725827111344" xmltv_id="hatoscsatorna">hatoscsatorna</channel>
+  </channels>
+</site>

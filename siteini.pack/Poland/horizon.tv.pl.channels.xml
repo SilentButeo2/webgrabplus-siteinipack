@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="horizon.tv.pl">
+  <channels>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671274" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671328" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671279" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707879052" xmltv_id="TV 4 HD">TV 4 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671277" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383332" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671326" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671294" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671293" xmltv_id="TVN7 HD">TVN7 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599356" xmltv_id="Interaktywna Galeria UPC">Interaktywna Galeria UPC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383335" xmltv_id="Zamów usługi !">Zamów usługi !</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="359274023141" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671355" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671314" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599380" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671300" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671285" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671331" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671342" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671388" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671380" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684683815199" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750992" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671367" xmltv_id="CI Polsat">CI Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671373" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671341" xmltv_id="Tele5 HD">Tele5 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="239101990986" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671284" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671365" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383329" xmltv_id="Interstellar">Interstellar</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599375" xmltv_id="DOMO+ HD">DOMO+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671313" xmltv_id="kuchnia+ HD">kuchnia+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="641553447082" xmltv_id="Polsat Food Network">Polsat Food Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707367370" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031332" xmltv_id="PULS 2 HD">PULS 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383330" xmltv_id="Igrzyska śmierci : Kosogłos cz.1">Igrzyska śmierci : Kosogłos cz.1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671334" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671325" xmltv_id="TV 6">TV 6</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671335" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671359" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831154" xmltv_id="TVP Kraków">TVP Kraków</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831152" xmltv_id="TVP Gdańsk">TVP Gdańsk</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831153" xmltv_id="TVP Katowice">TVP Katowice</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671391" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087164" xmltv_id="TVP Warszawa">TVP Warszawa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671387" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383326" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671382" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599382" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671381" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671323" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671291" xmltv_id="TVN Meteo Active">TVN Meteo Active</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671330" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599374" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671282" xmltv_id="euronews">euronews</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671345" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599387" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671344" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671278" xmltv_id="TVS HD">TVS HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671307" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671377" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671376" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296487094" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671369" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671351" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671352" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671357" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671358" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599383" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599376" xmltv_id="PLANETE+ HD">PLANETE+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750990" xmltv_id="ADVENTURE HD">ADVENTURE HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599378" xmltv_id="Fokus TV HD">Fokus TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671305" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671340" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="681996327122" xmltv_id="Polsat Viasat History">Polsat Viasat History</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671370" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671366" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671299" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="694585895034" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296486985" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383333" xmltv_id="Strefa Filmowa">Strefa Filmowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671319" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599360" xmltv_id="CANAL+ 1(FAMILY2)">CANAL+ 1(FAMILY2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671303" xmltv_id="CANAL+ FILM">CANAL+ FILM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671362" xmltv_id="CANAL+ SERIALE(FILM2)">CANAL+ SERIALE(FILM2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671361" xmltv_id="CANAL+ FAMILY">CANAL+ FAMILY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383342" xmltv_id="PROMOCJA CANAL+ DISCOVERY">PROMOCJA CANAL+ DISCOVERY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671363" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383343" xmltv_id="PROMOCJA CANAL+ SPORT 2">PROMOCJA CANAL+ SPORT 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671333" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599369" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671308" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599359" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599368" xmltv_id="Cinemax2 HD">Cinemax2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599358" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671372" xmltv_id="FilmBox HD">FilmBox HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599381" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671296" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671276" xmltv_id="Filmbox Action">Filmbox Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671275" xmltv_id="Filmbox Arthouse HD">Filmbox Arthouse HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671302" xmltv_id="Kino Polska">Kino Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893095381" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031328" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671336" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671301" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671280" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599361" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295101" xmltv_id="Paramount HD">Paramount HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599377" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671311" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599373" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671304" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383331" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671321" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671364" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599362" xmltv_id="CBS Europa">CBS Europa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671327" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893607130" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671287" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671315" xmltv_id="Stopklatka HD">Stopklatka HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599367" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383328" xmltv_id="Hobbit Bitwa Pięciu Armii">Hobbit Bitwa Pięciu Armii</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383334" xmltv_id="Strefa Sportowa">Strefa Sportowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671316" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599379" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671288" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="664446503052" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986407062" xmltv_id="Eleven HD">Eleven HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986919017" xmltv_id="Eleven Sports HD">Eleven Sports HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671272" xmltv_id="Polsat Sport HD">Polsat Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671286" xmltv_id="Polsat Sport Extra HD">Polsat Sport Extra HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671310" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684684327159" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671290" xmltv_id="Orange Sport">Orange Sport</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599363" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599370" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671289" xmltv_id="SportKlub">SportKlub</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712295975207" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671267" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671283" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087117" xmltv_id="Strefa Dla Dzieci">Strefa Dla Dzieci</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671329" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671338" xmltv_id="JimJam Polsat">JimJam Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031331" xmltv_id="MiniMini HD">MiniMini HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671360" xmltv_id="Baby First TV">Baby First TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295104" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671339" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599364" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671312" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671320" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671332" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671368" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671318" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031333" xmltv_id="teleTOON HD">teleTOON HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383327" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671390" xmltv_id="4fun.tv">4fun.tv</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599365" xmltv_id="4fun Hits">4fun Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671270" xmltv_id="4fun Fit&amp;Dance">4fun Fit&amp;Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677142054999" xmltv_id="Stars TV HD">Stars TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599385" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671309" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671350" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671271" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671273" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671292" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671281" xmltv_id="VIVA Polska">VIVA Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671384" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671371" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671389" xmltv_id="MUZO.TV">MUZO.TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599384" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671378" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="699267111449" xmltv_id="Power TV HD">Power TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671354" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671324" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671269" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599386" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671349" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671347" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671346" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671348" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671268" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599357" xmltv_id="POLONIA 1">POLONIA 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671337" xmltv_id="Edusat">Edusat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="463255079327" xmltv_id="iTV">iTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671386" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671306" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671343" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671274" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671328" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671279" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707879052" xmltv_id="TV 4 HD">TV 4 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671277" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383332" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671326" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671294" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671293" xmltv_id="TVN7 HD">TVN7 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599356" xmltv_id="Interaktywna Galeria UPC">Interaktywna Galeria UPC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383335" xmltv_id="Zamów usługi !">Zamów usługi !</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="359274023141" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671355" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671314" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599380" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671300" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671285" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671331" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671342" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671388" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671380" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684683815199" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750992" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671367" xmltv_id="CI Polsat">CI Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671373" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671341" xmltv_id="Tele5 HD">Tele5 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="239101990986" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671284" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671365" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383329" xmltv_id="Interstellar">Interstellar</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599375" xmltv_id="DOMO+ HD">DOMO+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671313" xmltv_id="kuchnia+ HD">kuchnia+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="641553447082" xmltv_id="Polsat Food Network">Polsat Food Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707367370" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031332" xmltv_id="PULS 2 HD">PULS 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383330" xmltv_id="Igrzyska śmierci : Kosogłos cz.1">Igrzyska śmierci : Kosogłos cz.1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671334" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671325" xmltv_id="TV 6">TV 6</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671335" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671359" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831154" xmltv_id="TVP Kraków">TVP Kraków</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831152" xmltv_id="TVP Gdańsk">TVP Gdańsk</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831153" xmltv_id="TVP Katowice">TVP Katowice</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671391" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087164" xmltv_id="TVP Warszawa">TVP Warszawa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671387" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383326" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671382" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599382" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671381" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671323" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671291" xmltv_id="TVN Meteo Active">TVN Meteo Active</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671330" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599374" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671282" xmltv_id="euronews">euronews</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671345" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599387" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671344" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671278" xmltv_id="TVS HD">TVS HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671307" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671377" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671376" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296487094" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671369" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671351" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671352" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671357" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671358" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599383" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599376" xmltv_id="PLANETE+ HD">PLANETE+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750990" xmltv_id="ADVENTURE HD">ADVENTURE HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599378" xmltv_id="Fokus TV HD">Fokus TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671305" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671340" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="681996327122" xmltv_id="Polsat Viasat History">Polsat Viasat History</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671370" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671366" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671299" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="694585895034" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296486985" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383333" xmltv_id="Strefa Filmowa">Strefa Filmowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671319" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599360" xmltv_id="CANAL+ 1(FAMILY2)">CANAL+ 1(FAMILY2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671303" xmltv_id="CANAL+ FILM">CANAL+ FILM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671362" xmltv_id="CANAL+ SERIALE(FILM2)">CANAL+ SERIALE(FILM2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671361" xmltv_id="CANAL+ FAMILY">CANAL+ FAMILY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383342" xmltv_id="PROMOCJA CANAL+ DISCOVERY">PROMOCJA CANAL+ DISCOVERY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671363" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383343" xmltv_id="PROMOCJA CANAL+ SPORT 2">PROMOCJA CANAL+ SPORT 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671333" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599369" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671308" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599359" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599368" xmltv_id="Cinemax2 HD">Cinemax2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599358" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671372" xmltv_id="FilmBox HD">FilmBox HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599381" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671296" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671276" xmltv_id="Filmbox Action">Filmbox Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671275" xmltv_id="Filmbox Arthouse HD">Filmbox Arthouse HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671302" xmltv_id="Kino Polska">Kino Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893095381" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031328" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671336" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671301" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671280" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599361" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295101" xmltv_id="Paramount HD">Paramount HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599377" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671311" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599373" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671304" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383331" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671321" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671364" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599362" xmltv_id="CBS Europa">CBS Europa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671327" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893607130" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671287" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671315" xmltv_id="Stopklatka HD">Stopklatka HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599367" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383328" xmltv_id="Hobbit Bitwa Pięciu Armii">Hobbit Bitwa Pięciu Armii</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383334" xmltv_id="Strefa Sportowa">Strefa Sportowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671316" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599379" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671288" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="664446503052" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986407062" xmltv_id="Eleven HD">Eleven HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986919017" xmltv_id="Eleven Sports HD">Eleven Sports HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671272" xmltv_id="Polsat Sport HD">Polsat Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671286" xmltv_id="Polsat Sport Extra HD">Polsat Sport Extra HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671310" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684684327159" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671290" xmltv_id="Orange Sport">Orange Sport</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599363" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599370" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671289" xmltv_id="SportKlub">SportKlub</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712295975207" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671267" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671283" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087117" xmltv_id="Strefa Dla Dzieci">Strefa Dla Dzieci</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671329" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671338" xmltv_id="JimJam Polsat">JimJam Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031331" xmltv_id="MiniMini HD">MiniMini HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671360" xmltv_id="Baby First TV">Baby First TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295104" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671339" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599364" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671312" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671320" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671332" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671368" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671318" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031333" xmltv_id="teleTOON HD">teleTOON HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383327" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671390" xmltv_id="4fun.tv">4fun.tv</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599365" xmltv_id="4fun Hits">4fun Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671270" xmltv_id="4fun Fit&amp;Dance">4fun Fit&amp;Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677142054999" xmltv_id="Stars TV HD">Stars TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599385" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671309" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671350" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671271" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671273" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671292" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671281" xmltv_id="VIVA Polska">VIVA Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671384" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671371" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671389" xmltv_id="MUZO.TV">MUZO.TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599384" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671378" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="699267111449" xmltv_id="Power TV HD">Power TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671354" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671324" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671269" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599386" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671349" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671347" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671346" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671348" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671268" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599357" xmltv_id="POLONIA 1">POLONIA 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671337" xmltv_id="Edusat">Edusat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="463255079327" xmltv_id="iTV">iTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671386" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671306" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671343" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671274" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671328" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671279" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707879052" xmltv_id="TV 4 HD">TV 4 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671277" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383332" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671326" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671294" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671293" xmltv_id="TVN7 HD">TVN7 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599356" xmltv_id="Interaktywna Galeria UPC">Interaktywna Galeria UPC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383335" xmltv_id="Zamów usługi !">Zamów usługi !</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="359274023141" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671355" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671314" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599380" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671300" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671285" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671331" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671342" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671388" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671380" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684683815199" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750992" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671367" xmltv_id="CI Polsat">CI Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671373" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671341" xmltv_id="Tele5 HD">Tele5 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="239101990986" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671284" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671365" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383329" xmltv_id="Interstellar">Interstellar</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599375" xmltv_id="DOMO+ HD">DOMO+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671313" xmltv_id="kuchnia+ HD">kuchnia+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="641553447082" xmltv_id="Polsat Food Network">Polsat Food Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707367370" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031332" xmltv_id="PULS 2 HD">PULS 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383330" xmltv_id="Igrzyska śmierci : Kosogłos cz.1">Igrzyska śmierci : Kosogłos cz.1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671334" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671325" xmltv_id="TV 6">TV 6</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671335" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671359" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831154" xmltv_id="TVP Kraków">TVP Kraków</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831152" xmltv_id="TVP Gdańsk">TVP Gdańsk</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831153" xmltv_id="TVP Katowice">TVP Katowice</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671391" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087164" xmltv_id="TVP Warszawa">TVP Warszawa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671387" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383326" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671382" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599382" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671381" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671323" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671291" xmltv_id="TVN Meteo Active">TVN Meteo Active</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671330" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599374" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671282" xmltv_id="euronews">euronews</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671345" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599387" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671344" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671278" xmltv_id="TVS HD">TVS HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671307" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671377" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671376" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296487094" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671369" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671351" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671352" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671357" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671358" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599383" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599376" xmltv_id="PLANETE+ HD">PLANETE+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750990" xmltv_id="ADVENTURE HD">ADVENTURE HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599378" xmltv_id="Fokus TV HD">Fokus TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671305" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671340" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="681996327122" xmltv_id="Polsat Viasat History">Polsat Viasat History</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671370" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671366" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671299" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="694585895034" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296486985" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383333" xmltv_id="Strefa Filmowa">Strefa Filmowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671319" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599360" xmltv_id="CANAL+ 1(FAMILY2)">CANAL+ 1(FAMILY2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671303" xmltv_id="CANAL+ FILM">CANAL+ FILM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671362" xmltv_id="CANAL+ SERIALE(FILM2)">CANAL+ SERIALE(FILM2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671361" xmltv_id="CANAL+ FAMILY">CANAL+ FAMILY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383342" xmltv_id="PROMOCJA CANAL+ DISCOVERY">PROMOCJA CANAL+ DISCOVERY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671363" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383343" xmltv_id="PROMOCJA CANAL+ SPORT 2">PROMOCJA CANAL+ SPORT 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671333" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599369" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671308" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599359" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599368" xmltv_id="Cinemax2 HD">Cinemax2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599358" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671372" xmltv_id="FilmBox HD">FilmBox HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599381" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671296" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671276" xmltv_id="Filmbox Action">Filmbox Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671275" xmltv_id="Filmbox Arthouse HD">Filmbox Arthouse HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671302" xmltv_id="Kino Polska">Kino Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893095381" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031328" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671336" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671301" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671280" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599361" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295101" xmltv_id="Paramount HD">Paramount HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599377" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671311" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599373" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671304" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383331" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671321" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671364" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599362" xmltv_id="CBS Europa">CBS Europa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671327" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893607130" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671287" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671315" xmltv_id="Stopklatka HD">Stopklatka HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599367" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383328" xmltv_id="Hobbit Bitwa Pięciu Armii">Hobbit Bitwa Pięciu Armii</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383334" xmltv_id="Strefa Sportowa">Strefa Sportowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671316" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599379" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671288" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="664446503052" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986407062" xmltv_id="Eleven HD">Eleven HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986919017" xmltv_id="Eleven Sports HD">Eleven Sports HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671272" xmltv_id="Polsat Sport HD">Polsat Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671286" xmltv_id="Polsat Sport Extra HD">Polsat Sport Extra HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671310" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684684327159" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671290" xmltv_id="Orange Sport">Orange Sport</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599363" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599370" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671289" xmltv_id="SportKlub">SportKlub</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712295975207" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671267" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671283" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087117" xmltv_id="Strefa Dla Dzieci">Strefa Dla Dzieci</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671329" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671338" xmltv_id="JimJam Polsat">JimJam Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031331" xmltv_id="MiniMini HD">MiniMini HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671360" xmltv_id="Baby First TV">Baby First TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295104" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671339" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599364" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671312" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671320" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671332" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671368" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671318" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031333" xmltv_id="teleTOON HD">teleTOON HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383327" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671390" xmltv_id="4fun.tv">4fun.tv</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599365" xmltv_id="4fun Hits">4fun Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671270" xmltv_id="4fun Fit&amp;Dance">4fun Fit&amp;Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677142054999" xmltv_id="Stars TV HD">Stars TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599385" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671309" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671350" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671271" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671273" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671292" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671281" xmltv_id="VIVA Polska">VIVA Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671384" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671371" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671389" xmltv_id="MUZO.TV">MUZO.TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599384" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671378" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="699267111449" xmltv_id="Power TV HD">Power TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671354" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671324" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671269" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599386" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671349" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671347" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671346" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671348" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671268" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599357" xmltv_id="POLONIA 1">POLONIA 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671337" xmltv_id="Edusat">Edusat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="463255079327" xmltv_id="iTV">iTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671386" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671306" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671343" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671274" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671328" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671279" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707879052" xmltv_id="TV 4 HD">TV 4 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671277" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383332" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671326" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671294" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671293" xmltv_id="TVN7 HD">TVN7 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599356" xmltv_id="Interaktywna Galeria UPC">Interaktywna Galeria UPC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383335" xmltv_id="Zamów usługi !">Zamów usługi !</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="359274023141" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671355" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671314" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599380" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671300" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671285" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671331" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671342" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671388" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671380" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684683815199" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750992" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671367" xmltv_id="CI Polsat">CI Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671373" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671341" xmltv_id="Tele5 HD">Tele5 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="239101990986" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671284" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671365" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383329" xmltv_id="Interstellar">Interstellar</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599375" xmltv_id="DOMO+ HD">DOMO+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671313" xmltv_id="kuchnia+ HD">kuchnia+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="641553447082" xmltv_id="Polsat Food Network">Polsat Food Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684707367370" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031332" xmltv_id="PULS 2 HD">PULS 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383330" xmltv_id="Igrzyska śmierci : Kosogłos cz.1">Igrzyska śmierci : Kosogłos cz.1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671334" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671325" xmltv_id="TV 6">TV 6</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671335" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671359" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831154" xmltv_id="TVP Kraków">TVP Kraków</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831152" xmltv_id="TVP Gdańsk">TVP Gdańsk</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="355617831153" xmltv_id="TVP Katowice">TVP Katowice</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671391" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087164" xmltv_id="TVP Warszawa">TVP Warszawa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671387" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383326" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671382" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599382" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671381" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671323" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671291" xmltv_id="TVN Meteo Active">TVN Meteo Active</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671330" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599374" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671282" xmltv_id="euronews">euronews</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671345" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599387" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671344" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671278" xmltv_id="TVS HD">TVS HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671307" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671377" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671376" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296487094" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671369" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671351" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671352" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671357" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671358" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599383" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599376" xmltv_id="PLANETE+ HD">PLANETE+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="644979750990" xmltv_id="ADVENTURE HD">ADVENTURE HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599378" xmltv_id="Fokus TV HD">Fokus TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671305" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671340" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="681996327122" xmltv_id="Polsat Viasat History">Polsat Viasat History</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671370" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671366" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671299" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="694585895034" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712296486985" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383333" xmltv_id="Strefa Filmowa">Strefa Filmowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671319" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599360" xmltv_id="CANAL+ 1(FAMILY2)">CANAL+ 1(FAMILY2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671303" xmltv_id="CANAL+ FILM">CANAL+ FILM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671362" xmltv_id="CANAL+ SERIALE(FILM2)">CANAL+ SERIALE(FILM2)</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671361" xmltv_id="CANAL+ FAMILY">CANAL+ FAMILY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383342" xmltv_id="PROMOCJA CANAL+ DISCOVERY">PROMOCJA CANAL+ DISCOVERY</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671363" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383343" xmltv_id="PROMOCJA CANAL+ SPORT 2">PROMOCJA CANAL+ SPORT 2</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671333" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599369" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671308" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599359" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599368" xmltv_id="Cinemax2 HD">Cinemax2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599358" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671372" xmltv_id="FilmBox HD">FilmBox HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599381" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671296" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671276" xmltv_id="Filmbox Action">Filmbox Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671275" xmltv_id="Filmbox Arthouse HD">Filmbox Arthouse HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671302" xmltv_id="Kino Polska">Kino Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893095381" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031328" xmltv_id="AXN Spin HD">AXN Spin HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671336" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671301" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671280" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599361" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295101" xmltv_id="Paramount HD">Paramount HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599377" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671311" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599373" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671304" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383331" xmltv_id="Horizon">Horizon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671321" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671364" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599362" xmltv_id="CBS Europa">CBS Europa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671327" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="678893607130" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671287" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671315" xmltv_id="Stopklatka HD">Stopklatka HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599367" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383328" xmltv_id="Hobbit Bitwa Pięciu Armii">Hobbit Bitwa Pięciu Armii</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383334" xmltv_id="Strefa Sportowa">Strefa Sportowa</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671316" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599379" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671288" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="664446503052" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986407062" xmltv_id="Eleven HD">Eleven HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="700986919017" xmltv_id="Eleven Sports HD">Eleven Sports HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671272" xmltv_id="Polsat Sport HD">Polsat Sport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671286" xmltv_id="Polsat Sport Extra HD">Polsat Sport Extra HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671310" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="684684327159" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671290" xmltv_id="Orange Sport">Orange Sport</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599363" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599370" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671289" xmltv_id="SportKlub">SportKlub</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="712295975207" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671267" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671283" xmltv_id="Motowizja HD">Motowizja HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="337090087117" xmltv_id="Strefa Dla Dzieci">Strefa Dla Dzieci</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671329" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671338" xmltv_id="JimJam Polsat">JimJam Polsat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031331" xmltv_id="MiniMini HD">MiniMini HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671360" xmltv_id="Baby First TV">Baby First TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="663456295104" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671339" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599364" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671312" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671320" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671332" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671368" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671318" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677141031333" xmltv_id="teleTOON HD">teleTOON HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627513383327" xmltv_id="FILMY I SERIALE - MY PRIME">FILMY I SERIALE - MY PRIME</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671390" xmltv_id="4fun.tv">4fun.tv</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599365" xmltv_id="4fun Hits">4fun Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671270" xmltv_id="4fun Fit&amp;Dance">4fun Fit&amp;Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="677142054999" xmltv_id="Stars TV HD">Stars TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599385" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671309" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671350" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671271" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671273" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671292" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671281" xmltv_id="VIVA Polska">VIVA Polska</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671384" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671371" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671389" xmltv_id="MUZO.TV">MUZO.TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599384" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671378" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="699267111449" xmltv_id="Power TV HD">Power TV HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671354" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671324" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671269" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599386" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671349" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671347" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671346" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671348" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671268" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627522599357" xmltv_id="POLONIA 1">POLONIA 1</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671337" xmltv_id="Edusat">Edusat</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="463255079327" xmltv_id="iTV">iTV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671386" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671306" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.pl" site_id="627525671343" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+  </channels>
+</site>

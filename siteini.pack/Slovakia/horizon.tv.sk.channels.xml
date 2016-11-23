@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="horizon.tv.sk">
+  <channels>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383084" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007030" xmltv_id="Dvojka HD">Dvojka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383086" xmltv_id="Markiza HD">Markiza HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895068" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383083" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495251" xmltv_id="JOJ Plus HD">JOJ Plus HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775210" xmltv_id="Slagr TV">Slagr TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287034" xmltv_id="TA3">TA3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383085" xmltv_id="Dajto HD">Dajto HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895069" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775187" xmltv_id="CT 1 HD">CT 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775251" xmltv_id="CT2 HD">CT2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775223" xmltv_id="CT 24">CT 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286997" xmltv_id="CT D / CT Art">CT D / CT Art</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286998" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="699903015194" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775209" xmltv_id="Prima">Prima</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775222" xmltv_id="Prima COOL">Prima COOL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775225" xmltv_id="Prima love">Prima love</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775200" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287041" xmltv_id="Barrandov TV">Barrandov TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495294" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="633239591051" xmltv_id="Barrandov Plus">Barrandov Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495269" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287020" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286992" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287009" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944935234" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263080" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751422" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263081" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751420" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775197" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263082" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287018" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775190" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775229" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286990" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287015" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287054" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495249" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775217" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775195" xmltv_id="Spektrum home">Spektrum home</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775234" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775244" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775245" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263083" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263084" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751418" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775250" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287045" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999388" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287023" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775211" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775201" xmltv_id="ID Discovery">ID Discovery</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007033" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775193" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287002" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286983" xmltv_id="Slovak Sport 1HD">Slovak Sport 1HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944423343" xmltv_id="arena sport 2">arena sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751421" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751419" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495298" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495291" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286987" xmltv_id="Sport 5">Sport 5</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775233" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287043" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495261" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775252" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287016" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287010" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775208" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775218" xmltv_id="ducktv">ducktv</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287027" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775239" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287046" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775199" xmltv_id="Ocko">Ocko</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895070" xmltv_id="SENZI">SENZI</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775256" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007042" xmltv_id="m1">m1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="667880486994" xmltv_id="UPC Expres">UPC Expres</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999389" xmltv_id="STV1">STV1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511217" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511215" xmltv_id="Markiza">Markiza</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999391" xmltv_id="TV JOJ">TV JOJ</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="663459879202" xmltv_id="JOJ Plus">JOJ Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007052" xmltv_id="Dajto">Dajto</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495254" xmltv_id="Doma HD">Doma HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007043" xmltv_id="TV LUX">TV LUX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007049" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775259" xmltv_id="CT1">CT1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775258" xmltv_id="CT 2">CT 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191008" xmltv_id="Barrandov Muzika">Barrandov Muzika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679196" xmltv_id="Noe TV">Noe TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="617552423421" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679200" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495250" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775203" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287025" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775236" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775186" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287048" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007044" xmltv_id="Fightbox HD">Fightbox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007048" xmltv_id="Fast and Fun HD">Fast and Fun HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007031" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495259" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287005" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="711857703422" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775214" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287024" xmltv_id="History">History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495245" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679199" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495248" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287042" xmltv_id="arena sport 1">arena sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495263" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191011" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775182" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286984" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495266" xmltv_id="Spartak TV">Spartak TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495268" xmltv_id="ducktv HD">ducktv HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191007" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007045" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191009" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679192" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191010" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191002" xmltv_id="VH 1 Classic">VH 1 Classic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191005" xmltv_id="FUN 1">FUN 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191004" xmltv_id="C Music">C Music</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679198" xmltv_id="Slusnej kanal">Slusnej kanal</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191003" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679197" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679193" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679195" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191006" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679194" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495253" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679191" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287026" xmltv_id="Perviy kanal Europa">Perviy kanal Europa</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775253" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287052" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007041" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775191" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007032" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495247" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007029" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495256" xmltv_id="HirTV">HirTV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495265" xmltv_id="m2">m2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495267" xmltv_id="Magyar ATV">Magyar ATV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007054" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007051" xmltv_id="Sport M">Sport M</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495260" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495257" xmltv_id="Viasat 3">Viasat 3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007034" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495264" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495258" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495262" xmltv_id="RTL 2 (HUN)">RTL 2 (HUN)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007040" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495246" xmltv_id="N24">N24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495252" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495255" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495270" xmltv_id="RTL 2 (GER)">RTL 2 (GER)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007050" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007039" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007035" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007046" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007036" xmltv_id="Story 4">Story 4</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007037" xmltv_id="TVA">TVA</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007053" xmltv_id="TV Region">TV Region</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383084" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007030" xmltv_id="Dvojka HD">Dvojka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383086" xmltv_id="Markiza HD">Markiza HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895068" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383083" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495251" xmltv_id="JOJ Plus HD">JOJ Plus HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775210" xmltv_id="Slagr TV">Slagr TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287034" xmltv_id="TA3">TA3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383085" xmltv_id="Dajto HD">Dajto HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895069" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775187" xmltv_id="CT 1 HD">CT 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775251" xmltv_id="CT2 HD">CT2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775223" xmltv_id="CT 24">CT 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286997" xmltv_id="CT D / CT Art">CT D / CT Art</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286998" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="699903015194" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775209" xmltv_id="Prima">Prima</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775222" xmltv_id="Prima COOL">Prima COOL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775225" xmltv_id="Prima love">Prima love</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775200" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287041" xmltv_id="Barrandov TV">Barrandov TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495294" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="633239591051" xmltv_id="Barrandov Plus">Barrandov Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495269" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287020" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286992" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287009" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944935234" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263080" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751422" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263081" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751420" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775197" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263082" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287018" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775190" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775229" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286990" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287015" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287054" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495249" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775217" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775195" xmltv_id="Spektrum home">Spektrum home</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775234" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775244" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775245" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263083" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263084" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751418" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775250" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287045" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999388" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287023" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775211" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775201" xmltv_id="ID Discovery">ID Discovery</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007033" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775193" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287002" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286983" xmltv_id="Slovak Sport 1HD">Slovak Sport 1HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944423343" xmltv_id="arena sport 2">arena sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751421" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751419" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495298" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495291" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286987" xmltv_id="Sport 5">Sport 5</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775233" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287043" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495261" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775252" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287016" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287010" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775208" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775218" xmltv_id="ducktv">ducktv</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287027" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775239" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287046" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775199" xmltv_id="Ocko">Ocko</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895070" xmltv_id="SENZI">SENZI</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775256" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007042" xmltv_id="m1">m1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="667880486994" xmltv_id="UPC Expres">UPC Expres</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999389" xmltv_id="STV1">STV1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511217" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511215" xmltv_id="Markiza">Markiza</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999391" xmltv_id="TV JOJ">TV JOJ</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="663459879202" xmltv_id="JOJ Plus">JOJ Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007052" xmltv_id="Dajto">Dajto</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495254" xmltv_id="Doma HD">Doma HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007043" xmltv_id="TV LUX">TV LUX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007049" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775259" xmltv_id="CT1">CT1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775258" xmltv_id="CT 2">CT 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191008" xmltv_id="Barrandov Muzika">Barrandov Muzika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679196" xmltv_id="Noe TV">Noe TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="617552423421" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679200" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495250" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775203" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287025" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775236" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775186" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287048" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007044" xmltv_id="Fightbox HD">Fightbox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007048" xmltv_id="Fast and Fun HD">Fast and Fun HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007031" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495259" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287005" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="711857703422" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775214" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287024" xmltv_id="History">History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495245" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679199" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495248" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287042" xmltv_id="arena sport 1">arena sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495263" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191011" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775182" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286984" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495266" xmltv_id="Spartak TV">Spartak TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495268" xmltv_id="ducktv HD">ducktv HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191007" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007045" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191009" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679192" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191010" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191002" xmltv_id="VH 1 Classic">VH 1 Classic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191005" xmltv_id="FUN 1">FUN 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191004" xmltv_id="C Music">C Music</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679198" xmltv_id="Slusnej kanal">Slusnej kanal</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191003" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679197" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679193" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679195" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191006" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679194" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495253" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679191" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287026" xmltv_id="Perviy kanal Europa">Perviy kanal Europa</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775253" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287052" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007041" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775191" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007032" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495247" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007029" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495256" xmltv_id="HirTV">HirTV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495265" xmltv_id="m2">m2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495267" xmltv_id="Magyar ATV">Magyar ATV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007054" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007051" xmltv_id="Sport M">Sport M</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495260" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495257" xmltv_id="Viasat 3">Viasat 3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007034" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495264" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495258" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495262" xmltv_id="RTL 2 (HUN)">RTL 2 (HUN)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007040" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495246" xmltv_id="N24">N24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495252" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495255" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495270" xmltv_id="RTL 2 (GER)">RTL 2 (GER)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007050" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007039" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007035" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007046" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007036" xmltv_id="Story 4">Story 4</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007037" xmltv_id="TVA">TVA</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007053" xmltv_id="TV Region">TV Region</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383084" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007030" xmltv_id="Dvojka HD">Dvojka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383086" xmltv_id="Markiza HD">Markiza HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895068" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383083" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495251" xmltv_id="JOJ Plus HD">JOJ Plus HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775210" xmltv_id="Slagr TV">Slagr TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287034" xmltv_id="TA3">TA3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383085" xmltv_id="Dajto HD">Dajto HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895069" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775187" xmltv_id="CT 1 HD">CT 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775251" xmltv_id="CT2 HD">CT2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775223" xmltv_id="CT 24">CT 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286997" xmltv_id="CT D / CT Art">CT D / CT Art</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286998" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="699903015194" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775209" xmltv_id="Prima">Prima</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775222" xmltv_id="Prima COOL">Prima COOL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775225" xmltv_id="Prima love">Prima love</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775200" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287041" xmltv_id="Barrandov TV">Barrandov TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495294" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="633239591051" xmltv_id="Barrandov Plus">Barrandov Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495269" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287020" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286992" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287009" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944935234" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263080" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751422" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263081" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751420" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775197" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263082" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287018" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775190" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775229" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286990" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287015" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287054" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495249" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775217" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775195" xmltv_id="Spektrum home">Spektrum home</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775234" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775244" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775245" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263083" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263084" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751418" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775250" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287045" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999388" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287023" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775211" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775201" xmltv_id="ID Discovery">ID Discovery</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007033" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775193" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287002" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286983" xmltv_id="Slovak Sport 1HD">Slovak Sport 1HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944423343" xmltv_id="arena sport 2">arena sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751421" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751419" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495298" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495291" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286987" xmltv_id="Sport 5">Sport 5</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775233" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287043" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495261" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775252" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287016" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287010" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775208" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775218" xmltv_id="ducktv">ducktv</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287027" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775239" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287046" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775199" xmltv_id="Ocko">Ocko</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895070" xmltv_id="SENZI">SENZI</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775256" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007042" xmltv_id="m1">m1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="667880486994" xmltv_id="UPC Expres">UPC Expres</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999389" xmltv_id="STV1">STV1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511217" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511215" xmltv_id="Markiza">Markiza</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999391" xmltv_id="TV JOJ">TV JOJ</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="663459879202" xmltv_id="JOJ Plus">JOJ Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007052" xmltv_id="Dajto">Dajto</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495254" xmltv_id="Doma HD">Doma HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007043" xmltv_id="TV LUX">TV LUX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007049" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775259" xmltv_id="CT1">CT1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775258" xmltv_id="CT 2">CT 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191008" xmltv_id="Barrandov Muzika">Barrandov Muzika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679196" xmltv_id="Noe TV">Noe TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="617552423421" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679200" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495250" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775203" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287025" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775236" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775186" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287048" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007044" xmltv_id="Fightbox HD">Fightbox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007048" xmltv_id="Fast and Fun HD">Fast and Fun HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007031" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495259" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287005" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="711857703422" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775214" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287024" xmltv_id="History">History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495245" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679199" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495248" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287042" xmltv_id="arena sport 1">arena sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495263" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191011" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775182" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286984" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495266" xmltv_id="Spartak TV">Spartak TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495268" xmltv_id="ducktv HD">ducktv HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191007" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007045" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191009" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679192" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191010" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191002" xmltv_id="VH 1 Classic">VH 1 Classic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191005" xmltv_id="FUN 1">FUN 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191004" xmltv_id="C Music">C Music</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679198" xmltv_id="Slusnej kanal">Slusnej kanal</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191003" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679197" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679193" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679195" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191006" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679194" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495253" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679191" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287026" xmltv_id="Perviy kanal Europa">Perviy kanal Europa</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775253" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287052" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007041" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775191" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007032" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495247" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007029" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495256" xmltv_id="HirTV">HirTV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495265" xmltv_id="m2">m2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495267" xmltv_id="Magyar ATV">Magyar ATV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007054" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007051" xmltv_id="Sport M">Sport M</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495260" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495257" xmltv_id="Viasat 3">Viasat 3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007034" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495264" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495258" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495262" xmltv_id="RTL 2 (HUN)">RTL 2 (HUN)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007040" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495246" xmltv_id="N24">N24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495252" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495255" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495270" xmltv_id="RTL 2 (GER)">RTL 2 (GER)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007050" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007039" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007035" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007046" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007036" xmltv_id="Story 4">Story 4</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007037" xmltv_id="TVA">TVA</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007053" xmltv_id="TV Region">TV Region</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383084" xmltv_id="Jednotka HD">Jednotka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007030" xmltv_id="Dvojka HD">Dvojka HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383086" xmltv_id="Markiza HD">Markiza HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895068" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383083" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495251" xmltv_id="JOJ Plus HD">JOJ Plus HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775210" xmltv_id="Slagr TV">Slagr TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287034" xmltv_id="TA3">TA3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969383085" xmltv_id="Dajto HD">Dajto HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895069" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775187" xmltv_id="CT 1 HD">CT 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775251" xmltv_id="CT2 HD">CT2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775223" xmltv_id="CT 24">CT 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286997" xmltv_id="CT D / CT Art">CT D / CT Art</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286998" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="699903015194" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775209" xmltv_id="Prima">Prima</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775222" xmltv_id="Prima COOL">Prima COOL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775225" xmltv_id="Prima love">Prima love</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775200" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287041" xmltv_id="Barrandov TV">Barrandov TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495294" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="633239591051" xmltv_id="Barrandov Plus">Barrandov Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495269" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287020" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286992" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287009" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944935234" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263080" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751422" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263081" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751420" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775197" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263082" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287018" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775190" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775229" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286990" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287015" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287054" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495249" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775217" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775195" xmltv_id="Spektrum home">Spektrum home</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775234" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775244" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775245" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263083" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693236263084" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751418" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775250" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287045" xmltv_id="History Channel HD">History Channel HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999388" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287023" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775211" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775201" xmltv_id="ID Discovery">ID Discovery</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007033" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775193" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287002" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286983" xmltv_id="Slovak Sport 1HD">Slovak Sport 1HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="604944423343" xmltv_id="arena sport 2">arena sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751421" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="693235751419" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495298" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="624787495291" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286987" xmltv_id="Sport 5">Sport 5</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775233" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287043" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495261" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775252" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287016" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287010" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775208" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775218" xmltv_id="ducktv">ducktv</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287027" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775239" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287046" xmltv_id="VH 1">VH 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775199" xmltv_id="Ocko">Ocko</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="662969895070" xmltv_id="SENZI">SENZI</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775256" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007042" xmltv_id="m1">m1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="667880486994" xmltv_id="UPC Expres">UPC Expres</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999389" xmltv_id="STV1">STV1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511217" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614761511215" xmltv_id="Markiza">Markiza</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="614760999391" xmltv_id="TV JOJ">TV JOJ</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="663459879202" xmltv_id="JOJ Plus">JOJ Plus</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007052" xmltv_id="Dajto">Dajto</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495254" xmltv_id="Doma HD">Doma HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007043" xmltv_id="TV LUX">TV LUX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007049" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775259" xmltv_id="CT1">CT1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775258" xmltv_id="CT 2">CT 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191008" xmltv_id="Barrandov Muzika">Barrandov Muzika</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679196" xmltv_id="Noe TV">Noe TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="617552423421" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679200" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495250" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775203" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287025" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775236" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775186" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287048" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007044" xmltv_id="Fightbox HD">Fightbox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007048" xmltv_id="Fast and Fun HD">Fast and Fun HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007031" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495259" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287005" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="711857703422" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775214" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287024" xmltv_id="History">History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495245" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679199" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495248" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287042" xmltv_id="arena sport 1">arena sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495263" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191011" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775182" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677286984" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495266" xmltv_id="Spartak TV">Spartak TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495268" xmltv_id="ducktv HD">ducktv HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191007" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007045" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191009" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679192" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191010" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191002" xmltv_id="VH 1 Classic">VH 1 Classic</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191005" xmltv_id="FUN 1">FUN 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191004" xmltv_id="C Music">C Music</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679198" xmltv_id="Slusnej kanal">Slusnej kanal</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191003" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679197" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679193" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679195" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712113191006" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679194" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495253" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="712112679191" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287026" xmltv_id="Perviy kanal Europa">Perviy kanal Europa</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775253" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546677287052" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007041" xmltv_id="EroXXX HD">EroXXX HD</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="546676775191" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007032" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495247" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007029" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495256" xmltv_id="HirTV">HirTV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495265" xmltv_id="m2">m2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495267" xmltv_id="Magyar ATV">Magyar ATV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007054" xmltv_id="RTL Klub">RTL Klub</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007051" xmltv_id="Sport M">Sport M</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495260" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495257" xmltv_id="Viasat 3">Viasat 3</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007034" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495264" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495258" xmltv_id="Slager TV">Slager TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495262" xmltv_id="RTL 2 (HUN)">RTL 2 (HUN)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007040" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495246" xmltv_id="N24">N24</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495252" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495255" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710739495270" xmltv_id="RTL 2 (GER)">RTL 2 (GER)</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007050" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007039" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007035" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007046" xmltv_id="Cool TV">Cool TV</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007036" xmltv_id="Story 4">Story 4</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007037" xmltv_id="TVA">TVA</channel>
+    <channel update="i" site="horizon.tv.sk" site_id="710740007053" xmltv_id="TV Region">TV Region</channel>
+  </channels>
+</site>

@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.27 -- Jan van Straaten" site="tatasky.com">
+  <channels>
+    <channel update="i" site="tatasky.com" site_id="104" xmltv_id="DD National">DD National</channel>
+    <channel update="i" site="tatasky.com" site_id="105" xmltv_id="STAR PLUS HD">STAR PLUS HD</channel>
+    <channel update="i" site="tatasky.com" site_id="106" xmltv_id="STAR PLUS">STAR PLUS</channel>
+    <channel update="i" site="tatasky.com" site_id="107" xmltv_id="Life OK HD">Life OK HD</channel>
+    <channel update="i" site="tatasky.com" site_id="108" xmltv_id="Life OK">Life OK</channel>
+    <channel update="i" site="tatasky.com" site_id="109" xmltv_id="Channel V">Channel V</channel>
+    <channel update="i" site="tatasky.com" site_id="111" xmltv_id="SONY HD">SONY HD</channel>
+    <channel update="i" site="tatasky.com" site_id="112" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="tatasky.com" site_id="113" xmltv_id="SONY SAB">SONY SAB</channel>
+    <channel update="i" site="tatasky.com" site_id="115" xmltv_id="&amp;tv HD">&amp;tv HD</channel>
+    <channel update="i" site="tatasky.com" site_id="116" xmltv_id="&amp;tv">&amp;tv</channel>
+    <channel update="i" site="tatasky.com" site_id="117" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel update="i" site="tatasky.com" site_id="118" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="tatasky.com" site_id="119" xmltv_id="Colors HD">Colors HD</channel>
+    <channel update="i" site="tatasky.com" site_id="120" xmltv_id="Colors">Colors</channel>
+    <channel update="i" site="tatasky.com" site_id="121" xmltv_id="Bindass">Bindass</channel>
+    <channel update="i" site="tatasky.com" site_id="125" xmltv_id="STAR Utsav">STAR Utsav</channel>
+    <channel update="i" site="tatasky.com" site_id="127" xmltv_id="Zee Anmol">Zee Anmol</channel>
+    <channel update="i" site="tatasky.com" site_id="129" xmltv_id="Rishtey">Rishtey</channel>
+    <channel update="i" site="tatasky.com" site_id="131" xmltv_id="Sony Pal">Sony Pal</channel>
+    <channel update="i" site="tatasky.com" site_id="133" xmltv_id="EPIC HD">EPIC HD</channel>
+    <channel update="i" site="tatasky.com" site_id="134" xmltv_id="EPIC">EPIC</channel>
+    <channel update="i" site="tatasky.com" site_id="135" xmltv_id="ID">ID</channel>
+    <channel update="i" site="tatasky.com" site_id="137" xmltv_id="Zindagi">Zindagi</channel>
+    <channel update="i" site="tatasky.com" site_id="138" xmltv_id="Big Magic">Big Magic</channel>
+    <channel update="i" site="tatasky.com" site_id="139" xmltv_id="Sahara ONE">Sahara ONE</channel>
+    <channel update="i" site="tatasky.com" site_id="140" xmltv_id="DD India">DD India</channel>
+    <channel update="i" site="tatasky.com" site_id="201" xmltv_id="STAR World HD">STAR World HD</channel>
+    <channel update="i" site="tatasky.com" site_id="202" xmltv_id="STAR World">STAR World</channel>
+    <channel update="i" site="tatasky.com" site_id="203" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="tatasky.com" site_id="204" xmltv_id="FX">FX</channel>
+    <channel update="i" site="tatasky.com" site_id="205" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="tatasky.com" site_id="206" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="tatasky.com" site_id="207" xmltv_id="Zee Cafe HD">Zee Cafe HD</channel>
+    <channel update="i" site="tatasky.com" site_id="208" xmltv_id="ZCafe">ZCafe</channel>
+    <channel update="i" site="tatasky.com" site_id="209" xmltv_id="Colors Infinity HD">Colors Infinity HD</channel>
+    <channel update="i" site="tatasky.com" site_id="210" xmltv_id="Colors Infinity">Colors Infinity</channel>
+    <channel update="i" site="tatasky.com" site_id="211" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="tatasky.com" site_id="212" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tatasky.com" site_id="213" xmltv_id="StarPremiere HD">StarPremiere HD</channel>
+    <channel update="i" site="tatasky.com" site_id="298" xmltv_id="Miniplex HD">Miniplex HD</channel>
+    <channel update="i" site="tatasky.com" site_id="299" xmltv_id="Miniplex">Miniplex</channel>
+    <channel update="i" site="tatasky.com" site_id="301" xmltv_id="STAR GOLD HD">STAR GOLD HD</channel>
+    <channel update="i" site="tatasky.com" site_id="302" xmltv_id="STAR GOLD">STAR GOLD</channel>
+    <channel update="i" site="tatasky.com" site_id="303" xmltv_id="SONY MAX HD">SONY MAX HD</channel>
+    <channel update="i" site="tatasky.com" site_id="304" xmltv_id="SONY MAX">SONY MAX</channel>
+    <channel update="i" site="tatasky.com" site_id="305" xmltv_id="Movies OK">Movies OK</channel>
+    <channel update="i" site="tatasky.com" site_id="307" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
+    <channel update="i" site="tatasky.com" site_id="308" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="tatasky.com" site_id="309" xmltv_id="UTV Movies">UTV Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="311" xmltv_id="UTV Action">UTV Action</channel>
+    <channel update="i" site="tatasky.com" site_id="313" xmltv_id="Zee Classic">Zee Classic</channel>
+    <channel update="i" site="tatasky.com" site_id="315" xmltv_id="FILMY">FILMY</channel>
+    <channel update="i" site="tatasky.com" site_id="317" xmltv_id="&amp;pictures HD">&amp;pictures HD</channel>
+    <channel update="i" site="tatasky.com" site_id="318" xmltv_id="&amp;pictures">&amp;pictures</channel>
+    <channel update="i" site="tatasky.com" site_id="319" xmltv_id="Zee Action">Zee Action</channel>
+    <channel update="i" site="tatasky.com" site_id="322" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="324" xmltv_id="SONY MAX 2">SONY MAX 2</channel>
+    <channel update="i" site="tatasky.com" site_id="326" xmltv_id="R Vision">R Vision</channel>
+    <channel update="i" site="tatasky.com" site_id="327" xmltv_id="Cinema TV">Cinema TV</channel>
+    <channel update="i" site="tatasky.com" site_id="328" xmltv_id="WoW Cinema">WoW Cinema</channel>
+    <channel update="i" site="tatasky.com" site_id="329" xmltv_id="Enterr10">Enterr10</channel>
+    <channel update="i" site="tatasky.com" site_id="341" xmltv_id="STAR Movies HD">STAR Movies HD</channel>
+    <channel update="i" site="tatasky.com" site_id="342" xmltv_id="STAR Movies">STAR Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="343" xmltv_id="PIX HD">PIX HD</channel>
+    <channel update="i" site="tatasky.com" site_id="344" xmltv_id="SONY PIX">SONY PIX</channel>
+    <channel update="i" site="tatasky.com" site_id="345" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tatasky.com" site_id="347" xmltv_id="Zee Studio HD">Zee Studio HD</channel>
+    <channel update="i" site="tatasky.com" site_id="348" xmltv_id="Zee Studio">Zee Studio</channel>
+    <channel update="i" site="tatasky.com" site_id="349" xmltv_id="WB">WB</channel>
+    <channel update="i" site="tatasky.com" site_id="351" xmltv_id="STAR Movies Select HD">STAR Movies Select HD</channel>
+    <channel update="i" site="tatasky.com" site_id="352" xmltv_id="STAR Movies Action">STAR Movies Action</channel>
+    <channel update="i" site="tatasky.com" site_id="353" xmltv_id="Movies Now HD">Movies Now HD</channel>
+    <channel update="i" site="tatasky.com" site_id="354" xmltv_id="Movies Now">Movies Now</channel>
+    <channel update="i" site="tatasky.com" site_id="355" xmltv_id="MN+ HD">MN+ HD</channel>
+    <channel update="i" site="tatasky.com" site_id="357" xmltv_id="Romedy Now HD">Romedy Now HD</channel>
+    <channel update="i" site="tatasky.com" site_id="358" xmltv_id="Romedy Now">Romedy Now</channel>
+    <channel update="i" site="tatasky.com" site_id="360" xmltv_id="HBO Hits HD">HBO Hits HD</channel>
+    <channel update="i" site="tatasky.com" site_id="383" xmltv_id="Movies Now 2">Movies Now 2</channel>
+    <channel update="i" site="tatasky.com" site_id="401" xmltv_id="DD Sports">DD Sports</channel>
+    <channel update="i" site="tatasky.com" site_id="403" xmltv_id="STAR Sports HD 1">STAR Sports HD 1</channel>
+    <channel update="i" site="tatasky.com" site_id="404" xmltv_id="STAR Sports 1">STAR Sports 1</channel>
+    <channel update="i" site="tatasky.com" site_id="405" xmltv_id="STAR Sports HD 2">STAR Sports HD 2</channel>
+    <channel update="i" site="tatasky.com" site_id="406" xmltv_id="STAR Sports 2">STAR Sports 2</channel>
+    <channel update="i" site="tatasky.com" site_id="407" xmltv_id="STAR Sports HD 3">STAR Sports HD 3</channel>
+    <channel update="i" site="tatasky.com" site_id="408" xmltv_id="STAR Sports 3">STAR Sports 3</channel>
+    <channel update="i" site="tatasky.com" site_id="409" xmltv_id="STAR Sports HD 4">STAR Sports HD 4</channel>
+    <channel update="i" site="tatasky.com" site_id="410" xmltv_id="STAR Sports 4">STAR Sports 4</channel>
+    <channel update="i" site="tatasky.com" site_id="411" xmltv_id="Ten 1 HD">Ten 1 HD</channel>
+    <channel update="i" site="tatasky.com" site_id="412" xmltv_id="Ten 1">Ten 1</channel>
+    <channel update="i" site="tatasky.com" site_id="413" xmltv_id="Ten 2">Ten 2</channel>
+    <channel update="i" site="tatasky.com" site_id="415" xmltv_id="Ten 3">Ten 3</channel>
+    <channel update="i" site="tatasky.com" site_id="417" xmltv_id="Ten Golf HD">Ten Golf HD</channel>
+    <channel update="i" site="tatasky.com" site_id="419" xmltv_id="SONY SIX HD">SONY SIX HD</channel>
+    <channel update="i" site="tatasky.com" site_id="420" xmltv_id="SONY SIX">SONY SIX</channel>
+    <channel update="i" site="tatasky.com" site_id="421" xmltv_id="SONY ESPN HD">SONY ESPN HD</channel>
+    <channel update="i" site="tatasky.com" site_id="422" xmltv_id="SONY ESPN">SONY ESPN</channel>
+    <channel update="i" site="tatasky.com" site_id="424" xmltv_id="Neo Sports">Neo Sports</channel>
+    <channel update="i" site="tatasky.com" site_id="425" xmltv_id="Neo Prime">Neo Prime</channel>
+    <channel update="i" site="tatasky.com" site_id="502" xmltv_id="DD News">DD News</channel>
+    <channel update="i" site="tatasky.com" site_id="503" xmltv_id="ABP News">ABP News</channel>
+    <channel update="i" site="tatasky.com" site_id="505" xmltv_id="NDTV India">NDTV India</channel>
+    <channel update="i" site="tatasky.com" site_id="508" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel update="i" site="tatasky.com" site_id="510" xmltv_id="Zee News">Zee News</channel>
+    <channel update="i" site="tatasky.com" site_id="512" xmltv_id="India TV">India TV</channel>
+    <channel update="i" site="tatasky.com" site_id="513" xmltv_id="News 24">News 24</channel>
+    <channel update="i" site="tatasky.com" site_id="515" xmltv_id="IBN7">IBN7</channel>
+    <channel update="i" site="tatasky.com" site_id="517" xmltv_id="India News">India News</channel>
+    <channel update="i" site="tatasky.com" site_id="518" xmltv_id="News Nation">News Nation</channel>
+    <channel update="i" site="tatasky.com" site_id="519" xmltv_id="News World India">News World India</channel>
+    <channel update="i" site="tatasky.com" site_id="521" xmltv_id="India 24x7">India 24x7</channel>
+    <channel update="i" site="tatasky.com" site_id="522" xmltv_id="India News Haryana">India News Haryana</channel>
+    <channel update="i" site="tatasky.com" site_id="524" xmltv_id="Samachar Plus">Samachar Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="525" xmltv_id="Sudarshan News">Sudarshan News</channel>
+    <channel update="i" site="tatasky.com" site_id="526" xmltv_id="Kashish News">Kashish News</channel>
+    <channel update="i" site="tatasky.com" site_id="527" xmltv_id="LTV">LTV</channel>
+    <channel update="i" site="tatasky.com" site_id="528" xmltv_id="Sadhna Plus">Sadhna Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="530" xmltv_id="APN">APN</channel>
+    <channel update="i" site="tatasky.com" site_id="532" xmltv_id="ETV News Haryana HP">ETV News Haryana HP</channel>
+    <channel update="i" site="tatasky.com" site_id="533" xmltv_id="Sadhna Prime News">Sadhna Prime News</channel>
+    <channel update="i" site="tatasky.com" site_id="534" xmltv_id="MH One News">MH One News</channel>
+    <channel update="i" site="tatasky.com" site_id="536" xmltv_id="India News UP UK">India News UP UK</channel>
+    <channel update="i" site="tatasky.com" site_id="538" xmltv_id="News State UP UK">News State UP UK</channel>
+    <channel update="i" site="tatasky.com" site_id="539" xmltv_id="India News MP CH">India News MP CH</channel>
+    <channel update="i" site="tatasky.com" site_id="541" xmltv_id="India News Rajasthan">India News Rajasthan</channel>
+    <channel update="i" site="tatasky.com" site_id="542" xmltv_id="National Voice UP UK">National Voice UP UK</channel>
+    <channel update="i" site="tatasky.com" site_id="578" xmltv_id="Zee Business">Zee Business</channel>
+    <channel update="i" site="tatasky.com" site_id="579" xmltv_id="CNBCAwaaz">CNBCAwaaz</channel>
+    <channel update="i" site="tatasky.com" site_id="598" xmltv_id="Lok Sabha TV">Lok Sabha TV</channel>
+    <channel update="i" site="tatasky.com" site_id="599" xmltv_id="Rajya Sabha">Rajya Sabha</channel>
+    <channel update="i" site="tatasky.com" site_id="604" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel update="i" site="tatasky.com" site_id="606" xmltv_id="TIMES NOW">TIMES NOW</channel>
+    <channel update="i" site="tatasky.com" site_id="609" xmltv_id="INDIA TODAY">INDIA TODAY</channel>
+    <channel update="i" site="tatasky.com" site_id="611" xmltv_id="CNN News 18">CNN News 18</channel>
+    <channel update="i" site="tatasky.com" site_id="612" xmltv_id="NewsX HD">NewsX HD</channel>
+    <channel update="i" site="tatasky.com" site_id="613" xmltv_id="NewsX">NewsX</channel>
+    <channel update="i" site="tatasky.com" site_id="614" xmltv_id="NDTV Profit">NDTV Profit</channel>
+    <channel update="i" site="tatasky.com" site_id="616" xmltv_id="CNBC TV18 Prime HD">CNBC TV18 Prime HD</channel>
+    <channel update="i" site="tatasky.com" site_id="617" xmltv_id="CNBC TV18">CNBC TV18</channel>
+    <channel update="i" site="tatasky.com" site_id="618" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="tatasky.com" site_id="620" xmltv_id="ET NOW">ET NOW</channel>
+    <channel update="i" site="tatasky.com" site_id="621" xmltv_id="magicbricks NOW">magicbricks NOW</channel>
+    <channel update="i" site="tatasky.com" site_id="622" xmltv_id="News 9">News 9</channel>
+    <channel update="i" site="tatasky.com" site_id="630" xmltv_id="CNN Intl">CNN Intl</channel>
+    <channel update="i" site="tatasky.com" site_id="633" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel update="i" site="tatasky.com" site_id="634" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="tatasky.com" site_id="635" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
+    <channel update="i" site="tatasky.com" site_id="636" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tatasky.com" site_id="637" xmltv_id="TV5Monde Asie">TV5Monde Asie</channel>
+    <channel update="i" site="tatasky.com" site_id="638" xmltv_id="DW">DW</channel>
+    <channel update="i" site="tatasky.com" site_id="639" xmltv_id="Australia Plus">Australia Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="640" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="tatasky.com" site_id="641" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="tatasky.com" site_id="651" xmltv_id="Kids Showcase HD">Kids Showcase HD</channel>
+    <channel update="i" site="tatasky.com" site_id="652" xmltv_id="Kids Showcase">Kids Showcase</channel>
+    <channel update="i" site="tatasky.com" site_id="655" xmltv_id="Hungama">Hungama</channel>
+    <channel update="i" site="tatasky.com" site_id="657" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tatasky.com" site_id="659" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="tatasky.com" site_id="662" xmltv_id="Nick HD+">Nick HD+</channel>
+    <channel update="i" site="tatasky.com" site_id="663" xmltv_id="Nick">Nick</channel>
+    <channel update="i" site="tatasky.com" site_id="666" xmltv_id="CartoonNetwork">CartoonNetwork</channel>
+    <channel update="i" site="tatasky.com" site_id="670" xmltv_id="Pogo">Pogo</channel>
+    <channel update="i" site="tatasky.com" site_id="672" xmltv_id="Discovery Kids">Discovery Kids</channel>
+    <channel update="i" site="tatasky.com" site_id="674" xmltv_id="Sonic Nickelodeon">Sonic Nickelodeon</channel>
+    <channel update="i" site="tatasky.com" site_id="676" xmltv_id="Baby TV HD">Baby TV HD</channel>
+    <channel update="i" site="tatasky.com" site_id="677" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tatasky.com" site_id="680" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="tatasky.com" site_id="681" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tatasky.com" site_id="683" xmltv_id="Zee Q">Zee Q</channel>
+    <channel update="i" site="tatasky.com" site_id="685" xmltv_id="Toonami">Toonami</channel>
+    <channel update="i" site="tatasky.com" site_id="686" xmltv_id="Animax">Animax</channel>
+    <channel update="i" site="tatasky.com" site_id="687" xmltv_id="Da Vinci Learning HD">Da Vinci Learning HD</channel>
+    <channel update="i" site="tatasky.com" site_id="708" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel update="i" site="tatasky.com" site_id="709" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tatasky.com" site_id="711" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="tatasky.com" site_id="712" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tatasky.com" site_id="713" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="tatasky.com" site_id="714" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="tatasky.com" site_id="716" xmltv_id="AnimalPlanet HD">AnimalPlanet HD</channel>
+    <channel update="i" site="tatasky.com" site_id="717" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tatasky.com" site_id="719" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tatasky.com" site_id="720" xmltv_id="History TV18 HD">History TV18 HD</channel>
+    <channel update="i" site="tatasky.com" site_id="721" xmltv_id="History TV18">History TV18</channel>
+    <channel update="i" site="tatasky.com" site_id="722" xmltv_id="Topper">Topper</channel>
+    <channel update="i" site="tatasky.com" site_id="723" xmltv_id="DD Kisan">DD Kisan</channel>
+    <channel update="i" site="tatasky.com" site_id="753" xmltv_id="FOX Life HD">FOX Life HD</channel>
+    <channel update="i" site="tatasky.com" site_id="754" xmltv_id="FOX life">FOX life</channel>
+    <channel update="i" site="tatasky.com" site_id="756" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="tatasky.com" site_id="757" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="tatasky.com" site_id="759" xmltv_id="TLC HD WORLD">TLC HD WORLD</channel>
+    <channel update="i" site="tatasky.com" site_id="760" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tatasky.com" site_id="762" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
+    <channel update="i" site="tatasky.com" site_id="764" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="tatasky.com" site_id="765" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel update="i" site="tatasky.com" site_id="766" xmltv_id="Travelxp">Travelxp</channel>
+    <channel update="i" site="tatasky.com" site_id="768" xmltv_id="Food Food">Food Food</channel>
+    <channel update="i" site="tatasky.com" site_id="769" xmltv_id="Living Foodz">Living Foodz</channel>
+    <channel update="i" site="tatasky.com" site_id="807" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tatasky.com" site_id="809" xmltv_id="9XM">9XM</channel>
+    <channel update="i" site="tatasky.com" site_id="811" xmltv_id="Zoom">Zoom</channel>
+    <channel update="i" site="tatasky.com" site_id="813" xmltv_id="E24">E24</channel>
+    <channel update="i" site="tatasky.com" site_id="814" xmltv_id="BINDASS PLAY">BINDASS PLAY</channel>
+    <channel update="i" site="tatasky.com" site_id="816" xmltv_id="SONY MIX">SONY MIX</channel>
+    <channel update="i" site="tatasky.com" site_id="818" xmltv_id="M Tunes HD">M Tunes HD</channel>
+    <channel update="i" site="tatasky.com" site_id="819" xmltv_id="M Tunes">M Tunes</channel>
+    <channel update="i" site="tatasky.com" site_id="820" xmltv_id="MTV Indies HD">MTV Indies HD</channel>
+    <channel update="i" site="tatasky.com" site_id="821" xmltv_id="MTV Indies">MTV Indies</channel>
+    <channel update="i" site="tatasky.com" site_id="822" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="tatasky.com" site_id="824" xmltv_id="Z ETC Bollywood">Z ETC Bollywood</channel>
+    <channel update="i" site="tatasky.com" site_id="825" xmltv_id="Mastiii">Mastiii</channel>
+    <channel update="i" site="tatasky.com" site_id="826" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="tatasky.com" site_id="828" xmltv_id="Insync">Insync</channel>
+    <channel update="i" site="tatasky.com" site_id="829" xmltv_id="Music India">Music India</channel>
+    <channel update="i" site="tatasky.com" site_id="830" xmltv_id="9X Jalwa">9X Jalwa</channel>
+    <channel update="i" site="tatasky.com" site_id="855" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel update="i" site="tatasky.com" site_id="856" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tatasky.com" site_id="857" xmltv_id="9XO">9XO</channel>
+    <channel update="i" site="tatasky.com" site_id="858" xmltv_id="Nat Geo Music HD">Nat Geo Music HD</channel>
+    <channel update="i" site="tatasky.com" site_id="859" xmltv_id="Nat Geo Music">Nat Geo Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1005" xmltv_id="Shop CJ">Shop CJ</channel>
+    <channel update="i" site="tatasky.com" site_id="1007" xmltv_id="Home Shop 18">Home Shop 18</channel>
+    <channel update="i" site="tatasky.com" site_id="1008" xmltv_id="Best Deal TV">Best Deal TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1009" xmltv_id="HBN">HBN</channel>
+    <channel update="i" site="tatasky.com" site_id="1011" xmltv_id="Travel Trendz TV">Travel Trendz TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1013" xmltv_id="Naaptol HD">Naaptol HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1014" xmltv_id="Naaptol Blue">Naaptol Blue</channel>
+    <channel update="i" site="tatasky.com" site_id="1055" xmltv_id="Aastha">Aastha</channel>
+    <channel update="i" site="tatasky.com" site_id="1057" xmltv_id="Sanskar">Sanskar</channel>
+    <channel update="i" site="tatasky.com" site_id="1058" xmltv_id="Disha TV">Disha TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1059" xmltv_id="Paras TV">Paras TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1061" xmltv_id="MH One Shraddha">MH One Shraddha</channel>
+    <channel update="i" site="tatasky.com" site_id="1062" xmltv_id="Adhyatm TV">Adhyatm TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1063" xmltv_id="Sadhana TV">Sadhana TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1065" xmltv_id="Peace of Mind">Peace of Mind</channel>
+    <channel update="i" site="tatasky.com" site_id="1066" xmltv_id="Jinvani">Jinvani</channel>
+    <channel update="i" site="tatasky.com" site_id="1067" xmltv_id="Arihant">Arihant</channel>
+    <channel update="i" site="tatasky.com" site_id="1068" xmltv_id="Ishwar TV">Ishwar TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1070" xmltv_id="Ahsas TV">Ahsas TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1071" xmltv_id="Sarvadharam Sangam">Sarvadharam Sangam</channel>
+    <channel update="i" site="tatasky.com" site_id="1072" xmltv_id="Soham">Soham</channel>
+    <channel update="i" site="tatasky.com" site_id="1073" xmltv_id="Satsang">Satsang</channel>
+    <channel update="i" site="tatasky.com" site_id="1104" xmltv_id="ETV UP">ETV UP</channel>
+    <channel update="i" site="tatasky.com" site_id="1105" xmltv_id="ETV Bihar">ETV Bihar</channel>
+    <channel update="i" site="tatasky.com" site_id="1107" xmltv_id="Anjan TV">Anjan TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1108" xmltv_id="Dangal">Dangal</channel>
+    <channel update="i" site="tatasky.com" site_id="1110" xmltv_id="Dabangg TV">Dabangg TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1111" xmltv_id="Sangeet Bhojpuri">Sangeet Bhojpuri</channel>
+    <channel update="i" site="tatasky.com" site_id="1113" xmltv_id="Mahuaa TV">Mahuaa TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1114" xmltv_id="Oscar Movies Bhojpuri">Oscar Movies Bhojpuri</channel>
+    <channel update="i" site="tatasky.com" site_id="1131" xmltv_id="ETV Rajasthan">ETV Rajasthan</channel>
+    <channel update="i" site="tatasky.com" site_id="1132" xmltv_id="Z Rajasthan News">Z Rajasthan News</channel>
+    <channel update="i" site="tatasky.com" site_id="1150" xmltv_id="ETV MP">ETV MP</channel>
+    <channel update="i" site="tatasky.com" site_id="1152" xmltv_id="IBC 24">IBC 24</channel>
+    <channel update="i" site="tatasky.com" site_id="1154" xmltv_id="ZEE MP CG">ZEE MP CG</channel>
+    <channel update="i" site="tatasky.com" site_id="1173" xmltv_id="ETV Urdu">ETV Urdu</channel>
+    <channel update="i" site="tatasky.com" site_id="1175" xmltv_id="Zee Salaam">Zee Salaam</channel>
+    <channel update="i" site="tatasky.com" site_id="1176" xmltv_id="Channel WIN">Channel WIN</channel>
+    <channel update="i" site="tatasky.com" site_id="1177" xmltv_id="Munsif TV">Munsif TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1194" xmltv_id="DD Bharati">DD Bharati</channel>
+    <channel update="i" site="tatasky.com" site_id="1195" xmltv_id="DD Uttar Pradesh">DD Uttar Pradesh</channel>
+    <channel update="i" site="tatasky.com" site_id="1196" xmltv_id="DD Bihar">DD Bihar</channel>
+    <channel update="i" site="tatasky.com" site_id="1197" xmltv_id="DD MadhyaPradesh">DD MadhyaPradesh</channel>
+    <channel update="i" site="tatasky.com" site_id="1198" xmltv_id="DD Rajasthan">DD Rajasthan</channel>
+    <channel update="i" site="tatasky.com" site_id="1199" xmltv_id="DD Urdu">DD Urdu</channel>
+    <channel update="i" site="tatasky.com" site_id="1203" xmltv_id="Colors Marathi HD">Colors Marathi HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1204" xmltv_id="Colors Marathi">Colors Marathi</channel>
+    <channel update="i" site="tatasky.com" site_id="1208" xmltv_id="Zee Marathi">Zee Marathi</channel>
+    <channel update="i" site="tatasky.com" site_id="1209" xmltv_id="Star Pravah HD">Star Pravah HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1210" xmltv_id="STAR Pravah">STAR Pravah</channel>
+    <channel update="i" site="tatasky.com" site_id="1213" xmltv_id="ABP Majha">ABP Majha</channel>
+    <channel update="i" site="tatasky.com" site_id="1214" xmltv_id="IBN Lokmat">IBN Lokmat</channel>
+    <channel update="i" site="tatasky.com" site_id="1215" xmltv_id="Zee 24 Taas">Zee 24 Taas</channel>
+    <channel update="i" site="tatasky.com" site_id="1218" xmltv_id="Zee Talkies">Zee Talkies</channel>
+    <channel update="i" site="tatasky.com" site_id="1219" xmltv_id="Saam TV">Saam TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1220" xmltv_id="9X Jhakaas">9X Jhakaas</channel>
+    <channel update="i" site="tatasky.com" site_id="1222" xmltv_id="Jai Maharashtra">Jai Maharashtra</channel>
+    <channel update="i" site="tatasky.com" site_id="1223" xmltv_id="Maiboli">Maiboli</channel>
+    <channel update="i" site="tatasky.com" site_id="1224" xmltv_id="Maharashtra 1">Maharashtra 1</channel>
+    <channel update="i" site="tatasky.com" site_id="1226" xmltv_id="TV9 Marathi">TV9 Marathi</channel>
+    <channel update="i" site="tatasky.com" site_id="1228" xmltv_id="Sangeet Marathi">Sangeet Marathi</channel>
+    <channel update="i" site="tatasky.com" site_id="1229" xmltv_id="Naaptol Marathi Ishwar">Naaptol Marathi Ishwar</channel>
+    <channel update="i" site="tatasky.com" site_id="1230" xmltv_id="Fakt Marathi">Fakt Marathi</channel>
+    <channel update="i" site="tatasky.com" site_id="1298" xmltv_id="MI MARATHI">MI MARATHI</channel>
+    <channel update="i" site="tatasky.com" site_id="1299" xmltv_id="DD Sahyadri">DD Sahyadri</channel>
+    <channel update="i" site="tatasky.com" site_id="1303" xmltv_id="ABP Ananda">ABP Ananda</channel>
+    <channel update="i" site="tatasky.com" site_id="1304" xmltv_id="Colors Bangla HD">Colors Bangla HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1305" xmltv_id="Colors Bangla">Colors Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1308" xmltv_id="Zee Bangla">Zee Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1311" xmltv_id="Star Jalsha HD">Star Jalsha HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1312" xmltv_id="STAR JALSHA">STAR JALSHA</channel>
+    <channel update="i" site="tatasky.com" site_id="1314" xmltv_id="Aakash Aath">Aakash Aath</channel>
+    <channel update="i" site="tatasky.com" site_id="1315" xmltv_id="24 Ghante">24 Ghante</channel>
+    <channel update="i" site="tatasky.com" site_id="1317" xmltv_id="SONY AATH">SONY AATH</channel>
+    <channel update="i" site="tatasky.com" site_id="1319" xmltv_id="Jalsha Movies HD">Jalsha Movies HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1320" xmltv_id="Jalsha Movies">Jalsha Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="1321" xmltv_id="Sangeet Bangla">Sangeet Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1323" xmltv_id="Z Bangla Cinema">Z Bangla Cinema</channel>
+    <channel update="i" site="tatasky.com" site_id="1324" xmltv_id="Kolkata TV">Kolkata TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1325" xmltv_id="ETV News Bangla">ETV News Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1326" xmltv_id="Rupashi Bangla">Rupashi Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1327" xmltv_id="News Time Bangla">News Time Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1330" xmltv_id="Music Fatafati">Music Fatafati</channel>
+    <channel update="i" site="tatasky.com" site_id="1331" xmltv_id="Dhoom Music">Dhoom Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1333" xmltv_id="Naaptol Bangla">Naaptol Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1334" xmltv_id="CTVN">CTVN</channel>
+    <channel update="i" site="tatasky.com" site_id="1335" xmltv_id="Calcutta News">Calcutta News</channel>
+    <channel update="i" site="tatasky.com" site_id="1399" xmltv_id="DD Bangla">DD Bangla</channel>
+    <channel update="i" site="tatasky.com" site_id="1404" xmltv_id="Gemini Movies">Gemini Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="1406" xmltv_id="Sakshi TV">Sakshi TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1410" xmltv_id="Zee Telugu">Zee Telugu</channel>
+    <channel update="i" site="tatasky.com" site_id="1411" xmltv_id="Gemini TV HD">Gemini TV HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1412" xmltv_id="Gemini TV">Gemini TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1414" xmltv_id="Gemini Comedy">Gemini Comedy</channel>
+    <channel update="i" site="tatasky.com" site_id="1415" xmltv_id="Gemini Music">Gemini Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1417" xmltv_id="ETV Telugu">ETV Telugu</channel>
+    <channel update="i" site="tatasky.com" site_id="1419" xmltv_id="ETV Andhrapradesh">ETV Andhrapradesh</channel>
+    <channel update="i" site="tatasky.com" site_id="1423" xmltv_id="MAA TV">MAA TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1425" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="tatasky.com" site_id="1427" xmltv_id="TV9">TV9</channel>
+    <channel update="i" site="tatasky.com" site_id="1428" xmltv_id="NTV News">NTV News</channel>
+    <channel update="i" site="tatasky.com" site_id="1430" xmltv_id="MAA Movies">MAA Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="1431" xmltv_id="Maa Music">Maa Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1432" xmltv_id="ABN Andhrajyothy">ABN Andhrajyothy</channel>
+    <channel update="i" site="tatasky.com" site_id="1433" xmltv_id="T News">T News</channel>
+    <channel update="i" site="tatasky.com" site_id="1435" xmltv_id="MAA Gold">MAA Gold</channel>
+    <channel update="i" site="tatasky.com" site_id="1436" xmltv_id="V6 Telugu">V6 Telugu</channel>
+    <channel update="i" site="tatasky.com" site_id="1437" xmltv_id="Gemini Life">Gemini Life</channel>
+    <channel update="i" site="tatasky.com" site_id="1439" xmltv_id="SVBC">SVBC</channel>
+    <channel update="i" site="tatasky.com" site_id="1440" xmltv_id="Bhakti TV">Bhakti TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1441" xmltv_id="Shubhavaarta TV">Shubhavaarta TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1443" xmltv_id="ETV Telengana">ETV Telengana</channel>
+    <channel update="i" site="tatasky.com" site_id="1444" xmltv_id="HM TV">HM TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1445" xmltv_id="Gemini News">Gemini News</channel>
+    <channel update="i" site="tatasky.com" site_id="1446" xmltv_id="Kushi TV">Kushi TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1447" xmltv_id="ETV Cinema">ETV Cinema</channel>
+    <channel update="i" site="tatasky.com" site_id="1449" xmltv_id="ETV Plus">ETV Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="1450" xmltv_id="ETV Life">ETV Life</channel>
+    <channel update="i" site="tatasky.com" site_id="1451" xmltv_id="ETV Abhiruchi">ETV Abhiruchi</channel>
+    <channel update="i" site="tatasky.com" site_id="1452" xmltv_id="Cine 21">Cine 21</channel>
+    <channel update="i" site="tatasky.com" site_id="1498" xmltv_id="DD Saptagiri">DD Saptagiri</channel>
+    <channel update="i" site="tatasky.com" site_id="1499" xmltv_id="DD Yadagiri">DD Yadagiri</channel>
+    <channel update="i" site="tatasky.com" site_id="1503" xmltv_id="Sun TV HD">Sun TV HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1504" xmltv_id="Sun">Sun</channel>
+    <channel update="i" site="tatasky.com" site_id="1507" xmltv_id="KTV HD">KTV HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1508" xmltv_id="KTV">KTV</channel>
+    <channel update="i" site="tatasky.com" site_id="1510" xmltv_id="Sun News">Sun News</channel>
+    <channel update="i" site="tatasky.com" site_id="1511" xmltv_id="Sun Music HD">Sun Music HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1512" xmltv_id="SUN Music">SUN Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1514" xmltv_id="Chutti TV">Chutti TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1517" xmltv_id="Vijay HD">Vijay HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1518" xmltv_id="Vijay">Vijay</channel>
+    <channel update="i" site="tatasky.com" site_id="1520" xmltv_id="Jaya">Jaya</channel>
+    <channel update="i" site="tatasky.com" site_id="1522" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1524" xmltv_id="Raj TV">Raj TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1525" xmltv_id="Isai Aruvi">Isai Aruvi</channel>
+    <channel update="i" site="tatasky.com" site_id="1527" xmltv_id="Adithya TV">Adithya TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1529" xmltv_id="Puthiya Thalaimurai">Puthiya Thalaimurai</channel>
+    <channel update="i" site="tatasky.com" site_id="1530" xmltv_id="Vasanth TV">Vasanth TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1531" xmltv_id="Murasu TV">Murasu TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1533" xmltv_id="Jaya Max">Jaya Max</channel>
+    <channel update="i" site="tatasky.com" site_id="1534" xmltv_id="Sirippoli">Sirippoli</channel>
+    <channel update="i" site="tatasky.com" site_id="1536" xmltv_id="Polimer TV">Polimer TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1537" xmltv_id="Thanthi TV">Thanthi TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1538" xmltv_id="Makkal TV">Makkal TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1540" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel update="i" site="tatasky.com" site_id="1541" xmltv_id="Jaya Plus">Jaya Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="1542" xmltv_id="Discovery Tamil">Discovery Tamil</channel>
+    <channel update="i" site="tatasky.com" site_id="1543" xmltv_id="J Movies">J Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="1545" xmltv_id="Sun Life">Sun Life</channel>
+    <channel update="i" site="tatasky.com" site_id="1546" xmltv_id="Vendhar TV">Vendhar TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1547" xmltv_id="News 7 Tamil">News 7 Tamil</channel>
+    <channel update="i" site="tatasky.com" site_id="1548" xmltv_id="Mega TV">Mega TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1549" xmltv_id="Polimer News">Polimer News</channel>
+    <channel update="i" site="tatasky.com" site_id="1551" xmltv_id="Captain TV">Captain TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1552" xmltv_id="Seithigal">Seithigal</channel>
+    <channel update="i" site="tatasky.com" site_id="1553" xmltv_id="Raj Digital Plus">Raj Digital Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="1554" xmltv_id="Raj Musix">Raj Musix</channel>
+    <channel update="i" site="tatasky.com" site_id="1556" xmltv_id="Raj News Tamil">Raj News Tamil</channel>
+    <channel update="i" site="tatasky.com" site_id="1557" xmltv_id="Madha TV">Madha TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1558" xmltv_id="Angel TV">Angel TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1559" xmltv_id="Aseervatham TV">Aseervatham TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1560" xmltv_id="Sathiyam TV">Sathiyam TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1561" xmltv_id="News18 Tamil Nadu">News18 Tamil Nadu</channel>
+    <channel update="i" site="tatasky.com" site_id="1599" xmltv_id="DD Podhigai">DD Podhigai</channel>
+    <channel update="i" site="tatasky.com" site_id="1604" xmltv_id="Udaya TV">Udaya TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1606" xmltv_id="Udaya Movies">Udaya Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="1609" xmltv_id="Colors Kannada HD">Colors Kannada HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1610" xmltv_id="Colors Kannada">Colors Kannada</channel>
+    <channel update="i" site="tatasky.com" site_id="1612" xmltv_id="TV9 Kannada">TV9 Kannada</channel>
+    <channel update="i" site="tatasky.com" site_id="1614" xmltv_id="Udaya Music">Udaya Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1615" xmltv_id="Udaya News">Udaya News</channel>
+    <channel update="i" site="tatasky.com" site_id="1617" xmltv_id="Suvarna">Suvarna</channel>
+    <channel update="i" site="tatasky.com" site_id="1621" xmltv_id="Zee Kannada">Zee Kannada</channel>
+    <channel update="i" site="tatasky.com" site_id="1623" xmltv_id="Kasthuri">Kasthuri</channel>
+    <channel update="i" site="tatasky.com" site_id="1625" xmltv_id="Suvarna News 24x7">Suvarna News 24x7</channel>
+    <channel update="i" site="tatasky.com" site_id="1627" xmltv_id="Udaya Comedy">Udaya Comedy</channel>
+    <channel update="i" site="tatasky.com" site_id="1628" xmltv_id="Public TV">Public TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1630" xmltv_id="Suvarna Plus">Suvarna Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="1631" xmltv_id="ETV News Kannada">ETV News Kannada</channel>
+    <channel update="i" site="tatasky.com" site_id="1632" xmltv_id="Chintu TV">Chintu TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1634" xmltv_id="News B TV">News B TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1635" xmltv_id="Naaptol Kannada Khushi">Naaptol Kannada Khushi</channel>
+    <channel update="i" site="tatasky.com" site_id="1636" xmltv_id="Raj Musix Kannada">Raj Musix Kannada</channel>
+    <channel update="i" site="tatasky.com" site_id="1637" xmltv_id="Sri Sankara TV">Sri Sankara TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1639" xmltv_id="Public Music">Public Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1640" xmltv_id="Raj News Kannada">Raj News Kannada</channel>
+    <channel update="i" site="tatasky.com" site_id="1699" xmltv_id="DD Chandana">DD Chandana</channel>
+    <channel update="i" site="tatasky.com" site_id="1704" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
+    <channel update="i" site="tatasky.com" site_id="1708" xmltv_id="TV9 Gujarati">TV9 Gujarati</channel>
+    <channel update="i" site="tatasky.com" site_id="1710" xmltv_id="GSTV">GSTV</channel>
+    <channel update="i" site="tatasky.com" site_id="1711" xmltv_id="Sandesh News">Sandesh News</channel>
+    <channel update="i" site="tatasky.com" site_id="1713" xmltv_id="CNBC Bajar">CNBC Bajar</channel>
+    <channel update="i" site="tatasky.com" site_id="1715" xmltv_id="ETV News Gujarati">ETV News Gujarati</channel>
+    <channel update="i" site="tatasky.com" site_id="1749" xmltv_id="DD Girnar">DD Girnar</channel>
+    <channel update="i" site="tatasky.com" site_id="1754" xmltv_id="Colors Oriya">Colors Oriya</channel>
+    <channel update="i" site="tatasky.com" site_id="1757" xmltv_id="Tarang TV">Tarang TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1758" xmltv_id="News World Odisha">News World Odisha</channel>
+    <channel update="i" site="tatasky.com" site_id="1759" xmltv_id="Tarang Music">Tarang Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1761" xmltv_id="OTV">OTV</channel>
+    <channel update="i" site="tatasky.com" site_id="1765" xmltv_id="Sarthak TV">Sarthak TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1766" xmltv_id="Prarthana TV">Prarthana TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1768" xmltv_id="Zee Kalinga News">Zee Kalinga News</channel>
+    <channel update="i" site="tatasky.com" site_id="1769" xmltv_id="MBC TV">MBC TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1770" xmltv_id="Kanak News">Kanak News</channel>
+    <channel update="i" site="tatasky.com" site_id="1772" xmltv_id="Kalinga TV">Kalinga TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1773" xmltv_id="Prameya News 7">Prameya News 7</channel>
+    <channel update="i" site="tatasky.com" site_id="1774" xmltv_id="ETV News Odia">ETV News Odia</channel>
+    <channel update="i" site="tatasky.com" site_id="1799" xmltv_id="DD Odia">DD Odia</channel>
+    <channel update="i" site="tatasky.com" site_id="1804" xmltv_id="Surya TV">Surya TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1806" xmltv_id="Kiran TV">Kiran TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1809" xmltv_id="Asianet HD">Asianet HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1810" xmltv_id="Asianet">Asianet</channel>
+    <channel update="i" site="tatasky.com" site_id="1811" xmltv_id="Asianet news">Asianet news</channel>
+    <channel update="i" site="tatasky.com" site_id="1812" xmltv_id="Asianet Plus">Asianet Plus</channel>
+    <channel update="i" site="tatasky.com" site_id="1815" xmltv_id="Asianet Movies">Asianet Movies</channel>
+    <channel update="i" site="tatasky.com" site_id="1817" xmltv_id="Amrita TV">Amrita TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1819" xmltv_id="Mazhavil Manorama HD">Mazhavil Manorama HD</channel>
+    <channel update="i" site="tatasky.com" site_id="1820" xmltv_id="Mazhavil Manorama">Mazhavil Manorama</channel>
+    <channel update="i" site="tatasky.com" site_id="1821" xmltv_id="People">People</channel>
+    <channel update="i" site="tatasky.com" site_id="1823" xmltv_id="Kairali TV">Kairali TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1825" xmltv_id="Kochu TV">Kochu TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1827" xmltv_id="Manorama News">Manorama News</channel>
+    <channel update="i" site="tatasky.com" site_id="1829" xmltv_id="Kappa TV">Kappa TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1830" xmltv_id="Jaihind TV">Jaihind TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1831" xmltv_id="Reporter TV">Reporter TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1833" xmltv_id="Jeevan TV">Jeevan TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1834" xmltv_id="Mathrubhumi News">Mathrubhumi News</channel>
+    <channel update="i" site="tatasky.com" site_id="1836" xmltv_id="Surya Music">Surya Music</channel>
+    <channel update="i" site="tatasky.com" site_id="1837" xmltv_id="Flowers">Flowers</channel>
+    <channel update="i" site="tatasky.com" site_id="1838" xmltv_id="Safari TV">Safari TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1839" xmltv_id="Goodness TV">Goodness TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1840" xmltv_id="Media One">Media One</channel>
+    <channel update="i" site="tatasky.com" site_id="1842" xmltv_id="Janam TV">Janam TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1843" xmltv_id="God TV">God TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1844" xmltv_id="Shalom TV">Shalom TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1845" xmltv_id="Kaumudy TV">Kaumudy TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1848" xmltv_id="News18 Kerala">News18 Kerala</channel>
+    <channel update="i" site="tatasky.com" site_id="1899" xmltv_id="DD Malayalam">DD Malayalam</channel>
+    <channel update="i" site="tatasky.com" site_id="1904" xmltv_id="MH One">MH One</channel>
+    <channel update="i" site="tatasky.com" site_id="1905" xmltv_id="Z PUNJAB HR HP">Z PUNJAB HR HP</channel>
+    <channel update="i" site="tatasky.com" site_id="1906" xmltv_id="PTC News">PTC News</channel>
+    <channel update="i" site="tatasky.com" site_id="1910" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+    <channel update="i" site="tatasky.com" site_id="1911" xmltv_id="PTC Chakde">PTC Chakde</channel>
+    <channel update="i" site="tatasky.com" site_id="1915" xmltv_id="9X Tashan">9X Tashan</channel>
+    <channel update="i" site="tatasky.com" site_id="1916" xmltv_id="Chardikla Time TV">Chardikla Time TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1949" xmltv_id="DD Punjabi">DD Punjabi</channel>
+    <channel update="i" site="tatasky.com" site_id="1953" xmltv_id="DY 365">DY 365</channel>
+    <channel update="i" site="tatasky.com" site_id="1955" xmltv_id="NEWS LIVE">NEWS LIVE</channel>
+    <channel update="i" site="tatasky.com" site_id="1956" xmltv_id="NEPAL1">NEPAL1</channel>
+    <channel update="i" site="tatasky.com" site_id="1960" xmltv_id="Rang TV">Rang TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1961" xmltv_id="Jonack TV">Jonack TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1962" xmltv_id="News18 Assam NE">News18 Assam NE</channel>
+    <channel update="i" site="tatasky.com" site_id="1964" xmltv_id="Ramdhenu TV">Ramdhenu TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1965" xmltv_id="Pratidin Time">Pratidin Time</channel>
+    <channel update="i" site="tatasky.com" site_id="1966" xmltv_id="Prag">Prag</channel>
+    <channel update="i" site="tatasky.com" site_id="1968" xmltv_id="Assam Talks">Assam Talks</channel>
+    <channel update="i" site="tatasky.com" site_id="1970" xmltv_id="Rengoni TV">Rengoni TV</channel>
+    <channel update="i" site="tatasky.com" site_id="1998" xmltv_id="DD NE">DD NE</channel>
+    <channel update="i" site="tatasky.com" site_id="1999" xmltv_id="DD Kashir">DD Kashir</channel>
+  </channels>
+</site>

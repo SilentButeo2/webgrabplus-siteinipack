@@ -1,0 +1,434 @@
+* How to adapt foxtel.com.au.ini for your region/bouquet/subbouquet/...
+* Steps to do (only needed for people who need an other region then Melbourne!)
+* People of Melbourne can use the default foxtel.com.au.ini and default foxtel.com.au.channel.xml
+
+**************************************************************************************************
+*           Adjust your region configuration
+**************************************************************************************************
+01. Select the required region from the list at the end of this document in SECTION A.
+02. Open foxtel.com.au.ini in a simple text editor, e.g. notepad or notepad++
+03. In foxtel.com.au.ini, locate the lines:
+			*  ###############################
+			*  Region configuration start
+			*  ###############################
+			* a list of possible values can be found in foxtel.com.au_info.txt (example here is Melbourne VIC)
+			* don't forget to adjust the "timezone=" above to the correct setting!
+			index_temp_1.modify {addstart|12352}		* RegionId
+			index_temp_2.modify {addstart|7}			* StateId
+			index_temp_3.modify {addstart|VIC}			* StateCode
+			index_temp_4.modify {addstart|25184}		* BouquetId
+			index_temp_5.modify {addstart|26}			* SubBouquetId
+			*  ###############################
+			*  Region configuration end
+			*  ###############################
+04. Change the values after each addstart|, with the correct value for your region
+05. Find your timezone at the end of this document in SECTION B.
+06. In foxtel.com.au.ini, locate the part:
+			|timezone=Australia/Melbourne|
+07. Change the timezone with your (if different) zone name
+
+**************************************************************************************************
+*           Generate your own foxtel.com.au.channel.xml file
+**************************************************************************************************
+08. Remove the FIRST * in all the lines between @auto_xml_channel_start and @auto_xml_channel_end
+09. In the WebGrab++.config.xml file, add a dummy channel like this:
+    <channel update="i" site="foxtel.com.au" site_id="" xmltv_id="dummy">dummy</channel>
+10. Run WG++ once.
+11. Your should get a foxtel.com.au.channel.xml file in the same directory as the .ini file
+12. Put the first * back in all the lines between @auto_xml_channel_start and @auto_xml_channel_end
+13. Use the foxtel.com.au.channel.xml to setup your WebGrab++.config.xml file (you can now remove the dummy channels from 09.)
+
+
+
+**************************************************************************************************
+*   SECTION A					foxtel.com.au Regions
+**************************************************************************************************
+Region:
+	RegionId = 24576
+	RegionName = Canberra
+	StateId = 1
+	StateCode = ACT
+	BouquetId = 25184
+	SubBouquetId = 3
+
+Region:
+	RegionId = 8192
+	RegionName = Broken Hill
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8192
+
+Region:
+	RegionId = 8289
+	RegionName = Central Coast
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8289
+
+Region:
+	RegionId = 8290
+	RegionName = Central Coast Gosford
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8290
+
+Region:
+	RegionId = 8208
+	RegionName = Central Tablelands
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8208
+
+Region:
+	RegionId = 8224
+	RegionName = Grafton Kempsey
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8224
+
+Region:
+	RegionId = 8240
+	RegionName = Illawarra
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8240
+
+Region:
+	RegionId = 8256
+	RegionName = Manning River
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8256
+
+Region:
+	RegionId = 8272
+	RegionName = Murrumbidgee Irrigation Area
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8272
+
+Region:
+	RegionId = 8288
+	RegionName = Newcastle
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8288
+
+Region:
+	RegionId = 8304
+	RegionName = Richmond Tweed
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8304
+
+Region:
+	RegionId = 8320
+	RegionName = SW Slopes E Riverina
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8320
+
+Region:
+	RegionId = 8241
+	RegionName = South Coast
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8241
+
+Region:
+	RegionId = 8336
+	RegionName = Sydney
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 25184
+	SubBouquetId = 37
+
+Region:
+	RegionId = 8352
+	RegionName = Upper Namoi
+	StateId = 2
+	StateCode = NSW
+	BouquetId = 666
+	SubBouquetId = 8352
+
+Region:
+	RegionId = 32768
+	RegionName = Alice Springs
+	StateId = 3
+	StateCode = NT
+	BouquetId = 666
+	SubBouquetId = 32768
+
+Region:
+	RegionId = 32784
+	RegionName = Darwin
+	StateId = 3
+	StateCode = NT
+	BouquetId = 666
+	SubBouquetId = 32784
+
+Region:
+	RegionId = 32800
+	RegionName = Katherine
+	StateId = 3
+	StateCode = NT
+	BouquetId = 666
+	SubBouquetId = 32800
+
+Region:
+	RegionId = 16384
+	RegionName = Brisbane
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 25184
+	SubBouquetId = 22
+
+Region:
+	RegionId = 16400
+	RegionName = Cairns
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16400
+
+Region:
+	RegionId = 16416
+	RegionName = Darling Downs
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16416
+
+Region:
+	RegionId = 16432
+	RegionName = Gold Coast
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16432
+
+Region:
+	RegionId = 16528
+	RegionName = MT Isa
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16528
+
+Region:
+	RegionId = 16448
+	RegionName = Mackay
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16448
+
+Region:
+	RegionId = 16464
+	RegionName = Rockhampton
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16464
+
+Region:
+	RegionId = 16480
+	RegionName = Sunshine Coast
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16480
+
+Region:
+	RegionId = 16496
+	RegionName = Townsville
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16496
+
+Region:
+	RegionId = 16512
+	RegionName = Wide Bay
+	StateId = 4
+	StateCode = QLD
+	BouquetId = 666
+	SubBouquetId = 16512
+
+Region:
+	RegionId = 20480
+	RegionName = Adelaide
+	StateId = 5
+	StateCode = SA
+	BouquetId = 25184
+	SubBouquetId = 21
+
+Region:
+	RegionId = 20496
+	RegionName = Port Lincoln
+	StateId = 5
+	StateCode = SA
+	BouquetId = 666
+	SubBouquetId = 20496
+
+Region:
+	RegionId = 20512
+	RegionName = Renmark Loxton
+	StateId = 5
+	StateCode = SA
+	BouquetId = 666
+	SubBouquetId = 20512
+
+Region:
+	RegionId = 20528
+	RegionName = South East SA
+	StateId = 5
+	StateCode = SA
+	BouquetId = 666
+	SubBouquetId = 20528
+
+Region:
+	RegionId = 20544
+	RegionName = Spencer Gulf
+	StateId = 5
+	StateCode = SA
+	BouquetId = 666
+	SubBouquetId = 20544
+
+Region:
+	RegionId = 28672
+	RegionName = Hobart
+	StateId = 6
+	StateCode = TAS
+	BouquetId = 666
+	SubBouquetId = 28672
+
+Region:
+	RegionId = 28688
+	RegionName = NE Tasmania
+	StateId = 6
+	StateCode = TAS
+	BouquetId = 666
+	SubBouquetId = 28688
+
+Region:
+	RegionId = 12288
+	RegionName = Ballarat
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12288
+
+Region:
+	RegionId = 12304
+	RegionName = Bendigo
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12304
+
+Region:
+	RegionId = 12320
+	RegionName = Goulburn Valley
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12320
+
+Region:
+	RegionId = 12336
+	RegionName = Latrobe Valley
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12336
+
+Region:
+	RegionId = 12352
+	RegionName = Melbourne
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 25184
+	SubBouquetId = 26
+
+Region:
+	RegionId = 12368
+	RegionName = Mildura Sunraysia
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12368
+
+Region:
+	RegionId = 12384
+	RegionName = Upper Murray
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12384
+
+Region:
+	RegionId = 12289
+	RegionName = Western Victoria
+	StateId = 7
+	StateCode = VIC
+	BouquetId = 666
+	SubBouquetId = 12289
+
+Region:
+	RegionId = 36992
+	RegionName = Perth
+	StateId = 8
+	StateCode = WA
+	BouquetId = 25184
+	SubBouquetId = 33
+
+Region:
+	RegionId = 37088
+	RegionName = Regional WA
+	StateId = 8
+	StateCode = WA
+	BouquetId = 666
+	SubBouquetId = 37088
+ 
+ 
+**************************************************************************************************
+*   SECTION B					Timezones for Australia
+**************************************************************************************************
+UTC offset:		DST date:		zone name:
+
+UTC+08:00		no DST			Australia/Perth
+UTC+08:00		no DST			Australia/West
+UTC+08:45		no DST			Australia/Eucla
+UTC+09:30		05/04/2015		Australia/Adelaide
+UTC+09:30		05/04/2015		Australia/Broken_Hill
+UTC+09:30		05/04/2015		Australia/South
+UTC+09:30		05/04/2015		Australia/Yancowinna
+UTC+09:30		no DST			Australia/Darwin
+UTC+09:30		no DST			Australia/North
+UTC+10:00		05/04/2015		Australia/ACT
+UTC+10:00		05/04/2015		Australia/Canberra
+UTC+10:00		05/04/2015		Australia/Currie
+UTC+10:00		05/04/2015		Australia/Hobart
+UTC+10:00		05/04/2015		Australia/Melbourne
+UTC+10:00		05/04/2015		Australia/NSW
+UTC+10:00		05/04/2015		Australia/Sydney
+UTC+10:00		05/04/2015		Australia/Tasmania
+UTC+10:00		05/04/2015		Australia/Victoria
+UTC+10:00		no DST			Australia/Brisbane
+UTC+10:00		no DST			Australia/Lindeman
+UTC+10:00		no DST			Australia/Queensland
+UTC+10:30		05/04/2015		Australia/LHI
+UTC+10:30		05/04/2015		Australia/Lord_Howe

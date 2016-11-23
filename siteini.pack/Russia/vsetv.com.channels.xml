@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="vsetv.com">
+  <channels>
+    <channel update="i" site="vsetv.com" site_id="3" xmltv_id="1+1">1+1</channel>
+    <channel update="i" site="vsetv.com" site_id="346" xmltv_id="1+1 (на укр.)">1+1 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="282" xmltv_id="1+1 Международный">1+1 Международный</channel>
+    <channel update="i" site="vsetv.com" site_id="473" xmltv_id="1+1 Международный (на укр.)">1+1 Международный (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="382" xmltv_id="100ТВ">100ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="921" xmltv_id="112 Украина">112 Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="922" xmltv_id="112 Украина (на укр.)">112 Украина (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="953" xmltv_id="112 Украина HD">112 Украина HD</channel>
+    <channel update="i" site="vsetv.com" site_id="954" xmltv_id="112 Украина HD (на укр.)">112 Украина HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1014" xmltv_id="1HD">1HD</channel>
+    <channel update="i" site="vsetv.com" site_id="23" xmltv_id="2+2">2+2</channel>
+    <channel update="i" site="vsetv.com" site_id="371" xmltv_id="2+2 (на укр.)">2+2 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="298" xmltv_id="24 (Телеканал новостей 24)">24 (Телеканал новостей 24)</channel>
+    <channel update="i" site="vsetv.com" site_id="387" xmltv_id="24 (Телеканал новостей 24) (на укр.)">24 (Телеканал новостей 24) (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="263" xmltv_id="24Док">24Док</channel>
+    <channel update="i" site="vsetv.com" site_id="341" xmltv_id="2х2">2х2</channel>
+    <channel update="i" site="vsetv.com" site_id="809" xmltv_id="2х2 (+2)">2х2 (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="734" xmltv_id="2х2 (+5)">2х2 (+5)</channel>
+    <channel update="i" site="vsetv.com" site_id="903" xmltv_id="34 канал (Днепропетровск)">34 канал (Днепропетровск)</channel>
+    <channel update="i" site="vsetv.com" site_id="999" xmltv_id="360TuneBox">360TuneBox</channel>
+    <channel update="i" site="vsetv.com" site_id="653" xmltv_id="360° Подмосковье">360° Подмосковье</channel>
+    <channel update="i" site="vsetv.com" site_id="279" xmltv_id="365 дней ТВ">365 дней ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="923" xmltv_id="49 канал (Новосибирск)">49 канал (Новосибирск)</channel>
+    <channel update="i" site="vsetv.com" site_id="106" xmltv_id="5 канал">5 канал</channel>
+    <channel update="i" site="vsetv.com" site_id="363" xmltv_id="5 канал (на укр.)">5 канал (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="308" xmltv_id="5 канал (Россия)">5 канал (Россия)</channel>
+    <channel update="i" site="vsetv.com" site_id="640" xmltv_id="5 канал (Россия) (+2)">5 канал (Россия) (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="641" xmltv_id="5 канал (Россия) (+4)">5 канал (Россия) (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="642" xmltv_id="5 канал (Россия) (+7)">5 канал (Россия) (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="1012" xmltv_id="6 ТВ">6 ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="933" xmltv_id="7 канал (Одесса)">7 канал (Одесса)</channel>
+    <channel update="i" site="vsetv.com" site_id="681" xmltv_id="8 канал">8 канал</channel>
+    <channel update="i" site="vsetv.com" site_id="698" xmltv_id="8 канал (Беларусь)">8 канал (Беларусь)</channel>
+    <channel update="i" site="vsetv.com" site_id="755" xmltv_id="8 канал (Регион)">8 канал (Регион)</channel>
+    <channel update="i" site="vsetv.com" site_id="909" xmltv_id="9 волна">9 волна</channel>
+    <channel update="i" site="vsetv.com" site_id="1021" xmltv_id="9 канал (Израиль)">9 канал (Израиль)</channel>
+    <channel update="i" site="vsetv.com" site_id="316" xmltv_id="A-one">A-one</channel>
+    <channel update="i" site="vsetv.com" site_id="772" xmltv_id="A-One Украина">A-One Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="927" xmltv_id="A-One Украина (на укр.)">A-One Украина (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="127" xmltv_id="AB Moteurs">AB Moteurs</channel>
+    <channel update="i" site="vsetv.com" site_id="114" xmltv_id="Adult channel">Adult channel</channel>
+    <channel update="i" site="vsetv.com" site_id="240" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="vsetv.com" site_id="347" xmltv_id="Amazing life">Amazing life</channel>
+    <channel update="i" site="vsetv.com" site_id="214" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="vsetv.com" site_id="895" xmltv_id="Amedia 1">Amedia 1</channel>
+    <channel update="i" site="vsetv.com" site_id="727" xmltv_id="Amedia 2">Amedia 2</channel>
+    <channel update="i" site="vsetv.com" site_id="1016" xmltv_id="Amedia Hit">Amedia Hit</channel>
+    <channel update="i" site="vsetv.com" site_id="896" xmltv_id="Amedia Premium HD">Amedia Premium HD</channel>
+    <channel update="i" site="vsetv.com" site_id="969" xmltv_id="Animal Family HD">Animal Family HD</channel>
+    <channel update="i" site="vsetv.com" site_id="39" xmltv_id="Animal planet Europe">Animal planet Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="715" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="vsetv.com" site_id="484" xmltv_id="Animal planet Россия">Animal planet Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="939" xmltv_id="Animal planet Россия HD">Animal planet Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="697" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="vsetv.com" site_id="763" xmltv_id="ATR">ATR</channel>
+    <channel update="i" site="vsetv.com" site_id="849" xmltv_id="ATR (на укр.)">ATR (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="528" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="vsetv.com" site_id="147" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="vsetv.com" site_id="46" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="vsetv.com" site_id="90" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="vsetv.com" site_id="140" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="vsetv.com" site_id="665" xmltv_id="Blue Hustler (для Украины)">Blue Hustler (для Украины)</channel>
+    <channel update="i" site="vsetv.com" site_id="1030" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="vsetv.com" site_id="404" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="vsetv.com" site_id="143" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="409" xmltv_id="Bridge TV">Bridge TV</channel>
+    <channel update="i" site="vsetv.com" site_id="386" xmltv_id="Business">Business</channel>
+    <channel update="i" site="vsetv.com" site_id="429" xmltv_id="Business (на укр.)">Business (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="582" xmltv_id="C Music TV">C Music TV</channel>
+    <channel update="i" site="vsetv.com" site_id="54" xmltv_id="Cartoon network">Cartoon network</channel>
+    <channel update="i" site="vsetv.com" site_id="35" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="vsetv.com" site_id="91" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="vsetv.com" site_id="598" xmltv_id="CCTV Русский">CCTV Русский</channel>
+    <channel update="i" site="vsetv.com" site_id="904" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="vsetv.com" site_id="1004" xmltv_id="Chasse et peche">Chasse et peche</channel>
+    <channel update="i" site="vsetv.com" site_id="971" xmltv_id="Cine+">Cine+</channel>
+    <channel update="i" site="vsetv.com" site_id="972" xmltv_id="Cine+ (на укр.)">Cine+ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="973" xmltv_id="Cine+ HD">Cine+ HD</channel>
+    <channel update="i" site="vsetv.com" site_id="974" xmltv_id="Cine+ HD (на укр.)">Cine+ HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="975" xmltv_id="Cine+ Hit HD">Cine+ Hit HD</channel>
+    <channel update="i" site="vsetv.com" site_id="976" xmltv_id="Cine+ Hit HD (на укр.)">Cine+ Hit HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="979" xmltv_id="Cine+ Legend">Cine+ Legend</channel>
+    <channel update="i" site="vsetv.com" site_id="980" xmltv_id="Cine+ Legend (на укр.)">Cine+ Legend (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="977" xmltv_id="Cine+ Mix">Cine+ Mix</channel>
+    <channel update="i" site="vsetv.com" site_id="978" xmltv_id="Cine+ Mix (на укр.)">Cine+ Mix (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="112" xmltv_id="Cinema (Космос ТВ)">Cinema (Космос ТВ)</channel>
+    <channel update="i" site="vsetv.com" site_id="70" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="802" xmltv_id="CNL Америка">CNL Америка</channel>
+    <channel update="i" site="vsetv.com" site_id="125" xmltv_id="CNL Европа">CNL Европа</channel>
+    <channel update="i" site="vsetv.com" site_id="527" xmltv_id="CNL Сибирь">CNL Сибирь</channel>
+    <channel update="i" site="vsetv.com" site_id="392" xmltv_id="CNL Украина">CNL Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="47" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="vsetv.com" site_id="644" xmltv_id="Da Vinci Learning Europe">Da Vinci Learning Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="659" xmltv_id="Da Vinci Learning Europe (на укр.)">Da Vinci Learning Europe (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="651" xmltv_id="Da Vinci Learning Россия">Da Vinci Learning Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="862" xmltv_id="Dange TV">Dange TV</channel>
+    <channel update="i" site="vsetv.com" site_id="84" xmltv_id="Deutsche Welle (Europe)">Deutsche Welle (Europe)</channel>
+    <channel update="i" site="vsetv.com" site_id="599" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="vsetv.com" site_id="41" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="vsetv.com" site_id="424" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="vsetv.com" site_id="397" xmltv_id="Discovery Восточная Европа">Discovery Восточная Европа</channel>
+    <channel update="i" site="vsetv.com" site_id="38" xmltv_id="Discovery Россия">Discovery Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="938" xmltv_id="Discovery Россия HD">Discovery Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="678" xmltv_id="Discovery Украина">Discovery Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="764" xmltv_id="Dobro-tv">Dobro-tv</channel>
+    <channel update="i" site="vsetv.com" site_id="765" xmltv_id="Dobro-tv (на укр.)">Dobro-tv (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="993" xmltv_id="DocuBox HD">DocuBox HD</channel>
+    <channel update="i" site="vsetv.com" site_id="656" xmltv_id="ducktv">ducktv</channel>
+    <channel update="i" site="vsetv.com" site_id="657" xmltv_id="ducktv HD">ducktv HD</channel>
+    <channel update="i" site="vsetv.com" site_id="485" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="vsetv.com" site_id="929" xmltv_id="English Club TV HD">English Club TV HD</channel>
+    <channel update="i" site="vsetv.com" site_id="92" xmltv_id="Enter-фильм">Enter-фильм</channel>
+    <channel update="i" site="vsetv.com" site_id="372" xmltv_id="Enter-фильм (на укр.)">Enter-фильм (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="970" xmltv_id="Eureka HD">Eureka HD</channel>
+    <channel update="i" site="vsetv.com" site_id="37" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="vsetv.com" site_id="682" xmltv_id="Europa Plus TV">Europa Plus TV</channel>
+    <channel update="i" site="vsetv.com" site_id="36" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="vsetv.com" site_id="229" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="vsetv.com" site_id="800" xmltv_id="Eurosport 2 North-East">Eurosport 2 North-East</channel>
+    <channel update="i" site="vsetv.com" site_id="825" xmltv_id="Eurosport 2 North-East HD">Eurosport 2 North-East HD</channel>
+    <channel update="i" site="vsetv.com" site_id="535" xmltv_id="Eurosport HD">Eurosport HD</channel>
+    <channel update="i" site="vsetv.com" site_id="844" xmltv_id="EWTN Украина (на укр.)">EWTN Украина (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="99" xmltv_id="Extreme sports">Extreme sports</channel>
+    <channel update="i" site="vsetv.com" site_id="679" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="vsetv.com" site_id="680" xmltv_id="Fashion One HD">Fashion One HD</channel>
+    <channel update="i" site="vsetv.com" site_id="342" xmltv_id="Fashion TV Europe">Fashion TV Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="86" xmltv_id="Fashion TV Россия">Fashion TV Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="996" xmltv_id="FashionBox HD">FashionBox HD</channel>
+    <channel update="i" site="vsetv.com" site_id="994" xmltv_id="Fast&amp;FunBox HD">Fast&amp;FunBox HD</channel>
+    <channel update="i" site="vsetv.com" site_id="995" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="vsetv.com" site_id="997" xmltv_id="FilmBox ArtHouse">FilmBox ArtHouse</channel>
+    <channel update="i" site="vsetv.com" site_id="998" xmltv_id="FilmBox Russia">FilmBox Russia</channel>
+    <channel update="i" site="vsetv.com" site_id="406" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="vsetv.com" site_id="1005" xmltv_id="Food Network Россия">Food Network Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="750" xmltv_id="Fox Life HD">Fox Life HD</channel>
+    <channel update="i" site="vsetv.com" site_id="432" xmltv_id="Fox Life Россия">Fox Life Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="413" xmltv_id="FOX Россия">FOX Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="775" xmltv_id="FOX Россия HD">FOX Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="486" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="vsetv.com" site_id="811" xmltv_id="France 24 Francais">France 24 Francais</channel>
+    <channel update="i" site="vsetv.com" site_id="510" xmltv_id="FTV HD">FTV HD</channel>
+    <channel update="i" site="vsetv.com" site_id="583" xmltv_id="Galaxy-TV">Galaxy-TV</channel>
+    <channel update="i" site="vsetv.com" site_id="1055" xmltv_id="Ginger HD">Ginger HD</channel>
+    <channel update="i" site="vsetv.com" site_id="596" xmltv_id="Gulli Россия">Gulli Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="590" xmltv_id="HD Кино">HD Кино</channel>
+    <channel update="i" site="vsetv.com" site_id="776" xmltv_id="HD Кино 2">HD Кино 2</channel>
+    <channel update="i" site="vsetv.com" site_id="591" xmltv_id="HD Спорт">HD Спорт</channel>
+    <channel update="i" site="vsetv.com" site_id="459" xmltv_id="HD-Life">HD-Life</channel>
+    <channel update="i" site="vsetv.com" site_id="914" xmltv_id="HDFASHION">HDFASHION</channel>
+    <channel update="i" site="vsetv.com" site_id="902" xmltv_id="History Россия">History Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="905" xmltv_id="History Россия HD">History Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="894" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="vsetv.com" site_id="120" xmltv_id="Hustler TV Europe">Hustler TV Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="666" xmltv_id="Hustler TV Europe (для Украины)">Hustler TV Europe (для Украины)</channel>
+    <channel update="i" site="vsetv.com" site_id="797" xmltv_id="iConcerts">iConcerts</channel>
+    <channel update="i" site="vsetv.com" site_id="5" xmltv_id="ICTV">ICTV</channel>
+    <channel update="i" site="vsetv.com" site_id="358" xmltv_id="ICTV (на укр.)">ICTV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1000" xmltv_id="ID Xtra (Европа)">ID Xtra (Европа)</channel>
+    <channel update="i" site="vsetv.com" site_id="943" xmltv_id="ID Xtra (Россия)">ID Xtra (Россия)</channel>
+    <channel update="i" site="vsetv.com" site_id="635" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="vsetv.com" site_id="944" xmltv_id="IQ HD">IQ HD</channel>
+    <channel update="i" site="vsetv.com" site_id="454" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="vsetv.com" site_id="915" xmltv_id="JuCe TV">JuCe TV</channel>
+    <channel update="i" site="vsetv.com" site_id="1023" xmltv_id="KZN (Казань)">KZN (Казань)</channel>
+    <channel update="i" site="vsetv.com" site_id="911" xmltv_id="Lale">Lale</channel>
+    <channel update="i" site="vsetv.com" site_id="912" xmltv_id="Lale (на укр.)">Lale (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="475" xmltv_id="Luxe.TV">Luxe.TV</channel>
+    <channel update="i" site="vsetv.com" site_id="536" xmltv_id="Luxe.TV HD">Luxe.TV HD</channel>
+    <channel update="i" site="vsetv.com" site_id="946" xmltv_id="Luxury World">Luxury World</channel>
+    <channel update="i" site="vsetv.com" site_id="992" xmltv_id="M television">M television</channel>
+    <channel update="i" site="vsetv.com" site_id="356" xmltv_id="Maxxi-TV">Maxxi-TV</channel>
+    <channel update="i" site="vsetv.com" site_id="425" xmltv_id="Maxxi-TV (на укр.)">Maxxi-TV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="116" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="vsetv.com" site_id="85" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="vsetv.com" site_id="672" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="vsetv.com" site_id="780" xmltv_id="MGM HD">MGM HD</channel>
+    <channel update="i" site="vsetv.com" site_id="955" xmltv_id="Mix TV">Mix TV</channel>
+    <channel update="i" site="vsetv.com" site_id="117" xmltv_id="Motors">Motors</channel>
+    <channel update="i" site="vsetv.com" site_id="224" xmltv_id="MTV Dance International">MTV Dance International</channel>
+    <channel update="i" site="vsetv.com" site_id="218" xmltv_id="MTV European">MTV European</channel>
+    <channel update="i" site="vsetv.com" site_id="221" xmltv_id="MTV Hits International">MTV Hits International</channel>
+    <channel update="i" site="vsetv.com" site_id="488" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="vsetv.com" site_id="222" xmltv_id="MTV Rocks International">MTV Rocks International</channel>
+    <channel update="i" site="vsetv.com" site_id="908" xmltv_id="MTV Россия">MTV Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="411" xmltv_id="MUSICBOX">MUSICBOX</channel>
+    <channel update="i" site="vsetv.com" site_id="417" xmltv_id="MusicBox UA">MusicBox UA</channel>
+    <channel update="i" site="vsetv.com" site_id="470" xmltv_id="MusicBox UA (на укр.)">MusicBox UA (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="534" xmltv_id="myZen.tv">myZen.tv</channel>
+    <channel update="i" site="vsetv.com" site_id="580" xmltv_id="myZen.tv HD">myZen.tv HD</channel>
+    <channel update="i" site="vsetv.com" site_id="741" xmltv_id="NANO TV">NANO TV</channel>
+    <channel update="i" site="vsetv.com" site_id="344" xmltv_id="Nat Geo Wild Europe">Nat Geo Wild Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="671" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="vsetv.com" site_id="766" xmltv_id="Nat Geo Wild Россия">Nat Geo Wild Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="594" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="vsetv.com" site_id="295" xmltv_id="National Geographic Россия">National Geographic Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="934" xmltv_id="Nautical Channel Россия">Nautical Channel Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="416" xmltv_id="NewsOne">NewsOne</channel>
+    <channel update="i" site="vsetv.com" site_id="471" xmltv_id="NewsOne (на укр.)">NewsOne (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="789" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="vsetv.com" site_id="728" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="vsetv.com" site_id="739" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="vsetv.com" site_id="45" xmltv_id="Nickelodeon Россия">Nickelodeon Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="643" xmltv_id="Nickelodeon СНГ">Nickelodeon СНГ</channel>
+    <channel update="i" site="vsetv.com" site_id="414" xmltv_id="Ocean TV">Ocean TV</channel>
+    <channel update="i" site="vsetv.com" site_id="982" xmltv_id="OE">OE</channel>
+    <channel update="i" site="vsetv.com" site_id="1013" xmltv_id="Olala">Olala</channel>
+    <channel update="i" site="vsetv.com" site_id="64" xmltv_id="OTV">OTV</channel>
+    <channel update="i" site="vsetv.com" site_id="374" xmltv_id="OTV (на укр.)">OTV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="732" xmltv_id="Outdoor channel">Outdoor channel</channel>
+    <channel update="i" site="vsetv.com" site_id="801" xmltv_id="Outdoor channel HD">Outdoor channel HD</channel>
+    <channel update="i" site="vsetv.com" site_id="935" xmltv_id="Paramount channel Россия">Paramount channel Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="770" xmltv_id="Paramount Comedy Россия">Paramount Comedy Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="515" xmltv_id="Peopleair.tv / BizTV">Peopleair.tv / BizTV</channel>
+    <channel update="i" site="vsetv.com" site_id="516" xmltv_id="Peopleair.tv / BizTV (на укр.)">Peopleair.tv / BizTV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="172" xmltv_id="Playboy TV UK">Playboy TV UK</channel>
+    <channel update="i" site="vsetv.com" site_id="663" xmltv_id="Playboy TV UK (для Украины)">Playboy TV UK (для Украины)</channel>
+    <channel update="i" site="vsetv.com" site_id="696" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="vsetv.com" site_id="492" xmltv_id="PRO Business">PRO Business</channel>
+    <channel update="i" site="vsetv.com" site_id="402" xmltv_id="Pro Все">Pro Все</channel>
+    <channel update="i" site="vsetv.com" site_id="431" xmltv_id="Pro Все (на укр.)">Pro Все (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="460" xmltv_id="QTV">QTV</channel>
+    <channel update="i" site="vsetv.com" site_id="461" xmltv_id="QTV (на укр.)">QTV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="405" xmltv_id="R1">R1</channel>
+    <channel update="i" site="vsetv.com" site_id="788" xmltv_id="RT Д (English)">RT Д (English)</channel>
+    <channel update="i" site="vsetv.com" site_id="961" xmltv_id="RT Д (Русский)">RT Д (Русский)</channel>
+    <channel update="i" site="vsetv.com" site_id="605" xmltv_id="RTG">RTG</channel>
+    <channel update="i" site="vsetv.com" site_id="900" xmltv_id="RTG HD">RTG HD</channel>
+    <channel update="i" site="vsetv.com" site_id="1036" xmltv_id="RTi">RTi</channel>
+    <channel update="i" site="vsetv.com" site_id="1037" xmltv_id="RTi (на укр.)">RTi (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="22" xmltv_id="RTVI">RTVI</channel>
+    <channel update="i" site="vsetv.com" site_id="388" xmltv_id="Ru.Music">Ru.Music</channel>
+    <channel update="i" site="vsetv.com" site_id="469" xmltv_id="Ru.Music (на укр.)">Ru.Music (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1034" xmltv_id="Ru.Music HD">Ru.Music HD</channel>
+    <channel update="i" site="vsetv.com" site_id="1035" xmltv_id="Ru.Music HD (на укр.)">Ru.Music HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="334" xmltv_id="RU.TV">RU.TV</channel>
+    <channel update="i" site="vsetv.com" site_id="668" xmltv_id="Rusong TV">Rusong TV</channel>
+    <channel update="i" site="vsetv.com" site_id="301" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="vsetv.com" site_id="851" xmltv_id="Russia Today HD">Russia Today HD</channel>
+    <channel update="i" site="vsetv.com" site_id="864" xmltv_id="Russia Today Россия">Russia Today Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="412" xmltv_id="RUSSIAN MUSICBOX">RUSSIAN MUSICBOX</channel>
+    <channel update="i" site="vsetv.com" site_id="525" xmltv_id="SET Россия">SET Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="783" xmltv_id="SET Россия HD">SET Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="771" xmltv_id="Setanta Sports">Setanta Sports</channel>
+    <channel update="i" site="vsetv.com" site_id="984" xmltv_id="Setanta Sports +">Setanta Sports +</channel>
+    <channel update="i" site="vsetv.com" site_id="1033" xmltv_id="Shant TV">Shant TV</channel>
+    <channel update="i" site="vsetv.com" site_id="863" xmltv_id="Shop24">Shop24</channel>
+    <channel update="i" site="vsetv.com" site_id="752" xmltv_id="Shopping Live">Shopping Live</channel>
+    <channel update="i" site="vsetv.com" site_id="810" xmltv_id="Shopping TV">Shopping TV</channel>
+    <channel update="i" site="vsetv.com" site_id="403" xmltv_id="Sony Sci-Fi Россия">Sony Sci-Fi Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="805" xmltv_id="Sony Turbo">Sony Turbo</channel>
+    <channel update="i" site="vsetv.com" site_id="307" xmltv_id="Spice">Spice</channel>
+    <channel update="i" site="vsetv.com" site_id="384" xmltv_id="STV">STV</channel>
+    <channel update="i" site="vsetv.com" site_id="178" xmltv_id="Style">Style</channel>
+    <channel update="i" site="vsetv.com" site_id="619" xmltv_id="Teletravel HD">Teletravel HD</channel>
+    <channel update="i" site="vsetv.com" site_id="597" xmltv_id="TiJi Россия">TiJi Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="777" xmltv_id="TLC Pan Regional">TLC Pan Regional</channel>
+    <channel update="i" site="vsetv.com" site_id="691" xmltv_id="TLC Россия">TLC Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="901" xmltv_id="TLC Россия HD">TLC Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="898" xmltv_id="TLC Украина">TLC Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="897" xmltv_id="TMTV">TMTV</channel>
+    <channel update="i" site="vsetv.com" site_id="1003" xmltv_id="Topsong TV">Topsong TV</channel>
+    <channel update="i" site="vsetv.com" site_id="798" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="vsetv.com" site_id="230" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="vsetv.com" site_id="88" xmltv_id="Travel channel">Travel channel</channel>
+    <channel update="i" site="vsetv.com" site_id="690" xmltv_id="Travel channel HD">Travel channel HD</channel>
+    <channel update="i" site="vsetv.com" site_id="832" xmltv_id="Travel+Adventure">Travel+Adventure</channel>
+    <channel update="i" site="vsetv.com" site_id="833" xmltv_id="Travel+Adventure HD">Travel+Adventure HD</channel>
+    <channel update="i" site="vsetv.com" site_id="458" xmltv_id="TV1000 Action East">TV1000 Action East</channel>
+    <channel update="i" site="vsetv.com" site_id="817" xmltv_id="TV1000 Comedy">TV1000 Comedy</channel>
+    <channel update="i" site="vsetv.com" site_id="818" xmltv_id="TV1000 Comedy HD">TV1000 Comedy HD</channel>
+    <channel update="i" site="vsetv.com" site_id="107" xmltv_id="TV1000 East">TV1000 East</channel>
+    <channel update="i" site="vsetv.com" site_id="815" xmltv_id="TV1000 Megahit">TV1000 Megahit</channel>
+    <channel update="i" site="vsetv.com" site_id="816" xmltv_id="TV1000 Megahit HD">TV1000 Megahit HD</channel>
+    <channel update="i" site="vsetv.com" site_id="813" xmltv_id="TV1000 Premium">TV1000 Premium</channel>
+    <channel update="i" site="vsetv.com" site_id="814" xmltv_id="TV1000 Premium HD">TV1000 Premium HD</channel>
+    <channel update="i" site="vsetv.com" site_id="255" xmltv_id="TV1000 Русское кино">TV1000 Русское кино</channel>
+    <channel update="i" site="vsetv.com" site_id="1020" xmltv_id="TV1000 Русское кино (Международный)">TV1000 Русское кино (Международный)</channel>
+    <channel update="i" site="vsetv.com" site_id="74" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="434" xmltv_id="TV5 Латвия">TV5 Латвия</channel>
+    <channel update="i" site="vsetv.com" site_id="1028" xmltv_id="TVM Channel">TVM Channel</channel>
+    <channel update="i" site="vsetv.com" site_id="799" xmltv_id="TVRus">TVRus</channel>
+    <channel update="i" site="vsetv.com" site_id="1015" xmltv_id="Ukraine Today">Ukraine Today</channel>
+    <channel update="i" site="vsetv.com" site_id="958" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="vsetv.com" site_id="1043" xmltv_id="UTV (Салават)">UTV (Салават)</channel>
+    <channel update="i" site="vsetv.com" site_id="1042" xmltv_id="UTV (Стерлитамак)">UTV (Стерлитамак)</channel>
+    <channel update="i" site="vsetv.com" site_id="1032" xmltv_id="UTV HD">UTV HD</channel>
+    <channel update="i" site="vsetv.com" site_id="227" xmltv_id="VH1 Classic Europe">VH1 Classic Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="50" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="vsetv.com" site_id="778" xmltv_id="Viasat Explore CEE">Viasat Explore CEE</channel>
+    <channel update="i" site="vsetv.com" site_id="579" xmltv_id="Viasat Explore CEE / Spice">Viasat Explore CEE / Spice</channel>
+    <channel update="i" site="vsetv.com" site_id="152" xmltv_id="Viasat Explore Россия">Viasat Explore Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="906" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="vsetv.com" site_id="916" xmltv_id="Viasat Golf HD">Viasat Golf HD</channel>
+    <channel update="i" site="vsetv.com" site_id="175" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="vsetv.com" site_id="652" xmltv_id="Viasat Nature CEE">Viasat Nature CEE</channel>
+    <channel update="i" site="vsetv.com" site_id="716" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="vsetv.com" site_id="504" xmltv_id="Viasat Sport Baltics">Viasat Sport Baltics</channel>
+    <channel update="i" site="vsetv.com" site_id="332" xmltv_id="Viasat Sport Россия">Viasat Sport Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="907" xmltv_id="Viasat Sport Россия HD">Viasat Sport Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="1029" xmltv_id="Vintage TV Россия">Vintage TV Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="1040" xmltv_id="WBC">WBC</channel>
+    <channel update="i" site="vsetv.com" site_id="326" xmltv_id="World Fashion Channel">World Fashion Channel</channel>
+    <channel update="i" site="vsetv.com" site_id="313" xmltv_id="World Fashion Channel Россия">World Fashion Channel Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="133" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="vsetv.com" site_id="664" xmltv_id="XXL (для Украины)">XXL (для Украины)</channel>
+    <channel update="i" site="vsetv.com" site_id="442" xmltv_id="ZeeTV Россия">ZeeTV Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="684" xmltv_id="ZIK (на укр.)">ZIK (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="353" xmltv_id="Zoom">Zoom</channel>
+    <channel update="i" site="vsetv.com" site_id="428" xmltv_id="Zoom (на укр.)">Zoom (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="331" xmltv_id="ZooПарк">ZooПарк</channel>
+    <channel update="i" site="vsetv.com" site_id="311" xmltv_id="Авто Плюс">Авто Плюс</channel>
+    <channel update="i" site="vsetv.com" site_id="924" xmltv_id="Авто24">Авто24</channel>
+    <channel update="i" site="vsetv.com" site_id="721" xmltv_id="Агро-ТВ">Агро-ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="940" xmltv_id="Астрахань 24">Астрахань 24</channel>
+    <channel update="i" site="vsetv.com" site_id="611" xmltv_id="Бабай ТБ">Бабай ТБ</channel>
+    <channel update="i" site="vsetv.com" site_id="612" xmltv_id="Бабай ТБ (на укр.)">Бабай ТБ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="118" xmltv_id="Беларусь 1">Беларусь 1</channel>
+    <channel update="i" site="vsetv.com" site_id="148" xmltv_id="Беларусь 2">Беларусь 2</channel>
+    <channel update="i" site="vsetv.com" site_id="231" xmltv_id="Беларусь 24">Беларусь 24</channel>
+    <channel update="i" site="vsetv.com" site_id="883" xmltv_id="Беларусь 3">Беларусь 3</channel>
+    <channel update="i" site="vsetv.com" site_id="932" xmltv_id="Беларусь 5">Беларусь 5</channel>
+    <channel update="i" site="vsetv.com" site_id="706" xmltv_id="БелМузТВ">БелМузТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="870" xmltv_id="БИ Плюс">БИ Плюс</channel>
+    <channel update="i" site="vsetv.com" site_id="481" xmltv_id="Бигуди">Бигуди</channel>
+    <channel update="i" site="vsetv.com" site_id="840" xmltv_id="Бигуди (на укр.)">Бигуди (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1058" xmltv_id="Бобер">Бобер</channel>
+    <channel update="i" site="vsetv.com" site_id="310" xmltv_id="Боец">Боец</channel>
+    <channel update="i" site="vsetv.com" site_id="744" xmltv_id="Бойцовский клуб">Бойцовский клуб</channel>
+    <channel update="i" site="vsetv.com" site_id="272" xmltv_id="БСТ">БСТ</channel>
+    <channel update="i" site="vsetv.com" site_id="877" xmltv_id="БТБ">БТБ</channel>
+    <channel update="i" site="vsetv.com" site_id="878" xmltv_id="БТБ (на укр.)">БТБ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1056" xmltv_id="Винтаж">Винтаж</channel>
+    <channel update="i" site="vsetv.com" site_id="1057" xmltv_id="Винтаж (на укр.)">Винтаж (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1008" xmltv_id="Винтера (на укр.)">Винтера (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1009" xmltv_id="ВИТА (на укр.)">ВИТА (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="967" xmltv_id="Вместе-РФ">Вместе-РФ</channel>
+    <channel update="i" site="vsetv.com" site_id="603" xmltv_id="Вопросы и ответы">Вопросы и ответы</channel>
+    <channel update="i" site="vsetv.com" site_id="303" xmltv_id="Время">Время</channel>
+    <channel update="i" site="vsetv.com" site_id="957" xmltv_id="Вся Уфа">Вся Уфа</channel>
+    <channel update="i" site="vsetv.com" site_id="139" xmltv_id="ВТВ">ВТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="736" xmltv_id="Второй канал">Второй канал</channel>
+    <channel update="i" site="vsetv.com" site_id="669" xmltv_id="Второй канал (на укр.)">Второй канал (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="479" xmltv_id="Гамма">Гамма</channel>
+    <channel update="i" site="vsetv.com" site_id="480" xmltv_id="Гамма (на укр.)">Гамма (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="294" xmltv_id="Глас">Глас</channel>
+    <channel update="i" site="vsetv.com" site_id="465" xmltv_id="Глас (на укр.)">Глас (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="457" xmltv_id="Глас (Одесса) (на укр.)">Глас (Одесса) (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1049" xmltv_id="Громадське">Громадське</channel>
+    <channel update="i" site="vsetv.com" site_id="1048" xmltv_id="Громадське (на укр.)">Громадське (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="505" xmltv_id="Гумор ТБ">Гумор ТБ</channel>
+    <channel update="i" site="vsetv.com" site_id="506" xmltv_id="Гумор ТБ (на укр.)">Гумор ТБ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="613" xmltv_id="Гумор ТБ / Бабай ТБ">Гумор ТБ / Бабай ТБ</channel>
+    <channel update="i" site="vsetv.com" site_id="614" xmltv_id="Гумор ТБ / Бабай ТБ (на укр.)">Гумор ТБ / Бабай ТБ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="246" xmltv_id="Детский">Детский</channel>
+    <channel update="i" site="vsetv.com" site_id="31" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="vsetv.com" site_id="578" xmltv_id="Детский мир / Телеклуб">Детский мир / Телеклуб</channel>
+    <channel update="i" site="vsetv.com" site_id="868" xmltv_id="Диван ТВ">Диван ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="925" xmltv_id="Диван ТВ HD">Диван ТВ HD</channel>
+    <channel update="i" site="vsetv.com" site_id="380" xmltv_id="Днепропетровский Державный">Днепропетровский Державный</channel>
+    <channel update="i" site="vsetv.com" site_id="733" xmltv_id="Доверие">Доверие</channel>
+    <channel update="i" site="vsetv.com" site_id="675" xmltv_id="Дождь. Optimistic channel">Дождь. Optimistic channel</channel>
+    <channel update="i" site="vsetv.com" site_id="856" xmltv_id="Дождь. Optimistic channel HD">Дождь. Optimistic channel HD</channel>
+    <channel update="i" site="vsetv.com" site_id="302" xmltv_id="Дом кино">Дом кино</channel>
+    <channel update="i" site="vsetv.com" site_id="1038" xmltv_id="Дом кино International">Дом кино International</channel>
+    <channel update="i" site="vsetv.com" site_id="1045" xmltv_id="Дом кино Премиум">Дом кино Премиум</channel>
+    <channel update="i" site="vsetv.com" site_id="601" xmltv_id="Домашние животные">Домашние животные</channel>
+    <channel update="i" site="vsetv.com" site_id="124" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="vsetv.com" site_id="561" xmltv_id="Домашний (+2)">Домашний (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="562" xmltv_id="Домашний (+4)">Домашний (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="563" xmltv_id="Домашний (+7)">Домашний (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="695" xmltv_id="Домашний магазин">Домашний магазин</channel>
+    <channel update="i" site="vsetv.com" site_id="617" xmltv_id="Донбасс">Донбасс</channel>
+    <channel update="i" site="vsetv.com" site_id="241" xmltv_id="Драйв">Драйв</channel>
+    <channel update="i" site="vsetv.com" site_id="487" xmltv_id="Еврокино">Еврокино</channel>
+    <channel update="i" site="vsetv.com" site_id="1017" xmltv_id="ЕГЭ">ЕГЭ</channel>
+    <channel update="i" site="vsetv.com" site_id="794" xmltv_id="Еда">Еда</channel>
+    <channel update="i" site="vsetv.com" site_id="795" xmltv_id="Еда HD">Еда HD</channel>
+    <channel update="i" site="vsetv.com" site_id="936" xmltv_id="Еспресо TV">Еспресо TV</channel>
+    <channel update="i" site="vsetv.com" site_id="937" xmltv_id="Еспресо TV (на укр.)">Еспресо TV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="743" xmltv_id="Жест (Космос ТВ)">Жест (Космос ТВ)</channel>
+    <channel update="i" site="vsetv.com" site_id="1026" xmltv_id="Живая планета">Живая планета</channel>
+    <channel update="i" site="vsetv.com" site_id="511" xmltv_id="Живи">Живи</channel>
+    <channel update="i" site="vsetv.com" site_id="1007" xmltv_id="Живи HD">Живи HD</channel>
+    <channel update="i" site="vsetv.com" site_id="647" xmltv_id="Загородная жизнь">Загородная жизнь</channel>
+    <channel update="i" site="vsetv.com" site_id="662" xmltv_id="Загородный">Загородный</channel>
+    <channel update="i" site="vsetv.com" site_id="232" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="vsetv.com" site_id="566" xmltv_id="Звезда (+2)">Звезда (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="567" xmltv_id="Звезда (+3)">Звезда (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="568" xmltv_id="Звезда (+7)">Звезда (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="242" xmltv_id="Здоровое ТВ">Здоровое ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="451" xmltv_id="Зоо ТВ">Зоо ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="327" xmltv_id="Иллюзион+">Иллюзион+</channel>
+    <channel update="i" site="vsetv.com" site_id="865" xmltv_id="Инва Медиа ТВ">Инва Медиа ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="1002" xmltv_id="Индиго">Индиго</channel>
+    <channel update="i" site="vsetv.com" site_id="1006" xmltv_id="Индиго (на укр.)">Индиго (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="293" xmltv_id="Индия ТВ">Индия ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="4" xmltv_id="Интер">Интер</channel>
+    <channel update="i" site="vsetv.com" site_id="357" xmltv_id="Интер (на укр.)">Интер (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="69" xmltv_id="Интер+">Интер+</channel>
+    <channel update="i" site="vsetv.com" site_id="430" xmltv_id="Интер+ (на укр.)">Интер+ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="385" xmltv_id="Интересное ТВ">Интересное ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="893" xmltv_id="Информационный Канал Севастополя">Информационный Канал Севастополя</channel>
+    <channel update="i" site="vsetv.com" site_id="754" xmltv_id="Искушение">Искушение</channel>
+    <channel update="i" site="vsetv.com" site_id="1053" xmltv_id="Искушение (+3)">Искушение (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="855" xmltv_id="Искушение HD">Искушение HD</channel>
+    <channel update="i" site="vsetv.com" site_id="879" xmltv_id="История">История</channel>
+    <channel update="i" site="vsetv.com" site_id="1001" xmltv_id="К Муз">К Муз</channel>
+    <channel update="i" site="vsetv.com" site_id="19" xmltv_id="К1">К1</channel>
+    <channel update="i" site="vsetv.com" site_id="369" xmltv_id="К1 (на укр.)">К1 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="20" xmltv_id="К2">К2</channel>
+    <channel update="i" site="vsetv.com" site_id="370" xmltv_id="К2 (на укр.)">К2 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="89" xmltv_id="Канал Disney">Канал Disney</channel>
+    <channel update="i" site="vsetv.com" site_id="645" xmltv_id="Канал Disney (+2)">Канал Disney (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="646" xmltv_id="Канал Disney (+7)">Канал Disney (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="687" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="vsetv.com" site_id="730" xmltv_id="Карусель (+3)">Карусель (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="731" xmltv_id="Карусель (+7)">Карусель (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="688" xmltv_id="Карусель International">Карусель International</channel>
+    <channel update="i" site="vsetv.com" site_id="75" xmltv_id="Киев">Киев</channel>
+    <channel update="i" site="vsetv.com" site_id="375" xmltv_id="Киев (на укр.)">Киев (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="608" xmltv_id="Кино Плюс">Кино Плюс</channel>
+    <channel update="i" site="vsetv.com" site_id="447" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="vsetv.com" site_id="574" xmltv_id="Кинопоказ (+3)">Кинопоказ (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="620" xmltv_id="Кинопоказ HD1">Кинопоказ HD1</channel>
+    <channel update="i" site="vsetv.com" site_id="621" xmltv_id="Кинопоказ HD2">Кинопоказ HD2</channel>
+    <channel update="i" site="vsetv.com" site_id="947" xmltv_id="КиноПремиум HD">КиноПремиум HD</channel>
+    <channel update="i" site="vsetv.com" site_id="261" xmltv_id="Киносоюз">Киносоюз</channel>
+    <channel update="i" site="vsetv.com" site_id="852" xmltv_id="КиноТВ">КиноТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="292" xmltv_id="Комедия ТВ">Комедия ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="1044" xmltv_id="Конный мир">Конный мир</channel>
+    <channel update="i" site="vsetv.com" site_id="1054" xmltv_id="Красная линия">Красная линия</channel>
+    <channel update="i" site="vsetv.com" site_id="149" xmltv_id="КРТ">КРТ</channel>
+    <channel update="i" site="vsetv.com" site_id="368" xmltv_id="КРТ (на укр.)">КРТ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="399" xmltv_id="Кто есть кто">Кто есть кто</channel>
+    <channel update="i" site="vsetv.com" site_id="782" xmltv_id="Кубань 24 Орбита">Кубань 24 Орбита</channel>
+    <channel update="i" site="vsetv.com" site_id="15" xmltv_id="Культура">Культура</channel>
+    <channel update="i" site="vsetv.com" site_id="552" xmltv_id="Культура (+2)">Культура (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="553" xmltv_id="Культура (+4)">Культура (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="555" xmltv_id="Культура (+7)">Культура (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="285" xmltv_id="Культура (Украина)">Культура (Украина)</channel>
+    <channel update="i" site="vsetv.com" site_id="494" xmltv_id="Культура (Украина) (на укр.)">Культура (Украина) (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="383" xmltv_id="Кухня ТВ">Кухня ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="806" xmltv_id="КХЛ HD">КХЛ HD</channel>
+    <channel update="i" site="vsetv.com" site_id="604" xmltv_id="КХЛ ТВ">КХЛ ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="1039" xmltv_id="ЛДПР ТВ">ЛДПР ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="1041" xmltv_id="Лунапарк">Лунапарк</channel>
+    <channel update="i" site="vsetv.com" site_id="920" xmltv_id="Львів-ТБ (на укр.)">Львів-ТБ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="526" xmltv_id="Любимое кино">Любимое кино</channel>
+    <channel update="i" site="vsetv.com" site_id="297" xmltv_id="Ля-минор">Ля-минор</channel>
+    <channel update="i" site="vsetv.com" site_id="94" xmltv_id="М1">М1</channel>
+    <channel update="i" site="vsetv.com" site_id="366" xmltv_id="М1 (на укр.)">М1 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="445" xmltv_id="М2">М2</channel>
+    <channel update="i" site="vsetv.com" site_id="474" xmltv_id="М2 (на укр.)">М2 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="882" xmltv_id="Майдан">Майдан</channel>
+    <channel update="i" site="vsetv.com" site_id="606" xmltv_id="Малятко TV">Малятко TV</channel>
+    <channel update="i" site="vsetv.com" site_id="629" xmltv_id="Малятко TV (на укр.)">Малятко TV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="394" xmltv_id="Мама">Мама</channel>
+    <channel update="i" site="vsetv.com" site_id="928" xmltv_id="Марс ТВ">Марс ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="234" xmltv_id="Мега">Мега</channel>
+    <channel update="i" site="vsetv.com" site_id="362" xmltv_id="Мега (на укр.)">Мега (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1025" xmltv_id="Минск24ДОК">Минск24ДОК</channel>
+    <channel update="i" site="vsetv.com" site_id="176" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="vsetv.com" site_id="985" xmltv_id="Мир (+2)">Мир (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="529" xmltv_id="Мир (+3)">Мир (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="986" xmltv_id="Мир (+7)">Мир (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="838" xmltv_id="Мир 24">Мир 24</channel>
+    <channel update="i" site="vsetv.com" site_id="965" xmltv_id="Мир HD">Мир HD</channel>
+    <channel update="i" site="vsetv.com" site_id="637" xmltv_id="Мир сериала">Мир сериала</channel>
+    <channel update="i" site="vsetv.com" site_id="1022" xmltv_id="Мир увлечений">Мир увлечений</channel>
+    <channel update="i" site="vsetv.com" site_id="278" xmltv_id="Многосерийное ТВ">Многосерийное ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="123" xmltv_id="Москва-24">Москва-24</channel>
+    <channel update="i" site="vsetv.com" site_id="639" xmltv_id="Моя планета">Моя планета</channel>
+    <channel update="i" site="vsetv.com" site_id="710" xmltv_id="МТВ">МТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="648" xmltv_id="Мужской">Мужской</channel>
+    <channel update="i" site="vsetv.com" site_id="808" xmltv_id="Муз-ТВ">Муз-ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="439" xmltv_id="Музыка Первого">Музыка Первого</channel>
+    <channel update="i" site="vsetv.com" site_id="962" xmltv_id="Мульт">Мульт</channel>
+    <channel update="i" site="vsetv.com" site_id="286" xmltv_id="Мультимания">Мультимания</channel>
+    <channel update="i" site="vsetv.com" site_id="871" xmltv_id="Надия">Надия</channel>
+    <channel update="i" site="vsetv.com" site_id="712" xmltv_id="Наука 2.0">Наука 2.0</channel>
+    <channel update="i" site="vsetv.com" site_id="948" xmltv_id="Наше HD">Наше HD</channel>
+    <channel update="i" site="vsetv.com" site_id="29" xmltv_id="Наше кино">Наше кино</channel>
+    <channel update="i" site="vsetv.com" site_id="312" xmltv_id="Наше кино (НТВ+)">Наше кино (НТВ+)</channel>
+    <channel update="i" site="vsetv.com" site_id="260" xmltv_id="Наше новое кино">Наше новое кино</channel>
+    <channel update="i" site="vsetv.com" site_id="843" xmltv_id="НЛО TV">НЛО TV</channel>
+    <channel update="i" site="vsetv.com" site_id="846" xmltv_id="НЛО TV (на укр.)">НЛО TV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="7" xmltv_id="Новый канал">Новый канал</channel>
+    <channel update="i" site="vsetv.com" site_id="360" xmltv_id="Новый канал (на укр.)">Новый канал (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="216" xmltv_id="Ностальгия">Ностальгия</channel>
+    <channel update="i" site="vsetv.com" site_id="455" xmltv_id="Ночной клуб">Ночной клуб</channel>
+    <channel update="i" site="vsetv.com" site_id="576" xmltv_id="Ночной клуб (+3)">Ночной клуб (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="329" xmltv_id="НСТ">НСТ</channel>
+    <channel update="i" site="vsetv.com" site_id="10" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="545" xmltv_id="НТВ (+2)">НТВ (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="509" xmltv_id="НТВ (+3)">НТВ (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="546" xmltv_id="НТВ (+4)">НТВ (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="547" xmltv_id="НТВ (+7)">НТВ (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="702" xmltv_id="НТВ+ 3D by Panasonic">НТВ+ 3D by Panasonic</channel>
+    <channel update="i" site="vsetv.com" site_id="277" xmltv_id="НТВ+ Баскетбол">НТВ+ Баскетбол</channel>
+    <channel update="i" site="vsetv.com" site_id="30" xmltv_id="НТВ+ Киноклуб">НТВ+ Киноклуб</channel>
+    <channel update="i" site="vsetv.com" site_id="213" xmltv_id="НТВ+ Кинохит">НТВ+ Кинохит</channel>
+    <channel update="i" site="vsetv.com" site_id="284" xmltv_id="НТВ+ Наш футбол">НТВ+ Наш футбол</channel>
+    <channel update="i" site="vsetv.com" site_id="889" xmltv_id="НТВ+ Наш футбол HD">НТВ+ Наш футбол HD</channel>
+    <channel update="i" site="vsetv.com" site_id="34" xmltv_id="НТВ+ Премьера">НТВ+ Премьера</channel>
+    <channel update="i" site="vsetv.com" site_id="32" xmltv_id="НТВ+ Спорт">НТВ+ Спорт</channel>
+    <channel update="i" site="vsetv.com" site_id="276" xmltv_id="НТВ+ Теннис">НТВ+ Теннис</channel>
+    <channel update="i" site="vsetv.com" site_id="33" xmltv_id="НТВ+ Футбол 1">НТВ+ Футбол 1</channel>
+    <channel update="i" site="vsetv.com" site_id="747" xmltv_id="НТВ+ Футбол 1 HD">НТВ+ Футбол 1 HD</channel>
+    <channel update="i" site="vsetv.com" site_id="707" xmltv_id="НТВ+ Футбол 2">НТВ+ Футбол 2</channel>
+    <channel update="i" site="vsetv.com" site_id="753" xmltv_id="НТВ+ Футбол 2 HD">НТВ+ Футбол 2 HD</channel>
+    <channel update="i" site="vsetv.com" site_id="910" xmltv_id="НТВ+ Футбол 3">НТВ+ Футбол 3</channel>
+    <channel update="i" site="vsetv.com" site_id="917" xmltv_id="НТВ+ Футбол 3 HD">НТВ+ Футбол 3 HD</channel>
+    <channel update="i" site="vsetv.com" site_id="699" xmltv_id="НТВ-Беларусь">НТВ-Беларусь</channel>
+    <channel update="i" site="vsetv.com" site_id="82" xmltv_id="НТВ-Мир">НТВ-Мир</channel>
+    <channel update="i" site="vsetv.com" site_id="212" xmltv_id="НТН">НТН</channel>
+    <channel update="i" site="vsetv.com" site_id="367" xmltv_id="НТН (на укр.)">НТН (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="884" xmltv_id="НТС (Севастополь)">НТС (Севастополь)</channel>
+    <channel update="i" site="vsetv.com" site_id="257" xmltv_id="О2ТВ">О2ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="111" xmltv_id="ОНТ">ОНТ</channel>
+    <channel update="i" site="vsetv.com" site_id="989" xmltv_id="Оренбуржье">Оренбуржье</channel>
+    <channel update="i" site="vsetv.com" site_id="983" xmltv_id="ОРТ-Планета (Оренбург)">ОРТ-Планета (Оренбург)</channel>
+    <channel update="i" site="vsetv.com" site_id="708" xmltv_id="Оружие">Оружие</channel>
+    <channel update="i" site="vsetv.com" site_id="951" xmltv_id="Остросюжетное HD">Остросюжетное HD</channel>
+    <channel update="i" site="vsetv.com" site_id="655" xmltv_id="ОТВ (Екатеринбург)">ОТВ (Екатеринбург)</channel>
+    <channel update="i" site="vsetv.com" site_id="913" xmltv_id="ОТВ (Одинцово)">ОТВ (Одинцово)</channel>
+    <channel update="i" site="vsetv.com" site_id="848" xmltv_id="ОТВ Приморье">ОТВ Приморье</channel>
+    <channel update="i" site="vsetv.com" site_id="866" xmltv_id="ОТВ Челябинск">ОТВ Челябинск</channel>
+    <channel update="i" site="vsetv.com" site_id="880" xmltv_id="ОТР">ОТР</channel>
+    <channel update="i" site="vsetv.com" site_id="899" xmltv_id="ОТС">ОТС</channel>
+    <channel update="i" site="vsetv.com" site_id="243" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="vsetv.com" site_id="628" xmltv_id="Охотник и рыболов">Охотник и рыболов</channel>
+    <channel update="i" site="vsetv.com" site_id="842" xmltv_id="Охотник и рыболов HD">Охотник и рыболов HD</channel>
+    <channel update="i" site="vsetv.com" site_id="351" xmltv_id="Парк развлечений">Парк развлечений</channel>
+    <channel update="i" site="vsetv.com" site_id="827" xmltv_id="Первый Ukraine">Первый Ukraine</channel>
+    <channel update="i" site="vsetv.com" site_id="828" xmltv_id="Первый Ukraine (на укр.)">Первый Ukraine (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="435" xmltv_id="Первый автомобильный">Первый автомобильный</channel>
+    <channel update="i" site="vsetv.com" site_id="436" xmltv_id="Первый автомобильный (на укр.)">Первый автомобильный (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="966" xmltv_id="Первый городской (Казань)">Первый городской (Казань)</channel>
+    <channel update="i" site="vsetv.com" site_id="299" xmltv_id="Первый деловой">Первый деловой</channel>
+    <channel update="i" site="vsetv.com" site_id="378" xmltv_id="Первый деловой (на укр.)">Первый деловой (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1024" xmltv_id="Первый Интернет Канал (#ПИКТВ)">Первый Интернет Канал (#ПИКТВ)</channel>
+    <channel update="i" site="vsetv.com" site_id="541" xmltv_id="Первый канал (+2)">Первый канал (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="542" xmltv_id="Первый канал (+4)">Первый канал (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="543" xmltv_id="Первый канал (+6)">Первый канал (+6)</channel>
+    <channel update="i" site="vsetv.com" site_id="544" xmltv_id="Первый канал (+8)">Первый канал (+8)</channel>
+    <channel update="i" site="vsetv.com" site_id="8" xmltv_id="Первый канал (Россия)">Первый канал (Россия)</channel>
+    <channel update="i" site="vsetv.com" site_id="21" xmltv_id="Первый канал (Россия) Европа">Первый канал (Россия) Европа</channel>
+    <channel update="i" site="vsetv.com" site_id="314" xmltv_id="Первый канал (Россия) СНГ">Первый канал (Россия) СНГ</channel>
+    <channel update="i" site="vsetv.com" site_id="839" xmltv_id="Первый канал HD">Первый канал HD</channel>
+    <channel update="i" site="vsetv.com" site_id="926" xmltv_id="Первый канал HD (+4)">Первый канал HD (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="886" xmltv_id="Первый крымский">Первый крымский</channel>
+    <channel update="i" site="vsetv.com" site_id="890" xmltv_id="Первый национальный (Т2)">Первый национальный (Т2)</channel>
+    <channel update="i" site="vsetv.com" site_id="891" xmltv_id="Первый национальный (Т2) (на укр.)">Первый национальный (Т2) (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1" xmltv_id="Первый национальный (Украина)">Первый национальный (Украина)</channel>
+    <channel update="i" site="vsetv.com" site_id="345" xmltv_id="Первый национальный (Украина) (на укр.)">Первый национальный (Украина) (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="540" xmltv_id="Первый национальный / ТРК &quot;Эра&quot;">Первый национальный / ТРК "Эра"</channel>
+    <channel update="i" site="vsetv.com" site_id="592" xmltv_id="Первый национальный / ТРК &quot;Эра&quot; (на укр.)">Первый национальный / ТРК "Эра" (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="215" xmltv_id="Первый образовательный">Первый образовательный</channel>
+    <channel update="i" site="vsetv.com" site_id="876" xmltv_id="Первый Севастопольский">Первый Севастопольский</channel>
+    <channel update="i" site="vsetv.com" site_id="56" xmltv_id="Перец">Перец</channel>
+    <channel update="i" site="vsetv.com" site_id="396" xmltv_id="Перец (+2)">Перец (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="857" xmltv_id="Перец (+4)">Перец (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="537" xmltv_id="Перец (+7)">Перец (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="941" xmltv_id="Перец International">Перец International</channel>
+    <channel update="i" site="vsetv.com" site_id="27" xmltv_id="Пиксель">Пиксель</channel>
+    <channel update="i" site="vsetv.com" site_id="373" xmltv_id="Пиксель (на укр.)">Пиксель (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="24" xmltv_id="ПлюсПлюс">ПлюсПлюс</channel>
+    <channel update="i" site="vsetv.com" site_id="376" xmltv_id="ПлюсПлюс (на укр.)">ПлюсПлюс (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="861" xmltv_id="Право TV">Право TV</channel>
+    <channel update="i" site="vsetv.com" site_id="860" xmltv_id="Право TV (на укр.)">Право TV (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="774" xmltv_id="Просвещение">Просвещение</channel>
+    <channel update="i" site="vsetv.com" site_id="602" xmltv_id="Психология21">Психология21</channel>
+    <channel update="i" site="vsetv.com" site_id="48" xmltv_id="Пятница">Пятница</channel>
+    <channel update="i" site="vsetv.com" site_id="625" xmltv_id="Пятница (+2)">Пятница (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="569" xmltv_id="Пятница (+4)">Пятница (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="626" xmltv_id="Пятница (+7)">Пятница (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="823" xmltv_id="Рада">Рада</channel>
+    <channel update="i" site="vsetv.com" site_id="824" xmltv_id="Рада (на укр.)">Рада (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="693" xmltv_id="Радость моя">Радость моя</channel>
+    <channel update="i" site="vsetv.com" site_id="581" xmltv_id="РазТВ">РазТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="146" xmltv_id="РБК ТВ">РБК ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="858" xmltv_id="РГВК Дагестан">РГВК Дагестан</channel>
+    <channel update="i" site="vsetv.com" site_id="13" xmltv_id="РЕН ТВ">РЕН ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="570" xmltv_id="РЕН ТВ (+2)">РЕН ТВ (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="571" xmltv_id="РЕН ТВ (+4)">РЕН ТВ (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="572" xmltv_id="РЕН ТВ (+7)">РЕН ТВ (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="244" xmltv_id="Ретро">Ретро</channel>
+    <channel update="i" site="vsetv.com" site_id="713" xmltv_id="РЖД ТВ">РЖД ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="9" xmltv_id="Россия 1">Россия 1</channel>
+    <channel update="i" site="vsetv.com" site_id="548" xmltv_id="Россия 1 (+2)">Россия 1 (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="549" xmltv_id="Россия 1 (+4)">Россия 1 (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="550" xmltv_id="Россия 1 (+6)">Россия 1 (+6)</channel>
+    <channel update="i" site="vsetv.com" site_id="551" xmltv_id="Россия 1 (+8)">Россия 1 (+8)</channel>
+    <channel update="i" site="vsetv.com" site_id="144" xmltv_id="Россия 2">Россия 2</channel>
+    <channel update="i" site="vsetv.com" site_id="328" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="vsetv.com" site_id="841" xmltv_id="Россия HD">Россия HD</channel>
+    <channel update="i" site="vsetv.com" site_id="700" xmltv_id="РТР-Беларусь">РТР-Беларусь</channel>
+    <channel update="i" site="vsetv.com" site_id="885" xmltv_id="РТР-Планета Азия">РТР-Планета Азия</channel>
+    <channel update="i" site="vsetv.com" site_id="831" xmltv_id="РТР-Планета Америка">РТР-Планета Америка</channel>
+    <channel update="i" site="vsetv.com" site_id="98" xmltv_id="РТР-Планета Европа">РТР-Планета Европа</channel>
+    <channel update="i" site="vsetv.com" site_id="355" xmltv_id="РТР-Планета Украина">РТР-Планета Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="296" xmltv_id="Русская ночь">Русская ночь</channel>
+    <channel update="i" site="vsetv.com" site_id="812" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
+    <channel update="i" site="vsetv.com" site_id="1051" xmltv_id="Русский бестселлер (международный)">Русский бестселлер (международный)</channel>
+    <channel update="i" site="vsetv.com" site_id="942" xmltv_id="Русский детектив">Русский детектив</channel>
+    <channel update="i" site="vsetv.com" site_id="177" xmltv_id="Русский иллюзион">Русский иллюзион</channel>
+    <channel update="i" site="vsetv.com" site_id="757" xmltv_id="Русский роман">Русский роман</channel>
+    <channel update="i" site="vsetv.com" site_id="859" xmltv_id="Русский Север">Русский Север</channel>
+    <channel update="i" site="vsetv.com" site_id="288" xmltv_id="Русский экстрим">Русский экстрим</channel>
+    <channel update="i" site="vsetv.com" site_id="1047" xmltv_id="Рыжий">Рыжий</channel>
+    <channel update="i" site="vsetv.com" site_id="433" xmltv_id="Сарафан">Сарафан</channel>
+    <channel update="i" site="vsetv.com" site_id="949" xmltv_id="Семейное HD">Семейное HD</channel>
+    <channel update="i" site="vsetv.com" site_id="709" xmltv_id="Сигма">Сигма</channel>
+    <channel update="i" site="vsetv.com" site_id="350" xmltv_id="Совершенно секретно">Совершенно секретно</channel>
+    <channel update="i" site="vsetv.com" site_id="874" xmltv_id="Сонце">Сонце</channel>
+    <channel update="i" site="vsetv.com" site_id="875" xmltv_id="Сонце (на укр.)">Сонце (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="1018" xmltv_id="Соціальна країна (на укр.)">Соціальна країна (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="235" xmltv_id="Союз (Екатеринбург)">Союз (Екатеринбург)</channel>
+    <channel update="i" site="vsetv.com" site_id="238" xmltv_id="Спас">Спас</channel>
+    <channel update="i" site="vsetv.com" site_id="711" xmltv_id="Спорт">Спорт</channel>
+    <channel update="i" site="vsetv.com" site_id="270" xmltv_id="Спорт 1">Спорт 1</channel>
+    <channel update="i" site="vsetv.com" site_id="426" xmltv_id="Спорт 1 (на укр.)">Спорт 1 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="667" xmltv_id="Спорт 1 (Россия)">Спорт 1 (Россия)</channel>
+    <channel update="i" site="vsetv.com" site_id="724" xmltv_id="Спорт 1 HD">Спорт 1 HD</channel>
+    <channel update="i" site="vsetv.com" site_id="309" xmltv_id="Спорт 2">Спорт 2</channel>
+    <channel update="i" site="vsetv.com" site_id="427" xmltv_id="Спорт 2 (на укр.)">Спорт 2 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="595" xmltv_id="Спорт Плюс">Спорт Плюс</channel>
+    <channel update="i" site="vsetv.com" site_id="6" xmltv_id="СТБ">СТБ</channel>
+    <channel update="i" site="vsetv.com" site_id="359" xmltv_id="СТБ (на укр.)">СТБ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="115" xmltv_id="СТВ">СТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="956" xmltv_id="СТВ Башкортостан">СТВ Башкортостан</channel>
+    <channel update="i" site="vsetv.com" site_id="627" xmltv_id="Страна">Страна</channel>
+    <channel update="i" site="vsetv.com" site_id="275" xmltv_id="Страна советов">Страна советов</channel>
+    <channel update="i" site="vsetv.com" site_id="1031" xmltv_id="Страшное HD">Страшное HD</channel>
+    <channel update="i" site="vsetv.com" site_id="17" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="vsetv.com" site_id="538" xmltv_id="СТС (+2)">СТС (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="539" xmltv_id="СТС (+4)">СТС (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="508" xmltv_id="СТС (+7)">СТС (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="758" xmltv_id="СТС International">СТС International</channel>
+    <channel update="i" site="vsetv.com" site_id="768" xmltv_id="СТС International Балтия">СТС International Балтия</channel>
+    <channel update="i" site="vsetv.com" site_id="952" xmltv_id="СТС Love">СТС Love</channel>
+    <channel update="i" site="vsetv.com" site_id="1019" xmltv_id="СТС Love (+7)">СТС Love (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="959" xmltv_id="Тамыр">Тамыр</channel>
+    <channel update="i" site="vsetv.com" site_id="694" xmltv_id="ТБН Россия">ТБН Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="68" xmltv_id="ТВ XXI">ТВ XXI</channel>
+    <channel update="i" site="vsetv.com" site_id="607" xmltv_id="ТВ Клуб">ТВ Клуб</channel>
+    <channel update="i" site="vsetv.com" site_id="11" xmltv_id="ТВ Центр">ТВ Центр</channel>
+    <channel update="i" site="vsetv.com" site_id="559" xmltv_id="ТВ Центр (+2)">ТВ Центр (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="560" xmltv_id="ТВ Центр (+4)">ТВ Центр (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="624" xmltv_id="ТВ Центр (+7)">ТВ Центр (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="237" xmltv_id="ТВ Центр Международный (TVCI)">ТВ Центр Международный (TVCI)</channel>
+    <channel update="i" site="vsetv.com" site_id="63" xmltv_id="ТВ-3 Россия">ТВ-3 Россия</channel>
+    <channel update="i" site="vsetv.com" site_id="564" xmltv_id="ТВ-3 Россия (+2)">ТВ-3 Россия (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="845" xmltv_id="ТВ-3 Россия (+3)">ТВ-3 Россия (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="565" xmltv_id="ТВ-3 Россия (+7)">ТВ-3 Россия (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="714" xmltv_id="ТВ-7 (Мариуполь)">ТВ-7 (Мариуполь)</channel>
+    <channel update="i" site="vsetv.com" site_id="847" xmltv_id="ТВ3 Беларусь">ТВ3 Беларусь</channel>
+    <channel update="i" site="vsetv.com" site_id="892" xmltv_id="твFM">твFM</channel>
+    <channel update="i" site="vsetv.com" site_id="1027" xmltv_id="ТВОЙ">ТВОЙ</channel>
+    <channel update="i" site="vsetv.com" site_id="142" xmltv_id="ТДК">ТДК</channel>
+    <channel update="i" site="vsetv.com" site_id="829" xmltv_id="Театр">Театр</channel>
+    <channel update="i" site="vsetv.com" site_id="853" xmltv_id="Теледом">Теледом</channel>
+    <channel update="i" site="vsetv.com" site_id="887" xmltv_id="Телеканал 100">Телеканал 100</channel>
+    <channel update="i" site="vsetv.com" site_id="888" xmltv_id="Телеканал 100 (на укр.)">Телеканал 100 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="415" xmltv_id="Телекафе">Телекафе</channel>
+    <channel update="i" site="vsetv.com" site_id="141" xmltv_id="Телеклуб">Телеклуб</channel>
+    <channel update="i" site="vsetv.com" site_id="450" xmltv_id="Телепутешествия">Телепутешествия</channel>
+    <channel update="i" site="vsetv.com" site_id="18" xmltv_id="ТЕТ">ТЕТ</channel>
+    <channel update="i" site="vsetv.com" site_id="364" xmltv_id="ТЕТ (на укр.)">ТЕТ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="381" xmltv_id="Техно 24">Техно 24</channel>
+    <channel update="i" site="vsetv.com" site_id="315" xmltv_id="Тиса-1">Тиса-1</channel>
+    <channel update="i" site="vsetv.com" site_id="467" xmltv_id="Тиса-1 (на укр.)">Тиса-1 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="781" xmltv_id="ТНВ-Планета">ТНВ-Планета</channel>
+    <channel update="i" site="vsetv.com" site_id="145" xmltv_id="ТНВ-Татарстан">ТНВ-Татарстан</channel>
+    <channel update="i" site="vsetv.com" site_id="14" xmltv_id="ТНТ">ТНТ</channel>
+    <channel update="i" site="vsetv.com" site_id="556" xmltv_id="ТНТ (+2)">ТНТ (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="767" xmltv_id="ТНТ (+3)">ТНТ (+3)</channel>
+    <channel update="i" site="vsetv.com" site_id="557" xmltv_id="ТНТ (+4)">ТНТ (+4)</channel>
+    <channel update="i" site="vsetv.com" site_id="558" xmltv_id="ТНТ (+7)">ТНТ (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="737" xmltv_id="ТНТ Bravo">ТНТ Bravo</channel>
+    <channel update="i" site="vsetv.com" site_id="476" xmltv_id="ТНТ-Comedy">ТНТ-Comedy</channel>
+    <channel update="i" site="vsetv.com" site_id="1052" xmltv_id="ТНТ-International (Беларусь)">ТНТ-International (Беларусь)</channel>
+    <channel update="i" site="vsetv.com" site_id="991" xmltv_id="ТНТ-International (Европа)">ТНТ-International (Европа)</channel>
+    <channel update="i" site="vsetv.com" site_id="981" xmltv_id="ТНТ-International (СНГ)">ТНТ-International (СНГ)</channel>
+    <channel update="i" site="vsetv.com" site_id="25" xmltv_id="Тонис">Тонис</channel>
+    <channel update="i" site="vsetv.com" site_id="365" xmltv_id="Тонис (на укр.)">Тонис (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="803" xmltv_id="Тонис HD">Тонис HD</channel>
+    <channel update="i" site="vsetv.com" site_id="822" xmltv_id="Тонис HD (на укр.)">Тонис HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="495" xmltv_id="Тонус ТВ">Тонус ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="1011" xmltv_id="Точка ТВ">Точка ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="633" xmltv_id="ТРК &quot;Буковина&quot; (на укр.)">ТРК "Буковина" (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="919" xmltv_id="ТРК &quot;Регион&quot;">ТРК "Регион"</channel>
+    <channel update="i" site="vsetv.com" site_id="78" xmltv_id="ТРК &quot;Эра&quot;">ТРК "Эра"</channel>
+    <channel update="i" site="vsetv.com" site_id="349" xmltv_id="ТРК &quot;Эра&quot; (на укр.)">ТРК "Эра" (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="491" xmltv_id="ТРО">ТРО</channel>
+    <channel update="i" site="vsetv.com" site_id="945" xmltv_id="Трофей">Трофей</channel>
+    <channel update="i" site="vsetv.com" site_id="717" xmltv_id="ТТС">ТТС</channel>
+    <channel update="i" site="vsetv.com" site_id="987" xmltv_id="Туган Тел">Туган Тел</channel>
+    <channel update="i" site="vsetv.com" site_id="609" xmltv_id="УБР">УБР</channel>
+    <channel update="i" site="vsetv.com" site_id="610" xmltv_id="УБР (на укр.)">УБР (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="108" xmltv_id="Украина">Украина</channel>
+    <channel update="i" site="vsetv.com" site_id="361" xmltv_id="Украина (на укр.)">Украина (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="531" xmltv_id="Улыбка ребенка">Улыбка ребенка</channel>
+    <channel update="i" site="vsetv.com" site_id="740" xmltv_id="УНИАН ТВ">УНИАН ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="786" xmltv_id="УНИАН ТВ (на укр.)">УНИАН ТВ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="305" xmltv_id="Усадьба">Усадьба</channel>
+    <channel update="i" site="vsetv.com" site_id="649" xmltv_id="Успех">Успех</channel>
+    <channel update="i" site="vsetv.com" site_id="689" xmltv_id="УТР">УТР</channel>
+    <channel update="i" site="vsetv.com" site_id="165" xmltv_id="УТР (на укр.)">УТР (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="390" xmltv_id="Феникс+Кино">Феникс+Кино</channel>
+    <channel update="i" site="vsetv.com" site_id="440" xmltv_id="Футбол (Россия)">Футбол (Россия)</channel>
+    <channel update="i" site="vsetv.com" site_id="507" xmltv_id="Футбол 1">Футбол 1</channel>
+    <channel update="i" site="vsetv.com" site_id="638" xmltv_id="Футбол 1 (на укр.)">Футбол 1 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="963" xmltv_id="Футбол 1 HD">Футбол 1 HD</channel>
+    <channel update="i" site="vsetv.com" site_id="964" xmltv_id="Футбол 1 HD (на укр.)">Футбол 1 HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="703" xmltv_id="Футбол 2">Футбол 2</channel>
+    <channel update="i" site="vsetv.com" site_id="704" xmltv_id="Футбол 2 (на укр.)">Футбол 2 (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="804" xmltv_id="Футбол 2 HD">Футбол 2 HD</channel>
+    <channel update="i" site="vsetv.com" site_id="821" xmltv_id="Футбол 2 HD (на укр.)">Футбол 2 HD (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="317" xmltv_id="Центральный канал">Центральный канал</channel>
+    <channel update="i" site="vsetv.com" site_id="466" xmltv_id="Центральный канал (на укр.)">Центральный канал (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="446" xmltv_id="ЧП.INFO">ЧП.INFO</channel>
+    <channel update="i" site="vsetv.com" site_id="472" xmltv_id="ЧП.INFO (на укр.)">ЧП.INFO (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="719" xmltv_id="Шансон ТВ">Шансон ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="1010" xmltv_id="Эверест (на укр.)">Эверест (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="685" xmltv_id="Эко-ТВ">Эко-ТВ</channel>
+    <channel update="i" site="vsetv.com" site_id="686" xmltv_id="Эко-ТВ (на укр.)">Эко-ТВ (на укр.)</channel>
+    <channel update="i" site="vsetv.com" site_id="49" xmltv_id="Ю">Ю</channel>
+    <channel update="i" site="vsetv.com" site_id="722" xmltv_id="Ю (+2)">Ю (+2)</channel>
+    <channel update="i" site="vsetv.com" site_id="723" xmltv_id="Ю (+7)">Ю (+7)</channel>
+    <channel update="i" site="vsetv.com" site_id="128" xmltv_id="Югра">Югра</channel>
+    <channel update="i" site="vsetv.com" site_id="867" xmltv_id="Южный Регион Дон">Южный Регион Дон</channel>
+    <channel update="i" site="vsetv.com" site_id="410" xmltv_id="ЮМОР BOX">ЮМОР BOX</channel>
+  </channels>
+</site>
