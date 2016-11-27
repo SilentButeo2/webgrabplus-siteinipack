@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="tviz.tv">
   <channels>
     <channel update="i" site="tviz.tv" site_id="pervyj" xmltv_id="Первый">Первый</channel>
+	<channel update="i" site="tviz.tv" site_id="muzhskoe-kino" xmltv_id="Мужское кино">Мужское кино</channel>
+    <channel update="i" site="tviz.tv" site_id="avto24" xmltv_id="Авто24">Авто24</channel>
     <channel update="i" site="tviz.tv" site_id="ntv" xmltv_id="НТВ">НТВ</channel>
     <channel update="i" site="tviz.tv" site_id="rossiya-1" xmltv_id="Россия 1">Россия 1</channel>
     <channel update="i" site="tviz.tv" site_id="sts" xmltv_id="СТС">СТС</channel>
@@ -16,8 +18,7 @@
     <channel update="i" site="tviz.tv" site_id="domashnij" xmltv_id="Домашний">Домашний</channel>
     <channel update="i" site="tviz.tv" site_id="zhivaya-planeta" xmltv_id="Живая планета">Живая планета</channel>
     <channel update="i" site="tviz.tv" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
-    <channel update="i" site="tviz.tv" site_id="kino-plyus" xmltv_id="КИНО ПЛЮС">КИНО ПЛЮС</channel>
-    <channel update="i" site="tviz.tv" site_id="zvezda" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="tviz.tv" site_id="kino-plyus" xmltv_id="Кино Плюс">Кино Плюс</channel>
     <channel update="i" site="tviz.tv" site_id="2x2" xmltv_id="2x2">2x2</channel>
     <channel update="i" site="tviz.tv" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="tviz.tv" site_id="rossiya-24" xmltv_id="Россия 24">Россия 24</channel>
@@ -63,10 +64,10 @@
     <channel update="i" site="tviz.tv" site_id="deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
     <channel update="i" site="tviz.tv" site_id="kinopokaz" xmltv_id="Кинопоказ">Кинопоказ</channel>
     <channel update="i" site="tviz.tv" site_id="tiji" xmltv_id="TiJi">TiJi</channel>
-    <channel update="i" site="tviz.tv" site_id="viasat_sport" xmltv_id="Viasat_Sport">Viasat_Sport</channel>
+    <channel update="i" site="tviz.tv" site_id="viasat_sport" xmltv_id="Viasat Sport">Viasat Sport</channel>
     <channel update="i" site="tviz.tv" site_id="dozhd" xmltv_id="Дождь">Дождь</channel>
     <channel update="i" site="tviz.tv" site_id="kinoklub" xmltv_id="Киноклуб">Киноклуб</channel>
-    <channel update="i" site="tviz.tv" site_id="nashe-kino" xmltv_id="НАШЕ КИНО">НАШЕ КИНО</channel>
+    <channel update="i" site="tviz.tv" site_id="nashe-kino" xmltv_id="Наше кино">Наше кино</channel>
     <channel update="i" site="tviz.tv" site_id="premera" xmltv_id="Премьера">Премьера</channel>
     <channel update="i" site="tviz.tv" site_id="nashe-novoe-kino" xmltv_id="Наше Новое Кино">Наше Новое Кино</channel>
     <channel update="i" site="tviz.tv" site_id="kxl" xmltv_id="КХЛ">КХЛ</channel>
@@ -135,6 +136,7 @@
     <channel update="i" site="tviz.tv" site_id="soyuz" xmltv_id="Союз">Союз</channel>
     <channel update="i" site="tviz.tv" site_id="8-kanal" xmltv_id="8 Канал">8 Канал</channel>
     <channel update="i" site="tviz.tv" site_id="match-igra" xmltv_id="Матч! Игра">Матч! Игра</channel>
+	<channel update="i" site="tviz.tv" site_id="match-igra-hd" xmltv_id="Матч! Игра HD">Матч! Игра HD</channel>
     <channel update="i" site="tviz.tv" site_id="raztv" xmltv_id="РазТВ">РазТВ</channel>
     <channel update="i" site="tviz.tv" site_id="tonus-tv" xmltv_id="Тонус-ТВ">Тонус-ТВ</channel>
     <channel update="i" site="tviz.tv" site_id="tnv" xmltv_id="ТНВ">ТНВ</channel>
@@ -145,7 +147,7 @@
     <channel update="i" site="tviz.tv" site_id="muz-tv" xmltv_id="МУЗ ТВ">МУЗ ТВ</channel>
     <channel update="i" site="tviz.tv" site_id="match-futbol-1" xmltv_id="Матч! Футбол 1">Матч! Футбол 1</channel>
     <channel update="i" site="tviz.tv" site_id="yu" xmltv_id="Ю">Ю</channel>
-    <channel update="i" site="tviz.tv" site_id="hd-kino" xmltv_id="HD КИНО">HD КИНО</channel>
+    <channel update="i" site="tviz.tv" site_id="hd-kino" xmltv_id="HD Кино">HD Кино</channel>
     <channel update="i" site="tviz.tv" site_id="detskij-mir" xmltv_id="Детский мир">Детский мир</channel>
     <channel update="i" site="tviz.tv" site_id="spas" xmltv_id="Спас ТВ">Спас ТВ</channel>
     <channel update="i" site="tviz.tv" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
@@ -306,7 +308,7 @@
     <channel update="i" site="tviz.tv" site_id="cctv" xmltv_id="CCTV">CCTV</channel>
     <channel update="i" site="tviz.tv" site_id="nika-tv" xmltv_id="Ника ТВ">Ника ТВ</channel>
     <channel update="i" site="tviz.tv" site_id="nash-futbol-hd" xmltv_id="Наш Футбол HD">Наш Футбол HD</channel>
-    <channel update="i" site="tviz.tv" site_id="trace-urban-hd" xmltv_id="TRACE URBAN HD">TRACE URBAN HD</channel>
+    <channel update="i" site="tviz.tv" site_id="trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
     <channel update="i" site="tviz.tv" site_id="ldprtv" xmltv_id="ЛДПР.ТВ">ЛДПР.ТВ</channel>
     <channel update="i" site="tviz.tv" site_id="shopping-live" xmltv_id="Shopping Live">Shopping Live</channel>
     <channel update="i" site="tviz.tv" site_id="nochnoj-klub" xmltv_id="Ночной клуб">Ночной клуб</channel>
@@ -378,7 +380,7 @@
     <channel update="i" site="tviz.tv" site_id="ntv-hd" xmltv_id="НТВ HD">НТВ HD</channel>
     <channel update="i" site="tviz.tv" site_id="arirang" xmltv_id="Arirang">Arirang</channel>
     <channel update="i" site="tviz.tv" site_id="russkij-bestseller" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
-    <channel update="i" site="tviz.tv" site_id="amedia1" xmltv_id="Amedia1">Amedia1</channel>
+    <channel update="i" site="tviz.tv" site_id="amedia1" xmltv_id="Amedia 1">Amedia 1</channel>
     <channel update="i" site="tviz.tv" site_id="amedia-2" xmltv_id="Amedia 2">Amedia 2</channel>
     <channel update="i" site="tviz.tv" site_id="amedia-premium-hd" xmltv_id="Amedia Premium HD">Amedia Premium HD</channel>
     <channel update="i" site="tviz.tv" site_id="amedia1-hd" xmltv_id="Amedia1 HD">Amedia1 HD</channel>
@@ -416,5 +418,10 @@
     <channel update="i" site="tviz.tv" site_id="rt-espanol" xmltv_id="RT Espanol">RT Espanol</channel>
     <channel update="i" site="tviz.tv" site_id="strashnoe-hd" xmltv_id="Страшное HD">Страшное HD</channel>
     <channel update="i" site="tviz.tv" site_id="amedia-hit-hd" xmltv_id="Amedia Hit HD">Amedia Hit HD</channel>
+	<channel update="i" site="tviz.tv" site_id="zvezda" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="tviz.tv" site_id="rodnoe-kino" xmltv_id="Родное кино">Родное кино</channel>
+	<channel update="i" site="tviz.tv" site_id="kinopremiera" xmltv_id="Кинопремьера HD">Кинопремьера HD</channel>
+	<channel update="i" site="tviz.tv" site_id="kinosemiya" xmltv_id="Киносемья">Киносемья</channel>
+	<channel update="i" site="tviz.tv" site_id="kinomiks" xmltv_id="Киномикс">Киномикс</channel>  
   </channels>
 </site>
