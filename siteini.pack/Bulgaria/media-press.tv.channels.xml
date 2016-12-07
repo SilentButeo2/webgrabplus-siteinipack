@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.20 -- Jan van Straaten" site="media-press.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="media-press.tv">
   <channels>
+    <channel update="i" site="media-press.tv" site_id="BFLI" xmltv_id="FOX Life">FOX Life</channel>
     <channel update="i" site="media-press.tv" site_id="3SA" xmltv_id="3sat">3sat</channel>
     <channel update="i" site="media-press.tv" site_id="ARD" xmltv_id="ARD">ARD</channel>
     <channel update="i" site="media-press.tv" site_id="ART" xmltv_id="Arte">Arte</channel>
@@ -21,6 +22,8 @@
     <channel update="i" site="media-press.tv" site_id="CNN" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="media-press.tv" site_id="BNDI" xmltv_id="Diema">Diema</channel>
     <channel update="i" site="media-press.tv" site_id="BNFA" xmltv_id="Diema Family">Diema Family</channel>
+    <channel update="i" site="media-press.tv" site_id="BFOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="media-press.tv" site_id="BFCR" xmltv_id="FOX Crime">FOX Crime</channel>
     <channel update="i" site="media-press.tv" site_id="KAB" xmltv_id="Kabel 1">Kabel 1</channel>
     <channel update="i" site="media-press.tv" site_id="KKA" xmltv_id="Kinderkanal">Kinderkanal</channel>
     <channel update="i" site="media-press.tv" site_id="BNKN" xmltv_id="Kino Nova">Kino Nova</channel>
@@ -41,6 +44,7 @@
     <channel update="i" site="media-press.tv" site_id="DSF" xmltv_id="Sport1">Sport1</channel>
     <channel update="i" site="media-press.tv" site_id="DRS" xmltv_id="SRF 1">SRF 1</channel>
     <channel update="i" site="media-press.tv" site_id="CH4" xmltv_id="SRF zwei">SRF zwei</channel>
+    <channel update="i" site="media-press.tv" site_id="B7SU" xmltv_id="Super 7">Super 7</channel>
     <channel update="i" site="media-press.tv" site_id="SRT" xmltv_id="Super RTL">Super RTL</channel>
     <channel update="i" site="media-press.tv" site_id="TL5" xmltv_id="Tele 5">Tele 5</channel>
     <channel update="i" site="media-press.tv" site_id="TF1" xmltv_id="TF 1">TF 1</channel>
