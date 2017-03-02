@@ -16,7 +16,7 @@ url_index.headers {customheader=Accept-Encoding=gzip,deflate}
 *urldate.format {datestring|yyyy-MM-dd}
 
 index_variable_element.modify {set|'config_site_id'}
-index_showsplit.scrub {multi(includeblock=""'index_variable_element'\\"")|{\"uuid|{\"sub||]}
+index_showsplit.scrub {multi(includeblock="'index_variable_element'\\"")|{\"uuid|{\"sub||]}
 
 index_start.scrub {regex||\\"start\\":{.*?timestamp\\":(\d+)},||}
 index_end.scrub {regex||\\"end\\":{.*?timestamp\\":(\d+)},||}
