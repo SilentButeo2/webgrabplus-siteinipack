@@ -1,14 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="mojtv.hr">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" site="mojtv.hr">
   <channels>
+    <channel update="i" site="mojtv.hr" site_id="525/mrt1" xmltv_id="MRT1">MRT1</channel>
+    <channel update="i" site="mojtv.hr" site_id="526/mrt2" xmltv_id="MRT2">MRT2</channel>
+    <channel update="i" site="mojtv.hr" site_id="527/sobraniski-kanal" xmltv_id="Sobraniski Kanal">Sobraniski Kanal</channel>
     <channel update="i" site="mojtv.hr" site_id="1/htv1" xmltv_id="HTV1">HTV1</channel>
     <channel update="i" site="mojtv.hr" site_id="2/htv2" xmltv_id="HTV2">HTV2</channel>
     <channel update="i" site="mojtv.hr" site_id="310/htv3" xmltv_id="HTV3">HTV3</channel>
-    <channel update="i" site="mojtv.hr" site_id="341/htv-4" xmltv_id="HTV 4">HTV 4</channel>
     <channel update="i" site="mojtv.hr" site_id="3/nova-tv" xmltv_id="NOVA TV">NOVA TV</channel>
     <channel update="i" site="mojtv.hr" site_id="4/rtl" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="mojtv.hr" site_id="185/doma-tv" xmltv_id="Doma TV">Doma TV</channel>
     <channel update="i" site="mojtv.hr" site_id="186/rtl2" xmltv_id="RTL2">RTL2</channel>
+    <channel update="i" site="mojtv.hr" site_id="341/htv-4" xmltv_id="HTV 4">HTV 4</channel>
     <channel update="i" site="mojtv.hr" site_id="7/mrezazg" xmltv_id="MrežaZG">MrežaZG</channel>
     <channel update="i" site="mojtv.hr" site_id="6/jabuka-tv" xmltv_id="Jabuka TV">Jabuka TV</channel>
     <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
@@ -33,15 +36,23 @@
     <channel update="i" site="mojtv.hr" site_id="291/srce-tv" xmltv_id="Srce TV">Srce TV</channel>
     <channel update="i" site="mojtv.hr" site_id="313/dubrovacka-tv" xmltv_id="Dubrovačka TV">Dubrovačka TV</channel>
     <channel update="i" site="mojtv.hr" site_id="477/poljoprivredna-tv" xmltv_id="Poljoprivredna TV">Poljoprivredna TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="504/laudato-tv" xmltv_id="Laudato TV">Laudato TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="505/pozitiv-tv" xmltv_id="Pozitiv TV">Pozitiv TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="524/hntv" xmltv_id="HNTV">HNTV</channel>
     <channel update="i" site="mojtv.hr" site_id="62/sk1" xmltv_id="SK1">SK1</channel>
     <channel update="i" site="mojtv.hr" site_id="63/sk2" xmltv_id="SK2">SK2</channel>
     <channel update="i" site="mojtv.hr" site_id="296/sk3" xmltv_id="SK3">SK3</channel>
+    <channel update="i" site="mojtv.hr" site_id="240/sk4" xmltv_id="SK4">SK4</channel>
+    <channel update="i" site="mojtv.hr" site_id="241/sk5" xmltv_id="SK5">SK5</channel>
+    <channel update="i" site="mojtv.hr" site_id="242/sk6" xmltv_id="SK6">SK6</channel>
     <channel update="i" site="mojtv.hr" site_id="294/sk-hd" xmltv_id="SK HD">SK HD</channel>
     <channel update="i" site="mojtv.hr" site_id="143/sk-golf" xmltv_id="SK Golf">SK Golf</channel>
     <channel update="i" site="mojtv.hr" site_id="179/arena-sport-1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
     <channel update="i" site="mojtv.hr" site_id="180/arena-sport-2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
     <channel update="i" site="mojtv.hr" site_id="253/arena-sport-3" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
     <channel update="i" site="mojtv.hr" site_id="264/arena-sport-4" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
+    <channel update="i" site="mojtv.hr" site_id="533/arena-sport-6" xmltv_id="Arena Sport 6">Arena Sport 6</channel>
+    <channel update="i" site="mojtv.hr" site_id="460/arena-sport-5" xmltv_id="Arena Sport 5">Arena Sport 5</channel>
     <channel update="i" site="mojtv.hr" site_id="50/eurosport" xmltv_id="Eurosport">Eurosport</channel>
     <channel update="i" site="mojtv.hr" site_id="51/eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="mojtv.hr" site_id="52/sport-1" xmltv_id="Sport 1">Sport 1</channel>
@@ -52,9 +63,9 @@
     <channel update="i" site="mojtv.hr" site_id="84/motors-tv" xmltv_id="Motors Tv">Motors Tv</channel>
     <channel update="i" site="mojtv.hr" site_id="85/nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel update="i" site="mojtv.hr" site_id="244/sportska-televizija" xmltv_id="Sportska Televizija">Sportska Televizija</channel>
+    <channel update="i" site="mojtv.hr" site_id="359/fuel-tv" xmltv_id="Fuel TV">Fuel TV</channel>
     <channel update="i" site="mojtv.hr" site_id="409/lov-i-ribolov" xmltv_id="Lov i ribolov">Lov i ribolov</channel>
     <channel update="i" site="mojtv.hr" site_id="473/fight-channel-world" xmltv_id="Fight Channel World">Fight Channel World</channel>
-    <channel update="i" site="mojtv.hr" site_id="359/fuel-tv" xmltv_id="Fuel TV">Fuel TV</channel>
     <channel update="i" site="mojtv.hr" site_id="360/sportskool" xmltv_id="Sportskool">Sportskool</channel>
     <channel update="i" site="mojtv.hr" site_id="149/body-in-balance" xmltv_id="Body in balance">Body in balance</channel>
     <channel update="i" site="mojtv.hr" site_id="498/fightbox" xmltv_id="FightBox">FightBox</channel>
@@ -62,10 +73,11 @@
     <channel update="i" site="mojtv.hr" site_id="503/fcwhd" xmltv_id="FCWHD">FCWHD</channel>
     <channel update="i" site="mojtv.hr" site_id="284/fishing-and-hunting" xmltv_id="Fishing And Hunting">Fishing And Hunting</channel>
     <channel update="i" site="mojtv.hr" site_id="357/kreator-tv" xmltv_id="Kreator TV">Kreator TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="514/hbo3" xmltv_id="HBO3">HBO3</channel>
     <channel update="i" site="mojtv.hr" site_id="136/cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
     <channel update="i" site="mojtv.hr" site_id="105/cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="mojtv.hr" site_id="41/hbo" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="mojtv.hr" site_id="42/hbo-comedy" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="mojtv.hr" site_id="42/hbo2" xmltv_id="HBO2">HBO2</channel>
     <channel update="i" site="mojtv.hr" site_id="106/cinestar-tv" xmltv_id="Cinestar TV">Cinestar TV</channel>
     <channel update="i" site="mojtv.hr" site_id="361/cinestar-premiere-1" xmltv_id="Cinestar Premiere 1">Cinestar Premiere 1</channel>
     <channel update="i" site="mojtv.hr" site_id="362/cinestar-premiere-2" xmltv_id="Cinestar Premiere 2">Cinestar Premiere 2</channel>
@@ -73,7 +85,7 @@
     <channel update="i" site="mojtv.hr" site_id="344/kinotv" xmltv_id="KinoTV">KinoTV</channel>
     <channel update="i" site="mojtv.hr" site_id="184/klasik-tv" xmltv_id="Klasik TV">Klasik TV</channel>
     <channel update="i" site="mojtv.hr" site_id="43/tv1000" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="mojtv.hr" site_id="40/universal-channel" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="mojtv.hr" site_id="40/diva" xmltv_id="Diva">Diva</channel>
     <channel update="i" site="mojtv.hr" site_id="286/fox-movies" xmltv_id="Fox Movies">Fox Movies</channel>
     <channel update="i" site="mojtv.hr" site_id="319/fox" xmltv_id="Fox">Fox</channel>
     <channel update="i" site="mojtv.hr" site_id="69/fox-life" xmltv_id="Fox Life">Fox Life</channel>
@@ -83,11 +95,12 @@
     <channel update="i" site="mojtv.hr" site_id="382/horror-channel" xmltv_id="Horror Channel">Horror Channel</channel>
     <channel update="i" site="mojtv.hr" site_id="457/rtl-passion" xmltv_id="RTL Passion">RTL Passion</channel>
     <channel update="i" site="mojtv.hr" site_id="458/rtl-crime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="mojtv.hr" site_id="528/axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
     <channel update="i" site="mojtv.hr" site_id="44/bbc-entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
     <channel update="i" site="mojtv.hr" site_id="119/scifi-channel" xmltv_id="Sci-Fi Channel">Sci-Fi Channel</channel>
     <channel update="i" site="mojtv.hr" site_id="75/cbs-drama" xmltv_id="CBS Drama">CBS Drama</channel>
     <channel update="i" site="mojtv.hr" site_id="356/m1-film" xmltv_id="M1 FILM">M1 FILM</channel>
-    <channel update="i" site="mojtv.hr" site_id="437/amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="mojtv.hr" site_id="529/amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="mojtv.hr" site_id="495/filmbox-plus" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
     <channel update="i" site="mojtv.hr" site_id="496/filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
     <channel update="i" site="mojtv.hr" site_id="497/arthouse" xmltv_id="Arthouse">Arthouse</channel>
@@ -111,6 +124,8 @@
     <channel update="i" site="mojtv.hr" site_id="363/cinestar-premiere-1-hd" xmltv_id="Cinestar Premiere 1 HD">Cinestar Premiere 1 HD</channel>
     <channel update="i" site="mojtv.hr" site_id="364/cinestar-premiere-2-hd" xmltv_id="Cinestar Premiere 2 HD">Cinestar Premiere 2 HD</channel>
     <channel update="i" site="mojtv.hr" site_id="347/dorcel-xxx" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
+    <channel update="i" site="mojtv.hr" site_id="530/discovery-dtx" xmltv_id="Discovery DTX">Discovery DTX</channel>
+    <channel update="i" site="mojtv.hr" site_id="531/discovery-science-hd" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
     <channel update="i" site="mojtv.hr" site_id="348/hustler-hd" xmltv_id="Hustler HD">Hustler HD</channel>
     <channel update="i" site="mojtv.hr" site_id="48/national-geographic" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="mojtv.hr" site_id="73/viasat-history" xmltv_id="Viasat History">Viasat History</channel>
@@ -145,8 +160,8 @@
     <channel update="i" site="mojtv.hr" site_id="147/natgeo-music" xmltv_id="NatGeo Music">NatGeo Music</channel>
     <channel update="i" site="mojtv.hr" site_id="87/vh1" xmltv_id="VH-1">VH-1</channel>
     <channel update="i" site="mojtv.hr" site_id="305/dance-trippin" xmltv_id="Dance Trippin">Dance Trippin</channel>
-    <channel update="i" site="mojtv.hr" site_id="267/mtv-music" xmltv_id="MTV Music">MTV Music</channel>
     <channel update="i" site="mojtv.hr" site_id="249/dm-sat" xmltv_id="DM Sat">DM Sat</channel>
+    <channel update="i" site="mojtv.hr" site_id="267/mtv-music" xmltv_id="MTV Music">MTV Music</channel>
     <channel update="i" site="mojtv.hr" site_id="227/mezzo" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="mojtv.hr" site_id="343/dmc" xmltv_id="DMC">DMC</channel>
     <channel update="i" site="mojtv.hr" site_id="474/classica-hd" xmltv_id="Classica HD">Classica HD</channel>
@@ -156,10 +171,10 @@
     <channel update="i" site="mojtv.hr" site_id="479/kiss" xmltv_id="Kiss">Kiss</channel>
     <channel update="i" site="mojtv.hr" site_id="480/magic" xmltv_id="Magic">Magic</channel>
     <channel update="i" site="mojtv.hr" site_id="481/smash-hits" xmltv_id="Smash Hits">Smash Hits</channel>
-    <channel update="i" site="mojtv.hr" site_id="312/narodna-tv" xmltv_id="Narodna TV">Narodna TV</channel>
-    <channel update="i" site="mojtv.hr" site_id="324/mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="mojtv.hr" site_id="340/tv-soko" xmltv_id="TV Soko">TV Soko</channel>
+    <channel update="i" site="mojtv.hr" site_id="324/mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="mojtv.hr" site_id="329/mtv-classic" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="mojtv.hr" site_id="312/narodna-tv" xmltv_id="Narodna TV">Narodna TV</channel>
     <channel update="i" site="mojtv.hr" site_id="250/ok-bambino" xmltv_id="OK Bambino">OK Bambino</channel>
     <channel update="i" site="mojtv.hr" site_id="248/cartoon-network-rse" xmltv_id="Cartoon Network RSE">Cartoon Network RSE</channel>
     <channel update="i" site="mojtv.hr" site_id="269/da-vinci-learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
@@ -179,15 +194,15 @@
     <channel update="i" site="mojtv.hr" site_id="315/nick-jr" xmltv_id="Nick JR">Nick JR</channel>
     <channel update="i" site="mojtv.hr" site_id="316/disney-xd" xmltv_id="Disney XD">Disney XD</channel>
     <channel update="i" site="mojtv.hr" site_id="317/orlando-kids" xmltv_id="Orlando Kids">Orlando Kids</channel>
+    <channel update="i" site="mojtv.hr" site_id="287/24sata-tv" xmltv_id="24sata TV">24sata TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="288/deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="mojtv.hr" site_id="279/russia-today" xmltv_id="Russia Today">Russia Today</channel>
     <channel update="i" site="mojtv.hr" site_id="270/al-jazeera-balkans" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
     <channel update="i" site="mojtv.hr" site_id="271/al-jazeera-int" xmltv_id="Al Jazeera Int">Al Jazeera Int</channel>
     <channel update="i" site="mojtv.hr" site_id="272/france-24" xmltv_id="France 24">France 24</channel>
-    <channel update="i" site="mojtv.hr" site_id="261/sky-news" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="mojtv.hr" site_id="268/cctv" xmltv_id="CCTV">CCTV</channel>
     <channel update="i" site="mojtv.hr" site_id="266/bbc-world" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="mojtv.hr" site_id="279/russia-today" xmltv_id="Russia Today">Russia Today</channel>
-    <channel update="i" site="mojtv.hr" site_id="287/24sata-tv" xmltv_id="24sata TV">24sata TV</channel>
-    <channel update="i" site="mojtv.hr" site_id="288/deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="mojtv.hr" site_id="261/sky-news" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="mojtv.hr" site_id="258/n24" xmltv_id="N24">N24</channel>
     <channel update="i" site="mojtv.hr" site_id="436/cnn" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="mojtv.hr" site_id="169/eurosportnews" xmltv_id="Eurosportnews">Eurosportnews</channel>
@@ -196,28 +211,30 @@
     <channel update="i" site="mojtv.hr" site_id="79/cnbc" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="mojtv.hr" site_id="80/bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel update="i" site="mojtv.hr" site_id="335/tv-espana" xmltv_id="TV Espana">TV Espana</channel>
+    <channel update="i" site="mojtv.hr" site_id="304/vizion-plus" xmltv_id="Vizion Plus">Vizion Plus</channel>
     <channel update="i" site="mojtv.hr" site_id="334/fox-news" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="mojtv.hr" site_id="331/tvsh" xmltv_id="TVSh">TVSh</channel>
     <channel update="i" site="mojtv.hr" site_id="327/tv5monde" xmltv_id="TV5MONDE">TV5MONDE</channel>
     <channel update="i" site="mojtv.hr" site_id="328/mktv" xmltv_id="MKTV">MKTV</channel>
-    <channel update="i" site="mojtv.hr" site_id="331/tvsh" xmltv_id="TVSh">TVSh</channel>
-    <channel update="i" site="mojtv.hr" site_id="304/vizion-plus" xmltv_id="Vizion Plus">Vizion Plus</channel>
-    <channel update="i" site="mojtv.hr" site_id="281/style-network" xmltv_id="Style Network">Style Network</channel>
-    <channel update="i" site="mojtv.hr" site_id="247/24kitchen" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="mojtv.hr" site_id="506/dr-fit" xmltv_id="Dr. Fit">Dr. Fit</channel>
+    <channel update="i" site="mojtv.hr" site_id="507/woman" xmltv_id="Woman">Woman</channel>
+    <channel update="i" site="mojtv.hr" site_id="508/planet-earth" xmltv_id="Planet Earth">Planet Earth</channel>
     <channel update="i" site="mojtv.hr" site_id="289/luxetv" xmltv_id="Luxe.TV">Luxe.TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="247/24kitchen" xmltv_id="24Kitchen">24Kitchen</channel>
     <channel update="i" site="mojtv.hr" site_id="265/food-network" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="mojtv.hr" site_id="81/fashion-tv" xmltv_id="Fashion Tv">Fashion Tv</channel>
     <channel update="i" site="mojtv.hr" site_id="82/e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
     <channel update="i" site="mojtv.hr" site_id="365/travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="mojtv.hr" site_id="459/rtl-living" xmltv_id="RTL Living">RTL Living</channel>
-    <channel update="i" site="mojtv.hr" site_id="311/ginx" xmltv_id="GINX">GINX</channel>
-    <channel update="i" site="mojtv.hr" site_id="323/comedy-central-extra" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
     <channel update="i" site="mojtv.hr" site_id="318/fine-living-network" xmltv_id="Fine Living Network">Fine Living Network</channel>
-    <channel update="i" site="mojtv.hr" site_id="283/bn-sat" xmltv_id="BN SAT">BN SAT</channel>
+    <channel update="i" site="mojtv.hr" site_id="323/comedy-central-extra" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="mojtv.hr" site_id="311/ginx" xmltv_id="GINX">GINX</channel>
     <channel update="i" site="mojtv.hr" site_id="263/bn-televizija" xmltv_id="BN Televizija">BN Televizija</channel>
-    <channel update="i" site="mojtv.hr" site_id="358/cinema-tv" xmltv_id="Cinema TV">Cinema TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="283/bn-sat" xmltv_id="BN SAT">BN SAT</channel>
     <channel update="i" site="mojtv.hr" site_id="381/kanal6hd" xmltv_id="Kanal6HD">Kanal6HD</channel>
-    <channel update="i" site="mojtv.hr" site_id="355/tv-k3" xmltv_id="TV K3">TV K3</channel>
     <channel update="i" site="mojtv.hr" site_id="342/facetv" xmltv_id="Face.TV">Face.TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="355/tv-k3" xmltv_id="TV K3">TV K3</channel>
+    <channel update="i" site="mojtv.hr" site_id="358/cinema-tv" xmltv_id="Cinema TV">Cinema TV</channel>
     <channel update="i" site="mojtv.hr" site_id="39/atv" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="mojtv.hr" site_id="35/hayat-tv" xmltv_id="Hayat TV">Hayat TV</channel>
     <channel update="i" site="mojtv.hr" site_id="36/rtrs" xmltv_id="RTRS">RTRS</channel>
@@ -252,6 +269,7 @@
     <channel update="i" site="mojtv.hr" site_id="278/happy-tv" xmltv_id="Happy TV">Happy TV</channel>
     <channel update="i" site="mojtv.hr" site_id="391/pink-2" xmltv_id="Pink 2">Pink 2</channel>
     <channel update="i" site="mojtv.hr" site_id="393/pink-m" xmltv_id="Pink M">Pink M</channel>
+    <channel update="i" site="mojtv.hr" site_id="30/cinemania" xmltv_id="Cinemania">Cinemania</channel>
     <channel update="i" site="mojtv.hr" site_id="301/kcn-kopernikus" xmltv_id="KCN Kopernikus">KCN Kopernikus</channel>
     <channel update="i" site="mojtv.hr" site_id="302/kcn-music" xmltv_id="KCN Music">KCN Music</channel>
     <channel update="i" site="mojtv.hr" site_id="303/kcn-svet-" xmltv_id="KCN Svet +">KCN Svet +</channel>
@@ -286,5 +304,6 @@
     <channel update="i" site="mojtv.hr" site_id="173/rtcg1" xmltv_id="RTCG1">RTCG1</channel>
     <channel update="i" site="mojtv.hr" site_id="174/rtcg2" xmltv_id="RTCG2">RTCG2</channel>
     <channel update="i" site="mojtv.hr" site_id="175/rtv-atlas" xmltv_id="RTV Atlas">RTV Atlas</channel>
+    <channel update="i" site="mojtv.hr" site_id="509/rtv-budva" xmltv_id="RTV Budva">RTV Budva</channel>
   </channels>
 </site>
