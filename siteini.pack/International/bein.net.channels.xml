@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="bein.net">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" site="bein.net">
   <channels>
     <channel update="i" site="bein.net" site_id="mena_sports/Global" xmltv_id="Global">Global</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/News_ar" xmltv_id="News_ar">News_ar</channel>
@@ -20,11 +20,14 @@
     <channel update="i" site="bein.net" site_id="mena_sports/HD15" xmltv_id="HD15">HD15</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD16" xmltv_id="HD16">HD16</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/HD17" xmltv_id="HD17">HD17</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/BS NBA" xmltv_id="BS NBA">BS NBA</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD1" xmltv_id="MoviesHD1">MoviesHD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD2" xmltv_id="MoviesHD2">MoviesHD2</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD3" xmltv_id="MoviesHD3">MoviesHD3</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD4" xmltv_id="MoviesHD4">MoviesHD4</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/BoxOffice_HD1" xmltv_id="BoxOffice_HD1">BoxOffice_HD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD1" xmltv_id="SeriesHD1">SeriesHD1</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/gourmet" xmltv_id="gourmet">gourmet</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">beJUNIOR</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Jeem" xmltv_id="Jeem">Jeem</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Baraem" xmltv_id="Baraem">Baraem</channel>
@@ -36,6 +39,16 @@
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoPeople_HD" xmltv_id="NatGeoPeople_HD">NatGeoPeople_HD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoWild_HD" xmltv_id="NatGeoWild_HD">NatGeoWild_HD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Baby_TV" xmltv_id="Baby_TV">Baby_TV</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/V_HD" xmltv_id="V_HD">V_HD</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/CNNHD" xmltv_id="CNNHD">CNNHD</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/CartoonNetworkAR" xmltv_id="CartoonNetworkAR">CartoonNetworkAR</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/CartoonNetworkHD" xmltv_id="CartoonNetworkHD">CartoonNetworkHD</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/HLN" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/AnimalPlanetHD" xmltv_id="AnimalPlanetHD">AnimalPlanetHD</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/DTX" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/CBeebies" xmltv_id="CBeebies">CBeebies</channel>
     <channel update="i" site="bein.net" site_id="france_sports/HD1" xmltv_id="HD1">HD1</channel>
     <channel update="i" site="bein.net" site_id="france_sports/HD2" xmltv_id="HD2">HD2</channel>
     <channel update="i" site="bein.net" site_id="france_sports/HD3" xmltv_id="HD3">HD3</channel>
