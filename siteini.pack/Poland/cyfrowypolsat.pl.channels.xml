@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.14 -- Jan van Straaten" site="cyfrowypolsat.pl">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" site="cyfrowypolsat.pl">
   <channels>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ab-moteurs" xmltv_id="AB Moteurs">AB Moteurs</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="adult-channel" xmltv_id="Adult Channel">Adult Channel</channel>
@@ -8,9 +8,10 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ale-kino-plus-" xmltv_id="ale kino+">ale kino+</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ale-kino-plus-hd" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="amazing-tv" xmltv_id="Amazing TV">Amazing TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="animal-planet-(niem.)" xmltv_id="Animal Planet (niem.)">Animal Planet (niem.)</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="animal-planet-hd-eu" xmltv_id="Animal Planet HD EU">Animal Planet HD EU</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="arirang-tv" xmltv_id="Arirang TV">Arirang TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="arte" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="arte-hd" xmltv_id="Arte HD">Arte HD</channel>
@@ -31,6 +32,7 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="bbc-hd" xmltv_id="BBC HD">BBC HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="bbc-knowledge-hd" xmltv_id="BBC Knowledge HD">BBC Knowledge HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="bbc-lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="bbc-lifestyle-hd" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="beate-uhse.tv" xmltv_id="Beate-Uhse.TV">Beate-Uhse.TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="belgia-tv1" xmltv_id="Belgia - TV1">Belgia - TV1</channel>
@@ -38,6 +40,7 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="bloomberg-(ang.)" xmltv_id="Bloomberg (ang.)">Bloomberg (ang.)</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="bollywood-hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="br" xmltv_id="BR">BR</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="br-alpha" xmltv_id="BR Alpha">BR Alpha</channel>
@@ -63,12 +66,10 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="cartoon-network-hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cartoon-network-tcm" xmltv_id="Cartoon Network/TCM">Cartoon Network/TCM</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cbs-action" xmltv_id="CBS Action">CBS Action</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="cbs-drama" xmltv_id="CBS Drama">CBS Drama</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cbs-europa" xmltv_id="CBS Europa">CBS Europa</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cbs-europa-hd" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cctv-news" xmltv_id="CCTV News">CCTV News</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="channel-21-shop" xmltv_id="Channel 21 Shop">Channel 21 Shop</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="channel-one-russia" xmltv_id="Channel One Russia">Channel One Russia</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ci-polsat" xmltv_id="CI POLSAT">CI POLSAT</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
@@ -98,10 +99,9 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-hd-(niem.)" xmltv_id="Discovery HD (niem.)">Discovery HD (niem.)</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-historia" xmltv_id="Discovery Historia">Discovery Historia</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-life" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-life-hd" xmltv_id="Discovery Life HD">Discovery Life HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-science-hd" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-turbo-xtra" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="discovery-turbo-xtra-hd" xmltv_id="Discovery Turbo Xtra HD">Discovery Turbo Xtra HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="disney-channel-hd" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="disney-cinemagic" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
@@ -117,23 +117,29 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="dorcel-xxx" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="dr-1" xmltv_id="DR 1">DR 1</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="dr-2" xmltv_id="DR 2">DR 2</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="dtx" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="dtx-hd" xmltv_id="DTX HD">DTX HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="duck-tv" xmltv_id="Duck TV">Duck TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="duck-tv-hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="dw" xmltv_id="DW">DW</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="e-entertaiment-hd" xmltv_id="E! Entertaiment HD">E! Entertaiment HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="e-sport" xmltv_id="E-SPORT">E-SPORT</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="e-sport-hd" xmltv_id="E-SPORT HD">E-SPORT HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="edusat" xmltv_id="Edusat">Edusat</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="edusat-hd" xmltv_id="Edusat HD">Edusat HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="einsfestival" xmltv_id="EinsFestival">EinsFestival</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="einslive" xmltv_id="EinsLive">EinsLive</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="einsplus" xmltv_id="EinsPlus">EinsPlus</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="eleven" xmltv_id="Eleven">Eleven</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="eleven-extra" xmltv_id="Eleven Extra">Eleven Extra</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="eleven-extra-hd" xmltv_id="Eleven Extra HD">Eleven Extra HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="eleven-hd" xmltv_id="Eleven HD">Eleven HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="eleven-hd-sports" xmltv_id="Eleven HD Sports">Eleven HD Sports</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="eleven-sport" xmltv_id="Eleven Sport">Eleven Sport</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="english-club-tv" xmltv_id="English Club TV">English Club TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="english-club-tv-hd" xmltv_id="English Club TV HD">English Club TV HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="eska-tv" xmltv_id="Eska TV">Eska TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="erox-hd" xmltv_id="Erox HD">Erox HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="eroxxx-hd" xmltv_id="Eroxxx HD">Eroxxx HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="eska-tv-hd" xmltv_id="Eska TV HD">Eska TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="eurochannel" xmltv_id="Eurochannel">Eurochannel</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="euronews" xmltv_id="EuroNews">EuroNews</channel>
@@ -152,6 +158,7 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="fashion-tv-hd" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="fashionbox" xmltv_id="FashionBox">FashionBox</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="festival-4k" xmltv_id="Festival 4K">Festival 4K</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="fightbox" xmltv_id="FightBox">FightBox</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="fightbox-hd" xmltv_id="FightBox HD">FightBox HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="fightklub" xmltv_id="Fightklub">Fightklub</channel>
@@ -174,23 +181,24 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="france-2" xmltv_id="France 2">France 2</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="france-24" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="france-24-en" xmltv_id="France 24 - EN">France 24 - EN</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="france-3" xmltv_id="France 3">France 3</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="france-5" xmltv_id="France 5">France 5</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="france-o" xmltv_id="France O">France O</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="franken-fernsehen" xmltv_id="Franken Fernsehen">Franken Fernsehen</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ginx-tv" xmltv_id="GINX TV">GINX TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="goldstart-tv" xmltv_id="Goldstart TV">Goldstart TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="golf-channel" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="golf-channel-hd" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="gotv" xmltv_id="gotv">gotv</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="h2" xmltv_id="H2">H2</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="h2-hd" xmltv_id="H2 HD">H2 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="hamburg-1" xmltv_id="Hamburg 1">Hamburg 1</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="hbo" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="hbo-comedy" xmltv_id="HBO Comedy">HBO Comedy</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="hbo-comedy-hd" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="hbo-3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="hbo-3-hd" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="hbo2" xmltv_id="HBO2">HBO2</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="hbo2-hd" xmltv_id="HBO2 HD">HBO2 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="hip-hop-tv" xmltv_id="HIP HOP TV">HIP HOP TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="history" xmltv_id="HISTORY">HISTORY</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="history-hd" xmltv_id="HISTORY HD">HISTORY HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="history-hd-(niem.)" xmltv_id="History HD (niem.)">History HD (niem.)</channel>
@@ -200,12 +208,9 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="id" xmltv_id="ID">ID</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="id-hd" xmltv_id="ID HD">ID HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="ipol-tv" xmltv_id="iPol TV">iPol TV</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="itv" xmltv_id="iTV">iTV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="jim-jam-polsat" xmltv_id="Jim Jam Polsat">Jim Jam Polsat</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="junior-(niem.)" xmltv_id="Junior (niem.)">Junior (niem.)</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="kabel-eins" xmltv_id="Kabel Eins">Kabel Eins</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="kanal-38" xmltv_id="Kanał 38">Kanał 38</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ki.ka" xmltv_id="KI.KA">KI.KA</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="kino-polska" xmltv_id="Kino Polska">Kino Polska</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="kino-polska-international" xmltv_id="Kino Polska International">Kino Polska International</channel>
@@ -222,11 +227,11 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="mcm-pop" xmltv_id="MCM Pop">MCM Pop</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mcm-top" xmltv_id="MCM Top">MCM Top</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="metro" xmltv_id="METRO">METRO</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="metro-hd" xmltv_id="METRO HD">METRO HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mezzo-live-hd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mgm" xmltv_id="MGM">MGM</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="mgm-(niem.)" xmltv_id="MGM (niem.)">MGM (niem.)</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="mgm-hd" xmltv_id="MGM HD">MGM HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="minimini" xmltv_id="Minimini">Minimini</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="minimini-plus-hd" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="motors-tv" xmltv_id="Motors TV">Motors TV</channel>
@@ -240,9 +245,12 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mtv-polska" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="mtv-polska-hd" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="mtv-rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="muenchen-2" xmltv_id="muenchen 2">muenchen 2</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="muenchen.tv" xmltv_id="muenchen.tv">muenchen.tv</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="music-box" xmltv_id="Music Box">Music Box</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="music-box-hd" xmltv_id="Music Box HD">Music Box HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="muzo.tv" xmltv_id="muzo.TV">muzo.TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="myzen.tv-hd" xmltv_id="myZen.tv HD">myZen.tv HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="n-24" xmltv_id="N 24">N 24</channel>
@@ -250,8 +258,8 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="nat-geo-people-hd" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="national-geographic-channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="national-geographic-channel-hd" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ndr" xmltv_id="NDR">NDR</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="nederland-1" xmltv_id="Nederland 1">Nederland 1</channel>
@@ -265,6 +273,8 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="nova" xmltv_id="Nova">Nova</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="novela-tv" xmltv_id="Novela tv">Novela tv</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="novela-tv-hd" xmltv_id="Novela tv HD">Novela tv HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="nowa-tv" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="nowa-tv-hd" xmltv_id="Nowa TV HD">Nowa TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="nsport" xmltv_id="nSport">nSport</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="nsport-hd" xmltv_id="nSport HD">nSport HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ntl-radomsko" xmltv_id="NTL Radomsko">NTL Radomsko</channel>
@@ -272,7 +282,6 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="nuta.tv-hd" xmltv_id="Nuta.TV HD">Nuta.TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ontv" xmltv_id="ONTV">ONTV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="ontv-hd" xmltv_id="ONTV HD">ONTV HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="orange-sport" xmltv_id="Orange Sport">Orange Sport</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="orf-1" xmltv_id="ORF 1">ORF 1</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="orf-2" xmltv_id="ORF 2">ORF 2</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="p1" xmltv_id="P1">P1</channel>
@@ -288,10 +297,11 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-2-hd" xmltv_id="POLSAT 2 HD">POLSAT 2 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-cafe" xmltv_id="POLSAT Cafe">POLSAT Cafe</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-cafe-hd" xmltv_id="POLSAT Cafe HD">POLSAT Cafe HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-doku" xmltv_id="POLSAT Doku">POLSAT Doku</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-doku-hd" xmltv_id="POLSAT Doku HD">POLSAT Doku HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-film" xmltv_id="POLSAT Film">POLSAT Film</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-film-hd" xmltv_id="POLSAT Film HD">POLSAT Film HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-food" xmltv_id="POLSAT Food">POLSAT Food</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-food-network-hd" xmltv_id="POLSAT Food Network HD">POLSAT Food Network HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-hd" xmltv_id="POLSAT HD">POLSAT HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-news" xmltv_id="POLSAT News">POLSAT News</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-news-2" xmltv_id="POLSAT News 2">POLSAT News 2</channel>
@@ -302,8 +312,11 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport" xmltv_id="POLSAT Sport">POLSAT Sport</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-extra" xmltv_id="POLSAT Sport Extra">POLSAT Sport Extra</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-extra-hd" xmltv_id="POLSAT Sport Extra HD">POLSAT Sport Extra HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-fight" xmltv_id="POLSAT Sport Fight">POLSAT Sport Fight</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-fight-hd" xmltv_id="Polsat Sport Fight HD">Polsat Sport Fight HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-hd" xmltv_id="POLSAT Sport HD">POLSAT Sport HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-news" xmltv_id="POLSAT Sport News">POLSAT Sport News</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-news" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-sport-news-hd" xmltv_id="POLSAT Sport News HD">POLSAT Sport News HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-viasat-explore" xmltv_id="POLSAT Viasat Explore">POLSAT Viasat Explore</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-viasat-history" xmltv_id="POLSAT Viasat History">POLSAT Viasat History</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-viasat-nature" xmltv_id="POLSAT Viasat Nature">POLSAT Viasat Nature</channel>
@@ -312,7 +325,6 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="polsat-volleyball-4" xmltv_id="POLSAT Volleyball 4">POLSAT Volleyball 4</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polskie-radio-program-1" xmltv_id="Polskie Radio Program 1">Polskie Radio Program 1</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="polskie-radio-program-2" xmltv_id="Polskie Radio Program 2">Polskie Radio Program 2</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="pomorska.tv" xmltv_id="Pomorska.TV">Pomorska.TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="power-tv" xmltv_id="Power TV">Power TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="power-tv-hd" xmltv_id="Power TV HD">Power TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="press-tv" xmltv_id="Press TV">Press TV</channel>
@@ -321,10 +333,10 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="private-tv" xmltv_id="Private TV">Private TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="pro-7" xmltv_id="PRO 7">PRO 7</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="puls-2" xmltv_id="PULS 2">PULS 2</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="puls-2-hd" xmltv_id="PULS 2 HD">PULS 2 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="qvc" xmltv_id="QVC">QVC</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rai-1" xmltv_id="RAI 1">RAI 1</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rai-2" xmltv_id="RAI 2">RAI 2</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="rai-3" xmltv_id="RAI 3">RAI 3</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rbb" xmltv_id="RBB">RBB</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="reality-kings-tv" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="record-tv" xmltv_id="Record TV">Record TV</channel>
@@ -335,15 +347,16 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="romance-tv" xmltv_id="Romance TV">Romance TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="romance-tv-hd" xmltv_id="Romance TV HD">Romance TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rossija-24" xmltv_id="Rossija 24">Rossija 24</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="rt" xmltv_id="RT">RT</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="rt-doc-hd" xmltv_id="RT Doc HD">RT Doc HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rt-documentary" xmltv_id="RT Documentary">RT Documentary</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="rt-documentary-hd" xmltv_id="RT Documentary HD">RT Documentary HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="rt-hd" xmltv_id="RT HD">RT HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rtl" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rtl-102.5" xmltv_id="RTL 102.5">RTL 102.5</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rtl-2" xmltv_id="RTL 2">RTL 2</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rtl-hd" xmltv_id="RTL HD">RTL HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="rtr-en" xmltv_id="RTR - EN">RTR - EN</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="russia-today" xmltv_id="Russia Today">Russia Today</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="russia-today-hd" xmltv_id="Russia Today HD">Russia Today HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="sat.1" xmltv_id="SAT.1">SAT.1</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="scifi-universal" xmltv_id="Scifi Universal">Scifi Universal</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="sf-1" xmltv_id="SF 1">SF 1</channel>
@@ -377,10 +390,12 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="stars.tv-hd" xmltv_id="STARS.TV HD">STARS.TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="stopklatka-hd" xmltv_id="Stopklatka HD">Stopklatka HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="stopklatka-tv" xmltv_id="Stopklatka TV">Stopklatka TV</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="sundance-channel" xmltv_id="Sundance Channel">Sundance Channel</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="sundance-channel-hd" xmltv_id="Sundance Channel HD">Sundance Channel HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="sundance-tv" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="sundance-tv-hd" xmltv_id="Sundance TV HD">Sundance TV HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="super-polsat" xmltv_id="Super Polsat">Super Polsat</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="super-rtl" xmltv_id="Super RTL">Super RTL</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="superstacja" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="superstacja-hd" xmltv_id="Superstacja HD">Superstacja HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="swr" xmltv_id="SWR">SWR</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tele-5" xmltv_id="Tele 5">Tele 5</channel>
@@ -395,6 +410,7 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tnt" xmltv_id="TNT">TNT</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tnt-hd" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="totv" xmltv_id="TO!TV">TO!TV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="top-kids" xmltv_id="Top Kids">Top Kids</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="top-kids-hd" xmltv_id="Top Kids HD">Top Kids HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="toya" xmltv_id="Toya">Toya</channel>
@@ -409,7 +425,7 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-5-monde-europe" xmltv_id="TV 5 Monde Europe">TV 5 Monde Europe</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-6" xmltv_id="TV 6">TV 6</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-asta" xmltv_id="TV ASTA">TV ASTA</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="tv-berlin" xmltv_id="TV Berlin">TV Berlin</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="tv-asta-hd" xmltv_id="TV ASTA HD">TV ASTA HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-puls" xmltv_id="TV Puls">TV Puls</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-puls-hd" xmltv_id="TV Puls HD">TV Puls HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-regionalna-lubin" xmltv_id="TV Regionalna Lubin">TV Regionalna Lubin</channel>
@@ -418,17 +434,16 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-republika-hd" xmltv_id="TV Republika HD">TV Republika HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tv-trwam" xmltv_id="TV Trwam">TV Trwam</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tve" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="tvk-ostrowiec" xmltv_id="TVK Ostrowiec">TVK Ostrowiec</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn" xmltv_id="TVN">TVN</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-24" xmltv_id="TVN 24">TVN 24</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-24-biznes-i-swiat" xmltv_id="TVN 24 Biznes i Świat">TVN 24 Biznes i Świat</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-24-biznes-i-swiat-hd" xmltv_id="TVN 24 Biznes i Świat HD">TVN 24 Biznes i Świat HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-24-hd" xmltv_id="TVN 24 HD">TVN 24 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-7" xmltv_id="TVN 7">TVN 7</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-7-hd" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-fabula" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-fabula-hd" xmltv_id="TVN Fabuła HD">TVN Fabuła HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-hd" xmltv_id="TVN HD">TVN HD</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-meteo-active" xmltv_id="TVN Meteo Active">TVN Meteo Active</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-style" xmltv_id="TVN Style">TVN Style</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-style-hd" xmltv_id="TVN Style HD">TVN Style HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvn-turbo" xmltv_id="TVN Turbo">TVN Turbo</channel>
@@ -447,6 +462,7 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-hd" xmltv_id="TVP HD">TVP HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-historia" xmltv_id="TVP Historia">TVP Historia</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-info" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-info-hd" xmltv_id="TVP Info HD">TVP Info HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-katowice" xmltv_id="TVP Katowice">TVP Katowice</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-kielce" xmltv_id="TVP Kielce">TVP Kielce</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvp-krakow" xmltv_id="TVP Kraków">TVP Kraków</channel>
@@ -471,6 +487,8 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvs-hd" xmltv_id="TVS HD">TVS HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="tvt" xmltv_id="TVT">TVT</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="twoja-telewizja-morska" xmltv_id="Twoja Telewizja Morska">Twoja Telewizja Morska</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="twoja.tv" xmltv_id="Twoja.TV">Twoja.TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="uatv" xmltv_id="UATV">UATV</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="universal-channel" xmltv_id="Universal Channel">Universal Channel</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="universal-channel-hd" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="vh-1-classic-european" xmltv_id="VH 1 Classic European">VH 1 Classic European</channel>
@@ -485,21 +503,26 @@
     <channel update="i" site="cyfrowypolsat.pl" site_id="wdr" xmltv_id="WDR">WDR</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="wellbeing-network" xmltv_id="Wellbeing Network">Wellbeing Network</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="wellbeing-network-hd" xmltv_id="Wellbeing Network HD">Wellbeing Network HD</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="wp" xmltv_id="WP">WP</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="wp-hd" xmltv_id="WP HD">WP HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="wtk" xmltv_id="WTK">WTK</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="xxl" xmltv_id="XXL">XXL</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="zdf-hd" xmltv_id="ZDF HD">ZDF HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="zdf-info" xmltv_id="ZDF Info">ZDF Info</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="zdf.kultur" xmltv_id="zdf.kultur">zdf.kultur</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="zest-tv" xmltv_id="Zest TV">Zest TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="zoom-tv" xmltv_id="Zoom TV">Zoom TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="zoom-tv-hd" xmltv_id="ZOOM TV HD">ZOOM TV HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="13-ulica" xmltv_id="13 Ulica">13 Ulica</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="13-ulica-hd" xmltv_id="13 Ulica HD">13 Ulica HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="13.tv" xmltv_id="13.tv">13.tv</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="13th-street" xmltv_id="13th Street">13th Street</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="360tunebox" xmltv_id="360TuneBox">360TuneBox</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="360tunebox-hd" xmltv_id="360TuneBox HD">360TuneBox HD</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="3sat" xmltv_id="3SAT">3SAT</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="4fun-fit-and-dance" xmltv_id="4Fun Fit&amp;Dance">4Fun Fit&amp;Dance</channel>
-    <channel update="i" site="cyfrowypolsat.pl" site_id="4fun-hits" xmltv_id="4Fun Hits">4Fun Hits</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="4fun-dance" xmltv_id="4Fun Dance">4Fun Dance</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="4fun-gold-hits" xmltv_id="4FUN Gold Hits">4FUN Gold Hits</channel>
     <channel update="i" site="cyfrowypolsat.pl" site_id="4fun-tv" xmltv_id="4fun TV">4fun TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="8tv" xmltv_id="8TV">8TV</channel>
+    <channel update="i" site="cyfrowypolsat.pl" site_id="8tv-hd" xmltv_id="8TV HD">8TV HD</channel>
   </channels>
 </site>
