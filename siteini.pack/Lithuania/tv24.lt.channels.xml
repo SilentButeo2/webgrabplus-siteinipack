@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="tv24.lt">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="tv24.lt">
   <channels>
     <channel update="i" site="tv24.lt" site_id="lrt-televizija" xmltv_id="LRT Televizija">LRT Televizija</channel>
     <channel update="i" site="tv24.lt" site_id="tv3-4" xmltv_id="TV3">TV3</channel>
@@ -24,7 +24,6 @@
     <channel update="i" site="tv24.lt" site_id="marijampoles-tv" xmltv_id="Marijampolės TV">Marijampolės TV</channel>
     <channel update="i" site="tv24.lt" site_id="siauliu-tv" xmltv_id="Šiaulių TV">Šiaulių TV</channel>
     <channel update="i" site="tv24.lt" site_id="zvaigzde" xmltv_id="Žvaigždė">Žvaigždė</channel>
-    <channel update="i" site="tv24.lt" site_id="sony-sci-fi-russia" xmltv_id="Sony Sci-Fi Russia">Sony Sci-Fi Russia</channel>
     <channel update="i" site="tv24.lt" site_id="penki-tv" xmltv_id="Penki TV">Penki TV</channel>
     <channel update="i" site="tv24.lt" site_id="seimas-tiesiogiai" xmltv_id="Seimas tiesiogiai">Seimas tiesiogiai</channel>
     <channel update="i" site="tv24.lt" site_id="init-ekstra-tv" xmltv_id="Init Ekstra TV">Init Ekstra TV</channel>
@@ -71,6 +70,7 @@
     <channel update="i" site="tv24.lt" site_id="viva" xmltv_id="VIVA">VIVA</channel>
     <channel update="i" site="tv24.lt" site_id="rfm-tv" xmltv_id="RFM TV">RFM TV</channel>
     <channel update="i" site="tv24.lt" site_id="kidzone-baltic" xmltv_id=" Kidzone Baltic"> Kidzone Baltic</channel>
+    <channel update="i" site="tv24.lt" site_id="kidzone" xmltv_id="Kidzone+">Kidzone+</channel>
     <channel update="i" site="tv24.lt" site_id="lolo-tv-lt" xmltv_id="Lolo TV (LT)">Lolo TV (LT)</channel>
     <channel update="i" site="tv24.lt" site_id="cartoon-network-rse" xmltv_id="Cartoon Network RSE">Cartoon Network RSE</channel>
     <channel update="i" site="tv24.lt" site_id="boomerang-baltic-cee" xmltv_id="Boomerang Baltic (CEE)">Boomerang Baltic (CEE)</channel>
@@ -95,7 +95,7 @@
     <channel update="i" site="tv24.lt" site_id="history-europe" xmltv_id="History Europe">History Europe</channel>
     <channel update="i" site="tv24.lt" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="tv24.lt" site_id="discovery-world-eu" xmltv_id="Discovery World EU">Discovery World EU</channel>
-    <channel update="i" site="tv24.lt" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tv24.lt" site_id="viasat-explore-nordic" xmltv_id="Viasat Explore Nordic">Viasat Explore Nordic</channel>
     <channel update="i" site="tv24.lt" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
     <channel update="i" site="tv24.lt" site_id="viasat-nature-east" xmltv_id="VIASAT Nature East">VIASAT Nature East</channel>
     <channel update="i" site="tv24.lt" site_id="discovery-science-eu" xmltv_id="Discovery Science EU">Discovery Science EU</channel>
@@ -104,14 +104,13 @@
     <channel update="i" site="tv24.lt" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
     <channel update="i" site="tv24.lt" site_id="discovery-id-xtra" xmltv_id="Discovery ID XTRA">Discovery ID XTRA</channel>
     <channel update="i" site="tv24.lt" site_id="national-geographic-channel-hd" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
-    <channel update="i" site="tv24.lt" site_id="id-investigation-discovery" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
     <channel update="i" site="tv24.lt" site_id="discovery-hd-showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
     <channel update="i" site="tv24.lt" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="tv24.lt" site_id="discovery-dtx" xmltv_id="Discovery DTX">Discovery DTX</channel>
     <channel update="i" site="tv24.lt" site_id="history2" xmltv_id="History2">History2</channel>
     <channel update="i" site="tv24.lt" site_id="bbc-world" xmltv_id="BBC World">BBC World</channel>
     <channel update="i" site="tv24.lt" site_id="cnn" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="tv24.lt" site_id="euronews" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="tv24.lt" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="tv24.lt" site_id="tv3-3" xmltv_id="TV3+">TV3+</channel>
     <channel update="i" site="tv24.lt" site_id="sky-news" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="tv24.lt" site_id="france-24-uk" xmltv_id="France 24 UK">France 24 UK</channel>
@@ -124,7 +123,7 @@
     <channel update="i" site="tv24.lt" site_id="uatv" xmltv_id="UA!??!TV">UA!??!TV</channel>
     <channel update="i" site="tv24.lt" site_id="english-club-tv" xmltv_id="English Club TV">English Club TV</channel>
     <channel update="i" site="tv24.lt" site_id="docubox" xmltv_id="DocuBox">DocuBox</channel>
-    <channel update="i" site="tv24.lt" site_id="cctv-news" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="tv24.lt" site_id="cgtn" xmltv_id="CGTN">CGTN</channel>
     <channel update="i" site="tv24.lt" site_id="24h" xmltv_id="24h">24h</channel>
     <channel update="i" site="tv24.lt" site_id="playboy-tv-europe" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
     <channel update="i" site="tv24.lt" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
