@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="bein.net">
   <channels>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsGlobalHD" xmltv_id="SportsGlobalHD">SportsGlobalHD</channel>
@@ -20,6 +20,10 @@
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD15" xmltv_id="SportsHD15">SportsHD15</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD16" xmltv_id="SportsHD16">SportsHD16</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsHD17" xmltv_id="SportsHD17">SportsHD17</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/max1" xmltv_id="max1">max1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/max2" xmltv_id="max2">max2</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/max3" xmltv_id="max3">max3</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/max4" xmltv_id="max4">max4</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/4K" xmltv_id="4K">4K</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/BS NBA" xmltv_id="BS NBA">BS NBA</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD1" xmltv_id="MoviesHD1">MoviesHD1</channel>
@@ -29,58 +33,26 @@
     <channel update="i" site="bein.net" site_id="mena_entertaintment/BoxOffice_HD1" xmltv_id="BoxOffice_HD1">BoxOffice_HD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD1" xmltv_id="SeriesHD1">SeriesHD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/SeriesHD2" xmltv_id="SeriesHD2">SeriesHD2</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DramaHD1" xmltv_id="DramaHD1">DramaHD1</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/gourmet" xmltv_id="gourmet">gourmet</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/beJUNIOR" xmltv_id="beJUNIOR">beJUNIOR</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Jeem" xmltv_id="Jeem">Jeem</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Baraem" xmltv_id="Baraem">Baraem</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Star_Movies_HD" xmltv_id="Star_Movies_HD">Star_Movies_HD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/TCM" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/amc" xmltv_id="amc">amc</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Star_World_HD" xmltv_id="Star_World_HD">Star_World_HD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/CBSreality" xmltv_id="CBSreality">CBSreality</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOX_Movies_HD" xmltv_id="FOX_Movies_HD">FOX_Movies_HD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FoxActMovHD" xmltv_id="FoxActMovHD">FoxActMovHD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FoxFamHD" xmltv_id="FoxFamHD">FoxFamHD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOX_HD" xmltv_id="FOX_HD">FOX_HD</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXMovies" xmltv_id="FOXMovies">FOXMovies</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXActionMovies" xmltv_id="FOXActionMovies">FOXActionMovies</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXFamilyMovies" xmltv_id="FOXFamilyMovies">FOXFamilyMovies</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXHD" xmltv_id="FOXHD">FOXHD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/FXHD" xmltv_id="FXHD">FXHD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FoxNews" xmltv_id="FoxNews">FoxNews</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/Euronews.jpg?2017'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="Euronews.jpg?2017'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">Euronews.jpg?2017'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/TRTWorld.png?2017'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="TRTWorld.png?2017'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">TRTWorld.png?2017'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/CNNHD" xmltv_id="CNNHD">CNNHD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/HLN" xmltv_id="HLN">HLN</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/Euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/TRTWorld" xmltv_id="TRTWorld">TRTWorld</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeo_HD" xmltv_id="NatGeo_HD">NatGeo_HD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoPeople_HD" xmltv_id="NatGeoPeople_HD">NatGeoPeople_HD</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoWild_HD" xmltv_id="NatGeoWild_HD">NatGeoWild_HD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/AnimalPlanetHD" xmltv_id="AnimalPlanetHD">AnimalPlanetHD</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/AljazeeraDocumentary.png?2017'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="AljazeeraDocumentary.png?2017'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">AljazeeraDocumentary.png?2017'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DTX.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="DTX.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">DTX.png'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DLife" xmltv_id="DLife">DLife</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DreamWorks" xmltv_id="DreamWorks">DreamWorks</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DKids" xmltv_id="DKids">DKids</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/AljazeeraDocumentary" xmltv_id="AljazeeraDocumentary">AljazeeraDocumentary</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Baby_TV" xmltv_id="Baby_TV">Baby_TV</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/JimJam" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/CartoonNetworkAR" xmltv_id="CartoonNetworkAR">CartoonNetworkAR</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/CartoonNetworkHD.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="CartoonNetworkHD.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">CartoonNetworkHD.png'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/CartoonNetworkHindi" xmltv_id="CartoonNetworkHindi">CartoonNetworkHindi</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/Boomerang" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/CBeebies.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="CBeebies.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">CBeebies.png'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/V_HD.jpg'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="V_HD.jpg'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">V_HD.jpg'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/fatafeat.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='" xmltv_id="fatafeat.png'&gt;&lt;br&gt;&#xA; &lt;/div&gt;src='">fatafeat.png'&gt;&lt;br&gt;
- &lt;/div&gt;src='</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DMAX" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/OutdoorChannel" xmltv_id="OutdoorChannel">OutdoorChannel</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/Extreme" xmltv_id="Extreme">Extreme</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/TravelChannel" xmltv_id="TravelChannel">TravelChannel</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="bein.net" site_id="mena_entertaintment/V_HD" xmltv_id="V_HD">V_HD</channel>
     <channel update="i" site="bein.net" site_id="france_sports/HD1" xmltv_id="HD1">HD1</channel>
     <channel update="i" site="bein.net" site_id="france_sports/HD2" xmltv_id="HD2">HD2</channel>
     <channel update="i" site="bein.net" site_id="france_sports/HD3" xmltv_id="HD3">HD3</channel>
@@ -102,9 +74,6 @@
     <channel update="i" site="bein.net" site_id="us_sports/BS8" xmltv_id="BS8">BS8</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS9" xmltv_id="BS9">BS9</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS10" xmltv_id="BS10">BS10</channel>
-    <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
-    <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="BS2">BS2</channel>
-    <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="id_sports/BS3" xmltv_id="BS3">BS3</channel>
@@ -116,4 +85,3 @@
     <channel update="i" site="bein.net" site_id="hk_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="my_sports/MY1" xmltv_id="MY1">MY1</channel>
   </channels>
-</site>
