@@ -1,0 +1,648 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="tvtv.ca">
+  <channels>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5955" xmltv_id="Canal M">Canal M</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6056" xmltv_id="AMI-tv East">AMI-tv East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3414" xmltv_id="AMI-Audio - East">AMI-Audio - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13775" xmltv_id="AMI-t\u00e9l\u00e9">AMI-t\u00e9l\u00e9</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14" xmltv_id="SRC (CBLFT) Toronto">SRC (CBLFT) Toronto</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/301" xmltv_id="V (CFJP) Montreal, QC">V (CFJP) Montreal, QC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/106" xmltv_id="TVA (CFTM) Montr\u00e9al">TVA (CFTM) Montr\u00e9al</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/427" xmltv_id="Meteo-Media">Meteo-Media</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/47" xmltv_id="RDS (R\u00e9seau des sports)">RDS (R\u00e9seau des sports)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9705" xmltv_id="RDS 2">RDS 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3889" xmltv_id="RDS Info">RDS Info</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9823" xmltv_id="TVA Sports">TVA Sports</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/432" xmltv_id="LCN">LCN</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8" xmltv_id="RDI (News)">RDI (News)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3900" xmltv_id="Euronews - Fran\u00e7ais">Euronews - Fran\u00e7ais</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2033" xmltv_id="Addik TV">Addik TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/341" xmltv_id="Series +">Series +</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/343" xmltv_id="Evasion">Evasion</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/345" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/108" xmltv_id="Canal D">Canal D</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10298" xmltv_id="Explora">Explora</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11344" xmltv_id="Investigation">Investigation</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/101" xmltv_id="Musique Plus">Musique Plus</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10901" xmltv_id="Musimax Sur Demande">Musimax Sur Demande</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/459" xmltv_id="ARTV">ARTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/23" xmltv_id="TV5 International - East">TV5 International - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5484" xmltv_id="CASA">CASA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7508" xmltv_id="Zeste">Zeste</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/307" xmltv_id="Canal Vie">Canal Vie</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9109" xmltv_id="Moi et compagnie">Moi et compagnie</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2848" xmltv_id="Prise 2">Prise 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/431" xmltv_id="Assemblee nationale du Quebec">Assemblee nationale du Quebec</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10" xmltv_id="TFO - Chaine Francaise">TFO - Chaine Francaise</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1140" xmltv_id="Tele-Quebec (CIVM) Montreal">Tele-Quebec (CIVM) Montreal</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/342" xmltv_id="Canal Savoir">Canal Savoir</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/48" xmltv_id="VRAK">VRAK</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8019" xmltv_id="T\u00e9l\u00e9magino">T\u00e9l\u00e9magino</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7616" xmltv_id="Yoopa">Yoopa</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/308" xmltv_id="T\u00e9l\u00e9TOON - fran\u00e7ais">T\u00e9l\u00e9TOON - fran\u00e7ais</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/57" xmltv_id="Super Ecran">Super Ecran</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/362" xmltv_id="Super Ecran 2">Super Ecran 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/410" xmltv_id="Super Ecran 3">Super Ecran 3</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/411" xmltv_id="Super Ecran 4">Super Ecran 4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2325" xmltv_id="Cin\u00e9pop">Cin\u00e9pop</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/196" xmltv_id="SRC (CBFT) Montreal, QC">SRC (CBFT) Montreal, QC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1753" xmltv_id="TVA (CFTM) West Feed">TVA (CFTM) West Feed</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/118" xmltv_id="SRC (CBAFT) Moncton, NB">SRC (CBAFT) Moncton, NB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/463" xmltv_id="SRC (CBOFT) Ottawa, ON">SRC (CBOFT) Ottawa, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/188" xmltv_id="SRC (CBUFT) Vancouver, BC">SRC (CBUFT) Vancouver, BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5948" xmltv_id="SRC (CBVT) Quebec, QC - Digital">SRC (CBVT) Quebec, QC - Digital</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/39" xmltv_id="CTV (CFTO) Toronto, ON">CTV (CFTO) Toronto, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14229" xmltv_id="CTV Two Barrie, ON (CKVR)">CTV Two Barrie, ON (CKVR)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13585" xmltv_id="Global (CIII-DT-41) Toronto">Global (CIII-DT-41) Toronto</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/42" xmltv_id="CITY Toronto, ON">CITY Toronto, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/34" xmltv_id="CBC (CBLT) Toronto, ON">CBC (CBLT) Toronto, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13572" xmltv_id="OMNI.1 (CFMT-DT-1) London">OMNI.1 (CFMT-DT-1) London</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/613" xmltv_id="OMNI.2">OMNI.2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/41" xmltv_id="OMNI.1 Television">OMNI.1 Television</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13887" xmltv_id="TVO (CICA-DT) Toronto, ON">TVO (CICA-DT) Toronto, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/183" xmltv_id="CHEK Vancouver Island, BC">CHEK Vancouver Island, BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/43" xmltv_id="CHCH Hamilton, ON">CHCH Hamilton, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/199" xmltv_id="CJON (NTV) St-John, NL">CJON (NTV) St-John, NL</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17" xmltv_id="Vision TV Eastern">Vision TV Eastern</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/198" xmltv_id="APTN - East">APTN - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/91" xmltv_id="NBC (WGRZ) Buffalo, NY">NBC (WGRZ) Buffalo, NY</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/89" xmltv_id="ABC (WKBW) Buffalo, NY">ABC (WKBW) Buffalo, NY</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/88" xmltv_id="CBS (WIVB) Buffalo, NY">CBS (WIVB) Buffalo, NY</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/45" xmltv_id="FOX (WUTV) Buffalo, NY">FOX (WUTV) Buffalo, NY</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/92" xmltv_id="PBS (WNED) Buffalo, NY">PBS (WNED) Buffalo, NY</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/318" xmltv_id="Global (CKMI) Quebec">Global (CKMI) Quebec</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1882" xmltv_id="Global (CHEX-TV-2) Durham, ON">Global (CHEX-TV-2) Durham, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/37" xmltv_id="Global (CHEX) Peterborough, ON">Global (CHEX) Peterborough, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/24" xmltv_id="Global (CKWS) Kingston, ON">Global (CKWS) Kingston, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3316" xmltv_id="CTV (CJCH) Halifax">CTV (CJCH) Halifax</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/50" xmltv_id="CTV Montreal (CFCF), QC">CTV Montreal (CFCF), QC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/185" xmltv_id="CTV Vancouver, BC">CTV Vancouver, BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/38" xmltv_id="CTV Ottawa (CJOH), ON">CTV Ottawa (CJOH), ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/258" xmltv_id="CTV (CFCN) Calgary, AB">CTV (CFCN) Calgary, AB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/537" xmltv_id="CTV (CKCK) Regina, SK">CTV (CKCK) Regina, SK</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/116" xmltv_id="CTV Two Atlantic Region">CTV Two Atlantic Region</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13841" xmltv_id="CTV Two (CIVI-DT2) Vancouver, BC">CTV Two (CIVI-DT2) Vancouver, BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/143" xmltv_id="CTV (CKY) Winnipeg, MB">CTV (CKY) Winnipeg, MB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3318" xmltv_id="CTV (CJCB) Sydney\/ Cape Breton, NS">CTV (CJCB) Sydney\/ Cape Breton, NS</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3317" xmltv_id="CTV (CKCW) Moncton">CTV (CKCW) Moncton</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/69" xmltv_id="CTV (CKCO) Kitchener, ON">CTV (CKCO) Kitchener, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1635" xmltv_id="CTV (CICI) Sudbury, ON">CTV (CICI) Sudbury, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/114" xmltv_id="CBC (CBAT) Fredericton, NB">CBC (CBAT) Fredericton, NB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/107" xmltv_id="CBC (CBMT) Montreal, QC">CBC (CBMT) Montreal, QC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/49" xmltv_id="CBC (CBOT) Ottawa, ON">CBC (CBOT) Ottawa, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/110" xmltv_id="CBC (CBWT) Winnipeg, MB">CBC (CBWT) Winnipeg, MB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/147" xmltv_id="CBC (CBRT) Calgary, AB">CBC (CBRT) Calgary, AB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/180" xmltv_id="CBC (CBUT) Vancouver, BC">CBC (CBUT) Vancouver, BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/146" xmltv_id="CBC (CBXT) Edmonton, AB">CBC (CBXT) Edmonton, AB</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3401" xmltv_id="CTV Two Windsor, ON">CTV Two Windsor, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/115" xmltv_id="Global (CIHF) Dartmouth">Global (CIHF) Dartmouth</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/31" xmltv_id="Global BC">Global BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1174" xmltv_id="OMNI Vancouver">OMNI Vancouver</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1171" xmltv_id="CITY Montreal, QC">CITY Montreal, QC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/187" xmltv_id="CITY Vancouver, BC">CITY Vancouver, BC</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1632" xmltv_id="CTV (CKNY) North Bay, ON">CTV (CKNY) North Bay, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1634" xmltv_id="CTV (CHBX) Sault Ste. Marie, ON">CTV (CHBX) Sault Ste. Marie, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1633" xmltv_id="CTV (CITO) Timmins, ON">CTV (CITO) Timmins, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/182" xmltv_id="NBC (KING) Seattle, WA">NBC (KING) Seattle, WA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/181" xmltv_id="ABC (KOMO) Seattle, WA">ABC (KOMO) Seattle, WA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/184" xmltv_id="CBS (KIRO) Seattle, WA">CBS (KIRO) Seattle, WA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/189" xmltv_id="FOX (KCPQ) Tacoma, WA">FOX (KCPQ) Tacoma, WA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/190" xmltv_id="PBS (KCTS) Seattle, WA">PBS (KCTS) Seattle, WA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7167" xmltv_id="MNT (WNYO) Buffalo, NY HD">MNT (WNYO) Buffalo, NY HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4179" xmltv_id="Peachtree TV (Canada)">Peachtree TV (Canada)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4202" xmltv_id="WGN Canada">WGN Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/58" xmltv_id="WSBK (TV-38) Boston">WSBK (TV-38) Boston</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/63" xmltv_id="WPIX New York (SUPERSTATION)">WPIX New York (SUPERSTATION)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/90" xmltv_id="KTLA Los Angeles, CA">KTLA Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8252" xmltv_id="HBO Canada East On Demand">HBO Canada East On Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/72" xmltv_id="TMN - East">TMN - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/86" xmltv_id="TMN 2 - East">TMN 2 - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/85" xmltv_id="TMN 3 - East">TMN 3 - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/320" xmltv_id="TMN 4">TMN 4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/55" xmltv_id="TMN Encore 1 - East">TMN Encore 1 - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/438" xmltv_id="TMN Encore 2 - East">TMN Encore 2 - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/84" xmltv_id="HBO Canada 1">HBO Canada 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/292" xmltv_id="HBO Canada - West">HBO Canada - West</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4180" xmltv_id="TMN Encore onDemand">TMN Encore onDemand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5598" xmltv_id="Super Channel on Demand">Super Channel on Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4838" xmltv_id="Super Channel Fuse">Super Channel Fuse</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4834" xmltv_id="Super Channel Heart &amp; Home">Super Channel Heart &amp; Home</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4835" xmltv_id="Super Channel Vault">Super Channel Vault</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4836" xmltv_id="Ginx eSports TV Canada">Ginx eSports TV Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/477" xmltv_id="Independent Film Channel Canada">Independent Film Channel Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10026" xmltv_id="FX Networks Canada">FX Networks Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13400" xmltv_id="FXX Canada">FXX Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7406" xmltv_id="Cooking Channel Canada">Cooking Channel Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/607" xmltv_id="Action - East">Action - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1148" xmltv_id="Lifetime TV - Canada">Lifetime TV - Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/462" xmltv_id="Documentary Channel (Canada)">Documentary Channel (Canada)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2115" xmltv_id="Silver Screen Classics">Silver Screen Classics</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2847" xmltv_id="Turner Classic Movies Canada">Turner Classic Movies Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3822" xmltv_id="AMC - Canada">AMC - Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/464" xmltv_id="MovieTime">MovieTime</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/278" xmltv_id="TSN5">TSN5</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11" xmltv_id="TSN1">TSN1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4294" xmltv_id="TSN2">TSN2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13719" xmltv_id="TSN3">TSN3</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/279" xmltv_id="TSN4">TSN4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/254" xmltv_id="Sportsnet (Ontario)">Sportsnet (Ontario)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/255" xmltv_id="Sportsnet (East)">Sportsnet (East)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/314" xmltv_id="Sportsnet (Pacific)">Sportsnet (Pacific)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/252" xmltv_id="Sportsnet (West)">Sportsnet (West)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1154" xmltv_id="ESPN Classic Canada">ESPN Classic Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/336" xmltv_id="Sportsnet 360">Sportsnet 360</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/160" xmltv_id="Outdoor Life Network Canada">Outdoor Life Network Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1150" xmltv_id="NBA TV Canada">NBA TV Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9900" xmltv_id="Golf Channel Canada">Golf Channel Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8249" xmltv_id="Sportsnet One">Sportsnet One</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2414" xmltv_id="WFN-World Fishing Network">WFN-World Fishing Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4442" xmltv_id="Sportsnet World">Sportsnet World</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1151" xmltv_id="Leafs Nation Network">Leafs Nation Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3433" xmltv_id="Fight Network Canada">Fight Network Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2976" xmltv_id="Wild TV">Wild TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15375" xmltv_id="NHL Center Ice 1">NHL Center Ice 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15383" xmltv_id="NHL Center Ice 2">NHL Center Ice 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15385" xmltv_id="NHL Center Ice 3">NHL Center Ice 3</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15387" xmltv_id="NHL Center Ice 4">NHL Center Ice 4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15389" xmltv_id="NHL Center Ice 5">NHL Center Ice 5</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15392" xmltv_id="NHL Center Ice 6">NHL Center Ice 6</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15393" xmltv_id="NHL Center Ice 7">NHL Center Ice 7</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15395" xmltv_id="NHL Center Ice 8">NHL Center Ice 8</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15397" xmltv_id="NHL Center Ice 9">NHL Center Ice 9</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15377" xmltv_id="NHL Center Ice 10">NHL Center Ice 10</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3349" xmltv_id="NFL Network">NFL Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6921" xmltv_id="NFL Red Zone">NFL Red Zone</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6178" xmltv_id="MLB Network">MLB Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2747" xmltv_id="NFL Sunday Ticket 1">NFL Sunday Ticket 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2748" xmltv_id="NFL Sunday Ticket 2">NFL Sunday Ticket 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2749" xmltv_id="NFL Sunday Ticket 3">NFL Sunday Ticket 3</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2750" xmltv_id="NFL Sunday Ticket 4">NFL Sunday Ticket 4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2751" xmltv_id="NFL Sunday Ticket 5">NFL Sunday Ticket 5</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2752" xmltv_id="NFL Sunday Ticket 6">NFL Sunday Ticket 6</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2753" xmltv_id="NFL Sunday Ticket 7">NFL Sunday Ticket 7</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2754" xmltv_id="NFL Sunday Ticket 8">NFL Sunday Ticket 8</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2755" xmltv_id="NFL Sunday Ticket 9">NFL Sunday Ticket 9</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2756" xmltv_id="NFL Sunday Ticket 10">NFL Sunday Ticket 10</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2903" xmltv_id="NFL Sunday Ticket 11">NFL Sunday Ticket 11</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2904" xmltv_id="NFL Sunday Ticket 12">NFL Sunday Ticket 12</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2905" xmltv_id="NFL Sunday Ticket 13">NFL Sunday Ticket 13</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2906" xmltv_id="NFL Sunday Ticket 14">NFL Sunday Ticket 14</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2860" xmltv_id="HPItv Canada">HPItv Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1152" xmltv_id="HPItv">HPItv</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2759" xmltv_id="MLB Extra Innings 1">MLB Extra Innings 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2760" xmltv_id="MLB Extra Innings 2">MLB Extra Innings 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2761" xmltv_id="MLB Extra Innings 3">MLB Extra Innings 3</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2762" xmltv_id="MLB Extra Innings 4">MLB Extra Innings 4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2763" xmltv_id="MLB Extra Innings 5">MLB Extra Innings 5</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2764" xmltv_id="MLB Extra Innings 6">MLB Extra Innings 6</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2765" xmltv_id="MLB Extra Innings 7">MLB Extra Innings 7</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2766" xmltv_id="MLB Extra Innings 8">MLB Extra Innings 8</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2767" xmltv_id="MLB Extra Innings 9">MLB Extra Innings 9</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2768" xmltv_id="MLB Extra Innings 10">MLB Extra Innings 10</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6025" xmltv_id="MLB Extra Innings 11">MLB Extra Innings 11</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6024" xmltv_id="MLB Extra Innings 12">MLB Extra Innings 12</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6023" xmltv_id="MLB Extra Innings 13">MLB Extra Innings 13</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/70" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/416" xmltv_id="CTV News Channel">CTV News Channel</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/74" xmltv_id="CBC News Network">CBC News Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/321" xmltv_id="CP24 (CablePulse 24)">CP24 (CablePulse 24)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/294" xmltv_id="BNN Bloomberg">BNN Bloomberg</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/419" xmltv_id="Weather Network">Weather Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1083" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/425" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3561" xmltv_id="CNBC Canada">CNBC Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/527" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3008" xmltv_id="CNN International North America">CNN International North America</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/127" xmltv_id="CPAC Ottawa">CPAC Ottawa</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/417" xmltv_id="Ontario Legislature">Ontario Legislature</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/16" xmltv_id="Discovery Channel (CAN)">Discovery Channel (CAN)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1204" xmltv_id="TLC Canada">TLC Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/164" xmltv_id="History Canada East">History Canada East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1188" xmltv_id="Discovery Science Canada">Discovery Science Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/475" xmltv_id="National Geographic Canada">National Geographic Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/472" xmltv_id="Animal Planet Canada">Animal Planet Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/296" xmltv_id="Oprah Winfrey Network Canada">Oprah Winfrey Network Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/476" xmltv_id="Travel + Escape">Travel + Escape</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1120" xmltv_id="Investigation Discovery Canada">Investigation Discovery Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1158" xmltv_id="Book Television">Book Television</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6417" xmltv_id="Kids OnDemand">Kids OnDemand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5629" xmltv_id="Family Channel on Demand">Family Channel on Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17224" xmltv_id="Disney Junior Canada">Disney Junior Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2463" xmltv_id="YTV On Demand">YTV On Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15" xmltv_id="YTV (Youth Television) - East">YTV (Youth Television) - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1021" xmltv_id="YTV (Youth Television) - Pacific">YTV (Youth Television) - Pacific</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/162" xmltv_id="Teletoon - East">Teletoon - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1020" xmltv_id="Teletoon - West">Teletoon - West</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/53" xmltv_id="Family Channel Canada - East">Family Channel Canada - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1018" xmltv_id="Family Channel Canada - West">Family Channel Canada - West</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6835" xmltv_id="Nickelodeon Canada">Nickelodeon Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/163" xmltv_id="Treehouse">Treehouse</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3633" xmltv_id="Treehouse On Demand">Treehouse On Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17172" xmltv_id="Disney XD Canada">Disney XD Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10281" xmltv_id="ABC Spark">ABC Spark</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1147" xmltv_id="BBC Kids">BBC Kids</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10613" xmltv_id="Cartoon Network Canada">Cartoon Network Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/73" xmltv_id="Much Music">Much Music</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6778" xmltv_id="A.Side TV">A.Side TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/414" xmltv_id="MTV Canada">MTV Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/478" xmltv_id="MTV 2 Canada">MTV 2 Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/120" xmltv_id="CMT Canada">CMT Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4386" xmltv_id="BET - Canada">BET - Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/167" xmltv_id="HGTV Canada">HGTV Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/60" xmltv_id="Slice">Slice</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/64" xmltv_id="W (WTN) - East">W (WTN) - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/169" xmltv_id="Food Network Canada">Food Network Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1156" xmltv_id="Fashion Television">Fashion Television</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2034" xmltv_id="Do It Yourself Network (Canada)">Do It Yourself Network (Canada)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5405" xmltv_id="Cosmopolitan TV East">Cosmopolitan TV East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2729" xmltv_id="OUTtv">OUTtv</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4311" xmltv_id="A&amp;E Canada">A&amp;E Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/62" xmltv_id="Showcase Canada">Showcase Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11143" xmltv_id="DTOUR">DTOUR</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/309" xmltv_id="Gusto TV">Gusto TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/59" xmltv_id="Bravo Canada">Bravo Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/295" xmltv_id="E! Canada">E! Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/159" xmltv_id="Comedy Network - East">Comedy Network - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/1019" xmltv_id="Comedy Network - West">Comedy Network - West</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/153" xmltv_id="Space">Space</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3" xmltv_id="Paramount Network Canada">Paramount Network Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/461" xmltv_id="H2 Canada">H2 Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2035" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3431" xmltv_id="Daystar Canada">Daystar Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/619" xmltv_id="EWTN Canada">EWTN Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/415" xmltv_id="BBC Canada East">BBC Canada East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/448" xmltv_id="Deja View">Deja View</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2634" xmltv_id="Comedy Gold">Comedy Gold</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/451" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/329" xmltv_id="Game Show Network - East">Game Show Network - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2466" xmltv_id="Makeful">Makeful</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13649" xmltv_id="DD Bharati (Doordarshan)">DD Bharati (Doordarshan)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13650" xmltv_id="DD India (Doordarshan)">DD India (Doordarshan)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13648" xmltv_id="DD Urdu (Doordarshan)">DD Urdu (Doordarshan)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11062" xmltv_id="TVCI">TVCI</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13651" xmltv_id="DD News (Doordarshan)">DD News (Doordarshan)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/293" xmltv_id="Yes TV (CITS) Burlington, ON">Yes TV (CITS) Burlington, ON</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2469" xmltv_id="Salt &amp; Light">Salt &amp; Light</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4216" xmltv_id="CCTV-4 America">CCTV-4 America</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13702" xmltv_id="ATN - Sikh">ATN - Sikh</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13655" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13664" xmltv_id="Halla Bol!">Halla Bol!</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11060" xmltv_id="Zee Tamizh">Zee Tamizh</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13705" xmltv_id="ATN - Brit. Asia">ATN - Brit. Asia</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11051" xmltv_id="ATN - Food Food">ATN - Food Food</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17037" xmltv_id="ATN - UTV Movies">ATN - UTV Movies</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13694" xmltv_id="Sony Mix">Sony Mix</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/31971" xmltv_id="RTS Sat (RTC)">RTS Sat (RTC)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13686" xmltv_id="NOVA World">NOVA World</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/82" xmltv_id="Telelatino">Telelatino</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6868" xmltv_id="RAI Italia 1">RAI Italia 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14195" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11398" xmltv_id="Fairchild TV 2 HD">Fairchild TV 2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6860" xmltv_id="Star Chinese Channel">Star Chinese Channel</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6861" xmltv_id="Star Movies 2">Star Movies 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13621" xmltv_id="Fairchild TV - East (Mandarin)">Fairchild TV - East (Mandarin)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2871" xmltv_id="Fairchild TV - East">Fairchild TV - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/366" xmltv_id="Fairchild TV - Pacific">Fairchild TV - Pacific</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/365" xmltv_id="Talentvision">Talentvision</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11253" xmltv_id="New Tang Dynasty TV">New Tang Dynasty TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6863" xmltv_id="LS Times">LS Times</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2828" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13707" xmltv_id="TVP Info - Telewizja Polska">TVP Info - Telewizja Polska</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10507" xmltv_id="TV Japan HD">TV Japan HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2937" xmltv_id="SBTN (Saigon Broadcasting Television Network)">SBTN (Saigon Broadcasting Television Network)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/31970" xmltv_id="ITN (Iran TV Network)">ITN (Iran TV Network)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13698" xmltv_id="ARY Musik">ARY Musik</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13699" xmltv_id="ARY News">ARY News</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13701" xmltv_id="ARY Zauq">ARY Zauq</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10242" xmltv_id="Dream 2">Dream 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8624" xmltv_id="Future TV International">Future TV International</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10468" xmltv_id="Melody Aflam">Melody Aflam</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10465" xmltv_id="Melody Drama">Melody Drama</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13670" xmltv_id="BBC Arabic Canada">BBC Arabic Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3627" xmltv_id="Red Hot TV">Red Hot TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13787" xmltv_id="Dorcel TV (Fran\u00e7ais) HD">Dorcel TV (Fran\u00e7ais) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13620" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/242" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10712" xmltv_id="Playboy HD">Playboy HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2263" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10245" xmltv_id="ATN - Times Now (English)">ATN - Times Now (English)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10246" xmltv_id="ATN - Zoom (Hindi)">ATN - Zoom (Hindi)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10244" xmltv_id="ATN - SAB TV (Hindi)">ATN - SAB TV (Hindi)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2262" xmltv_id="ATN - AASTHA">ATN - AASTHA</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14213" xmltv_id="ATN - Sports">ATN - Sports</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4016" xmltv_id="CBN (Commonwealth Broadcasting Network)">CBN (Commonwealth Broadcasting Network)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8965" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14212" xmltv_id="Big Magic International">Big Magic International</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6771" xmltv_id="Set Max">Set Max</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6776" xmltv_id="ATN Max 2">ATN Max 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8622" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4192" xmltv_id="ATN - The ATN Channel">ATN - The ATN Channel</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2260" xmltv_id="ATN - Bangla">ATN - Bangla</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2866" xmltv_id="ATN - Alpha ETC Punjabi">ATN - Alpha ETC Punjabi</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10249" xmltv_id="Channel Punjabi">Channel Punjabi</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6774" xmltv_id="ATN - MH1">ATN - MH1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6777" xmltv_id="ATN - Tamil Plus">ATN - Tamil Plus</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6775" xmltv_id="PTC Punjabi">PTC Punjabi</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14216" xmltv_id="ATN - TV 18 Urdu">ATN - TV 18 Urdu</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4332" xmltv_id="GEO TV">GEO TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13700" xmltv_id="ARY QTV">ARY QTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11056" xmltv_id="Zee Salaam">Zee Salaam</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13667" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13657" xmltv_id="Zee TV Canada HD">Zee TV Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14217" xmltv_id="ATN - Gujarati">ATN - Gujarati</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2869" xmltv_id="TamilVision">TamilVision</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4003" xmltv_id="Abu Dhabi TV">Abu Dhabi TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13675" xmltv_id="Zee Bangla">Zee Bangla</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/426" xmltv_id="DW English">DW English</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/32171" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9604" xmltv_id="TFC - The Filipino Channel">TFC - The Filipino Channel</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6639" xmltv_id="Filipino TV">Filipino TV</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13625" xmltv_id="Univision Canada">Univision Canada</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10855" xmltv_id="beIN Sport en Espanol">beIN Sport en Espanol</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13658" xmltv_id="Detskiy">Detskiy</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8980" xmltv_id="RTPi America">RTPi America</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13653" xmltv_id="RBTI (Brazilian)">RBTI (Brazilian)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4616" xmltv_id="Mega Cosmos">Mega Cosmos</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/412" xmltv_id="Odyssey">Odyssey</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3419" xmltv_id="ERT World (Canada)">ERT World (Canada)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3257" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8680" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2425" xmltv_id="The Israeli Network">The Israeli Network</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11061" xmltv_id="KHL">KHL</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13659" xmltv_id="Russian Illuzion">Russian Illuzion</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9115" xmltv_id="Stingray Music Video On Demand">Stingray Music Video On Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2885" xmltv_id="Stingray: Rock Alternative">Stingray: Rock Alternative</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2770" xmltv_id="Stingray: Adult Alternative">Stingray: Adult Alternative</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2785" xmltv_id="Stingray: Classic Rock">Stingray: Classic Rock</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2800" xmltv_id="Stingray: Jukebox Oldies">Stingray: Jukebox Oldies</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2824" xmltv_id="Stingray: Hit List">Stingray: Hit List</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2794" xmltv_id="Stingray: Pop Adult">Stingray: Pop Adult</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2795" xmltv_id="Stingray: Pop Classics \/ Classiques populaires">Stingray: Pop Classics \/ Classiques populaires</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2886" xmltv_id="Stingray: Easy Listening">Stingray: Easy Listening</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2769" xmltv_id="Stingray: Flashback 70s">Stingray: Flashback 70s</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2887" xmltv_id="Stingray: Nothin But 90s">Stingray: Nothin But 90s</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5953" xmltv_id="Stingray: Hot Country">Stingray: Hot Country</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2779" xmltv_id="Stingray: Country Classics">Stingray: Country Classics</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2889" xmltv_id="Stingray: Urban Beat">Stingray: Urban Beat</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2890" xmltv_id="Stingray: Souln R&amp;B">Stingray: Souln R&amp;B</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2891" xmltv_id="Stingray: Eclectic Electronic">Stingray: Eclectic Electronic</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2787" xmltv_id="Stingray: Jazz Masters \/ G\u00e9ants du Jazz">Stingray: Jazz Masters \/ G\u00e9ants du Jazz</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2788" xmltv_id="Stingray: Jazz Now \/ Jazz daujourdhui">Stingray: Jazz Now \/ Jazz daujourdhui</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14232" xmltv_id="Stingray: Smooth Jazz">Stingray: Smooth Jazz</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2774" xmltv_id="Stingray: The Blues">Stingray: The Blues</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2782" xmltv_id="Stingray: Folk Roots">Stingray: Folk Roots</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2894" xmltv_id="Stingray: Latino Tropical">Stingray: Latino Tropical</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2791" xmltv_id="Stingray: Nature">Stingray: Nature</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2895" xmltv_id="Stingray: The Spa">Stingray: The Spa</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2771" xmltv_id="Stingray: Chill Lounge">Stingray: Chill Lounge</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2772" xmltv_id="Stingray: Baroque">Stingray: Baroque</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5979" xmltv_id="Stingray: Classic Masters \/ Grands classiques">Stingray: Classic Masters \/ Grands classiques</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2775" xmltv_id="Stingray: Chamber Music">Stingray: Chamber Music</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2896" xmltv_id="Stingray: Opera Plus">Stingray: Opera Plus</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14196" xmltv_id="Stingray: Kids Stuff">Stingray: Kids Stuff</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2898" xmltv_id="Stingray: Celtic">Stingray: Celtic</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2899" xmltv_id="Stingray: The Light">Stingray: The Light</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2902" xmltv_id="Stingray: Franco Pop">Stingray: Franco Pop</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2784" xmltv_id="Stingray: Franco Country">Stingray: Franco Country</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2900" xmltv_id="Stingray: Franco Attitude">Stingray: Franco Attitude</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2802" xmltv_id="Stingray: Souvenirs">Stingray: Souvenirs</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2792" xmltv_id="Stingray: Nostalgie">Stingray: Nostalgie</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2901" xmltv_id="Stingray: Franco Retro">Stingray: Franco Retro</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2789" xmltv_id="Stingray: Mousses musique">Stingray: Mousses musique</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3626" xmltv_id="SRC (CBLFT) Toronto HD">SRC (CBLFT) Toronto HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15258" xmltv_id="Meteo-Media HD">Meteo-Media HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5582" xmltv_id="RDS (R\u00e9seau des sports)  HD">RDS (R\u00e9seau des sports)  HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9970" xmltv_id="RDS 2 HD">RDS 2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10849" xmltv_id="RDS Info HD">RDS Info HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9824" xmltv_id="TVA Sports HD">TVA Sports HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13778" xmltv_id="TVA Sports 2 HD">TVA Sports 2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15116" xmltv_id="TVA Sports 3 HD">TVA Sports 3 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7321" xmltv_id="LCN HD">LCN HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5888" xmltv_id="RDI (News) HD">RDI (News) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10982" xmltv_id="T\u00e9l\u00e9mag HD">T\u00e9l\u00e9mag HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6059" xmltv_id="Addik TV HD">Addik TV HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3979" xmltv_id="Z HD">Z HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3975" xmltv_id="Series + HD">Series + HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6468" xmltv_id="Evasion HD">Evasion HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3976" xmltv_id="Historia HD">Historia HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3978" xmltv_id="Canal D HD">Canal D HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10299" xmltv_id="Explora HD">Explora HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11345" xmltv_id="Investigation HD">Investigation HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6765" xmltv_id="Plan\u00e8te+ HD">Plan\u00e8te+ HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15259" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9111" xmltv_id="Musique Plus HD">Musique Plus HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9112" xmltv_id="MAX HD">MAX HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5887" xmltv_id="ARTV HD">ARTV HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6472" xmltv_id="TV5 International HD - East">TV5 International HD - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10211" xmltv_id="CASA HD">CASA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7943" xmltv_id="Zeste HD">Zeste HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3974" xmltv_id="Canal Vie HD">Canal Vie HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9155" xmltv_id="Moi et compagnie HD">Moi et compagnie HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10768" xmltv_id="Prise 2 Sur Demande">Prise 2 Sur Demande</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13773" xmltv_id="Unis HD">Unis HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7146" xmltv_id="TFO - Chaine Francaise HD">TFO - Chaine Francaise HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6464" xmltv_id="Tele-Quebec (CIVM) Montreal HD">Tele-Quebec (CIVM) Montreal HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7322" xmltv_id="Canal Savoir HD">Canal Savoir HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3977" xmltv_id="VRAK HD">VRAK HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17225" xmltv_id="Disney Junior Canada HD">Disney Junior Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7617" xmltv_id="Yoopa HD">Yoopa HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11387" xmltv_id="T\u00e9l\u00e9TOON - fran\u00e7ais HD">T\u00e9l\u00e9TOON - fran\u00e7ais HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11388" xmltv_id="La Chaine Disney HD">La Chaine Disney HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3426" xmltv_id="Super Ecran Sur Demande">Super Ecran Sur Demande</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5898" xmltv_id="Super Ecran HD 1">Super Ecran HD 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8459" xmltv_id="Super Ecran 2 HD">Super Ecran 2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9822" xmltv_id="Super Ecran 3 HD">Super Ecran 3 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9825" xmltv_id="Super Ecran 4 HD">Super Ecran 4 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9156" xmltv_id="Cin\u00e9pop HD">Cin\u00e9pop HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2837" xmltv_id="SRC (CBFT) Montreal, QC HD">SRC (CBFT) Montreal, QC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5934" xmltv_id="TVA (CFTM) Montreal HD">TVA (CFTM) Montreal HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6816" xmltv_id="SRC (CBAFT) Moncton, NB HD">SRC (CBAFT) Moncton, NB HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6768" xmltv_id="SRC (CBOFT) Ottawa, ON HD">SRC (CBOFT) Ottawa, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6769" xmltv_id="SRC (CBUFT) Vancouver, BC HD">SRC (CBUFT) Vancouver, BC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2814" xmltv_id="CTV (CFTO) Toronto, ON HD">CTV (CFTO) Toronto, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2826" xmltv_id="CBC (CBLT) Toronto, ON HD">CBC (CBLT) Toronto, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6484" xmltv_id="OMNI.1 HD">OMNI.1 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3624" xmltv_id="OMNI.2 HD">OMNI.2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8399" xmltv_id="TVO (TV Ontario) HD">TVO (TV Ontario) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5870" xmltv_id="CHCH Hamilton, ON HD">CHCH Hamilton, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5997" xmltv_id="APTN HD">APTN HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3582" xmltv_id="NBC (WGRZ) Buffalo, NY HD">NBC (WGRZ) Buffalo, NY HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3581" xmltv_id="ABC (WKBW) Buffalo, NY HD">ABC (WKBW) Buffalo, NY HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3583" xmltv_id="CBS (WIVB) Buffalo, NY HD">CBS (WIVB) Buffalo, NY HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3584" xmltv_id="FOX (WUTV) Buffalo, NY HD">FOX (WUTV) Buffalo, NY HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6855" xmltv_id="PBS (WNED) Buffalo, NY HD">PBS (WNED) Buffalo, NY HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7176" xmltv_id="CTV Montreal (CFCF), QC HD">CTV Montreal (CFCF), QC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6437" xmltv_id="Global (CKMI) Quebec HD">Global (CKMI) Quebec HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4022" xmltv_id="CBC (CBMT) Montreal, QC HD">CBC (CBMT) Montreal, QC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9696" xmltv_id="Global (CHEX-TV-2) Durham, ON HD">Global (CHEX-TV-2) Durham, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9697" xmltv_id="Global (CHEX) Peterborough, ON HD">Global (CHEX) Peterborough, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9694" xmltv_id="Global (CKWS) Kingston, ON HD">Global (CKWS) Kingston, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6812" xmltv_id="CTV (CJCH) Halifax HD">CTV (CJCH) Halifax HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3905" xmltv_id="CTV Vancouver, BC HD">CTV Vancouver, BC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7174" xmltv_id="CTV Ottawa (CJOH), ON HD">CTV Ottawa (CJOH), ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6454" xmltv_id="CTV (CFCN) Calgary, AB HD">CTV (CFCN) Calgary, AB HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9660" xmltv_id="CTV (CKCK) Regina, SK HD">CTV (CKCK) Regina, SK HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8383" xmltv_id="CTV Two Atlantic Region HD">CTV Two Atlantic Region HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8379" xmltv_id="CTV Two Vancouver Island. BC HD">CTV Two Vancouver Island. BC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7950" xmltv_id="CTV (CKY) Winnipeg, MB HD">CTV (CKY) Winnipeg, MB HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6814" xmltv_id="CTV (CKCW) Moncton HD">CTV (CKCW) Moncton HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9690" xmltv_id="CTV (CKCO) Kitchener, ON HD">CTV (CKCO) Kitchener, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/31846" xmltv_id="CTV (CICI) Sudbury, ON HD">CTV (CICI) Sudbury, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6805" xmltv_id="CBC (CBHT) Halifax, NS HD">CBC (CBHT) Halifax, NS HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6808" xmltv_id="CBC (CBOT) Ottawa, ON HD">CBC (CBOT) Ottawa, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6810" xmltv_id="CBC (CBWT) Winnipeg, MB HD">CBC (CBWT) Winnipeg, MB HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6809" xmltv_id="CBC (CBRT) Calgary, AB HD">CBC (CBRT) Calgary, AB HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6257" xmltv_id="CBC (CBUT) Vancouver, BC HD">CBC (CBUT) Vancouver, BC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6811" xmltv_id="CBC (CBXT) Edmonton, AB HD">CBC (CBXT) Edmonton, AB HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4194" xmltv_id="Global BC HD">Global BC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6603" xmltv_id="CITY Montreal, QC HD">CITY Montreal, QC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3936" xmltv_id="CITY Vancouver, BC HD">CITY Vancouver, BC HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2831" xmltv_id="NBC (KING) Seattle, WA HD">NBC (KING) Seattle, WA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2829" xmltv_id="ABC (KOMO) Seattle, WA HD">ABC (KOMO) Seattle, WA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2830" xmltv_id="CBS (KIRO) Seattle, WA HD">CBS (KIRO) Seattle, WA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2832" xmltv_id="FOX (KCPQ) Tacoma, WA HD">FOX (KCPQ) Tacoma, WA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10686" xmltv_id="PBS (KCTS) Seattle, WA HD">PBS (KCTS) Seattle, WA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7313" xmltv_id="Penthouse TV Canada HD">Penthouse TV Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9530" xmltv_id="WGN Canada HD">WGN Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3662" xmltv_id="WSBK (TV-38) Boston HD">WSBK (TV-38) Boston HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4794" xmltv_id="WPIX New York (SUPERSTATION) HD">WPIX New York (SUPERSTATION) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5682" xmltv_id="KTLA Los Angeles, CA HD">KTLA Los Angeles, CA HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3479" xmltv_id="HBO On Demand">HBO On Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2820" xmltv_id="TMN - East HD">TMN - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7139" xmltv_id="TMN 2 - East HD">TMN 2 - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7137" xmltv_id="TMN 3 - East HD">TMN 3 - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10781" xmltv_id="TMN 4 HD">TMN 4 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3613" xmltv_id="TMN Encore 1 - East HD">TMN Encore 1 - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10783" xmltv_id="TMN Encore 2 - East HD">TMN Encore 2 - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4230" xmltv_id="HBO Canada 1 HD">HBO Canada 1 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11320" xmltv_id="Hollywood Suite On Demand">Hollywood Suite On Demand</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4833" xmltv_id="Super Channel Fuse">Super Channel Fuse</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4839" xmltv_id="Super Channel Heart &amp; Home\t HD">Super Channel Heart &amp; Home\t HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10893" xmltv_id="Super Channel Vault HD">Super Channel Vault HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10894" xmltv_id="Ginx eSports TV Canada HD">Ginx eSports TV Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10027" xmltv_id="FX Networks Canada HD">FX Networks Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13401" xmltv_id="FXX Canada HD">FXX Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8113" xmltv_id="The Cooking Channel HD">The Cooking Channel HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7336" xmltv_id="Action - East HD">Action - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11044" xmltv_id="Lifetime TV - Canada HD">Lifetime TV - Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9116" xmltv_id="Documentary Channel (Canada) HD">Documentary Channel (Canada) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7050" xmltv_id="Turner Classic Movies Canada HD">Turner Classic Movies Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8368" xmltv_id="AMC - Canada HD">AMC - Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7807" xmltv_id="MovieTime HD">MovieTime HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13770" xmltv_id="TSN5 HD">TSN5 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/2819" xmltv_id="TSN1 HD">TSN1 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5920" xmltv_id="TSN2 HD">TSN2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13768" xmltv_id="TSN3 HD">TSN3 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13769" xmltv_id="TSN4 HD">TSN4 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6044" xmltv_id="Sportsnet (Ontario) HD">Sportsnet (Ontario) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6043" xmltv_id="Sportsnet (East) HD">Sportsnet (East) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6042" xmltv_id="Sportsnet (Pacific) HD">Sportsnet (Pacific) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6041" xmltv_id="Sportsnet (West) HD">Sportsnet (West) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3614" xmltv_id="Sportsnet 360 HD">Sportsnet 360 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9505" xmltv_id="Outdoor Life Network Canada HD">Outdoor Life Network Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13247" xmltv_id="beIN Sport Canada HD">beIN Sport Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3615" xmltv_id="NBA TV Canada TV HD">NBA TV Canada TV HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9901" xmltv_id="Golf Channel Canada HD">Golf Channel Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8359" xmltv_id="Sportsnet One HD">Sportsnet One HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6307" xmltv_id="WFN-World Fishing Network HD">WFN-World Fishing Network HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8431" xmltv_id="Sportsnet World HD">Sportsnet World HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3992" xmltv_id="Leafs Nation Network HD">Leafs Nation Network HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10984" xmltv_id="Fight Network Canada HD">Fight Network Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14465" xmltv_id="FNTSY Sports Network HD">FNTSY Sports Network HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15376" xmltv_id="NHL Center Ice 1 HD">NHL Center Ice 1 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15384" xmltv_id="NHL Center Ice 2 HD">NHL Center Ice 2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15386" xmltv_id="NHL Center Ice 3 HD">NHL Center Ice 3 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15388" xmltv_id="NHL Center Ice 4 HD">NHL Center Ice 4 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15390" xmltv_id="NHL Center Ice 5 HD">NHL Center Ice 5 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15391" xmltv_id="NHL Center Ice 6 HD">NHL Center Ice 6 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/15394" xmltv_id="NHL Center Ice 7 HD">NHL Center Ice 7 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/14184" xmltv_id="WWE Net Pak HD (Canada)">WWE Net Pak HD (Canada)</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3601" xmltv_id="NFL Network HD">NFL Network HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7536" xmltv_id="NFL Red Zone HD">NFL Red Zone HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6218" xmltv_id="MLB Network HD">MLB Network HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4099" xmltv_id="NFL Sunday Ticket HD 1">NFL Sunday Ticket HD 1</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4100" xmltv_id="NFL Sunday Ticket HD 2">NFL Sunday Ticket HD 2</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4101" xmltv_id="NFL Sunday Ticket HD 3">NFL Sunday Ticket HD 3</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3617" xmltv_id="NFL Sunday Ticket HD 4">NFL Sunday Ticket HD 4</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4103" xmltv_id="NFL Sunday Ticket HD 5">NFL Sunday Ticket HD 5</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3619" xmltv_id="NFL Sunday Ticket HD 6">NFL Sunday Ticket HD 6</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9617" xmltv_id="MLB Extra Innings 1 HD">MLB Extra Innings 1 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9618" xmltv_id="MLB Extra Innings 2 HD">MLB Extra Innings 2 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9619" xmltv_id="MLB Extra Innings 3 HD">MLB Extra Innings 3 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9620" xmltv_id="MLB Extra Innings 4 HD">MLB Extra Innings 4 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9621" xmltv_id="MLB Extra Innings 5 HD">MLB Extra Innings 5 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9623" xmltv_id="MLB Extra Innings 6 HD">MLB Extra Innings 6 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9622" xmltv_id="MLB Extra Innings 7 HD">MLB Extra Innings 7 HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4724" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10770" xmltv_id="CTV News Channel HD">CTV News Channel HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6421" xmltv_id="CBC News Network HD">CBC News Network HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10809" xmltv_id="CP24 (CablePulse 24) HD">CP24 (CablePulse 24) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10043" xmltv_id="BNN Bloomberg HD">BNN Bloomberg HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/5599" xmltv_id="The Weather Channel HD">The Weather Channel HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8430" xmltv_id="MSNBC Canada HD">MSNBC Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6994" xmltv_id="HLN HD">HLN HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10294" xmltv_id="BBC World HD">BBC World HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3887" xmltv_id="Discovery Velocity">Discovery Velocity</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8451" xmltv_id="Discovery Channel (CAN) HD">Discovery Channel (CAN) HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6779" xmltv_id="TLC Canada HD">TLC Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6822" xmltv_id="History Canada HD East">History Canada HD East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10769" xmltv_id="Discovery Science Canada HD">Discovery Science Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4162" xmltv_id="National Geographic Canada HD">National Geographic Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10044" xmltv_id="Animal Planet Canada HD">Animal Planet Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8962" xmltv_id="Oprah Winfrey Network Canada HD">Oprah Winfrey Network Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9631" xmltv_id="Travel + Escape HD">Travel + Escape HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8458" xmltv_id="Investigation Discovery Canada HD">Investigation Discovery Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11012" xmltv_id="National Geographic Wild Canada HD">National Geographic Wild Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8774" xmltv_id="YTV (Youth Television) - East HD">YTV (Youth Television) - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17173" xmltv_id="Disney XD Canada HD">Disney XD Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10331" xmltv_id="Teletoon - East HD">Teletoon - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8777" xmltv_id="Family Channel Canada - East HD">Family Channel Canada - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11319" xmltv_id="Nickelodeon Canada HD">Nickelodeon Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11285" xmltv_id="Treehouse HD">Treehouse HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10282" xmltv_id="ABC Spark HD">ABC Spark HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10691" xmltv_id="Cartoon Network Canada HD">Cartoon Network Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/16683" xmltv_id="Disney Channel Canada HD - East">Disney Channel Canada HD - East</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9396" xmltv_id="Much Music HD">Much Music HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11108" xmltv_id="A.Side TV HD">A.Side TV HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11107" xmltv_id="MTV Canada HD">MTV Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11325" xmltv_id="CMT Canada HD">CMT Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8793" xmltv_id="HGTV Canada HD">HGTV Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9632" xmltv_id="Slice HD">Slice HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9652" xmltv_id="W (WTN) - East HD">W (WTN) - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8389" xmltv_id="Food Network Canada HD">Food Network Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8557" xmltv_id="FYI Canada HD">FYI Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3958" xmltv_id="ONE: GET FIT HD">ONE: GET FIT HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11326" xmltv_id="Cosmopolitan TV East HD">Cosmopolitan TV East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9309" xmltv_id="OUTtv HD">OUTtv HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10210" xmltv_id="Cooking Channel Canada HD">Cooking Channel Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/12662" xmltv_id="Todays Shopping Choice HD">Todays Shopping Choice HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3886" xmltv_id="A&amp;E Canada HD">A&amp;E Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/4161" xmltv_id="Showcase Canada HD">Showcase Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3969" xmltv_id="DTOUR HD">DTOUR HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11293" xmltv_id="Gusto TV HD">Gusto TV HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6797" xmltv_id="Bravo Canada HD">Bravo Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8558" xmltv_id="E! Canada HD">E! Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10771" xmltv_id="Comedy Network - East HD">Comedy Network - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10772" xmltv_id="Comedy Network - West HD">Comedy Network - West HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10042" xmltv_id="Space HD">Space HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9654" xmltv_id="Paramount Network Canada HD">Paramount Network Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10881" xmltv_id="American Heroes Channel HD">American Heroes Channel HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/13784" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7055" xmltv_id="Game Show Network - East HD">Game Show Network - East HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/6791" xmltv_id="Cottage Life HD">Cottage Life HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/9691" xmltv_id="Yes TV (CITS) Burlington, ON HD">Yes TV (CITS) Burlington, ON HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3906" xmltv_id="HIFI">HIFI</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3907" xmltv_id="Love Nature">Love Nature</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3908" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11405" xmltv_id="Smithsonian Channel Canada HD">Smithsonian Channel Canada HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/7819" xmltv_id="Aquarium Channel">Aquarium Channel</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/17041" xmltv_id="ATN - News 18">ATN - News 18</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/11053" xmltv_id="ATN - ABP News">ATN - ABP News</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/10295" xmltv_id="ATN - Aapka Colors">ATN - Aapka Colors</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/20367" xmltv_id="ATN - IBC Tamil">ATN - IBC Tamil</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/3620" xmltv_id="NFL Sunday Ticket HD 7">NFL Sunday Ticket HD 7</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8445" xmltv_id="NFL Sunday Ticket HD 8">NFL Sunday Ticket HD 8</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8446" xmltv_id="NFL Sunday Ticket HD 9">NFL Sunday Ticket HD 9</channel>
+    <channel update="i" site="tvtv.ca" site_id="36625D/8447" xmltv_id="NFL Sunday Ticket HD 10">NFL Sunday Ticket HD 10</channel>
+  </channels>
+</site>
