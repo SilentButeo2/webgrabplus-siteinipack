@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="tvprograma.lt">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="tvprograma.lt">
   <channels>
     <channel update="i" site="tvprograma.lt" site_id="lrt-televizija/30" xmltv_id="LRT TELEVIZIJA">LRT TELEVIZIJA</channel>
     <channel update="i" site="tvprograma.lt" site_id="lnk/3" xmltv_id="LNK">LNK</channel>
@@ -16,6 +16,7 @@
     <channel update="i" site="tvprograma.lt" site_id="discovery/35" xmltv_id="Discovery">Discovery</channel>
     <channel update="i" site="tvprograma.lt" site_id="info-tv/40" xmltv_id="INFO TV">INFO TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="liuks/146" xmltv_id="Liuks!">Liuks!</channel>
+    <channel update="i" site="tvprograma.lt" site_id="tvplay-sports/353" xmltv_id="TVPlay Sports">TVPlay Sports</channel>
     <channel update="i" site="tvprograma.lt" site_id="lrt-hd/317" xmltv_id="LRT HD">LRT HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="sport1/24" xmltv_id="Sport1">Sport1</channel>
     <channel update="i" site="tvprograma.lt" site_id="eurosport/33" xmltv_id="EUROSPORT">EUROSPORT</channel>
@@ -24,21 +25,22 @@
     <channel update="i" site="tvprograma.lt" site_id="extreme-sports/119" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="tvprograma.lt" site_id="ntvsport/58" xmltv_id="NTV+Sport">NTV+Sport</channel>
     <channel update="i" site="tvprograma.lt" site_id="nba-tv/260" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="tvprograma.lt" site_id="motors-tv/89" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="motorsport-tv/89" xmltv_id="Motorsport TV">Motorsport TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-golf/29" xmltv_id="Viasat Golf">Viasat Golf</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-golf-hd/280" xmltv_id="Viasat Golf HD">Viasat Golf HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-hockey/154" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-sport/278" xmltv_id="Viasat Sport">Viasat Sport</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-sport-hd/279" xmltv_id="Viasat Sport HD">Viasat Sport HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="russkij-extreme/208" xmltv_id="Russkij Extreme">Russkij Extreme</channel>
-    <channel update="i" site="tvprograma.lt" site_id="viasat-motor/273" xmltv_id="Viasat Motor">Viasat Motor</channel>
-    <channel update="i" site="tvprograma.lt" site_id="viasat-motor-hd/274" xmltv_id="Viasat Motor HD">Viasat Motor HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="boec/63" xmltv_id="Boec">Boec</channel>
     <channel update="i" site="tvprograma.lt" site_id="auto-plius/103" xmltv_id="Auto Plius">Auto Plius</channel>
     <channel update="i" site="tvprograma.lt" site_id="tvp-sport/195" xmltv_id="TVP Sport">TVP Sport</channel>
     <channel update="i" site="tvprograma.lt" site_id="khl-tv/207" xmltv_id="KHL TV">KHL TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="setanta-sports/330" xmltv_id="Setanta Sports">Setanta Sports</channel>
     <channel update="i" site="tvprograma.lt" site_id="fuel-tv/313" xmltv_id="Fuel TV">Fuel TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="discovery-turbo-xtra/323" xmltv_id="Discovery turbo Xtra">Discovery turbo Xtra</channel>
+    <channel update="i" site="tvprograma.lt" site_id="fight-sport-hd/0" xmltv_id="Fight Sport HD">Fight Sport HD</channel>
+    <channel update="i" site="tvprograma.lt" site_id="esportstv/352" xmltv_id="ESPORTSTV">ESPORTSTV</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv1000/16" xmltv_id="TV1000">TV1000</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv1000-premium/18" xmltv_id="TV1000 Premium">TV1000 Premium</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv1000-action/183" xmltv_id="TV1000 Action">TV1000 Action</channel>
@@ -53,12 +55,7 @@
     <channel update="i" site="tvprograma.lt" site_id="kinopokaz/272" xmltv_id="Kinopokaz">Kinopokaz</channel>
     <channel update="i" site="tvprograma.lt" site_id="russkij-iliuzionist/243" xmltv_id="Russkij Iliuzionist">Russkij Iliuzionist</channel>
     <channel update="i" site="tvprograma.lt" site_id="teleklub/67" xmltv_id="Teleklub">Teleklub</channel>
-    <channel update="i" site="tvprograma.lt" site_id="tcm/92" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="tvprograma.lt" site_id="tv1000-comedy/277" xmltv_id="TV1000 Comedy">TV1000 Comedy</channel>
-    <channel update="i" site="tvprograma.lt" site_id="tv1000-comedy-hd/281" xmltv_id="TV1000 Comedy HD">TV1000 Comedy HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv1000-premium-hd/275" xmltv_id="TV1000 Premium HD">TV1000 Premium HD</channel>
-    <channel update="i" site="tvprograma.lt" site_id="tv1000-megahit/276" xmltv_id="TV1000 Megahit">TV1000 Megahit</channel>
-    <channel update="i" site="tvprograma.lt" site_id="tv1000-megahit-hd/282" xmltv_id="TV1000 Megahit HD">TV1000 Megahit HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="tvp-seriale/194" xmltv_id="TVP Seriale">TVP Seriale</channel>
     <channel update="i" site="tvprograma.lt" site_id="indija/66" xmltv_id="Indija">Indija</channel>
     <channel update="i" site="tvprograma.lt" site_id="universal/140" xmltv_id="Universal">Universal</channel>
@@ -68,6 +65,8 @@
     <channel update="i" site="tvprograma.lt" site_id="rtl-crime/216" xmltv_id="RTL Crime">RTL Crime</channel>
     <channel update="i" site="tvprograma.lt" site_id="passion/218" xmltv_id="Passion">Passion</channel>
     <channel update="i" site="tvprograma.lt" site_id="retro-tv/242" xmltv_id="Retro TV">Retro TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="vip-comedy/348" xmltv_id="Vip Comedy">Vip Comedy</channel>
+    <channel update="i" site="tvprograma.lt" site_id="vip-premiere/349" xmltv_id="Vip Premiere">Vip Premiere</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv1000-east/296" xmltv_id="TV1000 East">TV1000 East</channel>
     <channel update="i" site="tvprograma.lt" site_id="k1-movie-channel/285" xmltv_id="K1 movie channel">K1 movie channel</channel>
     <channel update="i" site="tvprograma.lt" site_id="hd1-movie-channel/286" xmltv_id="HD1 movie channel">HD1 movie channel</channel>
@@ -77,6 +76,10 @@
     <channel update="i" site="tvprograma.lt" site_id="filmzone/321" xmltv_id="FilmZone+">FilmZone+</channel>
     <channel update="i" site="tvprograma.lt" site_id="balticum-platinum/322" xmltv_id="Balticum Platinum">Balticum Platinum</channel>
     <channel update="i" site="tvprograma.lt" site_id="muzhskoe-kino/325" xmltv_id="Muzhskoe kino">Muzhskoe kino</channel>
+    <channel update="i" site="tvprograma.lt" site_id="bollywood-tv/334" xmltv_id="Bollywood TV">Bollywood TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="dom-kino-premium-hd/336" xmltv_id="Dom Kino Premium HD">Dom Kino Premium HD</channel>
+    <channel update="i" site="tvprograma.lt" site_id="vip-megahit/350" xmltv_id="Vip Megahit">Vip Megahit</channel>
+    <channel update="i" site="tvprograma.lt" site_id="tv1000-world-kino/351" xmltv_id="TV1000 World Kino">TV1000 World Kino</channel>
     <channel update="i" site="tvprograma.lt" site_id="rtvi/36" xmltv_id="RTVi">RTVi</channel>
     <channel update="i" site="tvprograma.lt" site_id="sts-ctc/54" xmltv_id="STS-CTC">STS-CTC</channel>
     <channel update="i" site="tvprograma.lt" site_id="ntv/48" xmltv_id="NTV">NTV</channel>
@@ -111,6 +114,9 @@
     <channel update="i" site="tvprograma.lt" site_id="muzyka-pervogo/318" xmltv_id="Muzyka Pervogo">Muzyka Pervogo</channel>
     <channel update="i" site="tvprograma.lt" site_id="peretz-international/324" xmltv_id="Peretz International">Peretz International</channel>
     <channel update="i" site="tvprograma.lt" site_id="komedia-tv/326" xmltv_id="Komedia TV">Komedia TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="bobior-tv/337" xmltv_id="Bobior TV">Bobior TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="rbk/341" xmltv_id="RBK">RBK</channel>
+    <channel update="i" site="tvprograma.lt" site_id="perec/347" xmltv_id="Перец">Перец</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-explorer/19" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
     <channel update="i" site="tvprograma.lt" site_id="viasat-history/20" xmltv_id="Viasat History">Viasat History</channel>
     <channel update="i" site="tvprograma.lt" site_id="national-geographic/22" xmltv_id="National Geographic">National Geographic</channel>
@@ -146,12 +152,12 @@
     <channel update="i" site="tvprograma.lt" site_id="animal-planet-hd/292" xmltv_id="Animal planet HD">Animal planet HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="oruzhie-tv/299" xmltv_id="Oruzhie TV">Oruzhie TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="bbc-earth/327" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tvprograma.lt" site_id="docubox-hd/333" xmltv_id="DocuBox HD">DocuBox HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="sony-entertainment/264" xmltv_id="SONY Entertainment">SONY Entertainment</channel>
     <channel update="i" site="tvprograma.lt" site_id="playboy-tv/132" xmltv_id="Playboy TV">Playboy TV</channel>
-    <channel update="i" site="tvprograma.lt" site_id="entertainment-tv/114" xmltv_id="Entertainment TV">Entertainment TV</channel>
+    <channel update="i" site="tvprograma.lt" site_id="e/114" xmltv_id="E!">E!</channel>
     <channel update="i" site="tvprograma.lt" site_id="blue-hustler/76" xmltv_id="BLUE HUSTLER">BLUE HUSTLER</channel>
     <channel update="i" site="tvprograma.lt" site_id="cbs-reality/91" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="tvprograma.lt" site_id="cbs-drama/107" xmltv_id="CBS Drama">CBS Drama</channel>
     <channel update="i" site="tvprograma.lt" site_id="ochota-i-rybalka/69" xmltv_id="Ochota i rybalka">Ochota i rybalka</channel>
     <channel update="i" site="tvprograma.lt" site_id="comedy-tv/249" xmltv_id="Comedy TV">Comedy TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="drive-tv/68" xmltv_id="Drive TV">Drive TV</channel>
@@ -165,7 +171,8 @@
     <channel update="i" site="tvprograma.lt" site_id="sony-turbo/293" xmltv_id="Sony Turbo">Sony Turbo</channel>
     <channel update="i" site="tvprograma.lt" site_id="outdoor-channel/295" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
     <channel update="i" site="tvprograma.lt" site_id="trace-sport-stars/304" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
-    <channel update="i" site="tvprograma.lt" site_id="crime--investigation/311" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel update="i" site="tvprograma.lt" site_id="crime-investigation/311" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel update="i" site="tvprograma.lt" site_id="fashion-one-hd/338" xmltv_id="Fashion One HD">Fashion One HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="zvaigzde/212" xmltv_id="Žvaigždė">Žvaigždė</channel>
     <channel update="i" site="tvprograma.lt" site_id="muz-tv/46" xmltv_id="Muz TV">Muz TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="mtv/12" xmltv_id="MTV">MTV</channel>
@@ -188,6 +195,7 @@
     <channel update="i" site="tvprograma.lt" site_id="play-tv/306" xmltv_id="Play TV">Play TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="mtv-live-hd/308" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="mtv-music/309" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="tvprograma.lt" site_id="pervyj-muzikalnij/339" xmltv_id="Pervyj Muzikalnij">Pervyj Muzikalnij</channel>
     <channel update="i" site="tvprograma.lt" site_id="cartoon-network/77" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="tvprograma.lt" site_id="boomerang/111" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="tvprograma.lt" site_id="nickelodeon/90" xmltv_id="Nickelodeon">Nickelodeon</channel>
@@ -206,13 +214,12 @@
     <channel update="i" site="tvprograma.lt" site_id="duck-tv/283" xmltv_id="Duck TV">Duck TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="duck-tv-hd/284" xmltv_id="Duck TV HD">Duck TV HD</channel>
     <channel update="i" site="tvprograma.lt" site_id="nickelodeon-hd/310" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tvprograma.lt" site_id="kidzone/346" xmltv_id="Kidzone+">Kidzone+</channel>
     <channel update="i" site="tvprograma.lt" site_id="lrt-lituanica/196" xmltv_id="LRT LITUANICA">LRT LITUANICA</channel>
     <channel update="i" site="tvprograma.lt" site_id="init/147" xmltv_id="Init">Init</channel>
     <channel update="i" site="tvprograma.lt" site_id="pukas-tv/178" xmltv_id="Pūkas TV">Pūkas TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="balticum/102" xmltv_id="Balticum">Balticum</channel>
     <channel update="i" site="tvprograma.lt" site_id="dzukijos-tv/148" xmltv_id="Dzūkijos TV">Dzūkijos TV</channel>
-    <channel update="i" site="tvprograma.lt" site_id="pantv/144" xmltv_id="PanTV">PanTV</channel>
-    <channel update="i" site="tvprograma.lt" site_id="splius/142" xmltv_id="Splius">Splius</channel>
     <channel update="i" site="tvprograma.lt" site_id="stv/145" xmltv_id="STV">STV</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv3-latvia/185" xmltv_id="TV3 Latvia">TV3 Latvia</channel>
     <channel update="i" site="tvprograma.lt" site_id="rtl/32" xmltv_id="RTL">RTL</channel>
@@ -243,7 +250,14 @@
     <channel update="i" site="tvprograma.lt" site_id="nhk-world/240" xmltv_id="NHK World">NHK World</channel>
     <channel update="i" site="tvprograma.lt" site_id="rosija-today/247" xmltv_id="Rosija today">Rosija today</channel>
     <channel update="i" site="tvprograma.lt" site_id="tele5/236" xmltv_id="Tele5">Tele5</channel>
+    <channel update="i" site="tvprograma.lt" site_id="gntv/329" xmltv_id="GNTV">GNTV</channel>
     <channel update="i" site="tvprograma.lt" site_id="init-ekstra-tv/305" xmltv_id="Init Ekstra TV">Init Ekstra TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="marijampoles-televizija/319" xmltv_id="Marijampolės televizija">Marijampolės televizija</channel>
+    <channel update="i" site="tvprograma.lt" site_id="currenttime/335" xmltv_id="CurrentTime">CurrentTime</channel>
+    <channel update="i" site="tvprograma.lt" site_id="seimas-tiesiogiai/340" xmltv_id="Seimas Tiesiogiai">Seimas Tiesiogiai</channel>
+    <channel update="i" site="tvprograma.lt" site_id="rtl-passion/342" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="tvprograma.lt" site_id="n-tv/343" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="tvprograma.lt" site_id="rtl-plus/344" xmltv_id="RTL plus">RTL plus</channel>
+    <channel update="i" site="tvprograma.lt" site_id="geo-television/345" xmltv_id="GEO Television">GEO Television</channel>
   </channels>
 </site>
