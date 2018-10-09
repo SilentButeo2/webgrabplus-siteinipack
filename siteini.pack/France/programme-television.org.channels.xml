@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.3 -- Jan van Straaten" site="programme-television.org">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="programme-television.org">
   <channels>
     <channel update="i" site="programme-television.org" site_id="192" xmltv_id="TF1">TF1</channel>
     <channel update="i" site="programme-television.org" site_id="4" xmltv_id="France 2">France 2</channel>
@@ -11,7 +11,7 @@
     <channel update="i" site="programme-television.org" site_id="445" xmltv_id="C8">C8</channel>
     <channel update="i" site="programme-television.org" site_id="119" xmltv_id="W9">W9</channel>
     <channel update="i" site="programme-television.org" site_id="195" xmltv_id="TMC">TMC</channel>
-    <channel update="i" site="programme-television.org" site_id="446" xmltv_id="NT1">NT1</channel>
+    <channel update="i" site="programme-television.org" site_id="446" xmltv_id="TFX">TFX</channel>
     <channel update="i" site="programme-television.org" site_id="444" xmltv_id="NRJ12">NRJ12</channel>
     <channel update="i" site="programme-television.org" site_id="234" xmltv_id="LCP / Public Sénat">LCP / Public Sénat</channel>
     <channel update="i" site="programme-television.org" site_id="78" xmltv_id="France 4">France 4</channel>
@@ -20,10 +20,10 @@
     <channel update="i" site="programme-television.org" site_id="458" xmltv_id="CStar">CStar</channel>
     <channel update="i" site="programme-television.org" site_id="482" xmltv_id="Gulli">Gulli</channel>
     <channel update="i" site="programme-television.org" site_id="160" xmltv_id="France Ô">France Ô</channel>
-    <channel update="i" site="programme-television.org" site_id="1404" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="programme-television.org" site_id="1404" xmltv_id="TF1 Série Films">TF1 Série Films</channel>
     <channel update="i" site="programme-television.org" site_id="1401" xmltv_id="L Equipe">L Equipe</channel>
     <channel update="i" site="programme-television.org" site_id="1403" xmltv_id="6Ter">6Ter</channel>
-    <channel update="i" site="programme-television.org" site_id="1402" xmltv_id="Numéro 23">Numéro 23</channel>
+    <channel update="i" site="programme-television.org" site_id="1402" xmltv_id="RMC Story">RMC Story</channel>
     <channel update="i" site="programme-television.org" site_id="1400" xmltv_id="RMC Découverte">RMC Découverte</channel>
     <channel update="i" site="programme-television.org" site_id="1399" xmltv_id="Chérie 25">Chérie 25</channel>
     <channel update="i" site="programme-television.org" site_id="112" xmltv_id="LCI">LCI</channel>
@@ -53,6 +53,9 @@
     <channel update="i" site="programme-television.org" site_id="49" xmltv_id="Serieclub">Serieclub</channel>
     <channel update="i" site="programme-television.org" site_id="479" xmltv_id="Sy Fy">Sy Fy</channel>
     <channel update="i" site="programme-television.org" site_id="2320" xmltv_id="Altice Studio">Altice Studio</channel>
+    <channel update="i" site="programme-television.org" site_id="1832" xmltv_id="Novelas TV">Novelas TV</channel>
+    <channel update="i" site="programme-television.org" site_id="2326" xmltv_id="Polar+">Polar+</channel>
+    <channel update="i" site="programme-television.org" site_id="2334" xmltv_id="Warner TV">Warner TV</channel>
     <channel update="i" site="programme-television.org" site_id="205" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
     <channel update="i" site="programme-television.org" site_id="145" xmltv_id="Paris Première">Paris Première</channel>
     <channel update="i" site="programme-television.org" site_id="191" xmltv_id="Téva">Téva</channel>
@@ -82,16 +85,33 @@
     <channel update="i" site="programme-television.org" site_id="1166" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel update="i" site="programme-television.org" site_id="64" xmltv_id="Equidia Live">Equidia Live</channel>
     <channel update="i" site="programme-television.org" site_id="1146" xmltv_id="Equidia Life">Equidia Life</channel>
-    <channel update="i" site="programme-television.org" site_id="1153" xmltv_id="SFR Sport 3">SFR Sport 3</channel>
+    <channel update="i" site="programme-television.org" site_id="2391" xmltv_id="RMC Sport Access 3">RMC Sport Access 3</channel>
     <channel update="i" site="programme-television.org" site_id="253" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
-    <channel update="i" site="programme-television.org" site_id="675" xmltv_id="SFR Sport 2">SFR Sport 2</channel>
+    <channel update="i" site="programme-television.org" site_id="675" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
     <channel update="i" site="programme-television.org" site_id="463" xmltv_id="OL TV">OL TV</channel>
     <channel update="i" site="programme-television.org" site_id="334" xmltv_id="OMtv">OMtv</channel>
-    <channel update="i" site="programme-television.org" site_id="1412" xmltv_id="SFR Sport 5">SFR Sport 5</channel>
+    <channel update="i" site="programme-television.org" site_id="1382" xmltv_id="RMC Sport 4">RMC Sport 4</channel>
     <channel update="i" site="programme-television.org" site_id="1168" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
     <channel update="i" site="programme-television.org" site_id="15" xmltv_id="AB Moteurs">AB Moteurs</channel>
     <channel update="i" site="programme-television.org" site_id="237" xmltv_id="Motors TV">Motors TV</channel>
-    <channel update="i" site="programme-television.org" site_id="2095" xmltv_id="SFR Sport 1">SFR Sport 1</channel>
+    <channel update="i" site="programme-television.org" site_id="2095" xmltv_id="RMC Sport Access 1">RMC Sport Access 1</channel>
+    <channel update="i" site="programme-television.org" site_id="2029" xmltv_id="RMC Sport 1 UHD">RMC Sport 1 UHD</channel>
+    <channel update="i" site="programme-television.org" site_id="2665" xmltv_id="RMC Sport 1">RMC Sport 1</channel>
+    <channel update="i" site="programme-television.org" site_id="2666" xmltv_id="RMC Sport 2">RMC Sport 2</channel>
+    <channel update="i" site="programme-television.org" site_id="2667" xmltv_id="RMC Sport 3">RMC Sport 3</channel>
+    <channel update="i" site="programme-television.org" site_id="2668" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
+    <channel update="i" site="programme-television.org" site_id="2669" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
+    <channel update="i" site="programme-television.org" site_id="2670" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
+    <channel update="i" site="programme-television.org" site_id="2671" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
+    <channel update="i" site="programme-television.org" site_id="2672" xmltv_id="RMC Sport Live 9">RMC Sport Live 9</channel>
+    <channel update="i" site="programme-television.org" site_id="2673" xmltv_id="RMC Sport Live 10">RMC Sport Live 10</channel>
+    <channel update="i" site="programme-television.org" site_id="2674" xmltv_id="RMC Sport Live 11">RMC Sport Live 11</channel>
+    <channel update="i" site="programme-television.org" site_id="2675" xmltv_id="RMC Sport Live 12">RMC Sport Live 12</channel>
+    <channel update="i" site="programme-television.org" site_id="2676" xmltv_id="RMC Sport Live 13">RMC Sport Live 13</channel>
+    <channel update="i" site="programme-television.org" site_id="2677" xmltv_id="RMC Sport Live 14">RMC Sport Live 14</channel>
+    <channel update="i" site="programme-television.org" site_id="2678" xmltv_id="RMC Sport Live 15">RMC Sport Live 15</channel>
+    <channel update="i" site="programme-television.org" site_id="2679" xmltv_id="RMC Sport Live 16">RMC Sport Live 16</channel>
+    <channel update="i" site="programme-television.org" site_id="2096" xmltv_id="RMC Sport News">RMC Sport News</channel>
     <channel update="i" site="programme-television.org" site_id="415" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel update="i" site="programme-television.org" site_id="719" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
     <channel update="i" site="programme-television.org" site_id="243" xmltv_id="National Geographic">National Geographic</channel>
