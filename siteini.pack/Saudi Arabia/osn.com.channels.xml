@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="osn.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="osn.com">
   <channels>
     <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
     <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD +2h">OSN Movies First HD +2h</channel>
     <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
     <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>
     <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
+    <channel update="i" site="osn.com" site_id="POP" xmltv_id="Paw Patrol with OSN">Paw Patrol with OSN</channel>
     <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
     <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
     <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel>
@@ -43,6 +44,7 @@
     <channel update="i" site="osn.com" site_id="ACM" xmltv_id="ART Cinema">ART Cinema</channel>
     <channel update="i" site="osn.com" site_id="ADH" xmltv_id="AD Drama + HD">AD Drama + HD</channel>
     <channel update="i" site="osn.com" site_id="HWT" xmltv_id="Hawas TV">Hawas TV</channel>
+    <channel update="i" site="osn.com" site_id="BEI" xmltv_id="Beity TV">Beity TV</channel>
     <channel update="i" site="osn.com" site_id="KT1" xmltv_id="KTV1 HD">KTV1 HD</channel>
     <channel update="i" site="osn.com" site_id="KT2" xmltv_id="KTV2 HD">KTV2 HD</channel>
     <channel update="i" site="osn.com" site_id="KTE" xmltv_id="KTV Ethraa HD">KTV Ethraa HD</channel>
@@ -100,7 +102,6 @@
     <channel update="i" site="osn.com" site_id="SMX" xmltv_id="Sony MIX">Sony MIX</channel>
     <channel update="i" site="osn.com" site_id="MIN" xmltv_id="MTV India">MTV India</channel>
     <channel update="i" site="osn.com" site_id="DIS" xmltv_id="Disney HD">Disney HD</channel>
-    <channel update="i" site="osn.com" site_id="POP" xmltv_id="Marvel">Marvel</channel>
     <channel update="i" site="osn.com" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
     <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
@@ -170,5 +171,5 @@
     <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
     <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
     <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
-    <channel update="i" site="osn.com" site_id="VIV" xmltv_id="Viva TV">Viva TV</channel>
   </channels>
+</site>
