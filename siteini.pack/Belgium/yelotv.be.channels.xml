@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" site="yelotv.be">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="yelotv.be">
   <channels>
     <channel update="i" site="yelotv.be" site_id="7" xmltv_id="Vitaya">Vitaya</channel>
     <channel update="i" site="yelotv.be" site_id="8" xmltv_id="KanaalZ">KanaalZ</channel>
@@ -12,7 +12,7 @@
     <channel update="i" site="yelotv.be" site_id="16" xmltv_id="BRUZZ">BRUZZ</channel>
     <channel update="i" site="yelotv.be" site_id="17" xmltv_id="TV Limburg">TV Limburg</channel>
     <channel update="i" site="yelotv.be" site_id="18" xmltv_id="WTV">WTV</channel>
-    <channel update="i" site="yelotv.be" site_id="19" xmltv_id="KADET">KADET</channel>
+    <channel update="i" site="yelotv.be" site_id="19" xmltv_id="VTM KIDS Jr">VTM KIDS Jr</channel>
     <channel update="i" site="yelotv.be" site_id="21" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="yelotv.be" site_id="22" xmltv_id="NPO 1">NPO 1</channel>
     <channel update="i" site="yelotv.be" site_id="23" xmltv_id="NPO 2">NPO 2</channel>
@@ -29,12 +29,12 @@
     <channel update="i" site="yelotv.be" site_id="44" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
     <channel update="i" site="yelotv.be" site_id="47" xmltv_id="Extreme">Extreme</channel>
     <channel update="i" site="yelotv.be" site_id="51" xmltv_id="Play More Kicks">Play More Kicks</channel>
-    <channel update="i" site="yelotv.be" site_id="55" xmltv_id="ActuaTV">ActuaTV</channel>
+    <channel update="i" site="yelotv.be" site_id="55" xmltv_id="vlaamsparlement.tv">vlaamsparlement.tv</channel>
     <channel update="i" site="yelotv.be" site_id="56" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="yelotv.be" site_id="57" xmltv_id="CNBC Europe">CNBC Europe</channel>
     <channel update="i" site="yelotv.be" site_id="58" xmltv_id="BBC World">BBC World</channel>
     <channel update="i" site="yelotv.be" site_id="59" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="yelotv.be" site_id="63" xmltv_id="Disc science">Disc science</channel>
+    <channel update="i" site="yelotv.be" site_id="63" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="yelotv.be" site_id="66" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="yelotv.be" site_id="67" xmltv_id="E! Ent">E! Ent</channel>
     <channel update="i" site="yelotv.be" site_id="74" xmltv_id="Boomerangtv">Boomerangtv</channel>
@@ -52,7 +52,7 @@
     <channel update="i" site="yelotv.be" site_id="101" xmltv_id="Canal J">Canal J</channel>
     <channel update="i" site="yelotv.be" site_id="104" xmltv_id="LCI">LCI</channel>
     <channel update="i" site="yelotv.be" site_id="105" xmltv_id="TV Breizh">TV Breizh</channel>
-    <channel update="i" site="yelotv.be" site_id="107" xmltv_id="AB4">AB4</channel>
+    <channel update="i" site="yelotv.be" site_id="107" xmltv_id="ABXPLORE">ABXPLORE</channel>
     <channel update="i" site="yelotv.be" site_id="108" xmltv_id="Arte Belgique">Arte Belgique</channel>
     <channel update="i" site="yelotv.be" site_id="109" xmltv_id="Canal Z">Canal Z</channel>
     <channel update="i" site="yelotv.be" site_id="112" xmltv_id="RTPi">RTPi</channel>
@@ -62,7 +62,6 @@
     <channel update="i" site="yelotv.be" site_id="117" xmltv_id="Rai Due">Rai Due</channel>
     <channel update="i" site="yelotv.be" site_id="118" xmltv_id="Rai Tre">Rai Tre</channel>
     <channel update="i" site="yelotv.be" site_id="122" xmltv_id="BX1">BX1</channel>
-    <channel update="i" site="yelotv.be" site_id="123" xmltv_id="MCM Top">MCM Top</channel>
     <channel update="i" site="yelotv.be" site_id="124" xmltv_id="RFM">RFM</channel>
     <channel update="i" site="yelotv.be" site_id="135" xmltv_id="ACTION">ACTION</channel>
     <channel update="i" site="yelotv.be" site_id="136" xmltv_id="Animaux">Animaux</channel>
@@ -72,19 +71,17 @@
     <channel update="i" site="yelotv.be" site_id="141" xmltv_id="Cartoon">Cartoon</channel>
     <channel update="i" site="yelotv.be" site_id="148" xmltv_id="Discovery FR">Discovery FR</channel>
     <channel update="i" site="yelotv.be" site_id="152" xmltv_id="E! FR">E! FR</channel>
-    <channel update="i" site="yelotv.be" site_id="155" xmltv_id="Extreme FR">Extreme FR</channel>
-    <channel update="i" site="yelotv.be" site_id="156" xmltv_id="Fashion TV FR">Fashion TV FR</channel>
-    <channel update="i" site="yelotv.be" site_id="158" xmltv_id="VIVOLTA">VIVOLTA</channel>
+    <channel update="i" site="yelotv.be" site_id="155" xmltv_id="Trek">Trek</channel>
+    <channel update="i" site="yelotv.be" site_id="156" xmltv_id="Viceland FR">Viceland FR</channel>
     <channel update="i" site="yelotv.be" site_id="159" xmltv_id="Game One">Game One</channel>
     <channel update="i" site="yelotv.be" site_id="160" xmltv_id="Histoire">Histoire</channel>
     <channel update="i" site="yelotv.be" site_id="161" xmltv_id="HustlerTV">HustlerTV</channel>
-    <channel update="i" site="yelotv.be" site_id="163" xmltv_id="iTélé">iTélé</channel>
+    <channel update="i" site="yelotv.be" site_id="163" xmltv_id="CNEWS">CNEWS</channel>
     <channel update="i" site="yelotv.be" site_id="165" xmltv_id="Mangas">Mangas</channel>
-    <channel update="i" site="yelotv.be" site_id="168" xmltv_id="ABMoteurs">ABMoteurs</channel>
+    <channel update="i" site="yelotv.be" site_id="168" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
     <channel update="i" site="yelotv.be" site_id="173" xmltv_id="Man-X">Man-X</channel>
-    <channel update="i" site="yelotv.be" site_id="177" xmltv_id="CBS reality">CBS reality</channel>
+    <channel update="i" site="yelotv.be" site_id="177" xmltv_id="DJazz TV">DJazz TV</channel>
     <channel update="i" site="yelotv.be" site_id="180" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
-    <channel update="i" site="yelotv.be" site_id="182" xmltv_id="Motors TV FR">Motors TV FR</channel>
     <channel update="i" site="yelotv.be" site_id="183" xmltv_id="Tiji">Tiji</channel>
     <channel update="i" site="yelotv.be" site_id="184" xmltv_id="toute L HISTOIRE">toute L HISTOIRE</channel>
     <channel update="i" site="yelotv.be" site_id="187" xmltv_id="voyage">voyage</channel>
@@ -92,34 +89,27 @@
     <channel update="i" site="yelotv.be" site_id="191" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
     <channel update="i" site="yelotv.be" site_id="193" xmltv_id="TF1 HD">TF1 HD</channel>
     <channel update="i" site="yelotv.be" site_id="198" xmltv_id="één HD">één HD</channel>
-    <channel update="i" site="yelotv.be" site_id="201" xmltv_id="Studio 100 TV">Studio 100 TV</channel>
-    <channel update="i" site="yelotv.be" site_id="202" xmltv_id="Travel">Travel</channel>
     <channel update="i" site="yelotv.be" site_id="207" xmltv_id="VTM HD">VTM HD</channel>
     <channel update="i" site="yelotv.be" site_id="213" xmltv_id="History TV">History TV</channel>
     <channel update="i" site="yelotv.be" site_id="214" xmltv_id="2M Monde">2M Monde</channel>
     <channel update="i" site="yelotv.be" site_id="215" xmltv_id="TVP Polonia">TVP Polonia</channel>
     <channel update="i" site="yelotv.be" site_id="216" xmltv_id="Al Aoula Europe">Al Aoula Europe</channel>
     <channel update="i" site="yelotv.be" site_id="231" xmltv_id="Play More Relax">Play More Relax</channel>
-    <channel update="i" site="yelotv.be" site_id="233" xmltv_id="Play More Series">Play More Series</channel>
     <channel update="i" site="yelotv.be" site_id="234" xmltv_id="Play More Cinema">Play More Cinema</channel>
-    <channel update="i" site="yelotv.be" site_id="235" xmltv_id="Play More Select">Play More Select</channel>
     <channel update="i" site="yelotv.be" site_id="236" xmltv_id="Canvas HD">Canvas HD</channel>
-    <channel update="i" site="yelotv.be" site_id="239" xmltv_id="AMC channel">AMC channel</channel>
-    <channel update="i" site="yelotv.be" site_id="245" xmltv_id="DisneyXD">DisneyXD</channel>
     <channel update="i" site="yelotv.be" site_id="254" xmltv_id="R. Contact Vision">R. Contact Vision</channel>
     <channel update="i" site="yelotv.be" site_id="258" xmltv_id="CAZ">CAZ</channel>
     <channel update="i" site="yelotv.be" site_id="262" xmltv_id="Nat Geo Wild FR">Nat Geo Wild FR</channel>
     <channel update="i" site="yelotv.be" site_id="263" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="yelotv.be" site_id="264" xmltv_id="BBC One HD">BBC One HD</channel>
     <channel update="i" site="yelotv.be" site_id="265" xmltv_id="Discovery Vl HD">Discovery Vl HD</channel>
-    <channel update="i" site="yelotv.be" site_id="266" xmltv_id="SundanceTV">SundanceTV</channel>
-    <channel update="i" site="yelotv.be" site_id="268" xmltv_id="JimJamTV">JimJamTV</channel>
     <channel update="i" site="yelotv.be" site_id="270" xmltv_id="Gulli">Gulli</channel>
     <channel update="i" site="yelotv.be" site_id="272" xmltv_id="Nat Geo HD FR">Nat Geo HD FR</channel>
     <channel update="i" site="yelotv.be" site_id="275" xmltv_id="Ushuaïa HD">Ushuaïa HD</channel>
     <channel update="i" site="yelotv.be" site_id="276" xmltv_id="SundanceTV FR">SundanceTV FR</channel>
     <channel update="i" site="yelotv.be" site_id="280" xmltv_id="RTL Tele">RTL Tele</channel>
-    <channel update="i" site="yelotv.be" site_id="283" xmltv_id="vtmKzoom">vtmKzoom</channel>
+    <channel update="i" site="yelotv.be" site_id="283" xmltv_id="VTM KIDS">VTM KIDS</channel>
+    <channel update="i" site="yelotv.be" site_id="287" xmltv_id="ELLE GIRL">ELLE GIRL</channel>
     <channel update="i" site="yelotv.be" site_id="288" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
     <channel update="i" site="yelotv.be" site_id="289" xmltv_id="Disney Cinema HD">Disney Cinema HD</channel>
     <channel update="i" site="yelotv.be" site_id="290" xmltv_id="Disney FR">Disney FR</channel>
@@ -131,7 +121,6 @@
     <channel update="i" site="yelotv.be" site_id="298" xmltv_id="Syfy FR">Syfy FR</channel>
     <channel update="i" site="yelotv.be" site_id="301" xmltv_id="Eurosport HD">Eurosport HD</channel>
     <channel update="i" site="yelotv.be" site_id="302" xmltv_id="Eurosport HD FR">Eurosport HD FR</channel>
-    <channel update="i" site="yelotv.be" site_id="307" xmltv_id="Food">Food</channel>
     <channel update="i" site="yelotv.be" site_id="308" xmltv_id="VH1 music">VH1 music</channel>
     <channel update="i" site="yelotv.be" site_id="310" xmltv_id="Cartoon.Network">Cartoon.Network</channel>
     <channel update="i" site="yelotv.be" site_id="313" xmltv_id="Disney JR">Disney JR</channel>
@@ -148,7 +137,6 @@
     <channel update="i" site="yelotv.be" site_id="376" xmltv_id="Be 1">Be 1</channel>
     <channel update="i" site="yelotv.be" site_id="377" xmltv_id="njam">njam</channel>
     <channel update="i" site="yelotv.be" site_id="380" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="yelotv.be" site_id="381" xmltv_id="MTV Rock">MTV Rock</channel>
     <channel update="i" site="yelotv.be" site_id="383" xmltv_id="Russia Today">Russia Today</channel>
     <channel update="i" site="yelotv.be" site_id="385" xmltv_id="Xite">Xite</channel>
     <channel update="i" site="yelotv.be" site_id="391" xmltv_id="OUTTV">OUTTV</channel>
@@ -173,7 +161,6 @@
     <channel update="i" site="yelotv.be" site_id="517" xmltv_id="NickToons">NickToons</channel>
     <channel update="i" site="yelotv.be" site_id="518" xmltv_id="Nickelodeon\/Spike HD">Nickelodeon\/Spike HD</channel>
     <channel update="i" site="yelotv.be" site_id="519" xmltv_id="Nickelodeon FR">Nickelodeon FR</channel>
-    <channel update="i" site="yelotv.be" site_id="525" xmltv_id="Nautical Channel FR">Nautical Channel FR</channel>
     <channel update="i" site="yelotv.be" site_id="526" xmltv_id="Seasons">Seasons</channel>
     <channel update="i" site="yelotv.be" site_id="527" xmltv_id="Q-music">Q-music</channel>
     <channel update="i" site="yelotv.be" site_id="528" xmltv_id="Play Sports HD4">Play Sports HD4</channel>
@@ -198,31 +185,28 @@
     <channel update="i" site="yelotv.be" site_id="551" xmltv_id="Be Ciné">Be Ciné</channel>
     <channel update="i" site="yelotv.be" site_id="554" xmltv_id="VIER HD">VIER HD</channel>
     <channel update="i" site="yelotv.be" site_id="555" xmltv_id="VIJF HD">VIJF HD</channel>
-    <channel update="i" site="yelotv.be" site_id="556" xmltv_id="Blue Hustler">Blue Hustler</channel>
     <channel update="i" site="yelotv.be" site_id="557" xmltv_id="The Israëli Network">The Israëli Network</channel>
     <channel update="i" site="yelotv.be" site_id="559" xmltv_id="ShortsTV">ShortsTV</channel>
-    <channel update="i" site="yelotv.be" site_id="560" xmltv_id="Baby">Baby</channel>
+    <channel update="i" site="yelotv.be" site_id="560" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="yelotv.be" site_id="562" xmltv_id="Penthouse HD">Penthouse HD</channel>
     <channel update="i" site="yelotv.be" site_id="567" xmltv_id="Q2 HD">Q2 HD</channel>
     <channel update="i" site="yelotv.be" site_id="569" xmltv_id="Al Maghreb TV">Al Maghreb TV</channel>
-    <channel update="i" site="yelotv.be" site_id="570" xmltv_id="Bloomberg FR">Bloomberg FR</channel>
     <channel update="i" site="yelotv.be" site_id="572" xmltv_id="DOBBIT TV">DOBBIT TV</channel>
-    <channel update="i" site="yelotv.be" site_id="581" xmltv_id="Nickhits">Nickhits</channel>
+    <channel update="i" site="yelotv.be" site_id="581" xmltv_id="Nick Music">Nick Music</channel>
     <channel update="i" site="yelotv.be" site_id="583" xmltv_id="PlattelandsTv">PlattelandsTv</channel>
     <channel update="i" site="yelotv.be" site_id="585" xmltv_id="Play time">Play time</channel>
     <channel update="i" site="yelotv.be" site_id="587" xmltv_id="Boing">Boing</channel>
     <channel update="i" site="yelotv.be" site_id="589" xmltv_id="BBC 1">BBC 1</channel>
     <channel update="i" site="yelotv.be" site_id="591" xmltv_id="France 2">France 2</channel>
     <channel update="i" site="yelotv.be" site_id="595" xmltv_id="Eurosport.FR">Eurosport.FR</channel>
-    <channel update="i" site="yelotv.be" site_id="597" xmltv_id="Kombat Sport">Kombat Sport</channel>
-    <channel update="i" site="yelotv.be" site_id="599" xmltv_id="Ma Chaîne Sport">Ma Chaîne Sport</channel>
+    <channel update="i" site="yelotv.be" site_id="597" xmltv_id="RMC Sports 4">RMC Sports 4</channel>
     <channel update="i" site="yelotv.be" site_id="605" xmltv_id="Penthouse HD1">Penthouse HD1</channel>
     <channel update="i" site="yelotv.be" site_id="607" xmltv_id="Planète+ A&amp;E">Planète+ A&amp;E</channel>
     <channel update="i" site="yelotv.be" site_id="613" xmltv_id="Planète+ C&amp;I">Planète+ C&amp;I</channel>
     <channel update="i" site="yelotv.be" site_id="615" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="yelotv.be" site_id="617" xmltv_id="Melody">Melody</channel>
     <channel update="i" site="yelotv.be" site_id="619" xmltv_id="BBCFirst">BBCFirst</channel>
-    <channel update="i" site="yelotv.be" site_id="621" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="yelotv.be" site_id="621" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
     <channel update="i" site="yelotv.be" site_id="623" xmltv_id="PureVision">PureVision</channel>
     <channel update="i" site="yelotv.be" site_id="625" xmltv_id="FOX">FOX</channel>
     <channel update="i" site="yelotv.be" site_id="627" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
@@ -243,7 +227,7 @@
     <channel update="i" site="yelotv.be" site_id="657" xmltv_id="France International">France International</channel>
     <channel update="i" site="yelotv.be" site_id="659" xmltv_id="France Musique">France Musique</channel>
     <channel update="i" site="yelotv.be" site_id="661" xmltv_id="JOE fm">JOE fm</channel>
-    <channel update="i" site="yelotv.be" site_id="663" xmltv_id="La PremiÃ¨re">La PremiÃ¨re</channel>
+    <channel update="i" site="yelotv.be" site_id="663" xmltv_id="La Première">La Première</channel>
     <channel update="i" site="yelotv.be" site_id="665" xmltv_id="Classical Calm">Classical Calm</channel>
     <channel update="i" site="yelotv.be" site_id="667" xmltv_id="Classical Greats">Classical Greats</channel>
     <channel update="i" site="yelotv.be" site_id="669" xmltv_id="Classical Orchestral">Classical Orchestral</channel>
@@ -276,7 +260,7 @@
     <channel update="i" site="yelotv.be" site_id="723" xmltv_id="Rock n Roll">Rock n Roll</channel>
     <channel update="i" site="yelotv.be" site_id="725" xmltv_id="Schlager">Schlager</channel>
     <channel update="i" site="yelotv.be" site_id="727" xmltv_id="Silk">Silk</channel>
-    <channel update="i" site="yelotv.be" site_id="729" xmltv_id="Rock Alternative">Rock Alternative</channel>
+    <channel update="i" site="yelotv.be" site_id="729" xmltv_id="Stingray Specials">Stingray Specials</channel>
     <channel update="i" site="yelotv.be" site_id="731" xmltv_id="Total Hits - France">Total Hits - France</channel>
     <channel update="i" site="yelotv.be" site_id="733" xmltv_id="Total Hits - German">Total Hits - German</channel>
     <channel update="i" site="yelotv.be" site_id="735" xmltv_id="Total Hits - Italy">Total Hits - Italy</channel>
@@ -316,5 +300,56 @@
     <channel update="i" site="yelotv.be" site_id="805" xmltv_id="Play More Black">Play More Black</channel>
     <channel update="i" site="yelotv.be" site_id="807" xmltv_id="zen">zen</channel>
     <channel update="i" site="yelotv.be" site_id="809" xmltv_id="Viceland">Viceland</channel>
+    <channel update="i" site="yelotv.be" site_id="813" xmltv_id="RTL 4">RTL 4</channel>
+    <channel update="i" site="yelotv.be" site_id="815" xmltv_id="RTL 5">RTL 5</channel>
+    <channel update="i" site="yelotv.be" site_id="817" xmltv_id="RTL 7">RTL 7</channel>
+    <channel update="i" site="yelotv.be" site_id="819" xmltv_id="RTL 8">RTL 8</channel>
+    <channel update="i" site="yelotv.be" site_id="821" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
+    <channel update="i" site="yelotv.be" site_id="823" xmltv_id="SBS 6">SBS 6</channel>
+    <channel update="i" site="yelotv.be" site_id="825" xmltv_id="NET 5">NET 5</channel>
+    <channel update="i" site="yelotv.be" site_id="827" xmltv_id="Veronica">Veronica</channel>
+    <channel update="i" site="yelotv.be" site_id="829" xmltv_id="Euronews FR">Euronews FR</channel>
+    <channel update="i" site="yelotv.be" site_id="831" xmltv_id="Clubbing TV">Clubbing TV</channel>
+    <channel update="i" site="yelotv.be" site_id="833" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="yelotv.be" site_id="834" xmltv_id="Classic21">Classic21</channel>
+    <channel update="i" site="yelotv.be" site_id="836" xmltv_id="ROXX">ROXX</channel>
+    <channel update="i" site="yelotv.be" site_id="838" xmltv_id="Disney Junior FR">Disney Junior FR</channel>
+    <channel update="i" site="yelotv.be" site_id="840" xmltv_id="HIT FM">HIT FM</channel>
+    <channel update="i" site="yelotv.be" site_id="842" xmltv_id="Klara">Klara</channel>
+    <channel update="i" site="yelotv.be" site_id="844" xmltv_id="Klara Continuo">Klara Continuo</channel>
+    <channel update="i" site="yelotv.be" site_id="846" xmltv_id="M6 Music Hits">M6 Music Hits</channel>
+    <channel update="i" site="yelotv.be" site_id="848" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="yelotv.be" site_id="850" xmltv_id="Musiq3">Musiq3</channel>
+    <channel update="i" site="yelotv.be" site_id="852" xmltv_id="Nat Geo FR">Nat Geo FR</channel>
+    <channel update="i" site="yelotv.be" site_id="854" xmltv_id="nieuws+">nieuws+</channel>
+    <channel update="i" site="yelotv.be" site_id="856" xmltv_id="Pure FM">Pure FM</channel>
+    <channel update="i" site="yelotv.be" site_id="858" xmltv_id="Radio 1">Radio 1</channel>
+    <channel update="i" site="yelotv.be" site_id="860" xmltv_id="Radio Judaïca">Radio Judaïca</channel>
+    <channel update="i" site="yelotv.be" site_id="862" xmltv_id="Play Sports Info">Play Sports Info</channel>
+    <channel update="i" site="yelotv.be" site_id="864" xmltv_id="Sporza">Sporza</channel>
+    <channel update="i" site="yelotv.be" site_id="866" xmltv_id="StuBru">StuBru</channel>
+    <channel update="i" site="yelotv.be" site_id="874" xmltv_id="Yelo TV-channel">Yelo TV-channel</channel>
+    <channel update="i" site="yelotv.be" site_id="876" xmltv_id="Baby">Baby</channel>
+    <channel update="i" site="yelotv.be" site_id="878" xmltv_id="Télésambre">Télésambre</channel>
+    <channel update="i" site="yelotv.be" site_id="880" xmltv_id="Canal C">Canal C</channel>
+    <channel update="i" site="yelotv.be" site_id="882" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="yelotv.be" site_id="884" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
+    <channel update="i" site="yelotv.be" site_id="890" xmltv_id="A+">A+</channel>
+    <channel update="i" site="yelotv.be" site_id="892" xmltv_id="Al Erth Al Nabawi">Al Erth Al Nabawi</channel>
+    <channel update="i" site="yelotv.be" site_id="894" xmltv_id="Art Aflam 1">Art Aflam 1</channel>
+    <channel update="i" site="yelotv.be" site_id="896" xmltv_id="Art Aflam 2">Art Aflam 2</channel>
+    <channel update="i" site="yelotv.be" site_id="898" xmltv_id="B-One">B-One</channel>
+    <channel update="i" site="yelotv.be" site_id="900" xmltv_id="CRTV">CRTV</channel>
+    <channel update="i" site="yelotv.be" site_id="902" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="yelotv.be" site_id="904" xmltv_id="My Cuisine">My Cuisine</channel>
+    <channel update="i" site="yelotv.be" site_id="906" xmltv_id="Nollywood TV">Nollywood TV</channel>
+    <channel update="i" site="yelotv.be" site_id="908" xmltv_id="Rotana Cinéma">Rotana Cinéma</channel>
+    <channel update="i" site="yelotv.be" site_id="910" xmltv_id="RTi1">RTi1</channel>
+    <channel update="i" site="yelotv.be" site_id="912" xmltv_id="RTNC">RTNC</channel>
+    <channel update="i" site="yelotv.be" site_id="916" xmltv_id="Toonami">Toonami</channel>
+    <channel update="i" site="yelotv.be" site_id="918" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="yelotv.be" site_id="920" xmltv_id="Eleven Sports 3 FR">Eleven Sports 3 FR</channel>
+    <channel update="i" site="yelotv.be" site_id="922" xmltv_id="Dobbit TV FR">Dobbit TV FR</channel>
+    <channel update="i" site="yelotv.be" site_id="924" xmltv_id="NRJ">NRJ</channel>
   </channels>
 </site>
