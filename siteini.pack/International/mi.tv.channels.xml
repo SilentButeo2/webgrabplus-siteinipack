@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9.1 -- Jan van Straaten" site="mi.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.2 -- Jan van Straaten" site="mi.tv">
   <channels>
     <channel update="i" site="mi.tv" site_id="ar##ar_b466dc9b-b60e-4668-b453-e121a7830539" xmltv_id="AR - Canal de la Ciudad">AR - Canal de la Ciudad</channel>
     <channel update="i" site="mi.tv" site_id="ar##ar_e965fdbd-2134-494e-a2f1-3ddaa32d3e1d" xmltv_id="AR - Metro">AR - Metro</channel>
@@ -192,6 +192,7 @@
     <channel update="i" site="mi.tv" site_id="br##br_3d81998b-fba3-44b7-b921-5fad9119677d" xmltv_id="BR - AMC Brasil">BR - AMC Brasil</channel>
     <channel update="i" site="mi.tv" site_id="br##br_4860646d-c6bd-4b27-830f-3668afb549ee" xmltv_id="BR - Warner Channel">BR - Warner Channel</channel>
     <channel update="i" site="mi.tv" site_id="br##br_29a0bfc1-f2b7-44a6-a80e-092046175441" xmltv_id="BR - Universal">BR - Universal</channel>
+    <channel update="i" site="mi.tv" site_id="br##br_b23497a8-62a5-4fc3-ae50-d1f6fd4bed1d" xmltv_id="BR - Telecine Pipoca">BR - Telecine Pipoca</channel>
     <channel update="i" site="mi.tv" site_id="br##br_76566215-1298-41fb-8750-7486090dda13" xmltv_id="BR - Telecine Premium">BR - Telecine Premium</channel>
     <channel update="i" site="mi.tv" site_id="br##br_d7be220d-d8da-41fc-9a85-73f08ad0d199" xmltv_id="BR - MTV Brasil">BR - MTV Brasil</channel>
     <channel update="i" site="mi.tv" site_id="br##br_f2b4aa80-35bf-407b-91fc-d3d12123a459" xmltv_id="BR - VIVA">BR - VIVA</channel>
@@ -290,8 +291,8 @@
     <channel update="i" site="mi.tv" site_id="br##br_9479bb2b-be0b-4698-b44d-873389635181" xmltv_id="BR - Cartoon Network Brazil HD">BR - Cartoon Network Brazil HD</channel>
     <channel update="i" site="mi.tv" site_id="br##br_99bfb755-1c61-4fca-8d0e-35ac938cf605" xmltv_id="BR - Chef TV">BR - Chef TV</channel>
     <channel update="i" site="mi.tv" site_id="br##br_4af9c3a5-0b5a-4358-bf5f-536e326beada" xmltv_id="BR - Cine Brasil TV">BR - Cine Brasil TV</channel>
-    <channel update="i" site="mi.tv" site_id="br##br_266fabf4-6691-444b-a8cf-387debed6147" xmltv_id="BR - Cinemax">BR - Cinemax</channel>
     <channel update="i" site="mi.tv" site_id="br##br_53701d93-96e1-4128-b0de-7a859cf2d3d4" xmltv_id="BR - Cinemax">BR - Cinemax</channel>
+    <channel update="i" site="mi.tv" site_id="br##br_266fabf4-6691-444b-a8cf-387debed6147" xmltv_id="BR - Cinemax">BR - Cinemax</channel>
     <channel update="i" site="mi.tv" site_id="br##br_07770b26-9516-45ca-9aad-ed2bc692b815" xmltv_id="BR - Combate">BR - Combate</channel>
     <channel update="i" site="mi.tv" site_id="br##br_e3b38895-cdc8-45dc-b2e6-b5a248c0de02" xmltv_id="BR - Combate HD">BR - Combate HD</channel>
     <channel update="i" site="mi.tv" site_id="br##br_75122174-8498-458e-ba1c-321a95f13ec0" xmltv_id="BR - Comedy Central">BR - Comedy Central</channel>
@@ -900,7 +901,6 @@
     <channel update="i" site="mi.tv" site_id="br##br_0cd1afdb-216f-4ce9-a073-48469345a70b" xmltv_id="BR - Telecine Cult HD">BR - Telecine Cult HD</channel>
     <channel update="i" site="mi.tv" site_id="br##br_381de6b4-8fe6-4ced-ac31-7e2310546df5" xmltv_id="BR - Telecine Fun">BR - Telecine Fun</channel>
     <channel update="i" site="mi.tv" site_id="br##br_bebed6e0-f1b2-4d17-ad61-e54fb5bf95d6" xmltv_id="BR - Telecine Fun HD">BR - Telecine Fun HD</channel>
-    <channel update="i" site="mi.tv" site_id="br##br_b23497a8-62a5-4fc3-ae50-d1f6fd4bed1d" xmltv_id="BR - Telecine Pipoca">BR - Telecine Pipoca</channel>
     <channel update="i" site="mi.tv" site_id="br##br_474c3c30-393f-4a26-a11e-a4445c114876" xmltv_id="BR - Telecine Pipoca HD">BR - Telecine Pipoca HD</channel>
     <channel update="i" site="mi.tv" site_id="br##br_67c3a735-51df-4ed2-8439-32733a664962" xmltv_id="BR - Telecine Premium HD">BR - Telecine Premium HD</channel>
     <channel update="i" site="mi.tv" site_id="br##br_f4836245-1fdf-4b3e-8459-90b0808dc856" xmltv_id="BR - Telecine Touch">BR - Telecine Touch</channel>
@@ -1651,8 +1651,8 @@
     <channel update="i" site="mi.tv" site_id="mx##mx_a6374991-3849-419a-81c0-94870b2509e2" xmltv_id="MX - Las Estrellas">MX - Las Estrellas</channel>
     <channel update="i" site="mi.tv" site_id="mx##mx_61440ee1-58e5-4ebc-b229-ea0cf1480934" xmltv_id="MX - Canal 5">MX - Canal 5</channel>
     <channel update="i" site="mi.tv" site_id="mx##mx_11550c53-100e-42e8-9617-1e4c12e7b963" xmltv_id="MX - Azteca 7">MX - Azteca 7</channel>
+    <channel update="i" site="mi.tv" site_id="mx##mx_df7bb32b-7f87-4ef1-bc59-d51d1dee677a" xmltv_id="MX - El Nu9ve">MX - El Nu9ve</channel>
     <channel update="i" site="mi.tv" site_id="mx##mx_14b0050d-f9a4-49e3-9a06-8a50f701ac20" xmltv_id="MX - FOROtv">MX - FOROtv</channel>
-    <channel update="i" site="mi.tv" site_id="mx##mx_df7bb32b-7f87-4ef1-bc59-d51d1dee677a" xmltv_id="MX - Gala TV">MX - Gala TV</channel>
     <channel update="i" site="mi.tv" site_id="mx##mx_e1f27bc9-9c9a-4905-aa3c-376c72e790ef" xmltv_id="MX - Canal Once">MX - Canal Once</channel>
     <channel update="i" site="mi.tv" site_id="mx##mx_749eb80b-ea34-4a03-91de-9ac9c8165f0a" xmltv_id="MX - Azteca 13">MX - Azteca 13</channel>
     <channel update="i" site="mi.tv" site_id="mx##mx_b081dfc9-6c2f-4d5e-bf88-333496437c50" xmltv_id="MX - Canal 4">MX - Canal 4</channel>
