@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.2 -- Jan van Straaten" site="mi.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.11 -- Jan van Straaten" site="mi.tv">
   <channels>
     <channel update="i" site="mi.tv" site_id="ar##ar_b466dc9b-b60e-4668-b453-e121a7830539" xmltv_id="AR - Canal de la Ciudad">AR - Canal de la Ciudad</channel>
     <channel update="i" site="mi.tv" site_id="ar##ar_e965fdbd-2134-494e-a2f1-3ddaa32d3e1d" xmltv_id="AR - Metro">AR - Metro</channel>
@@ -432,8 +432,8 @@
     <channel update="i" site="mi.tv" site_id="br##br_17c0d007-eab4-4fd3-a1c9-622b3fac9388" xmltv_id="BR - MEGA TVHD">BR - MEGA TVHD</channel>
     <channel update="i" site="mi.tv" site_id="br##br_87dfbe75-bd27-4839-ad7b-5a7418f5217c" xmltv_id="BR - MIX TV">BR - MIX TV</channel>
     <channel update="i" site="mi.tv" site_id="br##br_adcead7a-dd7a-4855-a9e3-a937b3a3c922" xmltv_id="BR - MTV">BR - MTV</channel>
-    <channel update="i" site="mi.tv" site_id="br##br_b763c8dd-b6b7-41a3-aaeb-83f306348fec" xmltv_id="BR - Max">BR - Max</channel>
     <channel update="i" site="mi.tv" site_id="br##br_dd474e40-84fa-4a80-bd4c-4d940f615e04" xmltv_id="BR - Max">BR - Max</channel>
+    <channel update="i" site="mi.tv" site_id="br##br_b763c8dd-b6b7-41a3-aaeb-83f306348fec" xmltv_id="BR - Max">BR - Max</channel>
     <channel update="i" site="mi.tv" site_id="br##br_e632710f-eca6-4153-959f-8edafc0d07c6" xmltv_id="BR - Max Prime">BR - Max Prime</channel>
     <channel update="i" site="mi.tv" site_id="br##br_4a3d869c-cf01-43b4-a79c-b05bd2f090d4" xmltv_id="BR - Max Up">BR - Max Up</channel>
     <channel update="i" site="mi.tv" site_id="br##br_e4bf7564-a704-4447-8353-786348c5fd17" xmltv_id="BR - MaxPrime Panregional">BR - MaxPrime Panregional</channel>
@@ -1481,11 +1481,16 @@
     <channel update="i" site="mi.tv" site_id="hn##hn_0577622f-41b4-46a0-bc8c-654cf686d410" xmltv_id="HN - CCI Channel">HN - CCI Channel</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_ffbb27b6-1c8d-4f8e-bd1a-bca30b245822" xmltv_id="HN - CDM - Cadena de Milagros">HN - CDM - Cadena de Milagros</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_4bd4f356-9042-4521-b4f5-7adb453870db" xmltv_id="HN - CNN">HN - CNN</channel>
+    <channel update="i" site="mi.tv" site_id="hn##hn_e9830d72-a876-405f-967a-9c4842dd995f" xmltv_id="HN - Canal 11">HN - Canal 11</channel>
+    <channel update="i" site="mi.tv" site_id="hn##hn_b5120518-5a66-4ca2-9a1f-4ebaa2a0ce45" xmltv_id="HN - Canal 11 HD">HN - Canal 11 HD</channel>
+    <channel update="i" site="mi.tv" site_id="hn##hn_5342a2e7-66f3-43c8-9912-66eeee36335b" xmltv_id="HN - Chocolate">HN - Chocolate</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_e2701f5a-880f-47cc-9773-182c0d2ad2ee" xmltv_id="HN - Cinecanal HD">HN - Cinecanal HD</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_f9f488fa-59b7-47eb-99f3-9d7b2c8ca964" xmltv_id="HN - Cinelatino">HN - Cinelatino</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_2f17519c-ee5c-4989-9b4c-071d14d6ad38" xmltv_id="HN - Cinema+">HN - Cinema+</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_7edcb236-4020-4f57-a659-198077521936" xmltv_id="HN - Cubavisión">HN - Cubavisión</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_946c04e1-190b-4b9e-a7e2-42a36036eacf" xmltv_id="HN - DHE">HN - DHE</channel>
+    <channel update="i" site="mi.tv" site_id="hn##hn_874da45a-c52b-416a-abee-84f413055291" xmltv_id="HN - DTV">HN - DTV</channel>
+    <channel update="i" site="mi.tv" site_id="hn##hn_13cd51c0-e195-4f9c-8722-ed9e5ffb8ac8" xmltv_id="HN - DTV HD">HN - DTV HD</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_b272f448-5afd-435a-a2f9-c7f3abb07131" xmltv_id="HN - De Película">HN - De Película</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_528d7040-58a6-4cd5-aba6-0720ecfc41f5" xmltv_id="HN - Discovery HD Theater">HN - Discovery HD Theater</channel>
     <channel update="i" site="mi.tv" site_id="hn##hn_579b03d1-c8b5-44ff-b7f9-20ab87c6f171" xmltv_id="HN - Discovery Home &amp; Health">HN - Discovery Home &amp; Health</channel>
