@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.2 -- Jan van Straaten" site="horizon.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.23 -- Jan van Straaten" site="horizon.tv">
   <channels>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:ae84a96c8e89626ad2c6d824e3d34a1ef037c216e5ca7349b8a722ea81f5bb12" xmltv_id="BBC ONE">BBC ONE</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:34ed2514d9b98db969c321350e7b60769888ec1e0862f99da57b5b34586de513" xmltv_id="BBC2 Eng">BBC2 Eng</channel>
@@ -14,7 +14,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:13a39d90a544abb92243a1aa2db7c3433c74788031ae81752ecf079085eb24a5" xmltv_id="ITV3">ITV3</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:4e1806e1d3ed339cf6f24a0670bef0648e7f7bc35067f50242d8313725487f48" xmltv_id="ITV4">ITV4</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:abf20d87cd77e0ccb07295e941046ad1f9c2a061dc85df9e38fabb51271b84a5" xmltv_id="ITVBe">ITVBe</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:4c6c0622a2df2a232063e68c31216e81c8dd7841eb46516ca7d20e65543d4fb0" xmltv_id="Universal">Universal</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:77f7454045caacb532c4902a4fb01d155fc5dc96c25ab56ad1b60a503ef7b6a7" xmltv_id="Sky Comedy SD">Sky Comedy SD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:a7847dba88765f416ee9ac93ef12eaaad70f743f700d46e32431f63c4f12170c" xmltv_id="Sky Arts">Sky Arts</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:7ad13029a5fb3a268c6c157e823aa2d07e148027e4e7259c5c2b25adc6a104d9" xmltv_id="GOLD">GOLD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:0059712ad9dea71f9c52d448ce4305cdc786fccddfc45911d85191de31dbe166" xmltv_id="W">W</channel>
@@ -33,10 +33,10 @@
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:b019e189b69890e8c67a8ef647117f72e41d716dbf57248460375e6d01378456" xmltv_id="More 4">More 4</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:30313b285179a18a3790a165c31a7189f89c1ebc879fc4d824b6f149b3d67342" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:e1c2cd890b135c8e0894486627523c1f07e0319c9ea34d0280c9f267bcec6955" xmltv_id="horror">horror</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:a3c7d57e8470d9bdb447c03004c02efbf2d4bd672d5b2851c2baadcaaa60ea29" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:d5852c03abd87ce18bd5d41a1d3485ae4b4e462ac8dd72e8d1a87e4bdb052224" xmltv_id="5Star">5Star</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:4e90151ad0e449c99b528243fced87369f8cfe590e2a0d8cb9039a6fd720c447" xmltv_id="5Select">5Select</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:40a721dc2803a69d7f45cf42d75037c2b82a07f8a6bf9c24ff2396914ffa12af" xmltv_id="5 USA">5 USA</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:318075ee05952a339548d01404b3c4923efe4feb6da65ae690d3799238014bf3" xmltv_id="5Spike">5Spike</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:c836e7fd0858fbcd53af5c866bad26b024e29ee379404a809c0c9d82580f5c44" xmltv_id="FOX">FOX</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:9d6891593b6dd14a0ac6ac4d9953bb502c35b8feffeb0beeb78cce9ac87651bb" xmltv_id="Sky Two">Sky Two</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:f03c03f894feab47154d5b86b85fd1663c7f1fc525d9a4e84775d30acf0f69f5" xmltv_id="BBC ALBA">BBC ALBA</channel>
@@ -46,7 +46,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:a1b5ffd78a4b16efa78a46917ae963317f5416a57686c4efb16eae012243cdec" xmltv_id="Quest HD">Quest HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:469c663832b347815a8650692b37b972c66c5bc7d23370f48e7bce01b34fb779" xmltv_id="DMAX">DMAX</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:7adf3847c5c79607b46c17fda41e1908b4e2032c416c21c445ca1d6a0a0ddb78" xmltv_id="BET">BET</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:a3c7d57e8470d9bdb447c03004c02efbf2d4bd672d5b2851c2baadcaaa60ea29" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:89ed6e4d9bf96ab137b5b36d2f64551b9ce00afee9f1155b08cf4063493df2b7" xmltv_id="CBS Justice">CBS Justice</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:0e130d3bcbafebc4f3bc46d6bc37cd09d9c1f21da481298ac899f14bc9c18d2c" xmltv_id="Sony Crime">Sony Crime</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:71f7656da99519b9feef56774c48f15ce0e49eab96a4c12c1013563173b4ee4b" xmltv_id="More4 1">More4 1</channel>
@@ -67,7 +66,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:b8f84fab8d1bd2a541b07706b64ff74566839774604a47267ab7f3570aa98e55" xmltv_id="Forces TV">Forces TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:16164cd708f36983fcb690e614d5d8367e9996986f5ffa3dfe632cc93ed04349" xmltv_id="Love Nature HD">Love Nature HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:acb3870d798fc08219ace50010e55b61af96d9357aaf86f306a56f0b2ae86ecd" xmltv_id="Food Nwork">Food Nwork</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:d2cbe718e37e09e7ebb0dab1f887166efd76b1e22982c01a03a975e28d4a8e85" xmltv_id="Home">Home</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:d2cbe718e37e09e7ebb0dab1f887166efd76b1e22982c01a03a975e28d4a8e85" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:ae53f7ba5d5c3ac538003fdc84dd05801c5277576aca67fe0e21139fc3fd23d6" xmltv_id="H Health">H Health</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:dd94287c60b16a1b8a3a33d902e249c301403ef02e4455c7ddb0f520616f3e7b" xmltv_id="DiscShed">DiscShed</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:869f75fca843aee4ed65a42df37a92287800bfbddf8fa7db21493497325c06b1" xmltv_id="Travel Ch">Travel Ch</channel>
@@ -76,26 +75,26 @@
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:eea85729addb0e5d0f18757ebea68fdcb3ce4e6868ecf7b0a7f2237eb8be578f" xmltv_id="Kiss">Kiss</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:7204be9d9f8ffcf98da5f5e414c709f36e4969bd2a63c4bb284cab6ab0590c8c" xmltv_id="Magic">Magic</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:dadbeef9959876064c703963a579295513a3f020c229909e031c1f6f1259895b" xmltv_id="Sky Premiere HD">Sky Premiere HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:9071d0647869faa1db84488f41c42d0e6de3b8d4d32d4fb8577afc3e2472d4e7" xmltv_id="Sky Hits HD">Sky Hits HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:9071d0647869faa1db84488f41c42d0e6de3b8d4d32d4fb8577afc3e2472d4e7" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:6625682d9a7800047ade9b6ed369396c31f5c3d5c440e58669efe37c2df74c8e" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:0cacb21b9004d25f25746c1d364b8b263aa18559634ff6db79a603d15859bd4e" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:618920bc02f6d94545234a610acbc952302a57768b87b726870b825d0664a14e" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:618920bc02f6d94545234a610acbc952302a57768b87b726870b825d0664a14e" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:d03964b4793d2267aa8ad163f909431dcf1d3026222f793472416a33bf0b4f99" xmltv_id="Sky Action HD">Sky Action HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:e18662b602d539356285fe31a8736258579bdbc290d26bc822b25a9c7ce01fc0" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:bc49c59a526e6ab801a4c88ba668b321f935e8f01ce6862be66c3aa5d50e7192" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:20d5ef6f94dd8796ca8ea1b4b505494d8a1791abb33e7e8421e590520da7b6c3" xmltv_id="Sky Cinema Christmas HD">Sky Cinema Christmas HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:ddab01c34da3a572c558c2c6507c4f9ee94e43d581870e1bcee4bb10bc2e22a4" xmltv_id="Sky Cinema SciFi  Horror HD">Sky Cinema SciFi  Horror HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:18e373b3de8bc1468ddc1b868f60a0a44128c885a82eca4a0f66e65555afbe60" xmltv_id="Sky Cinema Best of 2019">Sky Cinema Best of 2019</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:20d5ef6f94dd8796ca8ea1b4b505494d8a1791abb33e7e8421e590520da7b6c3" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:ddab01c34da3a572c558c2c6507c4f9ee94e43d581870e1bcee4bb10bc2e22a4" xmltv_id="Sky Cinema SciFi  Horror">Sky Cinema SciFi  Horror</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:18e373b3de8bc1468ddc1b868f60a0a44128c885a82eca4a0f66e65555afbe60" xmltv_id="Sky Cinema Superheroes">Sky Cinema Superheroes</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:afa56b66397b1c204c3632ec94887a42be36bf533953f58cbaf56e5a161c2937" xmltv_id="Film4">Film4</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:7fd3c804eee5de01a0f54e7e5c8fd408834b7270838eb679c31716751c934bc2" xmltv_id="Talking Pictures">Talking Pictures</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:4d4a2ab8f4be0c9eed188892b105d7e45ea7c6d53ebc7f3a17199bcdde52c6bf" xmltv_id="Sky Sports MainEventHD">Sky Sports MainEventHD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:a85338af6c77bd7bb5c274e99d53a9b1aa23c0c8904c77d8ae1dc39ae8c3426a" xmltv_id="Sky Sports PL HD">Sky Sports PL HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:7d6109678e25227c32b6f59fee9339658920d627bffb64fbfdacf66562f50c1d" xmltv_id="Sky Sports FootballHD">Sky Sports FootballHD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:20284a9568c956d9a75bc4766b02eeb9b1ba05de393dd9e5e7b8e39b74d8d3c5" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:31a23ae62355ba45ee5e25528bdc7cd21b00d15dcf9bfd18a0981cc124c78a69" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:31a23ae62355ba45ee5e25528bdc7cd21b00d15dcf9bfd18a0981cc124c78a69" xmltv_id="Sky Sport Golf">Sky Sport Golf</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:deb43c782cf359183079e05bfe3777c08a5dbd4a1d70ffc716170783eaf51995" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:00c2a4722ad73f7469834ca47e16b02962ad34c03cff44c0af1585cfb80ea0ee" xmltv_id="Sky Sports Action HD">Sky Sports Action HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:0054c0e366cd920a493fe6047b8a116ff2f1b9cd2736e26699972ae3372e7e45" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:0054c0e366cd920a493fe6047b8a116ff2f1b9cd2736e26699972ae3372e7e45" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:98ed9a82cff138a283d932da7e91bba452c25779ae56a77688b0d0cebda3d180" xmltv_id="SkySp News">SkySp News</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:11351f85326f0f4a8c7f5f05279d178ef5830d15dbefe5ea69bebf43fc5b4dd8" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:45257e8bfd7b6ed95082035876d6566ce66610cfa41be86eab3d876906fa0c1d" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
@@ -108,6 +107,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:9a92f523aa9322bd24eabe291f2ece22457b6f43d0deb65ed91875f4fe5ad160" xmltv_id="PremierSpt">PremierSpt</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:5e7a91c82beaa492a6c8034917d4584bed35616c12d37075342c01658c62ee62" xmltv_id="Premier Sports 2">Premier Sports 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:412f33f42d67cb2b62c6d9c922c5f38b20232d0623553c4f5369bdade1901f37" xmltv_id="Freesports">Freesports</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:367c66d5a5f3db77f5a4d1eb39a09b6dcdd1681c4bf968eeac124ffb5a66d150" xmltv_id="LaLiga TV">LaLiga TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:291f03c1189611b4895fad213ad7a0705a00e4b77d45337e99dbebe716c12e1b" xmltv_id="BBC News">BBC News</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:c41668ae1441d557037b2cf281fae905055522a578191675e5e41520a735a899" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="horizon.tv.EK" site_id="GB/eng_lgi-gb-prod-master:e423811bf54c763bceb2bf9cdeaf137c12b00547889fb106ae9549f7b28843bb" xmltv_id="BBC Parli">BBC Parli</channel>
@@ -317,7 +317,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="NL/nld_796441639000" xmltv_id="MvH Hard">MvH Hard</channel>
     <channel update="i" site="horizon.tv.EK" site_id="NL/nld_24443943126" xmltv_id="XMO">XMO</channel>
     <channel update="i" site="horizon.tv.EK" site_id="NL/nld_796441638997" xmltv_id="OUTTV HD">OUTTV HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="NL/nld_24443943085" xmltv_id="Zender van de Maand">Zender van de Maand</channel>
     <channel update="i" site="horizon.tv.EK" site_id="NL/nld_24443943135" xmltv_id="Testbeeld">Testbeeld</channel>
     <channel update="i" site="horizon.tv.EK" site_id="NL/nld_614261799193" xmltv_id="Ziggo Zenderoverzicht HD">Ziggo Zenderoverzicht HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CH/deu_896730663214" xmltv_id="SRF 1 HD">SRF 1 HD</channel>
@@ -1006,8 +1005,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_97245734997" xmltv_id="HSE24 HD">HSE24 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_720012839068" xmltv_id="Sonnenklar TV HD">Sonnenklar TV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_720012327313" xmltv_id="123TV HD">123TV HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_820837415370" xmltv_id="Juwelo TV HD">Juwelo TV HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_432862759164" xmltv_id="QVC2 HD">QVC2 HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_432862759164" xmltv_id="QVC ZWEI HD">QVC ZWEI HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_834825767106" xmltv_id="HSE24 Extra HD">HSE24 Extra HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_810575911129" xmltv_id="QVC Style HD">QVC Style HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_432862759162" xmltv_id="DMAX HD">DMAX HD</channel>
@@ -1024,7 +1022,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_551261735068" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503171" xmltv_id="RTL Living HD">RTL Living HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_898267175031" xmltv_id="CrimeInvestigation HD">CrimeInvestigation HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503146" xmltv_id="Bon Gusto HD">Bon Gusto HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_917046311208" xmltv_id="Bon Gusto HD">Bon Gusto HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_817724967009" xmltv_id="EEntertainment HD">EEntertainment HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_432862759163" xmltv_id="COMEDY CENTRAL HD">COMEDY CENTRAL HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_432862759159" xmltv_id="DELUXE MUSIC HD">DELUXE MUSIC HD</channel>
@@ -1071,7 +1069,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_706496551303" xmltv_id="PHOENIX HD">PHOENIX HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_809640999019" xmltv_id="ntv HD">ntv HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_834825255153" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_616178215136" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_917045799326" xmltv_id="BBC HD">BBC HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_563038759252" xmltv_id="CNN International HD">CNN International HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_119414823221" xmltv_id="Lust Pur HD">Lust Pur HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503017" xmltv_id="Das Erste">Das Erste</channel>
@@ -1111,7 +1109,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29436455419" xmltv_id="Juwelo">Juwelo</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29436455437" xmltv_id="Channel21">Channel21</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_706506791340" xmltv_id="Handystar">Handystar</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503023" xmltv_id="QVC2">QVC2</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503023" xmltv_id="QVC ZWEI">QVC ZWEI</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29436455394" xmltv_id="HSE24 EXTRA">HSE24 EXTRA</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_145416231119" xmltv_id="QVC Style">QVC Style</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503035" xmltv_id="HSE24 TREND">HSE24 TREND</channel>
@@ -1167,6 +1165,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_881926695414" xmltv_id="RTLplus">RTLplus</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503166" xmltv_id="ONE">ONE</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_733871143282" xmltv_id="ZEEONE">ZEEONE</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_911733287342" xmltv_id="VOXup">VOXup</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503053" xmltv_id="TNT Film">TNT Film</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902207527386" xmltv_id="TNT Serie">TNT Serie</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902207527387" xmltv_id="13th Street">13th Street</channel>
@@ -1184,7 +1183,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503056" xmltv_id="TNT Comedy">TNT Comedy</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_616178215133" xmltv_id="SONY CHANNEL">SONY CHANNEL</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_427555366993" xmltv_id="RTL Passion">RTL Passion</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_342736423083" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_917046311209" xmltv_id="Ginx TV">Ginx TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502968" xmltv_id="SPORT1">SPORT1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29609511127" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502965" xmltv_id="Sky Sport News">Sky Sport News</channel>
@@ -1199,7 +1198,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503029" xmltv_id="euronews D">euronews D</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502971" xmltv_id="tagesschau24">tagesschau24</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503141" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902208039443" xmltv_id="Mein Programm">Mein Programm</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902208039443" xmltv_id="BBC World News">BBC World News</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503019" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_513168423284" xmltv_id="CGTN">CGTN</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29609511126" xmltv_id="CCTV News">CCTV News</channel>
@@ -1262,9 +1261,9 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_551261735067" xmltv_id="BVN">BVN</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503145" xmltv_id="TV5MONDE Europe">TV5MONDE Europe</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503010" xmltv_id="France 2">France 2</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502988" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_917045799327" xmltv_id="France 3">France 3</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_563038759258" xmltv_id="France 4">France 4</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503070" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_917046311210" xmltv_id="France 5">France 5</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_834825255156" xmltv_id="France 24 en francais">France 24 en francais</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503133" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_563038759264" xmltv_id="Al Arabiya">Al Arabiya</channel>
@@ -1279,7 +1278,8 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502992" xmltv_id="NatGeo HD S">NatGeo HD S</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503085" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502998" xmltv_id="Discovery HD S">Discovery HD S</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_887687207308" xmltv_id="Sky Serien  Shows HD">Sky Serien  Shows HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_887687207308" xmltv_id="">
+    </channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902207527390" xmltv_id="Beate Uhse HD">Beate Uhse HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902208039444" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_904120359446" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
@@ -1293,19 +1293,20 @@
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902207527393" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902208039448" xmltv_id="Junior">Junior</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502986" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502975" xmltv_id="Sky Cinema HD">Sky Cinema HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502960" xmltv_id="Sky Cinema Hits HD ">Sky Cinema Hits HD </channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502975" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502960" xmltv_id="Sky Cinema Best Of HD">Sky Cinema Best Of HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_342570535345" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902208039449" xmltv_id="Sky Cinema Adventure HD">Sky Cinema Adventure HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502974" xmltv_id="Sky Cinema">Sky Cinema</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503092" xmltv_id="Sky Cinema 1">Sky Cinema 1</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502977" xmltv_id="Sky Cinema 24">Sky Cinema 24</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502959" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902208039449" xmltv_id="Sky Cinema Special HD ">Sky Cinema Special HD </channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502974" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503092" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502977" xmltv_id="Sky Cinema Premieren 24">Sky Cinema Premieren 24</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502959" xmltv_id="Sky Cinema Best Of">Sky Cinema Best Of</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438502991" xmltv_id="Sky Cinema Action ">Sky Cinema Action </channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_761023015393" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503104" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503179" xmltv_id="Sky Cinema Emotion">Sky Cinema Emotion</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_561410599035" xmltv_id="Sky Cinema Nostalgie ">Sky Cinema Nostalgie </channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_29438503179" xmltv_id="">
+    </channel>
+    <channel update="i" site="horizon.tv.EK" site_id="DE/deu_561410599035" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_902207527394" xmltv_id="TNT Film">TNT Film</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_119414823226" xmltv_id="Sky Sport Bundesliga 1 HD">Sky Sport Bundesliga 1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="DE/deu_97245734975" xmltv_id="Sky Sport Bundesliga 2 HD">Sky Sport Bundesliga 2 HD</channel>
@@ -1359,7 +1360,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627522599356" xmltv_id="Interaktywna Galeria UPC">Interaktywna Galeria UPC</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_726529574960" xmltv_id="Iluzja 2">Iluzja 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_749346855285" xmltv_id="Zamów usługi">Zamów usługi</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_758533159219" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_758533159221" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_848283687287" xmltv_id="Polsat Sport Premium 1 HD">Polsat Sport Premium 1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_848284198955" xmltv_id="Polsat Sport Premium 2 HD">Polsat Sport Premium 2 HD</channel>
@@ -1385,7 +1385,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671310" xmltv_id="Super Polsat HD">Super Polsat HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671341" xmltv_id="Tele5 HD">Tele5 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671284" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_726529574969" xmltv_id="CBS Drama">CBS Drama</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627513383331" xmltv_id="Aquaman">Aquaman</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627522599375" xmltv_id="DOMO HD">DOMO HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671313" xmltv_id="kuchnia HD">kuchnia HD</channel>
@@ -1403,17 +1402,18 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671359" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_856632359064" xmltv_id="Polsat Rodzina">Polsat Rodzina</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671337" xmltv_id="Red Carpet HD">Red Carpet HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_921880103043" xmltv_id="Active Family HD">Active Family HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_355617831154" xmltv_id="TVP 3 Kraków">TVP 3 Kraków</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_355617831152" xmltv_id="TVP 3 Gdańsk">TVP 3 Gdańsk</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_355617831153" xmltv_id="TVP 3 Katowice">TVP 3 Katowice</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_355617831157" xmltv_id="TVP 3 Wrocław">TVP 3 Wrocław</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087179" xmltv_id="TVP 3 Bydgoszcz">TVP 3 Bydgoszcz</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087207" xmltv_id="TVP 3 Kielce">TVP 3 Kielce</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087204" xmltv_id="TVP 3 Gorzów Wlkp">TVP 3 Gorzów Wlkp</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087209" xmltv_id="TVP 3 Lublin">TVP 3 Lublin</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087183" xmltv_id="TVP 3 Opole">TVP 3 Opole</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087185" xmltv_id="TVP 3 Szczecin">TVP 3 Szczecin</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087164" xmltv_id="TVP 3 Warszawa">TVP 3 Warszawa</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087183" xmltv_id="TVP 3 Opole">TVP 3 Opole</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087207" xmltv_id="TVP 3 Kielce">TVP 3 Kielce</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_355617831157" xmltv_id="TVP 3 Wrocław">TVP 3 Wrocław</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087179" xmltv_id="TVP 3 Bydgoszcz">TVP 3 Bydgoszcz</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_337090087209" xmltv_id="TVP 3 Lublin">TVP 3 Lublin</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671387" xmltv_id="Polsat News HD">Polsat News HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627513383328" xmltv_id="Władaca Paryźa">Władaca Paryźa</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671382" xmltv_id="TVN24 HD">TVN24 HD</channel>
@@ -1465,8 +1465,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671363" xmltv_id="CANAL SPORT">CANAL SPORT</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627513383343" xmltv_id="CANAL SPORT 2">CANAL SPORT 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_726353447019" xmltv_id="nSport HD">nSport HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_726353447028" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_726353447020" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671333" xmltv_id="HBO HD">HBO HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627522599369" xmltv_id="HBO2 HD">HBO2 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671308" xmltv_id="HBO3 HD">HBO3 HD</channel>
@@ -1492,7 +1490,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671304" xmltv_id="FOX HD">FOX HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_726353447021" xmltv_id="Teraz albo nigdy">Teraz albo nigdy</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671321" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671364" xmltv_id="CBS Action">CBS Action</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627522599362" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671327" xmltv_id="TVP Seriale">TVP Seriale</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_678893607130" xmltv_id="Romance TV HD">Romance TV HD</channel>
@@ -1507,7 +1504,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_664446503052" xmltv_id="nSport HD">nSport HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_700986407062" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_700986919017" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_762128935308" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_758533671268" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671272" xmltv_id="Polsat Sport HD">Polsat Sport HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671286" xmltv_id="Polsat Sport Extra HD">Polsat Sport Extra HD</channel>
@@ -1567,7 +1563,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627522599386" xmltv_id="RTR Planeta">RTR Planeta</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671349" xmltv_id="Russia Today">Russia Today</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671347" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671346" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671346" xmltv_id="TV5Monde HD">TV5Monde HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671348" xmltv_id="France 24 HD">France 24 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627525671268" xmltv_id="TV Trwam">TV Trwam</channel>
     <channel update="i" site="horizon.tv.EK" site_id="PL/pol_627522599357" xmltv_id="POLONIA 1">POLONIA 1</channel>
@@ -1813,9 +1809,9 @@
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546676775206" xmltv_id="AXN HD">AXN HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677286992" xmltv_id="AXN Black">AXN Black</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287009" xmltv_id="AXN White">AXN White</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287019" xmltv_id="CS Film  CS Horror">CS Film  CS Horror</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287019" xmltv_id="CS Film CS Horror">CS Film CS Horror</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287050" xmltv_id="CS Mystery">CS Mystery</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_855446567276" xmltv_id="CS Festival HD">CS Festival HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_855446567276" xmltv_id="Ceskoslovensko HD Be2Can HD">Ceskoslovensko HD Be2Can HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_815217191056" xmltv_id="Film HD CZ">Film HD CZ</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287057" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546676775197" xmltv_id="FilmBox Family">FilmBox Family</channel>
@@ -1879,7 +1875,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_795498023311" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287010" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546676775252" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287016" xmltv_id="Megamax">Megamax</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546676775208" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546676775218" xmltv_id="ducktv HD">ducktv HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_815216679165" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
@@ -1888,7 +1883,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_731788839107" xmltv_id="Mnau TV">Mnau TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_868721191375" xmltv_id="Mnam TV HD">Mnam TV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_711694375048" xmltv_id="Food Network HD">Food Network HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_546677287055" xmltv_id="TV5 Monde">TV5 Monde</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_835824679274" xmltv_id="Fine Living HD">Fine Living HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_727932967278" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="CZ/ces_711693863138" xmltv_id="regiony">regiony</channel>
@@ -1914,7 +1908,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719070" xmltv_id="Sixx Austria">Sixx Austria</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207396" xmltv_id="Servus TV">Servus TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719048" xmltv_id="OKTO">OKTO</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_897249831244" xmltv_id="Magenta PULS 24">Magenta PULS 24</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_897249831244" xmltv_id="Magenta PULS24">Magenta PULS24</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718999" xmltv_id="Das Erste">Das Erste</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719000" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719049" xmltv_id="ORF III">ORF III</channel>
@@ -1957,7 +1951,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827246119196" xmltv_id="RTLplus">RTLplus</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_865231399341" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207412" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_557387815013" xmltv_id="Comedy CentralVIVA">Comedy CentralVIVA</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_557387815013" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718974" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207395" xmltv_id="TELE 5">TELE 5</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687669799406" xmltv_id="13TH STREET">13TH STREET</channel>
@@ -1969,15 +1963,16 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207394" xmltv_id="Romance TV">Romance TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823004" xmltv_id="TNT Serie">TNT Serie</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_688030247036" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823002" xmltv_id="Sky Krimi">Sky Krimi</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823002" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827246119197" xmltv_id="Heimatkanal">Heimatkanal</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_897250343077" xmltv_id="Magenta PULS 24 HD">Magenta PULS 24 HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_897250343077" xmltv_id="Magenta PULS24 HD">Magenta PULS24 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207417" xmltv_id="ORF eins HD">ORF eins HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_558827047204" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207438" xmltv_id="ATV HD">ATV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207432" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207414" xmltv_id="Servus TV HD">Servus TV HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_558897191431" xmltv_id="ORF III HD">ORF III HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_558897191431" xmltv_id="">
+    </channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719071" xmltv_id="ProSieben HD">ProSieben HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_557387815000" xmltv_id="SAT1 HD">SAT1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207431" xmltv_id="kabel eins HD">kabel eins HD</channel>
@@ -1994,7 +1989,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_794757671284" xmltv_id="Comedy CentralVIVA HD">Comedy CentralVIVA HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_760423975001" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827353638972" xmltv_id="TLC HD">TLC HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_896724007279" xmltv_id="PULS 24 HD">PULS 24 HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_896724007279" xmltv_id="PULS24 HD">PULS24 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_879948839224" xmltv_id="Schau TV HD">Schau TV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_889622055036" xmltv_id="Laendle TV HD">Laendle TV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719051" xmltv_id="ZDF neo HD">ZDF neo HD</channel>
@@ -2009,7 +2004,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207437" xmltv_id="SWR HD">SWR HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_879948839225" xmltv_id="Tirol TV HD">Tirol TV HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827239975067" xmltv_id="NDR HD">NDR HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_889622567072" xmltv_id="SRF Info HD">SRF Info HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_889622567072" xmltv_id="SRF info HD">SRF info HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827246119178" xmltv_id="HR HD">HR HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827246119179" xmltv_id="RBB HD">RBB HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_827246631092" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
@@ -2106,15 +2101,15 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718969" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718971" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718976" xmltv_id="Russia today">Russia today</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719001" xmltv_id="CCTV News">CCTV News</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719001" xmltv_id="CGTN">CGTN</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718998" xmltv_id="Bloomberg Europe TV">Bloomberg Europe TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719008" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718988" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718988" xmltv_id="RAI Uno">RAI Uno</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718987" xmltv_id="24 Vesti news">24 Vesti news</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687669799412" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719030" xmltv_id="History Channel">History Channel</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687669799407" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719059" xmltv_id="Crime  Investigation HD">Crime  Investigation HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719059" xmltv_id="Crime  Investigation">Crime  Investigation</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719017" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719060" xmltv_id="Planet">Planet</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719020" xmltv_id="Phoenix">Phoenix</channel>
@@ -2131,7 +2126,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_558433831107" xmltv_id="VH1 Classic">VH1 Classic</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718985" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718972" xmltv_id="TV5Monde Europe">TV5Monde Europe</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207444" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207444" xmltv_id="France 24 HD">France 24 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719063" xmltv_id="RAI Due">RAI Due</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718977" xmltv_id="TVE">TVE</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_852507686997" xmltv_id="RAI Tre">RAI Tre</channel>
@@ -2140,7 +2135,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719002" xmltv_id="CCTV4">CCTV4</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719027" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718964" xmltv_id="RTS Sat HD">RTS Sat HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718958" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823718958" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719061" xmltv_id="Duna TV">Duna TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719004" xmltv_id="TRT International">TRT International</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719029" xmltv_id="Hayat">Hayat</channel>
@@ -2152,12 +2147,12 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207445" xmltv_id="Hustler TV">Hustler TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_715560999399" xmltv_id="Evil Angel HD">Evil Angel HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_754778151149" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687669799411" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687669799411" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687667239440" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823719007" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207423" xmltv_id="Sky Cinema HD">Sky Cinema HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207426" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207422" xmltv_id="Disney Cinemagic HD">Disney Cinemagic HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207422" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_574343719205" xmltv_id="MGM HD">MGM HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_754793511125" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_754778151148" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
@@ -2167,10 +2162,10 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823003" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670822997" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823001" xmltv_id="Sky Cinema Emotion">Sky Cinema Emotion</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823006" xmltv_id="Sky Cinema High Chaparral">Sky Cinema High Chaparral</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670823006" xmltv_id="Sky Cinema Nostalgie">Sky Cinema Nostalgie</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687670822999" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687669799410" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_652442663315" xmltv_id="Sky Sport Austria HD">Sky Sport Austria HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_652442663315" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207449" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207384" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207347" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
@@ -2192,7 +2187,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_686308903053" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_554823207358" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_686308903054" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_754793511124" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="AT/deu_754793511124" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687668263177" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687668263186" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="AT/deu_687667239433" xmltv_id="Sky Sport 3">Sky Sport 3</channel>
@@ -2226,7 +2221,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895141" xmltv_id="TVR 2">TVR 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895168" xmltv_id="Naţional TV">Naţional TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895162" xmltv_id="TVR 3">TVR 3</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895174" xmltv_id="Neptun TV">Neptun TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895265" xmltv_id="Naţional 24 Plus">Naţional 24 Plus</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895273" xmltv_id="PRO GOLD">PRO GOLD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895164" xmltv_id="PRO 2">PRO 2</channel>
@@ -2306,7 +2300,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895115" xmltv_id="PRO X">PRO X</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_554605607445" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895152" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895225" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="RO/ron_924547111347" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_552441895213" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_562194471284" xmltv_id="FishingHunting">FishingHunting</channel>
     <channel update="i" site="horizon.tv.EK" site_id="RO/ron_674506791036" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
@@ -2426,6 +2420,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439274" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439162" xmltv_id="RTL Spike">RTL Spike</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439131" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_912321063017" xmltv_id="Paramount Channel HD">Paramount Channel HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439135" xmltv_id="RTL Klub">RTL Klub</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439136" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439209" xmltv_id="TV2">TV2</channel>
@@ -2449,6 +2444,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_875878439188" xmltv_id="Moziverzum">Moziverzum</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_875878439189" xmltv_id="Moziverzum HD">Moziverzum HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_875878439190" xmltv_id="Jocky TV">Jocky TV</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439223" xmltv_id="Sláger TV">Sláger TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439144" xmltv_id="Sorozat">Sorozat</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439182" xmltv_id="TV4">TV4</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439201" xmltv_id="Izaura TV">Izaura TV</channel>
@@ -2517,7 +2513,8 @@
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439220" xmltv_id="History HD">History HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439258" xmltv_id="OzoneTv">OzoneTv</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439198" xmltv_id="Viasat Explore">Viasat Explore</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439200" xmltv_id="Viasat NatureHistory HD">Viasat NatureHistory HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_912321063018" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439200" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439281" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439280" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439214" xmltv_id="CBS Reality">CBS Reality</channel>
@@ -2534,7 +2531,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439211" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439212" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439268" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439191" xmltv_id="Megamax">Megamax</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439191" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439206" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439262" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439231" xmltv_id="BabyTV">BabyTV</channel>
@@ -2542,17 +2539,16 @@
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_875461159351" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439171" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439150" xmltv_id="Muzsika TV">Muzsika TV</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439223" xmltv_id="Sláger TV">Sláger TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439128" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439133" xmltv_id="MTV Rocks">MTV Rocks</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439240" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439238" xmltv_id="VH1">VH1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439166" xmltv_id="Zenebutik">Zenebutik</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_912321063019" xmltv_id="Dikh TV  teszt">Dikh TV  teszt</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439132" xmltv_id="CNN International">CNN International</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439236" xmltv_id="BBC World News">BBC World News</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439237" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439242" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439291" xmltv_id="Russia Today">Russia Today</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439187" xmltv_id="TV5MONDE">TV5MONDE</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439168" xmltv_id="TVE">TVE</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439234" xmltv_id="ZDF">ZDF</channel>
@@ -2570,6 +2566,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439195" xmltv_id="Private TV">Private TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439250" xmltv_id="D1 TV">D1 TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439272" xmltv_id="Pax Televízió">Pax Televízió</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="HU/hun_912321063020" xmltv_id="BonumTV">BonumTV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439251" xmltv_id="FIX TV">FIX TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="HU/hun_858598439290" xmltv_id="hatoscsatorna">hatoscsatorna</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_662969383084" xmltv_id="Jednotka HD">Jednotka HD</channel>
@@ -2581,7 +2578,8 @@
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_727933479256" xmltv_id="JOJ Cinema HD">JOJ Cinema HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_662969383085" xmltv_id="Dajto HD">Dajto HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_662969895069" xmltv_id="WAU HD">WAU HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_818897959150" xmltv_id="RiK HD">RiK HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_913120294959" xmltv_id="Trojka HD">Trojka HD</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_818897959150" xmltv_id="Jojko HD">Jojko HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287034" xmltv_id="TA3 HD">TA3 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710740007043" xmltv_id="TV LUX HD">TV LUX HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_773240359070" xmltv_id="TV8 HD">TV8 HD</channel>
@@ -2616,7 +2614,7 @@
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_815217191056" xmltv_id="Film HD CZ">Film HD CZ</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287047" xmltv_id="FilmBox HD">FilmBox HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775197" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287019" xmltv_id="CS Film  CS Horror">CS Film  CS Horror</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287019" xmltv_id="CS Film CS Horror">CS Film CS Horror</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287050" xmltv_id="CS Mystery">CS Mystery</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775245" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775254" xmltv_id="CBS Reality">CBS Reality</channel>
@@ -2649,8 +2647,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_624787495298" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_624787495291" xmltv_id="Sport 2 HD">Sport 2 HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677286987" xmltv_id="Sport 5">Sport 5</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677286983" xmltv_id="arena sport 1 HD">arena sport 1 HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_604944423343" xmltv_id="arena sport 2">arena sport 2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495261" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677286986" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775233" xmltv_id="Extreme Sports">Extreme Sports</channel>
@@ -2660,7 +2656,6 @@
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495266" xmltv_id="Spartak TV">Spartak TV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775218" xmltv_id="ducktv HD">ducktv HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775252" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287016" xmltv_id="Megamax">Megamax</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287010" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775208" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287027" xmltv_id="Nickelodeon">Nickelodeon</channel>
@@ -2688,10 +2683,14 @@
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_818897447346" xmltv_id="Euronews HD">Euronews HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287032" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775221" xmltv_id="Russia Today HD">Russia Today HD</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_871490599401" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_871490599401" xmltv_id="Euronews FR">Euronews FR</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_897782311051" xmltv_id="Channel One Russia">Channel One Russia</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775253" xmltv_id="ORF 1">ORF 1</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546677287052" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_914441767196" xmltv_id="ORF III">ORF III</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_914442279040" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_914441767197" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_914442279041" xmltv_id="TRT World">TRT World</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775203" xmltv_id="HBO">HBO</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775190" xmltv_id="HBO HD">HBO HD</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_546676775229" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
@@ -2724,13 +2723,12 @@
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495267" xmltv_id="Magyar ATV">Magyar ATV</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495260" xmltv_id="TV2">TV2</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710740007046" xmltv_id="Cool TV">Cool TV</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710740007036" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710740007036" xmltv_id="Story 4">Story 4</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_855447079070" xmltv_id="Spektrum Home HU">Spektrum Home HU</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_885403175441" xmltv_id="TV Paprika HU">TV Paprika HU</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495258" xmltv_id="Slager TV">Slager TV</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_796603943210" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_796603943210" xmltv_id="Euronews HU">Euronews HU</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710740007040" xmltv_id="Kabel eins">Kabel eins</channel>
-    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495246" xmltv_id="WELT">WELT</channel>
+    <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495246" xmltv_id="N24">N24</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495252" xmltv_id="ProSieben">ProSieben</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495255" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="horizon.tv.EK" site_id="SK/slk_710739495270" xmltv_id="RTL 2 GER">RTL 2 GER</channel>
