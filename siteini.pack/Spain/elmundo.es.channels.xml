@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9.1 -- Jan van Straaten" site="elmundo.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.3.2 -- Jan van Straaten" site="elmundo.es">
   <channels>
-    <channel update="i" site="elmundo.es" site_id="3" xmltv_id="La 1">La 1</channel>
-    <channel update="i" site="elmundo.es" site_id="4" xmltv_id="La 2">La 2</channel>
-    <channel update="i" site="elmundo.es" site_id="2" xmltv_id="Antena 3">Antena 3</channel>
-    <channel update="i" site="elmundo.es" site_id="496" xmltv_id="Cuatro">Cuatro</channel>
-    <channel update="i" site="elmundo.es" site_id="1" xmltv_id="Telecinco">Telecinco</channel>
-    <channel update="i" site="elmundo.es" site_id="510" xmltv_id="laSexta">laSexta</channel>
-    <channel update="i" site="elmundo.es" site_id="146" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="elmundo.es" site_id="722" xmltv_id="#0">#0</channel>
     <channel update="i" site="elmundo.es" site_id="1039" xmltv_id="#Vamos">#Vamos</channel>
     <channel update="i" site="elmundo.es" site_id="449" xmltv_id="3/24">3/24</channel>
@@ -18,6 +11,7 @@
     <channel update="i" site="elmundo.es" site_id="539" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
     <channel update="i" site="elmundo.es" site_id="481" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="elmundo.es" site_id="831" xmltv_id="Andalucía Televisión">Andalucía Televisión</channel>
+    <channel update="i" site="elmundo.es" site_id="2" xmltv_id="Antena 3">Antena 3</channel>
     <channel update="i" site="elmundo.es" site_id="522" xmltv_id="Aragón Televisión">Aragón Televisión</channel>
     <channel update="i" site="elmundo.es" site_id="617" xmltv_id="Aragón TV INT.">Aragón TV INT.</channel>
     <channel update="i" site="elmundo.es" site_id="883" xmltv_id="Atreseries">Atreseries</channel>
@@ -25,9 +19,9 @@
     <channel update="i" site="elmundo.es" site_id="512" xmltv_id="AXN White">AXN White</channel>
     <channel update="i" site="elmundo.es" site_id="573" xmltv_id="BabyTV">BabyTV</channel>
     <channel update="i" site="elmundo.es" site_id="155" xmltv_id="Barça TV">Barça TV</channel>
+    <channel update="i" site="elmundo.es" site_id="649" xmltv_id="Barça TV Cataluña">Barça TV Cataluña</channel>
     <channel update="i" site="elmundo.es" site_id="208" xmltv_id="BBC World">BBC World</channel>
     <channel update="i" site="elmundo.es" site_id="719" xmltv_id="Be Mad">Be Mad</channel>
-    <channel update="i" site="elmundo.es" site_id="724" xmltv_id="beIN LaLiga">beIN LaLiga</channel>
     <channel update="i" site="elmundo.es" site_id="492" xmltv_id="BLAZE">BLAZE</channel>
     <channel update="i" site="elmundo.es" site_id="196" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel update="i" site="elmundo.es" site_id="665" xmltv_id="Boing">Boing</channel>
@@ -52,15 +46,18 @@
     <channel update="i" site="elmundo.es" site_id="493" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
     <channel update="i" site="elmundo.es" site_id="186" xmltv_id="COSMO">COSMO</channel>
     <channel update="i" site="elmundo.es" site_id="691" xmltv_id="Crimen &amp; Investigación">Crimen &amp; Investigación</channel>
+    <channel update="i" site="elmundo.es" site_id="496" xmltv_id="Cuatro">Cuatro</channel>
     <channel update="i" site="elmundo.es" site_id="920" xmltv_id="Dark">Dark</channel>
     <channel update="i" site="elmundo.es" site_id="572" xmltv_id="Decasa">Decasa</channel>
     <channel update="i" site="elmundo.es" site_id="206" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="elmundo.es" site_id="146" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="elmundo.es" site_id="175" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="elmundo.es" site_id="292" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="elmundo.es" site_id="174" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="elmundo.es" site_id="1117" xmltv_id="Disney+">Disney+</channel>
     <channel update="i" site="elmundo.es" site_id="697" xmltv_id="Divinity">Divinity</channel>
     <channel update="i" site="elmundo.es" site_id="720" xmltv_id="DKISS">DKISS</channel>
     <channel update="i" site="elmundo.es" site_id="475" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="elmundo.es" site_id="516" xmltv_id="El Toro TV">El Toro TV</channel>
     <channel update="i" site="elmundo.es" site_id="709" xmltv_id="Energy">Energy</channel>
     <channel update="i" site="elmundo.es" site_id="672" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="elmundo.es" site_id="33" xmltv_id="ETB 1">ETB 1</channel>
@@ -77,22 +74,21 @@
     <channel update="i" site="elmundo.es" site_id="660" xmltv_id="FOX Life">FOX Life</channel>
     <channel update="i" site="elmundo.es" site_id="140" xmltv_id="Fox News">Fox News</channel>
     <channel update="i" site="elmundo.es" site_id="608" xmltv_id="France 24 (English)">France 24 (English)</channel>
-    <channel update="i" site="elmundo.es" site_id="743" xmltv_id="Futbol Replay">Futbol Replay</channel>
-    <channel update="i" site="elmundo.es" site_id="37" xmltv_id="Galicia TV">Galicia TV</channel>
     <channel update="i" site="elmundo.es" site_id="897" xmltv_id="Gol">Gol</channel>
     <channel update="i" site="elmundo.es" site_id="148" xmltv_id="Historia">Historia</channel>
     <channel update="i" site="elmundo.es" site_id="61" xmltv_id="Hollywood">Hollywood</channel>
     <channel update="i" site="elmundo.es" site_id="519" xmltv_id="IB3">IB3</channel>
     <channel update="i" site="elmundo.es" site_id="654" xmltv_id="Iberalia">Iberalia</channel>
     <channel update="i" site="elmundo.es" site_id="995" xmltv_id="Información TV">Información TV</channel>
-    <channel update="i" site="elmundo.es" site_id="516" xmltv_id="Intereconomía TV">Intereconomía TV</channel>
+    <channel update="i" site="elmundo.es" site_id="3" xmltv_id="La 1">La 1</channel>
     <channel update="i" site="elmundo.es" site_id="18" xmltv_id="La 1 Catalunya">La 1 Catalunya</channel>
+    <channel update="i" site="elmundo.es" site_id="4" xmltv_id="La 2">La 2</channel>
     <channel update="i" site="elmundo.es" site_id="280" xmltv_id="La 2 Catalunya">La 2 Catalunya</channel>
     <channel update="i" site="elmundo.es" site_id="324" xmltv_id="La 7">La 7</channel>
     <channel update="i" site="elmundo.es" site_id="643" xmltv_id="La 8">La 8</channel>
     <channel update="i" site="elmundo.es" site_id="39" xmltv_id="La Otra">La Otra</channel>
-    <channel update="i" site="elmundo.es" site_id="739" xmltv_id="LaLiga 123 TV">LaLiga 123 TV</channel>
     <channel update="i" site="elmundo.es" site_id="745" xmltv_id="LaLiga TV">LaLiga TV</channel>
+    <channel update="i" site="elmundo.es" site_id="510" xmltv_id="laSexta">laSexta</channel>
     <channel update="i" site="elmundo.es" site_id="996" xmltv_id="Levante TV">Levante TV</channel>
     <channel update="i" site="elmundo.es" site_id="846" xmltv_id="M. CineDoc&amp;Roll">M. CineDoc&amp;Roll</channel>
     <channel update="i" site="elmundo.es" site_id="849" xmltv_id="M. Drama">M. Drama</channel>
@@ -103,13 +99,12 @@
     <channel update="i" site="elmundo.es" site_id="385" xmltv_id="Movistar Cine Español">Movistar Cine Español</channel>
     <channel update="i" site="elmundo.es" site_id="848" xmltv_id="Movistar Comedia">Movistar Comedia</channel>
     <channel update="i" site="elmundo.es" site_id="750" xmltv_id="Movistar Deportes 1">Movistar Deportes 1</channel>
-    <channel update="i" site="elmundo.es" site_id="735" xmltv_id="Movistar El Partidazo HD">Movistar El Partidazo HD</channel>
-    <channel update="i" site="elmundo.es" site_id="845" xmltv_id="Movistar Estrenos">Movistar Estrenos</channel>
+    <channel update="i" site="elmundo.es" site_id="1113" xmltv_id="Movistar Estrenos">Movistar Estrenos</channel>
     <channel update="i" site="elmundo.es" site_id="757" xmltv_id="Movistar Formula 1">Movistar Formula 1</channel>
-    <channel update="i" site="elmundo.es" site_id="762" xmltv_id="Movistar Fútbol">Movistar Fútbol</channel>
     <channel update="i" site="elmundo.es" site_id="333" xmltv_id="Movistar Golf">Movistar Golf</channel>
+    <channel update="i" site="elmundo.es" site_id="1082" xmltv_id="Movistar LaLiga">Movistar LaLiga</channel>
     <channel update="i" site="elmundo.es" site_id="1015" xmltv_id="Movistar Liga de Campeones">Movistar Liga de Campeones</channel>
-    <channel update="i" site="elmundo.es" site_id="752" xmltv_id="Movistar Series">Movistar Series</channel>
+    <channel update="i" site="elmundo.es" site_id="1111" xmltv_id="Movistar Series">Movistar Series</channel>
     <channel update="i" site="elmundo.es" site_id="469" xmltv_id="MTV Dance">MTV Dance</channel>
     <channel update="i" site="elmundo.es" site_id="159" xmltv_id="MTV España">MTV España</channel>
     <channel update="i" site="elmundo.es" site_id="161" xmltv_id="MTV Hits">MTV Hits</channel>
@@ -135,6 +130,7 @@
     <channel update="i" site="elmundo.es" site_id="520" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="elmundo.es" site_id="59" xmltv_id="TCM">TCM</channel>
     <channel update="i" site="elmundo.es" site_id="316" xmltv_id="Tele Elx">Tele Elx</channel>
+    <channel update="i" site="elmundo.es" site_id="1" xmltv_id="Telecinco">Telecinco</channel>
     <channel update="i" site="elmundo.es" site_id="9" xmltv_id="Teledeporte">Teledeporte</channel>
     <channel update="i" site="elmundo.es" site_id="38" xmltv_id="Telemadrid">Telemadrid</channel>
     <channel update="i" site="elmundo.es" site_id="614" xmltv_id="teleSUR">teleSUR</channel>
@@ -152,6 +148,7 @@
     <channel update="i" site="elmundo.es" site_id="468" xmltv_id="TVE Internacional">TVE Internacional</channel>
     <channel update="i" site="elmundo.es" site_id="667" xmltv_id="TVE Internacional Asia">TVE Internacional Asia</channel>
     <channel update="i" site="elmundo.es" site_id="36" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="elmundo.es" site_id="37" xmltv_id="TVG Europa">TVG Europa</channel>
     <channel update="i" site="elmundo.es" site_id="761" xmltv_id="tvG2">tvG2</channel>
     <channel update="i" site="elmundo.es" site_id="653" xmltv_id="VE PLUS TV">VE PLUS TV</channel>
     <channel update="i" site="elmundo.es" site_id="165" xmltv_id="VH1">VH1</channel>
