@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="mojtv.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.3.5 -- Jan van Straaten" site="mojtv.net">
   <channels>
     <channel update="i" site="mojtv.net" site_id="435/24kitchen" xmltv_id="24Kitchen">24Kitchen</channel>
     <channel update="i" site="mojtv.net" site_id="97/3sat" xmltv_id="3SAT">3SAT</channel>
+    <channel update="i" site="mojtv.net" site_id="175/a1-tv" xmltv_id="A1 TV">A1 TV</channel>
     <channel update="i" site="mojtv.net" site_id="131/adult-channel" xmltv_id="Adult Channel">Adult Channel</channel>
     <channel update="i" site="mojtv.net" site_id="270/al-jazeera-balkans" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
     <channel update="i" site="mojtv.net" site_id="271/al-jazeera-int" xmltv_id="Al Jazeera Int">Al Jazeera Int</channel>
     <channel update="i" site="mojtv.net" site_id="437/amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="mojtv.net" site_id="489/animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="mojtv.net" site_id="58/animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="mojtv.net" site_id="349/arena-sport-1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
     <channel update="i" site="mojtv.net" site_id="350/arena-sport-2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
     <channel update="i" site="mojtv.net" site_id="351/arena-sport-3" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
@@ -20,9 +20,9 @@
     <channel update="i" site="mojtv.net" site_id="445/axn" xmltv_id="AXN">AXN</channel>
     <channel update="i" site="mojtv.net" site_id="455/axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
     <channel update="i" site="mojtv.net" site_id="31/b92" xmltv_id="B92">B92</channel>
-    <channel update="i" site="mojtv.net" site_id="71/b92-info" xmltv_id="B92 Info">B92 Info</channel>
     <channel update="i" site="mojtv.net" site_id="167/baby-tv" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="mojtv.net" site_id="44/bbc-entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="mojtv.net" site_id="678/bbc-first" xmltv_id="BBC First">BBC First</channel>
     <channel update="i" site="mojtv.net" site_id="266/bbc-world" xmltv_id="BBC World">BBC World</channel>
     <channel update="i" site="mojtv.net" site_id="24/bht1" xmltv_id="BHT1">BHT1</channel>
     <channel update="i" site="mojtv.net" site_id="80/bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
@@ -31,6 +31,7 @@
     <channel update="i" site="mojtv.net" site_id="263/bn-televizija" xmltv_id="BN Televizija">BN Televizija</channel>
     <channel update="i" site="mojtv.net" site_id="149/body-in-balance" xmltv_id="Body in balance">Body in balance</channel>
     <channel update="i" site="mojtv.net" site_id="54/boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="mojtv.net" site_id="674/brainz-tv" xmltv_id="Brainz TV">Brainz TV</channel>
     <channel update="i" site="mojtv.net" site_id="476/brava-hd" xmltv_id="Brava HD">Brava HD</channel>
     <channel update="i" site="mojtv.net" site_id="130/brazzers-tv" xmltv_id="Brazzers TV">Brazzers TV</channel>
     <channel update="i" site="mojtv.net" site_id="220/brio" xmltv_id="Brio">Brio</channel>
@@ -45,9 +46,11 @@
     <channel update="i" site="mojtv.net" site_id="368/cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="mojtv.net" site_id="369/cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
     <channel update="i" site="mojtv.net" site_id="372/cinestar-action--thriller" xmltv_id="Cinestar Action &amp; Thriller">Cinestar Action &amp; Thriller</channel>
+    <channel update="i" site="mojtv.net" site_id="600/cinestar-fantasy" xmltv_id="Cinestar Fantasy">Cinestar Fantasy</channel>
     <channel update="i" site="mojtv.net" site_id="373/cinestar-premiere-1" xmltv_id="Cinestar Premiere 1">Cinestar Premiere 1</channel>
     <channel update="i" site="mojtv.net" site_id="374/cinestar-premiere-2" xmltv_id="Cinestar Premiere 2">Cinestar Premiere 2</channel>
     <channel update="i" site="mojtv.net" site_id="371/cinestar-tv" xmltv_id="Cinestar TV">Cinestar TV</channel>
+    <channel update="i" site="mojtv.net" site_id="665/cinestar-tv-comedy" xmltv_id="Cinestar TV Comedy">Cinestar TV Comedy</channel>
     <channel update="i" site="mojtv.net" site_id="474/classica-hd" xmltv_id="Classica HD">Classica HD</channel>
     <channel update="i" site="mojtv.net" site_id="135/cmusic" xmltv_id="C-Music">C-Music</channel>
     <channel update="i" site="mojtv.net" site_id="79/cnbc" xmltv_id="CNBC">CNBC</channel>
@@ -60,19 +63,21 @@
     <channel update="i" site="mojtv.net" site_id="170/das-erste-hd" xmltv_id="Das Erste HD">Das Erste HD</channel>
     <channel update="i" site="mojtv.net" site_id="288/deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
     <channel update="i" site="mojtv.net" site_id="488/discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="mojtv.net" site_id="57/discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="mojtv.net" site_id="59/discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="mojtv.net" site_id="60/discovery-world" xmltv_id="Discovery World">Discovery World</channel>
     <channel update="i" site="mojtv.net" site_id="297/disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="mojtv.net" site_id="298/disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="mojtv.net" site_id="316/disney-xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="mojtv.net" site_id="444/diva" xmltv_id="Diva">Diva</channel>
     <channel update="i" site="mojtv.net" site_id="475/djazztv" xmltv_id="DJazz.tv">DJazz.tv</channel>
     <channel update="i" site="mojtv.net" site_id="249/dm-sat" xmltv_id="DM Sat">DM Sat</channel>
     <channel update="i" site="mojtv.net" site_id="185/doma-tv" xmltv_id="Doma TV">Doma TV</channel>
     <channel update="i" site="mojtv.net" site_id="259/dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="mojtv.net" site_id="699/dox-tv" xmltv_id="Dox TV">Dox TV</channel>
     <channel update="i" site="mojtv.net" site_id="144/duck-tv" xmltv_id="Duck TV">Duck TV</channel>
     <channel update="i" site="mojtv.net" site_id="482/dusk" xmltv_id="Dusk">Dusk</channel>
     <channel update="i" site="mojtv.net" site_id="82/e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="mojtv.net" site_id="635/epic-drama" xmltv_id="Epic Drama">Epic Drama</channel>
     <channel update="i" site="mojtv.net" site_id="78/euronews" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="mojtv.net" site_id="50/eurosport" xmltv_id="Eurosport">Eurosport</channel>
     <channel update="i" site="mojtv.net" site_id="493/eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
@@ -81,6 +86,7 @@
     <channel update="i" site="mojtv.net" site_id="188/eurosport-hd" xmltv_id="Eurosport HD">Eurosport HD</channel>
     <channel update="i" site="mojtv.net" site_id="169/eurosportnews" xmltv_id="Eurosportnews">Eurosportnews</channel>
     <channel update="i" site="mojtv.net" site_id="66/extreme-sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="mojtv.net" site_id="679/fashion-one" xmltv_id="Fashion One">Fashion One</channel>
     <channel update="i" site="mojtv.net" site_id="81/fashion-tv" xmltv_id="Fashion Tv">Fashion Tv</channel>
     <channel update="i" site="mojtv.net" site_id="280/fight-channel" xmltv_id="Fight Channel">Fight Channel</channel>
     <channel update="i" site="mojtv.net" site_id="468/fight-network" xmltv_id="Fight Network">Fight Network</channel>
@@ -111,11 +117,11 @@
     <channel update="i" site="mojtv.net" site_id="310/htv3" xmltv_id="HTV3">HTV3</channel>
     <channel update="i" site="mojtv.net" site_id="128/hustler" xmltv_id="Hustler">Hustler</channel>
     <channel update="i" site="mojtv.net" site_id="490/idx" xmltv_id="IDX">IDX</channel>
+    <channel update="i" site="mojtv.net" site_id="631/insajder-tv" xmltv_id="Insajder TV">Insajder TV</channel>
     <channel update="i" site="mojtv.net" site_id="256/investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel update="i" site="mojtv.net" site_id="162/italia-1" xmltv_id="Italia 1">Italia 1</channel>
     <channel update="i" site="mojtv.net" site_id="154/jimjam" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="mojtv.net" site_id="18/kanal-a" xmltv_id="Kanal A">Kanal A</channel>
-    <channel update="i" site="mojtv.net" site_id="381/kanal6hd" xmltv_id="Kanal6HD">Kanal6HD</channel>
     <channel update="i" site="mojtv.net" site_id="301/kcn-kopernikus" xmltv_id="KCN Kopernikus">KCN Kopernikus</channel>
     <channel update="i" site="mojtv.net" site_id="302/kcn-music" xmltv_id="KCN Music">KCN Music</channel>
     <channel update="i" site="mojtv.net" site_id="303/kcn-svet-" xmltv_id="KCN Svet +">KCN Svet +</channel>
@@ -145,15 +151,18 @@
     <channel update="i" site="mojtv.net" site_id="134/myzentv" xmltv_id="MyZen.tv">MyZen.tv</channel>
     <channel update="i" site="mojtv.net" site_id="77/n1" xmltv_id="N1">N1</channel>
     <channel update="i" site="mojtv.net" site_id="492/n1" xmltv_id="N1">N1</channel>
-    <channel update="i" site="mojtv.net" site_id="258/n24" xmltv_id="N24">N24</channel>
     <channel update="i" site="mojtv.net" site_id="120/natgeo-wild" xmltv_id="NatGeo Wild">NatGeo Wild</channel>
     <channel update="i" site="mojtv.net" site_id="377/national-geographic" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="mojtv.net" site_id="315/nick-jr" xmltv_id="Nick JR">Nick JR</channel>
+    <channel update="i" site="mojtv.net" site_id="673/nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="mojtv.net" site_id="491/nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="mojtv.net" site_id="88/nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="mojtv.net" site_id="314/nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="mojtv.net" site_id="28/nova-bh" xmltv_id="Nova BH">Nova BH</channel>
+    <channel update="i" site="mojtv.net" site_id="393/nova-m" xmltv_id="Nova M">Nova M</channel>
+    <channel update="i" site="mojtv.net" site_id="643/nova-s" xmltv_id="Nova S">Nova S</channel>
     <channel update="i" site="mojtv.net" site_id="3/nova-tv" xmltv_id="NOVA TV">NOVA TV</channel>
     <channel update="i" site="mojtv.net" site_id="484/novars" xmltv_id="Nova.RS">Nova.RS</channel>
+    <channel update="i" site="mojtv.net" site_id="217/o-kanal" xmltv_id="O Kanal">O Kanal</channel>
     <channel update="i" site="mojtv.net" site_id="26/obn" xmltv_id="OBN">OBN</channel>
     <channel update="i" site="mojtv.net" site_id="90/orf1" xmltv_id="ORF1">ORF1</channel>
     <channel update="i" site="mojtv.net" site_id="91/orf2" xmltv_id="ORF2">ORF2</channel>
@@ -162,7 +171,7 @@
     <channel update="i" site="mojtv.net" site_id="391/pink-2" xmltv_id="Pink 2">Pink 2</channel>
     <channel update="i" site="mojtv.net" site_id="405/pink-3-info" xmltv_id="PINK 3 INFO">PINK 3 INFO</channel>
     <channel update="i" site="mojtv.net" site_id="421/pink-action" xmltv_id="Pink Action">Pink Action</channel>
-    <channel update="i" site="mojtv.net" site_id="28/pink-bh" xmltv_id="PINK BH">PINK BH</channel>
+    <channel update="i" site="mojtv.net" site_id="669/pink-bh" xmltv_id="Pink BH">Pink BH</channel>
     <channel update="i" site="mojtv.net" site_id="433/pink-classic" xmltv_id="Pink Classic">Pink Classic</channel>
     <channel update="i" site="mojtv.net" site_id="425/pink-comedy" xmltv_id="Pink Comedy">Pink Comedy</channel>
     <channel update="i" site="mojtv.net" site_id="423/pink-crime--mystery" xmltv_id="PINK Crime &amp; Mystery">PINK Crime &amp; Mystery</channel>
@@ -181,7 +190,7 @@
     <channel update="i" site="mojtv.net" site_id="427/pink-horror" xmltv_id="Pink Horror">Pink Horror</channel>
     <channel update="i" site="mojtv.net" site_id="411/pink-kids" xmltv_id="Pink Kids">Pink Kids</channel>
     <channel update="i" site="mojtv.net" site_id="467/pink-kuvar" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
-    <channel update="i" site="mojtv.net" site_id="393/pink-m" xmltv_id="Pink M">Pink M</channel>
+    <channel update="i" site="mojtv.net" site_id="670/pink-m" xmltv_id="Pink M">Pink M</channel>
     <channel update="i" site="mojtv.net" site_id="418/pink-movies" xmltv_id="Pink Movies">Pink Movies</channel>
     <channel update="i" site="mojtv.net" site_id="523/pink-parada" xmltv_id="Pink Parada">Pink Parada</channel>
     <channel update="i" site="mojtv.net" site_id="426/pink-pedia" xmltv_id="Pink Pedia">Pink Pedia</channel>
@@ -203,9 +212,14 @@
     <channel update="i" site="mojtv.net" site_id="137/player-channel" xmltv_id="Player Channel">Player Channel</channel>
     <channel update="i" site="mojtv.net" site_id="17/pop-tv" xmltv_id="Pop TV">Pop TV</channel>
     <channel update="i" site="mojtv.net" site_id="95/pro7" xmltv_id="PRO7">PRO7</channel>
+    <channel update="i" site="mojtv.net" site_id="644/prva-files" xmltv_id="Prva Files">Prva Files</channel>
+    <channel update="i" site="mojtv.net" site_id="637/prva-kick" xmltv_id="Prva Kick">Prva Kick</channel>
+    <channel update="i" site="mojtv.net" site_id="642/prva-life" xmltv_id="Prva Life">Prva Life</channel>
+    <channel update="i" site="mojtv.net" site_id="534/prva-max" xmltv_id="Prva Max">Prva Max</channel>
     <channel update="i" site="mojtv.net" site_id="408/prva-plus" xmltv_id="Prva Plus">Prva Plus</channel>
     <channel update="i" site="mojtv.net" site_id="38/prva-srpska-televizija" xmltv_id="Prva srpska televizija">Prva srpska televizija</channel>
     <channel update="i" site="mojtv.net" site_id="512/prva-tv-crna-gora" xmltv_id="Prva TV Crna Gora">Prva TV Crna Gora</channel>
+    <channel update="i" site="mojtv.net" site_id="535/prva-world" xmltv_id="Prva World">Prva World</channel>
     <channel update="i" site="mojtv.net" site_id="103/rai-due" xmltv_id="RAI Due">RAI Due</channel>
     <channel update="i" site="mojtv.net" site_id="107/rai-sport" xmltv_id="Rai Sport">Rai Sport</channel>
     <channel update="i" site="mojtv.net" site_id="104/rai-tre" xmltv_id="RAI Tre">RAI Tre</channel>
@@ -230,15 +244,11 @@
     <channel update="i" site="mojtv.net" site_id="34/rts2" xmltv_id="RTS2">RTS2</channel>
     <channel update="i" site="mojtv.net" site_id="182/rtv-1" xmltv_id="RTV 1">RTV 1</channel>
     <channel update="i" site="mojtv.net" site_id="183/rtv-2" xmltv_id="RTV 2">RTV 2</channel>
-    <channel update="i" site="mojtv.net" site_id="175/rtv-atlas" xmltv_id="RTV Atlas">RTV Atlas</channel>
     <channel update="i" site="mojtv.net" site_id="509/rtv-budva" xmltv_id="RTV Budva">RTV Budva</channel>
     <channel update="i" site="mojtv.net" site_id="279/russia-today" xmltv_id="Russia Today">Russia Today</channel>
     <channel update="i" site="mojtv.net" site_id="94/sat1" xmltv_id="SAT1">SAT1</channel>
     <channel update="i" site="mojtv.net" site_id="452/scifi" xmltv_id="Scifi">Scifi</channel>
     <channel update="i" site="mojtv.net" site_id="453/servus-tv" xmltv_id="Servus TV">Servus TV</channel>
-    <channel update="i" site="mojtv.net" site_id="240/sk4" xmltv_id="SK4">SK4</channel>
-    <channel update="i" site="mojtv.net" site_id="241/sk5" xmltv_id="SK5">SK5</channel>
-    <channel update="i" site="mojtv.net" site_id="242/sk6" xmltv_id="SK6">SK6</channel>
     <channel update="i" site="mojtv.net" site_id="261/sky-news" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="mojtv.net" site_id="481/smash-hits" xmltv_id="Smash Hits">Smash Hits</channel>
     <channel update="i" site="mojtv.net" site_id="155/smile-of-a-child" xmltv_id="Smile of a Child">Smile of a Child</channel>
@@ -261,6 +271,7 @@
     <channel update="i" site="mojtv.net" site_id="146/trace-urban" xmltv_id="Trace Urban">Trace Urban</channel>
     <channel update="i" site="mojtv.net" site_id="486/travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="mojtv.net" site_id="365/travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="mojtv.net" site_id="672/tropik-tv" xmltv_id="Tropik TV">Tropik TV</channel>
     <channel update="i" site="mojtv.net" site_id="378/tv-1000" xmltv_id="TV 1000">TV 1000</channel>
     <channel update="i" site="mojtv.net" site_id="21/tv-koper" xmltv_id="TV Koper">TV Koper</channel>
     <channel update="i" site="mojtv.net" site_id="22/tv-maribor" xmltv_id="TV Maribor">TV Maribor</channel>
@@ -271,17 +282,17 @@
     <channel update="i" site="mojtv.net" site_id="221/tv-slovenija-3" xmltv_id="TV Slovenija 3">TV Slovenija 3</channel>
     <channel update="i" site="mojtv.net" site_id="123/tv-tk-tuzla" xmltv_id="TV TK Tuzla">TV TK Tuzla</channel>
     <channel update="i" site="mojtv.net" site_id="511/tv-vijesti" xmltv_id="TV Vijesti">TV Vijesti</channel>
-    <channel update="i" site="mojtv.net" site_id="217/tv1" xmltv_id="TV1">TV1</channel>
     <channel update="i" site="mojtv.net" site_id="23/tv3-medias" xmltv_id="TV3 Medias">TV3 Medias</channel>
     <channel update="i" site="mojtv.net" site_id="448/ultra-tv" xmltv_id="Ultra TV">Ultra TV</channel>
-    <channel update="i" site="mojtv.net" site_id="444/universal-channel" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="mojtv.net" site_id="648/vavoom" xmltv_id="Vavoom">Vavoom</channel>
     <channel update="i" site="mojtv.net" site_id="87/vh1" xmltv_id="VH-1">VH-1</channel>
     <channel update="i" site="mojtv.net" site_id="133/vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel update="i" site="mojtv.net" site_id="380/viasat-explorer" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="mojtv.net" site_id="380/viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
     <channel update="i" site="mojtv.net" site_id="379/viasat-history" xmltv_id="Viasat History">Viasat History</channel>
     <channel update="i" site="mojtv.net" site_id="446/viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="mojtv.net" site_id="152/viva" xmltv_id="VIVA">VIVA</channel>
     <channel update="i" site="mojtv.net" site_id="98/vox" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="mojtv.net" site_id="258/welt" xmltv_id="Welt">Welt</channel>
     <channel update="i" site="mojtv.net" site_id="93/zdf" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="mojtv.net" site_id="156/zdf-hd" xmltv_id="ZDF HD">ZDF HD</channel>
   </channels>
