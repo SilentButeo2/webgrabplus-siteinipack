@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.3.5 -- Jan van Straaten" site="movistarplus.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" site="movistarplus.es">
   <channels>
     <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA 1">LA 1</channel>
     <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA 2">LA 2</channel>
@@ -23,7 +23,7 @@
     <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="Telemadrid">Telemadrid</channel>
     <channel update="i" site="movistarplus.es" site_id="TPA" xmltv_id="TPA">TPA</channel>
     <channel update="i" site="movistarplus.es" site_id="TV3CAT" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="movistarplus.es" site_id="TVGAL" xmltv_id="TVG - TV Galicia">TVG - TV Galicia</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVGAL" xmltv_id="TVG -TV Galicia">TVG -TV Galicia</channel>
     <channel update="i" site="movistarplus.es" site_id="8TV" xmltv_id="8 tv">8 tv</channel>
     <channel update="i" site="movistarplus.es" site_id="ANDATV" xmltv_id="Andalucía TV">Andalucía TV</channel>
     <channel update="i" site="movistarplus.es" site_id="ETB2" xmltv_id="ETB 2">ETB 2</channel>
@@ -41,6 +41,7 @@
     <channel update="i" site="movistarplus.es" site_id="FOXCR" xmltv_id="Fox Life">Fox Life</channel>
     <channel update="i" site="movistarplus.es" site_id="SET" xmltv_id="AXN White">AXN White</channel>
     <channel update="i" site="movistarplus.es" site_id="SCI-FI" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="movistarplus.es" site_id="MONFIR" xmltv_id="M. Fest">M. Fest</channel>
     <channel update="i" site="movistarplus.es" site_id="MTV" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="movistarplus.es" site_id="FDFIC" xmltv_id="Factoría de Ficción">Factoría de Ficción</channel>
     <channel update="i" site="movistarplus.es" site_id="NEOX" xmltv_id="Neox">Neox</channel>
@@ -115,8 +116,8 @@
     <channel update="i" site="movistarplus.es" site_id="VH1" xmltv_id="VH1">VH1</channel>
     <channel update="i" site="movistarplus.es" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="movistarplus.es" site_id="MEZOHD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
-    <channel update="i" site="movistarplus.es" site_id="CLASSI" xmltv_id="Classica HD">Classica HD</channel>
     <channel update="i" site="movistarplus.es" site_id="CLASSD" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLASSI" xmltv_id="Classica HD">Classica HD</channel>
     <channel update="i" site="movistarplus.es" site_id="PBOY" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="24 Horas">24 Horas</channel>
     <channel update="i" site="movistarplus.es" site_id="BBC" xmltv_id="BBC World">BBC World</channel>
@@ -125,12 +126,11 @@
     <channel update="i" site="movistarplus.es" site_id="ENW" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="movistarplus.es" site_id="ALJAZE" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
     <channel update="i" site="movistarplus.es" site_id="FRA+EN" xmltv_id="FRANCE 24">FRANCE 24</channel>
-    <channel update="i" site="movistarplus.es" site_id="RTESP" xmltv_id="RT Español">RT Español</channel>
     <channel update="i" site="movistarplus.es" site_id="NBC" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="movistarplus.es" site_id="TV5" xmltv_id="TV5MONDE">TV5MONDE</channel>
     <channel update="i" site="movistarplus.es" site_id="BL" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="movistarplus.es" site_id="INTECO" xmltv_id="El Toro TV">El Toro TV</channel>
     <channel update="i" site="movistarplus.es" site_id="SKYNW" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="movistarplus.es" site_id="INTECO" xmltv_id="El Toro TV">El Toro TV</channel>
     <channel update="i" site="movistarplus.es" site_id="RTFRHD" xmltv_id="RT France HD">RT France HD</channel>
     <channel update="i" site="movistarplus.es" site_id="CNCWOR" xmltv_id="CNC World">CNC World</channel>
     <channel update="i" site="movistarplus.es" site_id="TELEFE" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
@@ -144,7 +144,7 @@
     <channel update="i" site="movistarplus.es" site_id="EWTN" xmltv_id="EWTN">EWTN</channel>
     <channel update="i" site="movistarplus.es" site_id="ARIRAN" xmltv_id="ARIRANG TV">ARIRANG TV</channel>
     <channel update="i" site="movistarplus.es" site_id="ANTV" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
-    <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TV Galicia">TV Galicia</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVG Europa">TVG Europa</channel>
     <channel update="i" site="movistarplus.es" site_id="EXTREM" xmltv_id="Canal Extremadura Sat">Canal Extremadura Sat</channel>
     <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3 Cat">TV3 Cat</channel>
     <channel update="i" site="movistarplus.es" site_id="ETB" xmltv_id="ETB Sat">ETB Sat</channel>
@@ -176,9 +176,12 @@
     <channel update="i" site="movistarplus.es" site_id="MLIGUH" xmltv_id="M. LaLiga UHD">M. LaLiga UHD</channel>
     <channel update="i" site="movistarplus.es" site_id="CHAUHD" xmltv_id="M. Liga de Campeones UHD">M. Liga de Campeones UHD</channel>
     <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="M. Fórmula 1 UHD">M. Fórmula 1 UHD</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLI1UH" xmltv_id="M. LaLiga 1 UHD">M. LaLiga 1 UHD</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIG10" xmltv_id="M. LaLiga 10">M. LaLiga 10</channel>
     <channel update="i" site="movistarplus.es" site_id="MLIG6" xmltv_id="M. LaLiga 6">M. LaLiga 6</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIG9" xmltv_id="M. LaLiga 9">M. LaLiga 9</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVG2" xmltv_id="TVG 2">TVG 2</channel>
     <channel update="i" site="movistarplus.es" site_id="MLIG8" xmltv_id="M. LaLiga 8">M. LaLiga 8</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIG9" xmltv_id="M. LaLiga 9">M. LaLiga 9</channel>
     <channel update="i" site="movistarplus.es" site_id="MLIG7" xmltv_id="M. LaLiga 7">M. LaLiga 7</channel>
   </channels>
 </site>
