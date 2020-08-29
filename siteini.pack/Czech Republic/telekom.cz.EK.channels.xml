@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" site="telekom.cz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="telekom.cz">
   <channels>
+    <channel update="i" site="telekom.cz.EK" site_id="4303" xmltv_id="360Tune box HD">360Tune box HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6083" xmltv_id="AMC HD">AMC HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4478" xmltv_id="ARD">ARD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="44" xmltv_id="AXN">AXN</channel>
@@ -22,14 +23,16 @@
     <channel update="i" site="telekom.cz.EK" site_id="6001" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4475" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6070" xmltv_id="CNN Intl. Europe">CNN Intl. Europe</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="6115" xmltv_id="CNN Prima News HD">CNN Prima News HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="29" xmltv_id="CS Film">CS Film</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6082" xmltv_id="CS History">CS History</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6036" xmltv_id="CS Horror">CS Horror</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6048" xmltv_id="CS Mystery">CS Mystery</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6069" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
-    <channel update="i" site="telekom.cz.EK" site_id="4313" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="6079" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6091" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6090" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="6058" xmltv_id="Club MTV">Club MTV</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6100" xmltv_id="Comedy House HD">Comedy House HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6046" xmltv_id="Crime and Inv.">Crime and Inv.</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6108" xmltv_id="ČT :D - ČT Art HD">ČT :D - ČT Art HD</channel>
@@ -40,10 +43,13 @@
     <channel update="i" site="telekom.cz.EK" site_id="6053" xmltv_id="ČT2 HD">ČT2 HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6024" xmltv_id="ČT24 HD">ČT24 HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4522" xmltv_id="ČT3 HD">ČT3 HD</channel>
-    <channel update="i" site="telekom.cz.EK" site_id="6018" xmltv_id="Českosl. – Be2Can">Českosl. – Be2Can</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4130" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4157" xmltv_id="Digi Sport 1 HD">Digi Sport 1 HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4191" xmltv_id="Digi Sport 2 HD">Digi Sport 2 HD</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4446" xmltv_id="Digi Sport 6 HD">Digi Sport 6 HD</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4447" xmltv_id="Digi Sport 7 HD">Digi Sport 7 HD</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4448" xmltv_id="Digi Sport 8 HD">Digi Sport 8 HD</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4449" xmltv_id="Digi Sport 9 HD">Digi Sport 9 HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6055" xmltv_id="Disc. Turbo Xtra">Disc. Turbo Xtra</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6085" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4135" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
@@ -64,6 +70,7 @@
     <channel update="i" site="telekom.cz.EK" site_id="4465" xmltv_id="Extreme sports">Extreme sports</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6084" xmltv_id="FILM+ HD">FILM+ HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6007" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="6018" xmltv_id="Film Europe +">Film Europe +</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6039" xmltv_id="Film Europe HD">Film Europe HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="20" xmltv_id="Filmbox">Filmbox</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6020" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
@@ -74,6 +81,7 @@
     <channel update="i" site="telekom.cz.EK" site_id="6022" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6063" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6026" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="80" xmltv_id="Fun Rádio ">Fun Rádio </channel>
     <channel update="i" site="telekom.cz.EK" site_id="6034" xmltv_id="Ginx eSports TV">Ginx eSports TV</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6033" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6012" xmltv_id="HBO HD">HBO HD</channel>
@@ -92,7 +100,6 @@
     <channel update="i" site="telekom.cz.EK" site_id="4507" xmltv_id="LaLa TV HD">LaLa TV HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6098" xmltv_id="Leo TV Gold HD">Leo TV Gold HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6003" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="telekom.cz.EK" site_id="6058" xmltv_id="MTV Dance">MTV Dance</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6057" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6059" xmltv_id="MTV Rocks">MTV Rocks</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4494" xmltv_id="Magenta TV">Magenta TV</channel>
@@ -122,6 +129,8 @@
     <channel update="i" site="telekom.cz.EK" site_id="6096" xmltv_id="PREMIER SPORT HD">PREMIER SPORT HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4482" xmltv_id="Pervij kanal">Pervij kanal</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6109" xmltv_id="Polar">Polar</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4526" xmltv_id="Posl.Sněmovna pult">Posl.Sněmovna pult</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4524" xmltv_id="Poslanecká Sněmovna">Poslanecká Sněmovna</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6113" xmltv_id="Praha TV">Praha TV</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4463" xmltv_id="Prima Comedy Central">Prima Comedy Central</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6032" xmltv_id="Prima Cool HD">Prima Cool HD</channel>
@@ -132,10 +141,10 @@
     <channel update="i" site="telekom.cz.EK" site_id="4470" xmltv_id="Prima Zoom HD">Prima Zoom HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6086" xmltv_id="RETRO Music TV">RETRO Music TV</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4480" xmltv_id="Rai 1">Rai 1</channel>
-    <channel update="i" site="telekom.cz.EK" site_id="4472" xmltv_id="Rebel2 Slušnej kanál">Rebel2 Slušnej kanál</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6114" xmltv_id="Regionální TV TVS">Regionální TV TVS</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6106" xmltv_id="RegionálníTV.cz">RegionálníTV.cz</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4459" xmltv_id="Relax">Relax</channel>
+    <channel update="i" site="telekom.cz.EK" site_id="4525" xmltv_id="Senát">Senát</channel>
     <channel update="i" site="telekom.cz.EK" site_id="35" xmltv_id="Spektrum HD">Spektrum HD</channel>
     <channel update="i" site="telekom.cz.EK" site_id="6019" xmltv_id="Spektrum Home">Spektrum Home</channel>
     <channel update="i" site="telekom.cz.EK" site_id="4466" xmltv_id="Sport 5">Sport 5</channel>
