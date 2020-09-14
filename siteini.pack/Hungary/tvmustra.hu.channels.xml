@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.8 -- Jan van Straaten" site="tvmustra.hu">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="tvmustra.hu">
   <channels>
     <channel update="i" site="tvmustra.hu" site_id="360TUNEBOX" xmltv_id="360TuneBox">360TuneBox</channel>
     <channel update="i" site="tvmustra.hu" site_id="3SAT" xmltv_id="3Sat">3Sat</channel>
     <channel update="i" site="tvmustra.hu" site_id="ALJAZEERA" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel update="i" site="tvmustra.hu" site_id="AMC" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="tvmustra.hu" site_id="ANIMALPLANET" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="tvmustra.hu" site_id="ANIMALPLANETHD" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="ARD" xmltv_id="ARD1">ARD1</channel>
+    <channel update="i" site="tvmustra.hu" site_id="ARENA4" xmltv_id="Aréna4">Aréna4</channel>
     <channel update="i" site="tvmustra.hu" site_id="ARTE" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="tvmustra.hu" site_id="ATV" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="tvmustra.hu" site_id="ATVSPIRIT" xmltv_id="ATV SPIRIT">ATV SPIRIT</channel>
@@ -24,6 +24,7 @@
     <channel update="i" site="tvmustra.hu" site_id="CBSREALITY" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="tvmustra.hu" site_id="CINEMAX" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="tvmustra.hu" site_id="CINEMAX2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="tvmustra.hu" site_id="CLUBMTV" xmltv_id="Club MTV">Club MTV</channel>
     <channel update="i" site="tvmustra.hu" site_id="COMEDY" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="tvmustra.hu" site_id="COMEDYFAMILY" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
     <channel update="i" site="tvmustra.hu" site_id="COOL" xmltv_id="Cool TV">Cool TV</channel>
@@ -32,11 +33,8 @@
     <channel update="i" site="tvmustra.hu" site_id="DAVINCILEARNING" xmltv_id="Da Vinci Tv">Da Vinci Tv</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIGIANIMALWORLD" xmltv_id="DIGI Animal World">DIGI Animal World</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIGILIFE" xmltv_id="DIGI Life">DIGI Life</channel>
-    <channel update="i" site="tvmustra.hu" site_id="DIGISPORT1" xmltv_id="DIGI Sport 1">DIGI Sport 1</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIGISPORT1HD" xmltv_id="DIGI Sport 1 HD">DIGI Sport 1 HD</channel>
-    <channel update="i" site="tvmustra.hu" site_id="DIGISPORT2" xmltv_id="DIGI Sport 2">DIGI Sport 2</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIGISPORT2HD" xmltv_id="DIGI Sport 2 HD">DIGI Sport 2 HD</channel>
-    <channel update="i" site="tvmustra.hu" site_id="DIGISPORT3" xmltv_id="DIGI Sport 3">DIGI Sport 3</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIGISPORT3HD" xmltv_id="DIGI Sport 3 HD">DIGI Sport 3 HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIGIWORLD" xmltv_id="DIGI World">DIGI World</channel>
     <channel update="i" site="tvmustra.hu" site_id="DIKHTV" xmltv_id="Dikh TV">Dikh TV</channel>
@@ -54,8 +52,8 @@
     <channel update="i" site="tvmustra.hu" site_id="EPICDRAMA" xmltv_id="Epic Drama">Epic Drama</channel>
     <channel update="i" site="tvmustra.hu" site_id="EROX" xmltv_id="Eroxxx HD">Eroxxx HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="EURONEWS" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="tvmustra.hu" site_id="EUROSPORT" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="tvmustra.hu" site_id="EUROSPORT2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvmustra.hu" site_id="EUROSPORT2" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="tvmustra.hu" site_id="EUROSPORT" xmltv_id="Eurosport HD">Eurosport HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="EXTREMESPORTS" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="tvmustra.hu" site_id="FTV" xmltv_id="Fashion TV Europe">Fashion TV Europe</channel>
     <channel update="i" site="tvmustra.hu" site_id="FASHIONBOX" xmltv_id="Fashionbox">Fashionbox</channel>
@@ -69,12 +67,13 @@
     <channel update="i" site="tvmustra.hu" site_id="FILMBOXARTHOUSE" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
     <channel update="i" site="tvmustra.hu" site_id="FILMBOXHD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="FILMBOXFAMILY" xmltv_id="Filmbox Family">Filmbox Family</channel>
-    <channel update="i" site="tvmustra.hu" site_id="FILMBOXPLUS" xmltv_id="Filmbox Plus">Filmbox Plus</channel>
     <channel update="i" site="tvmustra.hu" site_id="FILMBOXPREMIUM" xmltv_id="FilmBox Prémium">FilmBox Prémium</channel>
+    <channel update="i" site="tvmustra.hu" site_id="FILMBOXSTARS" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
     <channel update="i" site="tvmustra.hu" site_id="FILMNOW" xmltv_id="FilmNow">FilmNow</channel>
     <channel update="i" site="tvmustra.hu" site_id="FINELIVING" xmltv_id="Fine Living">Fine Living</channel>
     <channel update="i" site="tvmustra.hu" site_id="FH" xmltv_id="Fishing and Hunting Channel">Fishing and Hunting Channel</channel>
     <channel update="i" site="tvmustra.hu" site_id="FITHD" xmltv_id="Fit HD">Fit HD</channel>
+    <channel update="i" site="tvmustra.hu" site_id="FIXTV" xmltv_id="FixTV HD">FixTV HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="FOODNETWORK" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="tvmustra.hu" site_id="FONIXTV" xmltv_id="Főnix Tv">Főnix Tv</channel>
     <channel update="i" site="tvmustra.hu" site_id="FTVHD" xmltv_id="FTV HD">FTV HD</channel>
@@ -91,7 +90,6 @@
     <channel update="i" site="tvmustra.hu" site_id="THEHISTORYCHANNEL" xmltv_id="History Channel">History Channel</channel>
     <channel update="i" site="tvmustra.hu" site_id="HISTORY2" xmltv_id="History2">History2</channel>
     <channel update="i" site="tvmustra.hu" site_id="HRT1" xmltv_id="HRT-1">HRT-1</channel>
-    <channel update="i" site="tvmustra.hu" site_id="HUMORPLUSZ" xmltv_id="Humor+">Humor+</channel>
     <channel update="i" site="tvmustra.hu" site_id="HUSTLERTV" xmltv_id="Hustler TV">Hustler TV</channel>
     <channel update="i" site="tvmustra.hu" site_id="ICONCERT" xmltv_id="iConcert HD">iConcert HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="DISCOVERYID" xmltv_id="ID: Investigation Discovery">ID: Investigation Discovery</channel>
@@ -99,15 +97,12 @@
     <channel update="i" site="tvmustra.hu" site_id="JIMJAM" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="tvmustra.hu" site_id="JOCKYTV" xmltv_id="Jocky TV">Jocky TV</channel>
     <channel update="i" site="tvmustra.hu" site_id="KIKA" xmltv_id="Kika">Kika</channel>
-    <channel update="i" site="tvmustra.hu" site_id="KIWITV" xmltv_id="KiWi TV">KiWi TV</channel>
-    <channel update="i" site="tvmustra.hu" site_id="LICHITV" xmltv_id="LiChi TV">LiChi TV</channel>
     <channel update="i" site="tvmustra.hu" site_id="LIFETV" xmltv_id="LifeTv">LifeTv</channel>
     <channel update="i" site="tvmustra.hu" site_id="M1HD" xmltv_id="m1 HD">m1 HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="M2HD" xmltv_id="m2 HD">m2 HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="M4" xmltv_id="m4">m4</channel>
+    <channel update="i" site="tvmustra.hu" site_id="M4_SPORT_PLUSZ" xmltv_id="m4sport+">m4sport+</channel>
     <channel update="i" site="tvmustra.hu" site_id="M5" xmltv_id="m5">m5</channel>
-    <channel update="i" site="tvmustra.hu" site_id="M1" xmltv_id="Magyar 1">Magyar 1</channel>
-    <channel update="i" site="tvmustra.hu" site_id="M2" xmltv_id="Magyar 2">Magyar 2</channel>
     <channel update="i" site="tvmustra.hu" site_id="MEZZO" xmltv_id="MEZZO">MEZZO</channel>
     <channel update="i" site="tvmustra.hu" site_id="MEZZOHD" xmltv_id="MEZZOHD">MEZZOHD</channel>
     <channel update="i" site="tvmustra.hu" site_id="MINIMAX" xmltv_id="Minimax">Minimax</channel>
@@ -118,7 +113,6 @@
     <channel update="i" site="tvmustra.hu" site_id="MR3BARTOK" xmltv_id="MR3-Bartók">MR3-Bartók</channel>
     <channel update="i" site="tvmustra.hu" site_id="MR4NEMZETISEGI" xmltv_id="MR4-Nemzetiségi">MR4-Nemzetiségi</channel>
     <channel update="i" site="tvmustra.hu" site_id="MR6DANKO" xmltv_id="MR6-Dankó">MR6-Dankó</channel>
-    <channel update="i" site="tvmustra.hu" site_id="MTVDANCE" xmltv_id="MTV Dance">MTV Dance</channel>
     <channel update="i" site="tvmustra.hu" site_id="MTVEURO" xmltv_id="MTV Euro">MTV Euro</channel>
     <channel update="i" site="tvmustra.hu" site_id="MTVHITS" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="tvmustra.hu" site_id="MTVHUNGARY" xmltv_id="MTV Hungary">MTV Hungary</channel>
@@ -138,6 +132,7 @@
     <channel update="i" site="tvmustra.hu" site_id="OZONETV" xmltv_id="OzoneTv">OzoneTv</channel>
     <channel update="i" site="tvmustra.hu" site_id="PARAMOUNT" xmltv_id="Paramount Channel">Paramount Channel</channel>
     <channel update="i" site="tvmustra.hu" site_id="PAXTV" xmltv_id="Pax TV">Pax TV</channel>
+    <channel update="i" site="tvmustra.hu" site_id="PESTITV" xmltv_id="Pesti TV">Pesti TV</channel>
     <channel update="i" site="tvmustra.hu" site_id="PLAYBOYTV" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel update="i" site="tvmustra.hu" site_id="PRIME" xmltv_id="Prime">Prime</channel>
     <channel update="i" site="tvmustra.hu" site_id="PRIVATETV" xmltv_id="Private TV">Private TV</channel>
@@ -172,11 +167,13 @@
     <channel update="i" site="tvmustra.hu" site_id="THEHISTORYCHANNELHD" xmltv_id="The History HD">The History HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="TLC" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="tvmustra.hu" site_id="TOLNATAJTV" xmltv_id="Tolnatáj TV">Tolnatáj TV</channel>
-    <channel update="i" site="tvmustra.hu" site_id="TRAVELCHANNEL" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="tvmustra.hu" site_id="TRAVELCHANNELHD" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="tvmustra.hu" site_id="RUSSIAN_KINO" xmltv_id="TV 1000 Russian Kino">TV 1000 Russian Kino</channel>
     <channel update="i" site="tvmustra.hu" site_id="TVPAPRIKA" xmltv_id="TV Paprika">TV Paprika</channel>
     <channel update="i" site="tvmustra.hu" site_id="TV2" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="tvmustra.hu" site_id="TV2COMEDY" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
+    <channel update="i" site="tvmustra.hu" site_id="TV2_KIDS" xmltv_id="TV2 Kids">TV2 Kids</channel>
+    <channel update="i" site="tvmustra.hu" site_id="TV2SEF" xmltv_id="TV2 Séf">TV2 Séf</channel>
     <channel update="i" site="tvmustra.hu" site_id="TV4" xmltv_id="TV4">TV4</channel>
     <channel update="i" site="tvmustra.hu" site_id="TV5MONDE" xmltv_id="TV5">TV5</channel>
     <channel update="i" site="tvmustra.hu" site_id="TVE" xmltv_id="TVE">TVE</channel>
