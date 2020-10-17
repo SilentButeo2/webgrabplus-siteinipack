@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.5 -- Jan van Straaten" site="musor.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.1 -- Jan van Straaten" site="musor.tv">
   <channels>
     <channel update="i" site="musor.tv" site_id="DUNA" xmltv_id="Duna TV (HD)">Duna TV (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DUNAWORLD" xmltv_id="Duna World (HD)">Duna World (HD)</channel>
@@ -21,8 +21,8 @@
     <channel update="i" site="musor.tv" site_id="FILMBOX_EXTRA_HD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
     <channel update="i" site="musor.tv" site_id="FILMBOX_PREMIUM" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
     <channel update="i" site="musor.tv" site_id="FILMBOXFAMILY" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel update="i" site="musor.tv" site_id="FILMBOX_STARS" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
     <channel update="i" site="musor.tv" site_id="FILMBOX" xmltv_id="Filmbox">Filmbox</channel>
-    <channel update="i" site="musor.tv" site_id="FILMBOXPLUS" xmltv_id="Filmbox Plus">Filmbox Plus</channel>
     <channel update="i" site="musor.tv" site_id="MOZIVERZUM" xmltv_id="Moziverzum (HD)">Moziverzum (HD)</channel>
     <channel update="i" site="musor.tv" site_id="MOZI_PLUSZ" xmltv_id="Mozi+ (HD)">Mozi+ (HD)</channel>
     <channel update="i" site="musor.tv" site_id="FILMPLUS" xmltv_id="film+ (HD)">film+ (HD)</channel>
@@ -35,7 +35,7 @@
     <channel update="i" site="musor.tv" site_id="SOROZAT" xmltv_id="Sorozat+">Sorozat+</channel>
     <channel update="i" site="musor.tv" site_id="COMEDY" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="musor.tv" site_id="COMEDY_CENTRAL_FAMILY" xmltv_id="Comedy Central Family">Comedy Central Family</channel>
-    <channel update="i" site="musor.tv" site_id="HUMOR_PLUSZ" xmltv_id="Humor+">Humor+</channel>
+    <channel update="i" site="musor.tv" site_id="TV2_COMEDY" xmltv_id="TV2 Comedy">TV2 Comedy</channel>
     <channel update="i" site="musor.tv" site_id="JOCKYTV" xmltv_id="Jocky TV">Jocky TV</channel>
     <channel update="i" site="musor.tv" site_id="AXN" xmltv_id="AXN (HD)">AXN (HD)</channel>
     <channel update="i" site="musor.tv" site_id="SONY_MAX" xmltv_id="Sony Max">Sony Max</channel>
@@ -56,7 +56,7 @@
     <channel update="i" site="musor.tv" site_id="NICKTOONS" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="musor.tv" site_id="NICKJR" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="musor.tv" site_id="JIMJAM" xmltv_id="JimJam">JimJam</channel>
-    <channel update="i" site="musor.tv" site_id="KIWI_TV" xmltv_id="Kiwi TV">Kiwi TV</channel>
+    <channel update="i" site="musor.tv" site_id="TV2_KIDS" xmltv_id="TV2 Kids">TV2 Kids</channel>
     <channel update="i" site="musor.tv" site_id="MTV_EURO" xmltv_id="MTV European">MTV European</channel>
     <channel update="i" site="musor.tv" site_id="DUCKTV" xmltv_id="Duck TV">Duck TV</channel>
     <channel update="i" site="musor.tv" site_id="DUCKHD" xmltv_id="Duck TV HD">Duck TV HD</channel>
@@ -67,14 +67,14 @@
     <channel update="i" site="musor.tv" site_id="DISCOVERYHD" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
     <channel update="i" site="musor.tv" site_id="DISCOVERY" xmltv_id="Discovery Channel (HD)">Discovery Channel (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DISCOVERYSCI" xmltv_id="Discovery Science (HD)">Discovery Science (HD)</channel>
-    <channel update="i" site="musor.tv" site_id="ID" xmltv_id="Investigation Discovery (HD)">Investigation Discovery (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="ID" xmltv_id="ID (HD)">ID (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DTX" xmltv_id="Discovery Turbo Xtra (DTX) (HD)">Discovery Turbo Xtra (DTX) (HD)</channel>
     <channel update="i" site="musor.tv" site_id="TLC" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="musor.tv" site_id="ANIMAL" xmltv_id="Animal Planet (HD)">Animal Planet (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="musor.tv" site_id="HISTORYHD" xmltv_id="History (HD)">History (HD)</channel>
     <channel update="i" site="musor.tv" site_id="HISTORY2" xmltv_id="History2">History2</channel>
     <channel update="i" site="musor.tv" site_id="TRAVEL" xmltv_id="Travel Channel (HD)">Travel Channel (HD)</channel>
-    <channel update="i" site="musor.tv" site_id="VIASAT_NATURE_HISTORY_HD" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
     <channel update="i" site="musor.tv" site_id="VIASATEXP" xmltv_id="Viasat Explore (HD)">Viasat Explore (HD)</channel>
     <channel update="i" site="musor.tv" site_id="VIASATNAT" xmltv_id="Viasat Nature (HD)">Viasat Nature (HD)</channel>
     <channel update="i" site="musor.tv" site_id="VIASATHIST" xmltv_id="Viasat History (HD)">Viasat History (HD)</channel>
@@ -84,6 +84,7 @@
     <channel update="i" site="musor.tv" site_id="SPEKTRUMHOME" xmltv_id="Spektrum Home">Spektrum Home</channel>
     <channel update="i" site="musor.tv" site_id="PAPRIKA" xmltv_id="TV Paprika (HD)">TV Paprika (HD)</channel>
     <channel update="i" site="musor.tv" site_id="FOODNETWORK" xmltv_id="Food Network (HD)">Food Network (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="TV2_SEF" xmltv_id="TV2 Séf">TV2 Séf</channel>
     <channel update="i" site="musor.tv" site_id="LICHI_TV" xmltv_id="LiChi TV">LiChi TV</channel>
     <channel update="i" site="musor.tv" site_id="CBSREALITY" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="musor.tv" site_id="DIGIWORLD" xmltv_id="DIGI World (HD)">DIGI World (HD)</channel>
@@ -101,6 +102,7 @@
     <channel update="i" site="musor.tv" site_id="DIKH_TV" xmltv_id="Dikh TV">Dikh TV</channel>
     <channel update="i" site="musor.tv" site_id="E_ENTERTAINMENT" xmltv_id="E! Entertainment (HD)">E! Entertainment (HD)</channel>
     <channel update="i" site="musor.tv" site_id="M4_SPORT" xmltv_id="M4 Sport (HD)">M4 Sport (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="M4_SPORT_PLUSZ" xmltv_id="M4 Sport+ (HD)">M4 Sport+ (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DIGISPORT1" xmltv_id="DIGI Sport 1 (HD)">DIGI Sport 1 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DIGISPORT2" xmltv_id="DIGI Sport 2 (HD)">DIGI Sport 2 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DIGISPORT3" xmltv_id="DIGI Sport 3 (HD)">DIGI Sport 3 (HD)</channel>
@@ -110,6 +112,7 @@
     <channel update="i" site="musor.tv" site_id="EUROSPORT2" xmltv_id="Eurosport 2 (HD)">Eurosport 2 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="SPILER_TV" xmltv_id="Spíler1 TV (HD)">Spíler1 TV (HD)</channel>
     <channel update="i" site="musor.tv" site_id="SPILER2_TV" xmltv_id="Spíler2 TV (HD)">Spíler2 TV (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="ARENA4" xmltv_id="Arena 4 (HD)">Arena 4 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="EXTREMESP" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
     <channel update="i" site="musor.tv" site_id="FISHING_HUNTING" xmltv_id="Fishing &amp; Hunting Channel (HD)">Fishing &amp; Hunting Channel (HD)</channel>
     <channel update="i" site="musor.tv" site_id="FIT_HD" xmltv_id="Fit HD">Fit HD</channel>
@@ -119,8 +122,10 @@
     <channel update="i" site="musor.tv" site_id="MTVHU" xmltv_id="MTV Hungary">MTV Hungary</channel>
     <channel update="i" site="musor.tv" site_id="MTVLIVEHD" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="musor.tv" site_id="MTVHITS" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="musor.tv" site_id="MTVDANCE" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="musor.tv" site_id="CLUB_MTV" xmltv_id="club MTV">club MTV</channel>
     <channel update="i" site="musor.tv" site_id="MTVROCKS" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="musor.tv" site_id="MTV90S" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="musor.tv" site_id="MTV80S" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="musor.tv" site_id="VH1" xmltv_id="VH-1">VH-1</channel>
     <channel update="i" site="musor.tv" site_id="VH1CLASSIC" xmltv_id="VH-1 Classic">VH-1 Classic</channel>
     <channel update="i" site="musor.tv" site_id="TOTALDANCE_TV" xmltv_id="Total Dance TV">Total Dance TV</channel>
@@ -137,10 +142,12 @@
     <channel update="i" site="musor.tv" site_id="ATV" xmltv_id="ATV (HD)">ATV (HD)</channel>
     <channel update="i" site="musor.tv" site_id="HIRTV" xmltv_id="Hír TV">Hír TV</channel>
     <channel update="i" site="musor.tv" site_id="EURONEWS" xmltv_id="Euronews (HD)">Euronews (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="PESTI_TV" xmltv_id="Pesti TV">Pesti TV</channel>
     <channel update="i" site="musor.tv" site_id="BALATON_TV" xmltv_id="Balaton TV">Balaton TV</channel>
     <channel update="i" site="musor.tv" site_id="KOLCSEY_TV" xmltv_id="Kölcsey TV">Kölcsey TV</channel>
     <channel update="i" site="musor.tv" site_id="7TV" xmltv_id="7.TV">7.TV</channel>
     <channel update="i" site="musor.tv" site_id="KAPOS_TV" xmltv_id="Kapos TV">Kapos TV</channel>
+    <channel update="i" site="musor.tv" site_id="ZEG_TV" xmltv_id="Zalaegerszegi TV">Zalaegerszegi TV</channel>
     <channel update="i" site="musor.tv" site_id="FEHERVAR_TV" xmltv_id="Fehérvár TV">Fehérvár TV</channel>
     <channel update="i" site="musor.tv" site_id="SZEGED_TV" xmltv_id="Szeged TV">Szeged TV</channel>
     <channel update="i" site="musor.tv" site_id="HEGYVIDEK_TV" xmltv_id="Hegyvidék TV">Hegyvidék TV</channel>
@@ -161,7 +168,7 @@
     <channel update="i" site="musor.tv" site_id="NICKELODEONHD" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel update="i" site="musor.tv" site_id="SMILE_JUCE" xmltv_id="Smile / Juce TV">Smile / Juce TV</channel>
     <channel update="i" site="musor.tv" site_id="FTVHD" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
-    <channel update="i" site="musor.tv" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="musor.tv" site_id="ENGLISH_CLUB_TV" xmltv_id="English Club TV">English Club TV</channel>
     <channel update="i" site="musor.tv" site_id="MR1" xmltv_id="Kossuth Rádió">Kossuth Rádió</channel>
     <channel update="i" site="musor.tv" site_id="MR2" xmltv_id="Petőfi Rádió">Petőfi Rádió</channel>
     <channel update="i" site="musor.tv" site_id="MR3" xmltv_id="Bartók Rádió">Bartók Rádió</channel>
