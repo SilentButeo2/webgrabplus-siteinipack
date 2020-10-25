@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.1 -- Jan van Straaten" site="cinemagia.ro">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.2.2 -- Jan van Straaten" site="cinemagia.ro">
   <channels>
     <channel update="i" site="cinemagia.ro.E" site_id="pro-tv" xmltv_id="PRO TV">PRO TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="antena-1" xmltv_id="Antena 1">Antena 1</channel>
@@ -42,6 +42,7 @@
     <channel update="i" site="cinemagia.ro.E" site_id="valea-prahovei-tv" xmltv_id="Valea Prahovei TV">Valea Prahovei TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="vtv" xmltv_id="VTV">VTV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="aleph-news" xmltv_id="Aleph News">Aleph News</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="antena-3-hd" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
@@ -52,7 +53,6 @@
     <channel update="i" site="cinemagia.ro.E" site_id="e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="kabel-1" xmltv_id="Kabel 1">Kabel 1</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="look-plus" xmltv_id="LOOK PLUS">LOOK PLUS</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="luxe-tv" xmltv_id="LUXE TV">LUXE TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="national-24-plus" xmltv_id="National 24 Plus">National 24 Plus</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="profit-ro" xmltv_id="Profit.ro">Profit.ro</channel>
@@ -70,13 +70,16 @@
     <channel update="i" site="cinemagia.ro.E" site_id="digi-sport-4" xmltv_id="Digi Sport 4">Digi Sport 4</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="eurosport-4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="extreme-sports-channel" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="look-sport" xmltv_id="LOOK SPORT">LOOK SPORT</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="look-sport-plus" xmltv_id="LOOK SPORT +">LOOK SPORT +</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="look-sport-2" xmltv_id="LOOK SPORT 2">LOOK SPORT 2</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="look-sport-3" xmltv_id="LOOK SPORT 3">LOOK SPORT 3</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="pro-x" xmltv_id="PRO X">PRO X</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="sport-extra" xmltv_id="Sport Extra">Sport Extra</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-1" xmltv_id="Telekom Sport 1">Telekom Sport 1</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-2" xmltv_id="Telekom Sport 2">Telekom Sport 2</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-3" xmltv_id="Telekom Sport 3">Telekom Sport 3</channel>
@@ -106,8 +109,8 @@
     <channel update="i" site="cinemagia.ro.E" site_id="filmbox" xmltv_id="Filmbox">Filmbox</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="filmbox-arthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="filmbox-family" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="filmbox-plus" xmltv_id="Filmbox Plus">Filmbox Plus</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="filmbox-premium" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="filmbox-stars" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="film-cafe" xmltv_id="FILMCAFE">FILMCAFE</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="happy-channel" xmltv_id="Happy Channel">Happy Channel</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="happy-channel-hd" xmltv_id="Happy Channel HD">Happy Channel HD</channel>
@@ -130,8 +133,8 @@
     <channel update="i" site="cinemagia.ro.E" site_id="fine-living" xmltv_id="Fine Living">Fine Living</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="france-2" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="france-24" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="france-24-en" xmltv_id="France 24 En">France 24 En</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="france-24-fr" xmltv_id="France 24 Fr">France 24 Fr</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="france-3" xmltv_id="France 3">France 3</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="france-5" xmltv_id="France 5">France 5</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="ginx" xmltv_id="Ginx">Ginx</channel>
@@ -161,6 +164,7 @@
     <channel update="i" site="cinemagia.ro.E" site_id="zdf-kultur" xmltv_id="ZDF kultur">ZDF kultur</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="zdf-neo" xmltv_id="ZDF neo">ZDF neo</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="balkanika-tv" xmltv_id="Balkanika TV">Balkanika TV</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="club-mtv" xmltv_id="Club MTV">Club MTV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="etno-tv" xmltv_id="Etno TV">Etno TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="favorit" xmltv_id="Favorit">Favorit</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="hit-music-channel" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
@@ -172,10 +176,10 @@
     <channel update="i" site="cinemagia.ro.E" site_id="mooz-hd" xmltv_id="Mooz HD">Mooz HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="mooz-hits" xmltv_id="Mooz Hits">Mooz Hits</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="mooz-ro" xmltv_id="Mooz Ro">Mooz Ro</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="mtv-dance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="mtv-europe" xmltv_id="MTV Europe">MTV Europe</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="mtv-rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="music-channel" xmltv_id="Music Channel">Music Channel</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="muzsika-tv" xmltv_id="Muzsika TV">Muzsika TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="rock-tv" xmltv_id="Rock TV">Rock TV</channel>
@@ -184,7 +188,6 @@
     <channel update="i" site="cinemagia.ro.E" site_id="taraf-tv" xmltv_id="Taraf TV">Taraf TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="utv" xmltv_id="UTV">UTV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="vh1" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="zu-tv" xmltv_id="ZU TV">ZU TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="zu-tv-hd" xmltv_id="ZU TV HD">ZU TV HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
@@ -192,21 +195,23 @@
     <channel update="i" site="cinemagia.ro.E" site_id="arcadia-tv" xmltv_id="Arcadia TV">Arcadia TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="cinethronix" xmltv_id="Cinethronix">Cinethronix</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="crime-investigation-network" xmltv_id="Crime &amp; Investigation Network">Crime &amp; Investigation Network</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="crime-investigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="davinci-learning" xmltv_id="DaVinci Learning">DaVinci Learning</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="digi-animal-world" xmltv_id="Digi Animal World">Digi Animal World</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="digi-life" xmltv_id="Digi Life">Digi Life</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="digi-world" xmltv_id="Digi World">Digi World</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="history" xmltv_id="History">History</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="id-investigation-discovery" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="m4-sport" xmltv_id="M4 Sport">M4 Sport</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="medika-tv" xmltv_id="Medika TV">Medika TV</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="museum-hd" xmltv_id="Museum HD">Museum HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="nat-geo-people" xmltv_id="Nat Geo People">Nat Geo People</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="the-fishing-and-hunting-channel" xmltv_id="The Fishing &amp; Hunting Channel">The Fishing &amp; Hunting Channel</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="the-museum-channel-hd" xmltv_id="The Museum Channel HD">The Museum Channel HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="travel-mix" xmltv_id="Travel Mix">Travel Mix</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
@@ -219,7 +224,6 @@
     <channel update="i" site="cinemagia.ro.E" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="duck-tv" xmltv_id="Duck TV">Duck TV</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="jimjam" xmltv_id="Jimjam">Jimjam</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="megamax" xmltv_id="Megamax">Megamax</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
@@ -229,12 +233,15 @@
     <channel update="i" site="cinemagia.ro.E" site_id="hbo-2-hd" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="tvr-2-hd" xmltv_id="TVR 2 HD">TVR 2 HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="amc-hd" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="antena-stars-hd" xmltv_id="Antena Stars HD">Antena Stars HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="auto-motor-und-sport-channel-hd" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="bbc-world-news-hd" xmltv_id="BBC World News HD">BBC World News HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="cinemax-2-hd" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="cinemax-hd" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="digi-animal-world-hd" xmltv_id="Digi Animal World HD">Digi Animal World HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="digi-life-hd" xmltv_id="Digi Life HD">Digi Life HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="digi-sport-1-hd" xmltv_id="Digi Sport 1 HD">Digi Sport 1 HD</channel>
@@ -256,6 +263,7 @@
     <channel update="i" site="cinemagia.ro.E" site_id="fight-box-hd" xmltv_id="Fight Box HD">Fight Box HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="film-now-hd" xmltv_id="Film Now HD">Film Now HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="food-network-hd" xmltv_id="Food Network HD">Food Network HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="fuel-tv-hd" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="fun-box" xmltv_id="Fun Box">Fun Box</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="hbo-3-hd" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
@@ -263,7 +271,7 @@
     <channel update="i" site="cinemagia.ro.E" site_id="iconcerts-hd" xmltv_id="iConcerts HD">iConcerts HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="id-xtra-hd" xmltv_id="ID Investigation Discovery HD">ID Investigation Discovery HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="kanal-d-hd" xmltv_id="Kanal D HD">Kanal D HD</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="look-plus-hd" xmltv_id="LOOK PLUS HD">LOOK PLUS HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="look-sport-plus-hd" xmltv_id="LOOK SPORT + HD">LOOK SPORT + HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="look-sport-2-hd" xmltv_id="LOOK SPORT 2 HD">LOOK SPORT 2 HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="look-sport-3-hd" xmltv_id="LOOK SPORT 3 HD">LOOK SPORT 3 HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="look-sport-hd" xmltv_id="LOOK SPORT HD">LOOK SPORT HD</channel>
@@ -272,6 +280,7 @@
     <channel update="i" site="cinemagia.ro.E" site_id="motorvision-hd" xmltv_id="Motorvision HD">Motorvision HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="myzen-hd" xmltv_id="MyZen HD">MyZen HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="nat-geo-people-hd" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
@@ -279,14 +288,15 @@
     <channel update="i" site="cinemagia.ro.E" site_id="pro-x-hd" xmltv_id="PRO X HD">PRO X HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="rock-tv-hd" xmltv_id="Rock TV HD">Rock TV HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="rtl-klub-hd" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="sport-extra-hd" xmltv_id="Sport Extra HD">Sport Extra HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-1-hd" xmltv_id="Telekom Sport 1 HD">Telekom Sport 1 HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="the-fishing-and-hunting-channel-hd" xmltv_id="The Fishing &amp; Hunting Channel HD">The Fishing &amp; Hunting Channel HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="tnt-hd" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="cinemagia.ro.E" site_id="trace-caribbean" xmltv_id="Trace Caribbean">Trace Caribbean</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="trace-sport-stars" xmltv_id="TRACE Sport Stars HD">TRACE Sport Stars HD</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="trace-tropical-hd" xmltv_id="Trace Tropical HD">Trace Tropical HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="utv-hd" xmltv_id="UTV HD">UTV HD</channel>
-    <channel update="i" site="cinemagia.ro.E" site_id="viasat-nature-history-hd" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="brazzers-tv-europe" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
     <channel update="i" site="cinemagia.ro.E" site_id="dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
