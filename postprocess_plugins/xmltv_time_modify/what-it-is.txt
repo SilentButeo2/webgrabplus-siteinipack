@@ -1,0 +1,13 @@
+xmltv_time_modify.exe is a simple tool for correction of program timings in XMLTV guides. Users can adjust the programs' start/end times of any channel by adding/subtracting hours and minutes or simply converting all timings to local time. The tool can also be used as a posprocess plugin to WebGrab+Plus
+
+For instance, this command will convert all channels to user local time:
+xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:local
+ 
+This command will +1 hour and 30 minutes correction to channel HBO:
+xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:+01:30 /channels:"HBO" 
+
+For detailed information of how the program works and what arguments it accepts, run "xmltv_time_modify.exe /?"
+or read the help.txt
+
+Example of use in  WebGrab+Plus plugin  .. add this to the webgrab++.config:
+<postprocess run="y" grab="y or n" >xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:local</postprocess> 
