@@ -1,0 +1,14 @@
+Beta releases (evaluation-builds)
+It's always a good practice to back up your files, before the installation of a beta release. 
+
+1. Windows environment :
+If Webgraplus has been installed thru the installer, files are located in C:\Program Files (x86)\WebGrab+Plus\bin, backup the folder bin or all the files contained.
+Then just overwrite all the files .exe .dll etc. etc with the one contained in the zip file downloaded from github https://github.com/SilentButeo2/webgrabplus-siteinipack/tree/master/evaluation-builds.
+First run you will be asked to authorize the new app to run, click on more info and then run anyway.
+
+2. Linux
+Is pretty much the same procedure of windows, files are usually located in /home/username/Desktop/.wg++/bin unless you have changed location.
+Backup the contenent of .wg++/bin folder. 
+Then just overwrite all the files .exe .dll etc. etc with the one contained in the zip file downloaded from github https://github.com/SilentButeo2/webgrabplus-siteinipack/tree/master/evaluation-builds.
+Make sure the .exe file have permission 755
+
