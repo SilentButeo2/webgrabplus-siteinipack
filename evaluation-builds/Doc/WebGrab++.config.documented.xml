@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Configuration file for WebGrab+Plus, the incremental Electronic-Program-Guide web grabber
+Version 4 ... by Jan van Straaten, Februari 2020
+Webgrab+Plus Version V3.0.0 -->
+<!--Changed wrt V2.1.9 : <decryptkey> and <update>c</update> ,  needs Webgrab+Plus version 2.1.9 or higher. -->
+<!--Changed wrt V3.0.1 : <license> needs Webgrab+Plus version 3.0.0 or higher. -->
+
+<!--This configuration file can be made fully functional, change the settings to your own needs as explained and save it in the WebGrab+Plus homefolder as Webgrab++.config.xl-->
+
+<settings>
+<!--filename:
+The path (obtional) + filename where the EPG-guide xml file is /will be located. Path can be specified absolute, like 
+<filename>C:\ProgramData\ServerCare\WebGrab\guide.xml</filename>
+or relative to the path of this config file (WebGrab++.config.xml), like (if guide.xml is in the same folder as the config file) :
+<filename>guide.xml</filename>
+If the file already exist (from last run or from another xmltv source) it will read it and use what fits the requested output. In that case the file will be updated. If no such file exist it will be created.
+Change the following to your own needs:   -->
+<filename>guide.xml</filename>
+
+<!--modes:
+d or debug    : saves the output xmltv file in a file with -debug addition in the file name .
+              : The original xmltv file will be kept.  
+m or measure  : measures the time for each updated show or new show added 
+n = nomark    : disables the udate-type marking (n) (c) (g) (r) at the end of the description
+v or verify   : verifies the result following a channel update
+w or wget     : no longer supported!
+Note that modes can be added in one line, separated by comma's or spaces, or both. 
+Change the following to your own needs:  -->
+<mode>m, n</mode>
+
+<!--postprocess:
+Optional , specifies which of the available postprocesses should run.
+syntax: 
+<postprocess run="" grab="">processname</postprocess>
+(optional) grab="yes" or "y" or "true" or "on" : grabs epg first (default)      ; any other value or "" : skip epg grabbing 
+(optional) run="yes" or "y" or "true" or "on"  : runs the postprocess (default) ; any other value or "" : do not run postprocess
+processname: the process to run : 
+processname = mdb runs a build in movie database grabber (see mdb.config.documentation.xml)
+processname = rex runs a postprocess that re-allocates xmltv elements (see rex.config.documantation.xml)
+examples:
+  <postprocess run="on" grab="on">mdb</postprocess>  grabs first , then run mdb
+  <postprocess>mdb</postprocess>  same as above (uses defaults for grab and run)
+  <postprocess grab="no">rex</postprocess>  runs rex without grab (existing xmltv file)
+Change the following to your own needs:  -->
+<postprocess run="no" grab="y">mdb</postprocess>
+
+<!-- proxy:
+This setting is only required if your computer is connected to internet behind a proxy
+specify proxy address as ip:port like <proxy>192.168.2.4:8080</proxy>
+or as <proxy>automatic</proxy> which attempts to read the proxy address from your connection settings. 
+If your proxy requires a username and password, add them like 
+<proxy user="username" password="password">192.168.2.4:8080</proxy>   
+Change the following to your own needs:  -->
+<proxy>automatic</proxy>
+
+
+<!-- user agent:
+The user agent string that is sent to the tvguide website. Some sites require this.   Valid values are either :
+<user-agent>Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)</user-agent> , or identifying WebGrab++
+<user-agent>WebGrab+Plus</user-agent> or 
+<user-agent>random</user-agent>, in which case the program generates a random string 
+Change the following to your own needs:  -->
+<user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+
+<!-- logging: 
+simply put 'on' in there to start console logging, anything else will turn it off -->
+<logging>on</logging>
+
+<!-- credentials: 
+For sites that require login with username and password. Multiple credential for different sites allowed 
+syntax:-->
+<!--<credentials user="username" password="password">site.com</credentials>-->
+
+<!-- decryptkey:
+For siteini's that are encrypted with a userkey needed to decrypt it
+site is the siteini name without .ini
+<decryptkey site="site-name">decrypt_userkey</decryptkey>
+e.g. <decryptkey site="a1.hr">eWc6b</decryptkey>  -->
+  
+<!-- license:
+From V3.0.1 onwards WG++ will run with settings depending the user status
+Enter your username , email and optional password* to benefit from these settings
+* password : recommended, will be provided on request by email. The addition of a password adds a layer of security that prevents that other users run wg++ with your wguser id.
+<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="optional-password" />
+-->  
+
+<!-- retry :
+The most simple form of retry defines the number of times the grabber engine should attempt to capture a web page before giving up and continuing with the next page, like <retry>4</retry>
+It is also the place to specify delays between retries and the grabbing of html pages with the following attributes: 
+- time-out; the delay between retries (default is 10 sec). Note that the program doubles this value for every next attempt! 
+- channel-delay; the delay between subsequent channels (default is 0), 
+- index-delay; the delay between the grabbing of index pages (default is 0), 
+- show-delay; the delay between the grabbing of detail show pages (default is 0). 
+In the most complete version it will look like this:
+<retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry>
+Change the following to your own needs:  -->
+<retry time-out="5">4</retry>
+
+<!--skip :
+Defines which shows to skip. It takes two values H,m  separated by a comma: 
+The first, H : if a show takes more than H hours, it's either tellsell or other commercial fluff, or simply a mistake or error, use this to skip such shows.
+The second, m : if a show is less or equal than m minutes it is probably an announcement , in any case not a real show. 
+When entered as <skip></skip> the defaults are 12 hours, 1 minute. To disable this function enter <skip>noskip</skip> or just leave out this entry completely
+Change the following to your own needs:  -->
+<skip>noskip</skip>
+
+<!--timespan :
+The timespan for which shows will be grabbed, starting from value 0 for today only up to a maximum of 30.
+With the optional attribute keeppastdays="n" it is possible to retain the epg of a number of past days in the listing 
+and with a timevalue between 0:00 and 24:00 in the optional attribute oneshowonly="HH:mm" the download can be limited to a single show (per day) which is scheduled around the specified time. Any value between start time (including) and stop time will do
+This -one-show-only mode is helpful if a SiteIni file needs to be debugged
+Change the following to your own needs: -->
+<timespan keeppastdays="" oneshowonly="">1</timespan>
+<!--Note that the syntax used before, without the new attributes (with a timespan value and the optional onshowonly timevalue separate by a space or a comma), will still be allowed:
+<timespan>n HH:mm</timespan> -->
+
+<!-- update mode :
+i or incremental     recommended!! only updates of changes , gaps, repairs and new shows
+l or light           forces update of today and new shows, rest as incremental
+s or smart           forces update of today and tomorrow and new shows, rest as light
+f or full or force   forces full update 
+c 					 will create a new channellist file for all the channels in the channel-list, epg grabbing disabled
+					 (update mode c works for most of the siteini's, not all!!) 
+If one of these values is entered here it will apply to all channels selected for update 
+(see channel).  This value overrules the value of 'update' for in the individual channels 
+If no value is entered here the individual 'update' values from the channellist are taken 
+Change the following to your own needs:  -->
+<update></update>
+
+<!-- The channel-list :
+Each channel to be grabbed has a separate entry in the list, the most common form is: 
+<channel update=".." site=".." site_id=".." xmltv_id=".."  >display-name</channel> 
+Besides this form, there is a possibility to specify special channels like ‘combi-channels’ and ‘timeoffset-channels’, see further down for more information-->
+<!-- Channel list files : 
+The easiest way to compose this channel-list is to copy the required channels from the channel-list files which can be found in the SiteIni.Pack for nearly every supported tvguide site. -->
+<!-- update :
+The mode values here can be set for each channel differently if not overruled by the general update setting (see above). Allowed values are as the same as the general update setting. Any other value will be ignored.  If any of the allowed values of 'update' is entered, this channel will be updated , no value no update ! In that case the epg data of that channel will remain as it is.  
+Value "c" will create a new channellist file for this channel only and disables epg grabbing -->
+<!-- site:
+The website to be used to get the EPG from. The value entered here is the name of the .ini file that supplies the specific parameters for the site without .ini extension.
+e.g tvgids.nl.ini becomes site="tvgids.nl" and gids.publiekeomroep.nl.ini becomes site="gids.publiekeomroep.nl"-->
+<!-- site_id: 
+This is the number or text used by the site as reference to the correct html page for this channel. It is used by the program to compose the url for the shows for a channel. For nearly all sites supported by the program a channel-list file is provided in the SiteIni-pack. It list most of the available channels including this site_id -->
+<!-- xmltv_id :
+The xmltv_id can be any string that suits your needs, you will find it back as the "channel" in your xml file as in: <programme start="20100218072500 +0200" stop="20100218075500 +0200" channel="RTL7-id"> -->
+<!-- display-name: 
+This will be used in the xmltv file to give the channel’s displayname. That is the name the epgprogram will use to display the channel. Give it any value you like. It is no problem if site_id, xmltv_id and display-name are equal-->
+<!-- Important ! 
+Be aware that all channels entered here will be included in the xmltv channel table even if no update is requested. This allows the update of individual channels without affecting the data of the others in the list. A channel not in this list will be removed from your xmltv listing together with all the show data of it if found there by WebGrab+Plus. (If you use WebGrab+Plus with a xmltv input file from another source, it will remove all data from channels not in this list and create an entry for new channels)
+WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file
+Change the following to your own needs:  -->
+<channel update="i" site="horizon.tv" site_id="NL/nld_24443942983" xmltv_id="NPO 1 HD">NPO 1 HD</channel>
+<channel update="i" site="canalsat.fr" site_id="18" xmltv_id="MEZZO">MEZZO</channel> 
+<channel update="f" site="tvgids.tv" site_id="ketnet-canvas" xmltv_id="Canvas">Canvas</channel>
+
+<!-- channels :
+Optional Channel grouping:
+As option it is possible to group certain channels from the channel list explained above. That way most of the other configuration settings can be made specific for the channels in that group.
+syntax :
+<channels name="groupname">
+ (name is optional)
+ (specify any of the following settings - timespan - update - user-agent  - retry  - proxy), like:
+<channels>
+   <retry time-out="10">10</retry>
+   <timespan>3</timespan>
+   <channel update="f" site="tvgids.tv" site_id="ketnet-canvas" xmltv_id="Canvas">Canvas</channel>
+   <channel ...
+</channels>
+Any number of groups eventually mixed with non- grouped channels is allowed --> 
+
+<!-- Timeoffset-channels:
+Some sites list channels that differ only from another through a time difference. Instead of grabbing the epg separately it is posible to just copy and timeshift the ‘source´channel with a special channel specification. 
+For that use the attributes same_as  and  offset as follows: -->
+<!--Example of timeoffset-channels : 
+<channel update="i" site="laguiatv.com" site_id="Canal +" xmltv_id="Canal +">Canal +</channel>
+<channel same_as="Canal +" offset="2" xmltv_id="Canal + 2">Canal + 2</channel> -->
+<!--The source channel (here ="Canal +") must always be listed before the timeoffset-channel (here "Canal + 2") The offset can also be negative like offset="-1" -->
+
+<!-- Combi-channels:
+With these one can combine parts several channels in combi-channel. These parts can consist of daytime periods or shows with certain subjects. Please refer to Combi-Channels-Guide.txt available @ http://www.webgrabplus.com/sites/default/files/download/documentation/Set%20of%20help%20files/help-files.zip, for more info. The arguments period, include/exclude and site_channel can be used to specify these 'combi-channels' See the separate guide how -->
+<!-- Example of a combi-channel:
+<channel update="i" site="tvgids.nl" site_id="40" site_channel="AT5" xmltv_id="CombiChannel_Id" period="00:00-06:00" >CombiChannel_Name</channel>
+<channel update="i" site="gids.publiekeomroep.nl" site_id="67" site_channel="RTL8" xmltv_id="CombiChannel_Id" period="06:00-24:00" >CombiChannel_Name</channel>
+<channel update="i" site="tvgids.upc.nl" site_id="Ered.+live+2" site_channel="EredivisieLive2" xmltv_id="CombiChannel_Id" exclude="Eredivisie Live Tekst TV">CombiChannel_Name</channel>
+-->
+</settings>
