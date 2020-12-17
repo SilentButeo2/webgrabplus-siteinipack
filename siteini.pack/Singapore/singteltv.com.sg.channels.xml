@@ -1,168 +1,165 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.11 -- Jan van Straaten" site="singteltv.com.sg">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="singteltv.com.sg">
   <channels>
-    <channel update="i" site="singteltv.com.sg" site_id="1" xmltv_id="1 Preview Channel (HD)">1 Preview Channel (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="2" xmltv_id="2 Ch 5 (HD)">2 Ch 5 (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="3" xmltv_id="3 Ch 8 (HD)">3 Ch 8 (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="4" xmltv_id="4 Suria (HD)">4 Suria (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="5" xmltv_id="5 Vasantham (HD)">5 Vasantham (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="6" xmltv_id="6 CNA (HD)">6 CNA (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="7" xmltv_id="7 Ch U (HD)">7 Ch U (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="102" xmltv_id="102 (HD) mio Stadium">102 (HD) mio Stadium</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="103" xmltv_id="103 (HD) mio Stadium 103">103 (HD) mio Stadium 103</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="104" xmltv_id="104 (HD) mio Stadium 104">104 (HD) mio Stadium 104</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="105" xmltv_id="105 (HD) mio Stadium 105">105 (HD) mio Stadium 105</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="106" xmltv_id="106 (HD) mio Stadium 106">106 (HD) mio Stadium 106</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="107" xmltv_id="107 (HD) mio Stadium 107">107 (HD) mio Stadium 107</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="108" xmltv_id="108 (HD) mio Stadium 108">108 (HD) mio Stadium 108</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="109" xmltv_id="109 beIN SPORTS (HD)">109 beIN SPORTS (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="110" xmltv_id="110 beIN Sports MAX (HD)">110 beIN Sports MAX (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="111" xmltv_id="111 mio Sports">111 mio Sports</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="112" xmltv_id="112 mio Sports 2">112 mio Sports 2</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="113" xmltv_id="113 mio Sports 3">113 mio Sports 3</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="114" xmltv_id="114 FOX SPORTS (HD)">114 FOX SPORTS (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="115" xmltv_id="115 FOX SPORTS 2 (HD)">115 FOX SPORTS 2 (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="116" xmltv_id="116 FOX SPORTS 3 (HD)">116 FOX SPORTS 3 (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="119" xmltv_id="119 Fight Sports (HD)">119 Fight Sports (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="120" xmltv_id="120 eGG Network">120 eGG Network</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="122" xmltv_id="122 TEN Cricket">122 TEN Cricket</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="123" xmltv_id="123 (HD) STAR Cricket">123 (HD) STAR Cricket</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="124" xmltv_id="124 STAR Cricket Plus">124 STAR Cricket Plus</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="125" xmltv_id="125 Cricket PLUS">125 Cricket PLUS</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="151" xmltv_id="151 Sky News HD">151 Sky News HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="155" xmltv_id="155 CGTN">155 CGTN</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="157" xmltv_id="157 NHK World - Japan">157 NHK World - Japan</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="159" xmltv_id="159 France 24 (English)">159 France 24 (English)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="161" xmltv_id="161 DW (English)">161 DW (English)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="163" xmltv_id="163 Russia Today">163 Russia Today</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="165" xmltv_id="165 FOX News Channel">165 FOX News Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="167" xmltv_id="167 CNN International">167 CNN International</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="169" xmltv_id="169 HLN">169 HLN</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="171" xmltv_id="171 Bloomberg TV (HD)">171 Bloomberg TV (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="173" xmltv_id="173 CNBC Asia">173 CNBC Asia</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="201" xmltv_id="201 Nat Geo (HD)">201 Nat Geo (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="202" xmltv_id="202 Discovery Ch (HD)">202 Discovery Ch (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="204" xmltv_id="204 Discovery Asia (HD)">204 Discovery Asia (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="205" xmltv_id="205 Discovery Sci (HD)">205 Discovery Sci (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="206" xmltv_id="206 C+I (HD)">206 C+I (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="207" xmltv_id="207 Nat Geo Wild HD">207 Nat Geo Wild HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="208" xmltv_id="208 Animal Planet (HD)">208 Animal Planet (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="209" xmltv_id="209 HISTORY (HD)">209 HISTORY (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="210" xmltv_id="210 HISTORY2 (HD)">210 HISTORY2 (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="211" xmltv_id="211 CGTN-Documentary">211 CGTN-Documentary</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="226" xmltv_id="226 Cartoon Network (HD)">226 Cartoon Network (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="228" xmltv_id="228 Boomerang (HD)">228 Boomerang (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="232" xmltv_id="232 Disney XD (HD)">232 Disney XD (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="234" xmltv_id="234 Disney Channel (HD)">234 Disney Channel (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="236" xmltv_id="236 Disney Junior">236 Disney Junior</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="238" xmltv_id="238 Nick Jr.">238 Nick Jr.</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="240" xmltv_id="240 Nickelodeon Asia HD">240 Nickelodeon Asia HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="243" xmltv_id="243 Kids Channel">243 Kids Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="244" xmltv_id="244 BabyTV (HD)">244 BabyTV (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="250" xmltv_id="250 HGTV (HD)">250 HGTV (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="251" xmltv_id="251 ABC Australia">251 ABC Australia</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="252" xmltv_id="252 Food Network (HD)">252 Food Network (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="253" xmltv_id="253 Travel Channel HD">253 Travel Channel HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="254" xmltv_id="254 TLC (HD)">254 TLC (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="255" xmltv_id="255 Nat Geo People HD">255 Nat Geo People HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="256" xmltv_id="256 AFN (HD)">256 AFN (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="257" xmltv_id="257 TRACE Sport Stars HD">257 TRACE Sport Stars HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="258" xmltv_id="258 DMAX (HD)">258 DMAX (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="259" xmltv_id="259 (HD) Outdoor Channel">259 (HD) Outdoor Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="268" xmltv_id="268 WAKUWAKU JAPAN (HD)">268 WAKUWAKU JAPAN (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="301" xmltv_id="301 FOX Life (HD)">301 FOX Life (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="302" xmltv_id="302 Lifetime (HD)">302 Lifetime (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="303" xmltv_id="303 DIVA HD">303 DIVA HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="304" xmltv_id="304 AXN (HD)">304 AXN (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="306" xmltv_id="306 Warner TV (HD)">306 Warner TV (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="309" xmltv_id="309 KIX HD">309 KIX HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="310" xmltv_id="310 FX HD">310 FX HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="313" xmltv_id="313 FOXCRIME HD">313 FOXCRIME HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="318" xmltv_id="318 Blue Ant ENT (HD)">318 Blue Ant ENT (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="324" xmltv_id="324 Comedy Central (HD)">324 Comedy Central (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="326" xmltv_id="326 HITS (HD)">326 HITS (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="328" xmltv_id="328 E! Entertainment HD">328 E! Entertainment HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="330" xmltv_id="330 FOX HD">330 FOX HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="340" xmltv_id="340 ANIPLUS HD">340 ANIPLUS HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="342" xmltv_id="342 Animax (HD)">342 Animax (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="349" xmltv_id="349 MTV LIVE HD">349 MTV LIVE HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="350" xmltv_id="350 MTV Asia (HD)">350 MTV Asia (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="352" xmltv_id="352 V HD International">352 V HD International</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="406" xmltv_id="406 FOX Family Movies HD">406 FOX Family Movies HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="408" xmltv_id="408 FOX Action Movies HD">408 FOX Action Movies HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="414" xmltv_id="414 FOX Movies HD">414 FOX Movies HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="415" xmltv_id="415 Thrill">415 Thrill</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="420" xmltv_id="420 HBO HD">420 HBO HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="421" xmltv_id="421 HBO Signature (HD)">421 HBO Signature (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="422" xmltv_id="422 HBO Family (HD)">422 HBO Family (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="423" xmltv_id="423 HBO Hits (HD)">423 HBO Hits (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="424" xmltv_id="424 CINEMAX (HD)">424 CINEMAX (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="425" xmltv_id="425 RED BY HBO (HD)">425 RED BY HBO (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="501" xmltv_id="501 e-Le (HD)">501 e-Le (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="502" xmltv_id="502 Jia Le Channel (HD)">502 Jia Le Channel (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="507" xmltv_id="507 STAR Chinese Ch (HD)">507 STAR Chinese Ch (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="511" xmltv_id="511 TVB Jade (HD)">511 TVB Jade (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="512" xmltv_id="512 now Jelli (HD)">512 now Jelli (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="513" xmltv_id="513 ONE HD (Mandarin)">513 ONE HD (Mandarin)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="516" xmltv_id="516 Xing Kong">516 Xing Kong</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="517" xmltv_id="517 TVB Xing He (HD)">517 TVB Xing He (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="518" xmltv_id="518 tvN HD (Mandarin)">518 tvN HD (Mandarin)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="519" xmltv_id="519 GEM (HD)">519 GEM (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="521" xmltv_id="521 ETTV Asia (HD)">521 ETTV Asia (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="523" xmltv_id="523 KBS World (HD)">523 KBS World (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="525" xmltv_id="525 Oh!K (Mandarin) (HD)">525 Oh!K (Mandarin) (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="531" xmltv_id="531 Entertainment Ch">531 Entertainment Ch</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="532" xmltv_id="532 CBO Channel">532 CBO Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="533" xmltv_id="533 Food and Health Ch">533 Food and Health Ch</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="547" xmltv_id="547 Channel V China">547 Channel V China</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="550" xmltv_id="550 MTV China">550 MTV China</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="555" xmltv_id="555 CCTV 4">555 CCTV 4</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="557" xmltv_id="557 CTI Asia (HD)">557 CTI Asia (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="561" xmltv_id="561 ETTV News">561 ETTV News</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="571" xmltv_id="571 SCM HD">571 SCM HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="573" xmltv_id="573 SCM Legend (HD)">573 SCM Legend (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="580" xmltv_id="580 CCM">580 CCM</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="585" xmltv_id="585 Celestial Movies(HD)">585 Celestial Movies(HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="602" xmltv_id="602 Astro Prima HD">602 Astro Prima HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="604" xmltv_id="604 ONE HD (Malay)">604 ONE HD (Malay)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="607" xmltv_id="607 Pesona HD">607 Pesona HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="608" xmltv_id="608 Astro Ria HD">608 Astro Ria HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="610" xmltv_id="610 Citra Drama (HD)">610 Citra Drama (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="611" xmltv_id="611 Oh!K (Malay) (HD)">611 Oh!K (Malay) (HD)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="618" xmltv_id="618 Drama Channel">618 Drama Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="619" xmltv_id="619 tvN HD">619 tvN HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="622" xmltv_id="622 Sun TV">622 Sun TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="623" xmltv_id="623 Colors Tamil HD">623 Colors Tamil HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="624" xmltv_id="624 Astro Vellithirai">624 Astro Vellithirai</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="626" xmltv_id="626 Astro Vinmeen HD">626 Astro Vinmeen HD</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="628" xmltv_id="628 Adithya TV">628 Adithya TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="632" xmltv_id="632 Zee Tamil">632 Zee Tamil</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="634" xmltv_id="634 Vijay">634 Vijay</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="640" xmltv_id="640 Surya TV">640 Surya TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="641" xmltv_id="641 Surya Movies">641 Surya Movies</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="644" xmltv_id="644 SET (HINDI)">644 SET (HINDI)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="646" xmltv_id="646 Zee TV">646 Zee TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="648" xmltv_id="648 SAB TV">648 SAB TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="652" xmltv_id="652 Colors">652 Colors</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="654" xmltv_id="654 Star Bharat">654 Star Bharat</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="656" xmltv_id="656 STAR Plus">656 STAR Plus</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="658" xmltv_id="658 MTV India">658 MTV India</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="662" xmltv_id="662 STAR Gold">662 STAR Gold</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="668" xmltv_id="668 Sony MAX">668 Sony MAX</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="670" xmltv_id="670 maa movies">670 maa movies</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="671" xmltv_id="671 Star Maa">671 Star Maa</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="673" xmltv_id="673 Gemini TV">673 Gemini TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="674" xmltv_id="674 Gemini Movies">674 Gemini Movies</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="676" xmltv_id="676 Times Now">676 Times Now</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="678" xmltv_id="678 NDTV 24x7">678 NDTV 24x7</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="679" xmltv_id="679 NDTV India">679 NDTV India</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="682" xmltv_id="682 NHK World Premium">682 NHK World Premium</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="686" xmltv_id="686 France 24 (French)">686 France 24 (French)</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="688" xmltv_id="688 GMA Pinoy TV">688 GMA Pinoy TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="689" xmltv_id="689 GMA Life TV">689 GMA Life TV</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="690" xmltv_id="690 GMA News TV Intl">690 GMA News TV Intl</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="692" xmltv_id="692 Lifestyle Network">692 Lifestyle Network</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="693" xmltv_id="693 The Filipino Channel">693 The Filipino Channel</channel>
-    <channel update="i" site="singteltv.com.sg" site_id="694" xmltv_id="694 ABS-CBN Sport+Action">694 ABS-CBN Sport+Action</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5512" xmltv_id="now Jelli (HD)">now Jelli (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5513" xmltv_id="Preview Channel">Preview Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5002" xmltv_id="Ch 5 (HD)">Ch 5 (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5003" xmltv_id="Ch 8 (HD)">Ch 8 (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5004" xmltv_id="Suria (HD)">Suria (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5516" xmltv_id="Xing Kong ">Xing Kong </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5517" xmltv_id="TVB Xing He (HD)">TVB Xing He (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5005" xmltv_id="Vasantham (HD)">Vasantham (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5006" xmltv_id="CNA (HD)">CNA (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5518" xmltv_id="tvN HD (Mandarin)">tvN HD (Mandarin)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5519" xmltv_id="GEM (HD)">GEM (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5007" xmltv_id="Ch U (HD)">Ch U (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5268" xmltv_id="okto (HD)">okto (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5521" xmltv_id="ETTV Asia (HD)">ETTV Asia (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5501" xmltv_id="Preview Channel">Preview Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5038" xmltv_id="KBS World (Mandarin) (HD)">KBS World (Mandarin) (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5525" xmltv_id="Oh!K (Mandarin) (HD)">Oh!K (Mandarin) (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5521" xmltv_id="ETTV Asia (HD)">ETTV Asia (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5120" xmltv_id="eGG Network">eGG Network</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6119" xmltv_id="Fight Sports (HD)">Fight Sports (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5119" xmltv_id="tvN Movies On Demand (HD)">tvN Movies On Demand (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5260" xmltv_id="TechStorm (HD)">TechStorm (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5531" xmltv_id="Entertainment Channel">Entertainment Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5532" xmltv_id="CBO Channel">CBO Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5533" xmltv_id="Food &amp; Health Channel">Food &amp; Health Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5534" xmltv_id="CCTV Entertainment">CCTV Entertainment</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5535" xmltv_id="Dragon TV Intl">Dragon TV Intl</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5547" xmltv_id="Channel [V] China ">Channel [V] China </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5550" xmltv_id="Channel [V] Taiwan">Channel [V] Taiwan</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5037" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5557" xmltv_id="CTI Asia (HD)">CTI Asia (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5046" xmltv_id="ETTV Asia News ">ETTV Asia News </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5571" xmltv_id="SCM HD">SCM HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5573" xmltv_id="SCM Legend (HD)">SCM Legend (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5580" xmltv_id="CCM">CCM</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5585" xmltv_id="Celestial Movies (HD)">Celestial Movies (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5602" xmltv_id="Astro Prima HD">Astro Prima HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5604" xmltv_id="Astro Citra On Demand">Astro Citra On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5038" xmltv_id="KBS World (HD)">KBS World (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5607" xmltv_id="Pesona HD">Pesona HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5610" xmltv_id="Astro World">Astro World</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5611" xmltv_id="Oh!K (Malay) (HD)">Oh!K (Malay) (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5102" xmltv_id="Recorded TV ">Recorded TV </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5103" xmltv_id="Bioskop Indonesia">Bioskop Indonesia</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5104" xmltv_id="(HD) mio Stadium 104">(HD) mio Stadium 104</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5268" xmltv_id="WAKUWAKU JAPAN (HD) (Malay)">WAKUWAKU JAPAN (HD) (Malay)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6105" xmltv_id="(HD) mio Stadium 105">(HD) mio Stadium 105</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5618" xmltv_id="Drama Channel">Drama Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6106" xmltv_id="(HD) mio Stadium 106">(HD) mio Stadium 106</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6107" xmltv_id="(HD) mio Stadium 107">(HD) mio Stadium 107</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6108" xmltv_id="tvN HD (Malay) On Demand">tvN HD (Malay) On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6109" xmltv_id="beIN SPORTS (HD)">beIN SPORTS (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5622" xmltv_id="Sun TV">Sun TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6110" xmltv_id="beIN SPORTS MAX (HD)">beIN SPORTS MAX (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5623" xmltv_id="Colors Tamil HD">Colors Tamil HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5111" xmltv_id="mio Sports">mio Sports</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5112" xmltv_id="Astro Vellithirai">Astro Vellithirai</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5625" xmltv_id="KTV HD">KTV HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5113" xmltv_id="mio Sports 3">mio Sports 3</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5114" xmltv_id="Astro Vinmeen HD">Astro Vinmeen HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5115" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5627" xmltv_id="Sun Music">Sun Music</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5116" xmltv_id="FOX Sports 3">FOX Sports 3</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5628" xmltv_id="Adithya TV">Adithya TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5118" xmltv_id="RugbyPass TV">RugbyPass TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6119" xmltv_id="Fight Sports (HD)">Fight Sports (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5120" xmltv_id="eGG Network">eGG Network</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5632" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5634" xmltv_id="(HD) Outdoor Channel">(HD) Outdoor Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5123" xmltv_id="(HD) STAR Cricket">(HD) STAR Cricket</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5124" xmltv_id="STAR Cricket Plus">STAR Cricket Plus</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5125" xmltv_id="Cricket Plus">Cricket Plus</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5639" xmltv_id="mio Sports Plus">mio Sports Plus</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5640" xmltv_id="Surya TV">Surya TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5641" xmltv_id="Sports Illustrated">Sports Illustrated</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5644" xmltv_id="Oh!K (Korean) (HD)">Oh!K (Korean) (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5646" xmltv_id="Sports On Demand">Sports On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5648" xmltv_id="SAB TV">SAB TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5652" xmltv_id="Colors">Colors</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5654" xmltv_id="beIN SPORTS RUGBY (HD)">beIN SPORTS RUGBY (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5656" xmltv_id="STAR Plus">STAR Plus</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5658" xmltv_id="MTV India">MTV India</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5662" xmltv_id="STAR Gold">STAR Gold</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5151" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5155" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5668" xmltv_id="SONY MAX">SONY MAX</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5157" xmltv_id="NHK World – Japan (HD)">NHK World – Japan (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5670" xmltv_id="maa movies">maa movies</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5041" xmltv_id="France 24 (English)">France 24 (English)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5671" xmltv_id="Star Maa">Star Maa</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5161" xmltv_id="eTV">eTV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5673" xmltv_id="Gemini TV">Gemini TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5674" xmltv_id="Gemini Movies">Gemini Movies</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5045" xmltv_id="Russia Today ">Russia Today </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5676" xmltv_id="Times Now">Times Now</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5165" xmltv_id="News 18">News 18</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5678" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5167" xmltv_id="CNN International (HD)">CNN International (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5679" xmltv_id="NDTV India">NDTV India</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5169" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5682" xmltv_id="NHK World Premium">NHK World Premium</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5171" xmltv_id="Bloomberg Television (HD)">Bloomberg Television (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5173" xmltv_id="CNBC Asia">CNBC Asia</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5040" xmltv_id="France 24 (French) ">France 24 (French) </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5056" xmltv_id="GMA Pinoy TV ">GMA Pinoy TV </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5689" xmltv_id="GMA Life TV">GMA Life TV</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5692" xmltv_id="GMA Catch Up On Demand">GMA Catch Up On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5693" xmltv_id="The Filipino Channel">The Filipino Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6694" xmltv_id="ABS-CBN News Channel">ABS-CBN News Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5201" xmltv_id="National Geographic (HD) ">National Geographic (HD) </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5202" xmltv_id="Discovery Channel (HD)">Discovery Channel (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5204" xmltv_id="Discovery Asia (HD)">Discovery Asia (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5205" xmltv_id="Discovery Science (HD)">Discovery Science (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5206" xmltv_id="Crime + Investigation™ (HD)">Crime + Investigation™ (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5207" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5208" xmltv_id="Animal Planet (HD)">Animal Planet (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5209" xmltv_id="HISTORY™ (HD)">HISTORY™ (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5211" xmltv_id="Miao Mi">Miao Mi</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5233" xmltv_id="Toonami (HD)">Toonami (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5240" xmltv_id="Nick Jr. On Demand">Nick Jr. On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5243" xmltv_id="Kids Channel">Kids Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5250" xmltv_id="BabyTV On Demand">BabyTV On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5251" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5252" xmltv_id="Food Network (HD)">Food Network (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5021" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5254" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5255" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5256" xmltv_id="AFN (HD)">AFN (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5257" xmltv_id="TRACE Sports Stars HD">TRACE Sports Stars HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5258" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5119" xmltv_id="(HD) Outdoor Channel">(HD) Outdoor Channel</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5268" xmltv_id="FYI (HD)">FYI (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5301" xmltv_id="FOX Life (HD)">FOX Life (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5302" xmltv_id="Lifetime (HD)">Lifetime (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5304" xmltv_id="AXN (HD)">AXN (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5306" xmltv_id="Warner TV (HD)">Warner TV (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5054" xmltv_id="KIX HD">KIX HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5310" xmltv_id="FX (HD)">FX (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5324" xmltv_id="FOX Crime Play">FOX Crime Play</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5326" xmltv_id="HITS (HD)">HITS (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5330" xmltv_id="FOX HD ">FOX HD </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5340" xmltv_id="ITV Choice (HD)">ITV Choice (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5342" xmltv_id="Animax (HD)">Animax (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5349" xmltv_id="truTV (HD)">truTV (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5350" xmltv_id="MTV Asia">MTV Asia</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5352" xmltv_id="[V] HD International">[V] HD International</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5406" xmltv_id="Nat Geo Music HD">Nat Geo Music HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5408" xmltv_id="FOX Action Movies (HD)">FOX Action Movies (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5414" xmltv_id="FOX Movies (HD) ">FOX Movies (HD) </channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5415" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6420" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6421" xmltv_id="HBO Signature (HD)">HBO Signature (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6422" xmltv_id="HBO Family (HD)">HBO Family (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6423" xmltv_id="HBO Hits (HD)">HBO Hits (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6424" xmltv_id="CINEMAX (HD)">CINEMAX (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="6425" xmltv_id="RED BY HBO (HD)">RED BY HBO (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5501" xmltv_id="e-Le (HD)">e-Le (HD)</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5507" xmltv_id="Jia Le On Demand">Jia Le On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5510" xmltv_id="cHK On Demand">cHK On Demand</channel>
+    <channel update="i" site="singteltv.com.sg" site_id="5511" xmltv_id="TVB Jade (HD)">TVB Jade (HD)</channel>
   </channels>
 </site>
