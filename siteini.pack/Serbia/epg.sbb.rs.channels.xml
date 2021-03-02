@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.3 -- Jan van Straaten" site="epg.sbb.rs">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" site="epg.sbb.rs">
   <channels>
     <channel update="i" site="epg.sbb.rs" site_id="1##/2020/05/28/12/46/08/n1hd_logo_16_9_light_300x168_7a6e98f8_8c0a_48ac_966e_cd8a4523e494.png" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="678##/2020/05/28/12/48/05/novashd_logo_16_9_light_288x162_25133ac9_c7d1_4131_a2e3_82dd5f8a11ab.png" xmltv_id="NOVA S HD">NOVA S HD</channel>
@@ -22,11 +22,12 @@
     <channel update="i" site="epg.sbb.rs" site_id="14##/2020/05/28/12/59/00/rtv1_logo_16_9_light_480x270_f1296e13_775b_465e_b36f_b56b286520a7.png" xmltv_id="RTV 1">RTV 1</channel>
     <channel update="i" site="epg.sbb.rs" site_id="15##/2020/05/28/12/59/07/rtv2_logo_16_9_light_384x216_fb3e070c_a715_4f01_9697_fe753fec15fe.png" xmltv_id="RTV 2">RTV 2</channel>
     <channel update="i" site="epg.sbb.rs" site_id="16##/2020/10/03/02/39/41/stb_fhd_light_480x270.png" xmltv_id="RED TV (Pink 2 HD)">RED TV (Pink 2 HD)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="19##/2020/05/28/12/50/36/pink3info_logo_16_9_light_300x168_b41bf6b2_b0ef_4482_98a3_0104be690211.png" xmltv_id="Pink 3 Info">Pink 3 Info</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="19##/2021/02/17/14/22/45/stb_fhd_light_480x270.png" xmltv_id="Vesti (Pink 3 info)">Vesti (Pink 3 info)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="20##/2020/05/28/13/05/20/studiob_logo_16_9_light_300x168_5c264b17_f5df_432f_bac5_9dae669f3201.png" xmltv_id="Studio B">Studio B</channel>
     <channel update="i" site="epg.sbb.rs" site_id="21##/2020/05/28/12/46/19/nasatv_logo_16_9_light_300x168_a0c60ff4_5524_4da4_ae7e_3152479caa64.png" xmltv_id="Naša TV (Beograd)">Naša TV (Beograd)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="24##/2020/05/28/12/42/52/kcn1_logo_16_9_light_300x168_8b68a5a9_09d8_46b7_a8ad_88ba2901460c.png" xmltv_id="K::CN 1">K::CN 1</channel>
     <channel update="i" site="epg.sbb.rs" site_id="25##/2020/05/28/12/49/40/palmaplus_logo_16_9_light_300x168_73c28352_3158_4a21_a224_cafbeec67344.png" xmltv_id="Palma plus">Palma plus</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="935##/2021/01/29/13/49/12/stb_fhd_dark_480x270.png" xmltv_id="SuperSat TV">SuperSat TV</channel>
     <channel update="i" site="epg.sbb.rs" site_id="26##/2020/05/28/12/40/17/hrt1_logo_16_9_light_300x168_53dad48f_202d_4bce_8709_68c1d1c99faf.png" xmltv_id="HRT 1">HRT 1</channel>
     <channel update="i" site="epg.sbb.rs" site_id="27##/2020/05/28/12/40/28/hrt2_logo_16_9_light_300x168_1e98b5ea_35e5_4b54_911c_a9f9946116b9.png" xmltv_id="HRT 2">HRT 2</channel>
     <channel update="i" site="epg.sbb.rs" site_id="28##/2020/05/28/12/47/45/novahr_logo_16_9_light_160x90_c7d43afb_f079_47a9_bcb0_0c4cdb8ef236.png" xmltv_id="Nova HR">Nova HR</channel>
@@ -105,14 +106,13 @@
     <channel update="i" site="epg.sbb.rs" site_id="99##/2020/05/28/12/39/57/historyhd_logo_16_9_light_300x168_2ad543a5_84ea_41a2_91c2_26967c99086c.png" xmltv_id="History HD">History HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="730##/2020/05/28/13/12/24/viasatexplore_logo_16_9_light_288x162_8d12b48f_7e73_4790_8a34_cd22650ffa9e.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="101##/2020/05/28/12/43/38/loviribolov_logo_16_9_light_480x270_343354d8_2aa9_4b13_9e0f_f38263e15bcb.png" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="102##/2020/05/28/12/25/14/animalplanet_logo_16_9_light_300x168_159d95e4_c935_4db8_b330_1b601f46513a.png" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="17##/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="103##/2020/05/28/13/13/02/viasatnature_logo_16_9_light_480x270_cd6b0428_36e1_4656_86dd_33bf9aeaa66a.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="epg.sbb.rs" site_id="731##/2020/05/28/13/12/56/viasathistory_logo_16_9_light_300x168_ae804b61_b154_4381_888b_c687b9f147df.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="105##/2020/05/28/12/41/13/id_logo_16_9_light_300x168_0e650a41_360b_4019_8672_9f981bff8193.png" xmltv_id="ID">ID</channel>
     <channel update="i" site="epg.sbb.rs" site_id="106##/2020/05/28/12/29/53/cbsreality_logo_16_9_light_300x168_e4cca907_c09b_4a28_b4e6_0a07357a8d56.png" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="epg.sbb.rs" site_id="111##/2020/06/03/15/34/42/stb_fhd_nat_geo_light.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="112##/2020/05/28/12/27/51/bbcearthhd_logo_16_9_light_384x216_258f7b89_80e2_498c_90a9_a471c0f9e009.png" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="17##/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="115##/2020/05/28/12/39/51/history2hd_logo_16_9_light_300x168_ef65cbaa_efad_40f8_93fb_14f89c2a2d36.png" xmltv_id="History 2 HD">History 2 HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="116##/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
     <channel update="i" site="epg.sbb.rs" site_id="117##/2020/10/02/14/54/22/stb_fhd_light_480x270.png" xmltv_id="ID Xtra HD">ID Xtra HD</channel>
@@ -126,7 +126,6 @@
     <channel update="i" site="epg.sbb.rs" site_id="124##/2020/05/28/12/33/38/drfithd_logo_16_9_light_300x168_8ab27d47_f043_49c8_83b1_9e392a4acc43.png" xmltv_id="Dr.Fit HD">Dr.Fit HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="125##/2020/05/28/13/07/19/travelhd_logo_16_9_light_480x270_dc75cbc3_8e50_4a35_9ee7_0fa355c4a66e.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="127##/2020/05/28/13/07/05/tracesporthd_logo_16_9_light_384x216_8d5a44ed_822c_4bb2_8e98_1ca6fcc71454.png" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="128##/2020/05/28/12/56/19/qyouhd_logo_16_9_light_300x168_3f1568ae_1c76_46b9_ad9c_af572295d9ff.png" xmltv_id="Qyou HD">Qyou HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="113##/2020/12/12/10/15/24/stb_fhd_outdoor_channel_eon_480x270px.png" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
     <channel update="i" site="epg.sbb.rs" site_id="129##/2020/05/28/12/37/55/grand2_logo_16_9_light_480x270_cb409b55_4b49_43ae_9752_0214ec48abd7.png" xmltv_id="Grand narodna televizija 2">Grand narodna televizija 2</channel>
     <channel update="i" site="epg.sbb.rs" site_id="324##/2020/05/28/12/42/57/kcnmusic2_logo_16_9_light_300x168_31520246_e304_4b79_a7ce_88c8f8fa4512.png" xmltv_id="K::CN Music 2">K::CN Music 2</channel>
@@ -180,7 +179,6 @@
     <channel update="i" site="epg.sbb.rs" site_id="718##/2020/05/28/13/08/52/tvkragujevac_logo_16_9_light_300x168_d2cf80df_8473_48ff_881b_4597a385b894.png" xmltv_id="TV Kragujevac">TV Kragujevac</channel>
     <channel update="i" site="epg.sbb.rs" site_id="719##/2020/05/28/13/07/34/tv5uzice_logo_16_9_light_300x168_56164d18_4c49_4634_8452_c00635367d0a.png" xmltv_id="TV 5 Užice">TV 5 Užice</channel>
     <channel update="i" site="epg.sbb.rs" site_id="171##/2020/05/28/13/07/55/tvbelleamie_logo_16_9_light_160x90_bc441fd2_1168_4bea_951b_8788941acaed.png" xmltv_id="TV Belle Amie">TV Belle Amie</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="724##/2020/05/28/13/07/49/tvbanker_logo_16_9_light_480x270_d93db723_8a01_4fd1_8a8c_33132ce0ceec.png" xmltv_id="TV Banker">TV Banker</channel>
     <channel update="i" site="epg.sbb.rs" site_id="723##/2020/05/28/13/09/21/tvnais_logo_16_9_light_300x168_c5c9c629_edcf_4a22_9c12_0a6c52926f12.png" xmltv_id="TV Nais">TV Nais</channel>
     <channel update="i" site="epg.sbb.rs" site_id="721##/2020/05/28/13/10/58/tvzonaplus_logo_16_9_light_300x168_3f3d91b6_a4a5_4fbe_b95c_830bab028d4a.png" xmltv_id="TV Zona Plus">TV Zona Plus</channel>
     <channel update="i" site="epg.sbb.rs" site_id="878##/2020/08/28/10/12/55/stb_fhd_light_480x270.png" xmltv_id="TV Melos (RS)">TV Melos (RS)</channel>
@@ -260,13 +258,13 @@
     <channel update="i" site="epg.sbb.rs" site_id="224##/2020/05/28/13/45/52/totalhitsbalkan_logo_16_9_light_300x168_5414e8dd_fd4c_42a0_9320_925272fc9ebe.png" xmltv_id="Stingray Music Total Hits Balkan">Stingray Music Total Hits Balkan</channel>
     <channel update="i" site="epg.sbb.rs" site_id="225##/2020/05/28/13/43/11/balkanmusic_logo_16_9_light_160x90_c713daa3_9e6b_4aa6_9453_94c10e08d152.png" xmltv_id="Stingray Music Balkan Music / Gipsy">Stingray Music Balkan Music / Gipsy</channel>
     <channel update="i" site="epg.sbb.rs" site_id="226##/2020/05/28/13/42/46/60s_logo_16_9_light_300x168_11598f14_070d_4f54_81a4_f88d6437bd61.png" xmltv_id="Stingray Music 60s">Stingray Music 60s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="227##/2020/05/28/13/45/42/soho70s_logo_16_9_light_480x270_1e280441_450d_4a34_b021_9108d1594203.png" xmltv_id="Stingray Music Soho '70s">Stingray Music Soho '70s</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="227##/2020/05/28/13/45/42/soho70s_logo_16_9_light_480x270_1e280441_450d_4a34_b021_9108d1594203.png" xmltv_id="Stingray Music Soho ’70s">Stingray Music Soho ’70s</channel>
     <channel update="i" site="epg.sbb.rs" site_id="228##/2020/05/28/13/42/51/80s_logo_16_9_light_300x168_96f0db5e_a7bb_410b_aeb8_e5fae0acdddb.png" xmltv_id="Stingray Music 80s">Stingray Music 80s</channel>
     <channel update="i" site="epg.sbb.rs" site_id="229##/2020/05/28/13/42/56/90s_logo_16_9_light_480x270_dee39f8c_375a_4e33_9318_3cac3940c186.png" xmltv_id="Stingray Music 90s">Stingray Music 90s</channel>
     <channel update="i" site="epg.sbb.rs" site_id="230##/2020/05/28/13/42/40/2000s_logo_16_9_light_300x168_51f465dc_b901_42e7_aecf_b027bb5c68e3.png" xmltv_id="Stingray Music 2000s">Stingray Music 2000s</channel>
     <channel update="i" site="epg.sbb.rs" site_id="231##/2020/05/28/13/45/07/revival60s70s_logo_16_9_light_300x168_972999c4_987b_4421_aa6a_0075e4e47676.png" xmltv_id="Stingray Music Revival 60s-70s">Stingray Music Revival 60s-70s</channel>
     <channel update="i" site="epg.sbb.rs" site_id="232##/2020/05/28/13/45/12/rewind80s90s_logo_16_9_light_300x168_c84768a3_a1c4_492f_bc5b_8890a5cb214f.png" xmltv_id="Stingray Music Rewind 80s-90s">Stingray Music Rewind 80s-90s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="233##/2020/05/28/13/45/33/rocknroll_logo_16_9_light_300x168_10217183_4d82_4d2f_97c9_61ad33d630f8.png" xmltv_id="Stingray Music Rock'n'Roll">Stingray Music Rock'n'Roll</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="233##/2020/05/28/13/45/33/rocknroll_logo_16_9_light_300x168_10217183_4d82_4d2f_97c9_61ad33d630f8.png" xmltv_id="Stingray Music Rock’n’Roll">Stingray Music Rock’n’Roll</channel>
     <channel update="i" site="epg.sbb.rs" site_id="234##/2020/05/28/13/43/00/alldayparty_logo_16_9_light_384x216_02aa995c_3bd5_42af_909f_4be3c94278f7.png" xmltv_id="Stingray Music All Day Party">Stingray Music All Day Party</channel>
     <channel update="i" site="epg.sbb.rs" site_id="235##/2020/05/28/13/44/18/drive_logo_16_9_light_300x168_d84c91ad_071e_4964_8222_9d483e7f9d9d.png" xmltv_id="Stingray Music Drive">Stingray Music Drive</channel>
     <channel update="i" site="epg.sbb.rs" site_id="236##/2020/05/28/13/44/24/freedom_logo_16_9_light_300x168_a525bcbc_481d_44e6_a682_cf8d8829789e.png" xmltv_id="Stingray Music Freedom">Stingray Music Freedom</channel>
@@ -274,7 +272,7 @@
     <channel update="i" site="epg.sbb.rs" site_id="238##/2020/05/28/13/45/57/totalhitsuk_logo_16_9_light_300x168_2b03bb69_2397_4833_8d5c_90536befc9f0.png" xmltv_id="Stingray Music Total Hits UK">Stingray Music Total Hits UK</channel>
     <channel update="i" site="epg.sbb.rs" site_id="239##/2020/05/28/13/43/22/bassbreaksbeats_logo_16_9_light_300x168_43a29dca_55b7_4157_8d58_1194ca021e85.png" xmltv_id="Stingray Music Bass Breaks and Beats">Stingray Music Bass Breaks and Beats</channel>
     <channel update="i" site="epg.sbb.rs" site_id="240##/2020/05/28/13/43/31/chillout_logo_16_9_light_300x168_1f38521e_85e6_4566_b03a_48ea33afb889.png" xmltv_id="Stingray Music Chillout">Stingray Music Chillout</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="241##/2020/05/28/13/43/35/classicrnbsoul_logo_16_9_light_300x168_2de3f8c9_7fc0_4ad8_a96f_0320d3d299dd.png" xmltv_id="Stingray Music Classic R'n'B and Soul">Stingray Music Classic R'n'B and Soul</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="241##/2020/05/28/13/43/35/classicrnbsoul_logo_16_9_light_300x168_2de3f8c9_7fc0_4ad8_a96f_0320d3d299dd.png" xmltv_id="Stingray Music Classic R’n’B and Soul">Stingray Music Classic R’n’B and Soul</channel>
     <channel update="i" site="epg.sbb.rs" site_id="242##/2020/05/28/13/44/06/dancefloor_logo_16_9_light_300x168_cac1304c_87d3_4456_944b_2540af56521b.png" xmltv_id="Stingray Music Dancefloor Fillers">Stingray Music Dancefloor Fillers</channel>
     <channel update="i" site="epg.sbb.rs" site_id="243##/2020/05/28/13/44/32/groovediscofunk_logo_16_9_light_300x168_0a9c24fe_8eb3_4f09_bfa4_26d046f5dc6b.png" xmltv_id="Stingray Music Groove (Disco &amp; Funk)">Stingray Music Groove (Disco &amp; Funk)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="244##/2020/05/28/13/44/42/hiphop_logo_16_9_light_160x90_f41cb403_a50f_4e38_ab5c_d3aee29517ef.png" xmltv_id="Stingray Music Hip Hop">Stingray Music Hip Hop</channel>
@@ -286,12 +284,12 @@
     <channel update="i" site="epg.sbb.rs" site_id="250##/2020/05/28/13/43/57/cooljazz_logo_16_9_light_300x168_a9fef769_297a_4401_84c2_0535fad0a6f9.png" xmltv_id="Stingray Music Cool Jazz">Stingray Music Cool Jazz</channel>
     <channel update="i" site="epg.sbb.rs" site_id="251##/2020/05/28/13/44/58/jazzclassics_logo_16_9_light_480x270_3c40667e_5c91_48c7_9186_2178cd19b79f.png" xmltv_id="Stingray Music Jazz Classics">Stingray Music Jazz Classics</channel>
     <channel update="i" site="epg.sbb.rs" site_id="252##/2020/05/28/13/45/47/thespa_logo_16_9_light_300x168_f1fdb11c_4969_46a6_a5c8_90ba779fd921.png" xmltv_id="Stingray Music The Spa">Stingray Music The Spa</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="253##/2020/05/28/13/44/47/jammin_logo_16_9_light_300x168_dac8bcc5_b487_4773_82a5_e34dcc9692ab.png" xmltv_id="Stingray Music Jammin'">Stingray Music Jammin'</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="253##/2020/05/28/13/44/47/jammin_logo_16_9_light_300x168_dac8bcc5_b487_4773_82a5_e34dcc9692ab.png" xmltv_id="Stingray Music Jammin’">Stingray Music Jammin’</channel>
     <channel update="i" site="epg.sbb.rs" site_id="254##/2020/05/28/13/43/52/cocktaillounge_logo_16_9_light_300x168_dce35a7a_b1b5_43a5_bb74_51f639878c92.png" xmltv_id="Stingray Music Cocktail Lounge">Stingray Music Cocktail Lounge</channel>
     <channel update="i" site="epg.sbb.rs" site_id="255##/2020/05/28/13/44/12/deepblues_logo_16_9_light_300x168_0ff4deff_db7c_4b8f_830f_8a0eae309e60.png" xmltv_id="Stingray Music Deep Blues">Stingray Music Deep Blues</channel>
     <channel update="i" site="epg.sbb.rs" site_id="256##/2020/05/28/13/43/41/classicalcalm_logo_16_9_light_300x168_6c7f051f_3a24_4c5f_ae24_60e90fb177f6.png" xmltv_id="Stingray Music Classical Calm">Stingray Music Classical Calm</channel>
     <channel update="i" site="epg.sbb.rs" site_id="257##/2020/05/28/13/43/47/classicalgreats_logo_16_9_light_300x168_e40df30e_3f49_4d1a_8c0d_687a6f51d039.png" xmltv_id="Stingray Music Classical Greats">Stingray Music Classical Greats</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="258##/2020/05/28/13/45/03/lavitaebella_logo_16_9_light_384x216_cd8e9362_6bfb_4254_b302_d676cbfb9bf1.png" xmltv_id="Stingray Music La Vita è Bella">Stingray Music La Vita è Bella</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="258##/2020/05/28/13/45/03/lavitaebella_logo_16_9_light_384x216_cd8e9362_6bfb_4254_b302_d676cbfb9bf1.png" xmltv_id="Stingray Music La Vita e Bella">Stingray Music La Vita e Bella</channel>
     <channel update="i" site="epg.sbb.rs" site_id="259##/2020/05/28/13/44/28/girlpower_logo_16_9_light_480x270_89f0e18a_c58f_4f8b_b34b_219e58f16f98.png" xmltv_id="Stingray Music Girl Power!">Stingray Music Girl Power!</channel>
     <channel update="i" site="epg.sbb.rs" site_id="260##/2020/05/28/13/43/26/chansons_logo_16_9_light_300x168_1e73c078_44fa_4327_863b_2ae4d8b48e9e.png" xmltv_id="Stingray Music Chansons">Stingray Music Chansons</channel>
     <channel update="i" site="epg.sbb.rs" site_id="261##/2020/05/28/13/44/01/country_logo_16_9_light_300x168_68d47d3e_9b95_49ba_b553_ba62c0cfd19f.png" xmltv_id="Stingray Music Country">Stingray Music Country</channel>
