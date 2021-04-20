@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.1 -- Jan van Straaten" site="programme-tv.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="programme-tv.net">
   <channels>
     <channel update="i" site="programme-tv.net" site_id="tf1-19" xmltv_id="TF1">TF1</channel>
     <channel update="i" site="programme-tv.net" site_id="france-2-6" xmltv_id="France 2">France 2</channel>
@@ -19,7 +19,7 @@
     <channel update="i" site="programme-tv.net" site_id="cstar-28" xmltv_id="CSTAR">CSTAR</channel>
     <channel update="i" site="programme-tv.net" site_id="gulli-29" xmltv_id="Gulli">Gulli</channel>
     <channel update="i" site="programme-tv.net" site_id="tf1-series-films-201" xmltv_id="TF1 Series Films">TF1 Series Films</channel>
-    <channel update="i" site="programme-tv.net" site_id="lequipe-204" xmltv_id="L Equipe">L Equipe</channel>
+    <channel update="i" site="programme-tv.net" site_id="lequipe-204" xmltv_id="L’Equipe">L’Equipe</channel>
     <channel update="i" site="programme-tv.net" site_id="6ter-202" xmltv_id="6ter">6ter</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-story-203" xmltv_id="RMC Story">RMC Story</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-decouverte-205" xmltv_id="RMC Decouverte">RMC Decouverte</channel>
@@ -83,7 +83,7 @@
     <channel update="i" site="programme-tv.net" site_id="crime-district-363" xmltv_id="Crime District">Crime District</channel>
     <channel update="i" site="programme-tv.net" site_id="chasse-et-peche-42" xmltv_id="Chasse et peche">Chasse et peche</channel>
     <channel update="i" site="programme-tv.net" site_id="trek-269" xmltv_id="Trek">Trek</channel>
-    <channel update="i" site="programme-tv.net" site_id="toute-lhistoire-117" xmltv_id="Toute l histoire">Toute l histoire</channel>
+    <channel update="i" site="programme-tv.net" site_id="toute-lhistoire-117" xmltv_id="Toute l’histoire">Toute l’histoire</channel>
     <channel update="i" site="programme-tv.net" site_id="histoire-tv-72" xmltv_id="Histoire TV">Histoire TV</channel>
     <channel update="i" site="programme-tv.net" site_id="ushuaia-tv-132" xmltv_id="Ushuaia TV">Ushuaia TV</channel>
     <channel update="i" site="programme-tv.net" site_id="myzen-tv-381" xmltv_id="MyZen.tv">MyZen.tv</channel>
@@ -175,7 +175,7 @@
     <channel update="i" site="programme-tv.net" site_id="france-3-centre-val-de-loire-282" xmltv_id="France 3 Centre-Val de Loire">France 3 Centre-Val de Loire</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-champagne-ardennes-283" xmltv_id="France 3 Champagne-Ardennes">France 3 Champagne-Ardennes</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-corse-via-stella-284" xmltv_id="France 3 Corse Via Stella">France 3 Corse Via Stella</channel>
-    <channel update="i" site="programme-tv.net" site_id="france-3-cote-dazur-285" xmltv_id="France 3 Côte d Azur">France 3 Côte d Azur</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-3-cote-dazur-285" xmltv_id="France 3 Côte d’Azur">France 3 Côte d’Azur</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-franche-comte-286" xmltv_id="France 3 Franche-Comte">France 3 Franche-Comte</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-haute-normandie-287" xmltv_id="France 3 Haute-Normandie">France 3 Haute-Normandie</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-languedoc-roussillon-288" xmltv_id="France 3 Languedoc-Roussillon">France 3 Languedoc-Roussillon</channel>
@@ -264,8 +264,8 @@
     <channel update="i" site="programme-tv.net" site_id="voosport-world-2-252" xmltv_id="VOOsport World 2">VOOsport World 2</channel>
     <channel update="i" site="programme-tv.net" site_id="vtm-263" xmltv_id="VTM">VTM</channel>
     <channel update="i" site="programme-tv.net" site_id="zdf-193" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="programme-tv.net" site_id="comedy-central-472" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="programme-tv.net" site_id="tf1plus1-492" xmltv_id="TF1+1">TF1+1</channel>
+    <channel update="i" site="programme-tv.net" site_id="comedy-central-472" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="programme-tv.net" site_id="alamaison-473" xmltv_id="#ALaMaison">#ALaMaison</channel>
     <channel update="i" site="programme-tv.net" site_id="tmcplus1-491" xmltv_id="TMC+1">TMC+1</channel>
     <channel update="i" site="programme-tv.net" site_id="museum-tv-474" xmltv_id="Museum TV">Museum TV</channel>
@@ -285,7 +285,9 @@
     <channel update="i" site="programme-tv.net" site_id="discovery-investigation-488" xmltv_id="Discovery Investigation">Discovery Investigation</channel>
     <channel update="i" site="programme-tv.net" site_id="telefoot-stadium-8-500" xmltv_id="TELEFOOT STADIUM 8">TELEFOOT STADIUM 8</channel>
     <channel update="i" site="programme-tv.net" site_id="es1-483" xmltv_id="ES1">ES1</channel>
+    <channel update="i" site="programme-tv.net" site_id="ultra-nature-501" xmltv_id="Ultra Nature">Ultra Nature</channel>
     <channel update="i" site="programme-tv.net" site_id="cstar-hits-france-489" xmltv_id="CSTAR Hits France">CSTAR Hits France</channel>
+    <channel update="i" site="programme-tv.net" site_id="culturebox-1501" xmltv_id="Culturebox">Culturebox</channel>
     <channel update="i" site="programme-tv.net" site_id="trace-latina-487" xmltv_id="Trace Latina">Trace Latina</channel>
     <channel update="i" site="programme-tv.net" site_id="clique-tv-484" xmltv_id="Clique TV">Clique TV</channel>
     <channel update="i" site="programme-tv.net" site_id="sport-en-france-476" xmltv_id="Sport en France">Sport en France</channel>
