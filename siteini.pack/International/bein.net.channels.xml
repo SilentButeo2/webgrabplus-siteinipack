@@ -1,50 +1,52 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.0 -- Jan van Straaten" site="bein.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" site="bein.net">
   <channels>
-    <channel update="i" site="bein.net" site_id="mena_sports/news" xmltv_id="news English">news English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/news" xmltv_id="news Arabic">news Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/global" xmltv_id="global English">global English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/global" xmltv_id="global Arabic">global Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs1" xmltv_id="bs1 English">bs1 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs1" xmltv_id="bs1 Arabic">bs1 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs2" xmltv_id="bs2 English">bs2 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs2" xmltv_id="bs2 Arabic">bs2 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs3" xmltv_id="bs3 English">bs3 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs3" xmltv_id="bs3 Arabic">bs3 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs4" xmltv_id="bs4 English">bs4 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs4" xmltv_id="bs4 Arabic">bs4 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs5" xmltv_id="bs5 English">bs5 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs5" xmltv_id="bs5 Arabic">bs5 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs6" xmltv_id="bs6 English">bs6 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs6" xmltv_id="bs6 Arabic">bs6 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs7" xmltv_id="bs7 English">bs7 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs7" xmltv_id="bs7 Arabic">bs7 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs1-premium" xmltv_id="bs1-premium English">bs1-premium English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs1-premium" xmltv_id="bs1-premium Arabic">bs1-premium Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs2-premium" xmltv_id="bs2-premium English">bs2-premium English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs2-premium" xmltv_id="bs2-premium Arabic">bs2-premium Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs3-premium" xmltv_id="bs3-premium English">bs3-premium English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs3-premium" xmltv_id="bs3-premium Arabic">bs3-premium Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bsxtra1" xmltv_id="bsxtra1 English">bsxtra1 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bsxtra1" xmltv_id="bsxtra1 Arabic">bsxtra1 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bsxtra2" xmltv_id="bsxtra2 English">bsxtra2 English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bsxtra2" xmltv_id="bsxtra2 Arabic">bsxtra2 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/4k" xmltv_id="4k English">4k English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/4k" xmltv_id="4k Arabic">4k Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs1-en" xmltv_id="bs1-en English">bs1-en English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs1-en" xmltv_id="bs1-en Arabic">bs1-en Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs2-en" xmltv_id="bs2-en English">bs2-en English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs2-en" xmltv_id="bs2-en Arabic">bs2-en Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs3-en" xmltv_id="bs3-en English">bs3-en English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs3-en" xmltv_id="bs3-en Arabic">bs3-en Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/nba" xmltv_id="nba English">nba English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/nba" xmltv_id="nba Arabic">nba Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs1-fr" xmltv_id="bs1-fr English">bs1-fr English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs1-fr" xmltv_id="bs1-fr Arabic">bs1-fr Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs2-fr" xmltv_id="bs2-fr English">bs2-fr English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs2-fr" xmltv_id="bs2-fr Arabic">bs2-fr Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_sports/bs3-fr" xmltv_id="bs3-fr English">bs3-fr English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_sports/bs3-fr" xmltv_id="bs3-fr Arabic">bs3-fr Arabic</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="BS2">BS2</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/bein_SPORTS_FTA_DIGITAL_Mono" xmltv_id="bein_SPORTS_FTA_DIGITAL_Mono English">bein_SPORTS_FTA_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/bein_SPORTS_FTA_DIGITAL_Mono" xmltv_id="bein_SPORTS_FTA_DIGITAL_Mono Arabic">bein_SPORTS_FTA_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="News-1" xmltv_id="News-1">News-1</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS1_DIGITAL_Mono" xmltv_id="beIN_SPORTS1_DIGITAL_Mono English">beIN_SPORTS1_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS1_DIGITAL_Mono" xmltv_id="beIN_SPORTS1_DIGITAL_Mono Arabic">beIN_SPORTS1_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS2_DIGITAL_Mono" xmltv_id="beIN_SPORTS2_DIGITAL_Mono English">beIN_SPORTS2_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS2_DIGITAL_Mono" xmltv_id="beIN_SPORTS2_DIGITAL_Mono Arabic">beIN_SPORTS2_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS3_DIGITAL_Mono" xmltv_id="beIN_SPORTS3_DIGITAL_Mono English">beIN_SPORTS3_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS3_DIGITAL_Mono" xmltv_id="beIN_SPORTS3_DIGITAL_Mono Arabic">beIN_SPORTS3_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS4_DIGITAL_Mono" xmltv_id="beIN_SPORTS4_DIGITAL_Mono English">beIN_SPORTS4_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS4_DIGITAL_Mono" xmltv_id="beIN_SPORTS4_DIGITAL_Mono Arabic">beIN_SPORTS4_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS5_DIGITAL_Mono" xmltv_id="beIN_SPORTS5_DIGITAL_Mono English">beIN_SPORTS5_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS5_DIGITAL_Mono" xmltv_id="beIN_SPORTS5_DIGITAL_Mono Arabic">beIN_SPORTS5_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS6_DIGITAL_Mono" xmltv_id="beIN_SPORTS6_DIGITAL_Mono English">beIN_SPORTS6_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS6_DIGITAL_Mono" xmltv_id="beIN_SPORTS6_DIGITAL_Mono Arabic">beIN_SPORTS6_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS7_DIGITAL_Mono" xmltv_id="beIN_SPORTS7_DIGITAL_Mono English">beIN_SPORTS7_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS7_DIGITAL_Mono" xmltv_id="beIN_SPORTS7_DIGITAL_Mono Arabic">beIN_SPORTS7_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS1_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS1_PREMIUM_Digital_Mono English">beIN_SPORTS1_PREMIUM_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS1_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS1_PREMIUM_Digital_Mono Arabic">beIN_SPORTS1_PREMIUM_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS2_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS2_PREMIUM_Digital_Mono English">beIN_SPORTS2_PREMIUM_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS2_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS2_PREMIUM_Digital_Mono Arabic">beIN_SPORTS2_PREMIUM_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS3_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS3_PREMIUM_Digital_Mono English">beIN_SPORTS3_PREMIUM_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS3_PREMIUM_Digital_Mono" xmltv_id="beIN_SPORTS3_PREMIUM_Digital_Mono Arabic">beIN_SPORTS3_PREMIUM_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS_XTRA1_Digital_Mono" xmltv_id="beIN_SPORTS_XTRA1_Digital_Mono English">beIN_SPORTS_XTRA1_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS_XTRA1_Digital_Mono" xmltv_id="beIN_SPORTS_XTRA1_Digital_Mono Arabic">beIN_SPORTS_XTRA1_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS_XTRA2_Digital_Mono" xmltv_id="beIN_SPORTS_XTRA2_Digital_Mono English">beIN_SPORTS_XTRA2_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS_XTRA2_Digital_Mono" xmltv_id="beIN_SPORTS_XTRA2_Digital_Mono Arabic">beIN_SPORTS_XTRA2_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/4k_DIGITAL_Mono" xmltv_id="4k_DIGITAL_Mono English">4k_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/4k_DIGITAL_Mono" xmltv_id="4k_DIGITAL_Mono Arabic">4k_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/NBA_DIGITAL_Mono" xmltv_id="NBA_DIGITAL_Mono English">NBA_DIGITAL_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/NBA_DIGITAL_Mono" xmltv_id="NBA_DIGITAL_Mono Arabic">NBA_DIGITAL_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS1_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS1_ENGLISH_Digital_Mono English">beIN_SPORTS1_ENGLISH_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS1_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS1_ENGLISH_Digital_Mono Arabic">beIN_SPORTS1_ENGLISH_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS2_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS2_ENGLISH_Digital_Mono English">beIN_SPORTS2_ENGLISH_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS2_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS2_ENGLISH_Digital_Mono Arabic">beIN_SPORTS2_ENGLISH_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS3_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS3_ENGLISH_Digital_Mono English">beIN_SPORTS3_ENGLISH_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS3_ENGLISH_Digital_Mono" xmltv_id="beIN_SPORTS3_ENGLISH_Digital_Mono Arabic">beIN_SPORTS3_ENGLISH_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS1_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS1_FRENCH_Digital_Mono English">beIN_SPORTS1_FRENCH_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS1_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS1_FRENCH_Digital_Mono Arabic">beIN_SPORTS1_FRENCH_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS2_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS2_FRENCH_Digital_Mono English">beIN_SPORTS2_FRENCH_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS2_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS2_FRENCH_Digital_Mono Arabic">beIN_SPORTS2_FRENCH_Digital_Mono Arabic</channel>
+    <channel update="i" site="bein.net" site_id="mena_sports/beIN_SPORTS3_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS3_FRENCH_Digital_Mono English">beIN_SPORTS3_FRENCH_Digital_Mono English</channel>
+    <channel update="i" site="bein.net" site_id="mena-ar_sports/beIN_SPORTS3_FRENCH_Digital_Mono" xmltv_id="beIN_SPORTS3_FRENCH_Digital_Mono Arabic">beIN_SPORTS3_FRENCH_Digital_Mono Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD1" xmltv_id="MoviesHD1 English">MoviesHD1 English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/MoviesHD1" xmltv_id="MoviesHD1 Arabic">MoviesHD1 Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD2" xmltv_id="MoviesHD2 English">MoviesHD2 English</channel>
@@ -53,8 +55,6 @@
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/MoviesHD3" xmltv_id="MoviesHD3 Arabic">MoviesHD3 Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/MoviesHD4" xmltv_id="MoviesHD4 English">MoviesHD4 English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/MoviesHD4" xmltv_id="MoviesHD4 Arabic">MoviesHD4 Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/beincinema" xmltv_id="beincinema English">beincinema English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/beincinema" xmltv_id="beincinema Arabic">beincinema Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/BoxOffice_HD1" xmltv_id="BoxOffice_HD1 English">BoxOffice_HD1 English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/BoxOffice_HD1" xmltv_id="BoxOffice_HD1 Arabic">BoxOffice_HD1 Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/boxofficehd2" xmltv_id="boxofficehd2 English">boxofficehd2 English</channel>
@@ -83,16 +83,12 @@
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/Baby_TV" xmltv_id="Baby_TV Arabic">Baby_TV Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/CBeebies" xmltv_id="CBeebies English">CBeebies English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/CBeebies" xmltv_id="CBeebies Arabic">CBeebies Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DKids" xmltv_id="DKids English">DKids English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/DKids" xmltv_id="DKids Arabic">DKids Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/DreamWorks" xmltv_id="DreamWorks English">DreamWorks English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/DreamWorks" xmltv_id="DreamWorks Arabic">DreamWorks Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/JimJam" xmltv_id="JimJam English">JimJam English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/JimJam" xmltv_id="JimJam Arabic">JimJam Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXFamilyMovies" xmltv_id="FOXFamilyMovies English">FOXFamilyMovies English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/FOXFamilyMovies" xmltv_id="FOXFamilyMovies Arabic">FOXFamilyMovies Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXMovies" xmltv_id="FOXMovies English">FOXMovies English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/FOXMovies" xmltv_id="FOXMovies Arabic">FOXMovies Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/FOXActionMovies" xmltv_id="FOXActionMovies English">FOXActionMovies English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/FOXActionMovies" xmltv_id="FOXActionMovies Arabic">FOXActionMovies Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Star_World_HD" xmltv_id="Star_World_HD English">Star_World_HD English</channel>
@@ -125,8 +121,6 @@
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/CBSreality" xmltv_id="CBSreality Arabic">CBSreality Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/FXHD" xmltv_id="FXHD English">FXHD English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/FXHD" xmltv_id="FXHD Arabic">FXHD Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DMAX" xmltv_id="DMAX English">DMAX English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/DMAX" xmltv_id="DMAX Arabic">DMAX Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoWild_HD" xmltv_id="NatGeoWild_HD English">NatGeoWild_HD English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/NatGeoWild_HD" xmltv_id="NatGeoWild_HD Arabic">NatGeoWild_HD Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/NatGeoPeople_HD" xmltv_id="NatGeoPeople_HD English">NatGeoPeople_HD English</channel>
@@ -135,14 +129,10 @@
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/NatGeo_HD" xmltv_id="NatGeo_HD Arabic">NatGeo_HD Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/BBCEarth" xmltv_id="BBCEarth English">BBCEarth English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/BBCEarth" xmltv_id="BBCEarth Arabic">BBCEarth Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/AnimalPlanetHD" xmltv_id="AnimalPlanetHD English">AnimalPlanetHD English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/AnimalPlanetHD" xmltv_id="AnimalPlanetHD Arabic">AnimalPlanetHD Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/AljazeeraDocumentary" xmltv_id="AljazeeraDocumentary English">AljazeeraDocumentary English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/AljazeeraDocumentary" xmltv_id="AljazeeraDocumentary Arabic">AljazeeraDocumentary Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/TRTWorld" xmltv_id="TRTWorld English">TRTWorld English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/TRTWorld" xmltv_id="TRTWorld Arabic">TRTWorld Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FoxNews" xmltv_id="FoxNews English">FoxNews English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/FoxNews" xmltv_id="FoxNews Arabic">FoxNews Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/Euronews" xmltv_id="Euronews English">Euronews English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/Euronews" xmltv_id="Euronews Arabic">Euronews Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/CNNHD" xmltv_id="CNNHD English">CNNHD English</channel>
@@ -151,33 +141,17 @@
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/Bloomberg" xmltv_id="Bloomberg Arabic">Bloomberg Arabic</channel>
     <channel update="i" site="bein.net" site_id="mena_entertaintment/HLN" xmltv_id="HLN English">HLN English</channel>
     <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/HLN" xmltv_id="HLN Arabic">HLN Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DTX" xmltv_id="DTX English">DTX English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/DTX" xmltv_id="DTX Arabic">DTX Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/DLife" xmltv_id="DLife English">DLife English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/DLife" xmltv_id="DLife Arabic">DLife Arabic</channel>
-    <channel update="i" site="bein.net" site_id="mena_entertaintment/FineLiving" xmltv_id="FineLiving English">FineLiving English</channel>
-    <channel update="i" site="bein.net" site_id="mena-ar_entertaintment/FineLiving" xmltv_id="FineLiving Arabic">FineLiving Arabic</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/HD1" xmltv_id="HD1">HD1</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/HD2" xmltv_id="HD2">HD2</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/HD3" xmltv_id="HD3">HD3</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/4MAX" xmltv_id="4MAX">4MAX</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/5MAX" xmltv_id="5MAX">5MAX</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/6MAX" xmltv_id="6MAX">6MAX</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/7MAX" xmltv_id="7MAX">7MAX</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/8MAX" xmltv_id="8MAX">8MAX</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/9MAX" xmltv_id="9MAX">9MAX</channel>
-    <channel update="i" site="bein.net" site_id="france_sports/10MAX" xmltv_id="10MAX">10MAX</channel>
-    <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
-    <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="BS2">BS2</channel>
-    <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
     <channel update="i" site="bein.net" site_id="us_sports/Global" xmltv_id="Global">Global</channel>
     <channel update="i" site="bein.net" site_id="us_sports/Spanish" xmltv_id="Spanish">Spanish</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/xtra" xmltv_id="xtra">xtra</channel>
     <channel update="i" site="bein.net" site_id="us_sports/liga" xmltv_id="liga">liga</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS4" xmltv_id="BS4">BS4</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS5" xmltv_id="BS5">BS5</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS6" xmltv_id="BS6">BS6</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS7" xmltv_id="BS7">BS7</channel>
     <channel update="i" site="bein.net" site_id="us_sports/BS8" xmltv_id="BS8">BS8</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS9" xmltv_id="BS9">BS9</channel>
+    <channel update="i" site="bein.net" site_id="us_sports/BS10" xmltv_id="BS10">BS10</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="th_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="hk_sports/BS1" xmltv_id="BS1">BS1</channel>
