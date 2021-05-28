@@ -1,6 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="pluto.tv.E">
   <channels>
+  <!--US-->
     <channel update="i" site="pluto.tv.E" site_id="51c75f7bb6f26ba1cd00002f" xmltv_id="Pluto TV Kids">Pluto TV Kids</channel>
     <channel update="i" site="pluto.tv.E" site_id="5268abcd0ce20a8472000114" xmltv_id="Pluto TV News">Pluto TV News</channel>
     <channel update="i" site="pluto.tv.E" site_id="5317bfebff98025b3200ff99" xmltv_id="Slow TV">Slow TV</channel>
@@ -9,7 +10,6 @@
     <channel update="i" site="pluto.tv.E" site_id="5421f71da6af422839419cb3" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="pluto.tv.E" site_id="545943f1c9f133a519bbac92" xmltv_id="MST3K">MST3K</channel>
     <channel update="i" site="pluto.tv.E" site_id="5459795fc9f133a519bc0bef" xmltv_id="Top Stories by Newsy">Top Stories by Newsy</channel>
-    <channel update="i" site="pluto.tv.E" site_id="54ee5ea872c1cbb844546d3f" xmltv_id="NASA TV">NASA TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="54ff7ba69222cb1c2624c584" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="554158e864526b29254ff105" xmltv_id="FailArmy">FailArmy</channel>
     <channel update="i" site="pluto.tv.E" site_id="5595e43c66ace1652e63c6a2" xmltv_id="Awesomeness TV">Awesomeness TV</channel>
@@ -26,11 +26,10 @@
     <channel update="i" site="pluto.tv.E" site_id="56340779a738201b4ccfeac9" xmltv_id="Pluto TV Sports">Pluto TV Sports</channel>
     <channel update="i" site="pluto.tv.E" site_id="5637d31f319573e26b64040b" xmltv_id="Stand-Up TV">Stand-Up TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="563a970aa1a1f7fe7c9daad7" xmltv_id="Pluto TV Science">Pluto TV Science</channel>
-    <channel update="i" site="pluto.tv.E" site_id="56403d822d2719107d948cb9" xmltv_id="NBC News">NBC News</channel>
     <channel update="i" site="pluto.tv.E" site_id="569546031a619b8f07ce6e25" xmltv_id="Pluto TV Horror">Pluto TV Horror</channel>
     <channel update="i" site="pluto.tv.E" site_id="56b27f85ff3037045055037e" xmltv_id="Pluto TV Animals">Pluto TV Animals</channel>
     <channel update="i" site="pluto.tv.E" site_id="580e87ff497c73ba2f321dd3" xmltv_id="Funny AF">Funny AF</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5812afe1d0f0b8d55dde67fa" xmltv_id="Cheddar">Cheddar</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5812afe1d0f0b8d55dde67fa" xmltv_id="Cheddar News">Cheddar News</channel>
     <channel update="i" site="pluto.tv.E" site_id="5812b0f2237a6ff45d16c3f9" xmltv_id="Fight">Fight</channel>
     <channel update="i" site="pluto.tv.E" site_id="5812b3a4249444e05d09cc46" xmltv_id="Pluto TV Cars">Pluto TV Cars</channel>
     <channel update="i" site="pluto.tv.E" site_id="5812b7d3249444e05d09cc49" xmltv_id="Anime All Day">Anime All Day</channel>
@@ -66,16 +65,15 @@
     <channel update="i" site="pluto.tv.E" site_id="5adf96e3e738977e2c31cb04" xmltv_id="Pluto TV Paranormal">Pluto TV Paranormal</channel>
     <channel update="i" site="pluto.tv.E" site_id="5aea40b35126c2157123aa64" xmltv_id="The New Detectives">The New Detectives</channel>
     <channel update="i" site="pluto.tv.E" site_id="5aec96ec5126c2157123c657" xmltv_id="Nosey">Nosey</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5af09e645126c2157123f9eb" xmltv_id="Kevin Hart LOL">Kevin Hart LOL</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5b22d1ee2795d0021bea5889" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5af09e645126c2157123f9eb" xmltv_id="Kevin Hart’s LOL! Network">Kevin Hart’s LOL! Network</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b329e0a7b9d8872aeb49ceb" xmltv_id="Dogs 24/7">Dogs 24/7</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b36abcddfb1f0729a3a7dab" xmltv_id="Privacy Policy">Privacy Policy</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b4e69e08291147bd04a9fd7" xmltv_id="Pluto TV Thrillers">Pluto TV Thrillers</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b4e92e4694c027be6ecece1" xmltv_id="Pluto TV Drama">Pluto TV Drama</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b4e934d694c027be6ecece2" xmltv_id="WatchFree Adventure">WatchFree Adventure</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5b4e94282d4ec87bdcbb87cd" xmltv_id="CMT Westerns">CMT Westerns</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5b4e94282d4ec87bdcbb87cd" xmltv_id="Pluto TV Westerns">Pluto TV Westerns</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b4e96a0423e067bd6df6901" xmltv_id="Unsolved Mysteries">Unsolved Mysteries</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5b4e99f4423e067bd6df6903" xmltv_id="Gordon Ramsay's Kitchen">Gordon Ramsay's Kitchen</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5b4e99f4423e067bd6df6903" xmltv_id="Gordon Ramsay's Hell's Kitchen">Gordon Ramsay's Hell's Kitchen</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b4fc274694c027be6ed3eea" xmltv_id="Pluto TV Sci-Fi">Pluto TV Sci-Fi</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b64a245a202b3337f09e51d" xmltv_id="Pluto TV Fantastic">Pluto TV Fantastic</channel>
     <channel update="i" site="pluto.tv.E" site_id="5b68a18823ecb93393cba2f1" xmltv_id="British TV">British TV</channel>
@@ -85,16 +83,13 @@
     <channel update="i" site="pluto.tv.E" site_id="5bb1ac3e268cae539bcedb07" xmltv_id="Combate World">Combate World</channel>
     <channel update="i" site="pluto.tv.E" site_id="5bb1ad55268cae539bcedb08" xmltv_id="The Pet Collective">The Pet Collective</channel>
     <channel update="i" site="pluto.tv.E" site_id="5bb1af6a268cae539bcedb0a" xmltv_id="Forensic Files">Forensic Files</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5bb1b439ea5c9e53afd21325" xmltv_id="Complex Networks">Complex Networks</channel>
     <channel update="i" site="pluto.tv.E" site_id="5bb3fea0f711fd76340eebff" xmltv_id="Pluto TV Military">Pluto TV Military</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5bc4d687da4f1f096e217e25" xmltv_id="Pluto TV Election">Pluto TV Election</channel>
     <channel update="i" site="pluto.tv.E" site_id="5bdce04659ee03633e758130" xmltv_id="WeatherNation">WeatherNation</channel>
     <channel update="i" site="pluto.tv.E" site_id="5bee1a7359ee03633e780238" xmltv_id="Dog the Bounty Hunter">Dog the Bounty Hunter</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c01df1759ee03633e7b272c" xmltv_id="Lucha Libre AAA">Lucha Libre AAA</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c12ba66eae03059cbdc77f2" xmltv_id="Pluto TV Cars 2">Pluto TV Cars 2</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c12bde1314e3461d43a8e2b" xmltv_id="Pluto TV Science 2">Pluto TV Science 2</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c2d64ffbdf11b71587184b8" xmltv_id="TV Land Sitcoms">TV Land Sitcoms</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5c2e8c4a9e06fa0511b75276" xmltv_id="Pluto TV Biography">Pluto TV Biography</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c37d6712de254456f7ec340" xmltv_id="Cold Case Files">Cold Case Files</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c393cad2de254456f7ef8c2" xmltv_id="Spike Outdoors">Spike Outdoors</channel>
     <channel update="i" site="pluto.tv.E" site_id="5c3f8f12a93c2d61b9990a4e" xmltv_id="TokuSHOUTsu">TokuSHOUTsu</channel>
@@ -110,7 +105,6 @@
     <channel update="i" site="pluto.tv.E" site_id="5ca672f515a62078d2ec0ad2" xmltv_id="MTV Pluto TV">MTV Pluto TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ca673e0d0bd6c2689c94ce3" xmltv_id="Nick Pluto TV">Nick Pluto TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ca6748a37b88b269472dad9" xmltv_id="Nick Jr. Pluto TV">Nick Jr. Pluto TV</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5ca675d6593a5d78f0e85c2e" xmltv_id="Comedy Central Stand-Up">Comedy Central Stand-Up</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ca6899a37b88b269472ea4b" xmltv_id="MTV Dating">MTV Dating</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ca7f16c37b88b2694731c79" xmltv_id="Pluto TV Gamer">Pluto TV Gamer</channel>
     <channel update="i" site="pluto.tv.E" site_id="5cabdf1437b88b26947346b2" xmltv_id="Pluto TV Backcountry">Pluto TV Backcountry</channel>
@@ -121,13 +115,12 @@
     <channel update="i" site="pluto.tv.E" site_id="5ce44810b421747ae467b7cd" xmltv_id="Antiques Roadshow UK">Antiques Roadshow UK</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ce5a8954311f992edbe1da2" xmltv_id="Logo Pluto TV">Logo Pluto TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ced7d5df64be98e07ed47b6" xmltv_id="NFL Channel">NFL Channel</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5cf5a21ad10398f0e0c9ae67" xmltv_id="Top Stories by Newsy 2">Top Stories by Newsy 2</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5cf5a32d163e69f04c5b11b0" xmltv_id="NewsmaxTV 2">NewsmaxTV 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5cf0622da00ca1e2f6fac712" xmltv_id="EstrellaTV">EstrellaTV</channel>
     <channel update="i" site="pluto.tv.E" site_id="5cf5a3ac163e69f04c5b11b1" xmltv_id="Sky News 2">Sky News 2</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5cf968040ab7d8f181e6a68b" xmltv_id="Pluto TV Cine Estelar">Pluto TV Cine Estelar</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5cf96b1c4f1ca3f0629f4bf0" xmltv_id="Pluto TV Cine">Pluto TV Cine</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5cf96b8f4f1ca3f0629f4bf1" xmltv_id="Pluto TV Investiga">Pluto TV Investiga</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5cf96cc422df39f1a338d165" xmltv_id="Telemundo Telenovelas">Telemundo Telenovelas</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5cf968040ab7d8f181e6a68b" xmltv_id="Cine Premiere">Cine Premiere</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5cf96b1c4f1ca3f0629f4bf0" xmltv_id="Séptimo arte">Séptimo arte</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5cf96b8f4f1ca3f0629f4bf1" xmltv_id="Investiga">Investiga</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5cf96cc422df39f1a338d165" xmltv_id="Telemundo telenovelas clásicas">Telemundo telenovelas clásicas</channel>
     <channel update="i" site="pluto.tv.E" site_id="5cf96d351652631e36d4331f" xmltv_id="MTV Latino">MTV Latino</channel>
     <channel update="i" site="pluto.tv.E" site_id="5cf96dad1652631e36d43320" xmltv_id="Comedy Central Latino">Comedy Central Latino</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d02dd65a9aa6c5f977bb1e8" xmltv_id="WatchFree Movie Binge">WatchFree Movie Binge</channel>
@@ -139,7 +132,7 @@
     <channel update="i" site="pluto.tv.E" site_id="5d2646a1970eb273b28db077" xmltv_id="Choppertown">Choppertown</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d2cb7ac552e3773bc48982e" xmltv_id="WeatherNation 2">WeatherNation 2</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d3609cd6a6c78d7672f2a81" xmltv_id="MTV Block Party">MTV Block Party</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d40855b3fb0855028c99b6f" xmltv_id="Dallas Cowboys Cheer">Dallas Cowboys Cheer</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d40855b3fb0855028c99b6f" xmltv_id="Dallas Cowboy Cheerleaders">Dallas Cowboy Cheerleaders</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d40bebc5e3d2750a2239d7e" xmltv_id="TV Land Drama">TV Land Drama</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d48678d34ceb37d3c458a55" xmltv_id="Wild 'N Out">Wild 'N Out</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d48685da7e9f476aa8a1888" xmltv_id="The Challenge">The Challenge</channel>
@@ -147,8 +140,9 @@
     <channel update="i" site="pluto.tv.E" site_id="5d486b2eeddd9576d66f9066" xmltv_id="TBN">TBN</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d486b87428fe37d8cadba44" xmltv_id="Hillsong Channel">Hillsong Channel</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d486bed428fe37d8cadba45" xmltv_id="PursuitUP">PursuitUP</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d4db961034718b2f52f9e52" xmltv_id="Pluto TV 007">Pluto TV 007</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d51dd5d369acdb278dfb05d" xmltv_id="Gameplay: Roblox">Gameplay: Roblox</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d51ddf0369acdb278dfb05e" xmltv_id="Love \u0026 Hip Hop">Love \u0026 Hip Hop</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d51ddf0369acdb278dfb05e" xmltv_id="Love &amp; Hip Hop">Love &amp; Hip Hop</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d51e2bceca5b4b2c0e06c50" xmltv_id="Black Ink Crew">Black Ink Crew</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d51e6949ab8e2b35bdcaa9f" xmltv_id="BET Her">BET Her</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d51e791b7dba3b2ae990ab2" xmltv_id="This Old House">This Old House</channel>
@@ -163,30 +157,31 @@
     <channel update="i" site="pluto.tv.E" site_id="5d8bf1472907815f66a866dd" xmltv_id="Pluto TV Celebrity">Pluto TV Celebrity</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d8d08395f39465da6fb3ec4" xmltv_id="Nick Latino">Nick Latino</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d8d0ec7b0f7015fbe0a3bf7" xmltv_id="Nick Jr. Latino">Nick Jr. Latino</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d8d0fbaa8742fa3093899da" xmltv_id="Pluto TV Cocina">Pluto TV Cocina</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d8d103f031154a4172d262b" xmltv_id="Pluto TV Mundo">Pluto TV Mundo</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d8d10ce06a9665fe54bf74a" xmltv_id="Pluto TV Naturaleza">Pluto TV Naturaleza</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d8d11baeb31c5a43b77bf59" xmltv_id="Spike Aventura">Spike Aventura</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d8d164d92e97a5e107638d2" xmltv_id="Pluto TV Cine Acción">Pluto TV Cine Acción</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d8d180092e97a5e107638d3" xmltv_id="Pluto TV Cine Terror">Pluto TV Cine Terror</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d93b4d71754e6a4298d086e" xmltv_id="Pluto TV Realities ESP">Pluto TV Realities ESP</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d8d0fbaa8742fa3093899da" xmltv_id="Foodies">Foodies</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d8d11baeb31c5a43b77bf59" xmltv_id="Spike ¡extremo!">Spike ¡extremo!</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d8d164d92e97a5e107638d2" xmltv_id="Cine adrenalina">Cine adrenalina</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d8d180092e97a5e107638d3" xmltv_id="Cine terror">Cine terror</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d93b4d71754e6a4298d086e" xmltv_id="Mi obsesión favorita">Mi obsesión favorita</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5d93b58e7ea6f9918873886f" xmltv_id="Pluto TV 007 en español">Pluto TV 007 en español</channel>
     <channel update="i" site="pluto.tv.E" site_id="5d93b635b43dd1a399b39eee" xmltv_id="Vevo Pop">Vevo Pop</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5d9ccebb60a26500097dc5a4" xmltv_id="Leverage">Leverage</channel>
     <channel update="i" site="pluto.tv.E" site_id="5da0c85bd2c9c10009370984" xmltv_id="Naruto">Naruto</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5da0d64d0e8a62000964ebe4" xmltv_id="Vevo Latino">Vevo Latino</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5da0d75e84830900098a1ea0" xmltv_id="Vevo Country">Vevo Country</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5da0d83f66c9700009b96d0e" xmltv_id="Vevo R&amp;B">Vevo R&amp;B</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dae084727c8af0009fe40a4" xmltv_id="Tosh.0">Tosh.0</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dae0a40e8ee0d000975e99b" xmltv_id="pocket.watch">pocket.watch</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dae0b4841a7d0000938ddbd" xmltv_id="Court TV">Court TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="5db0ad56edc89300090d2ebb" xmltv_id="Pluto TV Kids Animation">Pluto TV Kids Animation</channel>
     <channel update="i" site="pluto.tv.E" site_id="5db0ae5af8797b00095c0794" xmltv_id="Pluto TV Tween">Pluto TV Tween</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5db2163661a18a00097fb407" xmltv_id="Vevo Pop 2">Vevo Pop 2</channel>
     <channel update="i" site="pluto.tv.E" site_id="5db867744f229f0009266784" xmltv_id="Pluto TV Action Sports">Pluto TV Action Sports</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dc0c78281eddb0009a02d5e" xmltv_id="ET Live">ET Live</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dc1cb279c91420009db261d" xmltv_id="Lively Place">Lively Place</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dc48170e280c80009a861ab" xmltv_id="CBSN New York">CBSN New York</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dc481cda1d430000948a1b4" xmltv_id="CBSN Los Angeles">CBSN Los Angeles</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5dc9b8223687ff000936ed79" xmltv_id="CBSN New York 2">CBSN New York 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5dc9b875e280c80009a8a44a" xmltv_id="CBSN Los Angeles 2">CBSN Los Angeles 2</channel>
     <channel update="i" site="pluto.tv.E" site_id="5dcc42446750e200093b15e2" xmltv_id="CMT Pluto TV">CMT Pluto TV</channel>
     <channel update="i" site="pluto.tv.E" site_id="5de94dacb394a300099fa22a" xmltv_id="PGA TOUR">PGA TOUR</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5df974e2bc7d74000982293a" xmltv_id="fubo Sports Network">fubo Sports Network</channel>
     <channel update="i" site="pluto.tv.E" site_id="5df975e2b27cf5000921c102" xmltv_id="beIN SPORTS XTRA">beIN SPORTS XTRA</channel>
     <channel update="i" site="pluto.tv.E" site_id="5df97894467dfa00091c873c" xmltv_id="NBC News NOW">NBC News NOW</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e1f7da4bc7d740009831259" xmltv_id="America's Voice News">America's Voice News</channel>
@@ -197,34 +192,41 @@
     <channel update="i" site="pluto.tv.E" site_id="5e46fba0c43b0d00096e5ac1" xmltv_id="Blaze Live">Blaze Live</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e54169f4b9b25000994a303" xmltv_id="People Are Awesome">People Are Awesome</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e54187aae660e00093561d6" xmltv_id="Game Show Central">Game Show Central</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e66900909b4410007e74a50" xmltv_id="Narco Novelas">Narco Novelas</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e6690befbdf780007f78158" xmltv_id="Nuestra Vision">Nuestra Vision</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e6690befbdf780007f78158" xmltv_id="Nuestra Visión">Nuestra Visión</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e66928133461100077dfd73" xmltv_id="Johnny Carson TV">Johnny Carson TV</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e7cf6608c805600078872f2" xmltv_id="AWE Encore">AWE Encore</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e7cf6c7b156d500078c5f44" xmltv_id="OAN Encore">OAN Encore</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e66968a70f34c0007d050be" xmltv_id="MLB">MLB</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e7cf6c7b156d500078c5f44" xmltv_id="OAN Plus">OAN Plus</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e82530945600e0007ca076c" xmltv_id="All Reality by WE tv">All Reality by WE tv</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e8254118601b80007b4b7ae" xmltv_id="Stories by AMC">Stories by AMC</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e82547b6b3df60007fec2b5" xmltv_id="Slightly Off By IFC">Slightly Off By IFC</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e825550e758c700077b0aef" xmltv_id="The Rifleman">The Rifleman</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e82b55ad0213e00079c509f" xmltv_id="AFV TV">AFV TV</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e82bb378601b80007b4bd78" xmltv_id="The Walking Dead ESP">The Walking Dead ESP</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e84db2db3851800077c871e" xmltv_id="Novelas Romance">Novelas Romance</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e84dbf4a838b60007ffbba1" xmltv_id="Novelas Drama">Novelas Drama</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e84dc59026b9b000766f9a2" xmltv_id="Novelas Thriller">Novelas Thriller</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e82bb378601b80007b4bd78" xmltv_id="The Walking Dead en español">The Walking Dead en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e84db2db3851800077c871e" xmltv_id="Amantes del romance">Amantes del romance</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e84dbf4a838b60007ffbba1" xmltv_id="Novelas con la abuela">Novelas con la abuela</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e84dc59026b9b000766f9a2" xmltv_id="Badass novelas">Badass novelas</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e84f54a82f05300080e6746" xmltv_id="America's Test Kitchen">America's Test Kitchen</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e8df4bc16e34700077e77d3" xmltv_id="Western TV">Western TV</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5e94cd036cc69d0007e8a1ba" xmltv_id="Forensic Files en ESP">Forensic Files en ESP</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5e94cd036cc69d0007e8a1ba" xmltv_id="Crímenes imperfectos">Crímenes imperfectos</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e9debf8c881310007d7bde1" xmltv_id="Deal or No Deal">Deal or No Deal</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e9decb953e157000752321c" xmltv_id="Judge Nosey">Judge Nosey</channel>
     <channel update="i" site="pluto.tv.E" site_id="5e9f2c05172a0f0007db4786" xmltv_id="CBS Sports HQ">CBS Sports HQ</channel>
     <channel update="i" site="pluto.tv.E" site_id="5eac6b8efb7a6500070b5c9b" xmltv_id="Announcement">Announcement</channel>
     <channel update="i" site="pluto.tv.E" site_id="5eac6bf103a57700073efcc5" xmltv_id="Announcement">Announcement</channel>
     <channel update="i" site="pluto.tv.E" site_id="5eac6c5d2240d80007327f5a" xmltv_id="Announcement">Announcement</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1aeb2fd4b8a00076c2047" xmltv_id="CBSN Chicago">CBSN Chicago</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1af2ad345340008fccd1e" xmltv_id="CBSN Boston">CBSN Boston</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1afb21486df0007abc57c" xmltv_id="CBSN Bay Area">CBSN Bay Area</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1b05ea168cc000767ba67" xmltv_id="CBSN Philly">CBSN Philly</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1b0bf2240d8000732a09c" xmltv_id="CBSN Minnesota">CBSN Minnesota</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1b12146cba40007aa7e5d" xmltv_id="CBSN Denver">CBSN Denver</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eb1b17aa5277e00083f6521" xmltv_id="CBSN Pittsburgh">CBSN Pittsburgh</channel>
     <channel update="i" site="pluto.tv.E" site_id="5eb301b7395671000780d100" xmltv_id="Little Baby Bum">Little Baby Bum</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ebc8688f3697d00072f7cf8" xmltv_id="Bellator MMA">Bellator MMA</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ecd60a893483f0007d9b98d" xmltv_id="Outside TV+">Outside TV+</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ece9b55aeeb02000825e433" xmltv_id="grvty">grvty</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ece9beb0a542e0007199c2f" xmltv_id="Tastemade">Tastemade</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5eceb0d4065c240007688ec6" xmltv_id="CBSN Dallas">CBSN Dallas</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ef0fbed39ff730007383a69" xmltv_id="Dabl">Dabl</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ef3958c66ac540007d6e6a7" xmltv_id="Dark Shadows">Dark Shadows</channel>
     <channel update="i" site="pluto.tv.E" site_id="5ef396d1be50a3000722808b" xmltv_id="The Carol Burnett Show">The Carol Burnett Show</channel>
@@ -241,13 +243,92 @@
     <channel update="i" site="pluto.tv.E" site_id="5f15e3cccf49290007053c67" xmltv_id="Classic TV Drama">Classic TV Drama</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f161c0a8ba90f0007d5bd0b" xmltv_id="Yahoo Finance">Yahoo Finance</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f186626dcd00d0007936443" xmltv_id="GameSpot">GameSpot</channel>
-    <channel update="i" site="pluto.tv.E" site_id="5f1efad04320070007dbb60b" xmltv_id="Black News Channel">Black News Channel</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f1efad04320070007dbb60b" xmltv_id="BNC GO">BNC GO</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f21e7b24744c60007c1f6fc" xmltv_id="Survivor">Survivor</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f21e831e9fe730007706acb" xmltv_id="Rescue 911">Rescue 911</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f21e8a6e2f12b000755afdb" xmltv_id="The Amazing Race">The Amazing Race</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f21ea08007a49000762d349" xmltv_id="Smithsonian Channel Selects">Smithsonian Channel Selects</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f24662bebe0f0000767de32" xmltv_id="Pluto TV Drama Life">Pluto TV Drama Life</channel>
     <channel update="i" site="pluto.tv.E" site_id="5f31fd1b4c510e00071c3103" xmltv_id="Pluto TV Crime Drama">Pluto TV Crime Drama</channel>
-  <!-- pluto.tv DACH !-->
+    <channel update="i" site="pluto.tv.E" site_id="5f32f26bcd8aea00071240e5" xmltv_id="Vevo '70s">Vevo '70s</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f32f397795b750007706448" xmltv_id="Vevo Reggaetón &amp; Trap">Vevo Reggaetón &amp; Trap</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f36d726234ce10007784f2a" xmltv_id="The Bob Ross Channel">The Bob Ross Channel</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4d83e0a382c00007bc02e7" xmltv_id="90210">90210</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4d8594eb979c0007706de7" xmltv_id="Pluto TV Crime Movies">Pluto TV Crime Movies</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4d863b98b41000076cd061" xmltv_id="Pluto TV Staff Picks">Pluto TV Staff Picks</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4d86f519358a00072b978e" xmltv_id="90s Throwback">90s Throwback</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4d878d3d19b30007d2e782" xmltv_id="70s Cinema">70s Cinema</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4d882d5233170007ee880e" xmltv_id="Misterios sin resolver">Misterios sin resolver</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4ec10ed9636f00089b8c89" xmltv_id="Yu-Gi-Oh">Yu-Gi-Oh</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f4ff8c8bcf3d600078af3eb" xmltv_id="The Design Network">The Design Network</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f513564e4622a0007c578c0" xmltv_id="Cine ¡¡jaja!!">Cine ¡¡jaja!!</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f5136317aedfb0007016f93" xmltv_id="Cine XOXO">Cine XOXO</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f5bd666c0a7600007af6c20" xmltv_id="Gameplay: Call of Duty">Gameplay: Call of Duty</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f5bd769ccef5c000781c342" xmltv_id="Gameplay: Fortnite">Gameplay: Fortnite</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f5bd7fb15c9a300077ee52a" xmltv_id="Gameplay: Sports">Gameplay: Sports</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f62dc3a71bc8b0007572fb0" xmltv_id="Forensic Files 2">Forensic Files 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f68f53eb1e5800007390bf8" xmltv_id="CMT Equal Play">CMT Equal Play</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7274806621ff00072651ff" xmltv_id="Narcos">Narcos</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f778729ac60bd0007023d07" xmltv_id="CSI 2">CSI 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f77879983bec60007e2a196" xmltv_id="Star Trek 2">Star Trek 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7787e802a7ee0007a08d20" xmltv_id="Love &amp; Hip Hop 2">Love &amp; Hip Hop 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f77884314396a00070dfd5b" xmltv_id="Unsolved Mysteries 2">Unsolved Mysteries 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7788ab8777280007781296" xmltv_id="Nosey 2">Nosey 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f77895fb3add2000735ac29" xmltv_id="BET Pluto TV 3">BET Pluto TV 3</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7789c1d210fd0007a92182" xmltv_id="VH1 Hip Hop Family 2">VH1 Hip Hop Family 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f778a052360b30007fa5e32" xmltv_id="TV Land Sitcoms 2">TV Land Sitcoms 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f778a59b02eb40007f6d70b" xmltv_id="Logo Pluto TV 2">Logo Pluto TV 2</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7790b3ed0c88000720b241" xmltv_id="One Piece">One Piece</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7791b8372da90007fd45e6" xmltv_id="The Price Is Right: The Barker Era">The Price Is Right: The Barker Era</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7792f6e093980007e02945" xmltv_id="Wings">Wings</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f77939a630f530007dde654" xmltv_id="Family Ties">Family Ties</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7794162a4559000781fc12" xmltv_id="Happy Days">Happy Days</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7794a788d29000079d2f07" xmltv_id="The Love Boat">The Love Boat</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7796e470510900070d4e3d" xmltv_id="Beverly Hillbillies">Beverly Hillbillies</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f77977bd924d80007eee60c" xmltv_id="Mission Impossible">Mission Impossible</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f779951372da90007fd45e8" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f7b47f12a45590007821749" xmltv_id="Narcos en español">Narcos en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f84ce2ac265700008d48dcf" xmltv_id="Pac-12 Insider">Pac-12 Insider</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f988934a507de00075d9ae7" xmltv_id="Showtime Selects">Showtime Selects</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5f99e24636d67d0007a94e6d" xmltv_id="Comedy Central Animation">Comedy Central Animation</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fac425f949b4600079938f3" xmltv_id="Pluto TV Boxing">Pluto TV Boxing</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fac431fc1ffbc0007e6b6a7" xmltv_id="Pluto TV Pro Wrestling">Pluto TV Pro Wrestling</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fac43a40fe4ab0007f478ac" xmltv_id="Dr. Oz">Dr. Oz</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fb5836fe745b600070fc743" xmltv_id="BBC Home">BBC Home</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fb5844bf5514d0007945bda" xmltv_id="BBC Food">BBC Food</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fb584b7613a31000789de5a" xmltv_id="Ryan and Friends">Ryan and Friends</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fc54366b04b2300072e31af" xmltv_id="PokerGo">PokerGo</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fd7b8bf927e090007685853" xmltv_id="Vevo '80s">Vevo '80s</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fd7bb1f86d94a000796e2c2" xmltv_id="Vevo '90s">Vevo '90s</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5fd7bca3e0a4ee0007a38e8c" xmltv_id="Vevo 2K">Vevo 2K</channel>
+    <channel update="i" site="pluto.tv.E" site_id="5ff8c708653d080007361b14" xmltv_id="Paramount+ Picks">Paramount+ Picks</channel>
+    <channel update="i" site="pluto.tv.E" site_id="6000a5a9e767980007b497ca" xmltv_id="Crime 360">Crime 360</channel>
+    <channel update="i" site="pluto.tv.E" site_id="6000a6f4c3f8550008fc9b91" xmltv_id="Skills + Thrills">Skills + Thrills</channel>
+    <channel update="i" site="pluto.tv.E" site_id="6008ddf24ef92b00079d61cf" xmltv_id="Movies for Gamers">Movies for Gamers</channel>
+    <channel update="i" site="pluto.tv.E" site_id="601a026c464ef900073130f0" xmltv_id="Nashville">Nashville</channel>
+    <channel update="i" site="pluto.tv.E" site_id="601a0342dcf4370007566891" xmltv_id="Tiny House Nation">Tiny House Nation</channel>
+    <channel update="i" site="pluto.tv.E" site_id="604928030aa8a70007c1f213" xmltv_id="Nashville en español">Nashville en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="604928d54a4f730007ff76bc" xmltv_id="CSI en español">CSI en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="6049295e7dcef800073c2499" xmltv_id="Viaje a las estrellas">Viaje a las estrellas</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492a1e6361250007679665" xmltv_id="Emergencia 911">Emergencia 911</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492a9bbca75b0007b1bfd5" xmltv_id="Mundo paranormal">Mundo paranormal</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492b2794116800073e32dc" xmltv_id="Hell's Kitchen en español">Hell's Kitchen en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492bb931054f00073c0b4e" xmltv_id="Sony Canal Comedias">Sony Canal Comedias</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492c67f4c48700075b5d37" xmltv_id="Entre nosotras">Entre nosotras</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492d5522166000071a73c8" xmltv_id="Telefe noticias">Telefe noticias</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492dcf1c9b6a00089f41df" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492e6d7f3f560007ab0f62" xmltv_id="Estrella News">Estrella News</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492ee6375a3900079a158c" xmltv_id="Nosey escándalos">Nosey escándalos</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492f6c4a4f730007ff76c5" xmltv_id="Nosey casos">Nosey casos</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60492fdd9989d30007ccd30a" xmltv_id="beIN SPORTS XTRA en español">beIN SPORTS XTRA en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60493045fbb5e50007b36f4d" xmltv_id="Naruto en español">Naruto en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="604930bc28b24d0007e0e171" xmltv_id="Yu-Gi-Oh! en español">Yu-Gi-Oh! en español</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60493283ffc52f000710edae" xmltv_id="Bebecito Bum y sus amigos">Bebecito Bum y sus amigos</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60511efd71ec430007f50d97" xmltv_id="Mundo viajero">Mundo viajero</channel>
+    <channel update="i" site="pluto.tv.E" site_id="6051201a0aa8a70007c24a2a" xmltv_id="Mundo geek">Mundo geek</channel>
+    <channel update="i" site="pluto.tv.E" site_id="605e479d5b8229000763e697" xmltv_id="Sony Canal Escape Perfecto">Sony Canal Escape Perfecto</channel>
+    <channel update="i" site="pluto.tv.E" site_id="60807fd5db701400078219c2" xmltv_id="Ink Master">Ink Master</channel>
+  <!--DACH-->
     <channel update="i" site="pluto.tv" site_id="5db6a697d5f34a000934cd13" xmltv_id="MTV Catfish">MTV Catfish</channel>
     <channel update="i" site="pluto.tv" site_id="5caf325764025859afdd6c4d" xmltv_id="MTV Pluto TV">MTV Pluto TV</channel>
     <channel update="i" site="pluto.tv" site_id="5caf330ea5068259a32320fd" xmltv_id="MTV Dating">MTV Dating</channel>
