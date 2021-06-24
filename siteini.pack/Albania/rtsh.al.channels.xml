@@ -1,13 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23.1 -- Jan van Straaten" site="rtsh.al">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="rtsh.al">
   <channels>
-    <channel update="i" site="rtsh.al" site_id="programi-tvsh/" xmltv_id="TVSH">TVSH</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-tvsh-2/" xmltv_id="TVSH 2">TVSH 2</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-rtsh-hd/" xmltv_id="RTSH HD">RTSH HD</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-rtsh-art/" xmltv_id="RTSH art">RTSH art</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-rtsh-muzike/" xmltv_id="RTSH muzikë">RTSH muzikë</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-rtsh-sport/" xmltv_id="RTSH sport">RTSH sport</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-rtsh-satelit/" xmltv_id="RTSH satelit">RTSH satelit</channel>
-    <channel update="i" site="rtsh.al" site_id="programi-radio-tirana/" xmltv_id="Radio Tirana">Radio Tirana</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-1" xmltv_id="RTSH 1">RTSH 1</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-2" xmltv_id="RTSH 2">RTSH 2</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-3" xmltv_id="RTSH 3">RTSH 3</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-24" xmltv_id="RTSH 24">RTSH 24</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-sport" xmltv_id="RTSH Sport">RTSH Sport</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-shkolle" xmltv_id="RTSH Shkollë">RTSH Shkollë</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-femije" xmltv_id="RTSH Femijë">RTSH Femijë</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-agro" xmltv_id="RTSH Agro">RTSH Agro</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-muzike" xmltv_id="RTSH Muzikë">RTSH Muzikë</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-film" xmltv_id="RTSH Film">RTSH Film</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-shqip" xmltv_id="RTSH Shqip">RTSH Shqip</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-kuvend" xmltv_id="RTSH Kuvend">RTSH Kuvend</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-kor-a" xmltv_id="RTSH Korça">RTSH Korça</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-gjirokastra" xmltv_id="RTSH Gjirokastra">RTSH Gjirokastra</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-kukesi" xmltv_id="RTSH Kukësi">RTSH Kukësi</channel>
+    <channel update="i" site="rtsh.al" site_id="rtsh-plus" xmltv_id="RTSH Plus">RTSH Plus</channel>
   </channels>
 </site>
