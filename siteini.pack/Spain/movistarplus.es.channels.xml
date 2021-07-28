@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="movistarplus.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" site="movistarplus.es">
   <channels>
     <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA 1">LA 1</channel>
     <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA 2">LA 2</channel>
@@ -41,7 +41,7 @@
     <channel update="i" site="movistarplus.es" site_id="FOXCR" xmltv_id="Fox Life">Fox Life</channel>
     <channel update="i" site="movistarplus.es" site_id="SET" xmltv_id="AXN White">AXN White</channel>
     <channel update="i" site="movistarplus.es" site_id="SCI-FI" xmltv_id="SYFY">SYFY</channel>
-    <channel update="i" site="movistarplus.es" site_id="MVHS" xmltv_id="M. VHS">M. VHS</channel>
+    <channel update="i" site="movistarplus.es" site_id="MONFIR" xmltv_id="M. Fest">M. Fest</channel>
     <channel update="i" site="movistarplus.es" site_id="MTV" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="movistarplus.es" site_id="FDFIC" xmltv_id="Factoría de Ficción">Factoría de Ficción</channel>
     <channel update="i" site="movistarplus.es" site_id="NEOX" xmltv_id="Neox">Neox</channel>
@@ -68,10 +68,10 @@
     <channel update="i" site="movistarplus.es" site_id="CHAP1" xmltv_id="M. Liga de Campeones 1">M. Liga de Campeones 1</channel>
     <channel update="i" site="movistarplus.es" site_id="CHAP2" xmltv_id="M. Liga de Campeones 2">M. Liga de Campeones 2</channel>
     <channel update="i" site="movistarplus.es" site_id="CPDEP" xmltv_id="Movistar Deportes">Movistar Deportes</channel>
-    <channel update="i" site="movistarplus.es" site_id="ARTHUR" xmltv_id="M. Deportes 1">M. Deportes 1</channel>
-    <channel update="i" site="movistarplus.es" site_id="USOP2" xmltv_id="M. Deportes 2">M. Deportes 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="USOP3" xmltv_id="M. Deportes 3">M. Deportes 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="GOLF%2B" xmltv_id="Movistar Golf">Movistar Golf</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARTHUR" xmltv_id="Eurosport 3">Eurosport 3</channel>
+    <channel update="i" site="movistarplus.es" site_id="USOP2" xmltv_id="Eurosport 4">Eurosport 4</channel>
+    <channel update="i" site="movistarplus.es" site_id="USOP3" xmltv_id="Eurosport 5">Eurosport 5</channel>
+    <channel update="i" site="movistarplus.es" site_id="GOLF " xmltv_id="Movistar Golf">Movistar Golf</channel>
     <channel update="i" site="movistarplus.es" site_id="MVF1" xmltv_id="DAZN F1">DAZN F1</channel>
     <channel update="i" site="movistarplus.es" site_id="M1SD" xmltv_id="DAZN 1">DAZN 1</channel>
     <channel update="i" site="movistarplus.es" site_id="M2SD" xmltv_id="DAZN 2">DAZN 2</channel>
@@ -132,12 +132,12 @@
     <channel update="i" site="movistarplus.es" site_id="SKYNW" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="movistarplus.es" site_id="INTECO" xmltv_id="El Toro TV">El Toro TV</channel>
     <channel update="i" site="movistarplus.es" site_id="NEGOTV" xmltv_id="Negocios TV">Negocios TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="DKISS" xmltv_id="DKISS">DKISS</channel>
     <channel update="i" site="movistarplus.es" site_id="RTFRHD" xmltv_id="RT France HD">RT France HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="DKISS" xmltv_id="DKISS">DKISS</channel>
     <channel update="i" site="movistarplus.es" site_id="FUTREP" xmltv_id="Canal Fútbol Replay">Canal Fútbol Replay</channel>
     <channel update="i" site="movistarplus.es" site_id="CNCWOR" xmltv_id="CNC World">CNC World</channel>
-    <channel update="i" site="movistarplus.es" site_id="ARIRHD" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
     <channel update="i" site="movistarplus.es" site_id="CCTV-E" xmltv_id="CGTN Español">CGTN Español</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARIRHD" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
     <channel update="i" site="movistarplus.es" site_id="TELEFE" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
     <channel update="i" site="movistarplus.es" site_id="GALAV" xmltv_id="Canal de las Estrellas">Canal de las Estrellas</channel>
     <channel update="i" site="movistarplus.es" site_id="CHILE" xmltv_id="TV Chile">TV Chile</channel>
@@ -156,8 +156,8 @@
     <channel update="i" site="movistarplus.es" site_id="ESP3" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3 24">3 24</channel>
     <channel update="i" site="movistarplus.es" site_id="BTV" xmltv_id="Betevé">Betevé</channel>
-    <channel update="i" site="movistarplus.es" site_id="TQ1" xmltv_id="Alquiler 1">Alquiler 1</channel>
     <channel update="i" site="movistarplus.es" site_id="HDTQ10" xmltv_id="Alquiler HD">Alquiler HD</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ1" xmltv_id="Alquiler 1">Alquiler 1</channel>
     <channel update="i" site="movistarplus.es" site_id="MLIG4" xmltv_id="M. LaLiga 4">M. LaLiga 4</channel>
     <channel update="i" site="movistarplus.es" site_id="MLIG5" xmltv_id="M. LaLiga 5">M. LaLiga 5</channel>
     <channel update="i" site="movistarplus.es" site_id="DAZN3" xmltv_id="DAZN 3">DAZN 3</channel>
@@ -168,13 +168,14 @@
     <channel update="i" site="movistarplus.es" site_id="CHAP6" xmltv_id="M. Liga de Campeones 6">M. Liga de Campeones 6</channel>
     <channel update="i" site="movistarplus.es" site_id="CHAP7" xmltv_id="M. Liga de Campeones 7">M. Liga de Campeones 7</channel>
     <channel update="i" site="movistarplus.es" site_id="CHAP8" xmltv_id="M. Liga de Campeones 8">M. Liga de Campeones 8</channel>
-    <channel update="i" site="movistarplus.es" site_id="USOP11" xmltv_id="M. Deportes 4">M. Deportes 4</channel>
-    <channel update="i" site="movistarplus.es" site_id="MULTI8" xmltv_id="M. Deportes 5">M. Deportes 5</channel>
-    <channel update="i" site="movistarplus.es" site_id="MULTI6" xmltv_id="M. Deportes 6">M. Deportes 6</channel>
-    <channel update="i" site="movistarplus.es" site_id="MULTI9" xmltv_id="M. DEPORTES7">M. DEPORTES7</channel>
+    <channel update="i" site="movistarplus.es" site_id="USOP11" xmltv_id="Eurosport 6">Eurosport 6</channel>
+    <channel update="i" site="movistarplus.es" site_id="MULTI8" xmltv_id="Eurosport 7">Eurosport 7</channel>
+    <channel update="i" site="movistarplus.es" site_id="MULTI6" xmltv_id="Eurosport 8">Eurosport 8</channel>
+    <channel update="i" site="movistarplus.es" site_id="MULTI9" xmltv_id="Eurosport 9">Eurosport 9</channel>
     <channel update="i" site="movistarplus.es" site_id="MLIGUH" xmltv_id="M. LaLiga UHD">M. LaLiga UHD</channel>
     <channel update="i" site="movistarplus.es" site_id="CHAUHD" xmltv_id="M. Liga de Campeones UHD">M. Liga de Campeones UHD</channel>
     <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="DAZN F1 4K">DAZN F1 4K</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP4K" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
     <channel update="i" site="movistarplus.es" site_id="DWSP" xmltv_id="Dreamworks">Dreamworks</channel>
     <channel update="i" site="movistarplus.es" site_id="FRANCE" xmltv_id="FRANCE24 (FR)">FRANCE24 (FR)</channel>
     <channel update="i" site="movistarplus.es" site_id="MLI1UH" xmltv_id="M. LaLiga 1 UHD">M. LaLiga 1 UHD</channel>
