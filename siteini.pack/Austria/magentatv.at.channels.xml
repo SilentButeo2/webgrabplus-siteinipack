@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="magentatv.at">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.3 -- Jan van Straaten" site="magentatv.at">
   <channels>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Magenta_PULS24_HD" xmltv_id="Magenta HD">Magenta HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ORF_eins_HD" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
@@ -80,7 +80,7 @@
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Auto_Motor_und_Sport_Channel_UHD" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ORF_Sport__HD" xmltv_id="ORF Sport HD">ORF Sport HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Eurosport_1_HD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_News_HD" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_News_HD_HWT" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sport_1_HD" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Laola1_TV_HD" xmltv_id="Laola1TV HD">Laola1TV HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:AlpentourTV_HD" xmltv_id="K19">K19</channel>
@@ -148,6 +148,7 @@
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Bloomberg_Europe" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:YouTube_App" xmltv_id="YouTube">YouTube</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:PrimeVideo_App" xmltv_id="Prime Video">Prime Video</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:YouTubeKids_App" xmltv_id="YouTube Kids">YouTube Kids</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ORF_eins" xmltv_id="ORF 1">ORF 1</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ORF2_Wien" xmltv_id="ORF 2 Wien">ORF 2 Wien</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ATV" xmltv_id="ATV">ATV</channel>
@@ -197,7 +198,7 @@
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:MTV_90s" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:MTV_Dance" xmltv_id="Club MTV">Club MTV</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:MTVhits_" xmltv_id="MTVhits">MTVhits</channel>
-    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:VH_1_Europe" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:VH_1_Europe" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Hayat" xmltv_id="Hayat">Hayat</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Pink_Plus" xmltv_id="Pink Plus">Pink Plus</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Pink_Extra" xmltv_id="Pink Extra">Pink Extra</channel>
@@ -250,6 +251,7 @@
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ORF2_Tirol" xmltv_id="ORF 2 Tirol">ORF 2 Tirol</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:ORF2_Vorarlberg" xmltv_id="ORF 2 Vorarlberg">ORF 2 Vorarlberg</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_1" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_1_HWT" xmltv_id="Sky 1 HD">Sky 1 HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Disney_XD" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Popup_Channel_HD" xmltv_id="Sky Serien  Shows HD">Sky Serien  Shows HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Crime_HD" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
@@ -261,17 +263,21 @@
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Disney_Cinemagic_HD" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Cinema_Action_HD" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Cinema_Thriller_HD" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
-    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Cinema_Family" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
-    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Cinema" xmltv_id="Sky Cinema Premieren">Sky Cinema Premieren</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Cinema__24" xmltv_id="Sky Cinema Premieren 24">Sky Cinema Premieren 24</channel>
-    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Hits" xmltv_id="Sky Cinema Best of">Sky Cinema Best of</channel>
-    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Action" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Nostalgie" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Comedy" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_News_HD" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_HD" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_2_HD" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_3_HD" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_4_HD" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_5_HD" xmltv_id="Sky Sport Austria 5 HD">Sky Sport Austria 5 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_6_HD" xmltv_id="Sky Sport Austria 6 HD">Sky Sport Austria 6 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_7_HD" xmltv_id="Sky Sport Austria 7 HD">Sky Sport Austria 7 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_HD_HWT" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_2_HD_HWT" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_3_HD_HWT" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
+    <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_Austria_4_HD_HWT" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_F1_HD" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_HD_1" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
     <channel update="i" site="magentatv.at" site_id="AT/deu_lgi-at-prodobo-master:Sky_Sport_HD_2" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
