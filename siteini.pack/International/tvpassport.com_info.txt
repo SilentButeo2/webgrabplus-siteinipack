@@ -4,16 +4,17 @@ Creating a channellist file for tvpassport.com , two steps:
 step 1:
 enter you zip/postal code(no spaces) in the site_id="xxxxx",use this line in you webgrab++config.xml to create a provider list.
  example...
- <channel update="i" site="tvpassport.com" site_id="10001" xmltv_id="dummy">dummy</channel>
+ <channel update="i" site="tvpassport.com" site_id="10001" xmltv_id="dummy">dummy</channel> or
  <channel update="i" site="tvpassport.com" site_id="L9H1N3" xmltv_id="dummy">dummy</channel>
-use <update>c1</update>
+ 
+use in config  <update>c1-10001-NY</update>
 run
 Result in tvpassport.com.channels.c1.xml
 
 step 2:
 use a provider line from the file created above
- example ..
- <channel update="i" site="tvpassport.com" site_id="1743" xmltv_id="Bell TV-Eastern Canada, ON">Bell TV-Eastern Canada, ON</channel>
+    <channel update="i" site="tvpassport.com" site_id="2381D?lineupname=DirecTV+-+National%2C+NY+" xmltv_id="DirecTV - National, NY">DirecTV - National, NY</channel>
+
 use <update>c2</update>
 run
 The final channellist file is tvpassport.com.channels.c2.xml
