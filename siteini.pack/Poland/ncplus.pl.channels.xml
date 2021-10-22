@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.6.0 -- Jan van Straaten" site="ncplus.pl">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.1 -- Jan van Straaten" site="ncplus.pl">
   <channels>
     <channel update="i" site="ncplus.pl" site_id="canal-hd" xmltv_id="CANAL+ Premium">CANAL+ Premium</channel>
     <channel update="i" site="ncplus.pl" site_id="canal-1" xmltv_id="CANAL+ 1 HD">CANAL+ 1 HD</channel>
@@ -17,8 +17,8 @@
     <channel update="i" site="ncplus.pl" site_id="minimini-hd" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
     <channel update="i" site="ncplus.pl" site_id="teletoon-hd" xmltv_id="teleTOON+ HD">teleTOON+ HD</channel>
     <channel update="i" site="ncplus.pl" site_id="planete-hd" xmltv_id="Planete+ HD">Planete+ HD</channel>
-    <channel update="i" site="ncplus.pl" site_id="kuchnia-hd" xmltv_id="Kuchnia+ HD">Kuchnia+ HD</channel>
-    <channel update="i" site="ncplus.pl" site_id="domo-hd" xmltv_id="Domo+ HD">Domo+ HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="kuchnia-hd" xmltv_id="Canal+ Kuchnia">Canal+ Kuchnia</channel>
+    <channel update="i" site="ncplus.pl" site_id="domo-hd" xmltv_id="Canal+ Domo">Canal+ Domo</channel>
     <channel update="i" site="ncplus.pl" site_id="tvn-hd" xmltv_id="TVN HD">TVN HD</channel>
     <channel update="i" site="ncplus.pl" site_id="tvn-7-hd" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
     <channel update="i" site="ncplus.pl" site_id="tvn-style-hd" xmltv_id="TVN Style HD">TVN Style HD</channel>
@@ -44,7 +44,7 @@
     <channel update="i" site="ncplus.pl" site_id="tvn-biznes-i-swiat" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
     <channel update="i" site="ncplus.pl" site_id="tvn-meteo-active" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="ncplus.pl" site_id="metro-tv" xmltv_id="METRO">METRO</channel>
-    <channel update="i" site="ncplus.pl" site_id="superstacja" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="ncplus.pl" site_id="superstacja" xmltv_id="Wydarzenia 24">Wydarzenia 24</channel>
     <channel update="i" site="ncplus.pl" site_id="puls-2" xmltv_id="Puls2">Puls2</channel>
     <channel update="i" site="ncplus.pl" site_id="cinemax-hd" xmltv_id="Cinemax HD">Cinemax HD</channel>
     <channel update="i" site="ncplus.pl" site_id="cinemax2-hd" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
@@ -82,7 +82,6 @@
     <channel update="i" site="ncplus.pl" site_id="h2-hd" xmltv_id="HISTORY 2 HD">HISTORY 2 HD</channel>
     <channel update="i" site="ncplus.pl" site_id="adventure-hd" xmltv_id="Adventure HD">Adventure HD</channel>
     <channel update="i" site="ncplus.pl" site_id="travel-channel" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
-    <channel update="i" site="ncplus.pl" site_id="fokus-tv" xmltv_id="FOKUS TV">FOKUS TV</channel>
     <channel update="i" site="ncplus.pl" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="ncplus.pl" site_id="nick-jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
     <channel update="i" site="ncplus.pl" site_id="cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
@@ -129,13 +128,12 @@
     <channel update="i" site="ncplus.pl" site_id="mtv-polska" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
     <channel update="i" site="ncplus.pl" site_id="nat-geo-people-hd" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
     <channel update="i" site="ncplus.pl" site_id="e-entertainment" xmltv_id="E!Entertainment HD">E!Entertainment HD</channel>
-    <channel update="i" site="ncplus.pl" site_id="nowa-tv" xmltv_id="Nowa TV">Nowa TV</channel>
     <channel update="i" site="ncplus.pl" site_id="polsat-romans" xmltv_id="Polsat Seriale">Polsat Seriale</channel>
     <channel update="i" site="ncplus.pl" site_id="ntl-radomsko" xmltv_id="TVC">TVC</channel>
-    <channel update="i" site="ncplus.pl" site_id="viva-polska" xmltv_id="MTV Music Polska">MTV Music Polska</channel>
+    <channel update="i" site="ncplus.pl" site_id="viva-polska" xmltv_id="nick music">nick music</channel>
     <channel update="i" site="ncplus.pl" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="ncplus.pl" site_id="mtv-rocks" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="ncplus.pl" site_id="vh1" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="ncplus.pl" site_id="vh1" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel update="i" site="ncplus.pl" site_id="8tv" xmltv_id="ESKA TV">ESKA TV</channel>
     <channel update="i" site="ncplus.pl" site_id="4-fun-tv" xmltv_id="4 FUN.TV">4 FUN.TV</channel>
     <channel update="i" site="ncplus.pl" site_id="mjuziktv" xmltv_id="4 Fun Kids">4 Fun Kids</channel>
@@ -181,6 +179,8 @@
     <channel update="i" site="ncplus.pl" site_id="tbn-polska" xmltv_id="TBN Polska">TBN Polska</channel>
     <channel update="i" site="ncplus.pl" site_id="canal-4k-ultra-hd" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
     <channel update="i" site="ncplus.pl" site_id="biznes24-hd" xmltv_id="BIZNES24 HD">BIZNES24 HD</channel>
+    <channel update="i" site="ncplus.pl" site_id="kanal-wirtualny1" xmltv_id="Kanał wirtualny 1">Kanał wirtualny 1</channel>
+    <channel update="i" site="ncplus.pl" site_id="kanal_wirtualny2" xmltv_id="Kanał wirtualny 2">Kanał wirtualny 2</channel>
     <channel update="i" site="ncplus.pl" site_id="kanal-wirtualny3" xmltv_id="Kanał wirtualny 3">Kanał wirtualny 3</channel>
     <channel update="i" site="ncplus.pl" site_id="novelas-2" xmltv_id="Novelas+">Novelas+</channel>
   </channels>
