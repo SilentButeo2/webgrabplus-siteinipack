@@ -6,8 +6,15 @@ xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:local
 This command will +1 hour and 30 minutes correction to channel HBO:
 xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:+01:30 /channels:"HBO" 
 
+For linux users it will be:
+mono /home/ubuntu/Desktop/.wg++/postprocess_plugins/xmltv_time_modify/xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:+01:30 /channels:"HBO" 
+
+
 For detailed information of how the program works and what arguments it accepts, run "xmltv_time_modify.exe /?"
 or read the help.txt
 
 Example of use in  WebGrab+Plus plugin  .. add this to the webgrab++.config:
 <postprocess run="y" grab="y or n" >xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:local</postprocess> 
+
+For linux users is preferrable to add full path to the webgrab++.config:
+<postprocess grab="y" run="y">/home/ubuntu/Desktop/.wg++/postprocess_plugins/xmltv_time_modify/xmltv_time_modify.exe /in:epg.xml /out:epg_local.xml /correction:local</postprocess> 
