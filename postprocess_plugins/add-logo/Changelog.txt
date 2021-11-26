@@ -1,6 +1,10 @@
 Add or change channel logos in xmltv files, created by Jan van Straaten
 changelog
 
+Version 1.0.2
+26/11/2021
+	fixed	: crash when xmltv_id is longer that 25 chars
+
 Version 1.0.1
 09/11/2020
 	changed	: arguments parsing, accepts = or : as name value separator
