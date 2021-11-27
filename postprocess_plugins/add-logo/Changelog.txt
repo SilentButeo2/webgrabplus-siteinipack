@@ -1,6 +1,10 @@
 Add or change channel logos in xmltv files, created by Jan van Straaten
 changelog
 
+Version 1.0.3
+27/11/2021
+	fixed	: encoding mismatch between logos file and internal encoding .. set to UTF-8
+
 Version 1.0.2
 26/11/2021
 	fixed	: crash when xmltv_id is longer that 25 chars
