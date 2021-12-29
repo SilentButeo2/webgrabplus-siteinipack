@@ -1,130 +1,386 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.1 -- Jan van Straaten" site="delta.nl">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.1.5 -- Jan van Straaten" site="delta.nl">
   <channels>
-    <channel update="i" site="delta.nl" site_id="1" xmltv_id="NPO 1">NPO 1</channel>
-    <channel update="i" site="delta.nl" site_id="2" xmltv_id="NPO 2">NPO 2</channel>
-    <channel update="i" site="delta.nl" site_id="3" xmltv_id="NPO 3">NPO 3</channel>
-    <channel update="i" site="delta.nl" site_id="4" xmltv_id="RTL4">RTL4</channel>
-    <channel update="i" site="delta.nl" site_id="5" xmltv_id="RTL5">RTL5</channel>
-    <channel update="i" site="delta.nl" site_id="6" xmltv_id="SBS6">SBS6</channel>
-    <channel update="i" site="delta.nl" site_id="7" xmltv_id="RTL7">RTL7</channel>
-    <channel update="i" site="delta.nl" site_id="8" xmltv_id="DisneyXD/Veronica">DisneyXD/Veronica</channel>
-    <channel update="i" site="delta.nl" site_id="9" xmltv_id="NET5">NET5</channel>
-    <channel update="i" site="delta.nl" site_id="10" xmltv_id="RTL8">RTL8</channel>
-    <channel update="i" site="delta.nl" site_id="11" xmltv_id="Omroep Zeeland">Omroep Zeeland</channel>
-    <channel update="i" site="delta.nl" site_id="12" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="delta.nl" site_id="33" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="delta.nl" site_id="14" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
-    <channel update="i" site="delta.nl" site_id="15" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="delta.nl" site_id="74" xmltv_id="Spike">Spike</channel>
-    <channel update="i" site="delta.nl" site_id="51" xmltv_id="RTL Z">RTL Z</channel>
-    <channel update="i" site="delta.nl" site_id="54" xmltv_id="SBS9">SBS9</channel>
-    <channel update="i" site="delta.nl" site_id="53" xmltv_id="BBC First">BBC First</channel>
-    <channel update="i" site="delta.nl" site_id="52" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="delta.nl" site_id="17" xmltv_id="JenZ">JenZ</channel>
-    <channel update="i" site="delta.nl" site_id="13" xmltv_id="Discovery">Discovery</channel>
-    <channel update="i" site="delta.nl" site_id="19" xmltv_id="24Kitchen">24Kitchen</channel>
-    <channel update="i" site="delta.nl" site_id="27" xmltv_id="Zender van de Maand">Zender van de Maand</channel>
-    <channel update="i" site="delta.nl" site_id="3006" xmltv_id="HISTORY">HISTORY</channel>
-    <channel update="i" site="delta.nl" site_id="28" xmltv_id="VRT Eén">VRT Eén</channel>
-    <channel update="i" site="delta.nl" site_id="29" xmltv_id="VRT Canvas">VRT Canvas</channel>
-    <channel update="i" site="delta.nl" site_id="30" xmltv_id="VRT Ketnet">VRT Ketnet</channel>
-    <channel update="i" site="delta.nl" site_id="16" xmltv_id="ID">ID</channel>
-    <channel update="i" site="delta.nl" site_id="35" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="delta.nl" site_id="26" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="delta.nl" site_id="47" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="delta.nl" site_id="20" xmltv_id="NPO Nieuws">NPO Nieuws</channel>
-    <channel update="i" site="delta.nl" site_id="21" xmltv_id="NPO Politiek">NPO Politiek</channel>
-    <channel update="i" site="delta.nl" site_id="25" xmltv_id="NPO 1 Extra">NPO 1 Extra</channel>
-    <channel update="i" site="delta.nl" site_id="24" xmltv_id="NPO 2 Extra">NPO 2 Extra</channel>
-    <channel update="i" site="delta.nl" site_id="23" xmltv_id="NPO Zappelin Extra">NPO Zappelin Extra</channel>
-    <channel update="i" site="delta.nl" site_id="3046" xmltv_id="ONS">ONS</channel>
-    <channel update="i" site="delta.nl" site_id="3098" xmltv_id="RTV Noord">RTV Noord</channel>
-    <channel update="i" site="delta.nl" site_id="3096" xmltv_id="Omrop Fryslân">Omrop Fryslân</channel>
-    <channel update="i" site="delta.nl" site_id="3099" xmltv_id="RTV Drenthe">RTV Drenthe</channel>
-    <channel update="i" site="delta.nl" site_id="3097" xmltv_id="RTV Oost">RTV Oost</channel>
-    <channel update="i" site="delta.nl" site_id="3109" xmltv_id="Omroep Flevoland">Omroep Flevoland</channel>
-    <channel update="i" site="delta.nl" site_id="3107" xmltv_id="Omroep Gelderland">Omroep Gelderland</channel>
-    <channel update="i" site="delta.nl" site_id="3108" xmltv_id="L1">L1</channel>
-    <channel update="i" site="delta.nl" site_id="3095" xmltv_id="RTV Noord-Holland">RTV Noord-Holland</channel>
-    <channel update="i" site="delta.nl" site_id="3093" xmltv_id="AT5">AT5</channel>
-    <channel update="i" site="delta.nl" site_id="3050" xmltv_id="RTV Utrecht">RTV Utrecht</channel>
-    <channel update="i" site="delta.nl" site_id="3049" xmltv_id="TV West">TV West</channel>
-    <channel update="i" site="delta.nl" site_id="72" xmltv_id="TV Rijnmond">TV Rijnmond</channel>
-    <channel update="i" site="delta.nl" site_id="73" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
-    <channel update="i" site="delta.nl" site_id="31" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
-    <channel update="i" site="delta.nl" site_id="32" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="delta.nl" site_id="98" xmltv_id="192TV">192TV</channel>
-    <channel update="i" site="delta.nl" site_id="34" xmltv_id="100% NL TV">100% NL TV</channel>
-    <channel update="i" site="delta.nl" site_id="36" xmltv_id="MTV Brand New">MTV Brand New</channel>
-    <channel update="i" site="delta.nl" site_id="80" xmltv_id="MTV Music 24">MTV Music 24</channel>
-    <channel update="i" site="delta.nl" site_id="37" xmltv_id="Nick Music">Nick Music</channel>
-    <channel update="i" site="delta.nl" site_id="81" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="delta.nl" site_id="82" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel update="i" site="delta.nl" site_id="62" xmltv_id="Mezzo">Mezzo</channel>
-    <channel update="i" site="delta.nl" site_id="99" xmltv_id="TV Oranje">TV Oranje</channel>
-    <channel update="i" site="delta.nl" site_id="83" xmltv_id="Stingray Classica">Stingray Classica</channel>
-    <channel update="i" site="delta.nl" site_id="3001" xmltv_id="SLAM!TV">SLAM!TV</channel>
-    <channel update="i" site="delta.nl" site_id="84" xmltv_id="Stingray lite TV">Stingray lite TV</channel>
-    <channel update="i" site="delta.nl" site_id="85" xmltv_id="Stingray DJAZZ">Stingray DJAZZ</channel>
-    <channel update="i" site="delta.nl" site_id="3148" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
-    <channel update="i" site="delta.nl" site_id="3078" xmltv_id="Schlager TV">Schlager TV</channel>
-    <channel update="i" site="delta.nl" site_id="38" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="delta.nl" site_id="39" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="delta.nl" site_id="78" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="delta.nl" site_id="40" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="delta.nl" site_id="41" xmltv_id="Nick Toons">Nick Toons</channel>
-    <channel update="i" site="delta.nl" site_id="42" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="delta.nl" site_id="75" xmltv_id="RTL Telekids">RTL Telekids</channel>
-    <channel update="i" site="delta.nl" site_id="3002" xmltv_id="Pebble TV">Pebble TV</channel>
-    <channel update="i" site="delta.nl" site_id="79" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
-    <channel update="i" site="delta.nl" site_id="44" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="delta.nl" site_id="64" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="delta.nl" site_id="56" xmltv_id="BBC World News">BBC World News</channel>
-    <channel update="i" site="delta.nl" site_id="3076" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
-    <channel update="i" site="delta.nl" site_id="3118" xmltv_id="Bloomberg Television">Bloomberg Television</channel>
-    <channel update="i" site="delta.nl" site_id="3009" xmltv_id="Shorts TV">Shorts TV</channel>
-    <channel update="i" site="delta.nl" site_id="3007" xmltv_id="CI">CI</channel>
-    <channel update="i" site="delta.nl" site_id="76" xmltv_id="RTL Crime">RTL Crime</channel>
-    <channel update="i" site="delta.nl" site_id="45" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="delta.nl" site_id="3114" xmltv_id="E! Pop of Culture">E! Pop of Culture</channel>
-    <channel update="i" site="delta.nl" site_id="3010" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
-    <channel update="i" site="delta.nl" site_id="3149" xmltv_id="Insight TV HD">Insight TV HD</channel>
-    <channel update="i" site="delta.nl" site_id="3004" xmltv_id="FashionTV">FashionTV</channel>
-    <channel update="i" site="delta.nl" site_id="18" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="delta.nl" site_id="65" xmltv_id="Family 7">Family 7</channel>
-    <channel update="i" site="delta.nl" site_id="61" xmltv_id="Arte">Arte</channel>
-    <channel update="i" site="delta.nl" site_id="3011" xmltv_id="OUTtv">OUTtv</channel>
-    <channel update="i" site="delta.nl" site_id="77" xmltv_id="RTL Lounge">RTL Lounge</channel>
-    <channel update="i" site="delta.nl" site_id="3036" xmltv_id="FOX Sports 1">FOX Sports 1</channel>
-    <channel update="i" site="delta.nl" site_id="3037" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
-    <channel update="i" site="delta.nl" site_id="3038" xmltv_id="FOX Sports 3">FOX Sports 3</channel>
-    <channel update="i" site="delta.nl" site_id="3039" xmltv_id="FOX Sports 4">FOX Sports 4</channel>
-    <channel update="i" site="delta.nl" site_id="3040" xmltv_id="FOX Sports 5">FOX Sports 5</channel>
-    <channel update="i" site="delta.nl" site_id="3041" xmltv_id="FOX Sports 6">FOX Sports 6</channel>
-    <channel update="i" site="delta.nl" site_id="60" xmltv_id="WDR">WDR</channel>
-    <channel update="i" site="delta.nl" site_id="3014" xmltv_id="RTL Television">RTL Television</channel>
-    <channel update="i" site="delta.nl" site_id="49" xmltv_id="BBC1">BBC1</channel>
-    <channel update="i" site="delta.nl" site_id="57" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
-    <channel update="i" site="delta.nl" site_id="50" xmltv_id="France2">France2</channel>
-    <channel update="i" site="delta.nl" site_id="3120" xmltv_id="France 3">France 3</channel>
-    <channel update="i" site="delta.nl" site_id="3121" xmltv_id="RTBF La Une">RTBF La Une</channel>
-    <channel update="i" site="delta.nl" site_id="3122" xmltv_id="RTBF La Deux">RTBF La Deux</channel>
-    <channel update="i" site="delta.nl" site_id="3020" xmltv_id="Rai Uno">Rai Uno</channel>
-    <channel update="i" site="delta.nl" site_id="3021" xmltv_id="France24">France24</channel>
-    <channel update="i" site="delta.nl" site_id="3022" xmltv_id="TVEi">TVEi</channel>
-    <channel update="i" site="delta.nl" site_id="3125" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="delta.nl" site_id="3126" xmltv_id="NHK World">NHK World</channel>
-    <channel update="i" site="delta.nl" site_id="63" xmltv_id="538 TV">538 TV</channel>
-    <channel update="i" site="delta.nl" site_id="3025" xmltv_id="Film1 Premiere">Film1 Premiere</channel>
-    <channel update="i" site="delta.nl" site_id="3026" xmltv_id="Film1 Action">Film1 Action</channel>
-    <channel update="i" site="delta.nl" site_id="3027" xmltv_id="Film1 Family">Film1 Family</channel>
-    <channel update="i" site="delta.nl" site_id="3029" xmltv_id="Film1 Drama">Film1 Drama</channel>
-    <channel update="i" site="delta.nl" site_id="3030" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
-    <channel update="i" site="delta.nl" site_id="3031" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
-    <channel update="i" site="delta.nl" site_id="3032" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
-    <channel update="i" site="delta.nl" site_id="3033" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
-    <channel update="i" site="delta.nl" site_id="3034" xmltv_id="Ziggo Sport Docu">Ziggo Sport Docu</channel>
-    <channel update="i" site="delta.nl" site_id="3035" xmltv_id="Ziggo Sport Extra">Ziggo Sport Extra</channel>
+    <channel update="i" site="delta.nl" site_id="1" xmltv_id="NPO 1  [TV]">NPO 1  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="2" xmltv_id="NPO 2  [TV]">NPO 2  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3" xmltv_id="NPO 3  [TV]">NPO 3  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="4" xmltv_id="RTL4  [TV]">RTL4  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="5" xmltv_id="RTL5  [TV]">RTL5  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="6" xmltv_id="SBS6  [TV]">SBS6  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="7" xmltv_id="RTL7  [TV]">RTL7  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="8" xmltv_id="DisneyXD/Veronica  [TV]">DisneyXD/Veronica  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="9" xmltv_id="NET5  [TV]">NET5  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10" xmltv_id="RTL8  [TV]">RTL8  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="11" xmltv_id="Omroep Zeeland  [TV]">Omroep Zeeland  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3052" xmltv_id="Albrandswaard TV  [TV]">Albrandswaard TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3053" xmltv_id="ATOS TV  [TV]">ATOS TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3054" xmltv_id="Beek TV  [TV]">Beek TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3055" xmltv_id="Delta TV  [TV]">Delta TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3056" xmltv_id="GL8  [TV]">GL8  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3057" xmltv_id="Gouwestad  [TV]">Gouwestad  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3058" xmltv_id="Hofstreek TV  [TV]">Hofstreek TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3060" xmltv_id="LOK TV  [TV]">LOK TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3061" xmltv_id="Schie TV  [TV]">Schie TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3062" xmltv_id="NOOS TV  [TV]">NOOS TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3064" xmltv_id="RN7  [TV]">RN7  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3065" xmltv_id="Twente TV  [TV]">Twente TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3066" xmltv_id="WOS  [TV]">WOS  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3067" xmltv_id="Den Haag TV  [TV]">Den Haag TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3070" xmltv_id="OnsWestBrabant TV  [TV]">OnsWestBrabant TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3071" xmltv_id="TV Stichtse Vecht  [TV]">TV Stichtse Vecht  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3072" xmltv_id="HOi TV  [TV]">HOi TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3079" xmltv_id="TV Krimpenerwaard  [TV]">TV Krimpenerwaard  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3081" xmltv_id="TV Berghem  [TV]">TV Berghem  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3085" xmltv_id="TV Nunspeet  [TV]">TV Nunspeet  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3089" xmltv_id="Vechtdal Leeft TV  [TV]">Vechtdal Leeft TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3090" xmltv_id="Streek TV De Wolden  [TV]">Streek TV De Wolden  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3142" xmltv_id="Regio90 TV  [TV]">Regio90 TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3143" xmltv_id="Slingeland TV  [TV]">Slingeland TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3144" xmltv_id="Aalsmeer TV  [TV]">Aalsmeer TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3145" xmltv_id="Gemeente Westland TV  [TV]">Gemeente Westland TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3154" xmltv_id="SLOS TV  [TV]">SLOS TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3155" xmltv_id="BR6 TV  [TV]">BR6 TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3156" xmltv_id="SLOS TV Steenwijkerland  [TV]">SLOS TV Steenwijkerland  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3157" xmltv_id="Altena TV  [TV]">Altena TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3158" xmltv_id="ZuidWest TV  [TV]">ZuidWest TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3159" xmltv_id="DRTV  [TV]">DRTV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3160" xmltv_id="Slotstad TV  [TV]">Slotstad TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3161" xmltv_id="Ijsselmond TV  [TV]">Ijsselmond TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3162" xmltv_id="Castricum TV  [TV]">Castricum TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3163" xmltv_id="Studio Alphen TV  [TV]">Studio Alphen TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3164" xmltv_id="Ronde Venen TV  [TV]">Ronde Venen TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3165" xmltv_id="SLOGO TV  [TV]">SLOGO TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3166" xmltv_id="LOS TV  [TV]">LOS TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3167" xmltv_id="Assen TV  [TV]">Assen TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3168" xmltv_id="Favoriet TV  [TV]">Favoriet TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3169" xmltv_id="Meppel TV  [TV]">Meppel TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3170" xmltv_id="Feel Good TV  [TV]">Feel Good TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3171" xmltv_id="BredaNu TV  [TV]">BredaNu TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3172" xmltv_id="Centraal TV  [TV]">Centraal TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3173" xmltv_id="Regio8 TV  [TV]">Regio8 TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3174" xmltv_id="Ideaal TV  [TV]">Ideaal TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3175" xmltv_id="Ede TV  [TV]">Ede TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3176" xmltv_id="MLA TV  [TV]">MLA TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3177" xmltv_id="P en M TV  [TV]">P en M TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3178" xmltv_id="ML5 TV  [TV]">ML5 TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3179" xmltv_id="Omroep Centraal TV  [TV]">Omroep Centraal TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3180" xmltv_id="Loco TV  [TV]">Loco TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3181" xmltv_id="RTV Rijnstreek TV  [TV]">RTV Rijnstreek TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3182" xmltv_id="Samen1 TV  [TV]">Samen1 TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3183" xmltv_id="RTV Arnhem TV  [TV]">RTV Arnhem TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3184" xmltv_id="Lansingerland TV  [TV]">Lansingerland TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3185" xmltv_id="Omroep Tilburg TV  [TV]">Omroep Tilburg TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3186" xmltv_id="RTV Focus TV  [TV]">RTV Focus TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3187" xmltv_id="OPEN Rotterdam TV  [TV]">OPEN Rotterdam TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3188" xmltv_id="LOE TV  [TV]">LOE TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3190" xmltv_id="R-TV  [TV]">R-TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3191" xmltv_id="Kontakt TV  [TV]">Kontakt TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3192" xmltv_id="LON TV  [TV]">LON TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3193" xmltv_id="Omroep Venlo TV  [TV]">Omroep Venlo TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3194" xmltv_id="RTV Veluwezoom TV  [TV]">RTV Veluwezoom TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10000" xmltv_id="AAVISIE  [TV]">AAVISIE  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10001" xmltv_id="DTV Oss Bernheze  [TV]">DTV Oss Bernheze  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10010" xmltv_id="Siris TV  [TV]">Siris TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10012" xmltv_id="RTV Horizon  [TV]">RTV Horizon  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10014" xmltv_id="Omroep Meierijstad TV  [TV]">Omroep Meierijstad TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10018" xmltv_id="RTV Purmerend  [TV]">RTV Purmerend  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="12" xmltv_id="FOX  [TV]">FOX  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="33" xmltv_id="Comedy Central  [TV]">Comedy Central  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="14" xmltv_id="National Geographic Channel  [TV]">National Geographic Channel  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="15" xmltv_id="TLC  [TV]">TLC  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="74" xmltv_id="Spike  [TV]">Spike  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="51" xmltv_id="RTL Z  [TV]">RTL Z  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="54" xmltv_id="SBS9  [TV]">SBS9  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="53" xmltv_id="BBC First  [TV]">BBC First  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="52" xmltv_id="Disney Channel  [TV]">Disney Channel  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="17" xmltv_id="JenZ  [TV]">JenZ  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="13" xmltv_id="Discovery  [TV]">Discovery  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="19" xmltv_id="24Kitchen  [TV]">24Kitchen  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="27" xmltv_id="Zender van de Maand  [TV]">Zender van de Maand  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3006" xmltv_id="HISTORY  [TV]">HISTORY  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="28" xmltv_id="VRT Eén  [TV]">VRT Eén  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="29" xmltv_id="VRT Canvas  [TV]">VRT Canvas  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="30" xmltv_id="VRT Ketnet  [TV]">VRT Ketnet  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="16" xmltv_id="ID  [TV]">ID  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="35" xmltv_id="MTV  [TV]">MTV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="26" xmltv_id="Eurosport 1  [TV]">Eurosport 1  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="47" xmltv_id="Nat Geo Wild  [TV]">Nat Geo Wild  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10017" xmltv_id="Filmbox  [TV]">Filmbox  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="20" xmltv_id="NPO Nieuws  [TV]">NPO Nieuws  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="21" xmltv_id="NPO Politiek en Nieuws  [TV]">NPO Politiek en Nieuws  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="25" xmltv_id="NPO 1 Extra  [TV]">NPO 1 Extra  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="24" xmltv_id="NPO 2 Extra  [TV]">NPO 2 Extra  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="23" xmltv_id="NPO Zappelin Extra  [TV]">NPO Zappelin Extra  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3046" xmltv_id="ONS  [TV]">ONS  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3098" xmltv_id="RTV Noord  [TV]">RTV Noord  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3096" xmltv_id="Omrop Fryslân  [TV]">Omrop Fryslân  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3099" xmltv_id="RTV Drenthe  [TV]">RTV Drenthe  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3097" xmltv_id="RTV Oost  [TV]">RTV Oost  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3109" xmltv_id="Omroep Flevoland  [TV]">Omroep Flevoland  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3107" xmltv_id="Omroep Gelderland  [TV]">Omroep Gelderland  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3108" xmltv_id="L1  [TV]">L1  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3095" xmltv_id="RTV Noord-Holland  [TV]">RTV Noord-Holland  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3093" xmltv_id="AT5  [TV]">AT5  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3050" xmltv_id="RTV Utrecht  [TV]">RTV Utrecht  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3049" xmltv_id="TV West  [TV]">TV West  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="67" xmltv_id="ZVT-AVS  [TV]">ZVT-AVS  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="68" xmltv_id="RTV Scheldemond  [TV]">RTV Scheldemond  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="69" xmltv_id="Omroep Hulst TV  [TV]">Omroep Hulst TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="70" xmltv_id="Tholen TV  [TV]">Tholen TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="71" xmltv_id="GO-TV  [TV]">GO-TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="72" xmltv_id="TV Rijnmond  [TV]">TV Rijnmond  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="73" xmltv_id="Omroep Brabant  [TV]">Omroep Brabant  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="31" xmltv_id="Horse &amp; Country TV  [TV]">Horse &amp; Country TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="32" xmltv_id="Eurosport 2  [TV]">Eurosport 2  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="93" xmltv_id="Extreme Sports  [TV]">Extreme Sports  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="96" xmltv_id="Nautical Channel  [TV]">Nautical Channel  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3047" xmltv_id="Trace Sport Stars  [TV]">Trace Sport Stars  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3048" xmltv_id="Trace Urban  [TV]">Trace Urban  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="98" xmltv_id="192TV  [TV]">192TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="34" xmltv_id="100% NL TV  [TV]">100% NL TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="36" xmltv_id="MTV Hits  [TV]">MTV Hits  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="80" xmltv_id="MTV Live HD  [TV]">MTV Live HD  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="37" xmltv_id="Nick Music  [TV]">Nick Music  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="81" xmltv_id="MTV 00s  [TV]">MTV 00s  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="82" xmltv_id="MTV 80s  [TV]">MTV 80s  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="62" xmltv_id="Mezzo  [TV]">Mezzo  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="99" xmltv_id="TV Oranje  [TV]">TV Oranje  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="83" xmltv_id="Stingray Classica  [TV]">Stingray Classica  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3001" xmltv_id="SLAM!TV  [TV]">SLAM!TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="84" xmltv_id="Stingray lite TV  [TV]">Stingray lite TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="85" xmltv_id="Stingray DJAZZ  [TV]">Stingray DJAZZ  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3148" xmltv_id="Stingray iConcerts  [TV]">Stingray iConcerts  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3078" xmltv_id="Schlager TV  [TV]">Schlager TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="38" xmltv_id="Cartoon Network  [TV]">Cartoon Network  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="39" xmltv_id="Boomerang  [TV]">Boomerang  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="78" xmltv_id="BabyTV  [TV]">BabyTV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="40" xmltv_id="Nick Jr.  [TV]">Nick Jr.  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="41" xmltv_id="Nick Toons  [TV]">Nick Toons  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="42" xmltv_id="Nickelodeon  [TV]">Nickelodeon  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="75" xmltv_id="RTL Telekids  [TV]">RTL Telekids  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3002" xmltv_id="Pebble TV  [TV]">Pebble TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="79" xmltv_id="Comedy Central Extra  [TV]">Comedy Central Extra  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="44" xmltv_id="CNN  [TV]">CNN  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="64" xmltv_id="Euronews  [TV]">Euronews  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="56" xmltv_id="BBC World News  [TV]">BBC World News  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3076" xmltv_id="Al Jazeera International  [TV]">Al Jazeera International  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3118" xmltv_id="Bloomberg Television  [TV]">Bloomberg Television  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3009" xmltv_id="Shorts TV  [TV]">Shorts TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3007" xmltv_id="Crime+Investigation  [TV]">Crime+Investigation  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="76" xmltv_id="RTL Crime  [TV]">RTL Crime  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="45" xmltv_id="Discovery Science  [TV]">Discovery Science  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3114" xmltv_id="E! Pop of Culture  [TV]">E! Pop of Culture  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3010" xmltv_id="BBC Entertainment  [TV]">BBC Entertainment  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3149" xmltv_id="Insight TV HD  [TV]">Insight TV HD  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3004" xmltv_id="FashionTV  [TV]">FashionTV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="18" xmltv_id="Animal Planet  [TV]">Animal Planet  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="65" xmltv_id="Family 7  [TV]">Family 7  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="61" xmltv_id="Arte  [TV]">Arte  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3011" xmltv_id="OUTtv  [TV]">OUTtv  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="77" xmltv_id="RTL Lounge  [TV]">RTL Lounge  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3036" xmltv_id="ESPN  [TV]">ESPN  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3037" xmltv_id="ESPN2  [TV]">ESPN2  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3038" xmltv_id="ESPN3  [TV]">ESPN3  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3039" xmltv_id="ESPN4  [TV]">ESPN4  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="58" xmltv_id="ARD  [TV]">ARD  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="59" xmltv_id="ZDF  [TV]">ZDF  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="60" xmltv_id="WDR  [TV]">WDR  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="89" xmltv_id="NDR  [TV]">NDR  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="90" xmltv_id="SWR  [TV]">SWR  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3014" xmltv_id="RTL Television  [TV]">RTL Television  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3012" xmltv_id="Sat1  [TV]">Sat1  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3013" xmltv_id="Pro7  [TV]">Pro7  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3015" xmltv_id="KiKa  [TV]">KiKa  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3016" xmltv_id="3Sat  [TV]">3Sat  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3017" xmltv_id="VOX  [TV]">VOX  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3018" xmltv_id="Kabel Eins  [TV]">Kabel Eins  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3019" xmltv_id="N-TV  [TV]">N-TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="49" xmltv_id="BBC1  [TV]">BBC1  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="55" xmltv_id="BBC2  [TV]">BBC2  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="86" xmltv_id="BBC4/BBC Cbeebies  [TV]">BBC4/BBC Cbeebies  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="57" xmltv_id="TV5 MONDE  [TV]">TV5 MONDE  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="50" xmltv_id="France2  [TV]">France2  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3120" xmltv_id="France 3  [TV]">France 3  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3121" xmltv_id="RTBF La Une  [TV]">RTBF La Une  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3122" xmltv_id="RTBF La Deux  [TV]">RTBF La Deux  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3020" xmltv_id="Rai Uno  [TV]">Rai Uno  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3021" xmltv_id="France24  [TV]">France24  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3022" xmltv_id="TVEi  [TV]">TVEi  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3023" xmltv_id="TRT Turk  [TV]">TRT Turk  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3024" xmltv_id="Phoenix CNE  [TV]">Phoenix CNE  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3125" xmltv_id="CGTN  [TV]">CGTN  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3126" xmltv_id="NHK World  [TV]">NHK World  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="63" xmltv_id="538 TV  [TV]">538 TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3025" xmltv_id="Film1 Premiere  [TV]">Film1 Premiere  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3026" xmltv_id="Film1 Action  [TV]">Film1 Action  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3027" xmltv_id="Film1 Family  [TV]">Film1 Family  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3029" xmltv_id="Film1 Drama  [TV]">Film1 Drama  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3030" xmltv_id="Ziggo Sport Select  [TV]">Ziggo Sport Select  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3031" xmltv_id="Ziggo Sport Voetbal  [TV]">Ziggo Sport Voetbal  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3032" xmltv_id="Ziggo Sport Golf  [TV]">Ziggo Sport Golf  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3033" xmltv_id="Ziggo Sport Racing  [TV]">Ziggo Sport Racing  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3034" xmltv_id="Ziggo Sport Docu  [TV]">Ziggo Sport Docu  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3035" xmltv_id="Ziggo Sport Tennis  [TV]">Ziggo Sport Tennis  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="66" xmltv_id="Playboy TV  [TV]">Playboy TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="91" xmltv_id="BabesTV  [TV]">BabesTV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="92" xmltv_id="Brazzers TV Europe  [TV]">Brazzers TV Europe  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3042" xmltv_id="PassieXXX  [TV]">PassieXXX  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3043" xmltv_id="Dusk Deluxe  [TV]">Dusk Deluxe  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3044" xmltv_id="Hustler TV  [TV]">Hustler TV  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="3045" xmltv_id="Meiden van Holland Hard  [TV]">Meiden van Holland Hard  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="757" xmltv_id="Pure Babes  [TV]">Pure Babes  [TV]</channel>
+    <channel update="i" site="delta.nl" site_id="10019" xmltv_id="RTV Purmerend Radio  [Radio]">RTV Purmerend Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1105" xmltv_id="RTV Veluwezoom FM  [Radio]">RTV Veluwezoom FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1104" xmltv_id="Omroep Venlo FM  [Radio]">Omroep Venlo FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1103" xmltv_id="Kontakt FM  [Radio]">Kontakt FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1102" xmltv_id="R-FM  [Radio]">R-FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1101" xmltv_id="ZO!34 Radio  [Radio]">ZO!34 Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1100" xmltv_id="LOE Radio  [Radio]">LOE Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1099" xmltv_id="RTV Borne Radio  [Radio]">RTV Borne Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1098" xmltv_id="Stadsradio Delft  [Radio]">Stadsradio Delft  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1097" xmltv_id="RTV Sternet Radio  [Radio]">RTV Sternet Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1096" xmltv_id="RTV Focus Radio  [Radio]">RTV Focus Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1095" xmltv_id="Omroep Tilburg Radio  [Radio]">Omroep Tilburg Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1094" xmltv_id="Lansingerland Radio  [Radio]">Lansingerland Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1093" xmltv_id="RTV Arnhem Radio  [Radio]">RTV Arnhem Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1092" xmltv_id="Samen1 FM  [Radio]">Samen1 FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1091" xmltv_id="RTV Rijnstreek Radio  [Radio]">RTV Rijnstreek Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1090" xmltv_id="Loco FM  [Radio]">Loco FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1089" xmltv_id="Omroep Centraal Radio  [Radio]">Omroep Centraal Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1088" xmltv_id="ML5 Radio  [Radio]">ML5 Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1087" xmltv_id="PenM Radio  [Radio]">PenM Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1086" xmltv_id="MLA FM  [Radio]">MLA FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1085" xmltv_id="Ede FM  [Radio]">Ede FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1084" xmltv_id="Ideaal Radio  [Radio]">Ideaal Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1083" xmltv_id="REGIO8 FM  [Radio]">REGIO8 FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1082" xmltv_id="Radio Son en Breugel  [Radio]">Radio Son en Breugel  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1081" xmltv_id="Centraal FM  [Radio]">Centraal FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="10015" xmltv_id="Omroep Meierijstad Radio  [Radio]">Omroep Meierijstad Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="10013" xmltv_id="RTV Horizon FM  [Radio]">RTV Horizon FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="10011" xmltv_id="Siris FM  [Radio]">Siris FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="10016" xmltv_id="SLOS Radio  [Radio]">SLOS Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1065" xmltv_id="MFM Brabant  [Radio]">MFM Brabant  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1066" xmltv_id="A-FM  [Radio]">A-FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1067" xmltv_id="ZuidWest FM  [Radio]">ZuidWest FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1068" xmltv_id="DRTV Radio  [Radio]">DRTV Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1069" xmltv_id="Slotstad FM  [Radio]">Slotstad FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1070" xmltv_id="IJsselmond Radio  [Radio]">IJsselmond Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1071" xmltv_id="Castricum Radio  [Radio]">Castricum Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1072" xmltv_id="Studio Alphen FM  [Radio]">Studio Alphen FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1073" xmltv_id="Ronde Venen Radio  [Radio]">Ronde Venen Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1074" xmltv_id="SLOGO Radio  [Radio]">SLOGO Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1075" xmltv_id="LOS Radio  [Radio]">LOS Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1076" xmltv_id="Assen Radio  [Radio]">Assen Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1077" xmltv_id="Favoriet Radio  [Radio]">Favoriet Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1078" xmltv_id="Meppel Radio  [Radio]">Meppel Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1079" xmltv_id="Feel Good Radio  [Radio]">Feel Good Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1080" xmltv_id="BredaNu Radio  [Radio]">BredaNu Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="851" xmltv_id="Radio West  [Radio]">Radio West  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="852" xmltv_id="Radio Rijnmond  [Radio]">Radio Rijnmond  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="854" xmltv_id="Radio M Utrecht  [Radio]">Radio M Utrecht  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="857" xmltv_id="Radio Flevoland  [Radio]">Radio Flevoland  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="853" xmltv_id="Radio Noord Holland  [Radio]">Radio Noord Holland  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="856" xmltv_id="Radio Gelderland  [Radio]">Radio Gelderland  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="859" xmltv_id="Omrop Fryslân Radio  [Radio]">Omrop Fryslân Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="863" xmltv_id="L1 Radio  [Radio]">L1 Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="862" xmltv_id="Radio Drenthe  [Radio]">Radio Drenthe  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="860" xmltv_id="Radio Noord  [Radio]">Radio Noord  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="861" xmltv_id="Radio Oost  [Radio]">Radio Oost  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="858" xmltv_id="Omroep Zeeland Radio  [Radio]">Omroep Zeeland Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="801" xmltv_id="NPO Radio 1  [Radio]">NPO Radio 1  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="802" xmltv_id="NPO Radio 2  [Radio]">NPO Radio 2  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="803" xmltv_id="NPO 3FM  [Radio]">NPO 3FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="804" xmltv_id="NPO Radio 4  [Radio]">NPO Radio 4  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="805" xmltv_id="NPO Radio 5  [Radio]">NPO Radio 5  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="806" xmltv_id="NPO Soul &amp; Jazz  [Radio]">NPO Soul &amp; Jazz  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="810" xmltv_id="Sky Radio  [Radio]">Sky Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="814" xmltv_id="SLAM!  [Radio]">SLAM!  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="809" xmltv_id="538  [Radio]">538  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="812" xmltv_id="Radio Veronica  [Radio]">Radio Veronica  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="813" xmltv_id="Radio 10  [Radio]">Radio 10  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="811" xmltv_id="Q-MUSIC  [Radio]">Q-MUSIC  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="825" xmltv_id="Efteling Kids Radio  [Radio]">Efteling Kids Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="821" xmltv_id="Sublime FM  [Radio]">Sublime FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="820" xmltv_id="Arrow Classic Rock  [Radio]">Arrow Classic Rock  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="808" xmltv_id="FunX  [Radio]">FunX  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="822" xmltv_id="classicnl  [Radio]">classicnl  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="823" xmltv_id="BNR Nieuwsradio  [Radio]">BNR Nieuwsradio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="855" xmltv_id="Omroep Brabant Radio  [Radio]">Omroep Brabant Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="833" xmltv_id="VRT Radio 1  [Radio]">VRT Radio 1  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="834" xmltv_id="VRT Radio 2  [Radio]">VRT Radio 2  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="835" xmltv_id="VRT Klara  [Radio]">VRT Klara  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="831" xmltv_id="VRT Studio Brussel  [Radio]">VRT Studio Brussel  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="832" xmltv_id="VRT MNM  [Radio]">VRT MNM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="844" xmltv_id="BBC Radio 3  [Radio]">BBC Radio 3  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="845" xmltv_id="BBC Radio 4  [Radio]">BBC Radio 4  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="846" xmltv_id="BBC Worldservice  [Radio]">BBC Worldservice  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="824" xmltv_id="100% NL  [Radio]">100% NL  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="886" xmltv_id="WDR1  [Radio]">WDR1  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="839" xmltv_id="WDR3  [Radio]">WDR3  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="840" xmltv_id="WDR4  [Radio]">WDR4  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="890" xmltv_id="France Inter  [Radio]">France Inter  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="891" xmltv_id="RNE Radio1  [Radio]">RNE Radio1  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="935" xmltv_id="RTBF La Première  [Radio]">RTBF La Première  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="936" xmltv_id="RadioNL  [Radio]">RadioNL  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="937" xmltv_id="Groot Nieuws Radio  [Radio]">Groot Nieuws Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="938" xmltv_id="Qmusic Nonstop  [Radio]">Qmusic Nonstop  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="807" xmltv_id="Concertzender  [Radio]">Concertzender  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="940" xmltv_id="Stingray Peuter en Kinderliedjes  [Radio]">Stingray Peuter en Kinderliedjes  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="941" xmltv_id="Stingray Skihut  [Radio]">Stingray Skihut  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="942" xmltv_id="Stingray JackFM  [Radio]">Stingray JackFM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="943" xmltv_id="Stingray Filmmuziek  [Radio]">Stingray Filmmuziek  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="944" xmltv_id="Stingray Relipop  [Radio]">Stingray Relipop  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="945" xmltv_id="Stingray Musical  [Radio]">Stingray Musical  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="946" xmltv_id="Stingray Opera  [Radio]">Stingray Opera  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="947" xmltv_id="Stingray Operette  [Radio]">Stingray Operette  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="948" xmltv_id="Stingray Crooners  [Radio]">Stingray Crooners  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="949" xmltv_id="Stingray Specials  [Radio]">Stingray Specials  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1054" xmltv_id="Stingray Kiddo FM  [Radio]">Stingray Kiddo FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1024" xmltv_id="Stingray Hip Hop  [Radio]">Stingray Hip Hop  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1025" xmltv_id="Stingray R&amp;B  [Radio]">Stingray R&amp;B  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1026" xmltv_id="Stingray Trance  [Radio]">Stingray Trance  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1027" xmltv_id="Stingray Dance  [Radio]">Stingray Dance  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1059" xmltv_id="Stingray Hits  [Radio]">Stingray Hits  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1021" xmltv_id="Stingray Party  [Radio]">Stingray Party  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1007" xmltv_id="Stingray Lounge  [Radio]">Stingray Lounge  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1006" xmltv_id="Stingray Chill Out  [Radio]">Stingray Chill Out  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1057" xmltv_id="Stingray Todays Pop  [Radio]">Stingray Todays Pop  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1051" xmltv_id="Stingray Nederpop  [Radio]">Stingray Nederpop  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1009" xmltv_id="Stingray Arabic  [Radio]">Stingray Arabic  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1014" xmltv_id="Stingray Turk  [Radio]">Stingray Turk  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="1011" xmltv_id="Stingray Salsa  [Radio]">Stingray Salsa  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="964" xmltv_id="Stingray Indie Classics  [Radio]">Stingray Indie Classics  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="965" xmltv_id="Stingray Hard Rock  [Radio]">Stingray Hard Rock  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="966" xmltv_id="Stingray Rock  [Radio]">Stingray Rock  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="967" xmltv_id="Stingray New Age  [Radio]">Stingray New Age  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="968" xmltv_id="Stingray Easy Listening  [Radio]">Stingray Easy Listening  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="969" xmltv_id="Stingray Classic Rock  [Radio]">Stingray Classic Rock  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="970" xmltv_id="Stingray Piratenhits  [Radio]">Stingray Piratenhits  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="971" xmltv_id="Stingray Dance Classics  [Radio]">Stingray Dance Classics  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="972" xmltv_id="Stingray Comedy  [Radio]">Stingray Comedy  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="973" xmltv_id="Stingray Country  [Radio]">Stingray Country  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="974" xmltv_id="Stingray Love Songs  [Radio]">Stingray Love Songs  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="975" xmltv_id="Stingray Motown  [Radio]">Stingray Motown  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="976" xmltv_id="Stingray Reggae  [Radio]">Stingray Reggae  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="977" xmltv_id="Stingray Italia  [Radio]">Stingray Italia  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="978" xmltv_id="Stingray France  [Radio]">Stingray France  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="979" xmltv_id="Stingray Espagna  [Radio]">Stingray Espagna  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="980" xmltv_id="Stingray Blues  [Radio]">Stingray Blues  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="981" xmltv_id="Stingray Oldies  [Radio]">Stingray Oldies  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="982" xmltv_id="Stingray Nederpop Gold  [Radio]">Stingray Nederpop Gold  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="983" xmltv_id="Stingray Schlager  [Radio]">Stingray Schlager  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="984" xmltv_id="Stingray Rock n Roll  [Radio]">Stingray Rock n Roll  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="985" xmltv_id="Stingray Classical  [Radio]">Stingray Classical  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="986" xmltv_id="Stingray Contemporary Jazz  [Radio]">Stingray Contemporary Jazz  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="987" xmltv_id="Stingray Classic Jazz  [Radio]">Stingray Classic Jazz  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="988" xmltv_id="Stingray NL Luisterliedjes  [Radio]">Stingray NL Luisterliedjes  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="989" xmltv_id="Stingray Nostalgie  [Radio]">Stingray Nostalgie  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="990" xmltv_id="Stingray NL  [Radio]">Stingray NL  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="992" xmltv_id="RTV Scheldemond Radio  [Radio]">RTV Scheldemond Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="993" xmltv_id="GO-FM  [Radio]">GO-FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="994" xmltv_id="Radio Schouwen-Duiveland  [Radio]">Radio Schouwen-Duiveland  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="996" xmltv_id="Omroep Tholen Radio  [Radio]">Omroep Tholen Radio  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="998" xmltv_id="SOB FM  [Radio]">SOB FM  [Radio]</channel>
+    <channel update="i" site="delta.nl" site_id="999" xmltv_id="WFM  [Radio]">WFM  [Radio]</channel>
   </channels>
 </site>
