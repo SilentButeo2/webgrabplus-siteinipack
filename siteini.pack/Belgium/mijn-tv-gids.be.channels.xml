@@ -1,122 +1,299 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="mijn-tv-gids.be">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.1.5 -- Jan van Straaten" site="mijn-tv-gids.be">
   <channels>
-    <channel update="i" site="mijn-tv-gids.be" site_id="416" xmltv_id="11">11</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="74" xmltv_id="13EME RUE">13EME RUE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="138" xmltv_id="AB MOTEURS">AB MOTEURS</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="14" xmltv_id="ARTE">ARTE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="119" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="129" xmltv_id="BBC1">BBC1</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="130" xmltv_id="BBC2">BBC2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="269" xmltv_id="BOOMERANG">BOOMERANG</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="581" xmltv_id="CANVAS">CANVAS</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="93" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="688" xmltv_id="CAZ">CAZ</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="67" xmltv_id="CLUB RTL">CLUB RTL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="694" xmltv_id="CULTUUR 7">CULTUUR 7</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="292" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="304" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="313" xmltv_id="EEN">EEN</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="323" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="618" xmltv_id="EUROSPORT NL">EUROSPORT NL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="2" xmltv_id="FRANCE 2">FRANCE 2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="3" xmltv_id="FRANCE 3">FRANCE 3</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="321" xmltv_id="FRANCE 4">FRANCE 4</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="69" xmltv_id="FRANCE 5">FRANCE 5</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="344" xmltv_id="FRANCE Ô">FRANCE Ô</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="164" xmltv_id="KETNET">KETNET</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="42" xmltv_id="LA DEUX">LA DEUX</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="717" xmltv_id="LA TROIS">LA TROIS</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="24" xmltv_id="LA UNE">LA UNE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="86" xmltv_id="MEZZO">MEZZO</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="535" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="539" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="527" xmltv_id="NET 5">NET 5</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="528" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1167" xmltv_id="NJAM !">NJAM !</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="139" xmltv_id="NPO1">NPO1</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="140" xmltv_id="NPO2">NPO2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="141" xmltv_id="NPO3">NPO3</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1384" xmltv_id="PEBBLE TV">PEBBLE TV</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="258" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="281" xmltv_id="PLUG RTL">PLUG RTL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="536" xmltv_id="PRIME ACTION">PRIME ACTION</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="635" xmltv_id="PRIME FAMILY">PRIME FAMILY</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="636" xmltv_id="PRIME SERIE">PRIME SERIE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="634" xmltv_id="PRIME STAR">PRIME STAR</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="467" xmltv_id="Q2">Q2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="120" xmltv_id="RAI 1">RAI 1</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="41" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="529" xmltv_id="RTL 4">RTL 4</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="530" xmltv_id="RTL 5">RTL 5</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="531" xmltv_id="RTL 7">RTL 7</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="532" xmltv_id="RTL 8">RTL 8</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="19" xmltv_id="RTL TVI">RTL TVI</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="533" xmltv_id="SBS 6">SBS 6</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1168" xmltv_id="STUDIO100tv">STUDIO100tv</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1" xmltv_id="TF1">TF1</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="845" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="199" xmltv_id="TV BREIZH">TV BREIZH</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="150" xmltv_id="VIER">VIER</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="296" xmltv_id="VIJF">VIJF</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="541" xmltv_id="VITAYA">VITAYA</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="148" xmltv_id="VTM">VTM</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1170" xmltv_id="VTM KZOOM">VTM KZOOM</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1655" xmltv_id="ZES">ZES</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="416" xmltv_id="11">11</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="581" xmltv_id="CANVAS">CANVAS</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="93" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="688" xmltv_id="CAZ">CAZ</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="694" xmltv_id="CULTUUR 7">CULTUUR 7</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="292" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="313" xmltv_id="EEN">EEN</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="618" xmltv_id="EUROSPORT NL">EUROSPORT NL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="164" xmltv_id="KETNET">KETNET</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="535" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="539" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="527" xmltv_id="NET 5">NET 5</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="528" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1167" xmltv_id="NJAM !">NJAM !</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1384" xmltv_id="PEBBLE TV">PEBBLE TV</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="536" xmltv_id="PRIME ACTION">PRIME ACTION</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="635" xmltv_id="PRIME FAMILY">PRIME FAMILY</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="636" xmltv_id="PRIME SERIE">PRIME SERIE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="634" xmltv_id="PRIME STAR">PRIME STAR</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="467" xmltv_id="Q2">Q2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="41" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="529" xmltv_id="RTL 4">RTL 4</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="530" xmltv_id="RTL 5">RTL 5</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="531" xmltv_id="RTL 7">RTL 7</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="532" xmltv_id="RTL 8">RTL 8</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="533" xmltv_id="SBS 6">SBS 6</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1168" xmltv_id="STUDIO100tv">STUDIO100tv</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="150" xmltv_id="VIER">VIER</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="296" xmltv_id="VIJF">VIJF</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="541" xmltv_id="VITAYA">VITAYA</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="148" xmltv_id="VTM">VTM</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1170" xmltv_id="VTM KZOOM">VTM KZOOM</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1655" xmltv_id="ZES">ZES</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="74" xmltv_id="13EME RUE">13EME RUE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="138" xmltv_id="AB MOTEURS">AB MOTEURS</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="14" xmltv_id="ARTE">ARTE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="269" xmltv_id="BOOMERANG">BOOMERANG</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="67" xmltv_id="CLUB RTL">CLUB RTL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="304" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="83" xmltv_id="EUROSPORT">EUROSPORT</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="323" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="2" xmltv_id="FRANCE 2">FRANCE 2</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="3" xmltv_id="FRANCE 3">FRANCE 3</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="321" xmltv_id="FRANCE 4">FRANCE 4</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="69" xmltv_id="FRANCE 5">FRANCE 5</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="344" xmltv_id="FRANCE Ô">FRANCE Ô</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="42" xmltv_id="LA DEUX">LA DEUX</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="717" xmltv_id="LA TROIS">LA TROIS</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="24" xmltv_id="LA UNE">LA UNE</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="86" xmltv_id="MEZZO">MEZZO</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="281" xmltv_id="PLUG RTL">PLUG RTL</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="19" xmltv_id="RTL TVI">RTL TVI</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="1" xmltv_id="TF1">TF1</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="845" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
-    <channel update="i" site="mijn-tv-gids.be" site_id="199" xmltv_id="TV BREIZH">TV BREIZH</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##74/programme-television-13eme-rue" xmltv_id="(BE)  13EME RUE">(BE)  13EME RUE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##229/programme-television-ab3" xmltv_id="(BE)  AB3">(BE)  AB3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1725/programme-television-abxplore" xmltv_id="(BE)  ABXPLORE">(BE)  ABXPLORE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##63/programme-television-action" xmltv_id="(BE)  ACTION">(BE)  ACTION</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1723/programme-television-altice-studio" xmltv_id="(BE)  ALTICE STUDIO">(BE)  ALTICE STUDIO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##89/programme-television-animaux" xmltv_id="(BE)  ANIMAUX">(BE)  ANIMAUX</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##14/programme-television-arte" xmltv_id="(BE)  ARTE">(BE)  ARTE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##138/programme-television-automoto" xmltv_id="(BE)  AUTOMOTO">(BE)  AUTOMOTO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##119/programme-television-bbc-entertainment" xmltv_id="(BE)  BBC ENTERTAINMENT">(BE)  BBC ENTERTAINMENT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##129/programme-television-bbc1" xmltv_id="(BE)  BBC1">(BE)  BBC1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##130/programme-television-bbc2" xmltv_id="(BE)  BBC2">(BE)  BBC2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##298/programme-television-be-1" xmltv_id="(BE)  BE 1">(BE)  BE 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##300/programme-television-be-cine" xmltv_id="(BE)  BE CINE">(BE)  BE CINE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##393/programme-television-be-series" xmltv_id="(BE)  BE SERIES">(BE)  BE SERIES</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##363/programme-television-bfm-tv" xmltv_id="(BE)  BFM TV">(BE)  BFM TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##766/programme-television-boing" xmltv_id="(BE)  BOING">(BE)  BOING</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##269/programme-television-boomerang" xmltv_id="(BE)  BOOMERANG">(BE)  BOOMERANG</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1032/programme-television-c8" xmltv_id="(BE)  C8">(BE)  C8</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##87/programme-television-canal-j" xmltv_id="(BE)  CANAL J">(BE)  CANAL J</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##581/programme-television-canvas" xmltv_id="(BE)  CANVAS">(BE)  CANVAS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##93/programme-television-cartoon-network" xmltv_id="(BE)  CARTOON NETWORK">(BE)  CARTOON NETWORK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##127/programme-television-chasse-peche" xmltv_id="(BE)  CHASSE &amp; PECHE">(BE)  CHASSE &amp; PECHE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##312/programme-television-cine-classic-be" xmltv_id="(BE)  CINE + CLASSIC BE">(BE)  CINE + CLASSIC BE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##266/programme-television-cine-frisson-be" xmltv_id="(BE)  CINE + FRISSON BE">(BE)  CINE + FRISSON BE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##265/programme-television-cine-premier-be" xmltv_id="(BE)  CINE + PREMIER BE">(BE)  CINE + PREMIER BE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##67/programme-television-club-rtl" xmltv_id="(BE)  CLUB RTL">(BE)  CLUB RTL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##179/programme-television-cnews" xmltv_id="(BE)  CNEWS">(BE)  CNEWS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##73/programme-television-comedie-" xmltv_id="(BE)  COMEDIE +">(BE)  COMEDIE +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1033/programme-television-cstar" xmltv_id="(BE)  CSTAR">(BE)  CSTAR</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##292/programme-television-discovery-channel" xmltv_id="(BE)  DISCOVERY CHANNEL">(BE)  DISCOVERY CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##64/programme-television-disney-channel" xmltv_id="(BE)  DISNEY CHANNEL">(BE)  DISNEY CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1200/programme-television-disney-cinema" xmltv_id="(BE)  DISNEY CINEMA">(BE)  DISNEY CINEMA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##871/programme-television-disney-junior" xmltv_id="(BE)  DISNEY JUNIOR">(BE)  DISNEY JUNIOR</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##658/programme-television-disney-xd" xmltv_id="(BE)  DISNEY XD">(BE)  DISNEY XD</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##304/programme-television-e-entertainment" xmltv_id="(BE)  E! ENTERTAINMENT">(BE)  E! ENTERTAINMENT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##313/programme-television-een" xmltv_id="(BE)  EEN">(BE)  EEN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1377/programme-television-eleven-sports-1" xmltv_id="(BE)  ELEVEN SPORTS 1">(BE)  ELEVEN SPORTS 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##884/programme-television-equidia" xmltv_id="(BE)  EQUIDIA">(BE)  EQUIDIA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##83/programme-television-eurosport" xmltv_id="(BE)  EUROSPORT">(BE)  EUROSPORT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##323/programme-television-eurosport-2" xmltv_id="(BE)  EUROSPORT 2">(BE)  EUROSPORT 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##618/programme-television-eurosport-nl" xmltv_id="(BE)  EUROSPORT NL">(BE)  EUROSPORT NL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##2/programme-television-france-2" xmltv_id="(BE)  FRANCE 2">(BE)  FRANCE 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##419/programme-television-france-24" xmltv_id="(BE)  FRANCE 24">(BE)  FRANCE 24</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##3/programme-television-france-3" xmltv_id="(BE)  FRANCE 3">(BE)  FRANCE 3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##321/programme-television-france-4" xmltv_id="(BE)  FRANCE 4">(BE)  FRANCE 4</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##69/programme-television-france-5" xmltv_id="(BE)  FRANCE 5">(BE)  FRANCE 5</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##344/programme-television-france-o" xmltv_id="(BE)  FRANCE �">(BE)  FRANCE �</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##178/programme-television-game-one" xmltv_id="(BE)  GAME ONE">(BE)  GAME ONE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##361/programme-television-gulli" xmltv_id="(BE)  GULLI">(BE)  GULLI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##79/programme-television-histoire" xmltv_id="(BE)  HISTOIRE">(BE)  HISTOIRE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##180/programme-television-info-sport" xmltv_id="(BE)  INFO SPORT">(BE)  INFO SPORT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##164/programme-television-ketnet" xmltv_id="(BE)  KETNET">(BE)  KETNET</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##221/programme-television-kto" xmltv_id="(BE)  KTO">(BE)  KTO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##717/programme-television-la-trois" xmltv_id="(BE)  LA TROIS">(BE)  LA TROIS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##24/programme-television-la-une-rtbf" xmltv_id="(BE)  LA UNE (RTBF)">(BE)  LA UNE (RTBF)</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##155/programme-television-lci" xmltv_id="(BE)  LCI">(BE)  LCI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1873/programme-television-ln24" xmltv_id="(BE)  LN24">(BE)  LN24</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##13/programme-television-m6" xmltv_id="(BE)  M6">(BE)  M6</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##115/programme-television-m6-music" xmltv_id="(BE)  M6 MUSIC">(BE)  M6 MUSIC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##88/programme-television-mangas" xmltv_id="(BE)  MANGAS">(BE)  MANGAS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##381/programme-television-melody" xmltv_id="(BE)  MELODY">(BE)  MELODY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##86/programme-television-mezzo" xmltv_id="(BE)  MEZZO">(BE)  MEZZO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##96/programme-television-mtv" xmltv_id="(BE)  MTV">(BE)  MTV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##228/programme-television-national-geographic-channel" xmltv_id="(BE)  NATIONAL GEOGRAPHIC CHANNEL">(BE)  NATIONAL GEOGRAPHIC CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##637/programme-television-national-geographic-wild" xmltv_id="(BE)  NATIONAL GEOGRAPHIC WILD">(BE)  NATIONAL GEOGRAPHIC WILD</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##911/programme-television-nautical-channel" xmltv_id="(BE)  NAUTICAL CHANNEL">(BE)  NAUTICAL CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##377/programme-television-nickelodeon" xmltv_id="(BE)  NICKELODEON">(BE)  NICKELODEON</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1167/programme-television-njam-" xmltv_id="(BE)  NJAM !">(BE)  NJAM !</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##139/programme-television-npo1" xmltv_id="(BE)  NPO1">(BE)  NPO1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##140/programme-television-npo2" xmltv_id="(BE)  NPO2">(BE)  NPO2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##141/programme-television-npo3" xmltv_id="(BE)  NPO3">(BE)  NPO3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1116/programme-television-paramount-channel" xmltv_id="(BE)  PARAMOUNT CHANNEL">(BE)  PARAMOUNT CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##279/programme-television-piwi-" xmltv_id="(BE)  PIWI +">(BE)  PIWI +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##21/programme-television-planete-" xmltv_id="(BE)  PLANETE +">(BE)  PLANETE +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##414/programme-television-planete-ae" xmltv_id="(BE)  PLANETE+ AE">(BE)  PLANETE+ AE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##446/programme-television-planete-ci" xmltv_id="(BE)  PLANETE+ CI">(BE)  PLANETE+ CI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##258/programme-television-playboy-tv" xmltv_id="(BE)  PLAYBOY TV">(BE)  PLAYBOY TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##281/programme-television-plug-rtl" xmltv_id="(BE)  PLUG RTL">(BE)  PLUG RTL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##120/programme-television-rai-1" xmltv_id="(BE)  RAI 1">(BE)  RAI 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##584/programme-television-rmc-sport-2" xmltv_id="(BE)  RMC SPORT 2">(BE)  RMC SPORT 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##19/programme-television-rtl-tvi" xmltv_id="(BE)  RTL TVI">(BE)  RTL TVI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##968/programme-television-rts-deux" xmltv_id="(BE)  RTS DEUX">(BE)  RTS DEUX</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##967/programme-television-rts-un" xmltv_id="(BE)  RTS UN">(BE)  RTS UN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1199/programme-television-science-vie-tv" xmltv_id="(BE)  SCIENCE &amp; VIE TV">(BE)  SCIENCE &amp; VIE TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##82/programme-television-seasons-" xmltv_id="(BE)  SEASONS +">(BE)  SEASONS +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1168/programme-television-studio100tv" xmltv_id="(BE)  STUDIO100tv">(BE)  STUDIO100tv</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##362/programme-television-syfy" xmltv_id="(BE)  SYFY">(BE)  SYFY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##172/programme-television-tcm-cinema" xmltv_id="(BE)  TCM CINEMA">(BE)  TCM CINEMA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##90/programme-television-teletoon-" xmltv_id="(BE)  TELETOON + ">(BE)  TELETOON + </channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1/programme-television-tf1" xmltv_id="(BE)  TF1">(BE)  TF1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1045/programme-television-tf1-series-films" xmltv_id="(BE)  TF1 S�ries Films">(BE)  TF1 S�ries Films</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##212/programme-television-tiji" xmltv_id="(BE)  TIJI">(BE)  TIJI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1916/programme-television-tipik" xmltv_id="(BE)  TIPIK">(BE)  TIPIK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##70/programme-television-tmc" xmltv_id="(BE)  TMC">(BE)  TMC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##255/programme-television-toute-lhistoire" xmltv_id="(BE)  TOUTE L'HISTOIRE">(BE)  TOUTE L'HISTOIRE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##845/programme-television-trace-urban" xmltv_id="(BE)  TRACE URBAN">(BE)  TRACE URBAN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##199/programme-television-tv-breizh" xmltv_id="(BE)  TV BREIZH">(BE)  TV BREIZH</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##27/programme-television-tv5-monde" xmltv_id="(BE)  TV5 MONDE">(BE)  TV5 MONDE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##345/programme-television-ushuaia-tv" xmltv_id="(BE)  USHUAIA TV">(BE)  USHUAIA TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##150/programme-television-vier" xmltv_id="(BE)  VIER">(BE)  VIER</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##296/programme-television-vijf" xmltv_id="(BE)  VIJF">(BE)  VIJF</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##302/programme-television-voo-sport-world-1" xmltv_id="(BE)  VOO Sport World 1">(BE)  VOO Sport World 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##303/programme-television-voo-sport-world-2" xmltv_id="(BE)  VOO Sport World 2">(BE)  VOO Sport World 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1574/programme-television-voo-sport-world-3" xmltv_id="(BE)  VOO Sport World 3">(BE)  VOO Sport World 3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##71/programme-television-voyage" xmltv_id="(BE)  VOYAGE">(BE)  VOYAGE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##467/programme-television-vtm2" xmltv_id="(BE)  VTM2">(BE)  VTM2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1170/programme-television-vtm-kids" xmltv_id="(BE)  VTM KIDS">(BE)  VTM KIDS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##541/programme-television-vtm3" xmltv_id="(BE)  VTM3">(BE)  VTM3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##688/programme-television-vtm4" xmltv_id="(BE)  VTM4">(BE)  VTM4</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-be##1729/programme-television-warner-tv" xmltv_id="(BE)  Warner TV">(BE)  Warner TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##74/programme-television-13eme-rue" xmltv_id="(FR)  13EME RUE">(FR)  13EME RUE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1047/programme-television-6ter" xmltv_id="(FR)  6TER">(FR)  6TER</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##402/programme-television-8-mont-blanc" xmltv_id="(FR)  8 MONT-BLANC">(FR)  8 MONT-BLANC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##59/programme-television-ab1" xmltv_id="(FR)  AB1">(FR)  AB1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##229/programme-television-ab3" xmltv_id="(FR)  AB3">(FR)  AB3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##63/programme-television-action" xmltv_id="(FR)  ACTION">(FR)  ACTION</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1723/programme-television-altice-studio" xmltv_id="(FR)  ALTICE STUDIO">(FR)  ALTICE STUDIO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##89/programme-television-animaux" xmltv_id="(FR)  ANIMAUX">(FR)  ANIMAUX</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##14/programme-television-arte" xmltv_id="(FR)  ARTE">(FR)  ARTE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##138/programme-television-automoto" xmltv_id="(FR)  AUTOMOTO">(FR)  AUTOMOTO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##119/programme-television-bbc-entertainment" xmltv_id="(FR)  BBC ENTERTAINMENT">(FR)  BBC ENTERTAINMENT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##129/programme-television-bbc1" xmltv_id="(FR)  BBC1">(FR)  BBC1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##130/programme-television-bbc2" xmltv_id="(FR)  BBC2">(FR)  BBC2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##984/programme-television-bein-sports-1" xmltv_id="(FR)  BEIN SPORTS 1">(FR)  BEIN SPORTS 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1016/programme-television-bein-sports-2" xmltv_id="(FR)  BEIN SPORTS 2">(FR)  BEIN SPORTS 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1172/programme-television-bein-sports-3" xmltv_id="(FR)  BEIN SPORTS 3">(FR)  BEIN SPORTS 3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##363/programme-television-bfm-tv" xmltv_id="(FR)  BFM TV">(FR)  BFM TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##766/programme-television-boing" xmltv_id="(FR)  BOING">(FR)  BOING</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##269/programme-television-boomerang" xmltv_id="(FR)  BOOMERANG">(FR)  BOOMERANG</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1032/programme-television-c8" xmltv_id="(FR)  C8">(FR)  C8</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##16/programme-television-canal-" xmltv_id="(FR)  CANAL +">(FR)  CANAL +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##282/programme-television-canal-cinema" xmltv_id="(FR)  CANAL + CINEMA">(FR)  CANAL + CINEMA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##314/programme-television-canal-decale" xmltv_id="(FR)  CANAL + DECALE">(FR)  CANAL + DECALE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##445/programme-television-canal-family" xmltv_id="(FR)  CANAL + FAMILY">(FR)  CANAL + FAMILY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##284/programme-television-canal-sport" xmltv_id="(FR)  CANAL + SPORT">(FR)  CANAL + SPORT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##87/programme-television-canal-j" xmltv_id="(FR)  CANAL J">(FR)  CANAL J</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##93/programme-television-cartoon-network" xmltv_id="(FR)  CARTOON NETWORK">(FR)  CARTOON NETWORK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##127/programme-television-chasse-peche" xmltv_id="(FR)  CHASSE &amp; PECHE">(FR)  CHASSE &amp; PECHE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1050/programme-television-cherie-25" xmltv_id="(FR)  CHERIE 25">(FR)  CHERIE 25</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##244/programme-television-cine-classic" xmltv_id="(FR)  CINE + CLASSIC">(FR)  CINE + CLASSIC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##646/programme-television-cine-club" xmltv_id="(FR)  CINE + CLUB">(FR)  CINE + CLUB</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##240/programme-television-cine-emotion" xmltv_id="(FR)  CINE + EMOTION">(FR)  CINE + EMOTION</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##291/programme-television-cine-famiz" xmltv_id="(FR)  CINE + FAMIZ">(FR)  CINE + FAMIZ</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##241/programme-television-cine-frisson" xmltv_id="(FR)  CINE + FRISSON">(FR)  CINE + FRISSON</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##239/programme-television-cine-premier" xmltv_id="(FR)  CINE + PREMIER">(FR)  CINE + PREMIER</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##67/programme-television-club-rtl" xmltv_id="(FR)  CLUB RTL">(FR)  CLUB RTL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##179/programme-television-cnews" xmltv_id="(FR)  CNEWS">(FR)  CNEWS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##73/programme-television-comedie-" xmltv_id="(FR)  COMEDIE +">(FR)  COMEDIE +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1033/programme-television-cstar" xmltv_id="(FR)  CSTAR">(FR)  CSTAR</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##175/programme-television-demain" xmltv_id="(FR)  DEMAIN">(FR)  DEMAIN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##292/programme-television-discovery-channel" xmltv_id="(FR)  DISCOVERY CHANNEL">(FR)  DISCOVERY CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##64/programme-television-disney-channel" xmltv_id="(FR)  DISNEY CHANNEL">(FR)  DISNEY CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1200/programme-television-disney-cinema" xmltv_id="(FR)  DISNEY CINEMA">(FR)  DISNEY CINEMA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##871/programme-television-disney-junior" xmltv_id="(FR)  DISNEY JUNIOR">(FR)  DISNEY JUNIOR</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##658/programme-television-disney-xd" xmltv_id="(FR)  DISNEY XD">(FR)  DISNEY XD</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##304/programme-television-e-entertainment" xmltv_id="(FR)  E! ENTERTAINMENT">(FR)  E! ENTERTAINMENT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##884/programme-television-equidia" xmltv_id="(FR)  EQUIDIA">(FR)  EQUIDIA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##83/programme-television-eurosport" xmltv_id="(FR)  EUROSPORT">(FR)  EUROSPORT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##323/programme-television-eurosport-2" xmltv_id="(FR)  EUROSPORT 2">(FR)  EUROSPORT 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##2/programme-television-france-2" xmltv_id="(FR)  FRANCE 2">(FR)  FRANCE 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##419/programme-television-france-24" xmltv_id="(FR)  FRANCE 24">(FR)  FRANCE 24</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##3/programme-television-france-3" xmltv_id="(FR)  FRANCE 3">(FR)  FRANCE 3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##321/programme-television-france-4" xmltv_id="(FR)  FRANCE 4">(FR)  FRANCE 4</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##69/programme-television-france-5" xmltv_id="(FR)  FRANCE 5">(FR)  FRANCE 5</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##344/programme-television-france-o" xmltv_id="(FR)  FRANCE �">(FR)  FRANCE �</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##178/programme-television-game-one" xmltv_id="(FR)  GAME ONE">(FR)  GAME ONE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##361/programme-television-gulli" xmltv_id="(FR)  GULLI">(FR)  GULLI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##79/programme-television-histoire" xmltv_id="(FR)  HISTOIRE">(FR)  HISTOIRE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##180/programme-television-info-sport" xmltv_id="(FR)  INFO SPORT">(FR)  INFO SPORT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##26/programme-television-jimmy" xmltv_id="(FR)  JIMMY">(FR)  JIMMY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##221/programme-television-kto" xmltv_id="(FR)  KTO">(FR)  KTO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1046/programme-television-lequipe-21" xmltv_id="(FR)  L'EQUIPE 21">(FR)  L'EQUIPE 21</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##717/programme-television-la-trois" xmltv_id="(FR)  LA TROIS">(FR)  LA TROIS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##24/programme-television-la-une-rtbf" xmltv_id="(FR)  LA UNE (RTBF)">(FR)  LA UNE (RTBF)</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##155/programme-television-lci" xmltv_id="(FR)  LCI">(FR)  LCI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1873/programme-television-ln24" xmltv_id="(FR)  LN24">(FR)  LN24</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##13/programme-television-m6" xmltv_id="(FR)  M6">(FR)  M6</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##115/programme-television-m6-music" xmltv_id="(FR)  M6 MUSIC">(FR)  M6 MUSIC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##88/programme-television-mangas" xmltv_id="(FR)  MANGAS">(FR)  MANGAS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##85/programme-television-mcm" xmltv_id="(FR)  MCM">(FR)  MCM</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##381/programme-television-melody" xmltv_id="(FR)  MELODY">(FR)  MELODY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##86/programme-television-mezzo" xmltv_id="(FR)  MEZZO">(FR)  MEZZO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##933/programme-television-mezzo-live-hd" xmltv_id="(FR)  MEZZO LIVE HD">(FR)  MEZZO LIVE HD</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##96/programme-television-mtv" xmltv_id="(FR)  MTV">(FR)  MTV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##228/programme-television-national-geographic-channel" xmltv_id="(FR)  NATIONAL GEOGRAPHIC CHANNEL">(FR)  NATIONAL GEOGRAPHIC CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##637/programme-television-national-geographic-wild" xmltv_id="(FR)  NATIONAL GEOGRAPHIC WILD">(FR)  NATIONAL GEOGRAPHIC WILD</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##911/programme-television-nautical-channel" xmltv_id="(FR)  NAUTICAL CHANNEL">(FR)  NAUTICAL CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##377/programme-television-nickelodeon" xmltv_id="(FR)  NICKELODEON">(FR)  NICKELODEON</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##427/programme-television-nrj-hits" xmltv_id="(FR)  NRJ HITS">(FR)  NRJ HITS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##320/programme-television-nrj12" xmltv_id="(FR)  NRJ12">(FR)  NRJ12</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##611/programme-television-ocs-choc" xmltv_id="(FR)  OCS CHOC">(FR)  OCS CHOC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1125/programme-television-ocs-city" xmltv_id="(FR)  OCS CITY">(FR)  OCS CITY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##613/programme-television-ocs-geants" xmltv_id="(FR)  OCS GEANTS">(FR)  OCS GEANTS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##609/programme-television-ocs-max" xmltv_id="(FR)  OCS MAX">(FR)  OCS MAX</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##423/programme-television-oltv" xmltv_id="(FR)  OLTV">(FR)  OLTV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1116/programme-television-paramount-channel" xmltv_id="(FR)  PARAMOUNT CHANNEL">(FR)  PARAMOUNT CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##22/programme-television-paris-premiere" xmltv_id="(FR)  PARIS PREMIERE">(FR)  PARIS PREMIERE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##444/programme-television-pink-x" xmltv_id="(FR)  PINK X">(FR)  PINK X</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##279/programme-television-piwi-" xmltv_id="(FR)  PIWI +">(FR)  PIWI +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##21/programme-television-planete-" xmltv_id="(FR)  PLANETE +">(FR)  PLANETE +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##414/programme-television-planete-ae" xmltv_id="(FR)  PLANETE+ AE">(FR)  PLANETE+ AE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##446/programme-television-planete-ci" xmltv_id="(FR)  PLANETE+ CI">(FR)  PLANETE+ CI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##258/programme-television-playboy-tv" xmltv_id="(FR)  PLAYBOY TV">(FR)  PLAYBOY TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##281/programme-television-plug-rtl" xmltv_id="(FR)  PLUG RTL">(FR)  PLUG RTL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1727/programme-television-polar-" xmltv_id="(FR)  POLAR +">(FR)  POLAR +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##315/programme-television-public-senat-lcp-an" xmltv_id="(FR)  PUBLIC SENAT - LCP AN">(FR)  PUBLIC SENAT - LCP AN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##120/programme-television-rai-1" xmltv_id="(FR)  RAI 1">(FR)  RAI 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1049/programme-television-rmc-decouverte" xmltv_id="(FR)  RMC DECOUVERTE">(FR)  RMC DECOUVERTE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1578/programme-television-rmc-sport-1" xmltv_id="(FR)  RMC SPORT 1">(FR)  RMC SPORT 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##584/programme-television-rmc-sport-2" xmltv_id="(FR)  RMC SPORT 2">(FR)  RMC SPORT 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##664/programme-television-rmc-sport-3" xmltv_id="(FR)  RMC SPORT 3">(FR)  RMC SPORT 3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1048/programme-television-rmc-story" xmltv_id="(FR)  RMC STORY">(FR)  RMC STORY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##31/programme-television-rtl-9" xmltv_id="(FR)  RTL 9">(FR)  RTL 9</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##19/programme-television-rtl-tvi" xmltv_id="(FR)  RTL TVI">(FR)  RTL TVI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##968/programme-television-rts-deux" xmltv_id="(FR)  RTS DEUX">(FR)  RTS DEUX</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##967/programme-television-rts-un" xmltv_id="(FR)  RTS UN">(FR)  RTS UN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1199/programme-television-science-vie-tv" xmltv_id="(FR)  SCIENCE &amp; VIE TV">(FR)  SCIENCE &amp; VIE TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##82/programme-television-seasons-" xmltv_id="(FR)  SEASONS +">(FR)  SEASONS +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##34/programme-television-serie-club" xmltv_id="(FR)  SERIE CLUB">(FR)  SERIE CLUB</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##252/programme-television-sport-" xmltv_id="(FR)  SPORT +">(FR)  SPORT +</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##844/programme-television-stingray-brava" xmltv_id="(FR)  STINGRAY BRAVA">(FR)  STINGRAY BRAVA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##362/programme-television-syfy" xmltv_id="(FR)  SYFY">(FR)  SYFY</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##172/programme-television-tcm-cinema" xmltv_id="(FR)  TCM CINEMA">(FR)  TCM CINEMA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##90/programme-television-teletoon-" xmltv_id="(FR)  TELETOON + ">(FR)  TELETOON + </channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##48/programme-television-teva" xmltv_id="(FR)  TEVA">(FR)  TEVA</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1/programme-television-tf1" xmltv_id="(FR)  TF1">(FR)  TF1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1045/programme-television-tf1-series-films" xmltv_id="(FR)  TF1 S�ries Films">(FR)  TF1 S�ries Films</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##318/programme-television-tfx" xmltv_id="(FR)  TFX">(FR)  TFX</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##212/programme-television-tiji" xmltv_id="(FR)  TIJI">(FR)  TIJI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1916/programme-television-tipik" xmltv_id="(FR)  TIPIK">(FR)  TIPIK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##70/programme-television-tmc" xmltv_id="(FR)  TMC">(FR)  TMC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##255/programme-television-toute-lhistoire" xmltv_id="(FR)  TOUTE L'HISTOIRE">(FR)  TOUTE L'HISTOIRE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##845/programme-television-trace-urban" xmltv_id="(FR)  TRACE URBAN">(FR)  TRACE URBAN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1195/programme-television-trek" xmltv_id="(FR)  TREK">(FR)  TREK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##199/programme-television-tv-breizh" xmltv_id="(FR)  TV BREIZH">(FR)  TV BREIZH</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##27/programme-television-tv5-monde" xmltv_id="(FR)  TV5 MONDE">(FR)  TV5 MONDE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##345/programme-television-ushuaia-tv" xmltv_id="(FR)  USHUAIA TV">(FR)  USHUAIA TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##71/programme-television-voyage" xmltv_id="(FR)  VOYAGE">(FR)  VOYAGE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##322/programme-television-w9" xmltv_id="(FR)  W9">(FR)  W9</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##1729/programme-television-warner-tv" xmltv_id="(FR)  Warner TV">(FR)  Warner TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="fr-fr##55/programme-television-xxl" xmltv_id="(FR)  XXL">(FR)  XXL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##74/tv-programma-13eme-rue" xmltv_id="(NL)  13EME RUE">(NL)  13EME RUE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##14/tv-programma-arte" xmltv_id="(NL)  ARTE">(NL)  ARTE</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##138/tv-programma-automoto" xmltv_id="(NL)  AUTOMOTO">(NL)  AUTOMOTO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##119/tv-programma-bbc-entertainment" xmltv_id="(NL)  BBC ENTERTAINMENT">(NL)  BBC ENTERTAINMENT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##129/tv-programma-bbc1" xmltv_id="(NL)  BBC1">(NL)  BBC1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##130/tv-programma-bbc2" xmltv_id="(NL)  BBC2">(NL)  BBC2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##269/tv-programma-boomerang" xmltv_id="(NL)  BOOMERANG">(NL)  BOOMERANG</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##581/tv-programma-canvas" xmltv_id="(NL)  CANVAS">(NL)  CANVAS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##93/tv-programma-cartoon-network" xmltv_id="(NL)  CARTOON NETWORK">(NL)  CARTOON NETWORK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##67/tv-programma-club-rtl" xmltv_id="(NL)  CLUB RTL">(NL)  CLUB RTL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##292/tv-programma-discovery-channel" xmltv_id="(NL)  DISCOVERY CHANNEL">(NL)  DISCOVERY CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##304/tv-programma-e-entertainment" xmltv_id="(NL)  E! ENTERTAINMENT">(NL)  E! ENTERTAINMENT</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##313/tv-programma-een" xmltv_id="(NL)  EEN">(NL)  EEN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##323/tv-programma-eurosport-2" xmltv_id="(NL)  EUROSPORT 2">(NL)  EUROSPORT 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##618/tv-programma-eurosport-nl" xmltv_id="(NL)  EUROSPORT NL">(NL)  EUROSPORT NL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##2/tv-programma-france-2" xmltv_id="(NL)  FRANCE 2">(NL)  FRANCE 2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##3/tv-programma-france-3" xmltv_id="(NL)  FRANCE 3">(NL)  FRANCE 3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##321/tv-programma-france-4" xmltv_id="(NL)  FRANCE 4">(NL)  FRANCE 4</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##69/tv-programma-france-5" xmltv_id="(NL)  FRANCE 5">(NL)  FRANCE 5</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##344/tv-programma-france-o" xmltv_id="(NL)  FRANCE �">(NL)  FRANCE �</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##164/tv-programma-ketnet" xmltv_id="(NL)  KETNET">(NL)  KETNET</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##717/tv-programma-la-trois" xmltv_id="(NL)  LA TROIS">(NL)  LA TROIS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##24/tv-programma-la-une-rtbf" xmltv_id="(NL)  LA UNE (RTBF)">(NL)  LA UNE (RTBF)</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##86/tv-programma-mezzo" xmltv_id="(NL)  MEZZO">(NL)  MEZZO</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##535/tv-programma-mtv" xmltv_id="(NL)  MTV">(NL)  MTV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##539/tv-programma-national-geographic" xmltv_id="(NL)  NATIONAL GEOGRAPHIC">(NL)  NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##528/tv-programma-nickelodeon" xmltv_id="(NL)  NICKELODEON">(NL)  NICKELODEON</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1167/tv-programma-njam-" xmltv_id="(NL)  NJAM !">(NL)  NJAM !</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##139/tv-programma-npo1" xmltv_id="(NL)  NPO1">(NL)  NPO1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##140/tv-programma-npo2" xmltv_id="(NL)  NPO2">(NL)  NPO2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##141/tv-programma-npo3" xmltv_id="(NL)  NPO3">(NL)  NPO3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1116/tv-programma-paramount-channel" xmltv_id="(NL)  PARAMOUNT CHANNEL">(NL)  PARAMOUNT CHANNEL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1384/tv-programma-pebble-tv" xmltv_id="(NL)  PEBBLE TV">(NL)  PEBBLE TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##536/tv-programma-play-more-kicks" xmltv_id="(NL)  PLAY MORE Kicks">(NL)  PLAY MORE Kicks</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##258/tv-programma-playboy-tv" xmltv_id="(NL)  PLAYBOY TV">(NL)  PLAYBOY TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##281/tv-programma-plug-rtl" xmltv_id="(NL)  PLUG RTL">(NL)  PLUG RTL</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##120/tv-programma-rai-1" xmltv_id="(NL)  RAI 1">(NL)  RAI 1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##19/tv-programma-rtl-tvi" xmltv_id="(NL)  RTL TVI">(NL)  RTL TVI</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1168/tv-programma-studio100tv" xmltv_id="(NL)  STUDIO100tv">(NL)  STUDIO100tv</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1/tv-programma-tf1" xmltv_id="(NL)  TF1">(NL)  TF1</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1916/tv-programma-tipik" xmltv_id="(NL)  TIPIK">(NL)  TIPIK</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##845/tv-programma-trace-urban" xmltv_id="(NL)  TRACE URBAN">(NL)  TRACE URBAN</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##199/tv-programma-tv-breizh" xmltv_id="(NL)  TV BREIZH">(NL)  TV BREIZH</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##150/tv-programma-vier" xmltv_id="(NL)  VIER">(NL)  VIER</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##296/tv-programma-vijf" xmltv_id="(NL)  VIJF">(NL)  VIJF</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##148/tv-programma-vtm" xmltv_id="(NL)  VTM">(NL)  VTM</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1907/tv-programma-vtm-gold" xmltv_id="(NL)  VTM GOLD">(NL)  VTM GOLD</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1170/tv-programma-vtm-kids" xmltv_id="(NL)  VTM KIDS">(NL)  VTM KIDS</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##467/tv-programma-vtm2" xmltv_id="(NL)  VTM2">(NL)  VTM2</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##541/tv-programma-vtm3" xmltv_id="(NL)  VTM3">(NL)  VTM3</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##688/tv-programma-vtm4" xmltv_id="(NL)  VTM4">(NL)  VTM4</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1729/tv-programma-warner-tv" xmltv_id="(NL)  Warner TV">(NL)  Warner TV</channel>
+    <channel update="i" site="mijn-tv-gids.be" site_id="nl-be##1655/tv-programma-zes" xmltv_id="(NL)  ZES">(NL)  ZES</channel>
   </channels>
 </site>
