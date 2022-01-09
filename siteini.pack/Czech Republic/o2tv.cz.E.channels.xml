@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.3 -- Jan van Straaten" site="o2tv.cz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.5 -- Jan van Straaten" site="o2tv.cz">
   <channels>
     <channel update="i" site="o2tv.cz.E" site_id="ČT1 HD" xmltv_id="ČT1 HD">ČT1 HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="ČT2 HD" xmltv_id="ČT2 HD">ČT2 HD</channel>
@@ -30,7 +30,7 @@
     <channel update="i" site="o2tv.cz.E" site_id="Filmbox Family" xmltv_id="Filmbox Family">Filmbox Family</channel>
     <channel update="i" site="o2tv.cz.E" site_id="CS Film" xmltv_id="CS Film">CS Film</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Nova Cinema HD" xmltv_id="Nova Cinema HD">Nova Cinema HD</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Nova 2 HD" xmltv_id="Nova 2 HD">Nova 2 HD</channel>
+    <channel update="i" site="o2tv.cz.E" site_id="Nova 2 HD" xmltv_id="Nova Fun HD">Nova Fun HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Nova Gold HD" xmltv_id="Nova GOLD HD">Nova GOLD HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Epic Drama HD" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Film Europe HD" xmltv_id="Film Europe HD">Film Europe HD</channel>
@@ -38,11 +38,12 @@
     <channel update="i" site="o2tv.cz.E" site_id="JoJ Cinema HD" xmltv_id="JoJ Cinema HD">JoJ Cinema HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="PrimaStar" xmltv_id="Prima Star">Prima Star</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Nova Action HD" xmltv_id="Nova ACTION HD">Nova ACTION HD</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="HOROR FILM" xmltv_id="CS Horror">CS Horror</channel>
+    <channel update="i" site="o2tv.cz.E" site_id="NovaLady" xmltv_id="Nova Lady">Nova Lady</channel>
     <channel update="i" site="o2tv.cz.E" site_id="STV1" xmltv_id="Jednotka">Jednotka</channel>
     <channel update="i" site="o2tv.cz.E" site_id="JoJ Family HD" xmltv_id="JoJ Family HD">JoJ Family HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="KINO Barrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Barrandov Plus" xmltv_id="Krimi Barrandov">Krimi Barrandov</channel>
+    <channel update="i" site="o2tv.cz.E" site_id="HOROR FILM" xmltv_id="CS Horror">CS Horror</channel>
     <channel update="i" site="o2tv.cz.E" site_id="National Geographic" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="o2tv.cz.E" site_id="NatGeo Wild HD" xmltv_id="Nat Geo WILD HD">Nat Geo WILD HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Viasat Explore" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
@@ -71,6 +72,7 @@
     <channel update="i" site="o2tv.cz.E" site_id="Sport5" xmltv_id="Sport5">Sport5</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Golf Channel HD" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="FightBoxHD" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="o2tv.cz.E" site_id="EdgeSportHD" xmltv_id="Edge Sport HD">Edge Sport HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Disney Channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Nick Jr." xmltv_id="Nick Jr.">Nick Jr.</channel>
@@ -91,7 +93,7 @@
     <channel update="i" site="o2tv.cz.E" site_id="Fishing &amp; Hunting" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Ginx" xmltv_id="GINX Esports TV HD">GINX Esports TV HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Gametoon" xmltv_id="GameToon">GameToon</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Šlágr TV" xmltv_id="Šláger Muzika">Šláger Muzika</channel>
+    <channel update="i" site="o2tv.cz.E" site_id="Šlágr TV" xmltv_id="Šláger Originál">Šláger Originál</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Óčko Gold" xmltv_id="Óčko Star">Óčko Star</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Óčko" xmltv_id="Óčko HD">Óčko HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="MTV" xmltv_id="MTV">MTV</channel>
@@ -128,10 +130,8 @@
     <channel update="i" site="o2tv.cz.E" site_id="TV Noe" xmltv_id="TV Noe">TV Noe</channel>
     <channel update="i" site="o2tv.cz.E" site_id="RELAX" xmltv_id="Relax">Relax</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Rebel" xmltv_id="Rebel">Rebel</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="TV JOJ" xmltv_id="TV JOJ">TV JOJ</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Praha TV" xmltv_id="Praha TV">Praha TV</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Letiste" xmltv_id="Mall.TV">Mall.TV</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="ČRo Radiovideo" xmltv_id="ČRo Radiožurnál">ČRo Radiožurnál</channel>
     <channel update="i" site="o2tv.cz.E" site_id="O2 Sport1 HD" xmltv_id="O2TV Sport1 HD">O2TV Sport1 HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="O2 Sport2 HD" xmltv_id="O2TV Sport2 HD">O2TV Sport2 HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="O2 Sport3 HD" xmltv_id="O2TV Sport3 HD">O2TV Sport3 HD</channel>
@@ -140,13 +140,6 @@
     <channel update="i" site="o2tv.cz.E" site_id="O2 Sport6 HD" xmltv_id="O2TV Sport6 HD">O2TV Sport6 HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="O2 Sport7 HD" xmltv_id="O2TV Sport7 HD">O2TV Sport7 HD</channel>
     <channel update="i" site="o2tv.cz.E" site_id="O2 Sport8 HD" xmltv_id="O2TV Sport8 HD">O2TV Sport8 HD</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport3" xmltv_id="Eurosport 3">Eurosport 3</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport4" xmltv_id="Eurosport 4">Eurosport 4</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport5" xmltv_id="Eurosport 5">Eurosport 5</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport6" xmltv_id="Eurosport 6">Eurosport 6</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport7" xmltv_id="Eurosport 7">Eurosport 7</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport8" xmltv_id="Eurosport 8">Eurosport 8</channel>
-    <channel update="i" site="o2tv.cz.E" site_id="Eurosport9" xmltv_id="Eurosport 9">Eurosport 9</channel>
     <channel update="i" site="o2tv.cz.E" site_id="KRB" xmltv_id="KRB">KRB</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Africké nebe" xmltv_id="Africké nebe">Africké nebe</channel>
     <channel update="i" site="o2tv.cz.E" site_id="Akvárium" xmltv_id="Akvárium">Akvárium</channel>
