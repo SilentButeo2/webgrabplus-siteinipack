@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="tvtv.ch">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.5 -- Jan van Straaten" site="tvtv.ch">
   <channels>
     <channel update="i" site="tvtv.ch" site_id="drs" xmltv_id="SRF 1">SRF 1</channel>
     <channel update="i" site="tvtv.ch" site_id="ch4" xmltv_id="SRF zwei">SRF zwei</channel>
@@ -44,7 +44,7 @@
     <channel update="i" site="tvtv.ch" site_id="sixx" xmltv_id="sixx">sixx</channel>
     <channel update="i" site="tvtv.ch" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
     <channel update="i" site="tvtv.ch" site_id="rtln" xmltv_id="Nitro">Nitro</channel>
-    <channel update="i" site="tvtv.ch" site_id="rtpl" xmltv_id="RTL plus">RTL plus</channel>
+    <channel update="i" site="tvtv.ch" site_id="rtpl" xmltv_id="RTLup">RTLup</channel>
     <channel update="i" site="tvtv.ch" site_id="pr7m" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
     <channel update="i" site="tvtv.ch" site_id="satg" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
     <channel update="i" site="tvtv.ch" site_id="voxu" xmltv_id="VOXup">VOXup</channel>
@@ -57,13 +57,15 @@
     <channel update="i" site="tvtv.ch" site_id="anixe" xmltv_id="Anixe HD">Anixe HD</channel>
     <channel update="i" site="tvtv.ch" site_id="tlcd" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="tvtv.ch" site_id="qvc" xmltv_id="QVC Deutschland">QVC Deutschland</channel>
-    <channel update="i" site="tvtv.ch" site_id="hot" xmltv_id="HSE24">HSE24</channel>
+    <channel update="i" site="tvtv.ch" site_id="hot" xmltv_id="HSE">HSE</channel>
     <channel update="i" site="tvtv.ch" site_id="bib" xmltv_id="Bibel TV">Bibel TV</channel>
     <channel update="i" site="tvtv.ch" site_id="sonne" xmltv_id="sonnenklar.TV">sonnenklar.TV</channel>
     <channel update="i" site="tvtv.ch" site_id="n24" xmltv_id="WELT">WELT</channel>
     <channel update="i" site="tvtv.ch" site_id="n24d" xmltv_id="N24 Doku">N24 Doku</channel>
+    <channel update="i" site="tvtv.ch" site_id="bild" xmltv_id="Bild TV">Bild TV</channel>
     <channel update="i" site="tvtv.ch" site_id="ntv" xmltv_id="N-TV">N-TV</channel>
     <channel update="i" site="tvtv.ch" site_id="ka1d" xmltv_id="Kabel 1 Doku">Kabel 1 Doku</channel>
+    <channel update="i" site="tvtv.ch" site_id="hgde" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="tvtv.ch" site_id="gsk1" xmltv_id="Sky One HD">Sky One HD</channel>
     <channel update="i" site="tvtv.ch" site_id="skyat" xmltv_id="SKY Atlantic HD">SKY Atlantic HD</channel>
     <channel update="i" site="tvtv.ch" site_id="skyc" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
@@ -78,7 +80,8 @@
     <channel update="i" site="tvtv.ch" site_id="skyn" xmltv_id="Sky Cinema Classics SD">Sky Cinema Classics SD</channel>
     <channel update="i" site="tvtv.ch" site_id="sts" xmltv_id="Sky 13TH Street">Sky 13TH Street</channel>
     <channel update="i" site="tvtv.ch" site_id="pcf" xmltv_id="Sky Syfy">Sky Syfy</channel>
-    <channel update="i" site="tvtv.ch" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tvtv.ch" site_id="dscr" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel update="i" site="tvtv.ch" site_id="dsco" xmltv_id="Sky Comedy">Sky Comedy</channel>
     <channel update="i" site="tvtv.ch" site_id="tnt" xmltv_id="TNT Serie">TNT Serie</channel>
     <channel update="i" site="tvtv.ch" site_id="tntc" xmltv_id="TNT Comedy">TNT Comedy</channel>
     <channel update="i" site="tvtv.ch" site_id="tcm" xmltv_id="TNT Film">TNT Film</channel>
@@ -88,6 +91,8 @@
     <channel update="i" site="tvtv.ch" site_id="ngeo" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="tvtv.ch" site_id="ngwi" xmltv_id="National Geographic Wildlife">National Geographic Wildlife</channel>
     <channel update="i" site="tvtv.ch" site_id="his" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="tvtv.ch" site_id="skyd" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel update="i" site="tvtv.ch" site_id="skyna" xmltv_id="Sky Nature">Sky Nature</channel>
     <channel update="i" site="tvtv.ch" site_id="sil" xmltv_id="Silverline">Silverline</channel>
     <channel update="i" site="tvtv.ch" site_id="kino" xmltv_id="Kinowelt.tv">Kinowelt.tv</channel>
     <channel update="i" site="tvtv.ch" site_id="axn" xmltv_id="AXN">AXN</channel>
@@ -95,17 +100,20 @@
     <channel update="i" site="tvtv.ch" site_id="spohd" xmltv_id="Sky Sport HD">Sky Sport HD</channel>
     <channel update="i" site="tvtv.ch" site_id="skys1" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
     <channel update="i" site="tvtv.ch" site_id="skys2" xmltv_id="Sky Sport 2">Sky Sport 2</channel>
+    <channel update="i" site="tvtv.ch" site_id="dssf" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
     <channel update="i" site="tvtv.ch" site_id="skybu" xmltv_id="Sky Fussball Bundesliga">Sky Fussball Bundesliga</channel>
+    <channel update="i" site="tvtv.ch" site_id="dab1" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel update="i" site="tvtv.ch" site_id="dab2" xmltv_id="DAZN 2">DAZN 2</channel>
     <channel update="i" site="tvtv.ch" site_id="euro2" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvtv.ch" site_id="skysa" xmltv_id="Sky Sport Austria">Sky Sport Austria</channel>
     <channel update="i" site="tvtv.ch" site_id="movi" xmltv_id="Motorvision">Motorvision</channel>
-    <channel update="i" site="tvtv.ch" site_id="pldi" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="tvtv.ch" site_id="jun" xmltv_id="Sky Junior">Sky Junior</channel>
     <channel update="i" site="tvtv.ch" site_id="sate" xmltv_id="Sat.1 Emotions">Sat.1 Emotions</channel>
     <channel update="i" site="tvtv.ch" site_id="kacl" xmltv_id="Kabel 1 Classics">Kabel 1 Classics</channel>
     <channel update="i" site="tvtv.ch" site_id="roma" xmltv_id="Romance TV">Romance TV</channel>
     <channel update="i" site="tvtv.ch" site_id="rtlp" xmltv_id="RTL Passion">RTL Passion</channel>
     <channel update="i" site="tvtv.ch" site_id="rtlc" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="tvtv.ch" site_id="rtll" xmltv_id="RTL Living">RTL Living</channel>
     <channel update="i" site="tvtv.ch" site_id="pr7f" xmltv_id="Pro7Fun">Pro7Fun</channel>
     <channel update="i" site="tvtv.ch" site_id="bogu" xmltv_id="BonGusto">BonGusto</channel>
     <channel update="i" site="tvtv.ch" site_id="mtv" xmltv_id="MTV">MTV</channel>
@@ -113,7 +121,6 @@
     <channel update="i" site="tvtv.ch" site_id="gst" xmltv_id="Sky GoldStar">Sky GoldStar</channel>
     <channel update="i" site="tvtv.ch" site_id="cla" xmltv_id="Sky Classica">Sky Classica</channel>
     <channel update="i" site="tvtv.ch" site_id="but" xmltv_id="Beate Uhse TV">Beate Uhse TV</channel>
-    <channel update="i" site="tvtv.ch" site_id="bm1" xmltv_id="Blue Movie">Blue Movie</channel>
     <channel update="i" site="tvtv.ch" site_id="enw" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="tvtv.ch" site_id="blo" xmltv_id="BLOOMBERG TV">BLOOMBERG TV</channel>
     <channel update="i" site="tvtv.ch" site_id="spge" xmltv_id="Spiegel Geschichte">Spiegel Geschichte</channel>
