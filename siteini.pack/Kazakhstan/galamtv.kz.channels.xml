@@ -1,26 +1,46 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="galamtv.kz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="galamtv.kz">
   <channels>
-    <channel update="i" site="galamtv.kz" site_id="205" xmltv_id="OTAU TV Channel">OTAU TV Channel</channel>
-    <channel update="i" site="galamtv.kz" site_id="3" xmltv_id="Казахстан">Казахстан</channel>
-    <channel update="i" site="galamtv.kz" site_id="5" xmltv_id="Хабар">Хабар</channel>
-    <channel update="i" site="galamtv.kz" site_id="8" xmltv_id="24 KZ">24 KZ</channel>
-    <channel update="i" site="galamtv.kz" site_id="7" xmltv_id="Білім және Мәдениет">Білім және Мәдениет</channel>
-    <channel update="i" site="galamtv.kz" site_id="2" xmltv_id="Мир">Мир</channel>
-    <channel update="i" site="galamtv.kz" site_id="792" xmltv_id="7 Канал">7 Канал</channel>
-    <channel update="i" site="galamtv.kz" site_id="10" xmltv_id="31 канал">31 канал</channel>
-    <channel update="i" site="galamtv.kz" site_id="149" xmltv_id="CTB">CTB</channel>
-    <channel update="i" site="galamtv.kz" site_id="12" xmltv_id="Алматы">Алматы</channel>
-    <channel update="i" site="galamtv.kz" site_id="11" xmltv_id="ОҢ-ТВ">ОҢ-ТВ</channel>
-    <channel update="i" site="galamtv.kz" site_id="13" xmltv_id="Жетiсу">Жетiсу</channel>
-    <channel update="i" site="galamtv.kz" site_id="6" xmltv_id="KazakhTV">KazakhTV</channel>
-    <channel update="i" site="galamtv.kz" site_id="20" xmltv_id="7 Kazakhstan">7 Kazakhstan</channel>
-    <channel update="i" site="galamtv.kz" site_id="789" xmltv_id="Туран ТВ">Туран ТВ</channel>
-    <channel update="i" site="galamtv.kz" site_id="791" xmltv_id="Новое Телевидение">Новое Телевидение</channel>
-    <channel update="i" site="galamtv.kz" site_id="4" xmltv_id="Балапан">Балапан</channel>
-    <channel update="i" site="galamtv.kz" site_id="203" xmltv_id="Gakku TV">Gakku TV</channel>
-    <channel update="i" site="galamtv.kz" site_id="14" xmltv_id="MuzZone">MuzZone</channel>
-    <channel update="i" site="galamtv.kz" site_id="16" xmltv_id="KazSport">KazSport</channel>
-    <channel update="i" site="galamtv.kz" site_id="204" xmltv_id="Асыл Арна">Асыл Арна</channel>
+    <channel update="i" site="galamtv.kz" site_id="57552ff14e2e6750a69b8a81" xmltv_id="QAZAQSTAN">QAZAQSTAN</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d1e3078d72701950089d3" xmltv_id="Astana">Astana</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d1f1278d72701950089d8" xmltv_id="Хабар HD">Хабар HD</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d1ec678d72701950089d6" xmltv_id="Хабар 24 HD">Хабар 24 HD</channel>
+    <channel update="i" site="galamtv.kz" site_id="59562fcfc8c2543eb9620fc1" xmltv_id="Balapan">Balapan</channel>
+    <channel update="i" site="galamtv.kz" site_id="59562f95c8c2543eb9620fc0" xmltv_id="Ел Арна">Ел Арна</channel>
+    <channel update="i" site="galamtv.kz" site_id="57552f734e2e6750a69b8a7a" xmltv_id="QAZSPORT">QAZSPORT</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d416078d7270195008a66" xmltv_id="Первый канал Евразия">Первый канал Евразия</channel>
+    <channel update="i" site="galamtv.kz" site_id="60520998b168aa6d6ac36240" xmltv_id="Q SPORT Extra">Q SPORT Extra</channel>
+    <channel update="i" site="galamtv.kz" site_id="535f8014ebf8c403a10050c3" xmltv_id="МИР">МИР</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d1ebb78d72701950089d5" xmltv_id="Седьмой канал">Седьмой канал</channel>
+    <channel update="i" site="galamtv.kz" site_id="55d5fa4578d727248d00c850" xmltv_id="СТВ">СТВ</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d1dcb78d72701950089d2" xmltv_id="Алматы">Алматы</channel>
+    <channel update="i" site="galamtv.kz" site_id="571a004b4e2e6750a693cc32" xmltv_id="ТАН">ТАН</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d210c78d72701950089f8" xmltv_id="Gakku TV">Gakku TV</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d20a778d72701950089f6" xmltv_id="TALIM TV">TALIM TV</channel>
+    <channel update="i" site="galamtv.kz" site_id="559e412978d7270195008a72" xmltv_id="MuzZone">MuzZone</channel>
+    <channel update="i" site="galamtv.kz" site_id="571a017c4e2e6750a693cc3b" xmltv_id="Жетысу">Жетысу</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d41b978d7270195008a67" xmltv_id="Kazakh TV">Kazakh TV</channel>
+    <channel update="i" site="galamtv.kz" site_id="535f6608ebf8c403a1001bfb" xmltv_id="МИР 24">МИР 24</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d209878d72701950089f5" xmltv_id="Туран-ТВ">Туран-ТВ</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d224e78d7270195008a15" xmltv_id="Новое Телевидение">Новое Телевидение</channel>
+    <channel update="i" site="galamtv.kz" site_id="559d208e78d72701950089f4" xmltv_id="HitTV">HitTV</channel>
+    <channel update="i" site="galamtv.kz" site_id="57bb6e6c4e2e6775aedaa771" xmltv_id="твоЁтв">твоЁтв</channel>
+    <channel update="i" site="galamtv.kz" site_id="59562f3ac8c2543eb9620fbf" xmltv_id="Atameken Business">Atameken Business</channel>
+    <channel update="i" site="galamtv.kz" site_id="5e725eeb19bd5810e23fbc3d" xmltv_id="Q KinoALEM">Q KinoALEM</channel>
+    <channel update="i" site="galamtv.kz" site_id="5e725f2419bd5810e23fbc3e" xmltv_id="Q KinoHIT">Q KinoHIT</channel>
+    <channel update="i" site="galamtv.kz" site_id="53f307024e2e670103007d78" xmltv_id="ТДК-42">ТДК-42</channel>
+    <channel update="i" site="galamtv.kz" site_id="5fe5ca7eb77f6b3ffa511375" xmltv_id="HALYQ ARNA">HALYQ ARNA</channel>
+    <channel update="i" site="galamtv.kz" site_id="6061ddc2b168aa6d6ac3624b" xmltv_id="Otau TV">Otau TV</channel>
+    <channel update="i" site="galamtv.kz" site_id="60745ed2baf5a188ec43640a" xmltv_id="Turkistan">Turkistan</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abba929c8c2541ea19c4fed" xmltv_id="Радио &quot;QAZAQ radiosy&quot;">Радио "QAZAQ radiosy"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbaa8bc8c2541ea19c4fef" xmltv_id="Радио &quot;SHALQAR RADIOSY&quot;">Радио "SHALQAR RADIOSY"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbab3ec8c2541ea19c4ff0" xmltv_id="Радио &quot;Радио Астана&quot;">Радио "Радио Астана"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbac58c8c2541ea19c4ff1" xmltv_id="Радио &quot;Радио Classic&quot;">Радио "Радио Classic"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbad46c8c2541ea19c4ff2" xmltv_id="Радио &quot;Радио NS&quot;">Радио "Радио NS"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbaddcc8c2541ea19c4ff3" xmltv_id="Радио &quot;Русское радио Азия&quot;">Радио "Русское радио Азия"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbaf2dc8c2541ea19c4ff4" xmltv_id="Радио &quot;Love Radio&quot;">Радио "Love Radio"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abbb116c8c2541ea19c4ff5" xmltv_id="Радио &quot;Авторадио  Казахстан&quot;">Радио "Авторадио  Казахстан"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5abcf08ec8c2541ea19c4ff7" xmltv_id="Радио &quot;Energy FM&quot;">Радио "Energy FM"</channel>
+    <channel update="i" site="galamtv.kz" site_id="5be57d04c8c254725e9ceb91" xmltv_id="ЖАНА FM">ЖАНА FM</channel>
   </channels>
 </site>
