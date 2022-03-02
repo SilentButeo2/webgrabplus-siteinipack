@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" site="directv.cl">
+  <channels>
+    <channel update="i" site="directv.com.cl" site_id="4140" xmltv_id="Prepago North(101)(101)">Prepago North(101)(101)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4141" xmltv_id="Prepago South(101)(101)">Prepago South(101)(101)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4458" xmltv_id="NTV (Canal Cultural Familiar)(NTV)(146)">NTV (Canal Cultural Familiar)(NTV)(146)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1445" xmltv_id="TV+HD (CHI)(TV+HD)(147)">TV+HD (CHI)(TV+HD)(147)</channel>
+    <channel update="i" site="directv.com.cl" site_id="148" xmltv_id="La Red (CHI)(RED)(148)">La Red (CHI)(RED)(148)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1446" xmltv_id="La Red HD (CHI)(REDHD)(148)">La Red HD (CHI)(REDHD)(148)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1285" xmltv_id="TVN HD (CHI)(TVNHD)(149)">TVN HD (CHI)(TVNHD)(149)</channel>
+    <channel update="i" site="directv.com.cl" site_id="149" xmltv_id="Televisión Nacional de Chile (CHI)(TVN)(149)">Televisión Nacional de Chile (CHI)(TVN)(149)</channel>
+    <channel update="i" site="directv.com.cl" site_id="150" xmltv_id="Mega (CHI)(MEGA)(150)">Mega (CHI)(MEGA)(150)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1293" xmltv_id="Mega HD (CHI)(MEGAHD)(150)">Mega HD (CHI)(MEGAHD)(150)</channel>
+    <channel update="i" site="directv.com.cl" site_id="151" xmltv_id="Chilevisión (CHI)(CHV)(151)">Chilevisión (CHI)(CHV)(151)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1286" xmltv_id="Chilevisión HD (CHI)(CHVHD)(151)">Chilevisión HD (CHI)(CHVHD)(151)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1287" xmltv_id="Canal 13 Chile HD(C13HD)(152)">Canal 13 Chile HD(C13HD)(152)</channel>
+    <channel update="i" site="directv.com.cl" site_id="152" xmltv_id="Canal 13 (CHI)(C13)(152)">Canal 13 (CHI)(C13)(152)</channel>
+    <channel update="i" site="directv.com.cl" site_id="153" xmltv_id="24 Horas (CHI)(24HR)(153)">24 Horas (CHI)(24HR)(153)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1292" xmltv_id="24 Horas HD (CHI)(24HRHD)(153)">24 Horas HD (CHI)(24HRHD)(153)</channel>
+    <channel update="i" site="directv.com.cl" site_id="709" xmltv_id="CNN Chile (CHI)(CNNC)(154)">CNN Chile (CHI)(CNNC)(154)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1291" xmltv_id="CNN Chile HD(CNNCHD)(154)">CNN Chile HD(CNNCHD)(154)</channel>
+    <channel update="i" site="directv.com.cl" site_id="128" xmltv_id="Infomercials(AINF)(160)">Infomercials(AINF)(160)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1106" xmltv_id="OnDIRECTV HD (Sur)(ODTVHD)(201)">OnDIRECTV HD (Sur)(ODTVHD)(201)</channel>
+    <channel update="i" site="directv.com.cl" site_id="368" xmltv_id="OnDIRECTV (Sur)(ODTV)(201)">OnDIRECTV (Sur)(ODTV)(201)</channel>
+    <channel update="i" site="directv.com.cl" site_id="859" xmltv_id="STAR Channel (CHI)(STAR)(202)">STAR Channel (CHI)(STAR)(202)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1083" xmltv_id="STAR Channel HD(STAR)(204)">STAR Channel HD(STAR)(204)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4377" xmltv_id="DIRECTV Go(DTVGO)(205)">DIRECTV Go(DTVGO)(205)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4034" xmltv_id="Warner Channel(WTV)(206)">Warner Channel(WTV)(206)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1207" xmltv_id="A&amp;E HD(A&amp;EHD)(207)">A&amp;E HD(A&amp;EHD)(207)</channel>
+    <channel update="i" site="directv.com.cl" site_id="207" xmltv_id="A&amp;E (A&amp;E)(207)">A&amp;E (A&amp;E)(207)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1210" xmltv_id="Sony Entertainment HD(SONYHD)(208)">Sony Entertainment HD(SONYHD)(208)</channel>
+    <channel update="i" site="directv.com.cl" site_id="210" xmltv_id="Sony Entertainment(SONY)(208)">Sony Entertainment(SONY)(208)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4036" xmltv_id="AXN(AXN)(209)">AXN(AXN)(209)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1773" xmltv_id="AXN HD(AXNHD)(209)">AXN HD(AXNHD)(209)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1297" xmltv_id="AMC HD(AMCHD)(210)">AMC HD(AMCHD)(210)</channel>
+    <channel update="i" site="directv.com.cl" site_id="858" xmltv_id="AMC(AMC)(210)">AMC(AMC)(210)</channel>
+    <channel update="i" site="directv.com.cl" site_id="219" xmltv_id="STAR Life(STRL)(212)">STAR Life(STRL)(212)</channel>
+    <channel update="i" site="directv.com.cl" site_id="921" xmltv_id="TNT Series(TNTS)(213)">TNT Series(TNTS)(213)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1213" xmltv_id="TNT Series HD(TNTSHD)(213)">TNT Series HD(TNTSHD)(213)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1086" xmltv_id="Atres Series HD(A3SEHD)(214)">Atres Series HD(A3SEHD)(214)</channel>
+    <channel update="i" site="directv.com.cl" site_id="829" xmltv_id="Atres Series(A3SE)(214)">Atres Series(A3SE)(214)</channel>
+    <channel update="i" site="directv.com.cl" site_id="215" xmltv_id="Comedy Central(CMDY)(215)">Comedy Central(CMDY)(215)</channel>
+    <channel update="i" site="directv.com.cl" site_id="216" xmltv_id="TBS Very Funny(TBS)(216)">TBS Very Funny(TBS)(216)</channel>
+    <channel update="i" site="directv.com.cl" site_id="217" xmltv_id="FX(FX)(217)">FX(FX)(217)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4339" xmltv_id="Universal(UNI)(218)">Universal(UNI)(218)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1439" xmltv_id="Universal TV HD (Sur)(UNIHD)(218)">Universal TV HD (Sur)(UNIHD)(218)</channel>
+    <channel update="i" site="directv.com.cl" site_id="221" xmltv_id="SyFy(SYFY)(219)">SyFy(SYFY)(219)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1219" xmltv_id="SyFy HD(SYFYHD)(219)">SyFy HD(SYFYHD)(219)</channel>
+    <channel update="i" site="directv.com.cl" site_id="220" xmltv_id="TRUTV(TRU)(220)">TRUTV(TRU)(220)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1221" xmltv_id="Hola TV HD(HOLAHD)(221)">Hola TV HD(HOLAHD)(221)</channel>
+    <channel update="i" site="directv.com.cl" site_id="276" xmltv_id="Hola TV(HOLATV)(221)">Hola TV(HOLATV)(221)</channel>
+    <channel update="i" site="directv.com.cl" site_id="222" xmltv_id="E! Entertainment(E!)(222)">E! Entertainment(E!)(222)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1196" xmltv_id="E! Entertainment HD(E!HD)(222)">E! Entertainment HD(E!HD)(222)</channel>
+    <channel update="i" site="directv.com.cl" site_id="223" xmltv_id="Investigation Discovery(ID)(223)">Investigation Discovery(ID)(223)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1146" xmltv_id="Discovery ID HD(IDHD)(223)">Discovery ID HD(IDHD)(223)</channel>
+    <channel update="i" site="directv.com.cl" site_id="224" xmltv_id="Glitz(GLTZ)(224)">Glitz(GLTZ)(224)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1497" xmltv_id="Pasiones HD(PASHD)(225)">Pasiones HD(PASHD)(225)</channel>
+    <channel update="i" site="directv.com.cl" site_id="225" xmltv_id="Pasiones(PASN)(225)">Pasiones(PASN)(225)</channel>
+    <channel update="i" site="directv.com.cl" site_id="226" xmltv_id="Canal de las Estrellas(CEST)(226)">Canal de las Estrellas(CEST)(226)</channel>
+    <channel update="i" site="directv.com.cl" site_id="227" xmltv_id="TLNovelas(NVLA)(227)">TLNovelas(NVLA)(227)</channel>
+    <channel update="i" site="directv.com.cl" site_id="472" xmltv_id="Lifetime(LIFE)(228)">Lifetime(LIFE)(228)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1159" xmltv_id="Lifetime HD(LIFEHD)(228)">Lifetime HD(LIFEHD)(228)</channel>
+    <channel update="i" site="directv.com.cl" site_id="229" xmltv_id="Discovery Home &amp; Health(DH&amp;H)(229)">Discovery Home &amp; Health(DH&amp;H)(229)</channel>
+    <channel update="i" site="directv.com.cl" site_id="230" xmltv_id="MÁS CHIC(CHIC)(230)">MÁS CHIC(CHIC)(230)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4154" xmltv_id="Telemundo Internacional(TLMD)(231)">Telemundo Internacional(TLMD)(231)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1752" xmltv_id="El Gourmet HD(GOURHD)(232)">El Gourmet HD(GOURHD)(232)</channel>
+    <channel update="i" site="directv.com.cl" site_id="232" xmltv_id="El Gourmet(GOUR)(232)">El Gourmet(GOUR)(232)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1233" xmltv_id="Food Network HD(FOODHD)(233)">Food Network HD(FOODHD)(233)</channel>
+    <channel update="i" site="directv.com.cl" site_id="883" xmltv_id="Food Network(FOOD)(233)">Food Network(FOOD)(233)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1456" xmltv_id="IVC Internacional HD(IVCHD)(235)">IVC Internacional HD(IVCHD)(235)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4350" xmltv_id="IVC Internacional(IVC)(235)">IVC Internacional(IVC)(235)</channel>
+    <channel update="i" site="directv.com.cl" site_id="264" xmltv_id="MTV Latino(MTV)(264)">MTV Latino(MTV)(264)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1264" xmltv_id="MTV HD(MTVHD)(264)">MTV HD(MTVHD)(264)</channel>
+    <channel update="i" site="directv.com.cl" site_id="269" xmltv_id="Quiero Música en mi Idioma(QMMI)(269)">Quiero Música en mi Idioma(QMMI)(269)</channel>
+    <channel update="i" site="directv.com.cl" site_id="272" xmltv_id="HTV(HTV)(272)">HTV(HTV)(272)</channel>
+    <channel update="i" site="directv.com.cl" site_id="362" xmltv_id="OnDIRECTV (Sur)(ODTV)(300)">OnDIRECTV (Sur)(ODTV)(300)</channel>
+    <channel update="i" site="directv.com.cl" site_id="304" xmltv_id="Cartoon Network(TOON)(304)">Cartoon Network(TOON)(304)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1308" xmltv_id="Nickelodeon HD(NICKHD)(308)">Nickelodeon HD(NICKHD)(308)</channel>
+    <channel update="i" site="directv.com.cl" site_id="308" xmltv_id="Nickelodeon(NICK)(308)">Nickelodeon(NICK)(308)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1438" xmltv_id="Nick JR. HD(NIKHD)(309)">Nick JR. HD(NIKHD)(309)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4338" xmltv_id="NICK JR(NIKJR)(309)">NICK JR(NIKJR)(309)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1312" xmltv_id="Disney HD(DISNHD)(312)">Disney HD(DISNHD)(312)</channel>
+    <channel update="i" site="directv.com.cl" site_id="312" xmltv_id="Disney Channel (Sur)(DSNY)(312)">Disney Channel (Sur)(DSNY)(312)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1477" xmltv_id="Disney Jr. HD(DSNYJR)(315)">Disney Jr. HD(DSNYJR)(315)</channel>
+    <channel update="i" site="directv.com.cl" site_id="315" xmltv_id="Disney Junior Sur(DSJR)(315)">Disney Junior Sur(DSJR)(315)</channel>
+    <channel update="i" site="directv.com.cl" site_id="316" xmltv_id="Disney XD(DSXD)(316)">Disney XD(DSXD)(316)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1476" xmltv_id="Disney XD HD(DSNYXD)(316)">Disney XD HD(DSNYXD)(316)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4218" xmltv_id="NatGeo Kids(NGKD)(318)">NatGeo Kids(NGKD)(318)</channel>
+    <channel update="i" site="directv.com.cl" site_id="475" xmltv_id="ZooMoo(ZMOO)(321)">ZooMoo(ZMOO)(321)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4070" xmltv_id="Discovery Kids (Sur)(KIDS)(330)">Discovery Kids (Sur)(KIDS)(330)</channel>
+    <channel update="i" site="directv.com.cl" site_id="334" xmltv_id="Cartoonito(CNTO)(334)">Cartoonito(CNTO)(334)</channel>
+    <channel update="i" site="directv.com.cl" site_id="350" xmltv_id="Eternal Word TV Network(EWTN)(350)">Eternal Word TV Network(EWTN)(350)</channel>
+    <channel update="i" site="directv.com.cl" site_id="291" xmltv_id="Canal 21 (ARG)(ORBE21)(351)">Canal 21 (ARG)(ORBE21)(351)</channel>
+    <channel update="i" site="directv.com.cl" site_id="352" xmltv_id="Enlace(ENLC)(352)">Enlace(ENLC)(352)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4139" xmltv_id="Canal LUZ (ARG)(CLUZ)(354)">Canal LUZ (ARG)(CLUZ)(354)</channel>
+    <channel update="i" site="directv.com.cl" site_id="243" xmltv_id="DIRECTV Cinema(CINE)(400)">DIRECTV Cinema(CINE)(400)</channel>
+    <channel update="i" site="directv.com.cl" site_id="400" xmltv_id="DIRECTV Cinema(CINE)(400)">DIRECTV Cinema(CINE)(400)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1784" xmltv_id="DIRECTVGO - ONDEMAND(DTVGO)(400)">DIRECTVGO - ONDEMAND(DTVGO)(400)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4039" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(401)">¿Cómo comprar Pay-Per-View?(PPV)(401)</channel>
+    <channel update="i" site="directv.com.cl" site_id="402" xmltv_id="PPV(PPV)(402)">PPV(PPV)(402)</channel>
+    <channel update="i" site="directv.com.cl" site_id="404" xmltv_id="PPV(PPV)(404)">PPV(PPV)(404)</channel>
+    <channel update="i" site="directv.com.cl" site_id="406" xmltv_id="PPV(PPV)(406)">PPV(PPV)(406)</channel>
+    <channel update="i" site="directv.com.cl" site_id="408" xmltv_id="PPV(PPV)(408)">PPV(PPV)(408)</channel>
+    <channel update="i" site="directv.com.cl" site_id="410" xmltv_id="PPV(PPV)(410)">PPV(PPV)(410)</channel>
+    <channel update="i" site="directv.com.cl" site_id="412" xmltv_id="PPV(PPV)(412)">PPV(PPV)(412)</channel>
+    <channel update="i" site="directv.com.cl" site_id="414" xmltv_id="PPV(PPV)(414)">PPV(PPV)(414)</channel>
+    <channel update="i" site="directv.com.cl" site_id="416" xmltv_id="PPV(PPV)(416)">PPV(PPV)(416)</channel>
+    <channel update="i" site="directv.com.cl" site_id="418" xmltv_id="PPV(PPV)(418)">PPV(PPV)(418)</channel>
+    <channel update="i" site="directv.com.cl" site_id="460" xmltv_id="DIRECTV SMS Adulto(SMS)(460)">DIRECTV SMS Adulto(SMS)(460)</channel>
+    <channel update="i" site="directv.com.cl" site_id="464" xmltv_id="Playboy TV(PBTV)(464)">Playboy TV(PBTV)(464)</channel>
+    <channel update="i" site="directv.com.cl" site_id="468" xmltv_id="Venus(VNUS)(468)">Venus(VNUS)(468)</channel>
+    <channel update="i" site="directv.com.cl" site_id="469" xmltv_id="XTSY(XTSY)(469)">XTSY(XTSY)(469)</channel>
+    <channel update="i" site="directv.com.cl" site_id="470" xmltv_id="HustlerTV(HUST)(470)">HustlerTV(HUST)(470)</channel>
+    <channel update="i" site="directv.com.cl" site_id="366" xmltv_id="OnDIRECTV (Sur)(ODTV)(500)">OnDIRECTV (Sur)(ODTV)(500)</channel>
+    <channel update="i" site="directv.com.cl" site_id="502" xmltv_id="TNT Latin America(TNT)(502)">TNT Latin America(TNT)(502)</channel>
+    <channel update="i" site="directv.com.cl" site_id="503" xmltv_id="Golden TV(GLDN)(503)">Golden TV(GLDN)(503)</channel>
+    <channel update="i" site="directv.com.cl" site_id="504" xmltv_id="Turner Classic Movies(TCM)(504)">Turner Classic Movies(TCM)(504)</channel>
+    <channel update="i" site="directv.com.cl" site_id="505" xmltv_id="FX Movies(FXM)(505)">FX Movies(FXM)(505)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1505" xmltv_id="FX Movies HD(FXMHD)(505)">FX Movies HD(FXMHD)(505)</channel>
+    <channel update="i" site="directv.com.cl" site_id="507" xmltv_id="Cinecanal (COL)(CC)(507)">Cinecanal (COL)(CC)(507)</channel>
+    <channel update="i" site="directv.com.cl" site_id="508" xmltv_id="Studio Universal(STUN)(508)">Studio Universal(STUN)(508)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1508" xmltv_id="Studio Universal HD(STUNHD)(508)">Studio Universal HD(STUNHD)(508)</channel>
+    <channel update="i" site="directv.com.cl" site_id="509" xmltv_id="Cinemax(CMAX)(509)">Cinemax(CMAX)(509)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1509" xmltv_id="Cinemax HD(CMAXHD)(509)">Cinemax HD(CMAXHD)(509)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1087" xmltv_id="Paramount HD(PRMTHD)(510)">Paramount HD(PRMTHD)(510)</channel>
+    <channel update="i" site="directv.com.cl" site_id="824" xmltv_id="Paramount Network(PRMT)(510)">Paramount Network(PRMT)(510)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1743" xmltv_id="DHEHD(DHEHD)(513)">DHEHD(DHEHD)(513)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4459" xmltv_id="DHE(DHE)(513)">DHE(DHE)(513)</channel>
+    <channel update="i" site="directv.com.cl" site_id="514" xmltv_id="Cinelatino(CL)(514)">Cinelatino(CL)(514)</channel>
+    <channel update="i" site="directv.com.cl" site_id="516" xmltv_id="De Película HD (SD)(DPEL)(516)">De Película HD (SD)(DPEL)(516)</channel>
+    <channel update="i" site="directv.com.cl" site_id="517" xmltv_id="Golden Edge(EDGE)(517)">Golden Edge(EDGE)(517)</channel>
+    <channel update="i" site="directv.com.cl" site_id="518" xmltv_id="Space (Central)(SPAC)(518)">Space (Central)(SPAC)(518)</channel>
+    <channel update="i" site="directv.com.cl" site_id="520" xmltv_id="I-SAT(ISAT)(520)">I-SAT(ISAT)(520)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1339" xmltv_id="HBO NEXT HD(NEXTHD)(522)">HBO NEXT HD(NEXTHD)(522)</channel>
+    <channel update="i" site="directv.com.cl" site_id="270" xmltv_id="HBO NEXT(NEXT)(522)">HBO NEXT(NEXT)(522)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1481" xmltv_id="HBO HD (CHI)(HBOHD)(524)">HBO HD (CHI)(HBOHD)(524)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4362" xmltv_id="HBO - Chile(HBO)(524)">HBO - Chile(HBO)(524)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1197" xmltv_id="HBO2HD(HBO2HD)(525)">HBO2HD(HBO2HD)(525)</channel>
+    <channel update="i" site="directv.com.cl" site_id="525" xmltv_id="HBO2(HBO2)(525)">HBO2(HBO2)(525)</channel>
+    <channel update="i" site="directv.com.cl" site_id="526" xmltv_id="HBO Plus (Este)(HBOP)(526)">HBO Plus (Este)(HBOP)(526)</channel>
+    <channel update="i" site="directv.com.cl" site_id="528" xmltv_id="HBO Signature(HBOS)(528)">HBO Signature(HBOS)(528)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1528" xmltv_id="HBO Signature HD(HBOSHD)(528)">HBO Signature HD(HBOSHD)(528)</channel>
+    <channel update="i" site="directv.com.cl" site_id="534" xmltv_id="HBO Family (Este)(HBOF)(534)">HBO Family (Este)(HBOF)(534)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1534" xmltv_id="HBO Family HD(HBOFHD)(534)">HBO Family HD(HBOFHD)(534)</channel>
+    <channel update="i" site="directv.com.cl" site_id="540" xmltv_id="HBO Mundi(HBOMUN)(540)">HBO Mundi(HBOMUN)(540)</channel>
+    <channel update="i" site="directv.com.cl" site_id="971" xmltv_id="HBO Pop(HBOPOP)(541)">HBO Pop(HBOPOP)(541)</channel>
+    <channel update="i" site="directv.com.cl" site_id="542" xmltv_id="HBO Xtreme(HBOXTM)(542)">HBO Xtreme(HBOXTM)(542)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1542" xmltv_id="HBO Xtreme(HBOXTM)(542)">HBO Xtreme(HBOXTM)(542)</channel>
+    <channel update="i" site="directv.com.cl" site_id="271" xmltv_id="HBO Next(NEXT)(544)">HBO Next(NEXT)(544)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1340" xmltv_id="HBO NEXT HD(NEXTHD)(544)">HBO NEXT HD(NEXTHD)(544)</channel>
+    <channel update="i" site="directv.com.cl" site_id="351" xmltv_id="OnDIRECTV (Sur)(ODTV)(550)">OnDIRECTV (Sur)(ODTV)(550)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4310" xmltv_id="Cómo Contratar Premium(INFO)(551)">Cómo Contratar Premium(INFO)(551)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1341" xmltv_id="Cómo Contratar Premium HD(INFOHD)(551)">Cómo Contratar Premium HD(INFOHD)(551)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4207" xmltv_id="Universal+ Portal(UNPO)(570)">Universal+ Portal(UNPO)(570)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1858" xmltv_id="Universal Premiere Este HD(UPREHD)(571)">Universal Premiere Este HD(UPREHD)(571)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4559" xmltv_id="Universal Premiere Este(UPRE)(571)">Universal Premiere Este(UPRE)(571)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4560" xmltv_id="Universal Cinema(UNCI)(572)">Universal Cinema(UNCI)(572)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1860" xmltv_id="Universal Cinema HD(UNCIHD)(572)">Universal Cinema HD(UNCIHD)(572)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1862" xmltv_id="Universal Comedy HD(UNCYHD)(573)">Universal Comedy HD(UNCYHD)(573)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4561" xmltv_id="Universal Comedy(UNCY)(573)">Universal Comedy(UNCY)(573)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1864" xmltv_id="Universal Crime Este HD(UNCEHD)(574)">Universal Crime Este HD(UNCEHD)(574)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4562" xmltv_id="Universal Crime Este(UNCE)(574)">Universal Crime Este(UNCE)(574)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1851" xmltv_id="Universal Reality HD(UNREHD)(575)">Universal Reality HD(UNREHD)(575)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4556" xmltv_id="Universal Reality(UNRE)(575)">Universal Reality(UNRE)(575)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1853" xmltv_id="Universal Premiere Oeste HD(UPROHD)(576)">Universal Premiere Oeste HD(UPROHD)(576)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4557" xmltv_id="Universal Premiere Oeste(UPRO)(576)">Universal Premiere Oeste(UPRO)(576)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4558" xmltv_id="Universal Crime Oeste(UNCO)(577)">Universal Crime Oeste(UNCO)(577)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1855" xmltv_id="Universal Crime Oeste HD(UNCOHD)(577)">Universal Crime Oeste HD(UNCOHD)(577)</channel>
+    <channel update="i" site="directv.com.cl" site_id="599" xmltv_id="Bienvenido a DIRECTV!(DTV)(599)">Bienvenido a DIRECTV!(DTV)(599)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4061" xmltv_id="Portal DIRECTV Sports(DTVS)(600)">Portal DIRECTV Sports(DTVS)(600)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4399" xmltv_id="FOX Sports 1 SD (CHI)(FOXS)(604)">FOX Sports 1 SD (CHI)(FOXS)(604)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3082" xmltv_id="FOX Sports 2(FXS2)(608)">FOX Sports 2(FXS2)(608)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3081" xmltv_id="FOX Sports 3(FXS3)(609)">FOX Sports 3(FXS3)(609)</channel>
+    <channel update="i" site="directv.com.cl" site_id="325" xmltv_id="DIRECTV Sports (CHI)(DTSCL)(610)">DIRECTV Sports (CHI)(DTSCL)(610)</channel>
+    <channel update="i" site="directv.com.cl" site_id="612" xmltv_id="DIRECTV Sports 2(DTS2)(612)">DIRECTV Sports 2(DTS2)(612)</channel>
+    <channel update="i" site="directv.com.cl" site_id="179" xmltv_id="DIRECTV Sports +(DTS+)(613)">DIRECTV Sports +(DTS+)(613)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1877" xmltv_id="DIRECTV Sports Fight(DTSFHD)(620)">DIRECTV Sports Fight(DTSFHD)(620)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4576" xmltv_id="DIRECTV Sports Fight(DTSF)(620)">DIRECTV Sports Fight(DTSF)(620)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4126" xmltv_id="ESPN Chile SD(ESPN)(621)">ESPN Chile SD(ESPN)(621)</channel>
+    <channel update="i" site="directv.com.cl" site_id="431" xmltv_id="ESPN 2 Latin Chile  SD(ESP2)(622)">ESPN 2 Latin Chile  SD(ESP2)(622)</channel>
+    <channel update="i" site="directv.com.cl" site_id="626" xmltv_id="ESPN 3 Andina(ESPN3A)(623)">ESPN 3 Andina(ESPN3A)(623)</channel>
+    <channel update="i" site="directv.com.cl" site_id="608" xmltv_id="ESPN4 CHILE SD (ESP4)(624)">ESPN4 CHILE SD (ESP4)(624)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1080" xmltv_id="Golf Channel HD(GOLFHD)(628)">Golf Channel HD(GOLFHD)(628)</channel>
+    <channel update="i" site="directv.com.cl" site_id="628" xmltv_id="Golf Channel(GOLF)(628)">Golf Channel(GOLF)(628)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4015" xmltv_id="TYC International(TYCS)(629)">TYC International(TYCS)(629)</channel>
+    <channel update="i" site="directv.com.cl" site_id="631" xmltv_id="TNT Sports 2(TNTS2)(631)">TNT Sports 2(TNTS2)(631)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1814" xmltv_id="TNT Sports 3 HD(TNTS3H)(632)">TNT Sports 3 HD(TNTS3H)(632)</channel>
+    <channel update="i" site="directv.com.cl" site_id="632" xmltv_id="TNT Sports 3(TNTS3)(632)">TNT Sports 3(TNTS3)(632)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1134" xmltv_id=".(CDOPHD)(637)">.(CDOPHD)(637)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4018" xmltv_id=".(CDOP)(637)">.(CDOP)(637)</channel>
+    <channel update="i" site="directv.com.cl" site_id="675" xmltv_id="NBA Pass(NBA)(675)">NBA Pass(NBA)(675)</channel>
+    <channel update="i" site="directv.com.cl" site_id="676" xmltv_id="NBA Pass(NBA)(676)">NBA Pass(NBA)(676)</channel>
+    <channel update="i" site="directv.com.cl" site_id="357" xmltv_id="OnDIRECTV (Sur)(ODTV)(700)">OnDIRECTV (Sur)(ODTV)(700)</channel>
+    <channel update="i" site="directv.com.cl" site_id="704" xmltv_id="CNN en español(CNNE)(704)">CNN en español(CNNE)(704)</channel>
+    <channel update="i" site="directv.com.cl" site_id="706" xmltv_id="CNN International(CNNI)(706)">CNN International(CNNI)(706)</channel>
+    <channel update="i" site="directv.com.cl" site_id="707" xmltv_id="CNN Chile(CNNC)(707)">CNN Chile(CNNC)(707)</channel>
+    <channel update="i" site="directv.com.cl" site_id="708" xmltv_id="24 Horas(24HR)(708)">24 Horas(24HR)(708)</channel>
+    <channel update="i" site="directv.com.cl" site_id="710" xmltv_id="Bloomberg Television(BTV)(710)">Bloomberg Television(BTV)(710)</channel>
+    <channel update="i" site="directv.com.cl" site_id="716" xmltv_id="TN Todo Noticias(TNOT)(716)">TN Todo Noticias(TNOT)(716)</channel>
+    <channel update="i" site="directv.com.cl" site_id="720" xmltv_id="Canal 26 (ARG).(CA26)(720)">Canal 26 (ARG).(CA26)(720)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1720" xmltv_id="Canal 26 HD(CA26HD)(720)">Canal 26 HD(CA26HD)(720)</channel>
+    <channel update="i" site="directv.com.cl" site_id="725" xmltv_id="NTN 24 - Nuestra Tele noticias 24HS(NT24)(725)">NTN 24 - Nuestra Tele noticias 24HS(NT24)(725)</channel>
+    <channel update="i" site="directv.com.cl" site_id="726" xmltv_id="Canal Rural(CRUR)(726)">Canal Rural(CRUR)(726)</channel>
+    <channel update="i" site="directv.com.cl" site_id="727" xmltv_id="Cable Noticias de Colombia(CNOT)(727)">Cable Noticias de Colombia(CNOT)(727)</channel>
+    <channel update="i" site="directv.com.cl" site_id="730" xmltv_id="National Geographic(NGEO)(730)">National Geographic(NGEO)(730)</channel>
+    <channel update="i" site="directv.com.cl" site_id="732" xmltv_id="Discovery Channel(DISC)(732)">Discovery Channel(DISC)(732)</channel>
+    <channel update="i" site="directv.com.cl" site_id="734" xmltv_id="Animal Planet(ANML)(734)">Animal Planet(ANML)(734)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1734" xmltv_id="Animal Planet HD(ANMLHD)(734)">Animal Planet HD(ANMLHD)(734)</channel>
+    <channel update="i" site="directv.com.cl" site_id="735" xmltv_id="National Geographic Wild(NGW)(735)">National Geographic Wild(NGW)(735)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1735" xmltv_id="National Geographic Wild HD(NGWHD)(735)">National Geographic Wild HD(NGWHD)(735)</channel>
+    <channel update="i" site="directv.com.cl" site_id="389" xmltv_id="Discovery Turbo(TRBO)(736)">Discovery Turbo(TRBO)(736)</channel>
+    <channel update="i" site="directv.com.cl" site_id="740" xmltv_id="TLC - Travel &amp; Living Channel(TLC)(740)">TLC - Travel &amp; Living Channel(TLC)(740)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1740" xmltv_id="TLC HD(TLCHD)(740)">TLC HD(TLCHD)(740)</channel>
+    <channel update="i" site="directv.com.cl" site_id="741" xmltv_id="Sun Channel(SUNC)(741)">Sun Channel(SUNC)(741)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4032" xmltv_id="History (Sur)(THC)(742)">History (Sur)(THC)(742)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1744" xmltv_id="H2 HD(H2HD)(744)">H2 HD(H2HD)(744)</channel>
+    <channel update="i" site="directv.com.cl" site_id="471" xmltv_id="History 2(H2)(744)">History 2(H2)(744)</channel>
+    <channel update="i" site="directv.com.cl" site_id="746" xmltv_id="Film &amp; Arts(F&amp;A)(746)">Film &amp; Arts(F&amp;A)(746)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4534" xmltv_id="Univision(UNI)(760)">Univision(UNI)(760)</channel>
+    <channel update="i" site="directv.com.cl" site_id="762" xmltv_id="Antena 3 Internacional(ANT3)(762)">Antena 3 Internacional(ANT3)(762)</channel>
+    <channel update="i" site="directv.com.cl" site_id="766" xmltv_id="RAI International (RAI)(766)">RAI International (RAI)(766)</channel>
+    <channel update="i" site="directv.com.cl" site_id="768" xmltv_id="BBC World News(BBC)(768)">BBC World News(BBC)(768)</channel>
+    <channel update="i" site="directv.com.cl" site_id="770" xmltv_id="Deutsche Welle(DW)(770)">Deutsche Welle(DW)(770)</channel>
+    <channel update="i" site="directv.com.cl" site_id="772" xmltv_id="Caracol Internacional(CRCL)(772)">Caracol Internacional(CRCL)(772)</channel>
+    <channel update="i" site="directv.com.cl" site_id="729" xmltv_id="El Tiempo(TMPO)(773)">El Tiempo(TMPO)(773)</channel>
+    <channel update="i" site="directv.com.cl" site_id="775" xmltv_id="RCN Nuestra Tele(NTEL)(775)">RCN Nuestra Tele(NTEL)(775)</channel>
+    <channel update="i" site="directv.com.cl" site_id="776" xmltv_id="Globo Internacional(GLBO)(776)">Globo Internacional(GLBO)(776)</channel>
+    <channel update="i" site="directv.com.cl" site_id="778" xmltv_id="RTP Internacional(RTPI)(778)">RTP Internacional(RTPI)(778)</channel>
+    <channel update="i" site="directv.com.cl" site_id="814" xmltv_id="ZEE TV(ZEE)(780)">ZEE TV(ZEE)(780)</channel>
+    <channel update="i" site="directv.com.cl" site_id="782" xmltv_id="NHK World TV(NHK)(782)">NHK World TV(NHK)(782)</channel>
+    <channel update="i" site="directv.com.cl" site_id="784" xmltv_id="El Trece Internacional(C13I)(784)">El Trece Internacional(C13I)(784)</channel>
+    <channel update="i" site="directv.com.cl" site_id="786" xmltv_id="Telefe Internacional(TLFI)(786)">Telefe Internacional(TLFI)(786)</channel>
+    <channel update="i" site="directv.com.cl" site_id="788" xmltv_id="VTV (URU)(VTV)(788)">VTV (URU)(VTV)(788)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4506" xmltv_id="VTV PLUS(VTV PLUS)(789)">VTV PLUS(VTV PLUS)(789)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4388" xmltv_id="CGTN-Español(CGTN)(790)">CGTN-Español(CGTN)(790)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4389" xmltv_id="CCTV-4(CCTV)(791)">CCTV-4(CCTV)(791)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4473" xmltv_id="TV Perú(TV7)(795)">TV Perú(TV7)(795)</channel>
+    <channel update="i" site="directv.com.cl" site_id="900" xmltv_id="Music Mix(STNG)(900)">Music Mix(STNG)(900)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1345" xmltv_id="Music Mix HD(STNGHD)(900)">Music Mix HD(STNGHD)(900)</channel>
+    <channel update="i" site="directv.com.cl" site_id="901" xmltv_id="Stingray Éxitos Recientes(STNG)(901)">Stingray Éxitos Recientes(STNG)(901)</channel>
+    <channel update="i" site="directv.com.cl" site_id="902" xmltv_id="Stingray Pop Adulto(STNG)(902)">Stingray Pop Adulto(STNG)(902)</channel>
+    <channel update="i" site="directv.com.cl" site_id="904" xmltv_id="Stingray Urban Beats(STNG)(904)">Stingray Urban Beats(STNG)(904)</channel>
+    <channel update="i" site="directv.com.cl" site_id="906" xmltv_id="Stingray Euro Hits(STNG)(906)">Stingray Euro Hits(STNG)(906)</channel>
+    <channel update="i" site="directv.com.cl" site_id="908" xmltv_id="Stingray Rompepistas(STNG)(908)">Stingray Rompepistas(STNG)(908)</channel>
+    <channel update="i" site="directv.com.cl" site_id="910" xmltv_id="Stingray Bass Breaks and Beats(STNG)(910)">Stingray Bass Breaks and Beats(STNG)(910)</channel>
+    <channel update="i" site="directv.com.cl" site_id="912" xmltv_id="Stingray RocknRoll(STNG)(912)">Stingray RocknRoll(STNG)(912)</channel>
+    <channel update="i" site="directv.com.cl" site_id="914" xmltv_id="Stingray Hard Rock(STNG)(914)">Stingray Hard Rock(STNG)(914)</channel>
+    <channel update="i" site="directv.com.cl" site_id="916" xmltv_id="Stingray Rock Anthems(STNG)(916)">Stingray Rock Anthems(STNG)(916)</channel>
+    <channel update="i" site="directv.com.cl" site_id="918" xmltv_id="Stingray Clásicos Soul, Rhythm and Blues(STNG)(918)">Stingray Clásicos Soul, Rhythm and Blues(STNG)(918)</channel>
+    <channel update="i" site="directv.com.cl" site_id="922" xmltv_id="Stingray Años 70(STNG)(922)">Stingray Años 70(STNG)(922)</channel>
+    <channel update="i" site="directv.com.cl" site_id="924" xmltv_id="Stingray Años 80(STNG)(924)">Stingray Años 80(STNG)(924)</channel>
+    <channel update="i" site="directv.com.cl" site_id="926" xmltv_id="Stingray Años 90(STNG)(926)">Stingray Años 90(STNG)(926)</channel>
+    <channel update="i" site="directv.com.cl" site_id="928" xmltv_id="Stingray Pop Latino Actual(STNG)(928)">Stingray Pop Latino Actual(STNG)(928)</channel>
+    <channel update="i" site="directv.com.cl" site_id="930" xmltv_id="Stingray Éxitos de las Américas(STNG)(930)">Stingray Éxitos de las Américas(STNG)(930)</channel>
+    <channel update="i" site="directv.com.cl" site_id="932" xmltv_id="Stingray Rock en Español(STNG)(932)">Stingray Rock en Español(STNG)(932)</channel>
+    <channel update="i" site="directv.com.cl" site_id="934" xmltv_id="Stingray Latino Tropical(STNG)(934)">Stingray Latino Tropical(STNG)(934)</channel>
+    <channel update="i" site="directv.com.cl" site_id="936" xmltv_id="Stingray Salsa y Merengue(STNG)(936)">Stingray Salsa y Merengue(STNG)(936)</channel>
+    <channel update="i" site="directv.com.cl" site_id="938" xmltv_id="Stingray Especiales(STNG)(938)">Stingray Especiales(STNG)(938)</channel>
+    <channel update="i" site="directv.com.cl" site_id="940" xmltv_id="Stingray Jammin Reggae(STNG)(940)">Stingray Jammin Reggae(STNG)(940)</channel>
+    <channel update="i" site="directv.com.cl" site_id="942" xmltv_id="Stingray Drive(STNG)(942)">Stingray Drive(STNG)(942)</channel>
+    <channel update="i" site="directv.com.cl" site_id="944" xmltv_id="Stingray Silk (Canciones de Amor)(STNG)(944)">Stingray Silk (Canciones de Amor)(STNG)(944)</channel>
+    <channel update="i" site="directv.com.cl" site_id="946" xmltv_id="Stingray Música Ligera(STNG)(946)">Stingray Música Ligera(STNG)(946)</channel>
+    <channel update="i" site="directv.com.cl" site_id="948" xmltv_id="Stingray New Age(STNG)(948)">Stingray New Age(STNG)(948)</channel>
+    <channel update="i" site="directv.com.cl" site_id="950" xmltv_id="Stingray Big Band (STNG)(950)">Stingray Big Band (STNG)(950)</channel>
+    <channel update="i" site="directv.com.cl" site_id="952" xmltv_id="Galaxie Swinging Standards(STNG)(952)">Galaxie Swinging Standards(STNG)(952)</channel>
+    <channel update="i" site="directv.com.cl" site_id="954" xmltv_id="Stingray Jazz Now(STNG)(954)">Stingray Jazz Now(STNG)(954)</channel>
+    <channel update="i" site="directv.com.cl" site_id="956" xmltv_id="Stingray Maestros del Jazz(STNG)(956)">Stingray Maestros del Jazz(STNG)(956)</channel>
+    <channel update="i" site="directv.com.cl" site_id="958" xmltv_id="Stingray Classic Masters(STNG)(958)">Stingray Classic Masters(STNG)(958)</channel>
+    <channel update="i" site="directv.com.cl" site_id="960" xmltv_id="Stingray Ópera Plus(STNG)(960)">Stingray Ópera Plus(STNG)(960)</channel>
+    <channel update="i" site="directv.com.cl" site_id="980" xmltv_id="Unión Radio Noticias(CNUR)(980)">Unión Radio Noticias(CNUR)(980)</channel>
+    <channel update="i" site="directv.com.cl" site_id="982" xmltv_id="Radio Caracol(CARA)(982)">Radio Caracol(CARA)(982)</channel>
+    <channel update="i" site="directv.com.cl" site_id="984" xmltv_id="Radio France Internationale(RFI)(984)">Radio France Internationale(RFI)(984)</channel>
+    <channel update="i" site="directv.com.cl" site_id="360" xmltv_id="OnDIRECTV (Sur)(ODTV)(999)">OnDIRECTV (Sur)(ODTV)(999)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1782" xmltv_id="Next Generation(NGENHD)(1000)">Next Generation(NGENHD)(1000)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1785" xmltv_id="DIRECTV GO - ONDEMAND (DTVGO)(1000)">DIRECTV GO - ONDEMAND (DTVGO)(1000)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1786" xmltv_id="DIRECTVGO - ONDEMAND(DTVGO)(1000)">DIRECTVGO - ONDEMAND(DTVGO)(1000)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1787" xmltv_id="DIRECTV GO - ONDEMAND(DTVGO)(1005)">DIRECTV GO - ONDEMAND(DTVGO)(1005)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1788" xmltv_id="DIRECTV GO - ONDEMAND(DTVGO)(1007)">DIRECTV GO - ONDEMAND(DTVGO)(1007)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1833" xmltv_id="TV+HD (CHI)(TV+HD)(1147)">TV+HD (CHI)(TV+HD)(1147)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1599" xmltv_id="La Red HD (CHI)(REDHD)(1148)">La Red HD (CHI)(REDHD)(1148)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1671" xmltv_id="TVN HD (CHI)(TVNHD)(1149)">TVN HD (CHI)(TVNHD)(1149)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1600" xmltv_id="Mega HD (CHI)(MEGAHD)(1150)">Mega HD (CHI)(MEGAHD)(1150)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1581" xmltv_id="Chilevisión HD (CHI)(CHVHD)(1151)">Chilevisión HD (CHI)(CHVHD)(1151)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1579" xmltv_id="Canal 13 Chile HD(C13HD)(1152)">Canal 13 Chile HD(C13HD)(1152)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1572" xmltv_id="24 Horas HD (CHI)(24HRHD)(1153)">24 Horas HD (CHI)(24HRHD)(1153)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1583" xmltv_id="CNN Chile HD(CNNCHD)(1154)">CNN Chile HD(CNNCHD)(1154)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1288" xmltv_id="Canal 13 Cable HD (CHI)(C13CHD)(1156)">Canal 13 Cable HD (CHI)(C13CHD)(1156)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1107" xmltv_id="OnDIRECTV HD (Sur)(ODTVHD)(1201)">OnDIRECTV HD (Sur)(ODTVHD)(1201)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1188" xmltv_id="STAR Channel HD(STAR)(1204)">STAR Channel HD(STAR)(1204)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1206" xmltv_id="Warner Channel HD(WTVHD)(1206)">Warner Channel HD(WTVHD)(1206)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1377" xmltv_id="A&amp;E HD(A&amp;EHD)(1207)">A&amp;E HD(A&amp;EHD)(1207)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1041" xmltv_id="Sony Entertainment HD(SONYHD)(1208)">Sony Entertainment HD(SONYHD)(1208)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1774" xmltv_id="AXN HD(AXNHD)(1209)">AXN HD(AXNHD)(1209)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1573" xmltv_id="AMC HD(AMCHD)(1210)">AMC HD(AMCHD)(1210)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1212" xmltv_id="STAR Life HD(STARL)(1212)">STAR Life HD(STARL)(1212)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3213" xmltv_id="TNT Series HD(TNTSHD)(1213)">TNT Series HD(TNTSHD)(1213)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3214" xmltv_id="Atres Series HD(A3SEHD)(1214)">Atres Series HD(A3SEHD)(1214)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1215" xmltv_id="Comedy Central HD(CMDYHD)(1215)">Comedy Central HD(CMDYHD)(1215)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3084" xmltv_id="FX HD(FXHD)(1217)">FX HD(FXHD)(1217)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1536" xmltv_id="Universal TV HD (Sur)(UNIHD)(1218)">Universal TV HD (Sur)(UNIHD)(1218)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1381" xmltv_id="SyFy HD(SYFYHD)(1219)">SyFy HD(SYFYHD)(1219)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1090" xmltv_id="Hola TV HD(HOLAHD)(1221)">Hola TV HD(HOLAHD)(1221)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1523" xmltv_id="E! Entertainment HD(E!HD)(1222)">E! Entertainment HD(E!HD)(1222)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1586" xmltv_id="Discovery ID HD(IDHD)(1223)">Discovery ID HD(IDHD)(1223)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1665" xmltv_id="Pasiones HD(PASHD)(1225)">Pasiones HD(PASHD)(1225)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1182" xmltv_id="Lifetime HD(LIFEHD)(1228)">Lifetime HD(LIFEHD)(1228)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1229" xmltv_id="Discovery Home &amp; Health HD(DH&amp;HHD)(1229)">Discovery Home &amp; Health HD(DH&amp;HHD)(1229)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1751" xmltv_id="El Gourmet HD(GOURHD)(1232)">El Gourmet HD(GOURHD)(1232)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1590" xmltv_id="Food Network HD(FOODHD)(1233)">Food Network HD(FOODHD)(1233)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1493" xmltv_id="Home &amp; Garden TV HD(HGTVHD)(1234)">Home &amp; Garden TV HD(HGTVHD)(1234)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1479" xmltv_id="IVC Internacional HD(IVCHD)(1235)">IVC Internacional HD(IVCHD)(1235)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1499" xmltv_id="VePLUS HD(Ve+HD)(1236)">VePLUS HD(Ve+HD)(1236)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1383" xmltv_id="MTV HD(MTVHD)(1264)">MTV HD(MTVHD)(1264)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1422" xmltv_id="Music Top HD(MTOPHD)(1265)">Music Top HD(MTOPHD)(1265)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1535" xmltv_id="Tierra Mia HD(TMIAHD)(1266)">Tierra Mia HD(TMIAHD)(1266)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1304" xmltv_id="Cartoon Network HD(TOONHD)(1304)">Cartoon Network HD(TOONHD)(1304)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1656" xmltv_id="Nickelodeon HD(NICKHD)(1308)">Nickelodeon HD(NICKHD)(1308)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1649" xmltv_id="Nick JR. HD(NIKHD)(1309)">Nick JR. HD(NIKHD)(1309)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3312" xmltv_id="Disney HD(DISNHD)(1312)">Disney HD(DISNHD)(1312)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1587" xmltv_id="Disney Jr. HD(DSNYJR)(1315)">Disney Jr. HD(DSNYJR)(1315)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1588" xmltv_id="Disney XD HD(DSNYXD)(1316)">Disney XD HD(DSNYXD)(1316)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1317" xmltv_id="Baby TV HD(BABYTV)(1317)">Baby TV HD(BABYTV)(1317)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1145" xmltv_id="Discovery Kids HD(KIDSHD)(1330)">Discovery Kids HD(KIDSHD)(1330)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1402" xmltv_id="PPV HD(PPVHD)(1402)">PPV HD(PPVHD)(1402)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1404" xmltv_id="PPV HD(PPVHD)(1404)">PPV HD(PPVHD)(1404)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1406" xmltv_id="PPVHD(PPVHD)(1406)">PPVHD(PPVHD)(1406)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1471" xmltv_id="PPV HD(PPVHD)(1408)">PPV HD(PPVHD)(1408)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1472" xmltv_id="PPV HD(PPVHD)(1410)">PPV HD(PPVHD)(1410)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1502" xmltv_id="TNT HD(TNTHD)(1502)">TNT HD(TNTHD)(1502)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1126" xmltv_id="Golden HD(GLDNHD)(1503)">Golden HD(GLDNHD)(1503)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1594" xmltv_id="FX Movies HD(FXMHD)(1505)">FX Movies HD(FXMHD)(1505)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1507" xmltv_id="Cinecanal HD(CCHD)(1507)">Cinecanal HD(CCHD)(1507)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1666" xmltv_id="Studio Universal HD(STUNHD)(1508)">Studio Universal HD(STUNHD)(1508)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1378" xmltv_id="Cinemax HD(CMAXHD)(1509)">Cinemax HD(CMAXHD)(1509)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1510" xmltv_id="Paramount Network HD(PRMTHD)(1510)">Paramount Network HD(PRMTHD)(1510)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1741" xmltv_id="DHE HD(DHEHD)(1513)">DHE HD(DHEHD)(1513)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1515" xmltv_id="Europa Europa HD(EUROHD)(1515)">Europa Europa HD(EUROHD)(1515)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1518" xmltv_id="Space HD(SPCHD)(1518)">Space HD(SPCHD)(1518)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1519" xmltv_id="A3Cine HD(A3CHD)(1519)">A3Cine HD(A3CHD)(1519)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1521" xmltv_id="TV Cortos HD(TVCOHD)(1521)">TV Cortos HD(TVCOHD)(1521)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1596" xmltv_id="HBO HD (CHI)(HBOHD)(1524)">HBO HD (CHI)(HBOHD)(1524)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1597" xmltv_id="HBO2HD(HBO2HD)(1525)">HBO2HD(HBO2HD)(1525)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1103" xmltv_id="HBO Signature HD(HBOSHD)(1528)">HBO Signature HD(HBOSHD)(1528)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1143" xmltv_id="HBO Plus HD(HBOPHD)(1532)">HBO Plus HD(HBOPHD)(1532)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1190" xmltv_id="HBO Family HD(HBOFHD)(1534)">HBO Family HD(HBOFHD)(1534)</channel>
+    <channel update="i" site="directv.com.cl" site_id="3542" xmltv_id="HBO Xtreme(HBOXTM)(1542)">HBO Xtreme(HBOXTM)(1542)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1343" xmltv_id="Cómo Contratar Premium HD(INFOHD)(1551)">Cómo Contratar Premium HD(INFOHD)(1551)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1868" xmltv_id="Universal+ Portal HD(UNPOHD)(1570)">Universal+ Portal HD(UNPOHD)(1570)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1857" xmltv_id="Universal Premiere Este HD(UPREHD)(1571)">Universal Premiere Este HD(UPREHD)(1571)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1859" xmltv_id="Universal Cinema HD(UNCIHD)(1572)">Universal Cinema HD(UNCIHD)(1572)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1861" xmltv_id="Universal Comedy HD(UNCYHD)(1573)">Universal Comedy HD(UNCYHD)(1573)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1863" xmltv_id="Universal Crime Este HD(UNCEHD)(1574)">Universal Crime Este HD(UNCEHD)(1574)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1852" xmltv_id="Universal Reality HD(UNREHD)(1575)">Universal Reality HD(UNREHD)(1575)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1854" xmltv_id="Universal Premiere Oeste HD(UPROHD)(1576)">Universal Premiere Oeste HD(UPROHD)(1576)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1856" xmltv_id="Universal Crime Oeste HD(UNCOHD)(1577)">Universal Crime Oeste HD(UNCOHD)(1577)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1110" xmltv_id="FOX Sports 1 HD (CHI)(FOXSHD)(1604)">FOX Sports 1 HD (CHI)(FOXSHD)(1604)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1608" xmltv_id="FOX Sports 2 HD(FSP2HD)(1608)">FOX Sports 2 HD(FSP2HD)(1608)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1609" xmltv_id="FOX Sports 3 HD(FXS3HD)(1609)">FOX Sports 3 HD(FXS3HD)(1609)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1053" xmltv_id="DIRECTV Sports HD (CHI)(DTCLHD)(1610)">DIRECTV Sports HD (CHI)(DTCLHD)(1610)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1084" xmltv_id="DIRECTV Sports 2 HD(DTV2HD)(1612)">DIRECTV Sports 2 HD(DTV2HD)(1612)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1032" xmltv_id="DIRECTV Sports+ HD(DTS+HD)(1613)">DIRECTV Sports+ HD(DTS+HD)(1613)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1876" xmltv_id="DIRECTV Sports Fight(DTSFHD)(1620)">DIRECTV Sports Fight(DTSFHD)(1620)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1175" xmltv_id="ESPN Chile HD(ESPNHD)(1621)">ESPN Chile HD(ESPNHD)(1621)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1707" xmltv_id="ESPN 2 Latin Chile (ESP2HD)(1622)">ESPN 2 Latin Chile (ESP2HD)(1622)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1075" xmltv_id="ESPN 3 Andina HD(ESP3HD)(1623)">ESPN 3 Andina HD(ESP3HD)(1623)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1607" xmltv_id="ESPN 4 CHILE HD (ESP4HD)(1624)">ESPN 4 CHILE HD (ESP4HD)(1624)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1620" xmltv_id="ESPN Extra HD(ESPN+L)(1625)">ESPN Extra HD(ESPN+L)(1625)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1382" xmltv_id="Golf Channel HD(GOLFHD)(1628)">Golf Channel HD(GOLFHD)(1628)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1299" xmltv_id="TyC Sports Internacional HD(TyCIHD)(1629)">TyC Sports Internacional HD(TyCIHD)(1629)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1631" xmltv_id="TNT Sports HD(TNTSHD)(1631)">TNT Sports HD(TNTSHD)(1631)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1812" xmltv_id="TNT Sports 3 HD(TNTS3H)(1632)">TNT Sports 3 HD(TNTS3H)(1632)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1478" xmltv_id=".(CDOPHD)(1637)">.(CDOPHD)(1637)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1638" xmltv_id="Teletrak HD(Teltrk)(1638)">Teletrak HD(Teltrk)(1638)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1775" xmltv_id="PX Sports HD(PXSHD)(1639)">PX Sports HD(PXSHD)(1639)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1644" xmltv_id="El Garage TV HD(ELGAR)(1644)">El Garage TV HD(ELGAR)(1644)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1677" xmltv_id="NBA TV HD(NBATV)(1677)">NBA TV HD(NBATV)(1677)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1580" xmltv_id="Canal 26 HD(CA26HD)(1720)">Canal 26 HD(CA26HD)(1720)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1754" xmltv_id="TV Perú Noticias HD(TVNOT)(1724)">TV Perú Noticias HD(TVNOT)(1724)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1730" xmltv_id="National Geographic HD(NGEOHD)(1730)">National Geographic HD(NGEOHD)(1730)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1732" xmltv_id="Discovery Theater HD(DISTHD)(1731)">Discovery Theater HD(DISTHD)(1731)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1092" xmltv_id="Discovery Channel HD (DSCHD)(1732)">Discovery Channel HD (DSCHD)(1732)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1180" xmltv_id="Animal Planet HD(ANMLHD)(1734)">Animal Planet HD(ANMLHD)(1734)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1641" xmltv_id="National Geographic Wild HD(NGWHD)(1735)">National Geographic Wild HD(NGWHD)(1735)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1738" xmltv_id="Discovery World HD(DISWHD)(1738)">Discovery World HD(DISWHD)(1738)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1187" xmltv_id="TLC HD(TLCHD)(1740)">TLC HD(TLCHD)(1740)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1742" xmltv_id="History HD(HISTHD)(1742)">History HD(HISTHD)(1742)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1185" xmltv_id="H2 HD(H2HD)(1744)">H2 HD(H2HD)(1744)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1747" xmltv_id="Smithsonian Channel HD(SMTHHD)(1747)">Smithsonian Channel HD(SMTHHD)(1747)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1762" xmltv_id="Antena 3  HD(ANT3HD)(1762)">Antena 3  HD(ANT3HD)(1762)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1789" xmltv_id="Tv Ciudad(TvCIUD)(1789)">Tv Ciudad(TvCIUD)(1789)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1755" xmltv_id="TV Perú HD(TV7HD)(1795)">TV Perú HD(TV7HD)(1795)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1804" xmltv_id="Escuela + HD(ESC+HD)(1804)">Escuela + HD(ESC+HD)(1804)</channel>
+    <channel update="i" site="directv.com.cl" site_id="1337" xmltv_id="DIRECTV 4K: Ultra HD(DTV4K)(4000)">DIRECTV 4K: Ultra HD(DTV4K)(4000)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4038" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4002)">¿Cómo comprar Pay-Per-View?(PPV)(4002)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4040" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4004)">¿Cómo comprar Pay-Per-View?(PPV)(4004)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4041" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4006)">¿Cómo comprar Pay-Per-View?(PPV)(4006)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4042" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4008)">¿Cómo comprar Pay-Per-View?(PPV)(4008)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4043" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4010)">¿Cómo comprar Pay-Per-View?(PPV)(4010)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4044" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4012)">¿Cómo comprar Pay-Per-View?(PPV)(4012)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4045" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4014)">¿Cómo comprar Pay-Per-View?(PPV)(4014)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4046" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4016)">¿Cómo comprar Pay-Per-View?(PPV)(4016)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4047" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4018)">¿Cómo comprar Pay-Per-View?(PPV)(4018)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4136" xmltv_id="¿Cómo comprar Pay-Per-View?(PPV)(4102)">¿Cómo comprar Pay-Per-View?(PPV)(4102)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4205" xmltv_id="¿Cómo comprar  Pay-Per-View?(PPV)(4104)">¿Cómo comprar  Pay-Per-View?(PPV)(4104)</channel>
+    <channel update="i" site="directv.com.cl" site_id="4518" xmltv_id="Canal Informativo(INFO)(6900)">Canal Informativo(INFO)(6900)</channel>
+  </channels>
+</site>
