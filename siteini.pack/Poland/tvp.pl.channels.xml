@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.2 -- Jan van Straaten" site="tvp.pl">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.9 -- Jan van Straaten" site="tvp.pl">
   <channels>
     <channel update="i" site="tvp.pl" site_id="tvp-1" xmltv_id="TVP1">TVP1</channel>
     <channel update="i" site="tvp.pl" site_id="tvp-2" xmltv_id="TVP2">TVP2</channel>
@@ -30,8 +30,14 @@
     <channel update="i" site="tvp.pl" site_id="tvp-hd" xmltv_id="TVP HD">TVP HD</channel>
     <channel update="i" site="tvp.pl" site_id="tv-bielsat" xmltv_id="TV Bielsat">TV Bielsat</channel>
     <channel update="i" site="tvp.pl" site_id="tvp-wilno" xmltv_id="TVP Wilno">TVP Wilno</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp4k" xmltv_id="TVP 4K">TVP 4K</channel>
     <channel update="i" site="tvp.pl" site_id="tvp-dokument" xmltv_id="TVP Dokument">TVP Dokument</channel>
-    <channel update="i" site="tvp.pl" site_id="domowe-przedszkole" xmltv_id="Domowe przedszkole">Domowe przedszkole</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-kobieta" xmltv_id="TVP Kobieta">TVP Kobieta</channel>
+    <channel update="i" site="tvp.pl" site_id="abc2" xmltv_id="ABC 2">ABC 2</channel>
     <channel update="i" site="tvp.pl" site_id="ferie-z-tvp" xmltv_id="Ferie z TVP">Ferie z TVP</channel>
+    <channel update="i" site="tvp.pl" site_id="kultura2" xmltv_id="Kultura2">Kultura2</channel>
+    <channel update="i" site="tvp.pl" site_id="historia2" xmltv_id="Historia2">Historia2</channel>
+    <channel update="i" site="tvp.pl" site_id="tvp-world" xmltv_id="TVP World">TVP World</channel>
+    <channel update="i" site="tvp.pl" site_id="ua1" xmltv_id="UA1">UA1</channel>
   </channels>
 </site>
