@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.3 -- Jan van Straaten" site="tv.orange.fr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.1.9 -- Jan van Straaten" site="tv.orange.fr">
   <channels>
     <channel update="i" site="tv.orange.fr.E" site_id="192##tf1/20180417_164011/webTVSquare/logo_150x150.png" xmltv_id="TF1">TF1</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="4##france2/20180417_153001/webTVSquare/logo_150x150.png" xmltv_id="FRANCE 2">FRANCE 2</channel>
@@ -32,12 +32,13 @@
     <channel update="i" site="tv.orange.fr.E" site_id="145##parispremiere/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="115##rtl9/20180417_114157/webTVSquare/logo_150x150.png" xmltv_id="RTL9">RTL9</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="225##tvbreizh_umts/20200210_181602/webTVSquare/logo_150x150.png" xmltv_id="TV BREIZH">TV BREIZH</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="30##canal_decale_noTB/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+ DECALE">CANAL+ DECALE</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="35##canal_sport_noTB/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="1563##canalplus_series_noTB/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+ SERIES">CANAL+ SERIES</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="33##canal_cinema_noTB/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+ CINEMA">CANAL+ CINEMA</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="3347##canalplus_docs_noTB/20210909_103000/webTVSquare/logo_150x150.png" xmltv_id="CANAL+DOCS">CANAL+DOCS</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="3348##canalplus_kids_noTB/20210909_103000/webTVSquare/logo_150x150.png" xmltv_id="CANAL+kids">CANAL+kids</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="30##canal_decale/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+DECALE">CANAL+DECALE</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="35##canal_sport/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+SPORT">CANAL+SPORT</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="1563##canalplus_series/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+SERIES">CANAL+SERIES</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="33##canal_cinema/20210402_161559/webTVSquare/logo_150x150.png" xmltv_id="CANAL+CINEMA">CANAL+CINEMA</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="3349##canalplus_grand_ecran/20220127_174425/webTVSquare/logo_150x150.png" xmltv_id="CANAL+GRAND ECRAN">CANAL+GRAND ECRAN</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="3347##canalplus_docs/20210902_172912/webTVSquare/logo_150x150.png" xmltv_id="CANAL+DOCS">CANAL+DOCS</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="3348##canalplus_kids/20210902_172912/webTVSquare/logo_150x150.png" xmltv_id="CANAL+kids">CANAL+kids</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1290##beinsport1/20180417_151324/webTVSquare/logo_150x150.png" xmltv_id="BEIN SPORTS 1">BEIN SPORTS 1</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1304##beinsport2/20180417_151448/webTVSquare/logo_150x150.png" xmltv_id="BEIN SPORTS 2">BEIN SPORTS 2</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1335##beinsportsmax3/20180417_151549/webTVSquare/logo_150x150.png" xmltv_id="BEIN SPORTS 3">BEIN SPORTS 3</channel>
@@ -69,8 +70,6 @@
     <channel update="i" site="tv.orange.fr.E" site_id="2326##polarPlus/20171002_155125/webTVSquare/logo_150x150.png" xmltv_id="POLAR+">POLAR+</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2334##warnertv/20171113_102005/webTVSquare/logo_150x150.png" xmltv_id="WARNER TV">WARNER TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="49##serie_club/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="1408##non_stop_people/20181115_170016/webTVSquare/logo_150x150.png" xmltv_id="NON STOP PEOPLE">NON STOP PEOPLE</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="1832##novelas/20171002_155125/webTVSquare/logo_150x150.png" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2803##pitchountv/20180206_091500/webTVSquare/logo_150x150.png" xmltv_id="TV PITCHOUN">TV PITCHOUN</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="321##boomerang/20180417_143557/webTVSquare/logo_150x150.png" xmltv_id="BOOMERANG">BOOMERANG</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="928##boomerang_1/20171004_102149/webTVSquare/logo_150x150.png" xmltv_id="BOOMERANG +1">BOOMERANG +1</channel>
@@ -89,7 +88,8 @@
     <channel update="i" site="tv.orange.fr.E" site_id="197##teletoon/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="TELETOON+">TELETOON+</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="293##teletoonplus1/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="TELETOON +1">TELETOON +1</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1072##museum_channel/20210125_104742/webTVSquare/logo_150x150.png" xmltv_id="MUSEUM TV">MUSEUM TV</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="2094##ultra_nature/20190306_093606/webTVSquare/logo_150x150.png" xmltv_id="ULTRA NATURE">ULTRA NATURE</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="3360##maison_et_travaux_tv/20210930_141331/webTVSquare/logo_150x150.png" xmltv_id="MAISON ET TRAVAUX TV">MAISON ET TRAVAUX TV</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="3106##top_sante_tv/20210930_141331/webTVSquare/logo_150x150.png" xmltv_id="TOP SANTE TV">TOP SANTE TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="12##Animaux/20200727_164727/webTVSquare/logo_150x150.png" xmltv_id="ANIMAUX">ANIMAUX</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2037##CrimeDistrict/20160211_110558/webTVSquare/logo_150x150.png" xmltv_id="CRIME DISTRICT">CRIME DISTRICT</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="38##chasseetpeche/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="CHASSE PECHE">CHASSE PECHE</channel>
@@ -101,20 +101,18 @@
     <channel update="i" site="tv.orange.fr.E" site_id="508##Natgeo/20200226_115623/webTVSquare/logo_150x150.png" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="719##Natgeo_wild/20190513_093153/webTVSquare/logo_150x150.png" xmltv_id="NATIONAL GEOGRAPHIC WILD">NATIONAL GEOGRAPHIC WILD</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="147##planeteplus/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="PLANETE+">PLANETE+</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="662##planeteplus_ci/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="PLANETE+ CI">PLANETE+ CI</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="402##planeteplus_aventure_experience/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="PLANETE+ Aventure Expérience">PLANETE+ Aventure Expérience</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="563##ginx/20170110_142515/webTVSquare/logo_150x150.png" xmltv_id="GINX">GINX</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="662##planeteplus_ci/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="PLANETE+CRIME">PLANETE+CRIME</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="402##planeteplus_aventure_experience/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="PLANETE+AVENTURE">PLANETE+AVENTURE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2942##01tv/20200102_141654/webTVSquare/logo_150x150.png" xmltv_id="01TV, votre vie numérique">01TV, votre vie numérique</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="2353##es1/20180207_091101/webTVSquare/logo_150x150.png" xmltv_id="ES1">ES1</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="2353##es1/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="MGG TV">MGG TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2442##tmc_1/20181002_112809/webTVSquare/logo_150x150.png" xmltv_id="TMC +1">TMC +1</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="6##mangas/20170405_200000/webTVSquare/logo_150x150.png" xmltv_id="MANGAS">MANGAS</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2040##Toonami/20200804_093352/webTVSquare/logo_150x150.png" xmltv_id="TOONAMI">TOONAMI</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1585##j_one/20200804_093352/webTVSquare/logo_150x150.png" xmltv_id="J-ONE">J-ONE</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="2171##viceland/20200130_100121/webTVSquare/logo_150x150.png" xmltv_id="VICE TV">VICE TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2781##cliquetv/20181112_113733/webTVSquare/logo_150x150.png" xmltv_id="CLIQUE TV">CLIQUE TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90150##trace_urban/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="605##nrjhits/20200205_132914/webTVSquare/logo_150x150.png" xmltv_id="NRJ HITS">NRJ HITS</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="2006##mtv_hits/20200805_145325/webTVSquare/logo_150x150.png" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="2006##mtv_hits/20211112_145723/webTVSquare/logo_150x150.png" xmltv_id="MTV HITS">MTV HITS</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2321##melodyafr/20200206_144429/webTVSquare/logo_150x150.png" xmltv_id="MELODY D AFRIQUE">MELODY D AFRIQUE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1989##clubbingtv/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="CLUBBING TV">CLUBBING TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="453##m6_music/20200102_141654/webTVSquare/logo_150x150.png" xmltv_id="M6MUSIC">M6MUSIC</channel>
@@ -127,7 +125,7 @@
     <channel update="i" site="tv.orange.fr.E" site_id="125##mezzo/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="MEZZO">MEZZO</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="907##mezzolivehd/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="MEZZO LIVE HD">MEZZO LIVE HD</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1353##classica/20180419_150729/webTVSquare/logo_150x150.png" xmltv_id="STINGRAY CLASSICA">STINGRAY CLASSICA</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="64##equidia/20180522_093005/webTVSquare/logo_150x150.png" xmltv_id="EQUIDIA">EQUIDIA</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="64##equidia/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="EQUIDIA">EQUIDIA</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="2837##sportenfrance/20190513_093153/webTVSquare/logo_150x150.png" xmltv_id="SPORT EN FRANCE">SPORT EN FRANCE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1336##beinsportsmax4/20170109_093315/webTVSquare/logo_150x150.png" xmltv_id="BEIN SPORTS MAX 4">BEIN SPORTS MAX 4</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1337##beinsportsmax5/20170109_093315/webTVSquare/logo_150x150.png" xmltv_id="BEIN SPORTS MAX 5">BEIN SPORTS MAX 5</channel>
@@ -139,7 +137,7 @@
     <channel update="i" site="tv.orange.fr.E" site_id="15##AB_motors/20181115_095836/webTVSquare/logo_150x150.png" xmltv_id="AUTOMOTO, la chaine">AUTOMOTO, la chaine</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1166##golfchannel/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="GOLF CHANNEL">GOLF CHANNEL</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1061##luckyjack/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="LUCKY JACK">LUCKY JACK</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="1996##fashiontv/20161116_094656/webTVSquare/logo_150x150.png" xmltv_id="FASHION TV">FASHION TV</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="1996##fashiontv/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="FASHIONTV PARIS">FASHIONTV PARIS</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="531##luxe/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="LUXE TV">LUXE TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90216##men_s_up/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="MEN S UP TV">MEN S UP TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="57##demain/20170314_120000/webTVSquare/logo_150x150.png" xmltv_id="DEMAIN">DEMAIN</channel>
@@ -191,6 +189,7 @@
     <channel update="i" site="tv.orange.fr.E" site_id="639##france3poitou/20181002_123959/webTVSquare/logo_150x150.png" xmltv_id="FRANCE 3 POITOU CHARENTES ">FRANCE 3 POITOU CHARENTES </channel>
     <channel update="i" site="tv.orange.fr.E" site_id="643##france3provence/20190730_095136/webTVSquare/logo_150x150.png" xmltv_id="FRANCE 3 PROVENCE ALPES ">FRANCE 3 PROVENCE ALPES </channel>
     <channel update="i" site="tv.orange.fr.E" site_id="648##france3rhalpes/20181002_123926/webTVSquare/logo_150x150.png" xmltv_id="FRANCE 3 RHONE ALPES">FRANCE 3 RHONE ALPES</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90395##canal_10_guadeloupe/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="CANAL 10 Guadeloupe">CANAL 10 Guadeloupe</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90397##tn_tv/20180108_141727/webTVSquare/logo_150x150.png" xmltv_id="TAHITI NUI TELEVISION">TAHITI NUI TELEVISION</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90398##tele_antilles/20180206_091500/webTVSquare/logo_150x150.png" xmltv_id="TELE ANTILLES">TELE ANTILLES</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90399##mfm/20200324_111923/webTVSquare/logo_150x150.png" xmltv_id="MADRAS FM TV">MADRAS FM TV</channel>
@@ -212,7 +211,15 @@
     <channel update="i" site="tv.orange.fr.E" site_id="960##3sat/20200206_144429/webTVSquare/logo_150x150.png" xmltv_id="3SAT">3SAT</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="979##one/20200206_144429/webTVSquare/logo_150x150.png" xmltv_id="ONE">ONE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="208##tvei/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="TVE INTERNACIONAL">TVE INTERNACIONAL</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="90455##rtp3/20170629_134322/webTVSquare/logo_150x150.png" xmltv_id="RTP 3">RTP 3</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90434##antena_3/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="ANTENA 3">ANTENA 3</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90435##star_tve/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="STAR TVE">STAR TVE</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90436##a3_series/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="A3 SERIES">A3 SERIES</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90437##canal_24_horas/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="CANAL 24 HORAS">CANAL 24 HORAS</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90438##all_flamenco/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="ALL FLAMENCO">ALL FLAMENCO</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90439##tv3_catalunya/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="TV3 CATALUNYA">TV3 CATALUNYA</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90440##etb_sat/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="EITB BASQUE">EITB BASQUE</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90441##tv_de_galicia/20210910_084754/webTVSquare/logo_150x150.png" xmltv_id="TV DE GALICIA">TV DE GALICIA</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="90444##rtp3/20170629_134322/webTVSquare/logo_150x150.png" xmltv_id="RTP 3">RTP 3</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90447##tviinternacional/20160401_110530/webTVSquare/logo_150x150.png" xmltv_id="TVI INTERNACIONAL">TVI INTERNACIONAL</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90448##sicnoticias/20160401_110530/webTVSquare/logo_150x150.png" xmltv_id="SIC NOTICIAS">SIC NOTICIAS</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90449##sicinternacional/20160401_110530/webTVSquare/logo_150x150.png" xmltv_id="SIC INTERNACIONAL">SIC INTERNACIONAL</channel>
@@ -252,13 +259,11 @@
     <channel update="i" site="tv.orange.fr.E" site_id="90523##rotana_cinema/20191107_103814/webTVSquare/logo_150x150.png" xmltv_id="ROTANA CINEMA">ROTANA CINEMA</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90524##rotana_aflam/20200423_170748/webTVSquare/logo_150x150.png" xmltv_id="ROTANA COMEDY">ROTANA COMEDY</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90525##rotana_drama/20200130_100105/webTVSquare/logo_150x150.png" xmltv_id="ROTANA DRAMA">ROTANA DRAMA</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="90526##El_Djazairia_One/20191107_103814/webTVSquare/logo_150x150.png" xmltv_id="EL DJAZAIRIA ONE">EL DJAZAIRIA ONE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90527##el_bilad/20200130_100121/webTVSquare/logo_150x150.png" xmltv_id="EL BILAD TV">EL BILAD TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90528##panorama_drama/20191107_103814/webTVSquare/logo_150x150.png" xmltv_id="PANORAMA DRAMA">PANORAMA DRAMA</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90529##mbc_drama/20191107_103814/webTVSquare/logo_150x150.png" xmltv_id="MBC DRAMA">MBC DRAMA</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90530##mbc_masr/20191107_103814/webTVSquare/logo_150x150.png" xmltv_id="MBC MASR">MBC MASR</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90531##al_rawda/20200929_084606/webTVSquare/logo_150x150.png" xmltv_id="AL RAWDA">AL RAWDA</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="90532##attessia/20200804_093352/webTVSquare/logo_150x150.png" xmltv_id="ATTESSIA TV">ATTESSIA TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90548##ntdtv/20180821_115653/webTVSquare/logo_150x150.png" xmltv_id="NTD TV">NTD TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1133##voxafrica/20151026_092415/webTVSquare/logo_150x150.png" xmltv_id="VOXAFRICA">VOXAFRICA</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90590##rts/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="RTS">RTS</channel>
@@ -270,6 +275,7 @@
     <channel update="i" site="tv.orange.fr.E" site_id="90596##tele_congo/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="TELE CONGO">TELE CONGO</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90597##ortb/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="ORTB">ORTB</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90598##aplus/20210526_153310/webTVSquare/logo_150x150.png" xmltv_id="A+">A+</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="2913##nci/20220128_093134/webTVSquare/logo_150x150.png" xmltv_id="NCI">NCI</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90599##africable/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="AFRICABLE">AFRICABLE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90601##canal_2_int/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="CANAL 2 INT.">CANAL 2 INT.</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90602##tvt/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="TVT">TVT</channel>
@@ -277,9 +283,12 @@
     <channel update="i" site="tv.orange.fr.E" site_id="90604##tfm/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="TFM">TFM</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90605##trace_africa/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="TRACE AFRICA">TRACE AFRICA</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90606##trace_gospel/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="TRACE GOSPEL">TRACE GOSPEL</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="1832##novelas/20211001_090736/webTVSquare/logo_150x150.png" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="1461##nollywood_tv/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="NOLLYWOOD TV">NOLLYWOOD TV</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="2908##sunu_yeuf/20210930_141331/webTVSquare/logo_150x150.png" xmltv_id="SUNU YEUF">SUNU YEUF</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90610##sen_tv/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="SEN TV">SEN TV</channel>
-    <channel update="i" site="tv.orange.fr.E" site_id="1466##b_one/20210506_104734/webTVSquare/logo_150x150.png" xmltv_id="B-ONE">B-ONE</channel>
     <channel update="i" site="tv.orange.fr.E" site_id="90614##trace_afrikora/20210526_153310/webTVSquare/logo_150x150.png" xmltv_id="TRACE AFRIKORA">TRACE AFRIKORA</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="2527##TF1_4K/20211210_114522/webTVSquare/logo_150x150.png" xmltv_id="TF1 4K">TF1 4K</channel>
+    <channel update="i" site="tv.orange.fr.E" site_id="3301##m6_4k/20211210_114522/webTVSquare/logo_150x150.png" xmltv_id="M6 4K">M6 4K</channel>
   </channels>
 </site>
