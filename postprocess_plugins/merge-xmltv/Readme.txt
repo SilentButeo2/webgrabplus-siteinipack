@@ -26,5 +26,6 @@ merge-xmltv.exe --timezone KEEP --output [path to]merged.xml [path to]filename1.
 Merge Multiple Files in a Directory (Output File Will Be Excluded if Residing in Same Location):
 merge-xmltv.exe --timezone LOCAL --output [path to]merged.xml [directory path]
 
+Use merge-xmltv for linux.
 
 Have fun !!
