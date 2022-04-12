@@ -1,0 +1,21 @@
+to get providers with region set
+
+	<update>c1-Provider_Regions</update> 
+  
+	<channel update="i" site="radiotimes.com" site_id="dummy" xmltv_id="dummy">dummy</channel>
+running wg++ will create radiotimes.com.channels.Provider_Regions.xml
+
+then use one line from radiotimes.com.channels.Provider_Regions.xml and run c2 setting for example
+	<update>c2-Popular channels - BBC East</update> 
+        <channel update="i" site="radiotimes.com" site_id="default##hnq5" xmltv_id="Popular channels - BBC East">Popular channels - BBC East</channel>
+
+run wg++ and will create  radiotimes.com.channels.Popular channels - BBC East.xml  (use one line from this list with <update>f</update> to get epg)
+
+another example:
+
+set
+	<update>c2-Sky - Cumbria</update> 
+        <channel update="i" site="radiotimes.com" site_id="sky##hnjx" xmltv_id="Sky - Cumbria">Sky - Cumbria</channel>
+rung wg++ to create  radiotimes.com.channels.Sky - Cumbria.xml
+
+The lists produced with c2 will be your channel list to be used with <update>f</update> to get epg.
