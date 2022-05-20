@@ -19,7 +19,7 @@ urldate.format {datestring|dd/MM/yyyy|en-GB}
 index_showsplit.scrub {multi|<table width="820" cellpadding="0" cellspacing="0" border="0" align="center">|<td height="30" width="100" align="center" class="grille_time_cell_off" >||</table>}
 index_showsplit.modify {cleanup(removeduplicates span=2 keeplast)}
 index_start.scrub {single|<div class="grille_time_off|>|</div>|</div>}
-index_title.scrub {single|<div class="grille_item_title_holder">||</div>||</div>}
+index_title.scrub {single|<div class="grille_item_title_holder">||</div>|</div>}
 index_title.modify {cleanup(tags="<"">")} 
 index_urlchannellogo.modify {addstart|http://www.alaoula.ma/images/alaoula.png}
 
