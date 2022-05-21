@@ -3,7 +3,7 @@
 * WebGrab+Plus ini for grabbing EPG data from TvGuide websites
 * @Site: alaoula.ma
 * @MinSWversion: 3.1
-* @Revision 0 - [20/05/2022] Mat8861
+* @Revision 0 - [20/05/2022] Mat8861/Blackbear199
 *     
 * @Remarks:
 * @header_end
