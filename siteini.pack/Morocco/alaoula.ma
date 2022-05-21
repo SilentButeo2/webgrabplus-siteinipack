@@ -16,10 +16,15 @@ url_index.headers {customheader=Accept-Encoding=gzip,deflate}
 url_index.headers {accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9}
 urldate.format {datestring|dd/MM/yyyy|en-GB}
 *
-index_showsplit.scrub {multi|<table width="820" cellpadding="0" cellspacing="0" border="0" align="center">|<td height="30" width="100" align="center" class="grille_time_cell_off" >||</table>}
+index_showsplit.scrub {regex||<tr>\s*(<td height=[^>]*class="grille_time_cell_(?:on\|off)"\s*>.*?</td>)[^<]*</tr>||}
+scope.range {(splitindex)|end}
+index_temp_9.modify {calculate(format=F0 type=element)|'index_showsplit' "grille_time_cell_on" @}
+index_temp_9.modify {calculate(format=F0)|1 +} 
+index_showsplit.modify {remove(type=element)|0 'index_temp_9'}
+end_scope
 index_showsplit.modify {cleanup(removeduplicates span=2 keeplast)}
-index_start.scrub {single|<div class="grille_time_off|>|</div>|</div>}
-index_title.scrub {single|<div class="grille_item_title_holder">||</div>|</div>}
+index_start.scrub {regex||>(\d{2}:\d{2})</div>||}
+index_title.scrub {single|<div class="grille_item_title_holder">||</div>||</div>}
 index_title.modify {cleanup(tags="<"">")} 
 index_urlchannellogo.modify {addstart|http://www.alaoula.ma/images/alaoula.png}
 
