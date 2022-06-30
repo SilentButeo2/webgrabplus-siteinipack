@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="tvguide.vg.no">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.6 -- Jan van Straaten" site="tvguide.vg.no">
   <channels>
     <channel update="i" site="vg.no" site_id="nrk1" xmltv_id="NRK1">NRK1</channel>
     <channel update="i" site="vg.no" site_id="vgtv" xmltv_id="VGTV">VGTV</channel>
@@ -9,7 +9,7 @@
     <channel update="i" site="vg.no" site_id="tvnorge" xmltv_id="TVNorge">TVNorge</channel>
     <channel update="i" site="vg.no" site_id="tv3" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="vg.no" site_id="eurosport-norge" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
-    <channel update="i" site="vg.no" site_id="viasat-4" xmltv_id="Viasat 4">Viasat 4</channel>
+    <channel update="i" site="vg.no" site_id="viasat-4" xmltv_id="V4">V4</channel>
     <channel update="i" site="vg.no" site_id="matkanalen" xmltv_id="Matkanalen">Matkanalen</channel>
     <channel update="i" site="vg.no" site_id="tv2-zebra" xmltv_id="TV2 Zebra">TV2 Zebra</channel>
     <channel update="i" site="vg.no" site_id="tv2-nyhetskanalen" xmltv_id="TV2 Nyhetskanalen">TV2 Nyhetskanalen</channel>
@@ -32,7 +32,6 @@
     <channel update="i" site="vg.no" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="vg.no" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="vg.no" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="vg.no" site_id="fox-hd" xmltv_id="FOX HD">FOX HD</channel>
     <channel update="i" site="vg.no" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="vg.no" site_id="history-channel" xmltv_id="History Channel">History Channel</channel>
     <channel update="i" site="vg.no" site_id="nrk-super" xmltv_id="NRK Super">NRK Super</channel>
@@ -81,8 +80,8 @@
     <channel update="i" site="vg.no" site_id="zee-tv" xmltv_id="Zee TV">Zee TV</channel>
     <channel update="i" site="vg.no" site_id="rai-1" xmltv_id="Rai 1">Rai 1</channel>
     <channel update="i" site="vg.no" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="vg.no" site_id="vh1" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="vg.no" site_id="vh1-classic-europe" xmltv_id="VH1 Classic Europe">VH1 Classic Europe</channel>
+    <channel update="i" site="vg.no" site_id="vh1" xmltv_id="MTV 00s Europe">MTV 00s Europe</channel>
+    <channel update="i" site="vg.no" site_id="vh1-classic-europe" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="vg.no" site_id="rtl" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="vg.no" site_id="h2-hd" xmltv_id="H2 HD">H2 HD</channel>
     <channel update="i" site="vg.no" site_id="tv6" xmltv_id="TV6">TV6</channel>
@@ -122,7 +121,7 @@
     <channel update="i" site="vg.no" site_id="viasat-golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
     <channel update="i" site="vg.no" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="vg.no" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="vg.no" site_id="bloomberg-tv-hd" xmltv_id="Bloomberg TV HD">Bloomberg TV HD</channel>
+    <channel update="i" site="vg.no" site_id="bloomberg-tv-hd" xmltv_id="Bloomberg TV HD (UK)">Bloomberg TV HD (UK)</channel>
     <channel update="i" site="vg.no" site_id="france-24-english-hd" xmltv_id="France 24 English HD">France 24 English HD</channel>
     <channel update="i" site="vg.no" site_id="norway-live" xmltv_id="Norway Live">Norway Live</channel>
     <channel update="i" site="vg.no" site_id="motorvision-tv" xmltv_id="Motorvision TV">Motorvision TV</channel>
@@ -143,5 +142,13 @@
     <channel update="i" site="vg.no" site_id="eurosport-pluss-9" xmltv_id="Eurosport Pluss 9">Eurosport Pluss 9</channel>
     <channel update="i" site="vg.no" site_id="eurosport-pluss-10" xmltv_id="Eurosport Pluss 10">Eurosport Pluss 10</channel>
     <channel update="i" site="vg.no" site_id="strive-sport-tv" xmltv_id="Strive Sport TV">Strive Sport TV</channel>
+    <channel update="i" site="vg.no" site_id="stingray-classica" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel update="i" site="vg.no" site_id="kanal-10" xmltv_id="Kanal 10">Kanal 10</channel>
+    <channel update="i" site="vg.no" site_id="curiositystream" xmltv_id="CuriosityStream">CuriosityStream</channel>
+    <channel update="i" site="vg.no" site_id="curiosity-stream-eu" xmltv_id="Curiosity Stream EU">Curiosity Stream EU</channel>
+    <channel update="i" site="vg.no" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="vg.no" site_id="crime-investigation-network" xmltv_id="Crime &amp; Investigation Network">Crime &amp; Investigation Network</channel>
+    <channel update="i" site="vg.no" site_id="paramount-movies" xmltv_id="Paramount+ Movies">Paramount+ Movies</channel>
+    <channel update="i" site="vg.no" site_id="paramount-series" xmltv_id="Paramount+ Series">Paramount+ Series</channel>
   </channels>
 </site>
