@@ -1,248 +1,322 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.7 -- Jan van Straaten" site="skyperfect.co.jp">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.6 -- Jan van Straaten" site="skyperfect.co.jp">
   <channels>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS193" xmltv_id="ＷＯＷＯＷシネマ">ＷＯＷＯＷシネマ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS200" xmltv_id="スターチャンネル１">スターチャンネル１</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS201" xmltv_id="スターチャンネル２">スターチャンネル２</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS202" xmltv_id="スターチャンネル３">スターチャンネル３</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS252" xmltv_id="ＷＯＷＯＷプラス 映画・ドラマ・スポーツ・音楽">ＷＯＷＯＷプラス 映画・ドラマ・スポーツ・音楽</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS255" xmltv_id="日本映画専門チャンネル">日本映画専門チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS218" xmltv_id="東映チャンネル">東映チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS219" xmltv_id="衛星劇場">衛星劇場</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS223" xmltv_id="映画・チャンネルNECO">映画・チャンネルNECO</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS227" xmltv_id="ザ・シネマ">ザ・シネマ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS240" xmltv_id="ムービープラス">ムービープラス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS242" xmltv_id="J SPORTS 1">J SPORTS 1</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS243" xmltv_id="J SPORTS 2">J SPORTS 2</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS244" xmltv_id="J SPORTS 3">J SPORTS 3</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS245" xmltv_id="J SPORTS 4">J SPORTS 4</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS250" xmltv_id="スカイA">スカイA</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS254" xmltv_id="GAORA SPORTS">GAORA SPORTS</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS257" xmltv_id="日テレジータス">日テレジータス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS262" xmltv_id="ゴルフネットワーク">ゴルフネットワーク</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS800" xmltv_id="スポーツライブ＋">スポーツライブ＋</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS191" xmltv_id="ＷＯＷＯＷプライム">ＷＯＷＯＷプライム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS192" xmltv_id="ＷＯＷＯＷライブ">ＷＯＷＯＷライブ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS241" xmltv_id="ＢＳスカパー！">ＢＳスカパー！</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS256" xmltv_id="ディズニー･チャンネル">ディズニー･チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS296" xmltv_id="ＴＢＳチャンネル１ 最新ドラマ・音楽・映画">ＴＢＳチャンネル１ 最新ドラマ・音楽・映画</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS297" xmltv_id="ＴＢＳチャンネル２ 名作ドラマ・スポーツ・アニメ">ＴＢＳチャンネル２ 名作ドラマ・スポーツ・アニメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS298" xmltv_id="テレ朝チャンネル１">テレ朝チャンネル１</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS299" xmltv_id="テレ朝チャンネル２">テレ朝チャンネル２</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS300" xmltv_id="日テレプラス　ドラマ・アニメ・音楽ライブ">日テレプラス　ドラマ・アニメ・音楽ライブ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS301" xmltv_id="エンタメ～テレ☆シネドラバラエティ">エンタメ～テレ☆シネドラバラエティ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS305" xmltv_id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた">チャンネル銀河　歴史ドラマ・サスペンス・日本のうた</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS307" xmltv_id="フジテレビＯＮＥ　スポーツ・バラエティ">フジテレビＯＮＥ　スポーツ・バラエティ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS308" xmltv_id="フジテレビＴＷＯ　ドラマ・アニメ">フジテレビＴＷＯ　ドラマ・アニメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS309" xmltv_id="フジテレビＮＥＸＴ ライブ・プレミアム">フジテレビＮＥＸＴ ライブ・プレミアム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS801" xmltv_id="スカチャン1">スカチャン1</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS321" xmltv_id="100％ヒッツ！スペースシャワーTV プラス">100％ヒッツ！スペースシャワーTV プラス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS322" xmltv_id="音楽・ライブ！　スペースシャワーＴＶ">音楽・ライブ！　スペースシャワーＴＶ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS323" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS324" xmltv_id="ミュージック・エア">ミュージック・エア</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS325" xmltv_id="MUSIC ON! TV（エムオン!）">MUSIC ON! TV（エムオン!）</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS329" xmltv_id="歌謡ポップスチャンネル">歌謡ポップスチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS310" xmltv_id="スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ">スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS311" xmltv_id="ＡＸＮ 海外ドラマ">ＡＸＮ 海外ドラマ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS312" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS314" xmltv_id="女性チャンネル♪LaLa TV">女性チャンネル♪LaLa TV</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS316" xmltv_id="AXNミステリー">AXNミステリー</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS317" xmltv_id="KBS World　韓流専門チャンネル">KBS World　韓流専門チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS318" xmltv_id="Ｍｎｅｔ">Ｍｎｅｔ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS290" xmltv_id="TAKARAZUKA SKY STAGE">TAKARAZUKA SKY STAGE</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS292" xmltv_id="時代劇専門チャンネル">時代劇専門チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS293" xmltv_id="ファミリー劇場">ファミリー劇場</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS294" xmltv_id="ホームドラマチャンネル　韓流・時代劇・国内ドラマ">ホームドラマチャンネル　韓流・時代劇・国内ドラマ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS295" xmltv_id="MONDO TV">MONDO TV</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS236" xmltv_id="アニマックス">アニマックス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS330" xmltv_id="キッズステーション テレビアニメ･劇場版･ＯＶＡ">キッズステーション テレビアニメ･劇場版･ＯＶＡ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS331" xmltv_id="カートゥーン ネットワーク 海外アニメ国内アニメ">カートゥーン ネットワーク 海外アニメ国内アニメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS333" xmltv_id="アニメシアターX(AT-X)">アニメシアターX(AT-X)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS340" xmltv_id="ディスカバリーチャンネル">ディスカバリーチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS341" xmltv_id="アニマルプラネット">アニマルプラネット</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS342" xmltv_id="ヒストリーチャンネル 日本・世界の歴史＆エンタメ">ヒストリーチャンネル 日本・世界の歴史＆エンタメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS343" xmltv_id="ナショナル ジオグラフィック">ナショナル ジオグラフィック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS349" xmltv_id="日テレNEWS24">日テレNEWS24</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS351" xmltv_id="TBS NEWS">TBS NEWS</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS353" xmltv_id="ＢＢＣワールドニュース">ＢＢＣワールドニュース</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS354" xmltv_id="CNNj">CNNj</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS251" xmltv_id="ＢＳ釣りビジョン">ＢＳ釣りビジョン</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS339" xmltv_id="ディズニージュニア">ディズニージュニア</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS363" xmltv_id="囲碁・将棋チャンネル">囲碁・将棋チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:BS234" xmltv_id="グリーンチャンネル">グリーンチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS055" xmltv_id="ショップチャンネル">ショップチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS161" xmltv_id="ＱＶＣ（キューヴィーシー）">ＱＶＣ（キューヴィーシー）</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:4KBS191" xmltv_id="ＷＯＷＯＷ  ４Ｋ">ＷＯＷＯＷ  ４Ｋ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS821" xmltv_id="J SPORTS 1 (4K)">J SPORTS 1 (4K)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS822" xmltv_id="J SPORTS 2 (4K)">J SPORTS 2 (4K)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS823" xmltv_id="J SPORTS 3 (4K)">J SPORTS 3 (4K)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS824" xmltv_id="J SPORTS 4 (4K)">J SPORTS 4 (4K)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS880" xmltv_id="日本映画＋時代劇 4K">日本映画＋時代劇 4K</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS881" xmltv_id="スターチャンネル 4K">スターチャンネル 4K</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS882" xmltv_id="スカチャン1 4K">スカチャン1 4K</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="basic/channel:CS883" xmltv_id="スカチャン2 4K">スカチャン2 4K</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:635" xmltv_id="Ｖ☆パラダイス">Ｖ☆パラダイス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:636" xmltv_id="エキサイティング・グランプリ">エキサイティング・グランプリ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:584" xmltv_id="スポーツライブ＋ ２">スポーツライブ＋ ２</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:600" xmltv_id="FIGHTING TV サムライ">FIGHTING TV サムライ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:609" xmltv_id="刺激ストロングチャンネル">刺激ストロングチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:665" xmltv_id="ダンスチャンネル by エンタメ～テレ">ダンスチャンネル by エンタメ～テレ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:585" xmltv_id="スカチャン5">スカチャン5</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:586" xmltv_id="スカチャン6">スカチャン6</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:587" xmltv_id="スカチャン7">スカチャン7</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:588" xmltv_id="スカチャン8">スカチャン8</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:589" xmltv_id="スカチャン9">スカチャン9</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:590" xmltv_id="スカチャン10">スカチャン10</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:591" xmltv_id="スカチャン11">スカチャン11</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:592" xmltv_id="スカチャン12">スカチャン12</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:593" xmltv_id="スカチャン13">スカチャン13</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:614" xmltv_id="フジテレビＯＮＥ  スポーツ・バラエティ">フジテレビＯＮＥ  スポーツ・バラエティ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:615" xmltv_id="フジテレビＴＷＯ  ドラマ・アニメ">フジテレビＴＷＯ  ドラマ・アニメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:639" xmltv_id="ミュージック・ジャパンTV">ミュージック・ジャパンTV</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:645" xmltv_id="ミュージック・グラフィティＴＶ">ミュージック・グラフィティＴＶ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:400" xmltv_id="スターデジオ（100ch音楽ラジオ）">スターデジオ（100ch音楽ラジオ）</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:401" xmltv_id="J-POP最新ヒット">J-POP最新ヒット</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:402" xmltv_id="DAM 鉄板!J-POP">DAM 鉄板!J-POP</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:403" xmltv_id="J-POPおすすめ曲(新譜、カップリング等)">J-POPおすすめ曲(新譜、カップリング等)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:404" xmltv_id="J-POP最新ヒットシャッフル(2時間)">J-POP最新ヒットシャッフル(2時間)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:405" xmltv_id="J-POP新譜アルバム">J-POP新譜アルバム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:406" xmltv_id="J-POP最新ヒットシャッフル(4時間)">J-POP最新ヒットシャッフル(4時間)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:407" xmltv_id="NEW J-ROCK">NEW J-ROCK</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:408" xmltv_id="J-POPピックアップアーティスト">J-POPピックアップアーティスト</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:409" xmltv_id="2010年代J-POPヒッツ">2010年代J-POPヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:410" xmltv_id="J-POP最新ヒット(8時間)">J-POP最新ヒット(8時間)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:411" xmltv_id="J-POP年別ヒット曲(19××-20××)">J-POP年別ヒット曲(19××-20××)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:412" xmltv_id="1990年代J-POPヒッツ">1990年代J-POPヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:413" xmltv_id="1980年代J-POPヒッツ">1980年代J-POPヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:414" xmltv_id="1970年代歌謡ヒッツ">1970年代歌謡ヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:415" xmltv_id="2000年代J-POPヒッツ">2000年代J-POPヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:416" xmltv_id="α波オルゴール(J-POP)">α波オルゴール(J-POP)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:417" xmltv_id="J-POP3～12ヵ月前ヒット">J-POP3～12ヵ月前ヒット</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:418" xmltv_id="青春のアイドル(70&amp;80年代)">青春のアイドル(70&amp;80年代)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:419" xmltv_id="声優、アニメ最新ヒット">声優、アニメ最新ヒット</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:420" xmltv_id="ポピュラーインスト・シーズンセレクション">ポピュラーインスト・シーズンセレクション</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:421" xmltv_id="フォーク、ニューミュージック">フォーク、ニューミュージック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:422" xmltv_id="グループサウンズ">グループサウンズ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:423" xmltv_id="歌謡演歌最新ヒット">歌謡演歌最新ヒット</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:424" xmltv_id="DAM 鉄板!演歌">DAM 鉄板!演歌</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:425" xmltv_id="歌謡演歌歌手特集">歌謡演歌歌手特集</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:426" xmltv_id="週刊!歌謡演歌歌手特集">週刊!歌謡演歌歌手特集</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:427" xmltv_id="演歌名曲選">演歌名曲選</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:428" xmltv_id="歌謡演歌ヒットシャッフル">歌謡演歌ヒットシャッフル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:429" xmltv_id="昭和流行歌(昭和初期～1969年頃)">昭和流行歌(昭和初期～1969年頃)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:430" xmltv_id="ジャズ新譜アルバム">ジャズ新譜アルバム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:431" xmltv_id="ジャズアーティスト特集">ジャズアーティスト特集</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:432" xmltv_id="ジャズ名盤アルバム">ジャズ名盤アルバム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:433" xmltv_id="コンテンポラリージャズ">コンテンポラリージャズ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:434" xmltv_id="スムースジャズ">スムースジャズ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:435" xmltv_id="DAM 鉄板!洋楽">DAM 鉄板!洋楽</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:436" xmltv_id="ジャズボーカル">ジャズボーカル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:437" xmltv_id="サロンジャズ">サロンジャズ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:438" xmltv_id="やすらぎクラシック">やすらぎクラシック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:439" xmltv_id="さわやかクラシック">さわやかクラシック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:440" xmltv_id="2010年代洋楽ヒッツ">2010年代洋楽ヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:441" xmltv_id="リラックスサウンド">リラックスサウンド</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:442" xmltv_id="サロンクラシック">サロンクラシック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:443" xmltv_id="室内楽曲、器楽曲">室内楽曲、器楽曲</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:444" xmltv_id="バロック">バロック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:445" xmltv_id="モダンジャズ">モダンジャズ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:446" xmltv_id="洋楽最新ヒット">洋楽最新ヒット</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:447" xmltv_id="洋楽最新おすすめ曲">洋楽最新おすすめ曲</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:448" xmltv_id="洋楽新譜アルバム">洋楽新譜アルバム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:449" xmltv_id="カヴァーソング">カヴァーソング</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:450" xmltv_id="洋楽アーティスト特集">洋楽アーティスト特集</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:451" xmltv_id="ヒットカントリー">ヒットカントリー</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:452" xmltv_id="リバプールサウンド(ビートルズ等)">リバプールサウンド(ビートルズ等)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:453" xmltv_id="洋楽年別ヒット曲(19××-20××)">洋楽年別ヒット曲(19××-20××)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:454" xmltv_id="1990年代洋楽ヒッツ">1990年代洋楽ヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:455" xmltv_id="1980年代洋楽ヒッツ">1980年代洋楽ヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:456" xmltv_id="1970年代洋楽ヒッツ">1970年代洋楽ヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:457" xmltv_id="オールディーズ、50&amp;60年代洋楽">オールディーズ、50&amp;60年代洋楽</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:458" xmltv_id="2000年代洋楽ヒッツ">2000年代洋楽ヒッツ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:459" xmltv_id="ハードロック、メタル">ハードロック、メタル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:460" xmltv_id="アダルトコンテンポラリー">アダルトコンテンポラリー</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:461" xmltv_id="ライトフュージョン">ライトフュージョン</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:462" xmltv_id="インテリアジャズ">インテリアジャズ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:463" xmltv_id="洋楽バラード">洋楽バラード</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:464" xmltv_id="J-POPバラード">J-POPバラード</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:465" xmltv_id="R&amp;B、ソウル">R&amp;B、ソウル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:466" xmltv_id="ヒップホップ">ヒップホップ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:467" xmltv_id="ディスコサウンド、ファンク">ディスコサウンド、ファンク</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:468" xmltv_id="EDM">EDM</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:469" xmltv_id="ハウス">ハウス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:470" xmltv_id="テクノ">テクノ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:471" xmltv_id="クラシックソウル">クラシックソウル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:472" xmltv_id="ユーロビート">ユーロビート</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:473" xmltv_id="ハワイアンミュージック">ハワイアンミュージック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:474" xmltv_id="ボサノヴァ">ボサノヴァ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:475" xmltv_id="J-POPヒット曲歌なし(アップテンポ)">J-POPヒット曲歌なし(アップテンポ)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:476" xmltv_id="レゲエ">レゲエ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:477" xmltv_id="沖縄民謡">沖縄民謡</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:478" xmltv_id="J-POPヒット曲歌なし(スローテンポ)">J-POPヒット曲歌なし(スローテンポ)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:479" xmltv_id="洋楽ナツメロ">洋楽ナツメロ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:480" xmltv_id="スクリーンミュージック">スクリーンミュージック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:481" xmltv_id="ヒーリング・二胡">ヒーリング・二胡</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:482" xmltv_id="ジャズピアノトリオ">ジャズピアノトリオ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:483" xmltv_id="カフェミュージック">カフェミュージック</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:484" xmltv_id="クラシックピアノ">クラシックピアノ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:485" xmltv_id="イージーリスニング">イージーリスニング</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:486" xmltv_id="季節を演出するBGM(アップテンポ)">季節を演出するBGM(アップテンポ)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:487" xmltv_id="季節を演出するBGM(スローテンポ)">季節を演出するBGM(スローテンポ)</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:488" xmltv_id="オルゴール">オルゴール</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:489" xmltv_id="キッズおんがく、アニメ">キッズおんがく、アニメ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:490" xmltv_id="Spa Music">Spa Music</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:491" xmltv_id="フィリピンポップス">フィリピンポップス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:492" xmltv_id="中国ポップス">中国ポップス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:493" xmltv_id="台湾ポップス">台湾ポップス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:494" xmltv_id="K-POP">K-POP</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:495" xmltv_id="韓国歌謡演歌">韓国歌謡演歌</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:496" xmltv_id="日本の民謡">日本の民謡</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:497" xmltv_id="琴曲、日本の調べ">琴曲、日本の調べ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:498" xmltv_id="琴アレンジJ-POP">琴アレンジJ-POP</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:499" xmltv_id="J-POPシーズンセレクション">J-POPシーズンセレクション</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:655" xmltv_id="アジアドラマチックTV（アジドラ）">アジアドラマチックTV（アジドラ）</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:657" xmltv_id="ＫＮＴＶ">ＫＮＴＶ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:535" xmltv_id="大人のイキヌキ！ヌーヴェルパラダイス">大人のイキヌキ！ヌーヴェルパラダイス</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:663" xmltv_id="アイドル専門チャンネルＰｉｇｏｏ">アイドル専門チャンネルＰｉｇｏｏ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:560" xmltv_id="ＳＯＲＡ―お天気チャンネル―">ＳＯＲＡ―お天気チャンネル―</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:567" xmltv_id="CNN U.S.">CNN U.S.</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:568" xmltv_id="中国テレビ★ＣＣＴＶ大富">中国テレビ★ＣＣＴＶ大富</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:570" xmltv_id="日経CNBC">日経CNBC</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:529" xmltv_id="ベターライフチャンネル">ベターライフチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:536" xmltv_id="パチンコ★パチスロＴＶ！">パチンコ★パチスロＴＶ！</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:537" xmltv_id="パチ・スロ　サイトセブンＴＶ">パチ・スロ　サイトセブンＴＶ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:540" xmltv_id="釣りビジョンＨＤ">釣りビジョンＨＤ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:542" xmltv_id="寄席チャンネル">寄席チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:544" xmltv_id="旅チャンネル">旅チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:546" xmltv_id="鉄道チャンネル">鉄道チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:678" xmltv_id="南関東地方競馬チャンネル">南関東地方競馬チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:680" xmltv_id="ＪＬＣ６８０">ＪＬＣ６８０</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:681" xmltv_id="ＪＬＣ６８１">ＪＬＣ６８１</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:682" xmltv_id="ＪＬＣ６８２">ＪＬＣ６８２</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:683" xmltv_id="ＪＬＣ６８３">ＪＬＣ６８３</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:684" xmltv_id="ＪＬＣ６８４">ＪＬＣ６８４</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:689" xmltv_id="グリーンチャンネル２">グリーンチャンネル２</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:690" xmltv_id="ＳＰＥＥＤチャンネル（競輪ライブ）">ＳＰＥＥＤチャンネル（競輪ライブ）</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:695" xmltv_id="スピードプラスワン６９５">スピードプラスワン６９５</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:701" xmltv_id="地方競馬ナイン">地方競馬ナイン</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:518" xmltv_id="フェニックステレビ（鳳凰衛視）">フェニックステレビ（鳳凰衛視）</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:527" xmltv_id="ジュエリー☆ＧＳＴＶ">ジュエリー☆ＧＳＴＶ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:528" xmltv_id="セレクトショッピング">セレクトショッピング</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:942" xmltv_id="ｋｍｐチャンネル">ｋｍｐチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:943" xmltv_id="プレイボーイ チャンネル">プレイボーイ チャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:944" xmltv_id="レインボーチャンネル">レインボーチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:945" xmltv_id="ミッドナイト・ブルー">ミッドナイト・ブルー</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:946" xmltv_id="パラダイステレビ">パラダイステレビ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:947" xmltv_id="チェリーボム">チェリーボム</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:957" xmltv_id="ＶＥＮＵＳ">ＶＥＮＵＳ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:958" xmltv_id="バニラスカイチャンネル">バニラスカイチャンネル</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:959" xmltv_id="エンタ！９５９">エンタ！９５９</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:960" xmltv_id="Zaptv">Zaptv</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:963" xmltv_id="ダイナマイトTV">ダイナマイトTV</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:964" xmltv_id="AV王">AV王</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:965" xmltv_id="レッドチェリー">レッドチェリー</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:966" xmltv_id="Splash">Splash</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:967" xmltv_id="フラミンゴ">フラミンゴ</channel>
-    <channel update="i" site="skyperfect.co.jp" site_id="premium/channel:599" xmltv_id="スカパー！プロモ599">スカパー！プロモ599</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS193" xmltv_id="ＷＯＷＯＷシネマ">ＷＯＷＯＷシネマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS200" xmltv_id="スターチャンネル１">スターチャンネル１</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS201" xmltv_id="スターチャンネル２">スターチャンネル２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS202" xmltv_id="スターチャンネル３">スターチャンネル３</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS252" xmltv_id="ＷＯＷＯＷプラス 映画・ドラマ・スポーツ・音楽">ＷＯＷＯＷプラス 映画・ドラマ・スポーツ・音楽</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS255" xmltv_id="日本映画専門チャンネル">日本映画専門チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS218" xmltv_id="東映チャンネル">東映チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS219" xmltv_id="衛星劇場">衛星劇場</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS223" xmltv_id="映画・チャンネルNECO">映画・チャンネルNECO</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS227" xmltv_id="ザ・シネマ">ザ・シネマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS240" xmltv_id="ムービープラス">ムービープラス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS242" xmltv_id="J SPORTS 1">J SPORTS 1</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS243" xmltv_id="J SPORTS 2">J SPORTS 2</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS244" xmltv_id="J SPORTS 3">J SPORTS 3</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS245" xmltv_id="J SPORTS 4">J SPORTS 4</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS250" xmltv_id="スカイA">スカイA</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS254" xmltv_id="GAORA SPORTS">GAORA SPORTS</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS257" xmltv_id="日テレジータス">日テレジータス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS262" xmltv_id="ゴルフネットワーク">ゴルフネットワーク</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS800" xmltv_id="スポーツライブ＋">スポーツライブ＋</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS191" xmltv_id="ＷＯＷＯＷプライム">ＷＯＷＯＷプライム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS192" xmltv_id="ＷＯＷＯＷライブ">ＷＯＷＯＷライブ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS241" xmltv_id="ＢＳスカパー！">ＢＳスカパー！</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS256" xmltv_id="ディズニー･チャンネル">ディズニー･チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS296" xmltv_id="ＴＢＳチャンネル１ 最新ドラマ・音楽・映画">ＴＢＳチャンネル１ 最新ドラマ・音楽・映画</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS297" xmltv_id="ＴＢＳチャンネル２ 名作ドラマ・スポーツ・アニメ">ＴＢＳチャンネル２ 名作ドラマ・スポーツ・アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS298" xmltv_id="テレ朝チャンネル１">テレ朝チャンネル１</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS299" xmltv_id="テレ朝チャンネル２">テレ朝チャンネル２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS300" xmltv_id="日テレプラス　ドラマ・アニメ・音楽ライブ">日テレプラス　ドラマ・アニメ・音楽ライブ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS301" xmltv_id="エンタメ～テレ☆シネドラバラエティ">エンタメ～テレ☆シネドラバラエティ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS305" xmltv_id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた">チャンネル銀河　歴史ドラマ・サスペンス・日本のうた</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS307" xmltv_id="フジテレビＯＮＥ　スポーツ・バラエティ">フジテレビＯＮＥ　スポーツ・バラエティ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS308" xmltv_id="フジテレビＴＷＯ　ドラマ・アニメ">フジテレビＴＷＯ　ドラマ・アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS309" xmltv_id="フジテレビＮＥＸＴ ライブ・プレミアム">フジテレビＮＥＸＴ ライブ・プレミアム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS801" xmltv_id="スカチャン1">スカチャン1</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS321" xmltv_id="100％ヒッツ！スペースシャワーTV プラス">100％ヒッツ！スペースシャワーTV プラス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS322" xmltv_id="音楽・ライブ！　スペースシャワーＴＶ">音楽・ライブ！　スペースシャワーＴＶ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS323" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS324" xmltv_id="ミュージック・エア">ミュージック・エア</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS325" xmltv_id="MUSIC ON! TV（エムオン!）">MUSIC ON! TV（エムオン!）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS329" xmltv_id="歌謡ポップスチャンネル">歌謡ポップスチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS310" xmltv_id="スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ">スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS311" xmltv_id="ＡＸＮ 海外ドラマ">ＡＸＮ 海外ドラマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS312" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS314" xmltv_id="女性チャンネル♪LaLa TV">女性チャンネル♪LaLa TV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS316" xmltv_id="AXNミステリー">AXNミステリー</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS317" xmltv_id="KBS World　韓流専門チャンネル">KBS World　韓流専門チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS318" xmltv_id="Ｍｎｅｔ">Ｍｎｅｔ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS290" xmltv_id="TAKARAZUKA SKY STAGE">TAKARAZUKA SKY STAGE</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS292" xmltv_id="時代劇専門チャンネル">時代劇専門チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS293" xmltv_id="ファミリー劇場">ファミリー劇場</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS294" xmltv_id="ホームドラマチャンネル　韓流・時代劇・国内ドラマ">ホームドラマチャンネル　韓流・時代劇・国内ドラマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS295" xmltv_id="MONDO TV">MONDO TV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS236" xmltv_id="アニマックス">アニマックス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS330" xmltv_id="キッズステーション テレビアニメ･劇場版･ＯＶＡ">キッズステーション テレビアニメ･劇場版･ＯＶＡ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS331" xmltv_id="カートゥーン ネットワーク 海外アニメ国内アニメ">カートゥーン ネットワーク 海外アニメ国内アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS333" xmltv_id="アニメシアターX(AT-X)">アニメシアターX(AT-X)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS340" xmltv_id="ディスカバリーチャンネル">ディスカバリーチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS341" xmltv_id="アニマルプラネット">アニマルプラネット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS342" xmltv_id="ヒストリーチャンネル 日本・世界の歴史＆エンタメ">ヒストリーチャンネル 日本・世界の歴史＆エンタメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS343" xmltv_id="ナショナル ジオグラフィック">ナショナル ジオグラフィック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS349" xmltv_id="日テレNEWS24">日テレNEWS24</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS351" xmltv_id="TBS NEWS">TBS NEWS</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS353" xmltv_id="ＢＢＣワールドニュース">ＢＢＣワールドニュース</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS354" xmltv_id="CNNj">CNNj</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS251" xmltv_id="ＢＳ釣りビジョン">ＢＳ釣りビジョン</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS339" xmltv_id="ディズニージュニア">ディズニージュニア</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS363" xmltv_id="囲碁・将棋チャンネル">囲碁・将棋チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="BS234" xmltv_id="グリーンチャンネル">グリーンチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS055" xmltv_id="ショップチャンネル">ショップチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS161" xmltv_id="ＱＶＣ（キューヴィーシー）">ＱＶＣ（キューヴィーシー）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="4KBS191" xmltv_id="ＷＯＷＯＷ  ４Ｋ">ＷＯＷＯＷ  ４Ｋ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS821" xmltv_id="J SPORTS 1 (4K)">J SPORTS 1 (4K)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS822" xmltv_id="J SPORTS 2 (4K)">J SPORTS 2 (4K)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS823" xmltv_id="J SPORTS 3 (4K)">J SPORTS 3 (4K)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS824" xmltv_id="J SPORTS 4 (4K)">J SPORTS 4 (4K)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS880" xmltv_id="日本映画＋時代劇 4K">日本映画＋時代劇 4K</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS881" xmltv_id="スターチャンネル 4K">スターチャンネル 4K</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS882" xmltv_id="スカチャン1 4K">スカチャン1 4K</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="CS883" xmltv_id="スカチャン2 4K">スカチャン2 4K</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="623" xmltv_id="ＷＯＷＯＷシネマ">ＷＯＷＯＷシネマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="625" xmltv_id="スターチャンネル１">スターチャンネル１</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="626" xmltv_id="スターチャンネル２">スターチャンネル２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="627" xmltv_id="スターチャンネル３">スターチャンネル３</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="628" xmltv_id="衛星劇場">衛星劇場</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="629" xmltv_id="東映チャンネル">東映チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="630" xmltv_id="ＷＯＷＯＷプラス 映画・ドラマ・スポーツ・音楽">ＷＯＷＯＷプラス 映画・ドラマ・スポーツ・音楽</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="631" xmltv_id="ザ・シネマ">ザ・シネマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="632" xmltv_id="ムービープラス">ムービープラス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="633" xmltv_id="映画・チャンネルNECO">映画・チャンネルNECO</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="634" xmltv_id="日本映画専門チャンネル">日本映画専門チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="635" xmltv_id="Ｖ☆パラダイス">Ｖ☆パラダイス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="636" xmltv_id="エキサイティング・グランプリ">エキサイティング・グランプリ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="580" xmltv_id="スポーツライブ＋">スポーツライブ＋</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="584" xmltv_id="スポーツライブ＋ ２">スポーツライブ＋ ２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="600" xmltv_id="FIGHTING TV サムライ">FIGHTING TV サムライ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="601" xmltv_id="ゴルフネットワーク">ゴルフネットワーク</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="602" xmltv_id="GAORA SPORTS">GAORA SPORTS</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="603" xmltv_id="J SPORTS 1">J SPORTS 1</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="604" xmltv_id="J SPORTS 2">J SPORTS 2</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="605" xmltv_id="J SPORTS 4">J SPORTS 4</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="606" xmltv_id="J SPORTS 3">J SPORTS 3</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="607" xmltv_id="スカイA">スカイA</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="608" xmltv_id="日テレジータス">日テレジータス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="609" xmltv_id="刺激ストロングチャンネル">刺激ストロングチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="665" xmltv_id="ダンスチャンネル by エンタメ～テレ">ダンスチャンネル by エンタメ～テレ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="579" xmltv_id="ＢＳスカパー！">ＢＳスカパー！</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="581" xmltv_id="スカチャン1">スカチャン1</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="585" xmltv_id="スカチャン5">スカチャン5</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="586" xmltv_id="スカチャン6">スカチャン6</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="587" xmltv_id="スカチャン7">スカチャン7</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="588" xmltv_id="スカチャン8">スカチャン8</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="589" xmltv_id="スカチャン9">スカチャン9</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="590" xmltv_id="スカチャン10">スカチャン10</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="591" xmltv_id="スカチャン11">スカチャン11</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="592" xmltv_id="スカチャン12">スカチャン12</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="593" xmltv_id="スカチャン13">スカチャン13</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="611" xmltv_id="テレ朝チャンネル１">テレ朝チャンネル１</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="612" xmltv_id="テレ朝チャンネル２">テレ朝チャンネル２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="613" xmltv_id="フジテレビＮＥＸＴ ライブ・プレミアム">フジテレビＮＥＸＴ ライブ・プレミアム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="614" xmltv_id="フジテレビＯＮＥ  スポーツ・バラエティ">フジテレビＯＮＥ  スポーツ・バラエティ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="615" xmltv_id="フジテレビＴＷＯ  ドラマ・アニメ">フジテレビＴＷＯ  ドラマ・アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="616" xmltv_id="ＴＢＳチャンネル１ 最新ドラマ・音楽・映画">ＴＢＳチャンネル１ 最新ドラマ・音楽・映画</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="617" xmltv_id="ＴＢＳチャンネル２ 名作ドラマ・スポーツ・アニメ">ＴＢＳチャンネル２ 名作ドラマ・スポーツ・アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="618" xmltv_id="エンタメ～テレ☆シネドラバラエティ">エンタメ～テレ☆シネドラバラエティ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="619" xmltv_id="日テレプラス　ドラマ・アニメ・音楽ライブ">日テレプラス　ドラマ・アニメ・音楽ライブ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="620" xmltv_id="ディズニー･チャンネル">ディズニー･チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="621" xmltv_id="ＷＯＷＯＷプライム">ＷＯＷＯＷプライム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="622" xmltv_id="ＷＯＷＯＷライブ">ＷＯＷＯＷライブ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="664" xmltv_id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた">チャンネル銀河　歴史ドラマ・サスペンス・日本のうた</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="638" xmltv_id="ミュージック・エア">ミュージック・エア</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="639" xmltv_id="ミュージック・ジャパンTV">ミュージック・ジャパンTV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="640" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="641" xmltv_id="MUSIC ON! TV（エムオン!）">MUSIC ON! TV（エムオン!）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="642" xmltv_id="音楽・ライブ！　スペースシャワーＴＶ">音楽・ライブ！　スペースシャワーＴＶ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="643" xmltv_id="100％ヒッツ！スペースシャワーTV プラス">100％ヒッツ！スペースシャワーTV プラス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="644" xmltv_id="歌謡ポップスチャンネル">歌謡ポップスチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="645" xmltv_id="ミュージック・グラフィティＴＶ">ミュージック・グラフィティＴＶ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="400" xmltv_id="DAM 鉄板!新曲&amp;プッシュアーティスト">DAM 鉄板!新曲&amp;プッシュアーティスト</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="401" xmltv_id="J-POP最新ヒット">J-POP最新ヒット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="402" xmltv_id="DAM 鉄板!J-POP">DAM 鉄板!J-POP</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="403" xmltv_id="J-POPおすすめ曲(新譜、カップリング等)">J-POPおすすめ曲(新譜、カップリング等)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="404" xmltv_id="J-POP最新ヒットシャッフル(2時間)">J-POP最新ヒットシャッフル(2時間)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="405" xmltv_id="J-POP新譜アルバム">J-POP新譜アルバム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="406" xmltv_id="J-POP最新ヒットシャッフル(4時間)">J-POP最新ヒットシャッフル(4時間)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="407" xmltv_id="NEW J-ROCK">NEW J-ROCK</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="408" xmltv_id="J-POPピックアップアーティスト">J-POPピックアップアーティスト</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="409" xmltv_id="2010年代J-POPヒッツ">2010年代J-POPヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="410" xmltv_id="J-POP最新ヒット(8時間)">J-POP最新ヒット(8時間)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="411" xmltv_id="J-POP年別ヒット曲(19××-20××)">J-POP年別ヒット曲(19××-20××)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="412" xmltv_id="1990年代J-POPヒッツ">1990年代J-POPヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="413" xmltv_id="1980年代J-POPヒッツ">1980年代J-POPヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="414" xmltv_id="1970年代歌謡ヒッツ">1970年代歌謡ヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="415" xmltv_id="2000年代J-POPヒッツ">2000年代J-POPヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="416" xmltv_id="オルゴール(J-POP)">オルゴール(J-POP)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="417" xmltv_id="J-POP3～12ヵ月前ヒット">J-POP3～12ヵ月前ヒット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="418" xmltv_id="青春のアイドル(70&amp;80年代)">青春のアイドル(70&amp;80年代)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="419" xmltv_id="声優、アニメ最新ヒット">声優、アニメ最新ヒット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="420" xmltv_id="ポピュラーインスト・シーズンセレクション">ポピュラーインスト・シーズンセレクション</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="421" xmltv_id="フォーク、ニューミュージック">フォーク、ニューミュージック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="422" xmltv_id="グループサウンズ">グループサウンズ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="423" xmltv_id="歌謡演歌最新ヒット">歌謡演歌最新ヒット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="424" xmltv_id="DAM 鉄板!演歌">DAM 鉄板!演歌</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="425" xmltv_id="歌謡演歌歌手特集">歌謡演歌歌手特集</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="426" xmltv_id="週刊!歌謡演歌歌手特集">週刊!歌謡演歌歌手特集</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="427" xmltv_id="演歌名曲選">演歌名曲選</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="428" xmltv_id="歌謡演歌ヒットシャッフル">歌謡演歌ヒットシャッフル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="429" xmltv_id="昭和流行歌(昭和初期～1969年頃)">昭和流行歌(昭和初期～1969年頃)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="430" xmltv_id="ジャズ新譜アルバム">ジャズ新譜アルバム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="431" xmltv_id="ジャズアーティスト特集">ジャズアーティスト特集</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="432" xmltv_id="ジャズ名盤アルバム">ジャズ名盤アルバム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="433" xmltv_id="コンテンポラリージャズ">コンテンポラリージャズ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="434" xmltv_id="スムースジャズ">スムースジャズ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="435" xmltv_id="DAM 鉄板!洋楽">DAM 鉄板!洋楽</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="436" xmltv_id="ジャズボーカル">ジャズボーカル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="437" xmltv_id="サロンジャズ">サロンジャズ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="438" xmltv_id="やすらぎクラシック">やすらぎクラシック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="439" xmltv_id="さわやかクラシック">さわやかクラシック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="440" xmltv_id="2010年代洋楽ヒッツ">2010年代洋楽ヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="441" xmltv_id="リラックスサウンド">リラックスサウンド</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="442" xmltv_id="サロンクラシック">サロンクラシック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="443" xmltv_id="室内楽曲、器楽曲">室内楽曲、器楽曲</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="444" xmltv_id="バロック">バロック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="445" xmltv_id="モダンジャズ">モダンジャズ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="446" xmltv_id="洋楽最新ヒット">洋楽最新ヒット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="447" xmltv_id="洋楽最新おすすめ曲">洋楽最新おすすめ曲</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="448" xmltv_id="洋楽新譜アルバム">洋楽新譜アルバム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="449" xmltv_id="カヴァーソング">カヴァーソング</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="450" xmltv_id="洋楽アーティスト特集">洋楽アーティスト特集</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="451" xmltv_id="ヒットカントリー">ヒットカントリー</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="452" xmltv_id="リバプールサウンド(ビートルズ等)">リバプールサウンド(ビートルズ等)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="453" xmltv_id="洋楽年別ヒット曲(19××-20××)">洋楽年別ヒット曲(19××-20××)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="454" xmltv_id="1990年代洋楽ヒッツ">1990年代洋楽ヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="455" xmltv_id="1980年代洋楽ヒッツ">1980年代洋楽ヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="456" xmltv_id="1970年代洋楽ヒッツ">1970年代洋楽ヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="457" xmltv_id="オールディーズ、50&amp;60年代洋楽">オールディーズ、50&amp;60年代洋楽</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="458" xmltv_id="2000年代洋楽ヒッツ">2000年代洋楽ヒッツ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="459" xmltv_id="ハードロック、メタル">ハードロック、メタル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="460" xmltv_id="アダルトコンテンポラリー">アダルトコンテンポラリー</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="461" xmltv_id="ライトフュージョン">ライトフュージョン</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="462" xmltv_id="インテリアジャズ">インテリアジャズ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="463" xmltv_id="洋楽バラード">洋楽バラード</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="464" xmltv_id="J-POPバラード">J-POPバラード</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="465" xmltv_id="R&amp;B、ソウル">R&amp;B、ソウル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="466" xmltv_id="ヒップホップ">ヒップホップ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="467" xmltv_id="ディスコサウンド、ファンク">ディスコサウンド、ファンク</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="468" xmltv_id="EDM">EDM</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="469" xmltv_id="ハウス">ハウス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="470" xmltv_id="テクノ">テクノ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="471" xmltv_id="クラシックソウル">クラシックソウル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="472" xmltv_id="ユーロビート">ユーロビート</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="473" xmltv_id="ハワイアンミュージック">ハワイアンミュージック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="474" xmltv_id="ボサノヴァ">ボサノヴァ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="475" xmltv_id="J-POPヒット曲歌なし(アップテンポ)">J-POPヒット曲歌なし(アップテンポ)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="476" xmltv_id="レゲエ">レゲエ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="477" xmltv_id="沖縄民謡">沖縄民謡</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="478" xmltv_id="J-POPヒット曲歌なし(スローテンポ)">J-POPヒット曲歌なし(スローテンポ)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="479" xmltv_id="洋楽ナツメロ">洋楽ナツメロ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="480" xmltv_id="スクリーンミュージック">スクリーンミュージック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="481" xmltv_id="ヒーリング・二胡">ヒーリング・二胡</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="482" xmltv_id="ジャズピアノトリオ">ジャズピアノトリオ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="483" xmltv_id="カフェミュージック">カフェミュージック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="484" xmltv_id="クラシックピアノ">クラシックピアノ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="485" xmltv_id="イージーリスニング">イージーリスニング</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="486" xmltv_id="季節を演出するBGM(アップテンポ)">季節を演出するBGM(アップテンポ)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="487" xmltv_id="季節を演出するBGM(スローテンポ)">季節を演出するBGM(スローテンポ)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="488" xmltv_id="オルゴール">オルゴール</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="489" xmltv_id="キッズおんがく、アニメ">キッズおんがく、アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="490" xmltv_id="Spa Music">Spa Music</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="491" xmltv_id="フィリピンポップス">フィリピンポップス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="492" xmltv_id="中国ポップス">中国ポップス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="493" xmltv_id="台湾ポップス">台湾ポップス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="494" xmltv_id="K-POP">K-POP</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="495" xmltv_id="韓国歌謡演歌">韓国歌謡演歌</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="496" xmltv_id="日本の民謡">日本の民謡</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="497" xmltv_id="琴曲、日本の調べ">琴曲、日本の調べ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="498" xmltv_id="琴アレンジJ-POP">琴アレンジJ-POP</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="499" xmltv_id="J-POPシーズンセレクション">J-POPシーズンセレクション</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="647" xmltv_id="スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ">スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="649" xmltv_id="AXNミステリー">AXNミステリー</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="650" xmltv_id="ＡＸＮ 海外ドラマ">ＡＸＮ 海外ドラマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="651" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="654" xmltv_id="女性チャンネル♪LaLa TV">女性チャンネル♪LaLa TV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="655" xmltv_id="アジアドラマチックTV（アジドラ）">アジアドラマチックTV（アジドラ）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="656" xmltv_id="KBS World　韓流専門チャンネル">KBS World　韓流専門チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="657" xmltv_id="ＫＮＴＶ">ＫＮＴＶ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="658" xmltv_id="Ｍｎｅｔ">Ｍｎｅｔ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="535" xmltv_id="大人のイキヌキ！ヌーヴェルパラダイス">大人のイキヌキ！ヌーヴェルパラダイス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="659" xmltv_id="MONDO TV">MONDO TV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="660" xmltv_id="ファミリー劇場">ファミリー劇場</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="661" xmltv_id="ホームドラマチャンネル　韓流・時代劇・国内ドラマ">ホームドラマチャンネル　韓流・時代劇・国内ドラマ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="662" xmltv_id="時代劇専門チャンネル">時代劇専門チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="663" xmltv_id="アイドル専門チャンネルＰｉｇｏｏ">アイドル専門チャンネルＰｉｇｏｏ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="667" xmltv_id="アニメシアターX(AT-X)">アニメシアターX(AT-X)</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="668" xmltv_id="カートゥーン ネットワーク 海外アニメ国内アニメ">カートゥーン ネットワーク 海外アニメ国内アニメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="669" xmltv_id="キッズステーション テレビアニメ･劇場版･ＯＶＡ">キッズステーション テレビアニメ･劇場版･ＯＶＡ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="670" xmltv_id="アニマックス">アニマックス</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="674" xmltv_id="ヒストリーチャンネル 日本・世界の歴史＆エンタメ">ヒストリーチャンネル 日本・世界の歴史＆エンタメ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="675" xmltv_id="ナショナル ジオグラフィック">ナショナル ジオグラフィック</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="676" xmltv_id="ディスカバリーチャンネル">ディスカバリーチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="677" xmltv_id="アニマルプラネット">アニマルプラネット</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="560" xmltv_id="ＳＯＲＡ―お天気チャンネル―">ＳＯＲＡ―お天気チャンネル―</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="565" xmltv_id="ＢＢＣワールドニュース">ＢＢＣワールドニュース</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="566" xmltv_id="CNNj">CNNj</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="567" xmltv_id="CNN U.S.">CNN U.S.</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="568" xmltv_id="中国テレビ★ＣＣＴＶ大富">中国テレビ★ＣＣＴＶ大富</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="570" xmltv_id="日経CNBC">日経CNBC</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="571" xmltv_id="日テレNEWS24">日テレNEWS24</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="572" xmltv_id="TBS NEWS">TBS NEWS</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="529" xmltv_id="ベターライフチャンネル">ベターライフチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="536" xmltv_id="パチンコ★パチスロＴＶ！">パチンコ★パチスロＴＶ！</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="537" xmltv_id="パチ・スロ　サイトセブンＴＶ">パチ・スロ　サイトセブンＴＶ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="540" xmltv_id="釣りビジョンＨＤ">釣りビジョンＨＤ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="542" xmltv_id="寄席チャンネル">寄席チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="544" xmltv_id="旅チャンネル">旅チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="546" xmltv_id="鉄道チャンネル">鉄道チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="521" xmltv_id="囲碁・将棋チャンネル">囲碁・将棋チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="672" xmltv_id="ディズニージュニア">ディズニージュニア</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="678" xmltv_id="南関東地方競馬チャンネル">南関東地方競馬チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="680" xmltv_id="ＪＬＣ６８０">ＪＬＣ６８０</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="681" xmltv_id="ＪＬＣ６８１">ＪＬＣ６８１</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="682" xmltv_id="ＪＬＣ６８２">ＪＬＣ６８２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="683" xmltv_id="ＪＬＣ６８３">ＪＬＣ６８３</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="684" xmltv_id="ＪＬＣ６８４">ＪＬＣ６８４</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="688" xmltv_id="グリーンチャンネル">グリーンチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="689" xmltv_id="グリーンチャンネル２">グリーンチャンネル２</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="690" xmltv_id="ＳＰＥＥＤチャンネル（競輪ライブ）">ＳＰＥＥＤチャンネル（競輪ライブ）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="691" xmltv_id="ＳＰＥＥＤチャンネル（競輪ライブ）">ＳＰＥＥＤチャンネル（競輪ライブ）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="692" xmltv_id="ＳＰＥＥＤチャンネル（競輪ライブ）">ＳＰＥＥＤチャンネル（競輪ライブ）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="693" xmltv_id="ＳＰＥＥＤチャンネル（競輪ライブ）">ＳＰＥＥＤチャンネル（競輪ライブ）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="694" xmltv_id="ＳＰＥＥＤチャンネル（競輪ライブ）">ＳＰＥＥＤチャンネル（競輪ライブ）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="695" xmltv_id="スピードプラスワン６９５">スピードプラスワン６９５</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="701" xmltv_id="地方競馬ナイン">地方競馬ナイン</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="702" xmltv_id="地方競馬ナイン">地方競馬ナイン</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="703" xmltv_id="地方競馬ナイン">地方競馬ナイン</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="518" xmltv_id="フェニックステレビ（鳳凰衛視）">フェニックステレビ（鳳凰衛視）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="523" xmltv_id="ショップチャンネル">ショップチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="525" xmltv_id="ＱＶＣ（キューヴィーシー）">ＱＶＣ（キューヴィーシー）</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="527" xmltv_id="ジュエリー☆ＧＳＴＶ">ジュエリー☆ＧＳＴＶ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="528" xmltv_id="セレクトショッピング">セレクトショッピング</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="942" xmltv_id="ｋｍｐチャンネル">ｋｍｐチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="943" xmltv_id="プレイボーイ チャンネル">プレイボーイ チャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="944" xmltv_id="レインボーチャンネル">レインボーチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="945" xmltv_id="ミッドナイト・ブルー">ミッドナイト・ブルー</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="946" xmltv_id="パラダイステレビ">パラダイステレビ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="947" xmltv_id="チェリーボム">チェリーボム</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="957" xmltv_id="ＶＥＮＵＳ">ＶＥＮＵＳ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="958" xmltv_id="バニラスカイチャンネル">バニラスカイチャンネル</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="959" xmltv_id="エンタ！９５９">エンタ！９５９</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="960" xmltv_id="Zaptv">Zaptv</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="963" xmltv_id="ダイナマイトTV">ダイナマイトTV</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="964" xmltv_id="AV王">AV王</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="965" xmltv_id="レッドチェリー">レッドチェリー</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="966" xmltv_id="Splash">Splash</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="967" xmltv_id="フラミンゴ">フラミンゴ</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="599" xmltv_id="スカパー！プロモ599">スカパー！プロモ599</channel>
+    <channel update="i" site="skyperfect.co.jp" site_id="596" xmltv_id="スカチャン1 4K">スカチャン1 4K</channel>
   </channels>
 </site>
