@@ -1,75 +1,74 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.5 -- Jan van Straaten" site="tivu.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.6 -- Jan van Straaten" site="tivu.tv">
   <channels>
-    <channel update="i" site="tivu.tv" site_id="62" xmltv_id="rai1">rai1</channel>
-    <channel update="i" site="tivu.tv" site_id="114" xmltv_id="rai2">rai2</channel>
-    <channel update="i" site="tivu.tv" site_id="31" xmltv_id="rai3">rai3</channel>
-    <channel update="i" site="tivu.tv" site_id="141" xmltv_id="rete4">rete4</channel>
-    <channel update="i" site="tivu.tv" site_id="139" xmltv_id="canale5">canale5</channel>
-    <channel update="i" site="tivu.tv" site_id="140" xmltv_id="italia1">italia1</channel>
-    <channel update="i" site="tivu.tv" site_id="211" xmltv_id="la7">la7</channel>
-    <channel update="i" site="tivu.tv" site_id="220" xmltv_id="tv8">tv8</channel>
-    <channel update="i" site="tivu.tv" site_id="174" xmltv_id="nove">nove</channel>
-    <channel update="i" site="tivu.tv" site_id="119" xmltv_id="rai4">rai4</channel>
-    <channel update="i" site="tivu.tv" site_id="106" xmltv_id="iris">iris</channel>
-    <channel update="i" site="tivu.tv" site_id="205" xmltv_id="la5">la5</channel>
-    <channel update="i" site="tivu.tv" site_id="99" xmltv_id="rai5">rai5</channel>
-    <channel update="i" site="tivu.tv" site_id="120" xmltv_id="rai movie">rai movie</channel>
-    <channel update="i" site="tivu.tv" site_id="221" xmltv_id="rai premium">rai premium</channel>
-    <channel update="i" site="tivu.tv" site_id="207" xmltv_id="italia2">italia2</channel>
-    <channel update="i" site="tivu.tv" site_id="149" xmltv_id="mediaset extra">mediaset extra</channel>
-    <channel update="i" site="tivu.tv" site_id="81" xmltv_id="tv2000">tv2000</channel>
+    <channel update="i" site="tivu.tv" site_id="62" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="tivu.tv" site_id="114" xmltv_id="Rai 2">Rai 2</channel>
+    <channel update="i" site="tivu.tv" site_id="31" xmltv_id="Rai 3">Rai 3</channel>
+    <channel update="i" site="tivu.tv" site_id="141" xmltv_id="Rete 4">Rete 4</channel>
+    <channel update="i" site="tivu.tv" site_id="139" xmltv_id="Canale 5">Canale 5</channel>
+    <channel update="i" site="tivu.tv" site_id="140" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="tivu.tv" site_id="211" xmltv_id="LA7">LA7</channel>
+    <channel update="i" site="tivu.tv" site_id="188" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="tivu.tv" site_id="174" xmltv_id="NOVE">NOVE</channel>
+    <channel update="i" site="tivu.tv" site_id="119" xmltv_id="Rai 4">Rai 4</channel>
+    <channel update="i" site="tivu.tv" site_id="106" xmltv_id="Iris">Iris</channel>
+    <channel update="i" site="tivu.tv" site_id="205" xmltv_id="La 5">La 5</channel>
+    <channel update="i" site="tivu.tv" site_id="99" xmltv_id="Rai 5">Rai 5</channel>
+    <channel update="i" site="tivu.tv" site_id="120" xmltv_id="Rai Movie">Rai Movie</channel>
+    <channel update="i" site="tivu.tv" site_id="221" xmltv_id="Rai Premium">Rai Premium</channel>
+    <channel update="i" site="tivu.tv" site_id="207" xmltv_id="Mediaset ITALIA DUE">Mediaset ITALIA DUE</channel>
+    <channel update="i" site="tivu.tv" site_id="149" xmltv_id="Mediaset EXTRA">Mediaset EXTRA</channel>
+    <channel update="i" site="tivu.tv" site_id="81" xmltv_id="TV2000">TV2000</channel>
     <channel update="i" site="tivu.tv" site_id="187" xmltv_id="cielo">cielo</channel>
-    <channel update="i" site="tivu.tv" site_id="104" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="tivu.tv" site_id="116" xmltv_id="rai sport piu hd">rai sport piu hd</channel>
-    <channel update="i" site="tivu.tv" site_id="219" xmltv_id="vh1">vh1</channel>
-    <channel update="i" site="tivu.tv" site_id="182" xmltv_id="rai storia">rai storia</channel>
-    <channel update="i" site="tivu.tv" site_id="105" xmltv_id="rai news">rai news</channel>
-    <channel update="i" site="tivu.tv" site_id="208" xmltv_id="mediaset tgcom24">mediaset tgcom24</channel>
-    <channel update="i" site="tivu.tv" site_id="97" xmltv_id="rai scuola">rai scuola</channel>
-    <channel update="i" site="tivu.tv" site_id="226" xmltv_id="twentyseven">twentyseven</channel>
-    <channel update="i" site="tivu.tv" site_id="225" xmltv_id="dmax">dmax</channel>
-    <channel update="i" site="tivu.tv" site_id="206" xmltv_id="la7d">la7d</channel>
-    <channel update="i" site="tivu.tv" site_id="227" xmltv_id="realtime">realtime</channel>
-    <channel update="i" site="tivu.tv" site_id="184" xmltv_id="qvc">qvc</channel>
-    <channel update="i" site="tivu.tv" site_id="204" xmltv_id="focus">focus</channel>
-    <channel update="i" site="tivu.tv" site_id="177" xmltv_id="cine34">cine34</channel>
-    <channel update="i" site="tivu.tv" site_id="123" xmltv_id="radioitaliatv">radioitaliatv</channel>
-    <channel update="i" site="tivu.tv" site_id="128" xmltv_id="rtl1025">rtl1025</channel>
-    <channel update="i" site="tivu.tv" site_id="172" xmltv_id="giallo">giallo</channel>
-    <channel update="i" site="tivu.tv" site_id="209" xmltv_id="topcrime">topcrime</channel>
-    <channel update="i" site="tivu.tv" site_id="202" xmltv_id="boing">boing</channel>
-    <channel update="i" site="tivu.tv" site_id="203" xmltv_id="cartoonito">cartoonito</channel>
-    <channel update="i" site="tivu.tv" site_id="95" xmltv_id="rai gulp">rai gulp</channel>
-    <channel update="i" site="tivu.tv" site_id="96" xmltv_id="rai yoyo">rai yoyo</channel>
+    <channel update="i" site="tivu.tv" site_id="104" xmltv_id="20 Mediaset">20 Mediaset</channel>
+    <channel update="i" site="tivu.tv" site_id="182" xmltv_id="Rai Sport">Rai Sport</channel>
+    <channel update="i" site="tivu.tv" site_id="219" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tivu.tv" site_id="200" xmltv_id="Rai Storia">Rai Storia</channel>
+    <channel update="i" site="tivu.tv" site_id="105" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel update="i" site="tivu.tv" site_id="208" xmltv_id="TgCom24">TgCom24</channel>
+    <channel update="i" site="tivu.tv" site_id="97" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel update="i" site="tivu.tv" site_id="226" xmltv_id="27">27</channel>
+    <channel update="i" site="tivu.tv" site_id="225" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="tivu.tv" site_id="206" xmltv_id="LA7d">LA7d</channel>
+    <channel update="i" site="tivu.tv" site_id="227" xmltv_id="Real Time">Real Time</channel>
+    <channel update="i" site="tivu.tv" site_id="184" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="tivu.tv" site_id="204" xmltv_id="Focus">Focus</channel>
+    <channel update="i" site="tivu.tv" site_id="177" xmltv_id="Cine34">Cine34</channel>
+    <channel update="i" site="tivu.tv" site_id="123" xmltv_id="Radio Italia TV">Radio Italia TV</channel>
+    <channel update="i" site="tivu.tv" site_id="128" xmltv_id="RTL 102.5">RTL 102.5</channel>
+    <channel update="i" site="tivu.tv" site_id="172" xmltv_id="GIALLO">GIALLO</channel>
+    <channel update="i" site="tivu.tv" site_id="209" xmltv_id="Topcrime">Topcrime</channel>
+    <channel update="i" site="tivu.tv" site_id="202" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="tivu.tv" site_id="203" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="tivu.tv" site_id="95" xmltv_id="Rai Gulp">Rai Gulp</channel>
+    <channel update="i" site="tivu.tv" site_id="96" xmltv_id="Rai yoyo">Rai yoyo</channel>
     <channel update="i" site="tivu.tv" site_id="223" xmltv_id="frisbee">frisbee</channel>
-    <channel update="i" site="tivu.tv" site_id="224" xmltv_id="k2">k2</channel>
-    <channel update="i" site="tivu.tv" site_id="214" xmltv_id="super">super</channel>
-    <channel update="i" site="tivu.tv" site_id="93" xmltv_id="arte">arte</channel>
-    <channel update="i" site="tivu.tv" site_id="112" xmltv_id="mezzo">mezzo</channel>
-    <channel update="i" site="tivu.tv" site_id="150" xmltv_id="rds social tv">rds social tv</channel>
-    <channel update="i" site="tivu.tv" site_id="185" xmltv_id="unire tv">unire tv</channel>
-    <channel update="i" site="tivu.tv" site_id="222" xmltv_id="food network hd">food network hd</channel>
-    <channel update="i" site="tivu.tv" site_id="210" xmltv_id="hgtv">hgtv</channel>
-    <channel update="i" site="tivu.tv" site_id="173" xmltv_id="motor trend">motor trend</channel>
-    <channel update="i" site="tivu.tv" site_id="53" xmltv_id="euronews">euronews</channel>
-    <channel update="i" site="tivu.tv" site_id="186" xmltv_id="rmc">rmc</channel>
-    <channel update="i" site="tivu.tv" site_id="136" xmltv_id="france24en">france24en</channel>
-    <channel update="i" site="tivu.tv" site_id="2" xmltv_id="bbc world news">bbc world news</channel>
-    <channel update="i" site="tivu.tv" site_id="72" xmltv_id="aljazeera">aljazeera</channel>
-    <channel update="i" site="tivu.tv" site_id="142" xmltv_id="trtworld">trtworld</channel>
-    <channel update="i" site="tivu.tv" site_id="169" xmltv_id="nhk world">nhk world</channel>
-    <channel update="i" site="tivu.tv" site_id="137" xmltv_id="france24fr">france24fr</channel>
-    <channel update="i" site="tivu.tv" site_id="189" xmltv_id="alaraby tv">alaraby tv</channel>
-    <channel update="i" site="tivu.tv" site_id="194" xmltv_id="cnbc">cnbc</channel>
-    <channel update="i" site="tivu.tv" site_id="3" xmltv_id="bloomberg">bloomberg</channel>
-    <channel update="i" site="tivu.tv" site_id="138" xmltv_id="kbs world">kbs world</channel>
-    <channel update="i" site="tivu.tv" site_id="181" xmltv_id="nasa tv">nasa tv</channel>
-    <channel update="i" site="tivu.tv" site_id="178" xmltv_id="fashion tv">fashion tv</channel>
-    <channel update="i" site="tivu.tv" site_id="179" xmltv_id="museum 4k">museum 4k</channel>
-    <channel update="i" site="tivu.tv" site_id="180" xmltv_id="myzen tv">myzen tv</channel>
-    <channel update="i" site="tivu.tv" site_id="183" xmltv_id="travelxp 4k">travelxp 4k</channel>
-    <channel update="i" site="tivu.tv" site_id="213" xmltv_id="horse tv">horse tv</channel>
-    <channel update="i" site="tivu.tv" site_id="212" xmltv_id="trm">trm</channel>
+    <channel update="i" site="tivu.tv" site_id="224" xmltv_id="K2">K2</channel>
+    <channel update="i" site="tivu.tv" site_id="214" xmltv_id="Super!">Super!</channel>
+    <channel update="i" site="tivu.tv" site_id="93" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="tivu.tv" site_id="112" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="tivu.tv" site_id="150" xmltv_id="RDS Social TV">RDS Social TV</channel>
+    <channel update="i" site="tivu.tv" site_id="185" xmltv_id="UNIQtv HD">UNIQtv HD</channel>
+    <channel update="i" site="tivu.tv" site_id="222" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tivu.tv" site_id="228" xmltv_id="&quot; data-genre=">" data-genre=</channel>
+    <channel update="i" site="tivu.tv" site_id="210" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tivu.tv" site_id="173" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel update="i" site="tivu.tv" site_id="53" xmltv_id="Euronews Italian">Euronews Italian</channel>
+    <channel update="i" site="tivu.tv" site_id="186" xmltv_id="RMC">RMC</channel>
+    <channel update="i" site="tivu.tv" site_id="136" xmltv_id="France 24 HD (in English)">France 24 HD (in English)</channel>
+    <channel update="i" site="tivu.tv" site_id="2" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="tivu.tv" site_id="72" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="tivu.tv" site_id="142" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel update="i" site="tivu.tv" site_id="169" xmltv_id="NHK WORLD-JAPAN">NHK WORLD-JAPAN</channel>
+    <channel update="i" site="tivu.tv" site_id="137" xmltv_id="France 24 HD (en Français)">France 24 HD (en Français)</channel>
+    <channel update="i" site="tivu.tv" site_id="3" xmltv_id="Bloomberg European TV">Bloomberg European TV</channel>
+    <channel update="i" site="tivu.tv" site_id="138" xmltv_id="KBS HD">KBS HD</channel>
+    <channel update="i" site="tivu.tv" site_id="181" xmltv_id="NASA">NASA</channel>
+    <channel update="i" site="tivu.tv" site_id="178" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tivu.tv" site_id="179" xmltv_id="Museum">Museum</channel>
+    <channel update="i" site="tivu.tv" site_id="180" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="tivu.tv" site_id="183" xmltv_id="Travel XP">Travel XP</channel>
+    <channel update="i" site="tivu.tv" site_id="213" xmltv_id="Horse TV">Horse TV</channel>
+    <channel update="i" site="tivu.tv" site_id="212" xmltv_id="TRM h24">TRM h24</channel>
   </channels>
 </site>
