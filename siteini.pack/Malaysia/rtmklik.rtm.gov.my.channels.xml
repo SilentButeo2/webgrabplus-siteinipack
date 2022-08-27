@@ -1,13 +1,50 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" site="rtmklik.rtm.gov.my">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.6 -- Jan van Straaten" site="rtmklik.rtm.gov.my">
   <channels>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="522##Logo-TV1-May21-JPG.jpg" xmltv_id="TV1">TV1</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="523##Logo-TV2-May2021-PNG.png" xmltv_id="TV2">TV2</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="524##tvTVOKEYlogo.jpg" xmltv_id="TV Okey">TV Okey</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="525##Berita-NEW.jpg" xmltv_id="BERITA RTM">BERITA RTM</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="526##tvSUKANlogo_NEW.jpg" xmltv_id="SUKAN RTM">SUKAN RTM</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="527##TV6-Logo-JPG.jpg" xmltv_id="TV6">TV6</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="528##LogoMedium-DewanRakyat.jpg" xmltv_id="DEWAN RAKYAT">DEWAN RAKYAT</channel>
-    <channel update="i" site="rtmklik.rtm.gov.my" site_id="529##LogoSmall-DewanNegara-New1.png" xmltv_id="DEWAN NEGARA">DEWAN NEGARA</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="1" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="2" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="3" xmltv_id="Okey">Okey</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="4" xmltv_id="Sukan RTM">Sukan RTM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="7" xmltv_id="Bertia RTM">Bertia RTM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="8" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="9" xmltv_id="Dewan Rakyat">Dewan Rakyat</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="10" xmltv_id="Dewan Negara">Dewan Negara</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="13" xmltv_id="Radio Klask">Radio Klask</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="14" xmltv_id="Nasional FM">Nasional FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="15" xmltv_id="Traxx FM">Traxx FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="16" xmltv_id="AI FM">AI FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="17" xmltv_id="Minnal FM">Minnal FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="18" xmltv_id="Asyik FM">Asyik FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="19" xmltv_id="Commonwealth Games 4">Commonwealth Games 4</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="21" xmltv_id="Commonwealth Games 5">Commonwealth Games 5</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="23" xmltv_id="Sample EPG">Sample EPG</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="24" xmltv_id="Selangor FM">Selangor FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="25" xmltv_id="SabahV FM">SabahV FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="26" xmltv_id="Sarawak FM">Sarawak FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="27" xmltv_id="Labuan FM">Labuan FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="28" xmltv_id="Kedah FM">Kedah FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="29" xmltv_id="KL FM">KL FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="30" xmltv_id="Kelantan FM">Kelantan FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="31" xmltv_id="Terengganu FM">Terengganu FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="32" xmltv_id="Pahang FM">Pahang FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="33" xmltv_id="Johor FM">Johor FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="34" xmltv_id="Negeri FM">Negeri FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="35" xmltv_id="Negeri FM">Negeri FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="36" xmltv_id="Perak FM">Perak FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="37" xmltv_id="Mutiara FM">Mutiara FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="38" xmltv_id="Perlis FM">Perlis FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="39" xmltv_id="Melaka FM">Melaka FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="40" xmltv_id="Sabah FM">Sabah FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="41" xmltv_id="Wai FM">Wai FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="42" xmltv_id="Red FM">Red FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="43" xmltv_id="Langkawi FM">Langkawi FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="44" xmltv_id="Limbang FM">Limbang FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="45" xmltv_id="Miri FM">Miri FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="46" xmltv_id="Sri Aman FM">Sri Aman FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="47" xmltv_id="Bintulu FM">Bintulu FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="48" xmltv_id="Sibu FM">Sibu FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="49" xmltv_id="Sandakan FM">Sandakan FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="50" xmltv_id="Tawau FM">Tawau FM</channel>
+    <channel update="i" site="rtmklik.rtm.gov.my" site_id="51" xmltv_id="Keningau FM">Keningau FM</channel>
   </channels>
 </site>
