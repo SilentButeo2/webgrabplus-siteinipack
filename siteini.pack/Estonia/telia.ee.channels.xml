@@ -1,392 +1,380 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" site="telia.ee">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="telia.ee">
   <channels>
-    <channel update="i" site="telia.ee" site_id="ET##1338" xmltv_id="ET  Inspira">ET  Inspira</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1" xmltv_id="ET  ETV">ET  ETV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##111" xmltv_id="ET  ETV 2">ET  ETV 2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##3" xmltv_id="ET  Kanal 2">ET  Kanal 2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##2" xmltv_id="ET  TV3">ET  TV3</channel>
-    <channel update="i" site="telia.ee" site_id="ET##223" xmltv_id="ET  TV6">ET  TV6</channel>
-    <channel update="i" site="telia.ee" site_id="ET##221" xmltv_id="ET  TV3 Life">ET  TV3 Life</channel>
-    <channel update="i" site="telia.ee" site_id="ET##101" xmltv_id="ET  Duo 4">ET  Duo 4</channel>
-    <channel update="i" site="telia.ee" site_id="ET##728" xmltv_id="ET  Duo 5">ET  Duo 5</channel>
-    <channel update="i" site="telia.ee" site_id="ET##77" xmltv_id="ET  Fox">ET  Fox</channel>
-    <channel update="i" site="telia.ee" site_id="ET##105" xmltv_id="ET  Fox Life">ET  Fox Life</channel>
-    <channel update="i" site="telia.ee" site_id="ET##257" xmltv_id="ET  Duo 3">ET  Duo 3</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1080" xmltv_id="ET  Duo 6">ET  Duo 6</channel>
-    <channel update="i" site="telia.ee" site_id="ET##823" xmltv_id="ET  TLC">ET  TLC</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1346" xmltv_id="ET  HGTV">ET  HGTV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1238" xmltv_id="ET  Filmzone">ET  Filmzone</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1239" xmltv_id="ET  Filmzone+">ET  Filmzone+</channel>
-    <channel update="i" site="telia.ee" site_id="ET##829" xmltv_id="ET  AMC">ET  AMC</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1264" xmltv_id="ET  BBC Earth">ET  BBC Earth</channel>
-    <channel update="i" site="telia.ee" site_id="ET##8" xmltv_id="ET  TVXXI">ET  TVXXI</channel>
-    <channel update="i" site="telia.ee" site_id="ET##95" xmltv_id="ET  Dom Kino (Edastamine peatatud)">ET  Dom Kino (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1333" xmltv_id="ET  Eesti Kanal">ET  Eesti Kanal</channel>
-    <channel update="i" site="telia.ee" site_id="ET##224" xmltv_id="ET  TV1000 East">ET  TV1000 East</channel>
-    <channel update="i" site="telia.ee" site_id="ET##225" xmltv_id="ET  TV1000 World Kino">ET  TV1000 World Kino</channel>
-    <channel update="i" site="telia.ee" site_id="ET##226" xmltv_id="ET  TV3 Film">ET  TV3 Film</channel>
-    <channel update="i" site="telia.ee" site_id="ET##227" xmltv_id="ET  TV1000 Action">ET  TV1000 Action</channel>
-    <channel update="i" site="telia.ee" site_id="ET##26" xmltv_id="ET  Discovery Channel">ET  Discovery Channel</channel>
-    <channel update="i" site="telia.ee" site_id="ET##32" xmltv_id="ET  ID">ET  ID</channel>
-    <channel update="i" site="telia.ee" site_id="ET##33" xmltv_id="ET  Discovery Science">ET  Discovery Science</channel>
-    <channel update="i" site="telia.ee" site_id="ET##217" xmltv_id="ET  DTX">ET  DTX</channel>
-    <channel update="i" site="telia.ee" site_id="ET##251" xmltv_id="ET  History Channel">ET  History Channel</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1236" xmltv_id="ET  HISTORY2">ET  HISTORY2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##231" xmltv_id="ET  Viasat History">ET  Viasat History</channel>
-    <channel update="i" site="telia.ee" site_id="ET##19" xmltv_id="ET  National Geographic">ET  National Geographic</channel>
-    <channel update="i" site="telia.ee" site_id="ET##79" xmltv_id="ET  Nat Geo Wild">ET  Nat Geo Wild</channel>
-    <channel update="i" site="telia.ee" site_id="ET##716" xmltv_id="ET  Viasat Nature">ET  Viasat Nature</channel>
-    <channel update="i" site="telia.ee" site_id="ET##31" xmltv_id="ET  Animal Planet">ET  Animal Planet</channel>
-    <channel update="i" site="telia.ee" site_id="ET##230" xmltv_id="ET  Viasat Explore">ET  Viasat Explore</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1292" xmltv_id="ET  Epic Drama">ET  Epic Drama</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1303" xmltv_id="ET  VIP Comedy">ET  VIP Comedy</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1086" xmltv_id="ET  Kidzone">ET  Kidzone</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1344" xmltv_id="ET  Smartzone">ET  Smartzone</channel>
-    <channel update="i" site="telia.ee" site_id="ET##102" xmltv_id="ET  Disney Channel">ET  Disney Channel</channel>
-    <channel update="i" site="telia.ee" site_id="ET##103" xmltv_id="ET  Disney Junior">ET  Disney Junior</channel>
-    <channel update="i" site="telia.ee" site_id="ET##55" xmltv_id="ET  Cartoon Network">ET  Cartoon Network</channel>
-    <channel update="i" site="telia.ee" site_id="ET##58" xmltv_id="ET  Nickelodeon">ET  Nickelodeon</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1300" xmltv_id="ET  nick Jr.">ET  nick Jr.</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1301" xmltv_id="ET  nicktoons">ET  nicktoons</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1293" xmltv_id="ET  Kidzone Mini">ET  Kidzone Mini</channel>
-    <channel update="i" site="telia.ee" site_id="ET##57" xmltv_id="ET  Boomerang">ET  Boomerang</channel>
-    <channel update="i" site="telia.ee" site_id="ET##17" xmltv_id="ET  Super RTL">ET  Super RTL</channel>
-    <channel update="i" site="telia.ee" site_id="ET##75" xmltv_id="ET  Karussell (Edastamine peatatud)">ET  Karussell (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##35" xmltv_id="ET  Eurosport">ET  Eurosport</channel>
-    <channel update="i" site="telia.ee" site_id="ET##51" xmltv_id="ET  Eurosport 2">ET  Eurosport 2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1206" xmltv_id="ET  Setanta Sports">ET  Setanta Sports</channel>
-    <channel update="i" site="telia.ee" site_id="ET##228" xmltv_id="ET  TV3 Sport">ET  TV3 Sport</channel>
-    <channel update="i" site="telia.ee" site_id="ET##229" xmltv_id="ET  TV3 Sport2">ET  TV3 Sport2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##262" xmltv_id="ET  Futbol">ET  Futbol</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1268" xmltv_id="ET  Fight Sports">ET  Fight Sports</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1341" xmltv_id="ET  1+2">ET  1+2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##74" xmltv_id="ET  Ohota i Rõbalka">ET  Ohota i Rõbalka</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1222" xmltv_id="ET  Travel Channel">ET  Travel Channel</channel>
-    <channel update="i" site="telia.ee" site_id="ET##151" xmltv_id="ET  Moja Planeta">ET  Moja Planeta</channel>
-    <channel update="i" site="telia.ee" site_id="ET##703" xmltv_id="ET  Telekafe (Edastamine peatatud)">ET  Telekafe (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##737" xmltv_id="ET  Usadba">ET  Usadba</channel>
-    <channel update="i" site="telia.ee" site_id="ET##54" xmltv_id="ET  Fashion TV">ET  Fashion TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##220" xmltv_id="ET  LIFE TV">ET  LIFE TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##248" xmltv_id="ET  TAEVAS TV7">ET  TAEVAS TV7</channel>
-    <channel update="i" site="telia.ee" site_id="ET##76" xmltv_id="ET  MyHits">ET  MyHits</channel>
-    <channel update="i" site="telia.ee" site_id="ET##157" xmltv_id="ET  ALO-TV">ET  ALO-TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##39" xmltv_id="ET  MTV Europe">ET  MTV Europe</channel>
-    <channel update="i" site="telia.ee" site_id="ET##84" xmltv_id="ET  MCM TOP">ET  MCM TOP</channel>
-    <channel update="i" site="telia.ee" site_id="ET##83" xmltv_id="ET  RFM TV">ET  RFM TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##70" xmltv_id="ET  MTV Club">ET  MTV Club</channel>
-    <channel update="i" site="telia.ee" site_id="ET##71" xmltv_id="ET  MTV Hits">ET  MTV Hits</channel>
-    <channel update="i" site="telia.ee" site_id="ET##69" xmltv_id="ET  MTV 90s">ET  MTV 90s</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1302" xmltv_id="ET  MTV Live HD">ET  MTV Live HD</channel>
-    <channel update="i" site="telia.ee" site_id="ET##38" xmltv_id="ET  MTV 00s">ET  MTV 00s</channel>
-    <channel update="i" site="telia.ee" site_id="ET##72" xmltv_id="ET  MTV 80s">ET  MTV 80s</channel>
-    <channel update="i" site="telia.ee" site_id="ET##731" xmltv_id="ET  iConcerts">ET  iConcerts</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1129" xmltv_id="ET  DJAZZ.tv">ET  DJAZZ.tv</channel>
-    <channel update="i" site="telia.ee" site_id="ET##790" xmltv_id="ET  Classica">ET  Classica</channel>
-    <channel update="i" site="telia.ee" site_id="ET##789" xmltv_id="ET  Mezzo Live HD">ET  Mezzo Live HD</channel>
-    <channel update="i" site="telia.ee" site_id="ET##36" xmltv_id="ET  Mezzo">ET  Mezzo</channel>
-    <channel update="i" site="telia.ee" site_id="ET##59" xmltv_id="ET  Euronews">ET  Euronews</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1286" xmltv_id="ET  Euronews Rus">ET  Euronews Rus</channel>
-    <channel update="i" site="telia.ee" site_id="ET##52" xmltv_id="ET  BBC World">ET  BBC World</channel>
-    <channel update="i" site="telia.ee" site_id="ET##50" xmltv_id="ET  CNN International">ET  CNN International</channel>
-    <channel update="i" site="telia.ee" site_id="ET##82" xmltv_id="ET  CNBC Europe">ET  CNBC Europe</channel>
-    <channel update="i" site="telia.ee" site_id="ET##91" xmltv_id="ET  SKY News">ET  SKY News</channel>
-    <channel update="i" site="telia.ee" site_id="ET##89" xmltv_id="ET  Al Jazeera">ET  Al Jazeera</channel>
-    <channel update="i" site="telia.ee" site_id="ET##81" xmltv_id="ET  Bloomberg TV">ET  Bloomberg TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1348" xmltv_id="ET  Nastojaheje Vremja">ET  Nastojaheje Vremja</channel>
-    <channel update="i" site="telia.ee" site_id="ET##97" xmltv_id="ET  RBK TV (edastamine peatatud)">ET  RBK TV (edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##153" xmltv_id="ET  Rossia 24 (Edastamine peatatud)">ET  Rossia 24 (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##73" xmltv_id="ET  Deutsche Welle">ET  Deutsche Welle</channel>
-    <channel update="i" site="telia.ee" site_id="ET##145" xmltv_id="ET  n-tv">ET  n-tv</channel>
-    <channel update="i" site="telia.ee" site_id="ET##143" xmltv_id="ET  France 24">ET  France 24</channel>
-    <channel update="i" site="telia.ee" site_id="ET##12" xmltv_id="ET  YLE TV1">ET  YLE TV1</channel>
-    <channel update="i" site="telia.ee" site_id="ET##13" xmltv_id="ET  YLE TV2">ET  YLE TV2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1347" xmltv_id="ET  Ukraina 24">ET  Ukraina 24</channel>
-    <channel update="i" site="telia.ee" site_id="ET##141" xmltv_id="ET  Orsent TV">ET  Orsent TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##140" xmltv_id="ET  TVN">ET  TVN</channel>
-    <channel update="i" site="telia.ee" site_id="ET##256" xmltv_id="ET  France 2">ET  France 2</channel>
-    <channel update="i" site="telia.ee" site_id="ET##24" xmltv_id="ET  Arte">ET  Arte</channel>
-    <channel update="i" site="telia.ee" site_id="ET##60" xmltv_id="ET  PRO 7">ET  PRO 7</channel>
-    <channel update="i" site="telia.ee" site_id="ET##11" xmltv_id="ET  SAT 1">ET  SAT 1</channel>
-    <channel update="i" site="telia.ee" site_id="ET##20" xmltv_id="ET  RTL">ET  RTL</channel>
-    <channel update="i" site="telia.ee" site_id="ET##85" xmltv_id="ET  TV5MONDE Europe">ET  TV5MONDE Europe</channel>
-    <channel update="i" site="telia.ee" site_id="ET##255" xmltv_id="ET  TVEi">ET  TVEi</channel>
-    <channel update="i" site="telia.ee" site_id="ET##86" xmltv_id="ET  RAI Uno">ET  RAI Uno</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1252" xmltv_id="ET  ETV+">ET  ETV+</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1343" xmltv_id="ET  Duo 7">ET  Duo 7</channel>
-    <channel update="i" site="telia.ee" site_id="ET##28" xmltv_id="ET  PBK (Edastamine peatatud)">ET  PBK (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##18" xmltv_id="ET  RTR Planeta (Edastamine peatatud)">ET  RTR Planeta (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##14" xmltv_id="ET  NTV Mir (Edastamine peatatud)">ET  NTV Mir (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1289" xmltv_id="ET  NTV Serial (Edastamine peatatud)">ET  NTV Serial (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1279" xmltv_id="ET  TNT Comedy">ET  TNT Comedy</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1087" xmltv_id="ET  STS (Edastamine peatatud)">ET  STS (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1304" xmltv_id="ET  Pjatnitsa!">ET  Pjatnitsa!</channel>
-    <channel update="i" site="telia.ee" site_id="ET##23" xmltv_id="ET  REN TV (Edastamine peatatud)">ET  REN TV (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1325" xmltv_id="ET  Kinokomedija (Edastamine peatatud)\r\n">ET  Kinokomedija (Edastamine peatatud)\r\n</channel>
-    <channel update="i" site="telia.ee" site_id="ET##717" xmltv_id="ET  TVCI (Edastamine peatatud)">ET  TVCI (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##828" xmltv_id="ET  Dožd">ET  Dožd</channel>
-    <channel update="i" site="telia.ee" site_id="ET##94" xmltv_id="ET  Vremja (Edastamine peatatud)">ET  Vremja (Edastamine peatatud)</channel>
-    <channel update="i" site="telia.ee" site_id="ET##261" xmltv_id="ET  TBN Baltia">ET  TBN Baltia</channel>
-    <channel update="i" site="telia.ee" site_id="ET##90" xmltv_id="ET  Hustler TV">ET  Hustler TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##148" xmltv_id="ET  Private TV">ET  Private TV</channel>
-    <channel update="i" site="telia.ee" site_id="ET##1088" xmltv_id="ET  DUSK!">ET  DUSK!</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1338" xmltv_id="EN  Inspira">EN  Inspira</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1" xmltv_id="EN  ETV">EN  ETV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##111" xmltv_id="EN  ETV 2">EN  ETV 2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##3" xmltv_id="EN  Kanal 2">EN  Kanal 2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##2" xmltv_id="EN  TV3">EN  TV3</channel>
-    <channel update="i" site="telia.ee" site_id="EN##223" xmltv_id="EN  TV6">EN  TV6</channel>
-    <channel update="i" site="telia.ee" site_id="EN##221" xmltv_id="EN  TV3 Life">EN  TV3 Life</channel>
-    <channel update="i" site="telia.ee" site_id="EN##101" xmltv_id="EN  Duo 4">EN  Duo 4</channel>
-    <channel update="i" site="telia.ee" site_id="EN##728" xmltv_id="EN  Duo 5">EN  Duo 5</channel>
-    <channel update="i" site="telia.ee" site_id="EN##77" xmltv_id="EN  Fox">EN  Fox</channel>
-    <channel update="i" site="telia.ee" site_id="EN##105" xmltv_id="EN  Fox Life">EN  Fox Life</channel>
-    <channel update="i" site="telia.ee" site_id="EN##257" xmltv_id="EN  Duo 3">EN  Duo 3</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1080" xmltv_id="EN  Duo 6">EN  Duo 6</channel>
-    <channel update="i" site="telia.ee" site_id="EN##823" xmltv_id="EN  TLC">EN  TLC</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1346" xmltv_id="EN  HGTV">EN  HGTV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1238" xmltv_id="EN  Filmzone">EN  Filmzone</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1239" xmltv_id="EN  Filmzone+">EN  Filmzone+</channel>
-    <channel update="i" site="telia.ee" site_id="EN##829" xmltv_id="EN  AMC">EN  AMC</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1264" xmltv_id="EN  BBC Earth">EN  BBC Earth</channel>
-    <channel update="i" site="telia.ee" site_id="EN##8" xmltv_id="EN  TVXXI">EN  TVXXI</channel>
-    <channel update="i" site="telia.ee" site_id="EN##95" xmltv_id="EN  Dom Kino">EN  Dom Kino</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1333" xmltv_id="EN  Eesti Kanal">EN  Eesti Kanal</channel>
-    <channel update="i" site="telia.ee" site_id="EN##224" xmltv_id="EN  TV1000 East">EN  TV1000 East</channel>
-    <channel update="i" site="telia.ee" site_id="EN##225" xmltv_id="EN  TV1000 World Kino">EN  TV1000 World Kino</channel>
-    <channel update="i" site="telia.ee" site_id="EN##226" xmltv_id="EN  TV3 Film">EN  TV3 Film</channel>
-    <channel update="i" site="telia.ee" site_id="EN##227" xmltv_id="EN  TV1000 Action">EN  TV1000 Action</channel>
-    <channel update="i" site="telia.ee" site_id="EN##26" xmltv_id="EN  Discovery Channel">EN  Discovery Channel</channel>
-    <channel update="i" site="telia.ee" site_id="EN##32" xmltv_id="EN  ID">EN  ID</channel>
-    <channel update="i" site="telia.ee" site_id="EN##33" xmltv_id="EN  Discovery Science">EN  Discovery Science</channel>
-    <channel update="i" site="telia.ee" site_id="EN##217" xmltv_id="EN  DTX">EN  DTX</channel>
-    <channel update="i" site="telia.ee" site_id="EN##251" xmltv_id="EN  History Channel">EN  History Channel</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1236" xmltv_id="EN  HISTORY2">EN  HISTORY2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##231" xmltv_id="EN  Viasat History">EN  Viasat History</channel>
-    <channel update="i" site="telia.ee" site_id="EN##19" xmltv_id="EN  National Geographic">EN  National Geographic</channel>
-    <channel update="i" site="telia.ee" site_id="EN##79" xmltv_id="EN  Nat Geo Wild">EN  Nat Geo Wild</channel>
-    <channel update="i" site="telia.ee" site_id="EN##716" xmltv_id="EN  Viasat Nature">EN  Viasat Nature</channel>
-    <channel update="i" site="telia.ee" site_id="EN##31" xmltv_id="EN  Animal Planet">EN  Animal Planet</channel>
-    <channel update="i" site="telia.ee" site_id="EN##230" xmltv_id="EN  Viasat Explore">EN  Viasat Explore</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1292" xmltv_id="EN  Epic Drama">EN  Epic Drama</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1303" xmltv_id="EN  VIP Comedy">EN  VIP Comedy</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1086" xmltv_id="EN  Kidzone">EN  Kidzone</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1344" xmltv_id="EN  Smartzone">EN  Smartzone</channel>
-    <channel update="i" site="telia.ee" site_id="EN##102" xmltv_id="EN  Disney Channel">EN  Disney Channel</channel>
-    <channel update="i" site="telia.ee" site_id="EN##103" xmltv_id="EN  Disney Junior">EN  Disney Junior</channel>
-    <channel update="i" site="telia.ee" site_id="EN##55" xmltv_id="EN  Cartoon Network">EN  Cartoon Network</channel>
-    <channel update="i" site="telia.ee" site_id="EN##58" xmltv_id="EN  Nickelodeon">EN  Nickelodeon</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1300" xmltv_id="EN  nick Jr.">EN  nick Jr.</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1301" xmltv_id="EN  nicktoons">EN  nicktoons</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1293" xmltv_id="EN  Kidzone Mini">EN  Kidzone Mini</channel>
-    <channel update="i" site="telia.ee" site_id="EN##57" xmltv_id="EN  Boomerang">EN  Boomerang</channel>
-    <channel update="i" site="telia.ee" site_id="EN##17" xmltv_id="EN  Super RTL">EN  Super RTL</channel>
-    <channel update="i" site="telia.ee" site_id="EN##75" xmltv_id="EN  Karussell">EN  Karussell</channel>
-    <channel update="i" site="telia.ee" site_id="EN##35" xmltv_id="EN  Eurosport">EN  Eurosport</channel>
-    <channel update="i" site="telia.ee" site_id="EN##51" xmltv_id="EN  Eurosport 2">EN  Eurosport 2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1206" xmltv_id="EN  Setanta Sports">EN  Setanta Sports</channel>
-    <channel update="i" site="telia.ee" site_id="EN##228" xmltv_id="EN  TV3 Sport">EN  TV3 Sport</channel>
-    <channel update="i" site="telia.ee" site_id="EN##229" xmltv_id="EN  TV3 Sport2">EN  TV3 Sport2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##262" xmltv_id="EN  Futbol">EN  Futbol</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1268" xmltv_id="EN  Fight Sports">EN  Fight Sports</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1341" xmltv_id="EN  1+2">EN  1+2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##74" xmltv_id="EN  Ohota i Ribalka">EN  Ohota i Ribalka</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1222" xmltv_id="EN  Travel Channel">EN  Travel Channel</channel>
-    <channel update="i" site="telia.ee" site_id="EN##151" xmltv_id="EN  Moja Planeta">EN  Moja Planeta</channel>
-    <channel update="i" site="telia.ee" site_id="EN##703" xmltv_id="EN  Telekafe">EN  Telekafe</channel>
-    <channel update="i" site="telia.ee" site_id="EN##737" xmltv_id="EN  Usadba">EN  Usadba</channel>
-    <channel update="i" site="telia.ee" site_id="EN##54" xmltv_id="EN  Fashion TV">EN  Fashion TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##220" xmltv_id="EN  LIFE TV">EN  LIFE TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##248" xmltv_id="EN  TAEVAS TV7">EN  TAEVAS TV7</channel>
-    <channel update="i" site="telia.ee" site_id="EN##76" xmltv_id="EN  MyHits">EN  MyHits</channel>
-    <channel update="i" site="telia.ee" site_id="EN##157" xmltv_id="EN  ALO-TV">EN  ALO-TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##39" xmltv_id="EN  MTV Europe">EN  MTV Europe</channel>
-    <channel update="i" site="telia.ee" site_id="EN##84" xmltv_id="EN  MCM TOP">EN  MCM TOP</channel>
-    <channel update="i" site="telia.ee" site_id="EN##83" xmltv_id="EN  RFM TV">EN  RFM TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##70" xmltv_id="EN  MTV Club">EN  MTV Club</channel>
-    <channel update="i" site="telia.ee" site_id="EN##71" xmltv_id="EN  MTV Hits">EN  MTV Hits</channel>
-    <channel update="i" site="telia.ee" site_id="EN##69" xmltv_id="EN  MTV 90s">EN  MTV 90s</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1302" xmltv_id="EN  MTV Live HD">EN  MTV Live HD</channel>
-    <channel update="i" site="telia.ee" site_id="EN##38" xmltv_id="EN  MTV 00s">EN  MTV 00s</channel>
-    <channel update="i" site="telia.ee" site_id="EN##72" xmltv_id="EN  MTV 80s">EN  MTV 80s</channel>
-    <channel update="i" site="telia.ee" site_id="EN##731" xmltv_id="EN  iConcerts">EN  iConcerts</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1129" xmltv_id="EN  DJAZZ.tv">EN  DJAZZ.tv</channel>
-    <channel update="i" site="telia.ee" site_id="EN##790" xmltv_id="EN  Classica">EN  Classica</channel>
-    <channel update="i" site="telia.ee" site_id="EN##789" xmltv_id="EN  Mezzo Live HD">EN  Mezzo Live HD</channel>
-    <channel update="i" site="telia.ee" site_id="EN##36" xmltv_id="EN  Mezzo">EN  Mezzo</channel>
-    <channel update="i" site="telia.ee" site_id="EN##59" xmltv_id="EN  Euronews">EN  Euronews</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1286" xmltv_id="EN  Euronews Rus">EN  Euronews Rus</channel>
-    <channel update="i" site="telia.ee" site_id="EN##52" xmltv_id="EN  BBC World">EN  BBC World</channel>
-    <channel update="i" site="telia.ee" site_id="EN##50" xmltv_id="EN  CNN International">EN  CNN International</channel>
-    <channel update="i" site="telia.ee" site_id="EN##82" xmltv_id="EN  CNBC Europe">EN  CNBC Europe</channel>
-    <channel update="i" site="telia.ee" site_id="EN##91" xmltv_id="EN  SKY News">EN  SKY News</channel>
-    <channel update="i" site="telia.ee" site_id="EN##89" xmltv_id="EN  Al Jazeera">EN  Al Jazeera</channel>
-    <channel update="i" site="telia.ee" site_id="EN##81" xmltv_id="EN  Bloomberg TV">EN  Bloomberg TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1348" xmltv_id="EN  Nastojaheje Vremja">EN  Nastojaheje Vremja</channel>
-    <channel update="i" site="telia.ee" site_id="EN##97" xmltv_id="EN  RBK TV">EN  RBK TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##153" xmltv_id="EN  Rossia 24">EN  Rossia 24</channel>
-    <channel update="i" site="telia.ee" site_id="EN##73" xmltv_id="EN  Deutsche Welle">EN  Deutsche Welle</channel>
-    <channel update="i" site="telia.ee" site_id="EN##145" xmltv_id="EN  n-tv">EN  n-tv</channel>
-    <channel update="i" site="telia.ee" site_id="EN##143" xmltv_id="EN  France 24">EN  France 24</channel>
-    <channel update="i" site="telia.ee" site_id="EN##12" xmltv_id="EN  YLE TV1">EN  YLE TV1</channel>
-    <channel update="i" site="telia.ee" site_id="EN##13" xmltv_id="EN  YLE TV2">EN  YLE TV2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1347" xmltv_id="EN  Ukraina 24">EN  Ukraina 24</channel>
-    <channel update="i" site="telia.ee" site_id="EN##141" xmltv_id="EN  Orsent TV">EN  Orsent TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##140" xmltv_id="EN  TVN">EN  TVN</channel>
-    <channel update="i" site="telia.ee" site_id="EN##256" xmltv_id="EN  France 2">EN  France 2</channel>
-    <channel update="i" site="telia.ee" site_id="EN##24" xmltv_id="EN  Arte">EN  Arte</channel>
-    <channel update="i" site="telia.ee" site_id="EN##60" xmltv_id="EN  PRO 7">EN  PRO 7</channel>
-    <channel update="i" site="telia.ee" site_id="EN##11" xmltv_id="EN  SAT 1">EN  SAT 1</channel>
-    <channel update="i" site="telia.ee" site_id="EN##20" xmltv_id="EN  RTL">EN  RTL</channel>
-    <channel update="i" site="telia.ee" site_id="EN##85" xmltv_id="EN  TV5MONDE Europe">EN  TV5MONDE Europe</channel>
-    <channel update="i" site="telia.ee" site_id="EN##255" xmltv_id="EN  TVEi">EN  TVEi</channel>
-    <channel update="i" site="telia.ee" site_id="EN##86" xmltv_id="EN  RAI Uno">EN  RAI Uno</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1252" xmltv_id="EN  ETV+">EN  ETV+</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1343" xmltv_id="EN  Duo 7">EN  Duo 7</channel>
-    <channel update="i" site="telia.ee" site_id="EN##28" xmltv_id="EN  PBK">EN  PBK</channel>
-    <channel update="i" site="telia.ee" site_id="EN##18" xmltv_id="EN  RTR Planeta\t">EN  RTR Planeta\t</channel>
-    <channel update="i" site="telia.ee" site_id="EN##14" xmltv_id="EN  NTV Mir">EN  NTV Mir</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1289" xmltv_id="EN  NTV Serial">EN  NTV Serial</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1279" xmltv_id="EN  TNT Comedy">EN  TNT Comedy</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1087" xmltv_id="EN  STS">EN  STS</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1304" xmltv_id="EN  Pjatnitsa!">EN  Pjatnitsa!</channel>
-    <channel update="i" site="telia.ee" site_id="EN##23" xmltv_id="EN  REN TV">EN  REN TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1325" xmltv_id="EN  Kinokomedija">EN  Kinokomedija</channel>
-    <channel update="i" site="telia.ee" site_id="EN##717" xmltv_id="EN  TVCI">EN  TVCI</channel>
-    <channel update="i" site="telia.ee" site_id="EN##828" xmltv_id="EN  Dozhd">EN  Dozhd</channel>
-    <channel update="i" site="telia.ee" site_id="EN##94" xmltv_id="EN  Vremja">EN  Vremja</channel>
-    <channel update="i" site="telia.ee" site_id="EN##261" xmltv_id="EN  TBN Baltia">EN  TBN Baltia</channel>
-    <channel update="i" site="telia.ee" site_id="EN##90" xmltv_id="EN  Hustler TV">EN  Hustler TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##148" xmltv_id="EN  Private TV">EN  Private TV</channel>
-    <channel update="i" site="telia.ee" site_id="EN##1088" xmltv_id="EN  DUSK!">EN  DUSK!</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1338" xmltv_id="RU  Inspira">RU  Inspira</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1" xmltv_id="RU  ETV">RU  ETV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##111" xmltv_id="RU  ETV 2">RU  ETV 2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##3" xmltv_id="RU  Kanal 2">RU  Kanal 2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##2" xmltv_id="RU  TV3">RU  TV3</channel>
-    <channel update="i" site="telia.ee" site_id="RU##223" xmltv_id="RU  TV6">RU  TV6</channel>
-    <channel update="i" site="telia.ee" site_id="RU##221" xmltv_id="RU  TV3 Life">RU  TV3 Life</channel>
-    <channel update="i" site="telia.ee" site_id="RU##101" xmltv_id="RU  Duo 4">RU  Duo 4</channel>
-    <channel update="i" site="telia.ee" site_id="RU##728" xmltv_id="RU  Duo 5">RU  Duo 5</channel>
-    <channel update="i" site="telia.ee" site_id="RU##77" xmltv_id="RU  Fox">RU  Fox</channel>
-    <channel update="i" site="telia.ee" site_id="RU##105" xmltv_id="RU  Fox Life">RU  Fox Life</channel>
-    <channel update="i" site="telia.ee" site_id="RU##257" xmltv_id="RU  Duo 3">RU  Duo 3</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1080" xmltv_id="RU  Duo 6">RU  Duo 6</channel>
-    <channel update="i" site="telia.ee" site_id="RU##823" xmltv_id="RU  TLC">RU  TLC</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1346" xmltv_id="RU  HGTV">RU  HGTV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1238" xmltv_id="RU  Filmzone">RU  Filmzone</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1239" xmltv_id="RU  Filmzone+">RU  Filmzone+</channel>
-    <channel update="i" site="telia.ee" site_id="RU##829" xmltv_id="RU  AMC">RU  AMC</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1264" xmltv_id="RU  BBC Earth">RU  BBC Earth</channel>
-    <channel update="i" site="telia.ee" site_id="RU##8" xmltv_id="RU  TVXXI">RU  TVXXI</channel>
-    <channel update="i" site="telia.ee" site_id="RU##95" xmltv_id="RU  Дом Кино (Вещание остановлено)">RU  Дом Кино (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1333" xmltv_id="RU  Eesti Kanal">RU  Eesti Kanal</channel>
-    <channel update="i" site="telia.ee" site_id="RU##224" xmltv_id="RU  TV1000 East">RU  TV1000 East</channel>
-    <channel update="i" site="telia.ee" site_id="RU##225" xmltv_id="RU  TV1000 World Kino">RU  TV1000 World Kino</channel>
-    <channel update="i" site="telia.ee" site_id="RU##226" xmltv_id="RU  TV3 Film">RU  TV3 Film</channel>
-    <channel update="i" site="telia.ee" site_id="RU##227" xmltv_id="RU  TV1000 Action">RU  TV1000 Action</channel>
-    <channel update="i" site="telia.ee" site_id="RU##26" xmltv_id="RU  Discovery Channel">RU  Discovery Channel</channel>
-    <channel update="i" site="telia.ee" site_id="RU##32" xmltv_id="RU  ID">RU  ID</channel>
-    <channel update="i" site="telia.ee" site_id="RU##33" xmltv_id="RU  Discovery Science">RU  Discovery Science</channel>
-    <channel update="i" site="telia.ee" site_id="RU##217" xmltv_id="RU  DTX">RU  DTX</channel>
-    <channel update="i" site="telia.ee" site_id="RU##251" xmltv_id="RU  History Channel">RU  History Channel</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1236" xmltv_id="RU  HISTORY2">RU  HISTORY2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##231" xmltv_id="RU  Viasat History">RU  Viasat History</channel>
-    <channel update="i" site="telia.ee" site_id="RU##19" xmltv_id="RU  National Geographic">RU  National Geographic</channel>
-    <channel update="i" site="telia.ee" site_id="RU##79" xmltv_id="RU  Nat Geo Wild">RU  Nat Geo Wild</channel>
-    <channel update="i" site="telia.ee" site_id="RU##716" xmltv_id="RU  Viasat Nature">RU  Viasat Nature</channel>
-    <channel update="i" site="telia.ee" site_id="RU##31" xmltv_id="RU  Animal Planet">RU  Animal Planet</channel>
-    <channel update="i" site="telia.ee" site_id="RU##230" xmltv_id="RU  Viasat Explore">RU  Viasat Explore</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1292" xmltv_id="RU  Epic Drama">RU  Epic Drama</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1303" xmltv_id="RU  VIP Comedy">RU  VIP Comedy</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1086" xmltv_id="RU  Kidzone">RU  Kidzone</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1344" xmltv_id="RU  Smartzone">RU  Smartzone</channel>
-    <channel update="i" site="telia.ee" site_id="RU##102" xmltv_id="RU  Disney Channel">RU  Disney Channel</channel>
-    <channel update="i" site="telia.ee" site_id="RU##103" xmltv_id="RU  Disney Junior">RU  Disney Junior</channel>
-    <channel update="i" site="telia.ee" site_id="RU##55" xmltv_id="RU  Cartoon Network">RU  Cartoon Network</channel>
-    <channel update="i" site="telia.ee" site_id="RU##58" xmltv_id="RU  Nickelodeon">RU  Nickelodeon</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1300" xmltv_id="RU  nick Jr.">RU  nick Jr.</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1301" xmltv_id="RU  nicktoons">RU  nicktoons</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1293" xmltv_id="RU  Kidzone Mini">RU  Kidzone Mini</channel>
-    <channel update="i" site="telia.ee" site_id="RU##57" xmltv_id="RU  Boomerang">RU  Boomerang</channel>
-    <channel update="i" site="telia.ee" site_id="RU##17" xmltv_id="RU  Super RTL">RU  Super RTL</channel>
-    <channel update="i" site="telia.ee" site_id="RU##75" xmltv_id="RU  Карусель (Вещание остановлено)">RU  Карусель (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##35" xmltv_id="RU  Eurosport">RU  Eurosport</channel>
-    <channel update="i" site="telia.ee" site_id="RU##51" xmltv_id="RU  Eurosport 2">RU  Eurosport 2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1206" xmltv_id="RU  Setanta Sports">RU  Setanta Sports</channel>
-    <channel update="i" site="telia.ee" site_id="RU##228" xmltv_id="RU  TV3 Sport">RU  TV3 Sport</channel>
-    <channel update="i" site="telia.ee" site_id="RU##229" xmltv_id="RU  TV3 Sport2">RU  TV3 Sport2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##262" xmltv_id="RU  Футбол">RU  Футбол</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1268" xmltv_id="RU  Fight Sports">RU  Fight Sports</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1341" xmltv_id="RU  1+2">RU  1+2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##74" xmltv_id="RU  Охота и Рыбалка">RU  Охота и Рыбалка</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1222" xmltv_id="RU  Travel Channel">RU  Travel Channel</channel>
-    <channel update="i" site="telia.ee" site_id="RU##151" xmltv_id="RU  Моя Планета">RU  Моя Планета</channel>
-    <channel update="i" site="telia.ee" site_id="RU##703" xmltv_id="RU  Телекафе (Вещание остановлено)">RU  Телекафе (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##737" xmltv_id="RU  Усадьба">RU  Усадьба</channel>
-    <channel update="i" site="telia.ee" site_id="RU##54" xmltv_id="RU  Fashion TV">RU  Fashion TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##220" xmltv_id="RU  LIFE TV">RU  LIFE TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##248" xmltv_id="RU  TAEVAS TV7">RU  TAEVAS TV7</channel>
-    <channel update="i" site="telia.ee" site_id="RU##76" xmltv_id="RU  MyHits">RU  MyHits</channel>
-    <channel update="i" site="telia.ee" site_id="RU##157" xmltv_id="RU  ALO-TV">RU  ALO-TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##39" xmltv_id="RU  MTV Europe">RU  MTV Europe</channel>
-    <channel update="i" site="telia.ee" site_id="RU##84" xmltv_id="RU  MCM TOP">RU  MCM TOP</channel>
-    <channel update="i" site="telia.ee" site_id="RU##83" xmltv_id="RU  RFM TV">RU  RFM TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##70" xmltv_id="RU  MTV Club">RU  MTV Club</channel>
-    <channel update="i" site="telia.ee" site_id="RU##71" xmltv_id="RU  MTV Hits">RU  MTV Hits</channel>
-    <channel update="i" site="telia.ee" site_id="RU##69" xmltv_id="RU  MTV 90s">RU  MTV 90s</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1302" xmltv_id="RU  MTV Live HD">RU  MTV Live HD</channel>
-    <channel update="i" site="telia.ee" site_id="RU##38" xmltv_id="RU  MTV 00s">RU  MTV 00s</channel>
-    <channel update="i" site="telia.ee" site_id="RU##72" xmltv_id="RU  MTV 80s">RU  MTV 80s</channel>
-    <channel update="i" site="telia.ee" site_id="RU##731" xmltv_id="RU  iConcerts">RU  iConcerts</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1129" xmltv_id="RU  DJAZZ.tv">RU  DJAZZ.tv</channel>
-    <channel update="i" site="telia.ee" site_id="RU##790" xmltv_id="RU  Classica">RU  Classica</channel>
-    <channel update="i" site="telia.ee" site_id="RU##789" xmltv_id="RU  Mezzo Live HD">RU  Mezzo Live HD</channel>
-    <channel update="i" site="telia.ee" site_id="RU##36" xmltv_id="RU  Mezzo">RU  Mezzo</channel>
-    <channel update="i" site="telia.ee" site_id="RU##59" xmltv_id="RU  Euronews">RU  Euronews</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1286" xmltv_id="RU  Euronews Rus">RU  Euronews Rus</channel>
-    <channel update="i" site="telia.ee" site_id="RU##52" xmltv_id="RU  BBC World">RU  BBC World</channel>
-    <channel update="i" site="telia.ee" site_id="RU##50" xmltv_id="RU  CNN International">RU  CNN International</channel>
-    <channel update="i" site="telia.ee" site_id="RU##82" xmltv_id="RU  CNBC Europe">RU  CNBC Europe</channel>
-    <channel update="i" site="telia.ee" site_id="RU##91" xmltv_id="RU  SKY News">RU  SKY News</channel>
-    <channel update="i" site="telia.ee" site_id="RU##89" xmltv_id="RU  Al Jazeera">RU  Al Jazeera</channel>
-    <channel update="i" site="telia.ee" site_id="RU##81" xmltv_id="RU  Bloomberg TV">RU  Bloomberg TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1348" xmltv_id="RU  Nastojaheje Vremja">RU  Nastojaheje Vremja</channel>
-    <channel update="i" site="telia.ee" site_id="RU##97" xmltv_id="RU  РБК ТВ (Вещание остановлено)">RU  РБК ТВ (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##153" xmltv_id="RU  Россия 24 (Вещание остановлено)">RU  Россия 24 (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##73" xmltv_id="RU  Deutsche Welle">RU  Deutsche Welle</channel>
-    <channel update="i" site="telia.ee" site_id="RU##145" xmltv_id="RU  n-tv">RU  n-tv</channel>
-    <channel update="i" site="telia.ee" site_id="RU##143" xmltv_id="RU  France 24">RU  France 24</channel>
-    <channel update="i" site="telia.ee" site_id="RU##12" xmltv_id="RU  YLE TV1">RU  YLE TV1</channel>
-    <channel update="i" site="telia.ee" site_id="RU##13" xmltv_id="RU  YLE TV2">RU  YLE TV2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1347" xmltv_id="RU  Ukraina 24">RU  Ukraina 24</channel>
-    <channel update="i" site="telia.ee" site_id="RU##141" xmltv_id="RU  Orsent TV">RU  Orsent TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##140" xmltv_id="RU  TVN">RU  TVN</channel>
-    <channel update="i" site="telia.ee" site_id="RU##256" xmltv_id="RU  France 2">RU  France 2</channel>
-    <channel update="i" site="telia.ee" site_id="RU##24" xmltv_id="RU  Arte">RU  Arte</channel>
-    <channel update="i" site="telia.ee" site_id="RU##60" xmltv_id="RU  PRO 7">RU  PRO 7</channel>
-    <channel update="i" site="telia.ee" site_id="RU##11" xmltv_id="RU  SAT 1">RU  SAT 1</channel>
-    <channel update="i" site="telia.ee" site_id="RU##20" xmltv_id="RU  RTL">RU  RTL</channel>
-    <channel update="i" site="telia.ee" site_id="RU##85" xmltv_id="RU  TV5MONDE Europe">RU  TV5MONDE Europe</channel>
-    <channel update="i" site="telia.ee" site_id="RU##255" xmltv_id="RU  TVEi">RU  TVEi</channel>
-    <channel update="i" site="telia.ee" site_id="RU##86" xmltv_id="RU  RAI Uno">RU  RAI Uno</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1252" xmltv_id="RU  ETV+">RU  ETV+</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1343" xmltv_id="RU  Duo 7">RU  Duo 7</channel>
-    <channel update="i" site="telia.ee" site_id="RU##28" xmltv_id="RU  ПБК (Вещание остановлено)">RU  ПБК (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##18" xmltv_id="RU  РТР Планета (Вещание остановлено)">RU  РТР Планета (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##14" xmltv_id="RU  НТВ Мир (Вещание остановлено)">RU  НТВ Мир (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1289" xmltv_id="RU  НТВ Сериал (Вещание остановлено)">RU  НТВ Сериал (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1279" xmltv_id="RU  ТНТ Комедия">RU  ТНТ Комедия</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1087" xmltv_id="RU  СТС (Вещание остановлено)">RU  СТС (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1304" xmltv_id="RU  Пятница!">RU  Пятница!</channel>
-    <channel update="i" site="telia.ee" site_id="RU##23" xmltv_id="RU  РЕН ТВ (Вещание остановлено)">RU  РЕН ТВ (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1325" xmltv_id="RU  Кинокомедия (Вещание остановлено)\r\n">RU  Кинокомедия (Вещание остановлено)\r\n</channel>
-    <channel update="i" site="telia.ee" site_id="RU##717" xmltv_id="RU  TVCI (Вещание остановлено)">RU  TVCI (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##828" xmltv_id="RU  Дождь">RU  Дождь</channel>
-    <channel update="i" site="telia.ee" site_id="RU##94" xmltv_id="RU  Время (Вещание остановлено)">RU  Время (Вещание остановлено)</channel>
-    <channel update="i" site="telia.ee" site_id="RU##261" xmltv_id="RU  TBN Baltia">RU  TBN Baltia</channel>
-    <channel update="i" site="telia.ee" site_id="RU##90" xmltv_id="RU  Hustler TV">RU  Hustler TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##148" xmltv_id="RU  Private TV">RU  Private TV</channel>
-    <channel update="i" site="telia.ee" site_id="RU##1088" xmltv_id="RU  DUSK!">RU  DUSK!</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1" xmltv_id="telia (ET) ETV">(ET) ETV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1338" xmltv_id="telia (ET) Inspira">(ET) Inspira</channel>
+    <channel update="i" site="telia.ee" site_id="ET##111" xmltv_id="telia (ET) ETV 2">(ET) ETV 2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##3" xmltv_id="telia (ET) Kanal 2">(ET) Kanal 2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##2" xmltv_id="telia (ET) TV3">(ET) TV3</channel>
+    <channel update="i" site="telia.ee" site_id="ET##223" xmltv_id="telia (ET) TV6">(ET) TV6</channel>
+    <channel update="i" site="telia.ee" site_id="ET##221" xmltv_id="telia (ET) TV3 Life">(ET) TV3 Life</channel>
+    <channel update="i" site="telia.ee" site_id="ET##257" xmltv_id="telia (ET) Duo 3">(ET) Duo 3</channel>
+    <channel update="i" site="telia.ee" site_id="ET##101" xmltv_id="telia (ET) Duo 4">(ET) Duo 4</channel>
+    <channel update="i" site="telia.ee" site_id="ET##728" xmltv_id="telia (ET) Duo 5">(ET) Duo 5</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1080" xmltv_id="telia (ET) Duo 6">(ET) Duo 6</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1333" xmltv_id="telia (ET) Eesti Kanal">(ET) Eesti Kanal</channel>
+    <channel update="i" site="telia.ee" site_id="ET##77" xmltv_id="telia (ET) Fox">(ET) Fox</channel>
+    <channel update="i" site="telia.ee" site_id="ET##105" xmltv_id="telia (ET) Fox Life">(ET) Fox Life</channel>
+    <channel update="i" site="telia.ee" site_id="ET##823" xmltv_id="telia (ET) TLC">(ET) TLC</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1346" xmltv_id="telia (ET) HGTV">(ET) HGTV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1238" xmltv_id="telia (ET) Filmzone">(ET) Filmzone</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1239" xmltv_id="telia (ET) Filmzone+">(ET) Filmzone+</channel>
+    <channel update="i" site="telia.ee" site_id="ET##829" xmltv_id="telia (ET) AMC">(ET) AMC</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1264" xmltv_id="telia (ET) BBC Earth">(ET) BBC Earth</channel>
+    <channel update="i" site="telia.ee" site_id="ET##8" xmltv_id="telia (ET) TVXXI">(ET) TVXXI</channel>
+    <channel update="i" site="telia.ee" site_id="ET##224" xmltv_id="telia (ET) TV1000 East">(ET) TV1000 East</channel>
+    <channel update="i" site="telia.ee" site_id="ET##225" xmltv_id="telia (ET) TV1000 World Kino">(ET) TV1000 World Kino</channel>
+    <channel update="i" site="telia.ee" site_id="ET##226" xmltv_id="telia (ET) TV3 Film">(ET) TV3 Film</channel>
+    <channel update="i" site="telia.ee" site_id="ET##227" xmltv_id="telia (ET) TV1000 Action">(ET) TV1000 Action</channel>
+    <channel update="i" site="telia.ee" site_id="ET##26" xmltv_id="telia (ET) Discovery Channel">(ET) Discovery Channel</channel>
+    <channel update="i" site="telia.ee" site_id="ET##32" xmltv_id="telia (ET) ID">(ET) ID</channel>
+    <channel update="i" site="telia.ee" site_id="ET##33" xmltv_id="telia (ET) Discovery Science">(ET) Discovery Science</channel>
+    <channel update="i" site="telia.ee" site_id="ET##217" xmltv_id="telia (ET) DTX">(ET) DTX</channel>
+    <channel update="i" site="telia.ee" site_id="ET##251" xmltv_id="telia (ET) History Channel">(ET) History Channel</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1236" xmltv_id="telia (ET) HISTORY2">(ET) HISTORY2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##231" xmltv_id="telia (ET) Viasat History">(ET) Viasat History</channel>
+    <channel update="i" site="telia.ee" site_id="ET##19" xmltv_id="telia (ET) National Geographic">(ET) National Geographic</channel>
+    <channel update="i" site="telia.ee" site_id="ET##79" xmltv_id="telia (ET) Nat Geo Wild">(ET) Nat Geo Wild</channel>
+    <channel update="i" site="telia.ee" site_id="ET##716" xmltv_id="telia (ET) Viasat Nature">(ET) Viasat Nature</channel>
+    <channel update="i" site="telia.ee" site_id="ET##31" xmltv_id="telia (ET) Animal Planet">(ET) Animal Planet</channel>
+    <channel update="i" site="telia.ee" site_id="ET##230" xmltv_id="telia (ET) Viasat Explore">(ET) Viasat Explore</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1292" xmltv_id="telia (ET) Epic Drama">(ET) Epic Drama</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1303" xmltv_id="telia (ET) VIP Comedy">(ET) VIP Comedy</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1086" xmltv_id="telia (ET) Kidzone">(ET) Kidzone</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1344" xmltv_id="telia (ET) Smartzone">(ET) Smartzone</channel>
+    <channel update="i" site="telia.ee" site_id="ET##102" xmltv_id="telia (ET) Disney Channel">(ET) Disney Channel</channel>
+    <channel update="i" site="telia.ee" site_id="ET##103" xmltv_id="telia (ET) Disney Junior">(ET) Disney Junior</channel>
+    <channel update="i" site="telia.ee" site_id="ET##55" xmltv_id="telia (ET) Cartoon Network">(ET) Cartoon Network</channel>
+    <channel update="i" site="telia.ee" site_id="ET##58" xmltv_id="telia (ET) Nickelodeon">(ET) Nickelodeon</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1300" xmltv_id="telia (ET) nick Jr.">(ET) nick Jr.</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1301" xmltv_id="telia (ET) nicktoons">(ET) nicktoons</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1293" xmltv_id="telia (ET) Kidzone Mini">(ET) Kidzone Mini</channel>
+    <channel update="i" site="telia.ee" site_id="ET##57" xmltv_id="telia (ET) Boomerang">(ET) Boomerang</channel>
+    <channel update="i" site="telia.ee" site_id="ET##17" xmltv_id="telia (ET) Super RTL">(ET) Super RTL</channel>
+    <channel update="i" site="telia.ee" site_id="ET##35" xmltv_id="telia (ET) Eurosport">(ET) Eurosport</channel>
+    <channel update="i" site="telia.ee" site_id="ET##51" xmltv_id="telia (ET) Eurosport 2">(ET) Eurosport 2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1206" xmltv_id="telia (ET) Setanta Sports">(ET) Setanta Sports</channel>
+    <channel update="i" site="telia.ee" site_id="ET##228" xmltv_id="telia (ET) TV3 Sport">(ET) TV3 Sport</channel>
+    <channel update="i" site="telia.ee" site_id="ET##229" xmltv_id="telia (ET) TV3 Sport2">(ET) TV3 Sport2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1268" xmltv_id="telia (ET) Fight Sports">(ET) Fight Sports</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1222" xmltv_id="telia (ET) Travel Channel">(ET) Travel Channel</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1224" xmltv_id="telia (ET) Food Network">(ET) Food Network</channel>
+    <channel update="i" site="telia.ee" site_id="ET##54" xmltv_id="telia (ET) Fashion TV">(ET) Fashion TV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##220" xmltv_id="telia (ET) LIFE TV">(ET) LIFE TV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##248" xmltv_id="telia (ET) TAEVAS TV7">(ET) TAEVAS TV7</channel>
+    <channel update="i" site="telia.ee" site_id="ET##76" xmltv_id="telia (ET) MyHits">(ET) MyHits</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1297" xmltv_id="telia (ET) НЕБЕСА ТВ7">(ET) НЕБЕСА ТВ7</channel>
+    <channel update="i" site="telia.ee" site_id="ET##157" xmltv_id="telia (ET) ALO-TV">(ET) ALO-TV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##39" xmltv_id="telia (ET) MTV Europe">(ET) MTV Europe</channel>
+    <channel update="i" site="telia.ee" site_id="ET##84" xmltv_id="telia (ET) MCM TOP">(ET) MCM TOP</channel>
+    <channel update="i" site="telia.ee" site_id="ET##83" xmltv_id="telia (ET) RFM TV">(ET) RFM TV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##70" xmltv_id="telia (ET) MTV Club">(ET) MTV Club</channel>
+    <channel update="i" site="telia.ee" site_id="ET##71" xmltv_id="telia (ET) MTV Hits">(ET) MTV Hits</channel>
+    <channel update="i" site="telia.ee" site_id="ET##69" xmltv_id="telia (ET) MTV 90s">(ET) MTV 90s</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1302" xmltv_id="telia (ET) MTV Live HD">(ET) MTV Live HD</channel>
+    <channel update="i" site="telia.ee" site_id="ET##38" xmltv_id="telia (ET) MTV 00s">(ET) MTV 00s</channel>
+    <channel update="i" site="telia.ee" site_id="ET##72" xmltv_id="telia (ET) MTV 80s">(ET) MTV 80s</channel>
+    <channel update="i" site="telia.ee" site_id="ET##731" xmltv_id="telia (ET) iConcerts">(ET) iConcerts</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1129" xmltv_id="telia (ET) DJAZZ.tv">(ET) DJAZZ.tv</channel>
+    <channel update="i" site="telia.ee" site_id="ET##790" xmltv_id="telia (ET) Classica">(ET) Classica</channel>
+    <channel update="i" site="telia.ee" site_id="ET##789" xmltv_id="telia (ET) Mezzo Live HD">(ET) Mezzo Live HD</channel>
+    <channel update="i" site="telia.ee" site_id="ET##36" xmltv_id="telia (ET) Mezzo">(ET) Mezzo</channel>
+    <channel update="i" site="telia.ee" site_id="ET##59" xmltv_id="telia (ET) Euronews">(ET) Euronews</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1286" xmltv_id="telia (ET) Euronews Rus">(ET) Euronews Rus</channel>
+    <channel update="i" site="telia.ee" site_id="ET##52" xmltv_id="telia (ET) BBC World">(ET) BBC World</channel>
+    <channel update="i" site="telia.ee" site_id="ET##50" xmltv_id="telia (ET) CNN International">(ET) CNN International</channel>
+    <channel update="i" site="telia.ee" site_id="ET##82" xmltv_id="telia (ET) CNBC Europe">(ET) CNBC Europe</channel>
+    <channel update="i" site="telia.ee" site_id="ET##91" xmltv_id="telia (ET) SKY News">(ET) SKY News</channel>
+    <channel update="i" site="telia.ee" site_id="ET##89" xmltv_id="telia (ET) Al Jazeera">(ET) Al Jazeera</channel>
+    <channel update="i" site="telia.ee" site_id="ET##81" xmltv_id="telia (ET) Bloomberg TV">(ET) Bloomberg TV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1348" xmltv_id="telia (ET) Current Time">(ET) Current Time</channel>
+    <channel update="i" site="telia.ee" site_id="ET##73" xmltv_id="telia (ET) Deutsche Welle">(ET) Deutsche Welle</channel>
+    <channel update="i" site="telia.ee" site_id="ET##145" xmltv_id="telia (ET) n-tv">(ET) n-tv</channel>
+    <channel update="i" site="telia.ee" site_id="ET##143" xmltv_id="telia (ET) France 24">(ET) France 24</channel>
+    <channel update="i" site="telia.ee" site_id="ET##12" xmltv_id="telia (ET) YLE TV1">(ET) YLE TV1</channel>
+    <channel update="i" site="telia.ee" site_id="ET##13" xmltv_id="telia (ET) YLE TV2">(ET) YLE TV2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1259" xmltv_id="telia (ET) SVT1">(ET) SVT1</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1260" xmltv_id="telia (ET) SVT2">(ET) SVT2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1347" xmltv_id="telia (ET) Ukraina 24">(ET) Ukraina 24</channel>
+    <channel update="i" site="telia.ee" site_id="ET##141" xmltv_id="telia (ET) Orsent TV">(ET) Orsent TV</channel>
+    <channel update="i" site="telia.ee" site_id="ET##140" xmltv_id="telia (ET) TVN">(ET) TVN</channel>
+    <channel update="i" site="telia.ee" site_id="ET##256" xmltv_id="telia (ET) France 2">(ET) France 2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##24" xmltv_id="telia (ET) Arte">(ET) Arte</channel>
+    <channel update="i" site="telia.ee" site_id="ET##60" xmltv_id="telia (ET) PRO 7">(ET) PRO 7</channel>
+    <channel update="i" site="telia.ee" site_id="ET##11" xmltv_id="telia (ET) SAT 1">(ET) SAT 1</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1230" xmltv_id="telia (ET) ZDF">(ET) ZDF</channel>
+    <channel update="i" site="telia.ee" site_id="ET##20" xmltv_id="telia (ET) RTL">(ET) RTL</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1229" xmltv_id="telia (ET) RTL2">(ET) RTL2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##85" xmltv_id="telia (ET) TV5MONDE Europe">(ET) TV5MONDE Europe</channel>
+    <channel update="i" site="telia.ee" site_id="ET##255" xmltv_id="telia (ET) TVEi">(ET) TVEi</channel>
+    <channel update="i" site="telia.ee" site_id="ET##86" xmltv_id="telia (ET) RAI Uno">(ET) RAI Uno</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1252" xmltv_id="telia (ET) ETV+">(ET) ETV+</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1343" xmltv_id="telia (ET) Kanal 7">(ET) Kanal 7</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1349" xmltv_id="telia (ET) 3+">(ET) 3+</channel>
+    <channel update="i" site="telia.ee" site_id="ET##828" xmltv_id="telia (ET) Dožd">(ET) Dožd</channel>
+    <channel update="i" site="telia.ee" site_id="ET##261" xmltv_id="telia (ET) TBN Baltia">(ET) TBN Baltia</channel>
+    <channel update="i" site="telia.ee" site_id="ET##725" xmltv_id="telia (ET) Test 1">(ET) Test 1</channel>
+    <channel update="i" site="telia.ee" site_id="ET##698" xmltv_id="telia (ET) Test 2">(ET) Test 2</channel>
+    <channel update="i" site="telia.ee" site_id="ET##687" xmltv_id="telia (ET) Test 3">(ET) Test 3</channel>
+    <channel update="i" site="telia.ee" site_id="ET##694" xmltv_id="telia (ET) Test 5">(ET) Test 5</channel>
+    <channel update="i" site="telia.ee" site_id="ET##724" xmltv_id="telia (ET) Test 6">(ET) Test 6</channel>
+    <channel update="i" site="telia.ee" site_id="ET##826" xmltv_id="telia (ET) Test 7">(ET) Test 7</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1315" xmltv_id="telia (ET) Test 8">(ET) Test 8</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1316" xmltv_id="telia (ET) Test 9">(ET) Test 9</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1317" xmltv_id="telia (ET) Test 10">(ET) Test 10</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1318" xmltv_id="telia (ET) Test 11">(ET) Test 11</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1319" xmltv_id="telia (ET) Test 12">(ET) Test 12</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1320" xmltv_id="telia (ET) Test 13">(ET) Test 13</channel>
+    <channel update="i" site="telia.ee" site_id="ET##1321" xmltv_id="telia (ET) Test 14">(ET) Test 14</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1" xmltv_id="telia (EN) ETV">(EN) ETV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1338" xmltv_id="telia (EN) Inspira">(EN) Inspira</channel>
+    <channel update="i" site="telia.ee" site_id="EN##111" xmltv_id="telia (EN) ETV 2">(EN) ETV 2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##3" xmltv_id="telia (EN) Kanal 2">(EN) Kanal 2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##2" xmltv_id="telia (EN) TV3">(EN) TV3</channel>
+    <channel update="i" site="telia.ee" site_id="EN##223" xmltv_id="telia (EN) TV6">(EN) TV6</channel>
+    <channel update="i" site="telia.ee" site_id="EN##221" xmltv_id="telia (EN) TV3 Life">(EN) TV3 Life</channel>
+    <channel update="i" site="telia.ee" site_id="EN##257" xmltv_id="telia (EN) Duo 3">(EN) Duo 3</channel>
+    <channel update="i" site="telia.ee" site_id="EN##101" xmltv_id="telia (EN) Duo 4">(EN) Duo 4</channel>
+    <channel update="i" site="telia.ee" site_id="EN##728" xmltv_id="telia (EN) Duo 5">(EN) Duo 5</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1080" xmltv_id="telia (EN) Duo 6">(EN) Duo 6</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1333" xmltv_id="telia (EN) Eesti Kanal">(EN) Eesti Kanal</channel>
+    <channel update="i" site="telia.ee" site_id="EN##77" xmltv_id="telia (EN) Fox">(EN) Fox</channel>
+    <channel update="i" site="telia.ee" site_id="EN##105" xmltv_id="telia (EN) Fox Life">(EN) Fox Life</channel>
+    <channel update="i" site="telia.ee" site_id="EN##823" xmltv_id="telia (EN) TLC">(EN) TLC</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1346" xmltv_id="telia (EN) HGTV">(EN) HGTV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1238" xmltv_id="telia (EN) Filmzone">(EN) Filmzone</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1239" xmltv_id="telia (EN) Filmzone+">(EN) Filmzone+</channel>
+    <channel update="i" site="telia.ee" site_id="EN##829" xmltv_id="telia (EN) AMC">(EN) AMC</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1264" xmltv_id="telia (EN) BBC Earth">(EN) BBC Earth</channel>
+    <channel update="i" site="telia.ee" site_id="EN##8" xmltv_id="telia (EN) TVXXI">(EN) TVXXI</channel>
+    <channel update="i" site="telia.ee" site_id="EN##224" xmltv_id="telia (EN) TV1000 East">(EN) TV1000 East</channel>
+    <channel update="i" site="telia.ee" site_id="EN##225" xmltv_id="telia (EN) TV1000 World Kino">(EN) TV1000 World Kino</channel>
+    <channel update="i" site="telia.ee" site_id="EN##226" xmltv_id="telia (EN) TV3 Film">(EN) TV3 Film</channel>
+    <channel update="i" site="telia.ee" site_id="EN##227" xmltv_id="telia (EN) TV1000 Action">(EN) TV1000 Action</channel>
+    <channel update="i" site="telia.ee" site_id="EN##26" xmltv_id="telia (EN) Discovery Channel">(EN) Discovery Channel</channel>
+    <channel update="i" site="telia.ee" site_id="EN##32" xmltv_id="telia (EN) ID">(EN) ID</channel>
+    <channel update="i" site="telia.ee" site_id="EN##33" xmltv_id="telia (EN) Discovery Science">(EN) Discovery Science</channel>
+    <channel update="i" site="telia.ee" site_id="EN##217" xmltv_id="telia (EN) DTX">(EN) DTX</channel>
+    <channel update="i" site="telia.ee" site_id="EN##251" xmltv_id="telia (EN) History Channel">(EN) History Channel</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1236" xmltv_id="telia (EN) HISTORY2">(EN) HISTORY2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##231" xmltv_id="telia (EN) Viasat History">(EN) Viasat History</channel>
+    <channel update="i" site="telia.ee" site_id="EN##19" xmltv_id="telia (EN) National Geographic">(EN) National Geographic</channel>
+    <channel update="i" site="telia.ee" site_id="EN##79" xmltv_id="telia (EN) Nat Geo Wild">(EN) Nat Geo Wild</channel>
+    <channel update="i" site="telia.ee" site_id="EN##716" xmltv_id="telia (EN) Viasat Nature">(EN) Viasat Nature</channel>
+    <channel update="i" site="telia.ee" site_id="EN##31" xmltv_id="telia (EN) Animal Planet">(EN) Animal Planet</channel>
+    <channel update="i" site="telia.ee" site_id="EN##230" xmltv_id="telia (EN) Viasat Explore">(EN) Viasat Explore</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1292" xmltv_id="telia (EN) Epic Drama">(EN) Epic Drama</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1303" xmltv_id="telia (EN) VIP Comedy">(EN) VIP Comedy</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1086" xmltv_id="telia (EN) Kidzone">(EN) Kidzone</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1344" xmltv_id="telia (EN) Smartzone">(EN) Smartzone</channel>
+    <channel update="i" site="telia.ee" site_id="EN##102" xmltv_id="telia (EN) Disney Channel">(EN) Disney Channel</channel>
+    <channel update="i" site="telia.ee" site_id="EN##103" xmltv_id="telia (EN) Disney Junior">(EN) Disney Junior</channel>
+    <channel update="i" site="telia.ee" site_id="EN##55" xmltv_id="telia (EN) Cartoon Network">(EN) Cartoon Network</channel>
+    <channel update="i" site="telia.ee" site_id="EN##58" xmltv_id="telia (EN) Nickelodeon">(EN) Nickelodeon</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1300" xmltv_id="telia (EN) nick Jr.">(EN) nick Jr.</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1301" xmltv_id="telia (EN) nicktoons">(EN) nicktoons</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1293" xmltv_id="telia (EN) Kidzone Mini">(EN) Kidzone Mini</channel>
+    <channel update="i" site="telia.ee" site_id="EN##57" xmltv_id="telia (EN) Boomerang">(EN) Boomerang</channel>
+    <channel update="i" site="telia.ee" site_id="EN##17" xmltv_id="telia (EN) Super RTL">(EN) Super RTL</channel>
+    <channel update="i" site="telia.ee" site_id="EN##35" xmltv_id="telia (EN) Eurosport">(EN) Eurosport</channel>
+    <channel update="i" site="telia.ee" site_id="EN##51" xmltv_id="telia (EN) Eurosport 2">(EN) Eurosport 2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1206" xmltv_id="telia (EN) Setanta Sports">(EN) Setanta Sports</channel>
+    <channel update="i" site="telia.ee" site_id="EN##228" xmltv_id="telia (EN) TV3 Sport">(EN) TV3 Sport</channel>
+    <channel update="i" site="telia.ee" site_id="EN##229" xmltv_id="telia (EN) TV3 Sport2">(EN) TV3 Sport2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1268" xmltv_id="telia (EN) Fight Sports">(EN) Fight Sports</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1222" xmltv_id="telia (EN) Travel Channel">(EN) Travel Channel</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1224" xmltv_id="telia (EN) Food Network">(EN) Food Network</channel>
+    <channel update="i" site="telia.ee" site_id="EN##54" xmltv_id="telia (EN) Fashion TV">(EN) Fashion TV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##220" xmltv_id="telia (EN) LIFE TV">(EN) LIFE TV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##248" xmltv_id="telia (EN) TAEVAS TV7">(EN) TAEVAS TV7</channel>
+    <channel update="i" site="telia.ee" site_id="EN##76" xmltv_id="telia (EN) MyHits">(EN) MyHits</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1297" xmltv_id="telia (EN) НЕБЕСА ТВ7">(EN) НЕБЕСА ТВ7</channel>
+    <channel update="i" site="telia.ee" site_id="EN##157" xmltv_id="telia (EN) ALO-TV">(EN) ALO-TV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##39" xmltv_id="telia (EN) MTV Europe">(EN) MTV Europe</channel>
+    <channel update="i" site="telia.ee" site_id="EN##84" xmltv_id="telia (EN) MCM TOP">(EN) MCM TOP</channel>
+    <channel update="i" site="telia.ee" site_id="EN##83" xmltv_id="telia (EN) RFM TV">(EN) RFM TV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##70" xmltv_id="telia (EN) MTV Club">(EN) MTV Club</channel>
+    <channel update="i" site="telia.ee" site_id="EN##71" xmltv_id="telia (EN) MTV Hits">(EN) MTV Hits</channel>
+    <channel update="i" site="telia.ee" site_id="EN##69" xmltv_id="telia (EN) MTV 90s">(EN) MTV 90s</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1302" xmltv_id="telia (EN) MTV Live HD">(EN) MTV Live HD</channel>
+    <channel update="i" site="telia.ee" site_id="EN##38" xmltv_id="telia (EN) MTV 00s">(EN) MTV 00s</channel>
+    <channel update="i" site="telia.ee" site_id="EN##72" xmltv_id="telia (EN) MTV 80s">(EN) MTV 80s</channel>
+    <channel update="i" site="telia.ee" site_id="EN##731" xmltv_id="telia (EN) iConcerts">(EN) iConcerts</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1129" xmltv_id="telia (EN) DJAZZ.tv">(EN) DJAZZ.tv</channel>
+    <channel update="i" site="telia.ee" site_id="EN##790" xmltv_id="telia (EN) Classica">(EN) Classica</channel>
+    <channel update="i" site="telia.ee" site_id="EN##789" xmltv_id="telia (EN) Mezzo Live HD">(EN) Mezzo Live HD</channel>
+    <channel update="i" site="telia.ee" site_id="EN##36" xmltv_id="telia (EN) Mezzo">(EN) Mezzo</channel>
+    <channel update="i" site="telia.ee" site_id="EN##59" xmltv_id="telia (EN) Euronews">(EN) Euronews</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1286" xmltv_id="telia (EN) Euronews Rus">(EN) Euronews Rus</channel>
+    <channel update="i" site="telia.ee" site_id="EN##52" xmltv_id="telia (EN) BBC World">(EN) BBC World</channel>
+    <channel update="i" site="telia.ee" site_id="EN##50" xmltv_id="telia (EN) CNN International">(EN) CNN International</channel>
+    <channel update="i" site="telia.ee" site_id="EN##82" xmltv_id="telia (EN) CNBC Europe">(EN) CNBC Europe</channel>
+    <channel update="i" site="telia.ee" site_id="EN##91" xmltv_id="telia (EN) SKY News">(EN) SKY News</channel>
+    <channel update="i" site="telia.ee" site_id="EN##89" xmltv_id="telia (EN) Al Jazeera">(EN) Al Jazeera</channel>
+    <channel update="i" site="telia.ee" site_id="EN##81" xmltv_id="telia (EN) Bloomberg TV">(EN) Bloomberg TV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1348" xmltv_id="telia (EN) Current Time">(EN) Current Time</channel>
+    <channel update="i" site="telia.ee" site_id="EN##73" xmltv_id="telia (EN) Deutsche Welle">(EN) Deutsche Welle</channel>
+    <channel update="i" site="telia.ee" site_id="EN##145" xmltv_id="telia (EN) n-tv">(EN) n-tv</channel>
+    <channel update="i" site="telia.ee" site_id="EN##143" xmltv_id="telia (EN) France 24">(EN) France 24</channel>
+    <channel update="i" site="telia.ee" site_id="EN##12" xmltv_id="telia (EN) YLE TV1">(EN) YLE TV1</channel>
+    <channel update="i" site="telia.ee" site_id="EN##13" xmltv_id="telia (EN) YLE TV2">(EN) YLE TV2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1259" xmltv_id="telia (EN) SVT1">(EN) SVT1</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1260" xmltv_id="telia (EN) SVT2">(EN) SVT2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1347" xmltv_id="telia (EN) Ukraine 24">(EN) Ukraine 24</channel>
+    <channel update="i" site="telia.ee" site_id="EN##141" xmltv_id="telia (EN) Orsent TV">(EN) Orsent TV</channel>
+    <channel update="i" site="telia.ee" site_id="EN##140" xmltv_id="telia (EN) TVN">(EN) TVN</channel>
+    <channel update="i" site="telia.ee" site_id="EN##256" xmltv_id="telia (EN) France 2">(EN) France 2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##24" xmltv_id="telia (EN) Arte">(EN) Arte</channel>
+    <channel update="i" site="telia.ee" site_id="EN##60" xmltv_id="telia (EN) PRO 7">(EN) PRO 7</channel>
+    <channel update="i" site="telia.ee" site_id="EN##11" xmltv_id="telia (EN) SAT 1">(EN) SAT 1</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1230" xmltv_id="telia (EN) ZDF">(EN) ZDF</channel>
+    <channel update="i" site="telia.ee" site_id="EN##20" xmltv_id="telia (EN) RTL">(EN) RTL</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1229" xmltv_id="telia (EN) RTL2">(EN) RTL2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##85" xmltv_id="telia (EN) TV5MONDE Europe">(EN) TV5MONDE Europe</channel>
+    <channel update="i" site="telia.ee" site_id="EN##255" xmltv_id="telia (EN) TVEi">(EN) TVEi</channel>
+    <channel update="i" site="telia.ee" site_id="EN##86" xmltv_id="telia (EN) RAI Uno">(EN) RAI Uno</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1252" xmltv_id="telia (EN) ETV+">(EN) ETV+</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1343" xmltv_id="telia (EN) Kanal 7">(EN) Kanal 7</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1349" xmltv_id="telia (EN) 3+">(EN) 3+</channel>
+    <channel update="i" site="telia.ee" site_id="EN##828" xmltv_id="telia (EN) Dozhd">(EN) Dozhd</channel>
+    <channel update="i" site="telia.ee" site_id="EN##261" xmltv_id="telia (EN) TBN Baltia">(EN) TBN Baltia</channel>
+    <channel update="i" site="telia.ee" site_id="EN##725" xmltv_id="telia (EN) Test 1">(EN) Test 1</channel>
+    <channel update="i" site="telia.ee" site_id="EN##698" xmltv_id="telia (EN) Test 2">(EN) Test 2</channel>
+    <channel update="i" site="telia.ee" site_id="EN##687" xmltv_id="telia (EN) Test 3">(EN) Test 3</channel>
+    <channel update="i" site="telia.ee" site_id="EN##694" xmltv_id="telia (EN) Test 5">(EN) Test 5</channel>
+    <channel update="i" site="telia.ee" site_id="EN##724" xmltv_id="telia (EN) Test 6">(EN) Test 6</channel>
+    <channel update="i" site="telia.ee" site_id="EN##826" xmltv_id="telia (EN) Test 7">(EN) Test 7</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1315" xmltv_id="telia (EN) Test 8">(EN) Test 8</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1316" xmltv_id="telia (EN) Test 9">(EN) Test 9</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1317" xmltv_id="telia (EN) Test 10">(EN) Test 10</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1318" xmltv_id="telia (EN) Test 11">(EN) Test 11</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1319" xmltv_id="telia (EN) Test 12">(EN) Test 12</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1320" xmltv_id="telia (EN) Test 13">(EN) Test 13</channel>
+    <channel update="i" site="telia.ee" site_id="EN##1321" xmltv_id="telia (EN) Test 14">(EN) Test 14</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1" xmltv_id="telia (RU) ETV">(RU) ETV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1338" xmltv_id="telia (RU) Inspira">(RU) Inspira</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1252" xmltv_id="telia (RU) ETV+">(RU) ETV+</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1343" xmltv_id="telia (RU) Kanal 7">(RU) Kanal 7</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1349" xmltv_id="telia (RU) 3+">(RU) 3+</channel>
+    <channel update="i" site="telia.ee" site_id="RU##828" xmltv_id="telia (RU) Дождь">(RU) Дождь</channel>
+    <channel update="i" site="telia.ee" site_id="RU##261" xmltv_id="telia (RU) TBN Baltia">(RU) TBN Baltia</channel>
+    <channel update="i" site="telia.ee" site_id="RU##111" xmltv_id="telia (RU) ETV 2">(RU) ETV 2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##3" xmltv_id="telia (RU) Kanal 2">(RU) Kanal 2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##2" xmltv_id="telia (RU) TV3">(RU) TV3</channel>
+    <channel update="i" site="telia.ee" site_id="RU##223" xmltv_id="telia (RU) TV6">(RU) TV6</channel>
+    <channel update="i" site="telia.ee" site_id="RU##221" xmltv_id="telia (RU) TV3 Life">(RU) TV3 Life</channel>
+    <channel update="i" site="telia.ee" site_id="RU##257" xmltv_id="telia (RU) Duo 3">(RU) Duo 3</channel>
+    <channel update="i" site="telia.ee" site_id="RU##101" xmltv_id="telia (RU) Duo 4">(RU) Duo 4</channel>
+    <channel update="i" site="telia.ee" site_id="RU##728" xmltv_id="telia (RU) Duo 5">(RU) Duo 5</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1080" xmltv_id="telia (RU) Duo 6">(RU) Duo 6</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1333" xmltv_id="telia (RU) Eesti Kanal">(RU) Eesti Kanal</channel>
+    <channel update="i" site="telia.ee" site_id="RU##77" xmltv_id="telia (RU) Fox">(RU) Fox</channel>
+    <channel update="i" site="telia.ee" site_id="RU##105" xmltv_id="telia (RU) Fox Life">(RU) Fox Life</channel>
+    <channel update="i" site="telia.ee" site_id="RU##823" xmltv_id="telia (RU) TLC">(RU) TLC</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1346" xmltv_id="telia (RU) HGTV">(RU) HGTV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##829" xmltv_id="telia (RU) AMC">(RU) AMC</channel>
+    <channel update="i" site="telia.ee" site_id="RU##8" xmltv_id="telia (RU) TVXXI">(RU) TVXXI</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1238" xmltv_id="telia (RU) Filmzone">(RU) Filmzone</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1239" xmltv_id="telia (RU) Filmzone+">(RU) Filmzone+</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1264" xmltv_id="telia (RU) BBC Earth">(RU) BBC Earth</channel>
+    <channel update="i" site="telia.ee" site_id="RU##224" xmltv_id="telia (RU) TV1000 East">(RU) TV1000 East</channel>
+    <channel update="i" site="telia.ee" site_id="RU##225" xmltv_id="telia (RU) TV1000 World Kino">(RU) TV1000 World Kino</channel>
+    <channel update="i" site="telia.ee" site_id="RU##226" xmltv_id="telia (RU) TV3 Film">(RU) TV3 Film</channel>
+    <channel update="i" site="telia.ee" site_id="RU##227" xmltv_id="telia (RU) TV1000 Action">(RU) TV1000 Action</channel>
+    <channel update="i" site="telia.ee" site_id="RU##26" xmltv_id="telia (RU) Discovery Channel">(RU) Discovery Channel</channel>
+    <channel update="i" site="telia.ee" site_id="RU##32" xmltv_id="telia (RU) ID">(RU) ID</channel>
+    <channel update="i" site="telia.ee" site_id="RU##33" xmltv_id="telia (RU) Discovery Science">(RU) Discovery Science</channel>
+    <channel update="i" site="telia.ee" site_id="RU##217" xmltv_id="telia (RU) DTX">(RU) DTX</channel>
+    <channel update="i" site="telia.ee" site_id="RU##251" xmltv_id="telia (RU) History Channel">(RU) History Channel</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1236" xmltv_id="telia (RU) HISTORY2">(RU) HISTORY2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##231" xmltv_id="telia (RU) Viasat History">(RU) Viasat History</channel>
+    <channel update="i" site="telia.ee" site_id="RU##19" xmltv_id="telia (RU) National Geographic">(RU) National Geographic</channel>
+    <channel update="i" site="telia.ee" site_id="RU##79" xmltv_id="telia (RU) Nat Geo Wild">(RU) Nat Geo Wild</channel>
+    <channel update="i" site="telia.ee" site_id="RU##716" xmltv_id="telia (RU) Viasat Nature">(RU) Viasat Nature</channel>
+    <channel update="i" site="telia.ee" site_id="RU##31" xmltv_id="telia (RU) Animal Planet">(RU) Animal Planet</channel>
+    <channel update="i" site="telia.ee" site_id="RU##230" xmltv_id="telia (RU) Viasat Explore">(RU) Viasat Explore</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1292" xmltv_id="telia (RU) Epic Drama">(RU) Epic Drama</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1303" xmltv_id="telia (RU) VIP Comedy">(RU) VIP Comedy</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1086" xmltv_id="telia (RU) Kidzone">(RU) Kidzone</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1344" xmltv_id="telia (RU) Smartzone">(RU) Smartzone</channel>
+    <channel update="i" site="telia.ee" site_id="RU##58" xmltv_id="telia (RU) Nickelodeon">(RU) Nickelodeon</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1300" xmltv_id="telia (RU) nick Jr.">(RU) nick Jr.</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1301" xmltv_id="telia (RU) nicktoons">(RU) nicktoons</channel>
+    <channel update="i" site="telia.ee" site_id="RU##102" xmltv_id="telia (RU) Disney Channel">(RU) Disney Channel</channel>
+    <channel update="i" site="telia.ee" site_id="RU##103" xmltv_id="telia (RU) Disney Junior">(RU) Disney Junior</channel>
+    <channel update="i" site="telia.ee" site_id="RU##55" xmltv_id="telia (RU) Cartoon Network">(RU) Cartoon Network</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1293" xmltv_id="telia (RU) Kidzone Mini">(RU) Kidzone Mini</channel>
+    <channel update="i" site="telia.ee" site_id="RU##57" xmltv_id="telia (RU) Boomerang">(RU) Boomerang</channel>
+    <channel update="i" site="telia.ee" site_id="RU##17" xmltv_id="telia (RU) Super RTL">(RU) Super RTL</channel>
+    <channel update="i" site="telia.ee" site_id="RU##35" xmltv_id="telia (RU) Eurosport">(RU) Eurosport</channel>
+    <channel update="i" site="telia.ee" site_id="RU##51" xmltv_id="telia (RU) Eurosport 2">(RU) Eurosport 2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1206" xmltv_id="telia (RU) Setanta Sports">(RU) Setanta Sports</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1268" xmltv_id="telia (RU) Fight Sports">(RU) Fight Sports</channel>
+    <channel update="i" site="telia.ee" site_id="RU##228" xmltv_id="telia (RU) TV3 Sport">(RU) TV3 Sport</channel>
+    <channel update="i" site="telia.ee" site_id="RU##229" xmltv_id="telia (RU) TV3 Sport2">(RU) TV3 Sport2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1222" xmltv_id="telia (RU) Travel Channel">(RU) Travel Channel</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1224" xmltv_id="telia (RU) Food Network">(RU) Food Network</channel>
+    <channel update="i" site="telia.ee" site_id="RU##54" xmltv_id="telia (RU) Fashion TV">(RU) Fashion TV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##39" xmltv_id="telia (RU) MTV Europe">(RU) MTV Europe</channel>
+    <channel update="i" site="telia.ee" site_id="RU##84" xmltv_id="telia (RU) MCM TOP">(RU) MCM TOP</channel>
+    <channel update="i" site="telia.ee" site_id="RU##83" xmltv_id="telia (RU) RFM TV">(RU) RFM TV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##70" xmltv_id="telia (RU) MTV Club">(RU) MTV Club</channel>
+    <channel update="i" site="telia.ee" site_id="RU##71" xmltv_id="telia (RU) MTV Hits">(RU) MTV Hits</channel>
+    <channel update="i" site="telia.ee" site_id="RU##69" xmltv_id="telia (RU) MTV 90s">(RU) MTV 90s</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1302" xmltv_id="telia (RU) MTV Live HD">(RU) MTV Live HD</channel>
+    <channel update="i" site="telia.ee" site_id="RU##38" xmltv_id="telia (RU) MTV 00s">(RU) MTV 00s</channel>
+    <channel update="i" site="telia.ee" site_id="RU##72" xmltv_id="telia (RU) MTV 80s">(RU) MTV 80s</channel>
+    <channel update="i" site="telia.ee" site_id="RU##731" xmltv_id="telia (RU) iConcerts">(RU) iConcerts</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1129" xmltv_id="telia (RU) DJAZZ.tv">(RU) DJAZZ.tv</channel>
+    <channel update="i" site="telia.ee" site_id="RU##790" xmltv_id="telia (RU) Classica">(RU) Classica</channel>
+    <channel update="i" site="telia.ee" site_id="RU##789" xmltv_id="telia (RU) Mezzo Live HD">(RU) Mezzo Live HD</channel>
+    <channel update="i" site="telia.ee" site_id="RU##36" xmltv_id="telia (RU) Mezzo">(RU) Mezzo</channel>
+    <channel update="i" site="telia.ee" site_id="RU##76" xmltv_id="telia (RU) MyHits">(RU) MyHits</channel>
+    <channel update="i" site="telia.ee" site_id="RU##157" xmltv_id="telia (RU) ALO-TV">(RU) ALO-TV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1286" xmltv_id="telia (RU) Euronews Rus">(RU) Euronews Rus</channel>
+    <channel update="i" site="telia.ee" site_id="RU##59" xmltv_id="telia (RU) Euronews">(RU) Euronews</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1348" xmltv_id="telia (RU) Настоящее время">(RU) Настоящее время</channel>
+    <channel update="i" site="telia.ee" site_id="RU##52" xmltv_id="telia (RU) BBC World">(RU) BBC World</channel>
+    <channel update="i" site="telia.ee" site_id="RU##50" xmltv_id="telia (RU) CNN International">(RU) CNN International</channel>
+    <channel update="i" site="telia.ee" site_id="RU##82" xmltv_id="telia (RU) CNBC Europe">(RU) CNBC Europe</channel>
+    <channel update="i" site="telia.ee" site_id="RU##91" xmltv_id="telia (RU) SKY News">(RU) SKY News</channel>
+    <channel update="i" site="telia.ee" site_id="RU##89" xmltv_id="telia (RU) Al Jazeera">(RU) Al Jazeera</channel>
+    <channel update="i" site="telia.ee" site_id="RU##81" xmltv_id="telia (RU) Bloomberg TV">(RU) Bloomberg TV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##73" xmltv_id="telia (RU) Deutsche Welle">(RU) Deutsche Welle</channel>
+    <channel update="i" site="telia.ee" site_id="RU##145" xmltv_id="telia (RU) n-tv">(RU) n-tv</channel>
+    <channel update="i" site="telia.ee" site_id="RU##143" xmltv_id="telia (RU) France 24">(RU) France 24</channel>
+    <channel update="i" site="telia.ee" site_id="RU##141" xmltv_id="telia (RU) Orsent TV">(RU) Orsent TV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##140" xmltv_id="telia (RU) TVN">(RU) TVN</channel>
+    <channel update="i" site="telia.ee" site_id="RU##12" xmltv_id="telia (RU) YLE TV1">(RU) YLE TV1</channel>
+    <channel update="i" site="telia.ee" site_id="RU##13" xmltv_id="telia (RU) YLE TV2">(RU) YLE TV2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1259" xmltv_id="telia (RU) SVT1">(RU) SVT1</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1260" xmltv_id="telia (RU) SVT2">(RU) SVT2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1347" xmltv_id="telia (RU) Украина 24">(RU) Украина 24</channel>
+    <channel update="i" site="telia.ee" site_id="RU##256" xmltv_id="telia (RU) France 2">(RU) France 2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##24" xmltv_id="telia (RU) Arte">(RU) Arte</channel>
+    <channel update="i" site="telia.ee" site_id="RU##60" xmltv_id="telia (RU) PRO 7">(RU) PRO 7</channel>
+    <channel update="i" site="telia.ee" site_id="RU##11" xmltv_id="telia (RU) SAT 1">(RU) SAT 1</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1230" xmltv_id="telia (RU) ZDF">(RU) ZDF</channel>
+    <channel update="i" site="telia.ee" site_id="RU##20" xmltv_id="telia (RU) RTL">(RU) RTL</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1229" xmltv_id="telia (RU) RTL2">(RU) RTL2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##85" xmltv_id="telia (RU) TV5MONDE Europe">(RU) TV5MONDE Europe</channel>
+    <channel update="i" site="telia.ee" site_id="RU##255" xmltv_id="telia (RU) TVEi">(RU) TVEi</channel>
+    <channel update="i" site="telia.ee" site_id="RU##86" xmltv_id="telia (RU) RAI Uno">(RU) RAI Uno</channel>
+    <channel update="i" site="telia.ee" site_id="RU##220" xmltv_id="telia (RU) LIFE TV">(RU) LIFE TV</channel>
+    <channel update="i" site="telia.ee" site_id="RU##248" xmltv_id="telia (RU) TAEVAS TV7">(RU) TAEVAS TV7</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1297" xmltv_id="telia (RU) НЕБЕСА ТВ7">(RU) НЕБЕСА ТВ7</channel>
+    <channel update="i" site="telia.ee" site_id="RU##725" xmltv_id="telia (RU) Test 1">(RU) Test 1</channel>
+    <channel update="i" site="telia.ee" site_id="RU##698" xmltv_id="telia (RU) Test 2">(RU) Test 2</channel>
+    <channel update="i" site="telia.ee" site_id="RU##687" xmltv_id="telia (RU) Test 3">(RU) Test 3</channel>
+    <channel update="i" site="telia.ee" site_id="RU##694" xmltv_id="telia (RU) Test 5">(RU) Test 5</channel>
+    <channel update="i" site="telia.ee" site_id="RU##724" xmltv_id="telia (RU) Test 6">(RU) Test 6</channel>
+    <channel update="i" site="telia.ee" site_id="RU##826" xmltv_id="telia (RU) Test 7">(RU) Test 7</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1315" xmltv_id="telia (RU) Test 8">(RU) Test 8</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1316" xmltv_id="telia (RU) Test 9">(RU) Test 9</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1317" xmltv_id="telia (RU) Test 10">(RU) Test 10</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1318" xmltv_id="telia (RU) Test 11">(RU) Test 11</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1319" xmltv_id="telia (RU) Test 12">(RU) Test 12</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1320" xmltv_id="telia (RU) Test 13">(RU) Test 13</channel>
+    <channel update="i" site="telia.ee" site_id="RU##1321" xmltv_id="telia (RU) Test 14">(RU) Test 14</channel>
   </channels>
 </site>
