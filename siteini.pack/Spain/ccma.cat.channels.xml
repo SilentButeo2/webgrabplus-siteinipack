@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="ccma.cat">
   <channels>
-    <channel update="i" site="ccma.cat" site_id="TV3" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="ccma.cat" site_id="324" xmltv_id="324">324</channel>
-    <channel update="i" site="ccma.cat" site_id="SX3" xmltv_id="SX3">SX3</channel>
-    <channel update="i" site="ccma.cat" site_id="Canal33" xmltv_id="Canal33">Canal33</channel>
-    <channel update="i" site="ccma.cat" site_id="Esport3" xmltv_id="Esport3">Esport3</channel>
-    <channel update="i" site="ccma.cat" site_id="TV3CAT" xmltv_id="TV3CAT">TV3CAT</channel>
+    <channel update="i" site="ccma.cat" site_id="tv3##tv3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="ccma.cat" site_id="324##324" xmltv_id="324">324</channel>
+    <channel update="i" site="ccma.cat" site_id="sx3##cs3" xmltv_id="SX3">SX3</channel>
+    <channel update="i" site="ccma.cat" site_id="33##c33" xmltv_id="Canal 33">Canal 33</channel>
+    <channel update="i" site="ccma.cat" site_id="esport3##es3" xmltv_id="Esport 3">Esport 3</channel>
+    <channel update="i" site="ccma.cat" site_id="tv3cat##tvi" xmltv_id="TV3 CAT">TV3 CAT</channel>
   </channels>
 </site>
