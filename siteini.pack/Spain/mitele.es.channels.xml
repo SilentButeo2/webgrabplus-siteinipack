@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.2 -- Jan van Straaten" site="mitele.es">
+  <channels>
+    <channel update="i" site="mitele.es" site_id="telecinco" xmltv_id="telecinco">telecinco</channel>
+    <channel update="i" site="mitele.es" site_id="cuatro" xmltv_id="cuatro">cuatro</channel>
+    <channel update="i" site="mitele.es" site_id="divinity" xmltv_id="divinity">divinity</channel>
+    <channel update="i" site="mitele.es" site_id="fdf" xmltv_id="fdf">fdf</channel>
+    <channel update="i" site="mitele.es" site_id="energy" xmltv_id="energy">energy</channel>
+    <channel update="i" site="mitele.es" site_id="bemad" xmltv_id="bemad">bemad</channel>
+    <channel update="i" site="mitele.es" site_id="boing" xmltv_id="boing">boing</channel>
+    <channel update="i" site="mitele.es" site_id="acontraplus" xmltv_id="acontraplus">acontraplus</channel>
+    <channel update="i" site="mitele.es" site_id="fight-sports" xmltv_id="fight-sports">fight-sports</channel>
+	<!-- the following three channels have no daily schedule , they are 24h onair
+    <channel update="i" site="mitele.es" site_id="mtmad-24h" xmltv_id="mtmad-24h">mtmad-24h</channel>
+    <channel update="i" site="mitele.es" site_id="bemad-digital-hbbtv" xmltv_id="bemad-digital-hbbtv">bemad-digital-hbbtv</channel>
+    <channel update="i" site="mitele.es" site_id="nius2" xmltv_id="nius2">nius2</channel>
+	-->
+  </channels>
+</site>
