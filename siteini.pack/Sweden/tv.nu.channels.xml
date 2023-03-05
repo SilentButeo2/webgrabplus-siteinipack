@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.6 -- Jan van Straaten" site="tv.nu">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="tv.nu">
   <channels>
     <channel update="i" site="tv.nu" site_id="svt1" xmltv_id="SVT1">SVT1</channel>
     <channel update="i" site="tv.nu" site_id="svt2" xmltv_id="SVT2">SVT2</channel>
@@ -60,9 +60,9 @@
     <channel update="i" site="tv.nu" site_id="tv4-hd" xmltv_id="TV4 HD">TV4 HD</channel>
     <channel update="i" site="tv.nu" site_id="tv4-guld" xmltv_id="TV4 Guld">TV4 Guld</channel>
     <channel update="i" site="tv.nu" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
-    <channel update="i" site="tv.nu" site_id="vh1" xmltv_id="MTV 00s Europe">MTV 00s Europe</channel>
+    <channel update="i" site="tv.nu" site_id="mtv-00s-europe" xmltv_id="MTV 00s Europe">MTV 00s Europe</channel>
     <channel update="i" site="tv.nu" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
-    <channel update="i" site="tv.nu" site_id="cnn" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="tv.nu" site_id="cnn-international" xmltv_id="CNN International">CNN International</channel>
     <channel update="i" site="tv.nu" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="tv.nu" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="tv.nu" site_id="nick-jr-lang-tabla" xmltv_id="Nick JR (lång tablå)">Nick JR (lång tablå)</channel>
@@ -91,7 +91,7 @@
     <channel update="i" site="tv.nu" site_id="mtv-rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
     <channel update="i" site="tv.nu" site_id="sky-news" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="tv.nu" site_id="viasat-film-premiere-hd" xmltv_id="Viasat Film Premiere HD">Viasat Film Premiere HD</channel>
-    <channel update="i" site="tv.nu" site_id="tv-polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="tv.nu" site_id="tvp-polonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
     <channel update="i" site="tv.nu" site_id="tv-finland" xmltv_id="TV Finland">TV Finland</channel>
     <channel update="i" site="tv.nu" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="tv.nu" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
@@ -126,7 +126,7 @@
     <channel update="i" site="tv.nu" site_id="dr-ramasjang" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
     <channel update="i" site="tv.nu" site_id="tv2" xmltv_id="TV2">TV2</channel>
     <channel update="i" site="tv.nu" site_id="tv3-norge" xmltv_id="TV3 Norge">TV3 Norge</channel>
-    <channel update="i" site="tv.nu" site_id="viasat-4" xmltv_id="V4">V4</channel>
+    <channel update="i" site="tv.nu" site_id="tv3-30147" xmltv_id="TV3+">TV3+</channel>
     <channel update="i" site="tv.nu" site_id="nrk3" xmltv_id="NRK3">NRK3</channel>
     <channel update="i" site="tv.nu" site_id="yle-tv2" xmltv_id="Yle TV2">Yle TV2</channel>
     <channel update="i" site="tv.nu" site_id="mtv3" xmltv_id="MTV3">MTV3</channel>
@@ -141,7 +141,7 @@
     <channel update="i" site="tv.nu" site_id="ginx-esports-tv" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
     <channel update="i" site="tv.nu" site_id="nhk-world-europe" xmltv_id="NHK World Europe">NHK World Europe</channel>
     <channel update="i" site="tv.nu" site_id="horse-country-tv" xmltv_id="Horse &amp; Country TV">Horse &amp; Country TV</channel>
-    <channel update="i" site="tv.nu" site_id="vh1-classic-europe" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="tv.nu" site_id="mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="tv.nu" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
     <channel update="i" site="tv.nu" site_id="svt-barn" xmltv_id="SVT Barn">SVT Barn</channel>
     <channel update="i" site="tv.nu" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
@@ -161,7 +161,7 @@
     <channel update="i" site="tv.nu" site_id="al-jazeera-english" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
     <channel update="i" site="tv.nu" site_id="channel-one-russia-worldwide-network" xmltv_id="Channel One Russia Worldwide Network">Channel One Russia Worldwide Network</channel>
     <channel update="i" site="tv.nu" site_id="france-24-english-hd" xmltv_id="France 24 English HD">France 24 English HD</channel>
-    <channel update="i" site="tv.nu" site_id="bloomberg-tv-hd" xmltv_id="Bloomberg TV HD (UK)">Bloomberg TV HD (UK)</channel>
+    <channel update="i" site="tv.nu" site_id="bloomberg-tv-hd-uk" xmltv_id="Bloomberg TV HD (UK)">Bloomberg TV HD (UK)</channel>
     <channel update="i" site="tv.nu" site_id="c-more-mix" xmltv_id="C More Mix">C More Mix</channel>
     <channel update="i" site="tv.nu" site_id="tv3-sport-hd" xmltv_id="Viasat Sport Extra HD">Viasat Sport Extra HD</channel>
     <channel update="i" site="tv.nu" site_id="motorvision-tv" xmltv_id="Motorvision TV">Motorvision TV</channel>
@@ -281,13 +281,13 @@
     <channel update="i" site="tv.nu" site_id="motorsport-tv" xmltv_id="Motorsport.tv">Motorsport.tv</channel>
     <channel update="i" site="tv.nu" site_id="travel-channel-hd-30227" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="tv.nu" site_id="paramount-network-hd-30229" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
-    <channel update="i" site="tv.nu" site_id="mtv-rocks-3" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="tv.nu" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel update="i" site="tv.nu" site_id="national-geographic-3" xmltv_id="National Geographic (International)">National Geographic (International)</channel>
     <channel update="i" site="tv.nu" site_id="national-geographic-hd-3" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel update="i" site="tv.nu" site_id="mitteldeutscher-rundfunk" xmltv_id="Mitteldeutscher Rundfunk (MDF)">Mitteldeutscher Rundfunk (MDF)</channel>
     <channel update="i" site="tv.nu" site_id="curiositystream" xmltv_id="CuriosityStream">CuriosityStream</channel>
     <channel update="i" site="tv.nu" site_id="curiosity-stream-eu" xmltv_id="Curiosity Stream EU">Curiosity Stream EU</channel>
-    <channel update="i" site="tv.nu" site_id="national-geographic-hd-4" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="tv.nu" site_id="national-geographic-hd-30242" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel update="i" site="tv.nu" site_id="sportbladet-play-4" xmltv_id="Sportbladet Play 4">Sportbladet Play 4</channel>
     <channel update="i" site="tv.nu" site_id="sportbladet-play-5" xmltv_id="Sportbladet Play 5">Sportbladet Play 5</channel>
     <channel update="i" site="tv.nu" site_id="sportbladet-play-7" xmltv_id="Sportbladet Play 7">Sportbladet Play 7</channel>
@@ -308,7 +308,7 @@
     <channel update="i" site="tv.nu" site_id="v-sport-live-2" xmltv_id="V Sport Live 2">V Sport Live 2</channel>
     <channel update="i" site="tv.nu" site_id="v-sport-live-5" xmltv_id="V Sport Live 5">V Sport Live 5</channel>
     <channel update="i" site="tv.nu" site_id="v-sport-live-4" xmltv_id="V Sport Live 4">V Sport Live 4</channel>
-    <channel update="i" site="tv.nu" site_id="paramount-series" xmltv_id="Paramount+ Series">Paramount+ Series</channel>
-    <channel update="i" site="tv.nu" site_id="paramount-movies" xmltv_id="Paramount+ Movies">Paramount+ Movies</channel>
+    <channel update="i" site="tv.nu" site_id="skyshowtime-1" xmltv_id="SkyShowtime 1">SkyShowtime 1</channel>
+    <channel update="i" site="tv.nu" site_id="skyshowtime-2" xmltv_id="SkyShowtime 2">SkyShowtime 2</channel>
   </channels>
 </site>
