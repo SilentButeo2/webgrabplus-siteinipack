@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" site="fetchtv.com.au">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="fetchtv.com.au">
   <channels>
     <channel update="i" site="fetchtv.com.au" site_id="432128" xmltv_id="triple j Unearthed Melbourne">triple j Unearthed Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432129" xmltv_id="triple j Unearthed Brisbane">triple j Unearthed Brisbane</channel>
@@ -49,10 +49,14 @@
     <channel update="i" site="fetchtv.com.au" site_id="428123" xmltv_id="10 BOLD WA">10 BOLD WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432220" xmltv_id="9Rush Adelaide">9Rush Adelaide</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432221" xmltv_id="9Rush Brisbane">9Rush Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2143" xmltv_id="SBS On Demand AVC">SBS On Demand AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432224" xmltv_id="9Rush Melbourne">9Rush Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432225" xmltv_id="9Rush Perth">9Rush Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2146" xmltv_id="7plus AVC">7plus AVC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2149" xmltv_id="9Now AVC">9Now AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432230" xmltv_id="9HD Albury">9HD Albury</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432231" xmltv_id="9HD Mildura">9HD Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2152" xmltv_id="ABC iview">ABC iview</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407657" xmltv_id="9Go! Melbourne">9Go! Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407658" xmltv_id="9Go! Brisbane">9Go! Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="417903" xmltv_id="SBS Radio 1 Vic">SBS Radio 1 Vic</channel>
@@ -91,32 +95,41 @@
     <channel update="i" site="fetchtv.com.au" site_id="432305" xmltv_id="9Life Broken Hill">9Life Broken Hill</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430263" xmltv_id="7TWO Griffith">7TWO Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431818" xmltv_id="7flix Prime VIC">7flix Prime VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432323" xmltv_id="Sky News Regional SA">Sky News Regional SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421319" xmltv_id="NBN 9GO! NSW">NBN 9GO! NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407760" xmltv_id="9Go! Sydney">9Go! Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="286937" xmltv_id="PRIME7 Gold Coast">PRIME7 Gold Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="387291" xmltv_id="7mate Sydney">7mate Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="428254" xmltv_id="10 Shepparton">10 Shepparton</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="SpreeTV VIC">SpreeTV VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="gecko VIC">gecko VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="224" xmltv_id="BabyTV is dedicated to babies, toddlers and parents. Developed by educational experts, BabyTV programming offers an inspiring journey filled with numbers, animals, colours, music and more. Plus, it's completely commercial-free.">BabyTV is dedicated to babies, toddlers and parents. Developed by educational experts, BabyTV programming offers an inspiring journey filled with numbers, animals, colours, music and more. Plus, it's completely commercial-free.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="234" xmltv_id="FRANCE 24 offers a French perspective on global news. With a fresh and original tone it's a worthy alternative to conventional news sources.">FRANCE 24 offers a French perspective on global news. With a fresh and original tone it's a worthy alternative to conventional news sources.</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="SpreeTV SA">SpreeTV SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="gecko SA">gecko SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18671" xmltv_id="Channel Nine Sydney">Channel Nine Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="381168" xmltv_id="PRIME7 Southern, Wollongong">PRIME7 Southern, Wollongong</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="SpreeTV WA">SpreeTV WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="gecko WA">gecko WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="381170" xmltv_id="PRIME7 Southern, Orange">PRIME7 Southern, Orange</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="Channel Seven Queensland, Cairns">Channel Seven Queensland, Cairns</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="Channel Seven Queensland, Toowoomba">Channel Seven Queensland, Toowoomba</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="Channel Seven Queensland, Mackay">Channel Seven Queensland, Mackay</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="Channel Seven Queensland, Wide Bay">Channel Seven Queensland, Wide Bay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="7HD Queensland, Cairns">7HD Queensland, Cairns</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="7HD QLD, Toowoomba">7HD QLD, Toowoomba</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="7HD Queensland, Mackay">7HD Queensland, Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="7HD Queensland, Wide Bay">7HD Queensland, Wide Bay</channel>
     <channel update="i" site="fetchtv.com.au" site_id="391420" xmltv_id="Channel Seven Queensland, Sunshine Coast">Channel Seven Queensland, Sunshine Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407805" xmltv_id="9Go! VIC">9Go! VIC</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="2308" xmltv_id="Optus Sport Free to Watch">Optus Sport Free to Watch</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2309" xmltv_id="MSNBC is the premiere destination for breaking news and in-depth analysis through commentary and informed perspectives. MSNBC offers live news coverage, influential voices, and award-winning documentary programming - 24 hours a day, 7 days a week. MSNBC also delivers breaking news and information on www.msnbc.com.">MSNBC is the premiere destination for breaking news and in-depth analysis through commentary and informed perspectives. MSNBC offers live news coverage, influential voices, and award-winning documentary programming - 24 hours a day, 7 days a week. MSNBC also delivers breaking news and information on www.msnbc.com.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2313" xmltv_id="BBC BRIT features an entertaining mix of subjects such as motoring, adventure, life-changing moments, extreme characters and ultimate challenges. Key programming includes Top Gear, Extra Gear, Louis Theroux\u2019s Weird Weekends, Special Forces Ultimate Hell Week, Fugitives, Gordon Ramsay\u2019s Kitchen Nightmares and many more.">BBC BRIT features an entertaining mix of subjects such as motoring, adventure, life-changing moments, extreme characters and ultimate challenges. Key programming includes Top Gear, Extra Gear, Louis Theroux\u2019s Weird Weekends, Special Forces Ultimate Hell Week, Fugitives, Gordon Ramsay\u2019s Kitchen Nightmares and many more.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407824" xmltv_id="9Gem TAS">9Gem TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407827" xmltv_id="9Go! WA">9Go! WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="413061" xmltv_id="SBS HD Tasmania">SBS HD Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432416" xmltv_id="SBS World Watch NT">SBS World Watch NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432417" xmltv_id="SBS World Watch VIC">SBS World Watch VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432418" xmltv_id="SBS World Watch TAS">SBS World Watch TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432419" xmltv_id="SBS World Watch SA">SBS World Watch SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432420" xmltv_id="SBS World Watch WA">SBS World Watch WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="413062" xmltv_id="SBS HD NT">SBS HD NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429233" xmltv_id="4ME WA">4ME WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432426" xmltv_id="7mate Prime HD NSW">7mate Prime HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432427" xmltv_id="7mate Prime HD VIC">7mate Prime HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2349" xmltv_id="Movie Store AVC">Movie Store AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2355" xmltv_id="Country Music Television at its finest. Featuring the best in country music from Nashville to Tamworth and everywhere in between. Tune in for programming highlights which include; Homegrown Country, New Country, Vintage and #1 Country Hits, and Superstar CMT Hours from all your favourite country stars. If it\u2019s country music you want and it\u2019s country music you love, CMT has got you covered!">Country Music Television at its finest. Featuring the best in country music from Nashville to Tamworth and everywhere in between. Tune in for programming highlights which include; Homegrown Country, New Country, Vintage and #1 Country Hits, and Superstar CMT Hours from all your favourite country stars. If it\u2019s country music you want and it\u2019s country music you love, CMT has got you covered!</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403765" xmltv_id="10 Peach Brisbane">10 Peach Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403766" xmltv_id="10 Peach Adelaide">10 Peach Adelaide</channel>
@@ -124,8 +137,20 @@
     <channel update="i" site="fetchtv.com.au" site_id="403768" xmltv_id="10 Peach Perth">10 Peach Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403769" xmltv_id="10 Peach Sydney">10 Peach Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2365" xmltv_id="Nick Music is a dedicated music channel for kids featuring chart-topping hits by the world\u2019s most popular artists. Nick Music is a Nickelodeon curated line up of the latest music videos and Top 40 hits to keep the whole family entertained!">Nick Music is a dedicated music channel for kids featuring chart-topping hits by the world\u2019s most popular artists. Nick Music is a Nickelodeon curated line up of the latest music videos and Top 40 hits to keep the whole family entertained!</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2366" xmltv_id="Entertaining, energetic, unpredictable and clever, BBC Kids is a brand new channel that kids will love. With loads of exciting shows from comedy, drama and entertainment to natural history and documentaries.">Entertaining, energetic, unpredictable and clever, BBC Kids is a brand new channel that kids will love. With loads of exciting shows from comedy, drama and entertainment to natural history and documentaries.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432448" xmltv_id="7Bravo NSW">7Bravo NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432451" xmltv_id="7Bravo VIC">7Bravo VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432452" xmltv_id="7Bravo QLD">7Bravo QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432454" xmltv_id="7Bravo SA">7Bravo SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432455" xmltv_id="7Bravo WA">7Bravo WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2376" xmltv_id="A one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things.">A one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="250185" xmltv_id="10 Melbourne">10 Melbourne</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10  Adelaide">10  Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2378" xmltv_id="Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad.">Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10 Adelaide">10 Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2380" xmltv_id="Lifestyle Lives Here! Come eat, travel, and adventure with us. INFAST puts the life in style, and takes you on a journey to all corners of the world, showing the best in food, fashion, travel and trends of today.">Lifestyle Lives Here! Come eat, travel, and adventure with us. INFAST puts the life in style, and takes you on a journey to all corners of the world, showing the best in food, fashion, travel and trends of today.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2381" xmltv_id="Where action and excitement meet to offer you thrilling experiences right on your screen.">Where action and excitement meet to offer you thrilling experiences right on your screen.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2382" xmltv_id="A unique perspective on science, technology and everything in between.">A unique perspective on science, technology and everything in between.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2400" xmltv_id="ABC Kids iview">ABC Kids iview</channel>
     <channel update="i" site="fetchtv.com.au" site_id="260450" xmltv_id="Channel Nine Gold Coast">Channel Nine Gold Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="260461" xmltv_id="Channel Nine Brisbane">Channel Nine Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="422289" xmltv_id="10 BOLD VIC">10 BOLD VIC</channel>
@@ -137,12 +162,13 @@
     <channel update="i" site="fetchtv.com.au" site_id="432101" xmltv_id="ABC Country Brisbane">ABC Country Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431515" xmltv_id="9Life Perth">9Life Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264617" xmltv_id="SBS Tasmania">SBS Tasmania</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="1719" xmltv_id="eGG Network is a 24/7 eSports and gaming entertainment channel. Fans can enjoy some of the biggest eSports tournaments, leagues and the best gaming entertainment program from the comfort of their living room.">eGG Network is a 24/7 eSports and gaming entertainment channel. Fans can enjoy some of the biggest eSports tournaments, leagues and the best gaming entertainment program from the comfort of their living room.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432200" xmltv_id="7HD SA">7HD SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="252342" xmltv_id="Channel Nine Melbourne">Channel Nine Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18891" xmltv_id="Channel Seven Sydney">Channel Seven Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432415" xmltv_id="SBS World Watch NSW">SBS World Watch NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="420314" xmltv_id="9Go! Darwin">9Go! Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO QLD">7TWO QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2130" xmltv_id="Oxygen is the crime destination that promises a consistent, unique and high quality experience to fans of the genre, providing real-time investigations and dynamic docu-series all with unprecedented access.  We dive into the heart of these real-life mysteries and investigations to convert our viewers into armchair detectives with a deeper understanding of the psychology of crime.">Oxygen is the crime destination that promises a consistent, unique and high quality experience to fans of the genre, providing real-time investigations and dynamic docu-series all with unprecedented access.  We dive into the heart of these real-life mysteries and investigations to convert our viewers into armchair detectives with a deeper understanding of the psychology of crime.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432104" xmltv_id="ABC Country Hobart">ABC Country Hobart</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432215" xmltv_id="10 SA">10 SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432216" xmltv_id="10HD SA">10HD SA</channel>
@@ -163,14 +189,12 @@
     <channel update="i" site="fetchtv.com.au" site_id="264783" xmltv_id="SBS Queensland">SBS Queensland</channel>
     <channel update="i" site="fetchtv.com.au" site_id="275039" xmltv_id="10 SA">10 SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426593" xmltv_id="7mate QLD">7mate QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="610" xmltv_id="NDTV 24x7, the flagship English news channel from NDTV Limited, is a 24-hour news and infotainment channel with news from India, international, entertainment and sports. The channel is the market leader with an unrivalled reputation for excellence, featuring many award-winning programs and anchors.">NDTV 24x7, the flagship English news channel from NDTV Limited, is a 24-hour news and infotainment channel with news from India, international, entertainment and sports. The channel is the market leader with an unrivalled reputation for excellence, featuring many award-winning programs and anchors.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426595" xmltv_id="Imparja GO! Qld">Imparja GO! Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426597" xmltv_id="Imparja GEM Qld">Imparja GEM Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426599" xmltv_id="10 Central QLD">10 Central QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426600" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426603" xmltv_id="10 BOLD Central Qld">10 BOLD Central Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="92783" xmltv_id="Channel Seven Brisbane">Channel Seven Brisbane</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="627" xmltv_id="CGTN - China Global Television Network, is an English language channel reporting news and information from China and around the world to a global audience.">CGTN - China Global Television Network, is an English language channel reporting news and information from China and around the world to a global audience.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264823" xmltv_id="Imparja Television NSW/Vic">Imparja Television NSW/Vic</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264824" xmltv_id="Imparja Television Qld">Imparja Television Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="654" xmltv_id="The chart-toppers, award-winners and stadium-fillers from Australia and across the globe. A non-stop music festival of the hottest hits right now.">The chart-toppers, award-winners and stadium-fillers from Australia and across the globe. A non-stop music festival of the hottest hits right now.</channel>
@@ -183,7 +207,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="429042" xmltv_id="10 BOLD SA">10 BOLD SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421323" xmltv_id="9Gem VIC">9Gem VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432112" xmltv_id="ABC Kids Listen Darwin">ABC Kids Listen Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate on Prime Qld">7mate on Prime Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate Prime Qld">7mate Prime Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430839" xmltv_id="10HD Mildura">10HD Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430840" xmltv_id="10 BOLD Mildura">10 BOLD Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="388566" xmltv_id="7mate Brisbane">7mate Brisbane</channel>
@@ -198,7 +222,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="430903" xmltv_id="Imparja GEM NSW">Imparja GEM NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430904" xmltv_id="Imparja GO! NSW">Imparja GO! NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="394041" xmltv_id="9Gem Darwin">9Gem Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO Central Qld">7TWO Central Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO HD Central Qld">7TWO HD Central Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426811" xmltv_id="GWN7mate">GWN7mate</channel>
     <channel update="i" site="fetchtv.com.au" site_id="394044" xmltv_id="7mate TAS">7mate TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="428862" xmltv_id="10 BOLD Central">10 BOLD Central</channel>
@@ -210,7 +234,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="430926" xmltv_id="NITV WA">NITV WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426810" xmltv_id="GWN7TWO">GWN7TWO</channel>
     <channel update="i" site="fetchtv.com.au" site_id="412512" xmltv_id="7TWO Prime NSW">7TWO Prime NSW</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO Prime Qld">7TWO Prime Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO HD Prime Qld">7TWO HD Prime Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="412514" xmltv_id="7TWO Prime Vic">7TWO Prime Vic</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430948" xmltv_id="7TWO Central">7TWO Central</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430949" xmltv_id="7mate Central">7mate Central</channel>
@@ -219,9 +243,8 @@
     <channel update="i" site="fetchtv.com.au" site_id="430960" xmltv_id="10 Peach Central">10 Peach Central</channel>
     <channel update="i" site="fetchtv.com.au" site_id="900" xmltv_id="Bloomberg Television, an award winning, multi-platform 24-hour business and financial news network, provides continuous coverage of the people, companies and ideas that move global markets. Bloomberg Television delivers real-time business news to over 360 million households globally.">Bloomberg Television, an award winning, multi-platform 24-hour business and financial news network, provides continuous coverage of the people, companies and ideas that move global markets. Bloomberg Television delivers real-time business news to over 360 million households globally.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="416647" xmltv_id="10 BOLD NT">10 BOLD NT</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="428970" xmltv_id="4ME Regional">4ME Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431029" xmltv_id="NITV TAS">NITV TAS</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="Channel Seven Queensland, Rockhampton">Channel Seven Queensland, Rockhampton</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="7HD Queensland, Rockhampton">7HD Queensland, Rockhampton</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289720" xmltv_id="PRIME7 Northern, Tamworth/Taree/Port Macquarie">PRIME7 Northern, Tamworth/Taree/Port Macquarie</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289721" xmltv_id="PRIME7 Northern, Newcastle">PRIME7 Northern, Newcastle</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289722" xmltv_id="PRIME7 Southern, Canberra">PRIME7 Southern, Canberra</channel>
@@ -249,20 +272,20 @@
     <channel update="i" site="fetchtv.com.au" site_id="431090" xmltv_id="WIN GOLD VIC">WIN GOLD VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431091" xmltv_id="WIN GOLD TAS">WIN GOLD TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431092" xmltv_id="WIN GOLD QLD">WIN GOLD QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Aspire NSW">Aspire NSW</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Aspire QLD">Aspire QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Aspire VIC">Aspire VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Sky News Regional NSW">Sky News Regional NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Sky News Regional QLD">Sky News Regional QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Sky News Regional VIC">Sky News Regional VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431098" xmltv_id="ishoptv NSW">ishoptv NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431099" xmltv_id="ishoptv QLD">ishoptv QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431100" xmltv_id="ishoptv VIC">ishoptv VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="11277" xmltv_id="Extra 2 channels with no EPG provided">Extra 2 channels with no EPG provided</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431619" xmltv_id="7HD Perth">7HD Perth</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="SpreeTV NSW">SpreeTV NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="gecko NSW">gecko NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259105" xmltv_id="SBS Eastern">SBS Eastern</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259106" xmltv_id="SBS SA">SBS SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259107" xmltv_id="SBS WA">SBS WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406565" xmltv_id="10 Peach VIC">10 Peach VIC</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="SpreeTV QLD">SpreeTV QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="gecko QLD">gecko QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406567" xmltv_id="10 Peach NSW">10 Peach NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406568" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431149" xmltv_id="TVSN TAS">TVSN TAS</channel>
@@ -313,11 +336,12 @@
     <channel update="i" site="fetchtv.com.au" site_id="1352" xmltv_id="Food Network brings food entertainment to a whole new level, showcasing the best of world cuisines through innovative, cutting-edge program concepts with high entertainment value.   You can enjoy some on-demand content from Food Network in the catch-up menu, and we're working to bring you more.">Food Network brings food entertainment to a whole new level, showcasing the best of world cuisines through innovative, cutting-edge program concepts with high entertainment value.   You can enjoy some on-demand content from Food Network in the catch-up menu, and we're working to bring you more.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="1358" xmltv_id="An award winning classical, cinematic and chill-out music video channel.">An award winning classical, cinematic and chill-out music video channel.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="281938" xmltv_id="NBN Gold Coast">NBN Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="1370" xmltv_id="ZooMoo explores the animal world in ways that are entertaining, interactive and enriching, sparking in kids a love for animals.">ZooMoo explores the animal world in ways that are entertaining, interactive and enriching, sparking in kids a love for animals.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429410" xmltv_id="10HD Griffith">10HD Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429416" xmltv_id="10 BOLD Griffith">10 BOLD Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431477" xmltv_id="RACING.COM NT">RACING.COM NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431478" xmltv_id="RACING.COM TAS">RACING.COM TAS</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7mate Queensland">7mate Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431491" xmltv_id="SBS Food NSW">SBS Food NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431492" xmltv_id="SBS Food VIC">SBS Food VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431493" xmltv_id="SBS Food WA">SBS Food WA</channel>
@@ -386,10 +410,11 @@
     <channel update="i" site="fetchtv.com.au" site_id="431667" xmltv_id="10 SHAKE NSW">10 SHAKE NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431668" xmltv_id="10 SHAKE QLD">10 SHAKE QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431669" xmltv_id="10 SHAKE VIC">10 SHAKE VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="1592" xmltv_id="Times Now is a leading 24-hour English news channel that provides complete live coverage of the latest news and headlines direct from India.">Times Now is a leading 24-hour English news channel that provides complete live coverage of the latest news and headlines direct from India.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431674" xmltv_id="10HD TAS">10HD TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="390715" xmltv_id="Double J Sydney">Double J Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="390716" xmltv_id="ABC Jazz Sydney">ABC Jazz Sydney</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="Channel Seven Queensland, Townsville">Channel Seven Queensland, Townsville</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="7HD Queensland, Townsville">7HD Queensland, Townsville</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431030" xmltv_id="NITV NT">NITV NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18017" xmltv_id="NBN NSW">NBN NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431688" xmltv_id="WIN GOLD SA">WIN GOLD SA</channel>
@@ -444,6 +469,8 @@
     <channel update="i" site="fetchtv.com.au" site_id="431816" xmltv_id="7flix Prime QLD">7flix Prime QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431817" xmltv_id="7flix Prime NSW">7flix Prime NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="392906" xmltv_id="PRIME7 Victoria, Gippsland">PRIME7 Victoria, Gippsland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2377" xmltv_id="Home to the top trending clips, most entertaining memes, and funniest animal videos online.">Home to the top trending clips, most entertaining memes, and funniest animal videos online.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432421" xmltv_id="SBS World Watch QLD">SBS World Watch QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432080" xmltv_id="ABC Classic Sydney">ABC Classic Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432083" xmltv_id="ABC RN Sydney">ABC RN Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431865" xmltv_id="SBN NT">SBN NT</channel>
@@ -466,6 +493,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="431882" xmltv_id="PRIME7 HD Victoria, Regional">PRIME7 HD Victoria, Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421643" xmltv_id="10 Peach Griffith">10 Peach Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432088" xmltv_id="ABC Melbourne">ABC Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2379" xmltv_id="Outdoor Channel is all about REAL.LIFE.ADVENTURE. with outdoor themes and personalities focused on adventure, lifestyle, entertainment and wildlife.">Outdoor Channel is all about REAL.LIFE.ADVENTURE. with outdoor themes and personalities focused on adventure, lifestyle, entertainment and wildlife.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432092" xmltv_id="ABC Brisbane">ABC Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="16173" xmltv_id="10 Perth">10 Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432093" xmltv_id="ABC Classic Melbourne">ABC Classic Melbourne</channel>
@@ -477,19 +505,19 @@
     <channel update="i" site="fetchtv.com.au" site_id="432096" xmltv_id="ABC Classic Perth">ABC Classic Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432097" xmltv_id="ABC Classic Hobart">ABC Classic Hobart</channel>
     <channel update="i" site="fetchtv.com.au" site_id="85832" xmltv_id="Channel Seven Adelaide">Channel Seven Adelaide</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="WIN Sky Southern NSW">WIN Sky Southern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="9Life NSW">9Life NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432098" xmltv_id="ABC Classic Darwin">ABC Classic Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="WIN Sky Northern NSW">WIN Sky Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="Sky News Regional">Sky News Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432099" xmltv_id="ABC Classic Canberra">ABC Classic Canberra</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="WIN Sky Queensland">WIN Sky Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="9Life QLD">9Life QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432100" xmltv_id="ABC Country Melbourne">ABC Country Melbourne</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="WIN Sky Victoria">WIN Sky Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="9Life VIC">9Life VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="96100" xmltv_id="Channel Seven Melbourne">Channel Seven Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432102" xmltv_id="ABC Country Adelaide">ABC Country Adelaide</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="WIN Sky Tasmania">WIN Sky Tasmania</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="WIN Sky South Australia">WIN Sky South Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="9Life TAS">9Life TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="9Life SA">9Life SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432103" xmltv_id="ABC Country Perth">ABC Country Perth</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="WIN Sky Western Australia">WIN Sky Western Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="9Life WA">9Life WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="249832" xmltv_id="ABC TV WA">ABC TV WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="96115" xmltv_id="Channel Nine Perth">Channel Nine Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18294" xmltv_id="ABC TV NSW">ABC TV NSW</channel>
@@ -517,6 +545,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="432038" xmltv_id="SBS World Movies Victoria">SBS World Movies Victoria</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429041" xmltv_id="9Go! SA">9Go! SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="12201" xmltv_id="VICELAND SD has been replaced by SBS World Movies">VICELAND SD has been replaced by SBS World Movies</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2375" xmltv_id="The world's number one source for epic fail videos and hilarious compilations.">The world's number one source for epic fail videos and hilarious compilations.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251820" xmltv_id="9 VIC">9 VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251821" xmltv_id="9 Mildura">9 Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251823" xmltv_id="7HD SA">7HD SA</channel>
@@ -536,7 +565,6 @@
     <channel update="i" site="fetchtv.com.au" site_id="251839" xmltv_id="10 VIC">10 VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251840" xmltv_id="10 Albury">10 Albury</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251843" xmltv_id="10 QLD">10 QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="432068" xmltv_id="Openshop">Openshop</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432069" xmltv_id="NBN 9GEM NSW HD">NBN 9GEM NSW HD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432070" xmltv_id="NBN 9GEM Gold Coast HD">NBN 9GEM Gold Coast HD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432079" xmltv_id="ABC Sydney">ABC Sydney</channel>
@@ -636,10 +664,14 @@
     <channel update="i" site="fetchtv.com.au" site_id="428123" xmltv_id="10 BOLD WA">10 BOLD WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432220" xmltv_id="9Rush Adelaide">9Rush Adelaide</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432221" xmltv_id="9Rush Brisbane">9Rush Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2143" xmltv_id="SBS On Demand AVC">SBS On Demand AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432224" xmltv_id="9Rush Melbourne">9Rush Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432225" xmltv_id="9Rush Perth">9Rush Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2146" xmltv_id="7plus AVC">7plus AVC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2149" xmltv_id="9Now AVC">9Now AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432230" xmltv_id="9HD Albury">9HD Albury</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432231" xmltv_id="9HD Mildura">9HD Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2152" xmltv_id="ABC iview">ABC iview</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407657" xmltv_id="9Go! Melbourne">9Go! Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407658" xmltv_id="9Go! Brisbane">9Go! Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="417903" xmltv_id="SBS Radio 1 Vic">SBS Radio 1 Vic</channel>
@@ -678,32 +710,41 @@
     <channel update="i" site="fetchtv.com.au" site_id="432305" xmltv_id="9Life Broken Hill">9Life Broken Hill</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430263" xmltv_id="7TWO Griffith">7TWO Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431818" xmltv_id="7flix Prime VIC">7flix Prime VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432323" xmltv_id="Sky News Regional SA">Sky News Regional SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421319" xmltv_id="NBN 9GO! NSW">NBN 9GO! NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407760" xmltv_id="9Go! Sydney">9Go! Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="286937" xmltv_id="PRIME7 Gold Coast">PRIME7 Gold Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="387291" xmltv_id="7mate Sydney">7mate Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="428254" xmltv_id="10 Shepparton">10 Shepparton</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="SpreeTV VIC">SpreeTV VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="gecko VIC">gecko VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="224" xmltv_id="BabyTV is dedicated to babies, toddlers and parents. Developed by educational experts, BabyTV programming offers an inspiring journey filled with numbers, animals, colours, music and more. Plus, it's completely commercial-free.">BabyTV is dedicated to babies, toddlers and parents. Developed by educational experts, BabyTV programming offers an inspiring journey filled with numbers, animals, colours, music and more. Plus, it's completely commercial-free.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="234" xmltv_id="FRANCE 24 offers a French perspective on global news. With a fresh and original tone it's a worthy alternative to conventional news sources.">FRANCE 24 offers a French perspective on global news. With a fresh and original tone it's a worthy alternative to conventional news sources.</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="SpreeTV SA">SpreeTV SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="gecko SA">gecko SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18671" xmltv_id="Channel Nine Sydney">Channel Nine Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="381168" xmltv_id="PRIME7 Southern, Wollongong">PRIME7 Southern, Wollongong</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="SpreeTV WA">SpreeTV WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="gecko WA">gecko WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="381170" xmltv_id="PRIME7 Southern, Orange">PRIME7 Southern, Orange</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="Channel Seven Queensland, Cairns">Channel Seven Queensland, Cairns</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="Channel Seven Queensland, Toowoomba">Channel Seven Queensland, Toowoomba</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="Channel Seven Queensland, Mackay">Channel Seven Queensland, Mackay</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="Channel Seven Queensland, Wide Bay">Channel Seven Queensland, Wide Bay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="7HD Queensland, Cairns">7HD Queensland, Cairns</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="7HD QLD, Toowoomba">7HD QLD, Toowoomba</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="7HD Queensland, Mackay">7HD Queensland, Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="7HD Queensland, Wide Bay">7HD Queensland, Wide Bay</channel>
     <channel update="i" site="fetchtv.com.au" site_id="391420" xmltv_id="Channel Seven Queensland, Sunshine Coast">Channel Seven Queensland, Sunshine Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407805" xmltv_id="9Go! VIC">9Go! VIC</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="2308" xmltv_id="Optus Sport Free to Watch">Optus Sport Free to Watch</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2309" xmltv_id="MSNBC is the premiere destination for breaking news and in-depth analysis through commentary and informed perspectives. MSNBC offers live news coverage, influential voices, and award-winning documentary programming - 24 hours a day, 7 days a week. MSNBC also delivers breaking news and information on www.msnbc.com.">MSNBC is the premiere destination for breaking news and in-depth analysis through commentary and informed perspectives. MSNBC offers live news coverage, influential voices, and award-winning documentary programming - 24 hours a day, 7 days a week. MSNBC also delivers breaking news and information on www.msnbc.com.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2313" xmltv_id="BBC BRIT features an entertaining mix of subjects such as motoring, adventure, life-changing moments, extreme characters and ultimate challenges. Key programming includes Top Gear, Extra Gear, Louis Theroux\u2019s Weird Weekends, Special Forces Ultimate Hell Week, Fugitives, Gordon Ramsay\u2019s Kitchen Nightmares and many more.">BBC BRIT features an entertaining mix of subjects such as motoring, adventure, life-changing moments, extreme characters and ultimate challenges. Key programming includes Top Gear, Extra Gear, Louis Theroux\u2019s Weird Weekends, Special Forces Ultimate Hell Week, Fugitives, Gordon Ramsay\u2019s Kitchen Nightmares and many more.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407824" xmltv_id="9Gem TAS">9Gem TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407827" xmltv_id="9Go! WA">9Go! WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="413061" xmltv_id="SBS HD Tasmania">SBS HD Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432416" xmltv_id="SBS World Watch NT">SBS World Watch NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432417" xmltv_id="SBS World Watch VIC">SBS World Watch VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432418" xmltv_id="SBS World Watch TAS">SBS World Watch TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432419" xmltv_id="SBS World Watch SA">SBS World Watch SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432420" xmltv_id="SBS World Watch WA">SBS World Watch WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="413062" xmltv_id="SBS HD NT">SBS HD NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429233" xmltv_id="4ME WA">4ME WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432426" xmltv_id="7mate Prime HD NSW">7mate Prime HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432427" xmltv_id="7mate Prime HD VIC">7mate Prime HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2349" xmltv_id="Movie Store AVC">Movie Store AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2355" xmltv_id="Country Music Television at its finest. Featuring the best in country music from Nashville to Tamworth and everywhere in between. Tune in for programming highlights which include; Homegrown Country, New Country, Vintage and #1 Country Hits, and Superstar CMT Hours from all your favourite country stars. If it\u2019s country music you want and it\u2019s country music you love, CMT has got you covered!">Country Music Television at its finest. Featuring the best in country music from Nashville to Tamworth and everywhere in between. Tune in for programming highlights which include; Homegrown Country, New Country, Vintage and #1 Country Hits, and Superstar CMT Hours from all your favourite country stars. If it\u2019s country music you want and it\u2019s country music you love, CMT has got you covered!</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403765" xmltv_id="10 Peach Brisbane">10 Peach Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403766" xmltv_id="10 Peach Adelaide">10 Peach Adelaide</channel>
@@ -711,8 +752,20 @@
     <channel update="i" site="fetchtv.com.au" site_id="403768" xmltv_id="10 Peach Perth">10 Peach Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403769" xmltv_id="10 Peach Sydney">10 Peach Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2365" xmltv_id="Nick Music is a dedicated music channel for kids featuring chart-topping hits by the world\u2019s most popular artists. Nick Music is a Nickelodeon curated line up of the latest music videos and Top 40 hits to keep the whole family entertained!">Nick Music is a dedicated music channel for kids featuring chart-topping hits by the world\u2019s most popular artists. Nick Music is a Nickelodeon curated line up of the latest music videos and Top 40 hits to keep the whole family entertained!</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2366" xmltv_id="Entertaining, energetic, unpredictable and clever, BBC Kids is a brand new channel that kids will love. With loads of exciting shows from comedy, drama and entertainment to natural history and documentaries.">Entertaining, energetic, unpredictable and clever, BBC Kids is a brand new channel that kids will love. With loads of exciting shows from comedy, drama and entertainment to natural history and documentaries.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432448" xmltv_id="7Bravo NSW">7Bravo NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432451" xmltv_id="7Bravo VIC">7Bravo VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432452" xmltv_id="7Bravo QLD">7Bravo QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432454" xmltv_id="7Bravo SA">7Bravo SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432455" xmltv_id="7Bravo WA">7Bravo WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2376" xmltv_id="A one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things.">A one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="250185" xmltv_id="10 Melbourne">10 Melbourne</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10  Adelaide">10  Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2378" xmltv_id="Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad.">Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10 Adelaide">10 Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2380" xmltv_id="Lifestyle Lives Here! Come eat, travel, and adventure with us. INFAST puts the life in style, and takes you on a journey to all corners of the world, showing the best in food, fashion, travel and trends of today.">Lifestyle Lives Here! Come eat, travel, and adventure with us. INFAST puts the life in style, and takes you on a journey to all corners of the world, showing the best in food, fashion, travel and trends of today.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2381" xmltv_id="Where action and excitement meet to offer you thrilling experiences right on your screen.">Where action and excitement meet to offer you thrilling experiences right on your screen.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2382" xmltv_id="A unique perspective on science, technology and everything in between.">A unique perspective on science, technology and everything in between.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2400" xmltv_id="ABC Kids iview">ABC Kids iview</channel>
     <channel update="i" site="fetchtv.com.au" site_id="260450" xmltv_id="Channel Nine Gold Coast">Channel Nine Gold Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="260461" xmltv_id="Channel Nine Brisbane">Channel Nine Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="422289" xmltv_id="10 BOLD VIC">10 BOLD VIC</channel>
@@ -724,12 +777,13 @@
     <channel update="i" site="fetchtv.com.au" site_id="432101" xmltv_id="ABC Country Brisbane">ABC Country Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431515" xmltv_id="9Life Perth">9Life Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264617" xmltv_id="SBS Tasmania">SBS Tasmania</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="1719" xmltv_id="eGG Network is a 24/7 eSports and gaming entertainment channel. Fans can enjoy some of the biggest eSports tournaments, leagues and the best gaming entertainment program from the comfort of their living room.">eGG Network is a 24/7 eSports and gaming entertainment channel. Fans can enjoy some of the biggest eSports tournaments, leagues and the best gaming entertainment program from the comfort of their living room.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432200" xmltv_id="7HD SA">7HD SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="252342" xmltv_id="Channel Nine Melbourne">Channel Nine Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18891" xmltv_id="Channel Seven Sydney">Channel Seven Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432415" xmltv_id="SBS World Watch NSW">SBS World Watch NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="420314" xmltv_id="9Go! Darwin">9Go! Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO QLD">7TWO QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2130" xmltv_id="Oxygen is the crime destination that promises a consistent, unique and high quality experience to fans of the genre, providing real-time investigations and dynamic docu-series all with unprecedented access.  We dive into the heart of these real-life mysteries and investigations to convert our viewers into armchair detectives with a deeper understanding of the psychology of crime.">Oxygen is the crime destination that promises a consistent, unique and high quality experience to fans of the genre, providing real-time investigations and dynamic docu-series all with unprecedented access.  We dive into the heart of these real-life mysteries and investigations to convert our viewers into armchair detectives with a deeper understanding of the psychology of crime.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432104" xmltv_id="ABC Country Hobart">ABC Country Hobart</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432215" xmltv_id="10 SA">10 SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432216" xmltv_id="10HD SA">10HD SA</channel>
@@ -750,14 +804,12 @@
     <channel update="i" site="fetchtv.com.au" site_id="264783" xmltv_id="SBS Queensland">SBS Queensland</channel>
     <channel update="i" site="fetchtv.com.au" site_id="275039" xmltv_id="10 SA">10 SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426593" xmltv_id="7mate QLD">7mate QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="610" xmltv_id="NDTV 24x7, the flagship English news channel from NDTV Limited, is a 24-hour news and infotainment channel with news from India, international, entertainment and sports. The channel is the market leader with an unrivalled reputation for excellence, featuring many award-winning programs and anchors.">NDTV 24x7, the flagship English news channel from NDTV Limited, is a 24-hour news and infotainment channel with news from India, international, entertainment and sports. The channel is the market leader with an unrivalled reputation for excellence, featuring many award-winning programs and anchors.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426595" xmltv_id="Imparja GO! Qld">Imparja GO! Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426597" xmltv_id="Imparja GEM Qld">Imparja GEM Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426599" xmltv_id="10 Central QLD">10 Central QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426600" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426603" xmltv_id="10 BOLD Central Qld">10 BOLD Central Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="92783" xmltv_id="Channel Seven Brisbane">Channel Seven Brisbane</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="627" xmltv_id="CGTN - China Global Television Network, is an English language channel reporting news and information from China and around the world to a global audience.">CGTN - China Global Television Network, is an English language channel reporting news and information from China and around the world to a global audience.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264823" xmltv_id="Imparja Television NSW/Vic">Imparja Television NSW/Vic</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264824" xmltv_id="Imparja Television Qld">Imparja Television Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="654" xmltv_id="The chart-toppers, award-winners and stadium-fillers from Australia and across the globe. A non-stop music festival of the hottest hits right now.">The chart-toppers, award-winners and stadium-fillers from Australia and across the globe. A non-stop music festival of the hottest hits right now.</channel>
@@ -770,7 +822,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="429042" xmltv_id="10 BOLD SA">10 BOLD SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421323" xmltv_id="9Gem VIC">9Gem VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432112" xmltv_id="ABC Kids Listen Darwin">ABC Kids Listen Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate on Prime Qld">7mate on Prime Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate Prime Qld">7mate Prime Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430839" xmltv_id="10HD Mildura">10HD Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430840" xmltv_id="10 BOLD Mildura">10 BOLD Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="388566" xmltv_id="7mate Brisbane">7mate Brisbane</channel>
@@ -785,7 +837,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="430903" xmltv_id="Imparja GEM NSW">Imparja GEM NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430904" xmltv_id="Imparja GO! NSW">Imparja GO! NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="394041" xmltv_id="9Gem Darwin">9Gem Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO Central Qld">7TWO Central Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO HD Central Qld">7TWO HD Central Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426811" xmltv_id="GWN7mate">GWN7mate</channel>
     <channel update="i" site="fetchtv.com.au" site_id="394044" xmltv_id="7mate TAS">7mate TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="428862" xmltv_id="10 BOLD Central">10 BOLD Central</channel>
@@ -797,7 +849,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="430926" xmltv_id="NITV WA">NITV WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426810" xmltv_id="GWN7TWO">GWN7TWO</channel>
     <channel update="i" site="fetchtv.com.au" site_id="412512" xmltv_id="7TWO Prime NSW">7TWO Prime NSW</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO Prime Qld">7TWO Prime Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO HD Prime Qld">7TWO HD Prime Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="412514" xmltv_id="7TWO Prime Vic">7TWO Prime Vic</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430948" xmltv_id="7TWO Central">7TWO Central</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430949" xmltv_id="7mate Central">7mate Central</channel>
@@ -806,9 +858,8 @@
     <channel update="i" site="fetchtv.com.au" site_id="430960" xmltv_id="10 Peach Central">10 Peach Central</channel>
     <channel update="i" site="fetchtv.com.au" site_id="900" xmltv_id="Bloomberg Television, an award winning, multi-platform 24-hour business and financial news network, provides continuous coverage of the people, companies and ideas that move global markets. Bloomberg Television delivers real-time business news to over 360 million households globally.">Bloomberg Television, an award winning, multi-platform 24-hour business and financial news network, provides continuous coverage of the people, companies and ideas that move global markets. Bloomberg Television delivers real-time business news to over 360 million households globally.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="416647" xmltv_id="10 BOLD NT">10 BOLD NT</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="428970" xmltv_id="4ME Regional">4ME Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431029" xmltv_id="NITV TAS">NITV TAS</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="Channel Seven Queensland, Rockhampton">Channel Seven Queensland, Rockhampton</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="7HD Queensland, Rockhampton">7HD Queensland, Rockhampton</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289720" xmltv_id="PRIME7 Northern, Tamworth/Taree/Port Macquarie">PRIME7 Northern, Tamworth/Taree/Port Macquarie</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289721" xmltv_id="PRIME7 Northern, Newcastle">PRIME7 Northern, Newcastle</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289722" xmltv_id="PRIME7 Southern, Canberra">PRIME7 Southern, Canberra</channel>
@@ -836,20 +887,20 @@
     <channel update="i" site="fetchtv.com.au" site_id="431090" xmltv_id="WIN GOLD VIC">WIN GOLD VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431091" xmltv_id="WIN GOLD TAS">WIN GOLD TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431092" xmltv_id="WIN GOLD QLD">WIN GOLD QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Aspire NSW">Aspire NSW</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Aspire QLD">Aspire QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Aspire VIC">Aspire VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Sky News Regional NSW">Sky News Regional NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Sky News Regional QLD">Sky News Regional QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Sky News Regional VIC">Sky News Regional VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431098" xmltv_id="ishoptv NSW">ishoptv NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431099" xmltv_id="ishoptv QLD">ishoptv QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431100" xmltv_id="ishoptv VIC">ishoptv VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="11277" xmltv_id="Extra 2 channels with no EPG provided">Extra 2 channels with no EPG provided</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431619" xmltv_id="7HD Perth">7HD Perth</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="SpreeTV NSW">SpreeTV NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="gecko NSW">gecko NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259105" xmltv_id="SBS Eastern">SBS Eastern</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259106" xmltv_id="SBS SA">SBS SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259107" xmltv_id="SBS WA">SBS WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406565" xmltv_id="10 Peach VIC">10 Peach VIC</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="SpreeTV QLD">SpreeTV QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="gecko QLD">gecko QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406567" xmltv_id="10 Peach NSW">10 Peach NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406568" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431149" xmltv_id="TVSN TAS">TVSN TAS</channel>
@@ -900,11 +951,12 @@
     <channel update="i" site="fetchtv.com.au" site_id="1352" xmltv_id="Food Network brings food entertainment to a whole new level, showcasing the best of world cuisines through innovative, cutting-edge program concepts with high entertainment value.   You can enjoy some on-demand content from Food Network in the catch-up menu, and we're working to bring you more.">Food Network brings food entertainment to a whole new level, showcasing the best of world cuisines through innovative, cutting-edge program concepts with high entertainment value.   You can enjoy some on-demand content from Food Network in the catch-up menu, and we're working to bring you more.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="1358" xmltv_id="An award winning classical, cinematic and chill-out music video channel.">An award winning classical, cinematic and chill-out music video channel.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="281938" xmltv_id="NBN Gold Coast">NBN Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="1370" xmltv_id="ZooMoo explores the animal world in ways that are entertaining, interactive and enriching, sparking in kids a love for animals.">ZooMoo explores the animal world in ways that are entertaining, interactive and enriching, sparking in kids a love for animals.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429410" xmltv_id="10HD Griffith">10HD Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429416" xmltv_id="10 BOLD Griffith">10 BOLD Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431477" xmltv_id="RACING.COM NT">RACING.COM NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431478" xmltv_id="RACING.COM TAS">RACING.COM TAS</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7mate Queensland">7mate Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431491" xmltv_id="SBS Food NSW">SBS Food NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431492" xmltv_id="SBS Food VIC">SBS Food VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431493" xmltv_id="SBS Food WA">SBS Food WA</channel>
@@ -973,10 +1025,11 @@
     <channel update="i" site="fetchtv.com.au" site_id="431667" xmltv_id="10 SHAKE NSW">10 SHAKE NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431668" xmltv_id="10 SHAKE QLD">10 SHAKE QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431669" xmltv_id="10 SHAKE VIC">10 SHAKE VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="1592" xmltv_id="Times Now is a leading 24-hour English news channel that provides complete live coverage of the latest news and headlines direct from India.">Times Now is a leading 24-hour English news channel that provides complete live coverage of the latest news and headlines direct from India.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431674" xmltv_id="10HD TAS">10HD TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="390715" xmltv_id="Double J Sydney">Double J Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="390716" xmltv_id="ABC Jazz Sydney">ABC Jazz Sydney</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="Channel Seven Queensland, Townsville">Channel Seven Queensland, Townsville</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="7HD Queensland, Townsville">7HD Queensland, Townsville</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431030" xmltv_id="NITV NT">NITV NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18017" xmltv_id="NBN NSW">NBN NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431688" xmltv_id="WIN GOLD SA">WIN GOLD SA</channel>
@@ -1031,6 +1084,8 @@
     <channel update="i" site="fetchtv.com.au" site_id="431816" xmltv_id="7flix Prime QLD">7flix Prime QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431817" xmltv_id="7flix Prime NSW">7flix Prime NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="392906" xmltv_id="PRIME7 Victoria, Gippsland">PRIME7 Victoria, Gippsland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2377" xmltv_id="Home to the top trending clips, most entertaining memes, and funniest animal videos online.">Home to the top trending clips, most entertaining memes, and funniest animal videos online.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432421" xmltv_id="SBS World Watch QLD">SBS World Watch QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432080" xmltv_id="ABC Classic Sydney">ABC Classic Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432083" xmltv_id="ABC RN Sydney">ABC RN Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431865" xmltv_id="SBN NT">SBN NT</channel>
@@ -1053,6 +1108,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="431882" xmltv_id="PRIME7 HD Victoria, Regional">PRIME7 HD Victoria, Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421643" xmltv_id="10 Peach Griffith">10 Peach Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432088" xmltv_id="ABC Melbourne">ABC Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2379" xmltv_id="Outdoor Channel is all about REAL.LIFE.ADVENTURE. with outdoor themes and personalities focused on adventure, lifestyle, entertainment and wildlife.">Outdoor Channel is all about REAL.LIFE.ADVENTURE. with outdoor themes and personalities focused on adventure, lifestyle, entertainment and wildlife.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432092" xmltv_id="ABC Brisbane">ABC Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="16173" xmltv_id="10 Perth">10 Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432093" xmltv_id="ABC Classic Melbourne">ABC Classic Melbourne</channel>
@@ -1064,19 +1120,19 @@
     <channel update="i" site="fetchtv.com.au" site_id="432096" xmltv_id="ABC Classic Perth">ABC Classic Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432097" xmltv_id="ABC Classic Hobart">ABC Classic Hobart</channel>
     <channel update="i" site="fetchtv.com.au" site_id="85832" xmltv_id="Channel Seven Adelaide">Channel Seven Adelaide</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="WIN Sky Southern NSW">WIN Sky Southern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="9Life NSW">9Life NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432098" xmltv_id="ABC Classic Darwin">ABC Classic Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="WIN Sky Northern NSW">WIN Sky Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="Sky News Regional">Sky News Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432099" xmltv_id="ABC Classic Canberra">ABC Classic Canberra</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="WIN Sky Queensland">WIN Sky Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="9Life QLD">9Life QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432100" xmltv_id="ABC Country Melbourne">ABC Country Melbourne</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="WIN Sky Victoria">WIN Sky Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="9Life VIC">9Life VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="96100" xmltv_id="Channel Seven Melbourne">Channel Seven Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432102" xmltv_id="ABC Country Adelaide">ABC Country Adelaide</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="WIN Sky Tasmania">WIN Sky Tasmania</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="WIN Sky South Australia">WIN Sky South Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="9Life TAS">9Life TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="9Life SA">9Life SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432103" xmltv_id="ABC Country Perth">ABC Country Perth</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="WIN Sky Western Australia">WIN Sky Western Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="9Life WA">9Life WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="249832" xmltv_id="ABC TV WA">ABC TV WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="96115" xmltv_id="Channel Nine Perth">Channel Nine Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18294" xmltv_id="ABC TV NSW">ABC TV NSW</channel>
@@ -1104,6 +1160,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="432038" xmltv_id="SBS World Movies Victoria">SBS World Movies Victoria</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429041" xmltv_id="9Go! SA">9Go! SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="12201" xmltv_id="VICELAND SD has been replaced by SBS World Movies">VICELAND SD has been replaced by SBS World Movies</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2375" xmltv_id="The world's number one source for epic fail videos and hilarious compilations.">The world's number one source for epic fail videos and hilarious compilations.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251820" xmltv_id="9 VIC">9 VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251821" xmltv_id="9 Mildura">9 Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251823" xmltv_id="7HD SA">7HD SA</channel>
@@ -1123,7 +1180,6 @@
     <channel update="i" site="fetchtv.com.au" site_id="251839" xmltv_id="10 VIC">10 VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251840" xmltv_id="10 Albury">10 Albury</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251843" xmltv_id="10 QLD">10 QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="432068" xmltv_id="Openshop">Openshop</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432069" xmltv_id="NBN 9GEM NSW HD">NBN 9GEM NSW HD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432070" xmltv_id="NBN 9GEM Gold Coast HD">NBN 9GEM Gold Coast HD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432079" xmltv_id="ABC Sydney">ABC Sydney</channel>
@@ -1223,10 +1279,14 @@
     <channel update="i" site="fetchtv.com.au" site_id="428123" xmltv_id="10 BOLD WA">10 BOLD WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432220" xmltv_id="9Rush Adelaide">9Rush Adelaide</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432221" xmltv_id="9Rush Brisbane">9Rush Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2143" xmltv_id="SBS On Demand AVC">SBS On Demand AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432224" xmltv_id="9Rush Melbourne">9Rush Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432225" xmltv_id="9Rush Perth">9Rush Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2146" xmltv_id="7plus AVC">7plus AVC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2149" xmltv_id="9Now AVC">9Now AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432230" xmltv_id="9HD Albury">9HD Albury</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432231" xmltv_id="9HD Mildura">9HD Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2152" xmltv_id="ABC iview">ABC iview</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407657" xmltv_id="9Go! Melbourne">9Go! Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407658" xmltv_id="9Go! Brisbane">9Go! Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="417903" xmltv_id="SBS Radio 1 Vic">SBS Radio 1 Vic</channel>
@@ -1265,32 +1325,41 @@
     <channel update="i" site="fetchtv.com.au" site_id="432305" xmltv_id="9Life Broken Hill">9Life Broken Hill</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430263" xmltv_id="7TWO Griffith">7TWO Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431818" xmltv_id="7flix Prime VIC">7flix Prime VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432323" xmltv_id="Sky News Regional SA">Sky News Regional SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421319" xmltv_id="NBN 9GO! NSW">NBN 9GO! NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407760" xmltv_id="9Go! Sydney">9Go! Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="286937" xmltv_id="PRIME7 Gold Coast">PRIME7 Gold Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="387291" xmltv_id="7mate Sydney">7mate Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="428254" xmltv_id="10 Shepparton">10 Shepparton</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="SpreeTV VIC">SpreeTV VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="gecko VIC">gecko VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="224" xmltv_id="BabyTV is dedicated to babies, toddlers and parents. Developed by educational experts, BabyTV programming offers an inspiring journey filled with numbers, animals, colours, music and more. Plus, it's completely commercial-free.">BabyTV is dedicated to babies, toddlers and parents. Developed by educational experts, BabyTV programming offers an inspiring journey filled with numbers, animals, colours, music and more. Plus, it's completely commercial-free.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="234" xmltv_id="FRANCE 24 offers a French perspective on global news. With a fresh and original tone it's a worthy alternative to conventional news sources.">FRANCE 24 offers a French perspective on global news. With a fresh and original tone it's a worthy alternative to conventional news sources.</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="SpreeTV SA">SpreeTV SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="gecko SA">gecko SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18671" xmltv_id="Channel Nine Sydney">Channel Nine Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="381168" xmltv_id="PRIME7 Southern, Wollongong">PRIME7 Southern, Wollongong</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="SpreeTV WA">SpreeTV WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="gecko WA">gecko WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="381170" xmltv_id="PRIME7 Southern, Orange">PRIME7 Southern, Orange</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="Channel Seven Queensland, Cairns">Channel Seven Queensland, Cairns</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="Channel Seven Queensland, Toowoomba">Channel Seven Queensland, Toowoomba</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="Channel Seven Queensland, Mackay">Channel Seven Queensland, Mackay</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="Channel Seven Queensland, Wide Bay">Channel Seven Queensland, Wide Bay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="7HD Queensland, Cairns">7HD Queensland, Cairns</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="7HD QLD, Toowoomba">7HD QLD, Toowoomba</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="7HD Queensland, Mackay">7HD Queensland, Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="7HD Queensland, Wide Bay">7HD Queensland, Wide Bay</channel>
     <channel update="i" site="fetchtv.com.au" site_id="391420" xmltv_id="Channel Seven Queensland, Sunshine Coast">Channel Seven Queensland, Sunshine Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407805" xmltv_id="9Go! VIC">9Go! VIC</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="2308" xmltv_id="Optus Sport Free to Watch">Optus Sport Free to Watch</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2309" xmltv_id="MSNBC is the premiere destination for breaking news and in-depth analysis through commentary and informed perspectives. MSNBC offers live news coverage, influential voices, and award-winning documentary programming - 24 hours a day, 7 days a week. MSNBC also delivers breaking news and information on www.msnbc.com.">MSNBC is the premiere destination for breaking news and in-depth analysis through commentary and informed perspectives. MSNBC offers live news coverage, influential voices, and award-winning documentary programming - 24 hours a day, 7 days a week. MSNBC also delivers breaking news and information on www.msnbc.com.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2313" xmltv_id="BBC BRIT features an entertaining mix of subjects such as motoring, adventure, life-changing moments, extreme characters and ultimate challenges. Key programming includes Top Gear, Extra Gear, Louis Theroux\u2019s Weird Weekends, Special Forces Ultimate Hell Week, Fugitives, Gordon Ramsay\u2019s Kitchen Nightmares and many more.">BBC BRIT features an entertaining mix of subjects such as motoring, adventure, life-changing moments, extreme characters and ultimate challenges. Key programming includes Top Gear, Extra Gear, Louis Theroux\u2019s Weird Weekends, Special Forces Ultimate Hell Week, Fugitives, Gordon Ramsay\u2019s Kitchen Nightmares and many more.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407824" xmltv_id="9Gem TAS">9Gem TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="407827" xmltv_id="9Go! WA">9Go! WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="413061" xmltv_id="SBS HD Tasmania">SBS HD Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432416" xmltv_id="SBS World Watch NT">SBS World Watch NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432417" xmltv_id="SBS World Watch VIC">SBS World Watch VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432418" xmltv_id="SBS World Watch TAS">SBS World Watch TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432419" xmltv_id="SBS World Watch SA">SBS World Watch SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432420" xmltv_id="SBS World Watch WA">SBS World Watch WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="413062" xmltv_id="SBS HD NT">SBS HD NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429233" xmltv_id="4ME WA">4ME WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432426" xmltv_id="7mate Prime HD NSW">7mate Prime HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432427" xmltv_id="7mate Prime HD VIC">7mate Prime HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2349" xmltv_id="Movie Store AVC">Movie Store AVC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2355" xmltv_id="Country Music Television at its finest. Featuring the best in country music from Nashville to Tamworth and everywhere in between. Tune in for programming highlights which include; Homegrown Country, New Country, Vintage and #1 Country Hits, and Superstar CMT Hours from all your favourite country stars. If it\u2019s country music you want and it\u2019s country music you love, CMT has got you covered!">Country Music Television at its finest. Featuring the best in country music from Nashville to Tamworth and everywhere in between. Tune in for programming highlights which include; Homegrown Country, New Country, Vintage and #1 Country Hits, and Superstar CMT Hours from all your favourite country stars. If it\u2019s country music you want and it\u2019s country music you love, CMT has got you covered!</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403765" xmltv_id="10 Peach Brisbane">10 Peach Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403766" xmltv_id="10 Peach Adelaide">10 Peach Adelaide</channel>
@@ -1298,8 +1367,20 @@
     <channel update="i" site="fetchtv.com.au" site_id="403768" xmltv_id="10 Peach Perth">10 Peach Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="403769" xmltv_id="10 Peach Sydney">10 Peach Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="2365" xmltv_id="Nick Music is a dedicated music channel for kids featuring chart-topping hits by the world\u2019s most popular artists. Nick Music is a Nickelodeon curated line up of the latest music videos and Top 40 hits to keep the whole family entertained!">Nick Music is a dedicated music channel for kids featuring chart-topping hits by the world\u2019s most popular artists. Nick Music is a Nickelodeon curated line up of the latest music videos and Top 40 hits to keep the whole family entertained!</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2366" xmltv_id="Entertaining, energetic, unpredictable and clever, BBC Kids is a brand new channel that kids will love. With loads of exciting shows from comedy, drama and entertainment to natural history and documentaries.">Entertaining, energetic, unpredictable and clever, BBC Kids is a brand new channel that kids will love. With loads of exciting shows from comedy, drama and entertainment to natural history and documentaries.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432448" xmltv_id="7Bravo NSW">7Bravo NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432451" xmltv_id="7Bravo VIC">7Bravo VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432452" xmltv_id="7Bravo QLD">7Bravo QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432454" xmltv_id="7Bravo SA">7Bravo SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432455" xmltv_id="7Bravo WA">7Bravo WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2376" xmltv_id="A one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things.">A one-of-a-kind channel that spotlights the awesome power of ordinary people doing extraordinary things.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="250185" xmltv_id="10 Melbourne">10 Melbourne</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10  Adelaide">10  Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2378" xmltv_id="Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad.">Nosey is the stuff you can't make up. Watch full episodes of Maury Povich, Jerry Springer, Judge Mom and Judge Dad.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10 Adelaide">10 Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2380" xmltv_id="Lifestyle Lives Here! Come eat, travel, and adventure with us. INFAST puts the life in style, and takes you on a journey to all corners of the world, showing the best in food, fashion, travel and trends of today.">Lifestyle Lives Here! Come eat, travel, and adventure with us. INFAST puts the life in style, and takes you on a journey to all corners of the world, showing the best in food, fashion, travel and trends of today.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2381" xmltv_id="Where action and excitement meet to offer you thrilling experiences right on your screen.">Where action and excitement meet to offer you thrilling experiences right on your screen.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2382" xmltv_id="A unique perspective on science, technology and everything in between.">A unique perspective on science, technology and everything in between.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2400" xmltv_id="ABC Kids iview">ABC Kids iview</channel>
     <channel update="i" site="fetchtv.com.au" site_id="260450" xmltv_id="Channel Nine Gold Coast">Channel Nine Gold Coast</channel>
     <channel update="i" site="fetchtv.com.au" site_id="260461" xmltv_id="Channel Nine Brisbane">Channel Nine Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="422289" xmltv_id="10 BOLD VIC">10 BOLD VIC</channel>
@@ -1311,12 +1392,13 @@
     <channel update="i" site="fetchtv.com.au" site_id="432101" xmltv_id="ABC Country Brisbane">ABC Country Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431515" xmltv_id="9Life Perth">9Life Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264617" xmltv_id="SBS Tasmania">SBS Tasmania</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="1719" xmltv_id="eGG Network is a 24/7 eSports and gaming entertainment channel. Fans can enjoy some of the biggest eSports tournaments, leagues and the best gaming entertainment program from the comfort of their living room.">eGG Network is a 24/7 eSports and gaming entertainment channel. Fans can enjoy some of the biggest eSports tournaments, leagues and the best gaming entertainment program from the comfort of their living room.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432200" xmltv_id="7HD SA">7HD SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="252342" xmltv_id="Channel Nine Melbourne">Channel Nine Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18891" xmltv_id="Channel Seven Sydney">Channel Seven Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432415" xmltv_id="SBS World Watch NSW">SBS World Watch NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="420314" xmltv_id="9Go! Darwin">9Go! Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO QLD">7TWO QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2130" xmltv_id="Oxygen is the crime destination that promises a consistent, unique and high quality experience to fans of the genre, providing real-time investigations and dynamic docu-series all with unprecedented access.  We dive into the heart of these real-life mysteries and investigations to convert our viewers into armchair detectives with a deeper understanding of the psychology of crime.">Oxygen is the crime destination that promises a consistent, unique and high quality experience to fans of the genre, providing real-time investigations and dynamic docu-series all with unprecedented access.  We dive into the heart of these real-life mysteries and investigations to convert our viewers into armchair detectives with a deeper understanding of the psychology of crime.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432104" xmltv_id="ABC Country Hobart">ABC Country Hobart</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432215" xmltv_id="10 SA">10 SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432216" xmltv_id="10HD SA">10HD SA</channel>
@@ -1337,14 +1419,12 @@
     <channel update="i" site="fetchtv.com.au" site_id="264783" xmltv_id="SBS Queensland">SBS Queensland</channel>
     <channel update="i" site="fetchtv.com.au" site_id="275039" xmltv_id="10 SA">10 SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426593" xmltv_id="7mate QLD">7mate QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="610" xmltv_id="NDTV 24x7, the flagship English news channel from NDTV Limited, is a 24-hour news and infotainment channel with news from India, international, entertainment and sports. The channel is the market leader with an unrivalled reputation for excellence, featuring many award-winning programs and anchors.">NDTV 24x7, the flagship English news channel from NDTV Limited, is a 24-hour news and infotainment channel with news from India, international, entertainment and sports. The channel is the market leader with an unrivalled reputation for excellence, featuring many award-winning programs and anchors.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426595" xmltv_id="Imparja GO! Qld">Imparja GO! Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426597" xmltv_id="Imparja GEM Qld">Imparja GEM Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426599" xmltv_id="10 Central QLD">10 Central QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426600" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426603" xmltv_id="10 BOLD Central Qld">10 BOLD Central Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="92783" xmltv_id="Channel Seven Brisbane">Channel Seven Brisbane</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="627" xmltv_id="CGTN - China Global Television Network, is an English language channel reporting news and information from China and around the world to a global audience.">CGTN - China Global Television Network, is an English language channel reporting news and information from China and around the world to a global audience.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264823" xmltv_id="Imparja Television NSW/Vic">Imparja Television NSW/Vic</channel>
     <channel update="i" site="fetchtv.com.au" site_id="264824" xmltv_id="Imparja Television Qld">Imparja Television Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="654" xmltv_id="The chart-toppers, award-winners and stadium-fillers from Australia and across the globe. A non-stop music festival of the hottest hits right now.">The chart-toppers, award-winners and stadium-fillers from Australia and across the globe. A non-stop music festival of the hottest hits right now.</channel>
@@ -1357,7 +1437,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="429042" xmltv_id="10 BOLD SA">10 BOLD SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421323" xmltv_id="9Gem VIC">9Gem VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432112" xmltv_id="ABC Kids Listen Darwin">ABC Kids Listen Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate on Prime Qld">7mate on Prime Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate Prime Qld">7mate Prime Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430839" xmltv_id="10HD Mildura">10HD Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430840" xmltv_id="10 BOLD Mildura">10 BOLD Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="388566" xmltv_id="7mate Brisbane">7mate Brisbane</channel>
@@ -1372,7 +1452,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="430903" xmltv_id="Imparja GEM NSW">Imparja GEM NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430904" xmltv_id="Imparja GO! NSW">Imparja GO! NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="394041" xmltv_id="9Gem Darwin">9Gem Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO Central Qld">7TWO Central Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO HD Central Qld">7TWO HD Central Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426811" xmltv_id="GWN7mate">GWN7mate</channel>
     <channel update="i" site="fetchtv.com.au" site_id="394044" xmltv_id="7mate TAS">7mate TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="428862" xmltv_id="10 BOLD Central">10 BOLD Central</channel>
@@ -1384,7 +1464,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="430926" xmltv_id="NITV WA">NITV WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="426810" xmltv_id="GWN7TWO">GWN7TWO</channel>
     <channel update="i" site="fetchtv.com.au" site_id="412512" xmltv_id="7TWO Prime NSW">7TWO Prime NSW</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO Prime Qld">7TWO Prime Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO HD Prime Qld">7TWO HD Prime Qld</channel>
     <channel update="i" site="fetchtv.com.au" site_id="412514" xmltv_id="7TWO Prime Vic">7TWO Prime Vic</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430948" xmltv_id="7TWO Central">7TWO Central</channel>
     <channel update="i" site="fetchtv.com.au" site_id="430949" xmltv_id="7mate Central">7mate Central</channel>
@@ -1393,9 +1473,8 @@
     <channel update="i" site="fetchtv.com.au" site_id="430960" xmltv_id="10 Peach Central">10 Peach Central</channel>
     <channel update="i" site="fetchtv.com.au" site_id="900" xmltv_id="Bloomberg Television, an award winning, multi-platform 24-hour business and financial news network, provides continuous coverage of the people, companies and ideas that move global markets. Bloomberg Television delivers real-time business news to over 360 million households globally.">Bloomberg Television, an award winning, multi-platform 24-hour business and financial news network, provides continuous coverage of the people, companies and ideas that move global markets. Bloomberg Television delivers real-time business news to over 360 million households globally.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="416647" xmltv_id="10 BOLD NT">10 BOLD NT</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="428970" xmltv_id="4ME Regional">4ME Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431029" xmltv_id="NITV TAS">NITV TAS</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="Channel Seven Queensland, Rockhampton">Channel Seven Queensland, Rockhampton</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="7HD Queensland, Rockhampton">7HD Queensland, Rockhampton</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289720" xmltv_id="PRIME7 Northern, Tamworth/Taree/Port Macquarie">PRIME7 Northern, Tamworth/Taree/Port Macquarie</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289721" xmltv_id="PRIME7 Northern, Newcastle">PRIME7 Northern, Newcastle</channel>
     <channel update="i" site="fetchtv.com.au" site_id="289722" xmltv_id="PRIME7 Southern, Canberra">PRIME7 Southern, Canberra</channel>
@@ -1423,20 +1502,20 @@
     <channel update="i" site="fetchtv.com.au" site_id="431090" xmltv_id="WIN GOLD VIC">WIN GOLD VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431091" xmltv_id="WIN GOLD TAS">WIN GOLD TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431092" xmltv_id="WIN GOLD QLD">WIN GOLD QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Aspire NSW">Aspire NSW</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Aspire QLD">Aspire QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Aspire VIC">Aspire VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Sky News Regional NSW">Sky News Regional NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Sky News Regional QLD">Sky News Regional QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Sky News Regional VIC">Sky News Regional VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431098" xmltv_id="ishoptv NSW">ishoptv NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431099" xmltv_id="ishoptv QLD">ishoptv QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431100" xmltv_id="ishoptv VIC">ishoptv VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="11277" xmltv_id="Extra 2 channels with no EPG provided">Extra 2 channels with no EPG provided</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431619" xmltv_id="7HD Perth">7HD Perth</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="SpreeTV NSW">SpreeTV NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="gecko NSW">gecko NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259105" xmltv_id="SBS Eastern">SBS Eastern</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259106" xmltv_id="SBS SA">SBS SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="259107" xmltv_id="SBS WA">SBS WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406565" xmltv_id="10 Peach VIC">10 Peach VIC</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="SpreeTV QLD">SpreeTV QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="gecko QLD">gecko QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406567" xmltv_id="10 Peach NSW">10 Peach NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="406568" xmltv_id="10 Peach QLD">10 Peach QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431149" xmltv_id="TVSN TAS">TVSN TAS</channel>
@@ -1487,11 +1566,12 @@
     <channel update="i" site="fetchtv.com.au" site_id="1352" xmltv_id="Food Network brings food entertainment to a whole new level, showcasing the best of world cuisines through innovative, cutting-edge program concepts with high entertainment value.   You can enjoy some on-demand content from Food Network in the catch-up menu, and we're working to bring you more.">Food Network brings food entertainment to a whole new level, showcasing the best of world cuisines through innovative, cutting-edge program concepts with high entertainment value.   You can enjoy some on-demand content from Food Network in the catch-up menu, and we're working to bring you more.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="1358" xmltv_id="An award winning classical, cinematic and chill-out music video channel.">An award winning classical, cinematic and chill-out music video channel.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="281938" xmltv_id="NBN Gold Coast">NBN Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="1370" xmltv_id="ZooMoo explores the animal world in ways that are entertaining, interactive and enriching, sparking in kids a love for animals.">ZooMoo explores the animal world in ways that are entertaining, interactive and enriching, sparking in kids a love for animals.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429410" xmltv_id="10HD Griffith">10HD Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429416" xmltv_id="10 BOLD Griffith">10 BOLD Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431477" xmltv_id="RACING.COM NT">RACING.COM NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431478" xmltv_id="RACING.COM TAS">RACING.COM TAS</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7mate Queensland">7mate Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431491" xmltv_id="SBS Food NSW">SBS Food NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431492" xmltv_id="SBS Food VIC">SBS Food VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431493" xmltv_id="SBS Food WA">SBS Food WA</channel>
@@ -1560,10 +1640,11 @@
     <channel update="i" site="fetchtv.com.au" site_id="431667" xmltv_id="10 SHAKE NSW">10 SHAKE NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431668" xmltv_id="10 SHAKE QLD">10 SHAKE QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431669" xmltv_id="10 SHAKE VIC">10 SHAKE VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="1592" xmltv_id="Times Now is a leading 24-hour English news channel that provides complete live coverage of the latest news and headlines direct from India.">Times Now is a leading 24-hour English news channel that provides complete live coverage of the latest news and headlines direct from India.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431674" xmltv_id="10HD TAS">10HD TAS</channel>
     <channel update="i" site="fetchtv.com.au" site_id="390715" xmltv_id="Double J Sydney">Double J Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="390716" xmltv_id="ABC Jazz Sydney">ABC Jazz Sydney</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="Channel Seven Queensland, Townsville">Channel Seven Queensland, Townsville</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="7HD Queensland, Townsville">7HD Queensland, Townsville</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431030" xmltv_id="NITV NT">NITV NT</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18017" xmltv_id="NBN NSW">NBN NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431688" xmltv_id="WIN GOLD SA">WIN GOLD SA</channel>
@@ -1618,6 +1699,8 @@
     <channel update="i" site="fetchtv.com.au" site_id="431816" xmltv_id="7flix Prime QLD">7flix Prime QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431817" xmltv_id="7flix Prime NSW">7flix Prime NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="392906" xmltv_id="PRIME7 Victoria, Gippsland">PRIME7 Victoria, Gippsland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2377" xmltv_id="Home to the top trending clips, most entertaining memes, and funniest animal videos online.">Home to the top trending clips, most entertaining memes, and funniest animal videos online.</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432421" xmltv_id="SBS World Watch QLD">SBS World Watch QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432080" xmltv_id="ABC Classic Sydney">ABC Classic Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432083" xmltv_id="ABC RN Sydney">ABC RN Sydney</channel>
     <channel update="i" site="fetchtv.com.au" site_id="431865" xmltv_id="SBN NT">SBN NT</channel>
@@ -1640,6 +1723,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="431882" xmltv_id="PRIME7 HD Victoria, Regional">PRIME7 HD Victoria, Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="421643" xmltv_id="10 Peach Griffith">10 Peach Griffith</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432088" xmltv_id="ABC Melbourne">ABC Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2379" xmltv_id="Outdoor Channel is all about REAL.LIFE.ADVENTURE. with outdoor themes and personalities focused on adventure, lifestyle, entertainment and wildlife.">Outdoor Channel is all about REAL.LIFE.ADVENTURE. with outdoor themes and personalities focused on adventure, lifestyle, entertainment and wildlife.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432092" xmltv_id="ABC Brisbane">ABC Brisbane</channel>
     <channel update="i" site="fetchtv.com.au" site_id="16173" xmltv_id="10 Perth">10 Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432093" xmltv_id="ABC Classic Melbourne">ABC Classic Melbourne</channel>
@@ -1651,19 +1735,19 @@
     <channel update="i" site="fetchtv.com.au" site_id="432096" xmltv_id="ABC Classic Perth">ABC Classic Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432097" xmltv_id="ABC Classic Hobart">ABC Classic Hobart</channel>
     <channel update="i" site="fetchtv.com.au" site_id="85832" xmltv_id="Channel Seven Adelaide">Channel Seven Adelaide</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="WIN Sky Southern NSW">WIN Sky Southern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="9Life NSW">9Life NSW</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432098" xmltv_id="ABC Classic Darwin">ABC Classic Darwin</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="WIN Sky Northern NSW">WIN Sky Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="Sky News Regional">Sky News Regional</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432099" xmltv_id="ABC Classic Canberra">ABC Classic Canberra</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="WIN Sky Queensland">WIN Sky Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="9Life QLD">9Life QLD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432100" xmltv_id="ABC Country Melbourne">ABC Country Melbourne</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="WIN Sky Victoria">WIN Sky Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="9Life VIC">9Life VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="96100" xmltv_id="Channel Seven Melbourne">Channel Seven Melbourne</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432102" xmltv_id="ABC Country Adelaide">ABC Country Adelaide</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="WIN Sky Tasmania">WIN Sky Tasmania</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="WIN Sky South Australia">WIN Sky South Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="9Life TAS">9Life TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="9Life SA">9Life SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432103" xmltv_id="ABC Country Perth">ABC Country Perth</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="WIN Sky Western Australia">WIN Sky Western Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="9Life WA">9Life WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="249832" xmltv_id="ABC TV WA">ABC TV WA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="96115" xmltv_id="Channel Nine Perth">Channel Nine Perth</channel>
     <channel update="i" site="fetchtv.com.au" site_id="18294" xmltv_id="ABC TV NSW">ABC TV NSW</channel>
@@ -1691,6 +1775,7 @@
     <channel update="i" site="fetchtv.com.au" site_id="432038" xmltv_id="SBS World Movies Victoria">SBS World Movies Victoria</channel>
     <channel update="i" site="fetchtv.com.au" site_id="429041" xmltv_id="9Go! SA">9Go! SA</channel>
     <channel update="i" site="fetchtv.com.au" site_id="12201" xmltv_id="VICELAND SD has been replaced by SBS World Movies">VICELAND SD has been replaced by SBS World Movies</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="2375" xmltv_id="The world's number one source for epic fail videos and hilarious compilations.">The world's number one source for epic fail videos and hilarious compilations.</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251820" xmltv_id="9 VIC">9 VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251821" xmltv_id="9 Mildura">9 Mildura</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251823" xmltv_id="7HD SA">7HD SA</channel>
@@ -1710,7 +1795,6 @@
     <channel update="i" site="fetchtv.com.au" site_id="251839" xmltv_id="10 VIC">10 VIC</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251840" xmltv_id="10 Albury">10 Albury</channel>
     <channel update="i" site="fetchtv.com.au" site_id="251843" xmltv_id="10 QLD">10 QLD</channel>
-    <channel update="i" site="fetchtv.com.au" site_id="432068" xmltv_id="Openshop">Openshop</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432069" xmltv_id="NBN 9GEM NSW HD">NBN 9GEM NSW HD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432070" xmltv_id="NBN 9GEM Gold Coast HD">NBN 9GEM Gold Coast HD</channel>
     <channel update="i" site="fetchtv.com.au" site_id="432079" xmltv_id="ABC Sydney">ABC Sydney</channel>
