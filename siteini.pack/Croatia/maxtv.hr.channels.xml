@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.4 -- Jan van Straaten" site="maxtv.hr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="maxtv.hr">
   <channels>
     <channel update="i" site="maxtv.hr" site_id="98" xmltv_id="MAXtv Promo">MAXtv Promo</channel>
     <channel update="i" site="maxtv.hr" site_id="431" xmltv_id="HRT 1">HRT 1</channel>
@@ -13,9 +13,10 @@
     <channel update="i" site="maxtv.hr" site_id="187" xmltv_id="RTL Living">RTL Living</channel>
     <channel update="i" site="maxtv.hr" site_id="612" xmltv_id="Pickbox TV ">Pickbox TV </channel>
     <channel update="i" site="maxtv.hr" site_id="205" xmltv_id="N1">N1</channel>
-    <channel update="i" site="maxtv.hr" site_id="96" xmltv_id="Sportska televizija">Sportska televizija</channel>
+    <channel update="i" site="maxtv.hr" site_id="849" xmltv_id="MAXSport 1">MAXSport 1</channel>
     <channel update="i" site="maxtv.hr" site_id="342" xmltv_id="RTL Crime">RTL Crime</channel>
     <channel update="i" site="maxtv.hr" site_id="439" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel update="i" site="maxtv.hr" site_id="96" xmltv_id="Sportska televizija">Sportska televizija</channel>
     <channel update="i" site="maxtv.hr" site_id="750" xmltv_id="HRT 1 HD">HRT 1 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="702" xmltv_id="HRT 2 HD">HRT 2 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="739" xmltv_id="RTL HD">RTL HD</channel>
@@ -34,25 +35,15 @@
     <channel update="i" site="maxtv.hr" site_id="193" xmltv_id="Arenasport 4 HD">Arenasport 4 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="194" xmltv_id="Arenasport 5 HD">Arenasport 5 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="376" xmltv_id="Arenasport 6 HD">Arenasport 6 HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="438" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="344" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="345" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="238" xmltv_id="Cinemax HD">Cinemax HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="239" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="628" xmltv_id="Sport Klub 4K">Sport Klub 4K</channel>
-    <channel update="i" site="maxtv.hr" site_id="460" xmltv_id="Sport Klub 1 HD">Sport Klub 1 HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="461" xmltv_id="Sport Klub 2 HD">Sport Klub 2 HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="462" xmltv_id="Sport Klub 3 HD">Sport Klub 3 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="845" xmltv_id="CineStar TV 1 HD">CineStar TV 1 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="636" xmltv_id="CineStar TV Premiere 1 HD">CineStar TV Premiere 1 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="637" xmltv_id="CineStar TV Premiere 2 HD">CineStar TV Premiere 2 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="846" xmltv_id="CineStar TV Action &amp; Thriller HD">CineStar TV Action &amp; Thriller HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="718" xmltv_id="CineStar Fantasy HD">CineStar Fantasy HD</channel>
+    <channel update="i" site="maxtv.hr" site_id="718" xmltv_id="CineStar TV Fantasy HD">CineStar TV Fantasy HD</channel>
     <channel update="i" site="maxtv.hr" site_id="844" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
     <channel update="i" site="maxtv.hr" site_id="843" xmltv_id="CineStar TV 2 HD">CineStar TV 2 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="737" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
     <channel update="i" site="maxtv.hr" site_id="738" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
-    <channel update="i" site="maxtv.hr" site_id="645" xmltv_id="CineStar Fantasy HD - info">CineStar Fantasy HD - info</channel>
     <channel update="i" site="maxtv.hr" site_id="801" xmltv_id="Arenasport 7 HD">Arenasport 7 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="802" xmltv_id="Arenasport 8 HD">Arenasport 8 HD</channel>
     <channel update="i" site="maxtv.hr" site_id="803" xmltv_id="Arenasport 9 HD">Arenasport 9 HD</channel>
@@ -70,15 +61,15 @@
     <channel update="i" site="maxtv.hr" site_id="631" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="maxtv.hr" site_id="639" xmltv_id="Woman">Woman</channel>
     <channel update="i" site="maxtv.hr" site_id="818" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
-    <channel update="i" site="maxtv.hr" site_id="388" xmltv_id="Vavoom">Vavoom</channel>
+    <channel update="i" site="maxtv.hr" site_id="854" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="maxtv.hr" site_id="164" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="maxtv.hr" site_id="423" xmltv_id="Da Vinci">Da Vinci</channel>
-    <channel update="i" site="maxtv.hr" site_id="425" xmltv_id="Boomerang TV">Boomerang TV</channel>
+    <channel update="i" site="maxtv.hr" site_id="855" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="maxtv.hr" site_id="425" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="maxtv.hr" site_id="427" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="maxtv.hr" site_id="499" xmltv_id="Nickelodeon hrvatski">Nickelodeon hrvatski</channel>
     <channel update="i" site="maxtv.hr" site_id="242" xmltv_id="KiKa">KiKa</channel>
     <channel update="i" site="maxtv.hr" site_id="392" xmltv_id="Mini TV">Mini TV</channel>
-    <channel update="i" site="maxtv.hr" site_id="393" xmltv_id="Pikaboo">Pikaboo</channel>
     <channel update="i" site="maxtv.hr" site_id="428" xmltv_id="Nick Jr. hrvatski">Nick Jr. hrvatski</channel>
     <channel update="i" site="maxtv.hr" site_id="430" xmltv_id="Nickelodeon engleski">Nickelodeon engleski</channel>
     <channel update="i" site="maxtv.hr" site_id="429" xmltv_id="Nick Jr. engleski">Nick Jr. engleski</channel>
@@ -125,22 +116,9 @@
     <channel update="i" site="maxtv.hr" site_id="445" xmltv_id="Arenasport 4">Arenasport 4</channel>
     <channel update="i" site="maxtv.hr" site_id="449" xmltv_id="Arenasport 5">Arenasport 5</channel>
     <channel update="i" site="maxtv.hr" site_id="207" xmltv_id="Arenasport 6 ">Arenasport 6 </channel>
-    <channel update="i" site="maxtv.hr" site_id="310" xmltv_id="HNTV">HNTV</channel>
-    <channel update="i" site="maxtv.hr" site_id="751" xmltv_id="E Sports">E Sports</channel>
-    <channel update="i" site="maxtv.hr" site_id="206" xmltv_id="SK Fight ">SK Fight </channel>
-    <channel update="i" site="maxtv.hr" site_id="308" xmltv_id="Sport Klub start">Sport Klub start</channel>
-    <channel update="i" site="maxtv.hr" site_id="447" xmltv_id="Sport Klub 1">Sport Klub 1</channel>
-    <channel update="i" site="maxtv.hr" site_id="448" xmltv_id="Sport Klub 2">Sport Klub 2</channel>
-    <channel update="i" site="maxtv.hr" site_id="221" xmltv_id="Sport Klub 3">Sport Klub 3</channel>
-    <channel update="i" site="maxtv.hr" site_id="222" xmltv_id="Sport Klub 4">Sport Klub 4</channel>
-    <channel update="i" site="maxtv.hr" site_id="223" xmltv_id="Sport Klub 5">Sport Klub 5</channel>
-    <channel update="i" site="maxtv.hr" site_id="224" xmltv_id="Sport Klub 6">Sport Klub 6</channel>
-    <channel update="i" site="maxtv.hr" site_id="752" xmltv_id="Sport Klub 7">Sport Klub 7</channel>
-    <channel update="i" site="maxtv.hr" site_id="753" xmltv_id="Sport Klub 8">Sport Klub 8</channel>
-    <channel update="i" site="maxtv.hr" site_id="754" xmltv_id="Sport Klub 9">Sport Klub 9</channel>
-    <channel update="i" site="maxtv.hr" site_id="755" xmltv_id="Sport Klub 10">Sport Klub 10</channel>
-    <channel update="i" site="maxtv.hr" site_id="312" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
-    <channel update="i" site="maxtv.hr" site_id="313" xmltv_id="Sport Klub Golf">Sport Klub Golf</channel>
+    <channel update="i" site="maxtv.hr" site_id="850" xmltv_id="MAXSport 2">MAXSport 2</channel>
+    <channel update="i" site="maxtv.hr" site_id="751" xmltv_id="Arena Esport">Arena Esport</channel>
+    <channel update="i" site="maxtv.hr" site_id="206" xmltv_id="Arena Fight ">Arena Fight </channel>
     <channel update="i" site="maxtv.hr" site_id="309" xmltv_id="Sport 1">Sport 1</channel>
     <channel update="i" site="maxtv.hr" site_id="314" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="maxtv.hr" site_id="315" xmltv_id="Nautical Channel">Nautical Channel</channel>
@@ -158,10 +136,6 @@
     <channel update="i" site="maxtv.hr" site_id="806" xmltv_id="Arenasport 8 PPV">Arenasport 8 PPV</channel>
     <channel update="i" site="maxtv.hr" site_id="807" xmltv_id="Arenasport 9 PPV">Arenasport 9 PPV</channel>
     <channel update="i" site="maxtv.hr" site_id="808" xmltv_id="Arenasport 10 PPV">Arenasport 10 PPV</channel>
-    <channel update="i" site="maxtv.hr" site_id="418" xmltv_id="Sport Klub 1 PPV">Sport Klub 1 PPV</channel>
-    <channel update="i" site="maxtv.hr" site_id="419" xmltv_id="Sport Klub 2 PPV">Sport Klub 2 PPV</channel>
-    <channel update="i" site="maxtv.hr" site_id="420" xmltv_id="Sport Klub 3 PPV">Sport Klub 3 PPV</channel>
-    <channel update="i" site="maxtv.hr" site_id="421" xmltv_id="Sport Klub 4 PPV">Sport Klub 4 PPV</channel>
     <channel update="i" site="maxtv.hr" site_id="316" xmltv_id="24Kitchen">24Kitchen</channel>
     <channel update="i" site="maxtv.hr" site_id="317" xmltv_id="E! Entertainment">E! Entertainment</channel>
     <channel update="i" site="maxtv.hr" site_id="817" xmltv_id="Maria Vision Međugorje">Maria Vision Međugorje</channel>
@@ -178,7 +152,7 @@
     <channel update="i" site="maxtv.hr" site_id="324" xmltv_id="RAI 2">RAI 2</channel>
     <channel update="i" site="maxtv.hr" site_id="325" xmltv_id="RAI Scuola">RAI Scuola</channel>
     <channel update="i" site="maxtv.hr" site_id="771" xmltv_id="TV Koper - Capodistria">TV Koper - Capodistria</channel>
-    <channel update="i" site="maxtv.hr" site_id="258" xmltv_id="NTV Mir">NTV Mir</channel>
+    <channel update="i" site="maxtv.hr" site_id="312" xmltv_id="Balkan Trip">Balkan Trip</channel>
     <channel update="i" site="maxtv.hr" site_id="708" xmltv_id="Luxe TV">Luxe TV</channel>
     <channel update="i" site="maxtv.hr" site_id="709" xmltv_id="myZen.tv">myZen.tv</channel>
     <channel update="i" site="maxtv.hr" site_id="326" xmltv_id="Fashion TV">Fashion TV</channel>
@@ -192,14 +166,17 @@
     <channel update="i" site="maxtv.hr" site_id="298" xmltv_id="DMC">DMC</channel>
     <channel update="i" site="maxtv.hr" site_id="270" xmltv_id="DM SAT">DM SAT</channel>
     <channel update="i" site="maxtv.hr" site_id="179" xmltv_id="Jugoton">Jugoton</channel>
-    <channel update="i" site="maxtv.hr" site_id="182" xmltv_id="Narodni TV">Narodni TV</channel>
+    <channel update="i" site="maxtv.hr" site_id="182" xmltv_id="bravo! TV">bravo! TV</channel>
     <channel update="i" site="maxtv.hr" site_id="175" xmltv_id="HIT TV">HIT TV</channel>
     <channel update="i" site="maxtv.hr" site_id="271" xmltv_id="Balkanika">Balkanika</channel>
     <channel update="i" site="maxtv.hr" site_id="299" xmltv_id="Stingray Classica">Stingray Classica</channel>
-    <channel update="i" site="maxtv.hr" site_id="300" xmltv_id="Grand TV">Grand TV</channel>
+    <channel update="i" site="maxtv.hr" site_id="300" xmltv_id="Toxic TV">Toxic TV</channel>
     <channel update="i" site="maxtv.hr" site_id="824" xmltv_id="B1">B1</channel>
     <channel update="i" site="maxtv.hr" site_id="626" xmltv_id="NONSTOP">NONSTOP</channel>
     <channel update="i" site="maxtv.hr" site_id="670" xmltv_id="ExtraTV">ExtraTV</channel>
+    <channel update="i" site="maxtv.hr" site_id="853" xmltv_id="Toxic Folk">Toxic Folk</channel>
+    <channel update="i" site="maxtv.hr" site_id="852" xmltv_id="IDJ TV">IDJ TV</channel>
+    <channel update="i" site="maxtv.hr" site_id="851" xmltv_id="Klape i tambure">Klape i tambure</channel>
     <channel update="i" site="maxtv.hr" site_id="109" xmltv_id="GameHub">GameHub</channel>
     <channel update="i" site="maxtv.hr" site_id="272" xmltv_id="Zdrava TV">Zdrava TV</channel>
     <channel update="i" site="maxtv.hr" site_id="231" xmltv_id="Sky News">Sky News</channel>
@@ -211,15 +188,16 @@
     <channel update="i" site="maxtv.hr" site_id="273" xmltv_id="France 24 francuski">France 24 francuski</channel>
     <channel update="i" site="maxtv.hr" site_id="274" xmltv_id="France 24 engleski">France 24 engleski</channel>
     <channel update="i" site="maxtv.hr" site_id="773" xmltv_id="TRT WORLD">TRT WORLD</channel>
+    <channel update="i" site="maxtv.hr" site_id="858" xmltv_id="ICTbusiness TV">ICTbusiness TV</channel>
     <channel update="i" site="maxtv.hr" site_id="265" xmltv_id="DW njemački">DW njemački</channel>
     <channel update="i" site="maxtv.hr" site_id="104" xmltv_id="TV Sabor">TV Sabor</channel>
     <channel update="i" site="maxtv.hr" site_id="837" xmltv_id="DW engleski">DW engleski</channel>
     <channel update="i" site="maxtv.hr" site_id="128" xmltv_id="Radio HR1">Radio HR1</channel>
     <channel update="i" site="maxtv.hr" site_id="129" xmltv_id="Radio HR2">Radio HR2</channel>
     <channel update="i" site="maxtv.hr" site_id="130" xmltv_id="Radio HR3">Radio HR3</channel>
-    <channel update="i" site="maxtv.hr" site_id="132" xmltv_id="Radio Narodni">Radio Narodni</channel>
+    <channel update="i" site="maxtv.hr" site_id="132" xmltv_id="bravo!">bravo!</channel>
     <channel update="i" site="maxtv.hr" site_id="133" xmltv_id="Radio Otvoreni">Radio Otvoreni</channel>
-    <channel update="i" site="maxtv.hr" site_id="134" xmltv_id="Radio Gold FM">Radio Gold FM</channel>
+    <channel update="i" site="maxtv.hr" site_id="134" xmltv_id="Happy FM">Happy FM</channel>
     <channel update="i" site="maxtv.hr" site_id="135" xmltv_id="Radio Antena">Radio Antena</channel>
     <channel update="i" site="maxtv.hr" site_id="778" xmltv_id="mojRADIO">mojRADIO</channel>
     <channel update="i" site="maxtv.hr" site_id="840" xmltv_id="Radio Top">Radio Top</channel>
@@ -239,6 +217,8 @@
     <channel update="i" site="maxtv.hr" site_id="717" xmltv_id="Radio yammatFM">Radio yammatFM</channel>
     <channel update="i" site="maxtv.hr" site_id="815" xmltv_id="Radio Deejay HR">Radio Deejay HR</channel>
     <channel update="i" site="maxtv.hr" site_id="772" xmltv_id="Radio Capodistria">Radio Capodistria</channel>
+    <channel update="i" site="maxtv.hr" site_id="856" xmltv_id="Radio Rovinj FM">Radio Rovinj FM</channel>
+    <channel update="i" site="maxtv.hr" site_id="857" xmltv_id="Radio Maria Vision">Radio Maria Vision</channel>
     <channel update="i" site="maxtv.hr" site_id="105" xmltv_id="OTV">OTV</channel>
     <channel update="i" site="maxtv.hr" site_id="106" xmltv_id="Z1">Z1</channel>
     <channel update="i" site="maxtv.hr" site_id="107" xmltv_id="Mreža TV Zagreb">Mreža TV Zagreb</channel>
@@ -262,10 +242,10 @@
     <channel update="i" site="maxtv.hr" site_id="279" xmltv_id="FTV">FTV</channel>
     <channel update="i" site="maxtv.hr" site_id="280" xmltv_id="Hayat">Hayat</channel>
     <channel update="i" site="maxtv.hr" site_id="841" xmltv_id="RTV HB">RTV HB</channel>
-    <channel update="i" site="maxtv.hr" site_id="282" xmltv_id="TVCG SAT">TVCG SAT</channel>
+    <channel update="i" site="maxtv.hr" site_id="282" xmltv_id="TVCG MNE">TVCG MNE</channel>
     <channel update="i" site="maxtv.hr" site_id="283" xmltv_id="TV SLO 1">TV SLO 1</channel>
     <channel update="i" site="maxtv.hr" site_id="284" xmltv_id="RAI 1">RAI 1</channel>
-    <channel update="i" site="maxtv.hr" site_id="262" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel update="i" site="maxtv.hr" site_id="262" xmltv_id="TV5 Monde">TV5 Monde</channel>
     <channel update="i" site="maxtv.hr" site_id="263" xmltv_id="TVE Internacional">TVE Internacional</channel>
     <channel update="i" site="maxtv.hr" site_id="285" xmltv_id="3SAT">3SAT</channel>
     <channel update="i" site="maxtv.hr" site_id="261" xmltv_id="Das Erste">Das Erste</channel>
@@ -278,7 +258,6 @@
     <channel update="i" site="maxtv.hr" site_id="719" xmltv_id="Aurora TV">Aurora TV</channel>
     <channel update="i" site="maxtv.hr" site_id="721" xmltv_id="RTS 3">RTS 3</channel>
     <channel update="i" site="maxtv.hr" site_id="836" xmltv_id="Balkan TV">Balkan TV</channel>
-    <channel update="i" site="maxtv.hr" site_id="842" xmltv_id="Prva 1 BH">Prva 1 BH</channel>
     <channel update="i" site="maxtv.hr" site_id="291" xmltv_id="Blue Hustler">Blue Hustler</channel>
     <channel update="i" site="maxtv.hr" site_id="762" xmltv_id="Vivid Touch">Vivid Touch</channel>
     <channel update="i" site="maxtv.hr" site_id="761" xmltv_id="Vivid Red">Vivid Red</channel>
