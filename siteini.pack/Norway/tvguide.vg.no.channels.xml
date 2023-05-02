@@ -1,22 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.3.6 -- Jan van Straaten" site="tvguide.vg.no">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="tvguide.vg.no">
   <channels>
     <channel update="i" site="tvguide.vg.no" site_id="nrk1" xmltv_id="NRK1">NRK1</channel>
     <channel update="i" site="tvguide.vg.no" site_id="nrk2" xmltv_id="NRK2">NRK2</channel>
     <channel update="i" site="tvguide.vg.no" site_id="nrk3" xmltv_id="NRK3">NRK3</channel>
-    <channel update="i" site="tvguide.vg.no" site_id="tv2" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv2-direkte" xmltv_id="TV 2 Direkte">TV 2 Direkte</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tvnorge" xmltv_id="TVNorge">TVNorge</channel>
     <channel update="i" site="tvguide.vg.no" site_id="vgtv" xmltv_id="VGTV">VGTV</channel>
-    <channel update="i" site="tvguide.vg.no" site_id="eurosport-norge" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
     <channel update="i" site="tvguide.vg.no" site_id="matkanalen" xmltv_id="Matkanalen">Matkanalen</channel>
-    <channel update="i" site="tvguide.vg.no" site_id="viasat-4" xmltv_id="Viasat 4">Viasat 4</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv3" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tv2-zebra" xmltv_id="TV 2 Zebra">TV 2 Zebra</channel>
-    <channel update="i" site="tvguide.vg.no" site_id="tv2-nyhetskanalen" xmltv_id="TV 2 Nyhetskanalen">TV 2 Nyhetskanalen</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv2-nyheter" xmltv_id="TV 2 Nyheter">TV 2 Nyheter</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tv2-sport-1" xmltv_id="TV 2 Sport 1">TV 2 Sport 1</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tv2-sport-2" xmltv_id="TV 2 Sport 2">TV 2 Sport 2</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tv2-livsstil" xmltv_id="TV 2 Livsstil">TV 2 Livsstil</channel>
     <channel update="i" site="tvguide.vg.no" site_id="max" xmltv_id="MAX">MAX</channel>
     <channel update="i" site="tvguide.vg.no" site_id="fem" xmltv_id="FEM">FEM</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv3-plus" xmltv_id="TV3+">TV3+</channel>
     <channel update="i" site="tvguide.vg.no" site_id="al-jazeera-english" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
     <channel update="i" site="tvguide.vg.no" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="tvguide.vg.no" site_id="bbc-brit" xmltv_id="BBC Brit">BBC Brit</channel>
@@ -39,6 +40,7 @@
     <channel update="i" site="tvguide.vg.no" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="tvguide.vg.no" site_id="dr1" xmltv_id="DR1">DR1</channel>
     <channel update="i" site="tvguide.vg.no" site_id="dr2" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="eurosport-norge" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
     <channel update="i" site="tvguide.vg.no" site_id="extreme-sports-channel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
     <channel update="i" site="tvguide.vg.no" site_id="h2" xmltv_id="H2">H2</channel>
     <channel update="i" site="tvguide.vg.no" site_id="history" xmltv_id="History">History</channel>
@@ -57,9 +59,16 @@
     <channel update="i" site="tvguide.vg.no" site_id="svt1" xmltv_id="SVT1">SVT1</channel>
     <channel update="i" site="tvguide.vg.no" site_id="svt2" xmltv_id="SVT2">SVT2</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tlc" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tvguide.vg.no" site_id="tv3" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="tvguide.vg.no" site_id="tv4" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv2-danmark" xmltv_id="TV 2 Danmark">TV 2 Danmark</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv2-sport-premium" xmltv_id="TV 2 Sport Premium">TV 2 Sport Premium</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv2-sport-premium-2" xmltv_id="TV 2 Sport Premium 2">TV 2 Sport Premium 2</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv3-danmark" xmltv_id="TV3 Danmark">TV3 Danmark</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv3-sverige" xmltv_id="TV3 Sverige">TV3 Sverige</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv4" xmltv_id="TV4 Sverige">TV4 Sverige</channel>
     <channel update="i" site="tvguide.vg.no" site_id="tv6" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv6-sverige" xmltv_id="TV6 Sverige">TV6 Sverige</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="tv8-sverige" xmltv_id="TV8 Sverige">TV8 Sverige</channel>
     <channel update="i" site="tvguide.vg.no" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
     <channel update="i" site="tvguide.vg.no" site_id="viasat-film-action" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
     <channel update="i" site="tvguide.vg.no" site_id="viasat-film-family" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
@@ -75,5 +84,10 @@
     <channel update="i" site="tvguide.vg.no" site_id="viasport-3" xmltv_id="Viasport 3">Viasport 3</channel>
     <channel update="i" site="tvguide.vg.no" site_id="visjon-norge" xmltv_id="Visjon Norge">Visjon Norge</channel>
     <channel update="i" site="tvguide.vg.no" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="v-sport-premier-league" xmltv_id="V sport Premier League">V sport Premier League</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="v-sport-premier-league-1" xmltv_id="V sport Premier League 1">V sport Premier League 1</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="v-sport-premier-league-2" xmltv_id="V sport Premier League 2">V sport Premier League 2</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="v-sport-premier-league-3" xmltv_id="V sport Premier League 3">V sport Premier League 3</channel>
+    <channel update="i" site="tvguide.vg.no" site_id="v-sport-premier-league-4" xmltv_id="V sport Premier League 4">V sport Premier League 4</channel>
   </channels>
 </site>
