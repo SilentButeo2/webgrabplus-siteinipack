@@ -1,204 +1,343 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.6 -- Jan van Straaten" site="dagenstv.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="dagenstv.com">
   <channels>
-    <channel update="i" site="dagenstv.com" site_id="21" xmltv_id="SVT1">SVT1</channel>
-    <channel update="i" site="dagenstv.com" site_id="22" xmltv_id="SVT2">SVT2</channel>
-    <channel update="i" site="dagenstv.com" site_id="26" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="dagenstv.com" site_id="389" xmltv_id="TV3 HD">TV3 HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="27" xmltv_id="TV4">TV4</channel>
-    <channel update="i" site="dagenstv.com" site_id="176" xmltv_id="TV4 Film">TV4 Film</channel>
-    <channel update="i" site="dagenstv.com" site_id="275" xmltv_id="TV4 Sport">TV4 Sport</channel>
-    <channel update="i" site="dagenstv.com" site_id="142" xmltv_id="SJUAN">SJUAN</channel>
-    <channel update="i" site="dagenstv.com" site_id="291" xmltv_id="TV4 HD">TV4 HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="230" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
-    <channel update="i" site="dagenstv.com" site_id="252" xmltv_id="TV4 Guld">TV4 Guld</channel>
-    <channel update="i" site="dagenstv.com" site_id="253" xmltv_id="TV4 Komedi">TV4 Komedi</channel>
-    <channel update="i" site="dagenstv.com" site_id="305" xmltv_id="TV4 Fakta XL">TV4 Fakta XL</channel>
-    <channel update="i" site="dagenstv.com" site_id="10" xmltv_id="Kanal 5">Kanal 5</channel>
-    <channel update="i" site="dagenstv.com" site_id="42" xmltv_id="TV6">TV6</channel>
-    <channel update="i" site="dagenstv.com" site_id="248" xmltv_id="TNT">TNT</channel>
-    <channel update="i" site="dagenstv.com" site_id="43" xmltv_id="TV8">TV8</channel>
-    <channel update="i" site="dagenstv.com" site_id="246" xmltv_id="Kanal 9">Kanal 9</channel>
-    <channel update="i" site="dagenstv.com" site_id="370" xmltv_id="TV10">TV10</channel>
-    <channel update="i" site="dagenstv.com" site_id="199" xmltv_id="Kanal 11">Kanal 11</channel>
-    <channel update="i" site="dagenstv.com" site_id="600" xmltv_id="TV12">TV12</channel>
-    <channel update="i" site="dagenstv.com" site_id="247" xmltv_id="Axess TV">Axess TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="341" xmltv_id="Kanal 10">Kanal 10</channel>
-    <channel update="i" site="dagenstv.com" site_id="213" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
-    <channel update="i" site="dagenstv.com" site_id="100" xmltv_id="SVT World">SVT World</channel>
-    <channel update="i" site="dagenstv.com" site_id="101" xmltv_id="SVT24">SVT24</channel>
-    <channel update="i" site="dagenstv.com" site_id="143" xmltv_id="SVTB">SVTB</channel>
-    <channel update="i" site="dagenstv.com" site_id="371" xmltv_id="SVT1 HD">SVT1 HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="374" xmltv_id="SVT2 HD">SVT2 HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="260" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="227" xmltv_id="C More Action">C More Action</channel>
-    <channel update="i" site="dagenstv.com" site_id="405" xmltv_id="C More Kids">C More Kids</channel>
-    <channel update="i" site="dagenstv.com" site_id="298" xmltv_id="C More Series">C More Series</channel>
-    <channel update="i" site="dagenstv.com" site_id="255" xmltv_id="C More Star">C More Star</channel>
-    <channel update="i" site="dagenstv.com" site_id="502" xmltv_id="C More First HD">C More First HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="256" xmltv_id="C More First">C More First</channel>
-    <channel update="i" site="dagenstv.com" site_id="257" xmltv_id="C More Hits">C More Hits</channel>
-    <channel update="i" site="dagenstv.com" site_id="501" xmltv_id="C More Hits HD">C More Hits HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="261" xmltv_id="Canal+ Hits Sport Weekend">Canal+ Hits Sport Weekend</channel>
-    <channel update="i" site="dagenstv.com" site_id="348" xmltv_id="SF-kanalen">SF-kanalen</channel>
-    <channel update="i" site="dagenstv.com" site_id="214" xmltv_id="Showtime">Showtime</channel>
-    <channel update="i" site="dagenstv.com" site_id="241" xmltv_id="Silver">Silver</channel>
-    <channel update="i" site="dagenstv.com" site_id="296" xmltv_id="Silver HD">Silver HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="24" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="dagenstv.com" site_id="33" xmltv_id="Viasat Film Premiere">Viasat Film Premiere</channel>
-    <channel update="i" site="dagenstv.com" site_id="207" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
-    <channel update="i" site="dagenstv.com" site_id="208" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
-    <channel update="i" site="dagenstv.com" site_id="210" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
-    <channel update="i" site="dagenstv.com" site_id="336" xmltv_id="Viasat Series">Viasat Series</channel>
-    <channel update="i" site="dagenstv.com" site_id="140" xmltv_id="C More Sport">C More Sport</channel>
-    <channel update="i" site="dagenstv.com" site_id="258" xmltv_id="C More Tennis">C More Tennis</channel>
-    <channel update="i" site="dagenstv.com" site_id="299" xmltv_id="C More Extreme">C More Extreme</channel>
-    <channel update="i" site="dagenstv.com" site_id="271" xmltv_id="C More Sport HD">C More Sport HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="352" xmltv_id="C More Hockey">C More Hockey</channel>
-    <channel update="i" site="dagenstv.com" site_id="353" xmltv_id="C More Fotboll">C More Fotboll</channel>
-    <channel update="i" site="dagenstv.com" site_id="360" xmltv_id="C More Live">C More Live</channel>
-    <channel update="i" site="dagenstv.com" site_id="361" xmltv_id="C More Live 2">C More Live 2</channel>
-    <channel update="i" site="dagenstv.com" site_id="362" xmltv_id="C More Live 3">C More Live 3</channel>
-    <channel update="i" site="dagenstv.com" site_id="359" xmltv_id="C More Live 4">C More Live 4</channel>
-    <channel update="i" site="dagenstv.com" site_id="9" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="dagenstv.com" site_id="217" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="dagenstv.com" site_id="164" xmltv_id="Eurosport HD">Eurosport HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="67" xmltv_id="Extreme sports">Extreme sports</channel>
-    <channel update="i" site="dagenstv.com" site_id="267" xmltv_id="ESPN America">ESPN America</channel>
-    <channel update="i" site="dagenstv.com" site_id="196" xmltv_id="ESPN Classic Sport">ESPN Classic Sport</channel>
-    <channel update="i" site="dagenstv.com" site_id="193" xmltv_id="Manchester United TV">Manchester United TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="268" xmltv_id="Motors TV">Motors TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="269" xmltv_id="Yacht and sail">Yacht and sail</channel>
-    <channel update="i" site="dagenstv.com" site_id="347" xmltv_id="Rush HD">Rush HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="266" xmltv_id="Viasat Golf">Viasat Golf</channel>
-    <channel update="i" site="dagenstv.com" site_id="53" xmltv_id="Viasat Sport">Viasat Sport</channel>
-    <channel update="i" site="dagenstv.com" site_id="355" xmltv_id="Viasat Premier League HD">Viasat Premier League HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="197" xmltv_id="Viasat Fotboll">Viasat Fotboll</channel>
-    <channel update="i" site="dagenstv.com" site_id="198" xmltv_id="Viasat Motor">Viasat Motor</channel>
-    <channel update="i" site="dagenstv.com" site_id="300" xmltv_id="Viasat Fotboll HD">Viasat Fotboll HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="700" xmltv_id="Viasat Sport Premium">Viasat Sport Premium</channel>
-    <channel update="i" site="dagenstv.com" site_id="346" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
-    <channel update="i" site="dagenstv.com" site_id="54" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="dagenstv.com" site_id="80" xmltv_id="Kanal Global">Kanal Global</channel>
-    <channel update="i" site="dagenstv.com" site_id="7" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="dagenstv.com" site_id="263" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
-    <channel update="i" site="dagenstv.com" site_id="119" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="dagenstv.com" site_id="120" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="dagenstv.com" site_id="118" xmltv_id="Discovery World">Discovery World</channel>
-    <channel update="i" site="dagenstv.com" site_id="343" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
-    <channel update="i" site="dagenstv.com" site_id="48" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="dagenstv.com" site_id="293" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="335" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="dagenstv.com" site_id="403" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="307" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="303" xmltv_id="History">History</channel>
-    <channel update="i" site="dagenstv.com" site_id="25" xmltv_id="Travel">Travel</channel>
-    <channel update="i" site="dagenstv.com" site_id="28" xmltv_id="Viasat Nature/Crime">Viasat Nature/Crime</channel>
-    <channel update="i" site="dagenstv.com" site_id="76" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
-    <channel update="i" site="dagenstv.com" site_id="215" xmltv_id="Viasat History">Viasat History</channel>
-    <channel update="i" site="dagenstv.com" site_id="117" xmltv_id="Zone Reality">Zone Reality</channel>
-    <channel update="i" site="dagenstv.com" site_id="259" xmltv_id="F Men">F Men</channel>
-    <channel update="i" site="dagenstv.com" site_id="601" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="dagenstv.com" site_id="219" xmltv_id="FST 5">FST 5</channel>
-    <channel update="i" site="dagenstv.com" site_id="602" xmltv_id="FOX HD">FOX HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="4" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="dagenstv.com" site_id="147" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="dagenstv.com" site_id="251" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="dagenstv.com" site_id="224" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="dagenstv.com" site_id="331" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="dagenstv.com" site_id="344" xmltv_id="Disney XD ENG">Disney XD ENG</channel>
-    <channel update="i" site="dagenstv.com" site_id="60" xmltv_id="Jetix">Jetix</channel>
-    <channel update="i" site="dagenstv.com" site_id="45" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="dagenstv.com" site_id="369" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="dagenstv.com" site_id="334" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="dagenstv.com" site_id="58" xmltv_id="DR1">DR1</channel>
-    <channel update="i" site="dagenstv.com" site_id="59" xmltv_id="DR2">DR2</channel>
-    <channel update="i" site="dagenstv.com" site_id="103" xmltv_id="Kanal 5 Danmark">Kanal 5 Danmark</channel>
-    <channel update="i" site="dagenstv.com" site_id="189" xmltv_id="Nelonen">Nelonen</channel>
-    <channel update="i" site="dagenstv.com" site_id="72" xmltv_id="NRK1">NRK1</channel>
-    <channel update="i" site="dagenstv.com" site_id="63" xmltv_id="NRK2">NRK2</channel>
-    <channel update="i" site="dagenstv.com" site_id="105" xmltv_id="TV Danmark">TV Danmark</channel>
-    <channel update="i" site="dagenstv.com" site_id="29" xmltv_id="TV Finland">TV Finland</channel>
-    <channel update="i" site="dagenstv.com" site_id="73" xmltv_id="TV Norge">TV Norge</channel>
-    <channel update="i" site="dagenstv.com" site_id="906" xmltv_id="TV2 Charlie (Dansk)">TV2 Charlie (Dansk)</channel>
-    <channel update="i" site="dagenstv.com" site_id="71" xmltv_id="TV2 Danmark">TV2 Danmark</channel>
-    <channel update="i" site="dagenstv.com" site_id="37" xmltv_id="TV2 Norge">TV2 Norge</channel>
-    <channel update="i" site="dagenstv.com" site_id="126" xmltv_id="TV2 Zulu">TV2 Zulu</channel>
-    <channel update="i" site="dagenstv.com" site_id="57" xmltv_id="TV3 Danmark">TV3 Danmark</channel>
-    <channel update="i" site="dagenstv.com" site_id="62" xmltv_id="TV3 Norge">TV3 Norge</channel>
-    <channel update="i" site="dagenstv.com" site_id="83" xmltv_id="TV3+">TV3+</channel>
-    <channel update="i" site="dagenstv.com" site_id="220" xmltv_id="YLE Extra">YLE Extra</channel>
-    <channel update="i" site="dagenstv.com" site_id="221" xmltv_id="YLE Teema">YLE Teema</channel>
-    <channel update="i" site="dagenstv.com" site_id="31" xmltv_id="YLE TV1">YLE TV1</channel>
-    <channel update="i" site="dagenstv.com" site_id="36" xmltv_id="YLE TV2">YLE TV2</channel>
-    <channel update="i" site="dagenstv.com" site_id="39" xmltv_id="MTV3">MTV3</channel>
-    <channel update="i" site="dagenstv.com" site_id="225" xmltv_id="E!">E!</channel>
-    <channel update="i" site="dagenstv.com" site_id="82" xmltv_id="Fashion TV">Fashion TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="46" xmltv_id="Mezzo">Mezzo</channel>
-    <channel update="i" site="dagenstv.com" site_id="14" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="dagenstv.com" site_id="74" xmltv_id="MTV Rocks">MTV Rocks</channel>
-    <channel update="i" site="dagenstv.com" site_id="114" xmltv_id="Star!">Star!</channel>
-    <channel update="i" site="dagenstv.com" site_id="321" xmltv_id="MTVN HD">MTVN HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="216" xmltv_id="The Voice TV">The Voice TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="342" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel update="i" site="dagenstv.com" site_id="47" xmltv_id="VH-1">VH-1</channel>
-    <channel update="i" site="dagenstv.com" site_id="400" xmltv_id="OutTV">OutTV</channel>
-    <channel update="i" site="dagenstv.com" site_id="401" xmltv_id="Wild TV">Wild TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="262" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="dagenstv.com" site_id="3" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="dagenstv.com" site_id="56" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="dagenstv.com" site_id="5" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="dagenstv.com" site_id="104" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="dagenstv.com" site_id="98" xmltv_id="PRO 7">PRO 7</channel>
-    <channel update="i" site="dagenstv.com" site_id="149" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
-    <channel update="i" site="dagenstv.com" site_id="2" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
-    <channel update="i" site="dagenstv.com" site_id="603" xmltv_id="BBC Britt">BBC Britt</channel>
-    <channel update="i" site="dagenstv.com" site_id="604" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel update="i" site="dagenstv.com" site_id="332" xmltv_id="BBC Knowledge">BBC Knowledge</channel>
-    <channel update="i" site="dagenstv.com" site_id="333" xmltv_id="BBC HD">BBC HD</channel>
-    <channel update="i" site="dagenstv.com" site_id="8" xmltv_id="Sport1">Sport1</channel>
-    <channel update="i" site="dagenstv.com" site_id="111" xmltv_id="God Channel">God Channel</channel>
-    <channel update="i" site="dagenstv.com" site_id="50" xmltv_id="HRT1">HRT1</channel>
-    <channel update="i" site="dagenstv.com" site_id="175" xmltv_id="Hustler TV">Hustler TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="113" xmltv_id="Kabel 1">Kabel 1</channel>
-    <channel update="i" site="dagenstv.com" site_id="91" xmltv_id="MDR">MDR</channel>
-    <channel update="i" site="dagenstv.com" site_id="109" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="dagenstv.com" site_id="223" xmltv_id="Playboy TV">Playboy TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="64" xmltv_id="Rai Uno">Rai Uno</channel>
-    <channel update="i" site="dagenstv.com" site_id="65" xmltv_id="Rai Due">Rai Due</channel>
-    <channel update="i" site="dagenstv.com" site_id="16" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="dagenstv.com" site_id="15" xmltv_id="RTL 2">RTL 2</channel>
-    <channel update="i" site="dagenstv.com" site_id="295" xmltv_id="Russia Today TV">Russia Today TV</channel>
-    <channel update="i" site="dagenstv.com" site_id="17" xmltv_id="SAT1">SAT1</channel>
-    <channel update="i" site="dagenstv.com" site_id="52" xmltv_id="TV Chile">TV Chile</channel>
-    <channel update="i" site="dagenstv.com" site_id="66" xmltv_id="TV Polonia">TV Polonia</channel>
-    <channel update="i" site="dagenstv.com" site_id="110" xmltv_id="Spice">Spice</channel>
-    <channel update="i" site="dagenstv.com" site_id="222" xmltv_id="Spice Platinum">Spice Platinum</channel>
-    <channel update="i" site="dagenstv.com" site_id="40" xmltv_id="TV5">TV5</channel>
-    <channel update="i" site="dagenstv.com" site_id="41" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="dagenstv.com" site_id="75" xmltv_id="Viasat 4">Viasat 4</channel>
-    <channel update="i" site="dagenstv.com" site_id="106" xmltv_id="Viva">Viva</channel>
-    <channel update="i" site="dagenstv.com" site_id="107" xmltv_id="Vox">Vox</channel>
-    <channel update="i" site="dagenstv.com" site_id="51" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="dagenstv.com" site_id="270" xmltv_id="Zone Club">Zone Club</channel>
-    <channel update="i" site="dagenstv.com" site_id="1" xmltv_id="3SAT">3SAT</channel>
-    <channel update="i" site="dagenstv.com" site_id="69" xmltv_id="ARD">ARD</channel>
-    <channel update="i" site="dagenstv.com" site_id="84" xmltv_id="Arte">Arte</channel>
-    <channel update="i" site="dagenstv.com" site_id="18" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="dagenstv.com" site_id="96" xmltv_id="ORF 1">ORF 1</channel>
-    <channel update="i" site="dagenstv.com" site_id="290" xmltv_id="TV3 Puls">TV3 Puls</channel>
-    <channel update="i" site="dagenstv.com" site_id="916" xmltv_id="Viasat Golf (no)">Viasat Golf (no)</channel>
-    <channel update="i" site="dagenstv.com" site_id="139" xmltv_id="Channel 1 Russia">Channel 1 Russia</channel>
-    <channel update="i" site="dagenstv.com" site_id="911" xmltv_id="ORF2 (de)">ORF2 (de)</channel>
-    <channel update="i" site="dagenstv.com" site_id="910" xmltv_id="ORF1 (de)">ORF1 (de)</channel>
-    <channel update="i" site="dagenstv.com" site_id="908" xmltv_id="Kanal 4 (Dansk)">Kanal 4 (Dansk)</channel>
-    <channel update="i" site="dagenstv.com" site_id="909" xmltv_id="Nickelodeon (Eng)">Nickelodeon (Eng)</channel>
-    <channel update="i" site="dagenstv.com" site_id="912" xmltv_id="ATVplus (de)">ATVplus (de)</channel>
-    <channel update="i" site="dagenstv.com" site_id="913" xmltv_id="TV3 Norge (no)">TV3 Norge (no)</channel>
-    <channel update="i" site="dagenstv.com" site_id="328" xmltv_id="Nickelodeon Europe">Nickelodeon Europe</channel>
-    <channel update="i" site="dagenstv.com" site_id="302" xmltv_id="Eurosport (Eng)">Eurosport (Eng)</channel>
-    <channel update="i" site="dagenstv.com" site_id="914" xmltv_id="Viasat 4 (no)">Viasat 4 (no)</channel>
-    <channel update="i" site="dagenstv.com" site_id="915" xmltv_id="Viasat Sport (no)">Viasat Sport (no)</channel>
-    <channel update="i" site="dagenstv.com" site_id="917" xmltv_id="Viasat Motor (no)">Viasat Motor (no)</channel>
+    <channel update="i" site="dagenstv.com" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="dagenstv.com" site_id="al-jazeera-eng" xmltv_id="Al Jazeera eng">Al Jazeera eng</channel>
+    <channel update="i" site="dagenstv.com" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="dagenstv.com" site_id="arte" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="dagenstv.com" site_id="axess" xmltv_id="Axess">Axess</channel>
+    <channel update="i" site="dagenstv.com" site_id="bbc-brit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="dagenstv.com" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="dagenstv.com" site_id="bbc-world" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="dagenstv.com" site_id="bloomberg-tv" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="dagenstv.com" site_id="blue-hustler-tv" xmltv_id="Blue Hustler TV">Blue Hustler TV</channel>
+    <channel update="i" site="dagenstv.com" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="dagenstv.com" site_id="boomerang-dk" xmltv_id="Boomerang DK">Boomerang DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="boomerang-no" xmltv_id="Boomerang NO">Boomerang NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="brazzers" xmltv_id="Brazzers">Brazzers</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-first" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-fotboll" xmltv_id="C More Fotboll">C More Fotboll</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-golf" xmltv_id="C More Golf">C More Golf</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-hits" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-hockey" xmltv_id="C More Hockey">C More Hockey</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live" xmltv_id="C More Live">C More Live</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-2" xmltv_id="C More Live 2">C More Live 2</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-3" xmltv_id="C More Live 3">C More Live 3</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-series" xmltv_id="C More Series">C More Series</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-stars" xmltv_id="C More Stars">C More Stars</channel>
+    <channel update="i" site="dagenstv.com" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="dagenstv.com" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="dagenstv.com" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="dagenstv.com" site_id="cartoon-network-eng" xmltv_id="Cartoon Network ENG">Cartoon Network ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="dr1" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="dagenstv.com" site_id="dr2" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="dagenstv.com" site_id="das-erste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-channel-dk" xmltv_id="Disney Channel DK">Disney Channel DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-channel-eng" xmltv_id="Disney Channel ENG">Disney Channel ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-channel-no" xmltv_id="Disney Channel NO">Disney Channel NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-junior-eng" xmltv_id="Disney Junior ENG">Disney Junior ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="e-" xmltv_id="E! ">E! </channel>
+    <channel update="i" site="dagenstv.com" site_id="e-entertainment-television-eng" xmltv_id="E! Entertainment Television ENG">E! Entertainment Television ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="dagenstv.com" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="dagenstv.com" site_id="fight-sports" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="dagenstv.com" site_id="god-tv" xmltv_id="God TV">God TV</channel>
+    <channel update="i" site="dagenstv.com" site_id="godare" xmltv_id="Godare">Godare</channel>
+    <channel update="i" site="dagenstv.com" site_id="gospel-channel" xmltv_id="Gospel channel">Gospel channel</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-channel" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="dagenstv.com" site_id="horse-country" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel update="i" site="dagenstv.com" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-10" xmltv_id="Kanal 10">Kanal 10</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-10-no" xmltv_id="Kanal 10 NO">Kanal 10 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-11" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-5" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-9" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel update="i" site="dagenstv.com" site_id="mdr" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="dagenstv.com" site_id="mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="dagenstv.com" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="dagenstv.com" site_id="mutv" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="dagenstv.com" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="dagenstv.com" site_id="mezzo-live" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel update="i" site="dagenstv.com" site_id="nfl-network" xmltv_id="NFL Network">NFL Network</channel>
+    <channel update="i" site="dagenstv.com" site_id="nrk1" xmltv_id="NRK1">NRK1</channel>
+    <channel update="i" site="dagenstv.com" site_id="nrk2" xmltv_id="NRK2">NRK2</channel>
+    <channel update="i" site="dagenstv.com" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-eng" xmltv_id="National Geographic ENG">National Geographic ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-hd-int-l" xmltv_id="National Geographic HD Int'l">National Geographic HD Int'l</channel>
+    <channel update="i" site="dagenstv.com" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="dagenstv.com" site_id="nick-jr-eng" xmltv_id="Nick Jr ENG">Nick Jr ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="dagenstv.com" site_id="outtv" xmltv_id="OUTTV">OUTTV</channel>
+    <channel update="i" site="dagenstv.com" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="dagenstv.com" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="dagenstv.com" site_id="rai-due" xmltv_id="RAI Due">RAI Due</channel>
+    <channel update="i" site="dagenstv.com" site_id="rai-uno" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="dagenstv.com" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="dagenstv.com" site_id="sbn-international" xmltv_id="SBN International">SBN International</channel>
+    <channel update="i" site="dagenstv.com" site_id="sf-kanalen" xmltv_id="SF-kanalen">SF-kanalen</channel>
+    <channel update="i" site="dagenstv.com" site_id="barnkanalen" xmltv_id="Barnkanalen">Barnkanalen</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt1" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt2" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt24" xmltv_id="SVT24">SVT24</channel>
+    <channel update="i" site="dagenstv.com" site_id="kunskapskanalen" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel update="i" site="dagenstv.com" site_id="sat1" xmltv_id="Sat1">Sat1</channel>
+    <channel update="i" site="dagenstv.com" site_id="sjuan" xmltv_id="Sjuan">Sjuan</channel>
+    <channel update="i" site="dagenstv.com" site_id="sky-news" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="dagenstv.com" site_id="sportkanalen" xmltv_id="Sportkanalen">Sportkanalen</channel>
+    <channel update="i" site="dagenstv.com" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv-chile" xmltv_id="TV Chile">TV Chile</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv-finland" xmltv_id="TV Finland">TV Finland</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv-polonia" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv10" xmltv_id="TV10">TV10</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv12" xmltv_id="TV12">TV12</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv2-danmark" xmltv_id="TV2 Danmark">TV2 Danmark</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv2-norge" xmltv_id="TV2 Norge">TV2 Norge</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv3-dk" xmltv_id="TV3 DK">TV3 DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv3-no" xmltv_id="TV3 NO">TV3 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv3-plus-dk" xmltv_id="TV3 Plus DK">TV3 Plus DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv4" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv4-fakta" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv4-film" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv4-guld" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv5" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv6" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv8" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="dagenstv.com" site_id="tve" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="dagenstv.com" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-action" xmltv_id="V Film Action">V Film Action</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-family" xmltv_id="V Film Family">V Film Family</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-hits" xmltv_id="V Film Hits">V Film Hits</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-premiere" xmltv_id="V Film Premiere">V Film Premiere</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-series" xmltv_id="V Series">V Series</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport" xmltv_id="V Sport">V Sport</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-extra" xmltv_id="V Sport Extra">V Sport Extra</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-football" xmltv_id="V Football">V Football</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-golf" xmltv_id="V Golf">V Golf</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-hockey" xmltv_id="V Hockey">V Hockey</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-motor" xmltv_id="V Motor">V Motor</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premium" xmltv_id="V Sport Premium">V Sport Premium</channel>
+    <channel update="i" site="dagenstv.com" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-explore" xmltv_id="V Explore">V Explore</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-history" xmltv_id="V History">V History</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-nature" xmltv_id="V Nature">V Nature</channel>
+    <channel update="i" site="dagenstv.com" site_id="yle-1" xmltv_id="Yle 1">Yle 1</channel>
+    <channel update="i" site="dagenstv.com" site_id="yle-2" xmltv_id="Yle 2">Yle 2</channel>
+    <channel update="i" site="dagenstv.com" site_id="yle-fem-och-yle-teema" xmltv_id="Yle fem och yle teema">Yle fem och yle teema</channel>
+    <channel update="i" site="dagenstv.com" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="dagenstv.com" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-first-hd" xmltv_id="C More First HD">C More First HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-fotboll-hd" xmltv_id="C More Fotboll HD">C More Fotboll HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-golf-hd" xmltv_id="C More Golf HD">C More Golf HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-hits-hd" xmltv_id="C More Hits HD">C More Hits HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-hockey-hd" xmltv_id="C More Hockey HD">C More Hockey HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-2-hd" xmltv_id="C More Live 2 HD">C More Live 2 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-3-hd" xmltv_id="C More Live 3 HD">C More Live 3 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-hd" xmltv_id="C More Live HD">C More Live HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-series-hd" xmltv_id="C More Series HD">C More Series HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-stars-hd" xmltv_id="C More Stars HD">C More Stars HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-hd" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-channel-hd" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-1-hd" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-2-hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="fuel-tv-hd" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-hd" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-11-hd" xmltv_id="Kanal 11 HD">Kanal 11 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-5-hd" xmltv_id="Kanal 5 HD">Kanal 5 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="kanal-9-hd" xmltv_id="Kanal 9 HD">Kanal 9 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-eng-hd" xmltv_id="National Geographic ENG HD">National Geographic ENG HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-fi-hd" xmltv_id="National Geographic fi HD">National Geographic fi HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt-barn-hd" xmltv_id="SVT Barn HD">SVT Barn HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt1-hd" xmltv_id="SVT1 HD">SVT1 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt2-hd" xmltv_id="SVT2 HD">SVT2 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="svt24-hd" xmltv_id="SVT24 HD">SVT24 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="svtk-hd" xmltv_id="SVTK HD">SVTK HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv10-hd" xmltv_id="TV10 HD">TV10 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv12-hd" xmltv_id="TV12 HD">TV12 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv3-hd" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv4-hd" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv6-hd" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-action-hd" xmltv_id="V Film Action HD">V Film Action HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-family-hd" xmltv_id="V Film Family HD">V Film Family HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-hits-hd" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-premiere-hd" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-series-hd" xmltv_id="V Series HD">V Series HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-1-hd" xmltv_id="V Sport 1 HD">V Sport 1 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-football-hd" xmltv_id="V Sport Football HD">V Sport Football HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-golf-hd" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-hockey-hd" xmltv_id="V Sport Hockey HD">V Sport Hockey HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-motor-hd" xmltv_id="V Sport Motor HD">V Sport Motor HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premium-hd" xmltv_id="V Sport Premium HD">V Sport Premium HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="ava-fi" xmltv_id="AVA FI">AVA FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="animal-planet-fi" xmltv_id="Animal Planet FI">Animal Planet FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="boomerang-eng" xmltv_id="Boomerang ENG">Boomerang ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-max-fi-" xmltv_id="C More Max (FI)">C More Max (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-sport-1-fi-" xmltv_id="C More Sport 1 (FI)">C More Sport 1 (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-sport-2-fi-" xmltv_id="C More Sport 2 (FI)">C More Sport 2 (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-stars-fi" xmltv_id="C More Stars FI">C More Stars FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-fi" xmltv_id="Discovery FI">Discovery FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-channel-fi" xmltv_id="Disney Channel FI">Disney Channel FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="etv-ee-" xmltv_id="ETV (EE)">ETV (EE)</channel>
+    <channel update="i" site="dagenstv.com" site_id="eesti-kanal-ee" xmltv_id="Eesti kanal EE">Eesti kanal EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="eesti-kanal-pluss-ee" xmltv_id="Eesti kanal Pluss EE">Eesti kanal Pluss EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-1-fi" xmltv_id="Eurosport 1 FI">Eurosport 1 FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="fox-fi-" xmltv_id="Fox (FI)">Fox (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="fuel-tv-fi" xmltv_id="Fuel TV FI">Fuel TV FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-eng" xmltv_id="History ENG">History ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="kidzone-lt" xmltv_id="Kidzone LT">Kidzone LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="kidzone-lv" xmltv_id="Kidzone LV">Kidzone LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="kidzone-pluss-lt" xmltv_id="Kidzone Pluss LT">Kidzone Pluss LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="kidzone-pluss-lv" xmltv_id="Kidzone Pluss LV">Kidzone Pluss LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="kutonen-fi-" xmltv_id="Kutonen (FI)">Kutonen (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="mtv3-fi-" xmltv_id="MTV3 (FI)">MTV3 (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="nat-geo-wild-eng" xmltv_id="Nat Geo Wild ENG">Nat Geo Wild ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-fi" xmltv_id="National Geographic fi">National Geographic fi</channel>
+    <channel update="i" site="dagenstv.com" site_id="smartzone-ee" xmltv_id="Smartzone EE">Smartzone EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="smartzone-lt" xmltv_id="Smartzone LT">Smartzone LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="smartzone-lv" xmltv_id="Smartzone LV">Smartzone LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="sub-fi-" xmltv_id="Sub (FI)">Sub (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv-finland-fi" xmltv_id="TV Finland FI">TV Finland FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv-viisi-tv5-fi-" xmltv_id="TV Viisi/TV5 (FI)">TV Viisi/TV5 (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="yle-tv1-fi-" xmltv_id="YLE TV1 (FI)">YLE TV1 (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="yle-tv2-fi-" xmltv_id="YLE TV2 (FI)">YLE TV2 (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="yle-teema-fem-fi" xmltv_id="YLE Teema &amp; Fem FI">YLE Teema &amp; Fem FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-4" xmltv_id="C More Live 4">C More Live 4</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-5" xmltv_id="C More Live 5">C More Live 5</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-2" xmltv_id="Dplay Extra 2">Dplay Extra 2</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-3" xmltv_id="Dplay Extra 3">Dplay Extra 3</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-live-4-hd" xmltv_id="C More Live 4 HD">C More Live 4 HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="hrt-tv1" xmltv_id="HRT TV1">HRT TV1</channel>
+    <channel update="i" site="dagenstv.com" site_id="dansk-kanal4" xmltv_id="Dansk Kanal4">Dansk Kanal4</channel>
+    <channel update="i" site="dagenstv.com" site_id="dansk-kanal5" xmltv_id="Dansk Kanal5">Dansk Kanal5</channel>
+    <channel update="i" site="dagenstv.com" site_id="nhk-world" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="dagenstv.com" site_id="nelonen" xmltv_id="Nelonen">Nelonen</channel>
+    <channel update="i" site="dagenstv.com" site_id="nick-toons-eng" xmltv_id="Nick toons ENG">Nick toons ENG</channel>
+    <channel update="i" site="dagenstv.com" site_id="nick-toons-se" xmltv_id="Nick toons SE">Nick toons SE</channel>
+    <channel update="i" site="dagenstv.com" site_id="vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-en" xmltv_id="Viasat History EN">Viasat History EN</channel>
+    <channel update="i" site="dagenstv.com" site_id="epic-drama-ee" xmltv_id="Epic Drama EE">Epic Drama EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="epic-drama-lt" xmltv_id="Epic Drama LT">Epic Drama LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="epic-drama-lv" xmltv_id="Epic Drama LV">Epic Drama LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="jim-fi-" xmltv_id="Jim (FI)">Jim (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="liv-fi-" xmltv_id="Liv (FI)">Liv (FI)</channel>
+    <channel update="i" site="dagenstv.com" site_id="mtv-eng" xmltv_id="MTV Eng">MTV Eng</channel>
+    <channel update="i" site="dagenstv.com" site_id="nelonen-fi" xmltv_id="Nelonen FI">Nelonen FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="nick-jr-fi" xmltv_id="Nick Jr FI">Nick Jr FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="paramount-network-fi" xmltv_id="Paramount Network FI">Paramount Network FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-action-fi" xmltv_id="V Film Action FI">V Film Action FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-film-hits-fi" xmltv_id="V Film Hits FI">V Film Hits FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="vip-comedy-ee" xmltv_id="VIP Comedy EE">VIP Comedy EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="vip-comedy-lt" xmltv_id="VIP Comedy LT">VIP Comedy LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="vip-comedy-lv" xmltv_id="VIP Comedy LV">VIP Comedy LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-ee" xmltv_id="Viasat Explore EE">Viasat Explore EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-fi" xmltv_id="Viasat Explore FI">Viasat Explore FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-lt" xmltv_id="Viasat Explore LT">Viasat Explore LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-lv" xmltv_id="Viasat Explore LV">Viasat Explore LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-ee" xmltv_id="Viasat History EE">Viasat History EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-lt" xmltv_id="Viasat History LT">Viasat History LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-lv" xmltv_id="Viasat History LV">Viasat History LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-ee" xmltv_id="Viasat Nature EE">Viasat Nature EE</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-lt" xmltv_id="Viasat Nature LT">Viasat Nature LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-lv" xmltv_id="Viasat Nature LV">Viasat Nature LV</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-dk" xmltv_id="Viasat History DK">Viasat History DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-fi" xmltv_id="Viasat History FI">Viasat History FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="dagenstv.com" site_id="russia-today" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="dagenstv.com" site_id="tbn-nordic" xmltv_id="TBN Nordic">TBN Nordic</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv2-lorry" xmltv_id="TV2 Lorry">TV2 Lorry</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv2-zulu" xmltv_id="TV2 Zulu">TV2 Zulu</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-dk" xmltv_id="Viasat Explore DK">Viasat Explore DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-en" xmltv_id="Viasat Explore EN">Viasat Explore EN</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-no" xmltv_id="Viasat Explore NO">Viasat Explore NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-no" xmltv_id="Viasat History NO">Viasat History NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-dk" xmltv_id="Viasat Nature DK">Viasat Nature DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-en" xmltv_id="Viasat Nature EN">Viasat Nature EN</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-no" xmltv_id="Viasat Nature NO">Viasat Nature NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="lrt-plius-lt" xmltv_id="LRT Plius LT">LRT Plius LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="lrt-televizija-lt" xmltv_id="LRT Televizija LT">LRT Televizija LT</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-1-hd-fi" xmltv_id="V Sport 1 HD FI">V Sport 1 HD FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-fi" xmltv_id="Viasat Nature FI">Viasat Nature FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-urheilu-hd" xmltv_id="Viasat Urheilu HD">Viasat Urheilu HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-1" xmltv_id="Dplay Extra 1">Dplay Extra 1</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-4" xmltv_id="Dplay Extra 4">Dplay Extra 4</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-5" xmltv_id="Dplay Extra 5">Dplay Extra 5</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-6" xmltv_id="Dplay Extra 6">Dplay Extra 6</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-7" xmltv_id="Dplay Extra 7">Dplay Extra 7</channel>
+    <channel update="i" site="dagenstv.com" site_id="dplay-extra-8" xmltv_id="Dplay Extra 8">Dplay Extra 8</channel>
+    <channel update="i" site="dagenstv.com" site_id="epic-drama-pl" xmltv_id="Epic Drama PL">Epic Drama PL</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-explore-pl" xmltv_id="Viasat Explore PL">Viasat Explore PL</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-history-pl" xmltv_id="Viasat History PL">Viasat History PL</channel>
+    <channel update="i" site="dagenstv.com" site_id="viasat-nature-pl" xmltv_id="Viasat Nature PL">Viasat Nature PL</channel>
+    <channel update="i" site="dagenstv.com" site_id="tv1000-russkoe-kino" xmltv_id="TV1000 Russkoe Kino">TV1000 Russkoe Kino</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-first-dk" xmltv_id="C More First DK">C More First DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-hits-dk" xmltv_id="C More Hits DK">C More Hits DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-series-dk" xmltv_id="C More Series DK">C More Series DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="c-more-stars-dk" xmltv_id="C More Stars DK">C More Stars DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="sf-kanalen-dk" xmltv_id="SF-kanalen DK">SF-kanalen DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="atg-live-hd" xmltv_id="ATG Live HD">ATG Live HD</channel>
+    <channel update="i" site="dagenstv.com" site_id="animal-planet-no" xmltv_id="Animal Planet NO">Animal Planet NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="bbc-brit-dk-" xmltv_id="BBC Brit (DK)">BBC Brit (DK)</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-science-dk" xmltv_id="Discovery Science DK">Discovery Science DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-science-no" xmltv_id="Discovery Science NO">Discovery Science NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-2" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-2-dk" xmltv_id="History 2 DK">History 2 DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-2-no" xmltv_id="History 2 NO">History 2 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-channel-dk" xmltv_id="History Channel DK">History Channel DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="history-no" xmltv_id="History NO">History NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="investigation-discovery-dk-" xmltv_id="Investigation Discovery (DK)">Investigation Discovery (DK)</channel>
+    <channel update="i" site="dagenstv.com" site_id="investigation-discovery-no" xmltv_id="Investigation Discovery NO">Investigation Discovery NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="paramount-plus-movies" xmltv_id="Paramount Plus Movies">Paramount Plus Movies</channel>
+    <channel update="i" site="dagenstv.com" site_id="paramount-plus-movies-dk" xmltv_id="Paramount Plus Movies DK">Paramount Plus Movies DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="paramount-plus-series" xmltv_id="Paramount Plus Series">Paramount Plus Series</channel>
+    <channel update="i" site="dagenstv.com" site_id="paramount-plus-series-dk" xmltv_id="Paramount Plus Series DK">Paramount Plus Series DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="tlc-dk-" xmltv_id="TLC (DK)">TLC (DK)</channel>
+    <channel update="i" site="dagenstv.com" site_id="tlc-no" xmltv_id="TLC NO">TLC NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="bbc-brit-no" xmltv_id="BBC Brit NO">BBC Brit NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="animal-planet-dk" xmltv_id="Animal Planet DK">Animal Planet DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-3" xmltv_id="Eurosport 3">Eurosport 3</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-3-no" xmltv_id="Eurosport 3 NO">Eurosport 3 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-4" xmltv_id="Eurosport 4">Eurosport 4</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-4-no" xmltv_id="Eurosport 4 NO">Eurosport 4 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-5" xmltv_id="Eurosport 5">Eurosport 5</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-5-no" xmltv_id="Eurosport 5 NO">Eurosport 5 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-3-fi" xmltv_id="Eurosport 3 FI">Eurosport 3 FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-4-fi" xmltv_id="Eurosport 4 FI">Eurosport 4 FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-5-fi" xmltv_id="Eurosport 5 FI">Eurosport 5 FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="sport-live-dk" xmltv_id="Sport Live DK">Sport Live DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-4k-no" xmltv_id="Eurosport 4K NO">Eurosport 4K NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="dw-english" xmltv_id="DW English">DW English</channel>
+    <channel update="i" site="dagenstv.com" site_id="bilkanalen-auto-motor-og-sport-tv" xmltv_id="Bilkanalen Auto Motor og Sport TV">Bilkanalen Auto Motor og Sport TV</channel>
+    <channel update="i" site="dagenstv.com" site_id="motorvision-tv" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="dagenstv.com" site_id="vgtv" xmltv_id="VGTV">VGTV</channel>
+    <channel update="i" site="dagenstv.com" site_id="france-24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premier-league-no" xmltv_id="V Sport Premier League NO">V Sport Premier League NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premier-league-1-no" xmltv_id="V Sport Premier League 1 NO">V Sport Premier League 1 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premier-league-2-no" xmltv_id="V Sport Premier League 2 NO">V Sport Premier League 2 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premier-league-3-no" xmltv_id="V Sport Premier League 3 NO">V Sport Premier League 3 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="v-sport-premier-league-4-no" xmltv_id="V Sport Premier League 4 NO">V Sport Premier League 4 NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="nickelodeon-dk" xmltv_id="Nickelodeon DK">Nickelodeon DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="nickelodeon-no" xmltv_id="Nickelodeon NO">Nickelodeon NO</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-hd-fi" xmltv_id="National Geographic HD FI">National Geographic HD FI</channel>
+    <channel update="i" site="dagenstv.com" site_id="6-eren" xmltv_id="6'eren">6'eren</channel>
+    <channel update="i" site="dagenstv.com" site_id="canal-9-dk-" xmltv_id="Canal 9 (DK)">Canal 9 (DK)</channel>
+    <channel update="i" site="dagenstv.com" site_id="dk4" xmltv_id="DK4">DK4</channel>
+    <channel update="i" site="dagenstv.com" site_id="discovery-channel-dk" xmltv_id="Discovery Channel DK">Discovery Channel DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="disney-junior-dk" xmltv_id="Disney Junior DK">Disney Junior DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-1-dk-" xmltv_id="Eurosport 1 (DK)">Eurosport 1 (DK)</channel>
+    <channel update="i" site="dagenstv.com" site_id="eurosport-2-danmark" xmltv_id="Eurosport 2 Danmark">Eurosport 2 Danmark</channel>
+    <channel update="i" site="dagenstv.com" site_id="mtv-dk" xmltv_id="MTV DK">MTV DK</channel>
+    <channel update="i" site="dagenstv.com" site_id="national-geographic-dk" xmltv_id="National Geographic DK">National Geographic DK</channel>
   </channels>
 </site>
