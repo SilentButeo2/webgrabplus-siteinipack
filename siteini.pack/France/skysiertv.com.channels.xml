@@ -1,334 +1,329 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.2 -- Jan van Straaten" site="www.skysiertv.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="skysiertv.com">
   <channels>
     <channel update="i" site="skysiertv.com" site_id="tf1" xmltv_id="TF1">TF1</channel>
-    <channel update="i" site="skysiertv.com" site_id="ab1" xmltv_id="AB1">AB1</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtbf1" xmltv_id="La Une">La Une</channel>
-    <channel update="i" site="skysiertv.com" site_id="dsatc" xmltv_id="3sat Schweiz">3sat Schweiz</channel>
-    <channel update="i" site="skysiertv.com" site_id="boin" xmltv_id="Boing">Boing</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra2" xmltv_id="France 2">France 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="parp" xmltv_id="Paris Première">Paris Première</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtbf2" xmltv_id="La Deux">La Deux</channel>
-    <channel update="i" site="skysiertv.com" site_id="rsi1" xmltv_id="RSI La 1">RSI La 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="boom" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra3" xmltv_id="France 3">France 3</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtl9" xmltv_id="RTL9">RTL9</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtvi" xmltv_id="RTL TVI">RTL TVI</channel>
-    <channel update="i" site="skysiertv.com" site_id="rsi2" xmltv_id="RSI La 2">RSI La 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="canj" xmltv_id="Canal J">Canal J</channel>
-    <channel update="i" site="skysiertv.com" site_id="canp" xmltv_id="Canal +">Canal +</channel>
-    <channel update="i" site="skysiertv.com" site_id="teva" xmltv_id="Téva">Téva</channel>
-    <channel update="i" site="skysiertv.com" site_id="crtl" xmltv_id="Club RTL">Club RTL</channel>
-    <channel update="i" site="skysiertv.com" site_id="rts1" xmltv_id="RTS Un">RTS Un</channel>
-    <channel update="i" site="skysiertv.com" site_id="carn" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra5" xmltv_id="France 5">France 5</channel>
-    <channel update="i" site="skysiertv.com" site_id="tv5f" xmltv_id="TV5 Monde FBS">TV5 Monde FBS</channel>
-    <channel update="i" site="skysiertv.com" site_id="plug" xmltv_id="Plug RTL">Plug RTL</channel>
-    <channel update="i" site="skysiertv.com" site_id="rts2" xmltv_id="RTS Deux">RTS Deux</channel>
-    <channel update="i" site="skysiertv.com" site_id="dich" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="skysiertv.com" site_id="tf11" xmltv_id="TF11">TF11</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra2" xmltv_id="FRA2">FRA2</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra3" xmltv_id="FRA3">FRA3</channel>
+    <channel update="i" site="skysiertv.com" site_id="canp" xmltv_id="CANP">CANP</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra5" xmltv_id="FRA5">FRA5</channel>
     <channel update="i" site="skysiertv.com" site_id="m6" xmltv_id="M6">M6</channel>
-    <channel update="i" site="skysiertv.com" site_id="tv5" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtbf3" xmltv_id="La Trois">La Trois</channel>
-    <channel update="i" site="skysiertv.com" site_id="s1" xmltv_id="S1">S1</channel>
-    <channel update="i" site="skysiertv.com" site_id="dijr" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="skysiertv.com" site_id="arte" xmltv_id="Arte">Arte</channel>
-    <channel update="i" site="skysiertv.com" site_id="ab3" xmltv_id="15: AB3">15: AB3</channel>
-    <channel update="i" site="skysiertv.com" site_id="srf1" xmltv_id="SRF 1">SRF 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="dixd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="skysiertv.com" site_id="arte" xmltv_id="ARTE">ARTE</channel>
     <channel update="i" site="skysiertv.com" site_id="c8" xmltv_id="C8">C8</channel>
-    <channel update="i" site="skysiertv.com" site_id="ru13" xmltv_id="13ème rue Universal">13ème rue Universal</channel>
-    <channel update="i" site="skysiertv.com" site_id="ab4" xmltv_id="AB4">AB4</channel>
-    <channel update="i" site="skysiertv.com" site_id="srf2" xmltv_id="SRF Zwei">SRF Zwei</channel>
-    <channel update="i" site="skysiertv.com" site_id="nick" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="skysiertv.com" site_id="w9" xmltv_id="W9">W9</channel>
-    <channel update="i" site="skysiertv.com" site_id="come" xmltv_id="Comédie+">Comédie+</channel>
-    <channel update="i" site="skysiertv.com" site_id="stat" xmltv_id="Star TV">Star TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="ni4t" xmltv_id="Nickelodeon 4Teen">Nickelodeon 4Teen</channel>
     <channel update="i" site="skysiertv.com" site_id="tmc" xmltv_id="TMC">TMC</channel>
-    <channel update="i" site="skysiertv.com" site_id="seri" xmltv_id="&lt;b&gt;série&lt;/b&gt;club">&lt;b&gt;série&lt;/b&gt;club</channel>
-    <channel update="i" site="skysiertv.com" site_id="een" xmltv_id="één">één</channel>
-    <channel update="i" site="skysiertv.com" site_id="stat2" xmltv_id="Star TV 2">Star TV 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="nickjr" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="skysiertv.com" site_id="tmc1" xmltv_id="TMC1">TMC1</channel>
     <channel update="i" site="skysiertv.com" site_id="nt1" xmltv_id="NT1">NT1</channel>
-    <channel update="i" site="skysiertv.com" site_id="syfu" xmltv_id="SyFy Universal">SyFy Universal</channel>
-    <channel update="i" site="skysiertv.com" site_id="canv" xmltv_id="Canvas">Canvas</channel>
-    <channel update="i" site="skysiertv.com" site_id="tv24" xmltv_id="TV24">TV24</channel>
-    <channel update="i" site="skysiertv.com" site_id="piwi" xmltv_id="Piwi+">Piwi+</channel>
-    <channel update="i" site="skysiertv.com" site_id="nrj" xmltv_id="NRJ 12">NRJ 12</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvbr" xmltv_id="TV Breizh">TV Breizh</channel>
-    <channel update="i" site="skysiertv.com" site_id="vtm" xmltv_id="VTM">VTM</channel>
-    <channel update="i" site="skysiertv.com" site_id="tv25" xmltv_id="TV25">TV25</channel>
-    <channel update="i" site="skysiertv.com" site_id="toon" xmltv_id="Télétoon+">Télétoon+</channel>
-    <channel update="i" site="skysiertv.com" site_id="lcpu" xmltv_id="LCP / Public Sénat">LCP / Public Sénat</channel>
-    <channel update="i" site="skysiertv.com" site_id="vier" xmltv_id="VIER">VIER</channel>
-    <channel update="i" site="skysiertv.com" site_id="tiji" xmltv_id="Tiji">Tiji</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra4" xmltv_id="France 4">France 4</channel>
-    <channel update="i" site="skysiertv.com" site_id="bet" xmltv_id="BET">BET</channel>
-    <channel update="i" site="skysiertv.com" site_id="vijf" xmltv_id="VIJF">VIJF</channel>
-    <channel update="i" site="skysiertv.com" site_id="roug" xmltv_id="Rouge TV">Rouge TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="tami" xmltv_id="Toonami">Toonami</channel>
-    <channel update="i" site="skysiertv.com" site_id="bfm" xmltv_id="BFM TV">BFM TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="evcp" xmltv_id="E!">E!</channel>
-    <channel update="i" site="skysiertv.com" site_id="q2" xmltv_id="Q2">Q2</channel>
+    <channel update="i" site="skysiertv.com" site_id="nrj" xmltv_id="NRJ">NRJ</channel>
+    <channel update="i" site="skysiertv.com" site_id="lcpu" xmltv_id="LCPU">LCPU</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra4" xmltv_id="FRA4">FRA4</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfm" xmltv_id="BFM">BFM</channel>
     <channel update="i" site="skysiertv.com" site_id="cnews" xmltv_id="CNEWS">CNEWS</channel>
-    <channel update="i" site="skysiertv.com" site_id="elle" xmltv_id="ELLE Girl">ELLE Girl</channel>
-    <channel update="i" site="skysiertv.com" site_id="vita" xmltv_id="Vitaya">Vitaya</channel>
-    <channel update="i" site="skysiertv.com" site_id="dplus" xmltv_id="3+">3+</channel>
-    <channel update="i" site="skysiertv.com" site_id="anim" xmltv_id="Animaux">Animaux</channel>
     <channel update="i" site="skysiertv.com" site_id="cstar" xmltv_id="CSTAR">CSTAR</channel>
-    <channel update="i" site="skysiertv.com" site_id="gam1" xmltv_id="Game One">Game One</channel>
-    <channel update="i" site="skysiertv.com" site_id="caz" xmltv_id="CAZ">CAZ</channel>
-    <channel update="i" site="skysiertv.com" site_id="vplus" xmltv_id="4+">4+</channel>
-    <channel update="i" site="skysiertv.com" site_id="camp" xmltv_id="Campagnes TV">Campagnes TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="gull" xmltv_id="Gulli">Gulli</channel>
-    <channel update="i" site="skysiertv.com" site_id="gonm" xmltv_id="Gong Max">Gong Max</channel>
-    <channel update="i" site="skysiertv.com" site_id="ment" xmltv_id="MENT TV">MENT TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="fplus" xmltv_id="5+">5+</channel>
-    <channel update="i" site="skysiertv.com" site_id="chas" xmltv_id="Chasse &amp; Pêche">Chasse &amp; Pêche</channel>
-    <channel update="i" site="skysiertv.com" site_id="frao" xmltv_id="France Ô">France Ô</channel>
-    <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="Gong">Gong</channel>
-    <channel update="i" site="skysiertv.com" site_id="kadet" xmltv_id="KADET">KADET</channel>
-    <channel update="i" site="skysiertv.com" site_id="crim" xmltv_id="Crime District">Crime District</channel>
+    <channel update="i" site="skysiertv.com" site_id="gull" xmltv_id="GULL">GULL</channel>
     <channel update="i" site="skysiertv.com" site_id="hd1" xmltv_id="HD1">HD1</channel>
-    <channel update="i" site="skysiertv.com" site_id="jone" xmltv_id="J">J</channel>
-    <channel update="i" site="skysiertv.com" site_id="ketn" xmltv_id="Ketnet">Ketnet</channel>
-    <channel update="i" site="skysiertv.com" site_id="onetv" xmltv_id="One TV">One TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="disc" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="skysiertv.com" site_id="equtv" xmltv_id="la chaîne L Équipe">la chaîne L Équipe</channel>
-    <channel update="i" site="skysiertv.com" site_id="mang" xmltv_id="Mangas">Mangas</channel>
-    <channel update="i" site="skysiertv.com" site_id="plat" xmltv_id="PlattelandsTv">PlattelandsTv</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvm3" xmltv_id="TVM3">TVM3</channel>
-    <channel update="i" site="skysiertv.com" site_id="disf" xmltv_id="Discovery Family">Discovery Family</channel>
-    <channel update="i" site="skysiertv.com" site_id="ster" xmltv_id="6ter">6ter</channel>
-    <channel update="i" site="skysiertv.com" site_id="mce" xmltv_id="MCE">MCE</channel>
-    <channel update="i" site="skysiertv.com" site_id="vtmk" xmltv_id="vtmKzoom">vtmKzoom</channel>
-    <channel update="i" site="skysiertv.com" site_id="disi" xmltv_id="Discovery Investigation">Discovery Investigation</channel>
-    <channel update="i" site="skysiertv.com" site_id="n23" xmltv_id="Numéro 23">Numéro 23</channel>
-    <channel update="i" site="skysiertv.com" site_id="mcm" xmltv_id="MCM">MCM</channel>
-    <channel update="i" site="skysiertv.com" site_id="zes" xmltv_id="ZES">ZES</channel>
-    <channel update="i" site="skysiertv.com" site_id="srfi" xmltv_id="SRF Info">SRF Info</channel>
-    <channel update="i" site="skysiertv.com" site_id="diss" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="skysiertv.com" site_id="rmcd" xmltv_id="RMC Découverte">RMC Découverte</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvf" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="skysiertv.com" site_id="telt" xmltv_id="Tele Top">Tele Top</channel>
-    <channel update="i" site="skysiertv.com" site_id="hisr" xmltv_id="Histoire">Histoire</channel>
-    <channel update="i" site="skysiertv.com" site_id="che25" xmltv_id="Chérie 25">Chérie 25</channel>
-    <channel update="i" site="skysiertv.com" site_id="noli" xmltv_id="Nolife">Nolife</channel>
-    <channel update="i" site="skysiertv.com" site_id="elev1" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="muse" xmltv_id="Museum">Museum</channel>
+    <channel update="i" site="skysiertv.com" site_id="equtv" xmltv_id="EQUTV">EQUTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="ster" xmltv_id="STER">STER</channel>
+    <channel update="i" site="skysiertv.com" site_id="rmcs" xmltv_id="RMCS">RMCS</channel>
+    <channel update="i" site="skysiertv.com" site_id="rmcd" xmltv_id="RMCD">RMCD</channel>
+    <channel update="i" site="skysiertv.com" site_id="che25" xmltv_id="CHE25">CHE25</channel>
     <channel update="i" site="skysiertv.com" site_id="lci" xmltv_id="LCI">LCI</channel>
-    <channel update="i" site="skysiertv.com" site_id="elev2" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="nijrc" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="skysiertv.com" site_id="ngc" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="skysiertv.com" site_id="frai" xmltv_id="franceinfo:">franceinfo:</channel>
-    <channel update="i" site="skysiertv.com" site_id="acti" xmltv_id="Action">Action</channel>
-    <channel update="i" site="skysiertv.com" site_id="elev3" xmltv_id="Eleven Sports 3">Eleven Sports 3</channel>
-    <channel update="i" site="skysiertv.com" site_id="ngw" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="skysiertv.com" site_id="alst" xmltv_id="Altice Studio">Altice Studio</channel>
-    <channel update="i" site="skysiertv.com" site_id="prox11" xmltv_id="Proximus 11">Proximus 11</channel>
-    <channel update="i" site="skysiertv.com" site_id="can9" xmltv_id="Canal 9">Canal 9</channel>
-    <channel update="i" site="skysiertv.com" site_id="plan" xmltv_id="Planète+">Planète+</channel>
-    <channel update="i" site="skysiertv.com" site_id="alsa" xmltv_id="Alsace20">Alsace20</channel>
-    <channel update="i" site="skysiertv.com" site_id="canc" xmltv_id="Canal+ Cinéma">Canal+ Cinéma</channel>
-    <channel update="i" site="skysiertv.com" site_id="prox11p" xmltv_id="Proximus 11+">Proximus 11+</channel>
-    <channel update="i" site="skysiertv.com" site_id="kan9" xmltv_id="Kanal 9">Kanal 9</channel>
-    <channel update="i" site="skysiertv.com" site_id="plae" xmltv_id="Planète+ A&amp;E">Planète+ A&amp;E</channel>
-    <channel update="i" site="skysiertv.com" site_id="azurp" xmltv_id="AZUR Marseille">AZUR Marseille</channel>
-    <channel update="i" site="skysiertv.com" site_id="cand" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
-    <channel update="i" site="skysiertv.com" site_id="voosw1" xmltv_id="VOO Sport World 1">VOO Sport World 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="calp" xmltv_id="Canal Alpha Neuchâtel">Canal Alpha Neuchâtel</channel>
-    <channel update="i" site="skysiertv.com" site_id="plci" xmltv_id="Planète+ ci">Planète+ ci</channel>
-    <channel update="i" site="skysiertv.com" site_id="azur" xmltv_id="AZUR Nice">AZUR Nice</channel>
-    <channel update="i" site="skysiertv.com" site_id="canf" xmltv_id="Canal+ Family">Canal+ Family</channel>
-    <channel update="i" site="skysiertv.com" site_id="voosw2" xmltv_id="VOO Sport World 2">VOO Sport World 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="calpj" xmltv_id="Canal Alpha Jura">Canal Alpha Jura</channel>
-    <channel update="i" site="skysiertv.com" site_id="svtv" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="azurv" xmltv_id="AZUR Toulon &amp; Hyères">AZUR Toulon &amp; Hyères</channel>
-    <channel update="i" site="skysiertv.com" site_id="canse" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
-    <channel update="i" site="skysiertv.com" site_id="voosw3" xmltv_id="VOO Sport World 3">VOO Sport World 3</channel>
-    <channel update="i" site="skysiertv.com" site_id="late" xmltv_id="La Télé">La Télé</channel>
-    <channel update="i" site="skysiertv.com" site_id="seas" xmltv_id="Seasons">Seasons</channel>
-    <channel update="i" site="skysiertv.com" site_id="bfmp" xmltv_id="BFM Paris">BFM Paris</channel>
-    <channel update="i" site="skysiertv.com" site_id="cfx" xmltv_id="Ciné FX">Ciné FX</channel>
-    <channel update="i" site="skysiertv.com" site_id="lemb" xmltv_id="Leman Bleu">Leman Bleu</channel>
-    <channel update="i" site="skysiertv.com" site_id="hist" xmltv_id="Toute l Histoire">Toute l Histoire</channel>
-    <channel update="i" site="skysiertv.com" site_id="can32" xmltv_id="Canal 32">Canal 32</channel>
-    <channel update="i" site="skysiertv.com" site_id="cccl" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
-    <channel update="i" site="skysiertv.com" site_id="bbe1" xmltv_id="Be 1">Be 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="nrtv" xmltv_id="Nyon Région Télévision">Nyon Région Télévision</channel>
-    <channel update="i" site="skysiertv.com" site_id="trek" xmltv_id="Trek">Trek</channel>
-    <channel update="i" site="skysiertv.com" site_id="dicit" xmltv_id="D!CI TV">D!CI TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="cccu" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
-    <channel update="i" site="skysiertv.com" site_id="bbecin" xmltv_id="Be Ciné">Be Ciné</channel>
-    <channel update="i" site="skysiertv.com" site_id="tbiel" xmltv_id="Télé Bielingue">Télé Bielingue</channel>
-    <channel update="i" site="skysiertv.com" site_id="natur" xmltv_id="Ultra Nature [4K]">Ultra Nature [4K]</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra3p" xmltv_id="France 3 Paris">France 3 Paris</channel>
-    <channel update="i" site="skysiertv.com" site_id="ccem" xmltv_id="Ciné+ Emotion">Ciné+ Emotion</channel>
-    <channel update="i" site="skysiertv.com" site_id="bbeser" xmltv_id="Be Séries">Be Séries</channel>
-    <channel update="i" site="skysiertv.com" site_id="tbarn" xmltv_id="Tele Bärn">Tele Bärn</channel>
-    <channel update="i" site="skysiertv.com" site_id="ushu" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra3pa" xmltv_id="France 3 Provence Alpes">France 3 Provence Alpes</channel>
-    <channel update="i" site="skysiertv.com" site_id="ccfa" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
-    <channel update="i" site="skysiertv.com" site_id="tele1" xmltv_id="Tele 1">Tele 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="voya" xmltv_id="Voyage">Voyage</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra3ra" xmltv_id="France 3 Rhône Alpes">France 3 Rhône Alpes</channel>
-    <channel update="i" site="skysiertv.com" site_id="ccfr" xmltv_id="Ciné+ Frisson">Ciné+ Frisson</channel>
-    <channel update="i" site="skysiertv.com" site_id="canz" xmltv_id="Canal Z">Canal Z</channel>
-    <channel update="i" site="skysiertv.com" site_id="tm1" xmltv_id="Tele M1">Tele M1</channel>
-    <channel update="i" site="skysiertv.com" site_id="cors" xmltv_id="France 3 Via Stella">France 3 Via Stella</channel>
-    <channel update="i" site="skysiertv.com" site_id="ccpr" xmltv_id="Ciné+ Premier">Ciné+ Premier</channel>
-    <channel update="i" site="skysiertv.com" site_id="kanz" xmltv_id="Kanaal Z">Kanaal Z</channel>
-    <channel update="i" site="skysiertv.com" site_id="tso" xmltv_id="Tele Südostschweiz">Tele Südostschweiz</channel>
-    <channel update="i" site="skysiertv.com" site_id="kto" xmltv_id="KTO">KTO</channel>
-    <channel update="i" site="skysiertv.com" site_id="idf1" xmltv_id="IDF1">IDF1</channel>
-    <channel update="i" site="skysiertv.com" site_id="dici" xmltv_id="Disney Cinéma">Disney Cinéma</channel>
-    <channel update="i" site="skysiertv.com" site_id="tzuri" xmltv_id="Tele Züri">Tele Züri</channel>
-    <channel update="i" site="skysiertv.com" site_id="luja" xmltv_id="Lucky Jack.tv">Lucky Jack.tv</channel>
-    <channel update="i" site="skysiertv.com" site_id="mirtv" xmltv_id="Mirabelle TV">Mirabelle TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="euroc" xmltv_id="Eurochannel">Eurochannel</channel>
-    <channel update="i" site="skysiertv.com" site_id="ance" xmltv_id="Antenne Centre Télévision">Antenne Centre Télévision</channel>
-    <channel update="i" site="skysiertv.com" site_id="mycu" xmltv_id="MY Cuisine">MY Cuisine</channel>
-    <channel update="i" site="skysiertv.com" site_id="tgre" xmltv_id="Télé Grenoble Isère">Télé Grenoble Isère</channel>
-    <channel update="i" site="skysiertv.com" site_id="occh" xmltv_id="OCS Choc">OCS Choc</channel>
-    <channel update="i" site="skysiertv.com" site_id="tbru" xmltv_id="BX1">BX1</channel>
-    <channel update="i" site="skysiertv.com" site_id="mote" xmltv_id="AB Moteurs">AB Moteurs</channel>
-    <channel update="i" site="skysiertv.com" site_id="myze" xmltv_id="myZen.tv">myZen.tv</channel>
-    <channel update="i" site="skysiertv.com" site_id="tlm" xmltv_id="Télé Lyon Métropole">Télé Lyon Métropole</channel>
-    <channel update="i" site="skysiertv.com" site_id="occi" xmltv_id="OCS City">OCS City</channel>
-    <channel update="i" site="skysiertv.com" site_id="canac" xmltv_id="Canal C">Canal C</channel>
-    <channel update="i" site="skysiertv.com" site_id="bein1" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="vivo" xmltv_id="Vivolta">Vivolta</channel>
-    <channel update="i" site="skysiertv.com" site_id="tepae" xmltv_id="Télé Paese">Télé Paese</channel>
-    <channel update="i" site="skysiertv.com" site_id="ocge" xmltv_id="OCS Géants">OCS Géants</channel>
-    <channel update="i" site="skysiertv.com" site_id="cazm" xmltv_id="Canal Zoom">Canal Zoom</channel>
-    <channel update="i" site="skysiertv.com" site_id="bein2" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="tnan" xmltv_id="télénantes">télénantes</channel>
-    <channel update="i" site="skysiertv.com" site_id="ocma" xmltv_id="OCS Max">OCS Max</channel>
-    <channel update="i" site="skysiertv.com" site_id="mateb" xmltv_id="Ma Télé">Ma Télé</channel>
-    <channel update="i" site="skysiertv.com" site_id="bein3" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
-    <channel update="i" site="skysiertv.com" site_id="class" xmltv_id="Classica">Classica</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvcc" xmltv_id="TV Sud Cevennes">TV Sud Cevennes</channel>
-    <channel update="i" site="skysiertv.com" site_id="parc" xmltv_id="Paramount Channel">Paramount Channel</channel>
-    <channel update="i" site="skysiertv.com" site_id="note" xmltv_id="NoTélé">NoTélé</channel>
-    <channel update="i" site="skysiertv.com" site_id="beinm" xmltv_id="beIN SPORTS MAX">beIN SPORTS MAX</channel>
-    <channel update="i" site="skysiertv.com" site_id="m6mu" xmltv_id="M6 Music">M6 Music</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvmo" xmltv_id="TV Sud Montpellier">TV Sud Montpellier</channel>
-    <channel update="i" site="skysiertv.com" site_id="pola" xmltv_id="Polar">Polar</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtcl" xmltv_id="RTC Liège">RTC Liège</channel>
-    <channel update="i" site="skysiertv.com" site_id="bfms" xmltv_id="BFM Sport">BFM Sport</channel>
-    <channel update="i" site="skysiertv.com" site_id="mcmt" xmltv_id="MCM Top">MCM Top</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvpo" xmltv_id="TV Sud Perpignan">TV Sud Perpignan</channel>
-    <channel update="i" site="skysiertv.com" site_id="sund" xmltv_id="Sundance TV">Sundance TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="teve" xmltv_id="Télé Vesdre">Télé Vesdre</channel>
-    <channel update="i" site="skysiertv.com" site_id="cans" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
-    <channel update="i" site="skysiertv.com" site_id="melo" xmltv_id="Melody">Melody</channel>
-    <channel update="i" site="skysiertv.com" site_id="tren" xmltv_id="TVR">TVR</channel>
-    <channel update="i" site="skysiertv.com" site_id="tcm" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
-    <channel update="i" site="skysiertv.com" site_id="temb" xmltv_id="TéléMB">TéléMB</channel>
-    <channel update="i" site="skysiertv.com" site_id="equlf" xmltv_id="Equidia Life">Equidia Life</channel>
-    <channel update="i" site="skysiertv.com" site_id="mezz" xmltv_id="Mezzo">Mezzo</channel>
-    <channel update="i" site="skysiertv.com" site_id="ttou" xmltv_id="TVT">TVT</channel>
-    <channel update="i" site="skysiertv.com" site_id="tesa" xmltv_id="Télésambre">Télésambre</channel>
-    <channel update="i" site="skysiertv.com" site_id="equlv" xmltv_id="Equidia Live">Equidia Live</channel>
-    <channel update="i" site="skysiertv.com" site_id="mezzh" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
-    <channel update="i" site="skysiertv.com" site_id="imag" xmltv_id="Vosges Télévision">Vosges Télévision</channel>
-    <channel update="i" site="skysiertv.com" site_id="blhus" xmltv_id="Blue Hustler">Blue Hustler</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvlu" xmltv_id="TV Lux">TV Lux</channel>
-    <channel update="i" site="skysiertv.com" site_id="eusp" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvc" xmltv_id="MTV Classic UK">MTV Classic UK</channel>
-    <channel update="i" site="skysiertv.com" site_id="weo" xmltv_id="Wéo Nord">Wéo Nord</channel>
-    <channel update="i" site="skysiertv.com" site_id="dorc" xmltv_id="Dorcel TV">Dorcel TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="tvco" xmltv_id="TVCom">TVCom</channel>
-    <channel update="i" site="skysiertv.com" site_id="eusp2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvd" xmltv_id="MTV Dance UK">MTV Dance UK</channel>
-    <channel update="i" site="skysiertv.com" site_id="weop" xmltv_id="Wéo Picardie">Wéo Picardie</channel>
-    <channel update="i" site="skysiertv.com" site_id="dorx" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
-    <channel update="i" site="skysiertv.com" site_id="exts" xmltv_id="Extrême Sports Channel">Extrême Sports Channel</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvh" xmltv_id="MTV Hits France">MTV Hits France</channel>
-    <channel update="i" site="skysiertv.com" site_id="frlo" xmltv_id="French Lover TV">French Lover TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="bfmb" xmltv_id="BFM Business">BFM Business</channel>
-    <channel update="i" site="skysiertv.com" site_id="foop" xmltv_id="MULTISPORTS">MULTISPORTS</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvfh" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="skysiertv.com" site_id="dsat" xmltv_id="3sat">3sat</channel>
-    <channel update="i" site="skysiertv.com" site_id="hust" xmltv_id="Hustler TV">Hustler TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="eurn" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="skysiertv.com" site_id="girtv" xmltv_id="Girondins TV">Girondins TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvm" xmltv_id="MTV Music UK">MTV Music UK</channel>
-    <channel update="i" site="skysiertv.com" site_id="arted" xmltv_id="arte">arte</channel>
-    <channel update="i" site="skysiertv.com" site_id="manx" xmltv_id="Man X">Man X</channel>
-    <channel update="i" site="skysiertv.com" site_id="fra24" xmltv_id="France 24">France 24</channel>
-    <channel update="i" site="skysiertv.com" site_id="golf" xmltv_id="Golf Channel">Golf Channel</channel>
-    <channel update="i" site="skysiertv.com" site_id="mtvr" xmltv_id="MTV Rock Europe">MTV Rock Europe</channel>
-    <channel update="i" site="skysiertv.com" site_id="erst" xmltv_id="Das Erste">Das Erste</channel>
-    <channel update="i" site="skysiertv.com" site_id="pink" xmltv_id="Pink X">Pink X</channel>
-    <channel update="i" site="skysiertv.com" site_id="i24n" xmltv_id="i24news">i24news</channel>
-    <channel update="i" site="skysiertv.com" site_id="ispo" xmltv_id="Infosport+">Infosport+</channel>
-    <channel update="i" site="skysiertv.com" site_id="nrjh" xmltv_id="NRJ Hits">NRJ Hits</channel>
-    <channel update="i" site="skysiertv.com" site_id="k1" xmltv_id="Kabel eins">Kabel eins</channel>
-    <channel update="i" site="skysiertv.com" site_id="priv" xmltv_id="Private">Private</channel>
-    <channel update="i" site="skysiertv.com" site_id="lcp" xmltv_id="LCP 100%">LCP 100%</channel>
-    <channel update="i" site="skysiertv.com" site_id="moto" xmltv_id="Motorsport.TV">Motorsport.TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="rfm" xmltv_id="RFM TV">RFM TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="pro7" xmltv_id="Pro Sieben">Pro Sieben</channel>
-    <channel update="i" site="skysiertv.com" site_id="starx" xmltv_id="Stars XXX TV">Stars XXX TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="pubs" xmltv_id="Public Sénat">Public Sénat</channel>
-    <channel update="i" site="skysiertv.com" site_id="naut" xmltv_id="Nautical Channel">Nautical Channel</channel>
-    <channel update="i" site="skysiertv.com" site_id="brav" xmltv_id="STINGRAY brava">STINGRAY brava</channel>
-    <channel update="i" site="skysiertv.com" site_id="maxx" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
-    <channel update="i" site="skysiertv.com" site_id="xxl" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="skysiertv.com" site_id="frai" xmltv_id="FRAI">FRAI</channel>
+    <channel update="i" site="skysiertv.com" site_id="vmintv" xmltv_id="VMINTV">VMINTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="tv8mb" xmltv_id="TV8MB">TV8MB</channel>
+    <channel update="i" site="skysiertv.com" site_id="beffroi" xmltv_id="BEFFROI">BEFFROI</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfma" xmltv_id="BFMA">BFMA</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmdici" xmltv_id="BFMDICI">BFMDICI</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmlil" xmltv_id="BFMLIL">BFMLIL</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmlit" xmltv_id="BFMLIT">BFMLIT</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfml" xmltv_id="BFML">BFML</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmm" xmltv_id="BFMM">BFMM</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmn" xmltv_id="BFMN">BFMN</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmno" xmltv_id="BFMNO">BFMNO</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmp" xmltv_id="BFMP">BFMP</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmt" xmltv_id="BFMT">BFMT</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra3nor" xmltv_id="FRA3NOR">FRA3NOR</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra3pl" xmltv_id="FRA3PL">FRA3PL</channel>
+    <channel update="i" site="skysiertv.com" site_id="figaroidf" xmltv_id="FIGAROIDF">FIGAROIDF</channel>
+    <channel update="i" site="skysiertv.com" site_id="tvlm" xmltv_id="TVLM">TVLM</channel>
+    <channel update="i" site="skysiertv.com" site_id="mirtv" xmltv_id="MIRTV">MIRTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="tvgoh" xmltv_id="TVGOH">TVGOH</channel>
+    <channel update="i" site="skysiertv.com" site_id="tgre" xmltv_id="TGRE">TGRE</channel>
+    <channel update="i" site="skysiertv.com" site_id="tl7" xmltv_id="TL7">TL7</channel>
+    <channel update="i" site="skysiertv.com" site_id="tv3v" xmltv_id="TV3V">TV3V</channel>
+    <channel update="i" site="skysiertv.com" site_id="tv8e" xmltv_id="TV8E">TV8E</channel>
+    <channel update="i" site="skysiertv.com" site_id="tren" xmltv_id="TREN">TREN</channel>
+    <channel update="i" site="skysiertv.com" site_id="ttou" xmltv_id="TTOU">TTOU</channel>
+    <channel update="i" site="skysiertv.com" site_id="mate" xmltv_id="MATE">MATE</channel>
+    <channel update="i" site="skysiertv.com" site_id="imag" xmltv_id="IMAG">IMAG</channel>
+    <channel update="i" site="skysiertv.com" site_id="weo" xmltv_id="WEO">WEO</channel>
+    <channel update="i" site="skysiertv.com" site_id="weop" xmltv_id="WEOP">WEOP</channel>
+    <channel update="i" site="skysiertv.com" site_id="nanar" xmltv_id="NANAR">NANAR</channel>
+    <channel update="i" site="skysiertv.com" site_id="west" xmltv_id="WEST">WEST</channel>
+    <channel update="i" site="skysiertv.com" site_id="duckrak" xmltv_id="DUCKRAK">DUCKRAK</channel>
+    <channel update="i" site="skysiertv.com" site_id="emotionl" xmltv_id="EMOTIONL">EMOTIONL</channel>
+    <channel update="i" site="skysiertv.com" site_id="exts" xmltv_id="EXTS">EXTS</channel>
+    <channel update="i" site="skysiertv.com" site_id="fashf" xmltv_id="FASHF">FASHF</channel>
+    <channel update="i" site="skysiertv.com" site_id="films" xmltv_id="FILMS">FILMS</channel>
+    <channel update="i" site="skysiertv.com" site_id="frnov" xmltv_id="FRNOV">FRNOV</channel>
+    <channel update="i" site="skysiertv.com" site_id="luxefast" xmltv_id="LUXEFAST">LUXEFAST</channel>
+    <channel update="i" site="skysiertv.com" site_id="nickua" xmltv_id="NICKUA">NICKUA</channel>
+    <channel update="i" site="skysiertv.com" site_id="nollyaf" xmltv_id="NOLLYAF">NOLLYAF</channel>
+    <channel update="i" site="skysiertv.com" site_id="screamin" xmltv_id="SCREAMIN">SCREAMIN</channel>
+    <channel update="i" site="skysiertv.com" site_id="sclassf" xmltv_id="SCLASSF">SCLASSF</channel>
+    <channel update="i" site="skysiertv.com" site_id="skarak" xmltv_id="SKARAK">SKARAK</channel>
+    <channel update="i" site="skysiertv.com" site_id="sclassr" xmltv_id="SCLASSR">SCLASSR</channel>
+    <channel update="i" site="skysiertv.com" site_id="seuroh" xmltv_id="SEUROH">SEUROH</channel>
+    <channel update="i" site="skysiertv.com" site_id="sexistosm" xmltv_id="SEXISTOSM">SEXISTOSM</channel>
+    <channel update="i" site="skysiertv.com" site_id="sflash70" xmltv_id="SFLASH70">SFLASH70</channel>
+    <channel update="i" site="skysiertv.com" site_id="sgreat" xmltv_id="SGREAT">SGREAT</channel>
+    <channel update="i" site="skysiertv.com" site_id="shiphopr" xmltv_id="SHIPHOPR">SHIPHOPR</channel>
+    <channel update="i" site="skysiertv.com" site_id="shitl" xmltv_id="SHITL">SHITL</channel>
+    <channel update="i" site="skysiertv.com" site_id="shotc" xmltv_id="SHOTC">SHOTC</channel>
+    <channel update="i" site="skysiertv.com" site_id="snoth90" xmltv_id="SNOTH90">SNOTH90</channel>
+    <channel update="i" site="skysiertv.com" site_id="spopa" xmltv_id="SPOPA">SPOPA</channel>
+    <channel update="i" site="skysiertv.com" site_id="sremb80" xmltv_id="SREMB80">SREMB80</channel>
+    <channel update="i" site="skysiertv.com" site_id="srocka" xmltv_id="SROCKA">SROCKA</channel>
+    <channel update="i" site="skysiertv.com" site_id="ssmoj" xmltv_id="SSMOJ">SSMOJ</channel>
+    <channel update="i" site="skysiertv.com" site_id="ssouls" xmltv_id="SSOULS">SSOULS</channel>
+    <channel update="i" site="skysiertv.com" site_id="sspa" xmltv_id="SSPA">SSPA</channel>
+    <channel update="i" site="skysiertv.com" site_id="stodayk" xmltv_id="STODAYK">STODAYK</channel>
+    <channel update="i" site="skysiertv.com" site_id="sy2k" xmltv_id="SY2K">SY2K</channel>
+    <channel update="i" site="skysiertv.com" site_id="snature" xmltv_id="SNATURE">SNATURE</channel>
+    <channel update="i" site="skysiertv.com" site_id="sqello" xmltv_id="SQELLO">SQELLO</channel>
+    <channel update="i" site="skysiertv.com" site_id="travxp" xmltv_id="TRAVXP">TRAVXP</channel>
+    <channel update="i" site="skysiertv.com" site_id="wilde" xmltv_id="WILDE">WILDE</channel>
+    <channel update="i" site="skysiertv.com" site_id="ab1" xmltv_id="AB1">AB1</channel>
+    <channel update="i" site="skysiertv.com" site_id="funb" xmltv_id="FUNB">FUNB</channel>
+    <channel update="i" site="skysiertv.com" site_id="olymp" xmltv_id="OLYMP">OLYMP</channel>
+    <channel update="i" site="skysiertv.com" site_id="parp" xmltv_id="PARP">PARP</channel>
+    <channel update="i" site="skysiertv.com" site_id="rtl9" xmltv_id="RTL9">RTL9</channel>
+    <channel update="i" site="skysiertv.com" site_id="teva" xmltv_id="TEVA">TEVA</channel>
+    <channel update="i" site="skysiertv.com" site_id="tv5" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="skysiertv.com" site_id="tv5f" xmltv_id="TV5F">TV5F</channel>
+    <channel update="i" site="skysiertv.com" site_id="ru13" xmltv_id="RU13">RU13</channel>
+    <channel update="i" site="skysiertv.com" site_id="come" xmltv_id="COME">COME</channel>
+    <channel update="i" site="skysiertv.com" site_id="tdc" xmltv_id="TDC">TDC</channel>
+    <channel update="i" site="skysiertv.com" site_id="novel" xmltv_id="NOVEL">NOVEL</channel>
+    <channel update="i" site="skysiertv.com" site_id="polap" xmltv_id="POLAP">POLAP</channel>
+    <channel update="i" site="skysiertv.com" site_id="seri" xmltv_id="SERI">SERI</channel>
+    <channel update="i" site="skysiertv.com" site_id="syfu" xmltv_id="SYFU">SYFU</channel>
+    <channel update="i" site="skysiertv.com" site_id="tvbr" xmltv_id="TVBR">TVBR</channel>
+    <channel update="i" site="skysiertv.com" site_id="warn" xmltv_id="WARN">WARN</channel>
+    <channel update="i" site="skysiertv.com" site_id="canc" xmltv_id="CANC">CANC</channel>
+    <channel update="i" site="skysiertv.com" site_id="cando" xmltv_id="CANDO">CANDO</channel>
+    <channel update="i" site="skysiertv.com" site_id="canf" xmltv_id="CANF">CANF</channel>
+    <channel update="i" site="skysiertv.com" site_id="canpge" xmltv_id="CANPGE">CANPGE</channel>
+    <channel update="i" site="skysiertv.com" site_id="cank" xmltv_id="CANK">CANK</channel>
+    <channel update="i" site="skysiertv.com" site_id="canse" xmltv_id="CANSE">CANSE</channel>
+    <channel update="i" site="skysiertv.com" site_id="cans" xmltv_id="CANS">CANS</channel>
+    <channel update="i" site="skysiertv.com" site_id="cansf1" xmltv_id="CANSF1">CANSF1</channel>
+    <channel update="i" site="skysiertv.com" site_id="cansmotgp" xmltv_id="CANSMOTGP">CANSMOTGP</channel>
+    <channel update="i" site="skysiertv.com" site_id="canspl" xmltv_id="CANSPL">CANSPL</channel>
+    <channel update="i" site="skysiertv.com" site_id="canst14" xmltv_id="CANST14">CANST14</channel>
+    <channel update="i" site="skysiertv.com" site_id="cansf" xmltv_id="CANSF">CANSF</channel>
+    <channel update="i" site="skysiertv.com" site_id="acti" xmltv_id="ACTI">ACTI</channel>
+    <channel update="i" site="skysiertv.com" site_id="cccl" xmltv_id="CCCL">CCCL</channel>
+    <channel update="i" site="skysiertv.com" site_id="cccu" xmltv_id="CCCU">CCCU</channel>
+    <channel update="i" site="skysiertv.com" site_id="ccem" xmltv_id="CCEM">CCEM</channel>
+    <channel update="i" site="skysiertv.com" site_id="ccfa" xmltv_id="CCFA">CCFA</channel>
+    <channel update="i" site="skysiertv.com" site_id="ccfr" xmltv_id="CCFR">CCFR</channel>
+    <channel update="i" site="skysiertv.com" site_id="ccpr" xmltv_id="CCPR">CCPR</channel>
+    <channel update="i" site="skysiertv.com" site_id="dimc" xmltv_id="DIMC">DIMC</channel>
+    <channel update="i" site="skysiertv.com" site_id="euroc" xmltv_id="EUROC">EUROC</channel>
+    <channel update="i" site="skysiertv.com" site_id="filmb" xmltv_id="FILMB">FILMB</channel>
+    <channel update="i" site="skysiertv.com" site_id="nolly" xmltv_id="NOLLY">NOLLY</channel>
+    <channel update="i" site="skysiertv.com" site_id="parc" xmltv_id="PARC">PARC</channel>
+    <channel update="i" site="skysiertv.com" site_id="parc1" xmltv_id="PARC1">PARC1</channel>
+    <channel update="i" site="skysiertv.com" site_id="tcm" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="skysiertv.com" site_id="bet" xmltv_id="BET">BET</channel>
+    <channel update="i" site="skysiertv.com" site_id="comc" xmltv_id="COMC">COMC</channel>
+    <channel update="i" site="skysiertv.com" site_id="evcp" xmltv_id="EVCP">EVCP</channel>
+    <channel update="i" site="skysiertv.com" site_id="gam1" xmltv_id="GAM1">GAM1</channel>
+    <channel update="i" site="skysiertv.com" site_id="gameb" xmltv_id="GAMEB">GAMEB</channel>
+    <channel update="i" site="skysiertv.com" site_id="gong" xmltv_id="GONG">GONG</channel>
+    <channel update="i" site="skysiertv.com" site_id="gonm" xmltv_id="GONM">GONM</channel>
+    <channel update="i" site="skysiertv.com" site_id="jone" xmltv_id="JONE">JONE</channel>
+    <channel update="i" site="skysiertv.com" site_id="mang" xmltv_id="MANG">MANG</channel>
+    <channel update="i" site="skysiertv.com" site_id="mcm" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="skysiertv.com" site_id="mgg" xmltv_id="MGG">MGG</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtvf" xmltv_id="MTVF">MTVF</channel>
+    <channel update="i" site="skysiertv.com" site_id="sqool" xmltv_id="SQOOL">SQOOL</channel>
+    <channel update="i" site="skysiertv.com" site_id="techco" xmltv_id="TECHCO">TECHCO</channel>
+    <channel update="i" site="skysiertv.com" site_id="tami" xmltv_id="TAMI">TAMI</channel>
+    <channel update="i" site="skysiertv.com" site_id="tras" xmltv_id="TRAS">TRAS</channel>
+    <channel update="i" site="skysiertv.com" site_id="mote" xmltv_id="MOTE">MOTE</channel>
+    <channel update="i" site="skysiertv.com" site_id="bein1" xmltv_id="BEIN1">BEIN1</channel>
+    <channel update="i" site="skysiertv.com" site_id="bein2" xmltv_id="BEIN2">BEIN2</channel>
+    <channel update="i" site="skysiertv.com" site_id="bein3" xmltv_id="BEIN3">BEIN3</channel>
+    <channel update="i" site="skysiertv.com" site_id="beinm" xmltv_id="BEINM">BEINM</channel>
+    <channel update="i" site="skysiertv.com" site_id="chev" xmltv_id="CHEV">CHEV</channel>
+    <channel update="i" site="skysiertv.com" site_id="eusp" xmltv_id="EUSP">EUSP</channel>
+    <channel update="i" site="skysiertv.com" site_id="eusp2" xmltv_id="EUSP2">EUSP2</channel>
+    <channel update="i" site="skysiertv.com" site_id="ffb" xmltv_id="FFB">FFB</channel>
+    <channel update="i" site="skysiertv.com" site_id="fightb" xmltv_id="FIGHTB">FIGHTB</channel>
+    <channel update="i" site="skysiertv.com" site_id="fuel" xmltv_id="FUEL">FUEL</channel>
+    <channel update="i" site="skysiertv.com" site_id="golf" xmltv_id="GOLF">GOLF</channel>
+    <channel update="i" site="skysiertv.com" site_id="ispo" xmltv_id="ISPO">ISPO</channel>
+    <channel update="i" site="skysiertv.com" site_id="multi" xmltv_id="MULTI">MULTI</channel>
+    <channel update="i" site="skysiertv.com" site_id="golp" xmltv_id="GOLP">GOLP</channel>
+    <channel update="i" site="skysiertv.com" site_id="naut" xmltv_id="NAUT">NAUT</channel>
     <channel update="i" site="skysiertv.com" site_id="oltv" xmltv_id="OLTV">OLTV</channel>
-    <channel update="i" site="skysiertv.com" site_id="djaz" xmltv_id="STINGRAY djazz">STINGRAY djazz</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtld" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="skysiertv.com" site_id="alja" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel update="i" site="skysiertv.com" site_id="omtv" xmltv_id="OMTV">OMTV</channel>
-    <channel update="i" site="skysiertv.com" site_id="festi" xmltv_id="STINGRAY Festival 4K">STINGRAY Festival 4K</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtl2" xmltv_id="RTL II">RTL II</channel>
-    <channel update="i" site="skysiertv.com" site_id="arda" xmltv_id="ARD">ARD</channel>
-    <channel update="i" site="skysiertv.com" site_id="aljaa" xmltv_id="Al Jazzera Arabic">Al Jazzera Arabic</channel>
-    <channel update="i" site="skysiertv.com" site_id="onze" xmltv_id="Onzeo">Onzeo</channel>
-    <channel update="i" site="skysiertv.com" site_id="icon" xmltv_id="STINGRAY iConcerts">STINGRAY iConcerts</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtlp" xmltv_id="RTL Plus">RTL Plus</channel>
-    <channel update="i" site="skysiertv.com" site_id="geotd" xmltv_id="Geo">Geo</channel>
-    <channel update="i" site="skysiertv.com" site_id="bbcw" xmltv_id="BBC World News">BBC World News</channel>
-    <channel update="i" site="skysiertv.com" site_id="sfr1" xmltv_id="SFR Sport 1">SFR Sport 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="trag" xmltv_id="TRACE Gospel">TRACE Gospel</channel>
-    <channel update="i" site="skysiertv.com" site_id="sat1" xmltv_id="Sat 1">Sat 1</channel>
-    <channel update="i" site="skysiertv.com" site_id="oned" xmltv_id="One">One</channel>
-    <channel update="i" site="skysiertv.com" site_id="fr24e" xmltv_id="France 24 English">France 24 English</channel>
-    <channel update="i" site="skysiertv.com" site_id="sfr2" xmltv_id="SFR Sport 2">SFR Sport 2</channel>
-    <channel update="i" site="skysiertv.com" site_id="trat" xmltv_id="TRACE Toca">TRACE Toca</channel>
-    <channel update="i" site="skysiertv.com" site_id="srtl" xmltv_id="Super RTL">Super RTL</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtlc" xmltv_id="RTL Crime">RTL Crime</channel>
-    <channel update="i" site="skysiertv.com" site_id="i24na" xmltv_id="i24News Arabe">i24News Arabe</channel>
-    <channel update="i" site="skysiertv.com" site_id="sfr3" xmltv_id="SFR Sport 3">SFR Sport 3</channel>
-    <channel update="i" site="skysiertv.com" site_id="trap" xmltv_id="TRACE Tropical">TRACE Tropical</channel>
-    <channel update="i" site="skysiertv.com" site_id="vox" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtll" xmltv_id="RTL Living">RTL Living</channel>
-    <channel update="i" site="skysiertv.com" site_id="i24ne" xmltv_id="i24news English">i24news English</channel>
-    <channel update="i" site="skysiertv.com" site_id="sfr4" xmltv_id="SFR Sport 4K">SFR Sport 4K</channel>
-    <channel update="i" site="skysiertv.com" site_id="trac" xmltv_id="TRACE Urban">TRACE Urban</channel>
-    <channel update="i" site="skysiertv.com" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="skysiertv.com" site_id="rtln" xmltv_id="RTL Nitro">RTL Nitro</channel>
-    <channel update="i" site="skysiertv.com" site_id="sfr5" xmltv_id="SFR Sport 5">SFR Sport 5</channel>
-    <channel update="i" site="skysiertv.com" site_id="virg" xmltv_id="Virgin Radio TV">Virgin Radio TV</channel>
-    <channel update="i" site="skysiertv.com" site_id="pass" xmltv_id="RTL Passion">RTL Passion</channel>
-    <channel update="i" site="skysiertv.com" site_id="kika" xmltv_id="Ki.Ka">Ki.Ka</channel>
-    <channel update="i" site="skysiertv.com" site_id="tras" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
-    <channel update="i" site="skysiertv.com" site_id="brsd" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
-    <channel update="i" site="skysiertv.com" site_id="sat1g" xmltv_id="Sat 1 Gold">Sat 1 Gold</channel>
-    <channel update="i" site="skysiertv.com" site_id="togg" xmltv_id="TOGGO Plus">TOGGO Plus</channel>
-    <channel update="i" site="skysiertv.com" site_id="ntv" xmltv_id="n">n</channel>
-    <channel update="i" site="skysiertv.com" site_id="hrtv" xmltv_id="hr">hr</channel>
-    <channel update="i" site="skysiertv.com" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
-    <channel update="i" site="skysiertv.com" site_id="spo1" xmltv_id="Sport1">Sport1</channel>
-    <channel update="i" site="skysiertv.com" site_id="phoe" xmltv_id="Phoenix">Phoenix</channel>
-    <channel update="i" site="skysiertv.com" site_id="swr" xmltv_id="SWR Fernsehen">SWR Fernsehen</channel>
-    <channel update="i" site="skysiertv.com" site_id="tele5" xmltv_id="Tele 5">Tele 5</channel>
-    <channel update="i" site="skysiertv.com" site_id="spo1p" xmltv_id="Sport1+">Sport1+</channel>
-    <channel update="i" site="skysiertv.com" site_id="tag24" xmltv_id="tagesshau24">tagesshau24</channel>
-    <channel update="i" site="skysiertv.com" site_id="wdr" xmltv_id="WDR">WDR</channel>
-    <channel update="i" site="skysiertv.com" site_id="zdfn" xmltv_id="ZDF Neo">ZDF Neo</channel>
-    <channel update="i" site="skysiertv.com" site_id="spo1us" xmltv_id="Sport1 US">Sport1 US</channel>
-    <channel update="i" site="skysiertv.com" site_id="zdfi" xmltv_id="ZDF Info">ZDF Info</channel>
+    <channel update="i" site="skysiertv.com" site_id="osc" xmltv_id="OSC">OSC</channel>
+    <channel update="i" site="skysiertv.com" site_id="rmcs1" xmltv_id="RMCS1">RMCS1</channel>
+    <channel update="i" site="skysiertv.com" site_id="rmcs2" xmltv_id="RMCS2">RMCS2</channel>
+    <channel update="i" site="skysiertv.com" site_id="rmcsa1" xmltv_id="RMCSA1">RMCSA1</channel>
+    <channel update="i" site="skysiertv.com" site_id="rmcsl" xmltv_id="RMCSL">RMCSL</channel>
+    <channel update="i" site="skysiertv.com" site_id="sef" xmltv_id="SEF">SEF</channel>
+    <channel update="i" site="skysiertv.com" site_id="anim" xmltv_id="ANIM">ANIM</channel>
+    <channel update="i" site="skysiertv.com" site_id="chas" xmltv_id="CHAS">CHAS</channel>
+    <channel update="i" site="skysiertv.com" site_id="crim" xmltv_id="CRIM">CRIM</channel>
+    <channel update="i" site="skysiertv.com" site_id="disc" xmltv_id="DISC">DISC</channel>
+    <channel update="i" site="skysiertv.com" site_id="disi" xmltv_id="DISI">DISI</channel>
+    <channel update="i" site="skysiertv.com" site_id="diss" xmltv_id="DISS">DISS</channel>
+    <channel update="i" site="skysiertv.com" site_id="docub" xmltv_id="DOCUB">DOCUB</channel>
+    <channel update="i" site="skysiertv.com" site_id="hisr" xmltv_id="HISR">HISR</channel>
+    <channel update="i" site="skysiertv.com" site_id="muse" xmltv_id="MUSE">MUSE</channel>
+    <channel update="i" site="skysiertv.com" site_id="muse4k" xmltv_id="MUSE4K">MUSE4K</channel>
+    <channel update="i" site="skysiertv.com" site_id="myze4k" xmltv_id="MYZE4K">MYZE4K</channel>
+    <channel update="i" site="skysiertv.com" site_id="myzen" xmltv_id="MYZEN">MYZEN</channel>
+    <channel update="i" site="skysiertv.com" site_id="myze" xmltv_id="MYZE">MYZE</channel>
+    <channel update="i" site="skysiertv.com" site_id="myzee" xmltv_id="MYZEE">MYZEE</channel>
+    <channel update="i" site="skysiertv.com" site_id="ngc" xmltv_id="NGC">NGC</channel>
+    <channel update="i" site="skysiertv.com" site_id="ngw" xmltv_id="NGW">NGW</channel>
+    <channel update="i" site="skysiertv.com" site_id="plan" xmltv_id="PLAN">PLAN</channel>
+    <channel update="i" site="skysiertv.com" site_id="plae" xmltv_id="PLAE">PLAE</channel>
+    <channel update="i" site="skysiertv.com" site_id="plci" xmltv_id="PLCI">PLCI</channel>
+    <channel update="i" site="skysiertv.com" site_id="svtv" xmltv_id="SVTV">SVTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="seas" xmltv_id="SEAS">SEAS</channel>
+    <channel update="i" site="skysiertv.com" site_id="hist" xmltv_id="HIST">HIST</channel>
+    <channel update="i" site="skysiertv.com" site_id="trek" xmltv_id="TREK">TREK</channel>
+    <channel update="i" site="skysiertv.com" site_id="ushu" xmltv_id="USHU">USHU</channel>
+    <channel update="i" site="skysiertv.com" site_id="boin" xmltv_id="BOIN">BOIN</channel>
+    <channel update="i" site="skysiertv.com" site_id="boom" xmltv_id="BOOM">BOOM</channel>
+    <channel update="i" site="skysiertv.com" site_id="boo1" xmltv_id="BOO1">BOO1</channel>
+    <channel update="i" site="skysiertv.com" site_id="canj" xmltv_id="CANJ">CANJ</channel>
+    <channel update="i" site="skysiertv.com" site_id="carn" xmltv_id="CARN">CARN</channel>
+    <channel update="i" site="skysiertv.com" site_id="cart" xmltv_id="CART">CART</channel>
+    <channel update="i" site="skysiertv.com" site_id="dich" xmltv_id="DICH">DICH</channel>
+    <channel update="i" site="skysiertv.com" site_id="dijr" xmltv_id="DIJR">DIJR</channel>
+    <channel update="i" site="skysiertv.com" site_id="dwf" xmltv_id="DWF">DWF</channel>
+    <channel update="i" site="skysiertv.com" site_id="duckhd" xmltv_id="DUCKHD">DUCKHD</channel>
+    <channel update="i" site="skysiertv.com" site_id="nick" xmltv_id="NICK">NICK</channel>
+    <channel update="i" site="skysiertv.com" site_id="nick1" xmltv_id="NICK1">NICK1</channel>
+    <channel update="i" site="skysiertv.com" site_id="nickjr" xmltv_id="NICKJR">NICKJR</channel>
+    <channel update="i" site="skysiertv.com" site_id="ni4t" xmltv_id="NI4T">NI4T</channel>
+    <channel update="i" site="skysiertv.com" site_id="piwi" xmltv_id="PIWI">PIWI</channel>
+    <channel update="i" site="skysiertv.com" site_id="toon" xmltv_id="TOON">TOON</channel>
+    <channel update="i" site="skysiertv.com" site_id="too1" xmltv_id="TOO1">TOO1</channel>
+    <channel update="i" site="skysiertv.com" site_id="tiji" xmltv_id="TIJI">TIJI</channel>
+    <channel update="i" site="skysiertv.com" site_id="tvpit" xmltv_id="TVPIT">TVPIT</channel>
+    <channel update="i" site="skysiertv.com" site_id="tvpit1" xmltv_id="TVPIT1">TVPIT1</channel>
+    <channel update="i" site="skysiertv.com" site_id="tuneb" xmltv_id="TUNEB">TUNEB</channel>
+    <channel update="i" site="skysiertv.com" site_id="cstarh" xmltv_id="CSTARH">CSTARH</channel>
+    <channel update="i" site="skysiertv.com" site_id="m6mu" xmltv_id="M6MU">M6MU</channel>
+    <channel update="i" site="skysiertv.com" site_id="mcmt" xmltv_id="MCMT">MCMT</channel>
+    <channel update="i" site="skysiertv.com" site_id="melo" xmltv_id="MELO">MELO</channel>
+    <channel update="i" site="skysiertv.com" site_id="meloa" xmltv_id="MELOA">MELOA</channel>
+    <channel update="i" site="skysiertv.com" site_id="mezz" xmltv_id="MEZZ">MEZZ</channel>
+    <channel update="i" site="skysiertv.com" site_id="mezzh" xmltv_id="MEZZH">MEZZH</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtv00s" xmltv_id="MTV00S">MTV00S</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtv80s" xmltv_id="MTV80S">MTV80S</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtv90s" xmltv_id="MTV90S">MTV90S</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtvd" xmltv_id="MTVD">MTVD</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtvh" xmltv_id="MTVH">MTVH</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtvheu" xmltv_id="MTVHEU">MTVHEU</channel>
+    <channel update="i" site="skysiertv.com" site_id="mtvl" xmltv_id="MTVL">MTVL</channel>
+    <channel update="i" site="skysiertv.com" site_id="nrjh" xmltv_id="NRJH">NRJH</channel>
+    <channel update="i" site="skysiertv.com" site_id="rfm" xmltv_id="RFM">RFM</channel>
+    <channel update="i" site="skysiertv.com" site_id="sclass" xmltv_id="SCLASS">SCLASS</channel>
+    <channel update="i" site="skysiertv.com" site_id="scmus" xmltv_id="SCMUS">SCMUS</channel>
+    <channel update="i" site="skysiertv.com" site_id="sdjaz" xmltv_id="SDJAZ">SDJAZ</channel>
+    <channel update="i" site="skysiertv.com" site_id="sfest" xmltv_id="SFEST">SFEST</channel>
+    <channel update="i" site="skysiertv.com" site_id="snow" xmltv_id="SNOW">SNOW</channel>
+    <channel update="i" site="skysiertv.com" site_id="sicon" xmltv_id="SICON">SICON</channel>
+    <channel update="i" site="skysiertv.com" site_id="sjuice" xmltv_id="SJUICE">SJUICE</channel>
+    <channel update="i" site="skysiertv.com" site_id="sloud" xmltv_id="SLOUD">SLOUD</channel>
+    <channel update="i" site="skysiertv.com" site_id="sretro" xmltv_id="SRETRO">SRETRO</channel>
+    <channel update="i" site="skysiertv.com" site_id="svibe" xmltv_id="SVIBE">SVIBE</channel>
+    <channel update="i" site="skysiertv.com" site_id="traa" xmltv_id="TRAA">TRAA</channel>
+    <channel update="i" site="skysiertv.com" site_id="trab" xmltv_id="TRAB">TRAB</channel>
+    <channel update="i" site="skysiertv.com" site_id="tracar" xmltv_id="TRACAR">TRACAR</channel>
+    <channel update="i" site="skysiertv.com" site_id="trach" xmltv_id="TRACH">TRACH</channel>
+    <channel update="i" site="skysiertv.com" site_id="trag" xmltv_id="TRAG">TRAG</channel>
+    <channel update="i" site="skysiertv.com" site_id="tral" xmltv_id="TRAL">TRAL</channel>
+    <channel update="i" site="skysiertv.com" site_id="trat" xmltv_id="TRAT">TRAT</channel>
+    <channel update="i" site="skysiertv.com" site_id="tracint" xmltv_id="TRACINT">TRACINT</channel>
+    <channel update="i" site="skysiertv.com" site_id="trac" xmltv_id="TRAC">TRAC</channel>
+    <channel update="i" site="skysiertv.com" site_id="vibes" xmltv_id="VIBES">VIBES</channel>
+    <channel update="i" site="skysiertv.com" site_id="fashb" xmltv_id="FASHB">FASHB</channel>
+    <channel update="i" site="skysiertv.com" site_id="fash" xmltv_id="FASH">FASH</channel>
+    <channel update="i" site="skysiertv.com" site_id="fashuhd" xmltv_id="FASHUHD">FASHUHD</channel>
+    <channel update="i" site="skysiertv.com" site_id="kto" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="skysiertv.com" site_id="luja" xmltv_id="LUJA">LUJA</channel>
+    <channel update="i" site="skysiertv.com" site_id="luxe" xmltv_id="LUXE">LUXE</channel>
+    <channel update="i" site="skysiertv.com" site_id="alja" xmltv_id="ALJA">ALJA</channel>
+    <channel update="i" site="skysiertv.com" site_id="aljaa" xmltv_id="ALJAA">ALJAA</channel>
+    <channel update="i" site="skysiertv.com" site_id="bbcw" xmltv_id="BBCW">BBCW</channel>
+    <channel update="i" site="skysiertv.com" site_id="bfmb" xmltv_id="BFMB">BFMB</channel>
+    <channel update="i" site="skysiertv.com" site_id="blof" xmltv_id="BLOF">BLOF</channel>
+    <channel update="i" site="skysiertv.com" site_id="dwel" xmltv_id="DWEL">DWEL</channel>
+    <channel update="i" site="skysiertv.com" site_id="eurn" xmltv_id="EURN">EURN</channel>
+    <channel update="i" site="skysiertv.com" site_id="fra24" xmltv_id="FRA24">FRA24</channel>
+    <channel update="i" site="skysiertv.com" site_id="fr24a" xmltv_id="FR24A">FR24A</channel>
+    <channel update="i" site="skysiertv.com" site_id="fr24e" xmltv_id="FR24E">FR24E</channel>
+    <channel update="i" site="skysiertv.com" site_id="fr24es" xmltv_id="FR24ES">FR24ES</channel>
+    <channel update="i" site="skysiertv.com" site_id="lcp" xmltv_id="LCP">LCP</channel>
+    <channel update="i" site="skysiertv.com" site_id="pubs" xmltv_id="PUBS">PUBS</channel>
+    <channel update="i" site="skysiertv.com" site_id="babes" xmltv_id="BABES">BABES</channel>
+    <channel update="i" site="skysiertv.com" site_id="babbr" xmltv_id="BABBR">BABBR</channel>
+    <channel update="i" site="skysiertv.com" site_id="bangu" xmltv_id="BANGU">BANGU</channel>
+    <channel update="i" site="skysiertv.com" site_id="bltv" xmltv_id="BLTV">BLTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="blhus" xmltv_id="BLHUS">BLHUS</channel>
+    <channel update="i" site="skysiertv.com" site_id="braz" xmltv_id="BRAZ">BRAZ</channel>
+    <channel update="i" site="skysiertv.com" site_id="colm" xmltv_id="COLM">COLM</channel>
+    <channel update="i" site="skysiertv.com" site_id="desire" xmltv_id="DESIRE">DESIRE</channel>
+    <channel update="i" site="skysiertv.com" site_id="dorc" xmltv_id="DORC">DORC</channel>
+    <channel update="i" site="skysiertv.com" site_id="dorx" xmltv_id="DORX">DORX</channel>
+    <channel update="i" site="skysiertv.com" site_id="dusk" xmltv_id="DUSK">DUSK</channel>
+    <channel update="i" site="skysiertv.com" site_id="erox" xmltv_id="EROX">EROX</channel>
+    <channel update="i" site="skysiertv.com" site_id="eroxxx" xmltv_id="EROXXX">EROXXX</channel>
+    <channel update="i" site="skysiertv.com" site_id="evilf" xmltv_id="EVILF">EVILF</channel>
+    <channel update="i" site="skysiertv.com" site_id="evil" xmltv_id="EVIL">EVIL</channel>
+    <channel update="i" site="skysiertv.com" site_id="exta4k" xmltv_id="EXTA4K">EXTA4K</channel>
+    <channel update="i" site="skysiertv.com" site_id="exta" xmltv_id="EXTA">EXTA</channel>
+    <channel update="i" site="skysiertv.com" site_id="hothd" xmltv_id="HOTHD">HOTHD</channel>
+    <channel update="i" site="skysiertv.com" site_id="hotman" xmltv_id="HOTMAN">HOTMAN</channel>
+    <channel update="i" site="skysiertv.com" site_id="hotsd" xmltv_id="HOTSD">HOTSD</channel>
+    <channel update="i" site="skysiertv.com" site_id="hottab" xmltv_id="HOTTAB">HOTTAB</channel>
+    <channel update="i" site="skysiertv.com" site_id="husth" xmltv_id="HUSTH">HUSTH</channel>
+    <channel update="i" site="skysiertv.com" site_id="hust" xmltv_id="HUST">HUST</channel>
+    <channel update="i" site="skysiertv.com" site_id="leo" xmltv_id="LEO">LEO</channel>
+    <channel update="i" site="skysiertv.com" site_id="leog" xmltv_id="LEOG">LEOG</channel>
+    <channel update="i" site="skysiertv.com" site_id="lustp" xmltv_id="LUSTP">LUSTP</channel>
+    <channel update="i" site="skysiertv.com" site_id="manx" xmltv_id="MANX">MANX</channel>
+    <channel update="i" site="skysiertv.com" site_id="mvh" xmltv_id="MVH">MVH</channel>
+    <channel update="i" site="skysiertv.com" site_id="mentv" xmltv_id="MENTV">MENTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="passie" xmltv_id="PASSIE">PASSIE</channel>
+    <channel update="i" site="skysiertv.com" site_id="passion" xmltv_id="PASSION">PASSION</channel>
+    <channel update="i" site="skysiertv.com" site_id="pentb" xmltv_id="PENTB">PENTB</channel>
+    <channel update="i" site="skysiertv.com" site_id="pentg" xmltv_id="PENTG">PENTG</channel>
+    <channel update="i" site="skysiertv.com" site_id="pentp" xmltv_id="PENTP">PENTP</channel>
+    <channel update="i" site="skysiertv.com" site_id="pentr" xmltv_id="PENTR">PENTR</channel>
+    <channel update="i" site="skysiertv.com" site_id="pink" xmltv_id="PINK">PINK</channel>
+    <channel update="i" site="skysiertv.com" site_id="playb" xmltv_id="PLAYB">PLAYB</channel>
+    <channel update="i" site="skysiertv.com" site_id="priv" xmltv_id="PRIV">PRIV</channel>
+    <channel update="i" site="skysiertv.com" site_id="pureb" xmltv_id="PUREB">PUREB</channel>
+    <channel update="i" site="skysiertv.com" site_id="redl" xmltv_id="REDL">REDL</channel>
+    <channel update="i" site="skysiertv.com" site_id="rktv" xmltv_id="RKTV">RKTV</channel>
+    <channel update="i" site="skysiertv.com" site_id="secr" xmltv_id="SECR">SECR</channel>
+    <channel update="i" site="skysiertv.com" site_id="telex" xmltv_id="TELEX">TELEX</channel>
+    <channel update="i" site="skysiertv.com" site_id="adultch" xmltv_id="ADULTCH">ADULTCH</channel>
+    <channel update="i" site="skysiertv.com" site_id="trueam" xmltv_id="TRUEAM">TRUEAM</channel>
+    <channel update="i" site="skysiertv.com" site_id="vividr" xmltv_id="VIVIDR">VIVIDR</channel>
+    <channel update="i" site="skysiertv.com" site_id="vividt" xmltv_id="VIVIDT">VIVIDT</channel>
+    <channel update="i" site="skysiertv.com" site_id="vivideu" xmltv_id="VIVIDEU">VIVIDEU</channel>
+    <channel update="i" site="skysiertv.com" site_id="vixen" xmltv_id="VIXEN">VIXEN</channel>
+    <channel update="i" site="skysiertv.com" site_id="xxl" xmltv_id="XXL">XXL</channel>
   </channels>
 </site>
