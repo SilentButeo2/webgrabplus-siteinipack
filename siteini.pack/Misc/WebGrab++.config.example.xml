@@ -15,7 +15,6 @@
   <postprocess grab="y" run="n">rex</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36</user-agent>
 
-  <decryptkey site="cyfrowypolsat.pl.EK">AABBCC</decryptkey>
   <license wg-username="rollerbar" registered-email="rollerbar@gmail.com" password="123456"></license>
   <!-- to update license: <license wg-username="rollerbar" registered-email="rollerbar@gmail.com" password="123456">f</license> -->	
 	
@@ -27,8 +26,8 @@
  
 
   
-		<channel update="i" site="cyfrowypolsat.pl.EK" site_id="ale-kino-plus-hd" xmltv_id="ale kino+ HD">ale kino+ HD</channel>
-	        <channel update="i" site="sky.de" site_id="99_sky_logo_classica" xmltv_id="Classica">Classica</channel>
+		    <channel update="i" site="cyfrowypolsat.pl" site_id="amc" xmltv_id="AMC">AMC</channel>
+	            <channel update="i" site="tvspielfilm.de" site_id="123tv,123TV" xmltv_id="123.tv">123.tv</channel>
 
 	
  
