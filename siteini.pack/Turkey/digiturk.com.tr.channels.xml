@@ -1,141 +1,144 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="digiturk.com.tr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="digiturkplay.com">
   <channels>
-    <channel update="i" site="digiturk.com.tr" site_id="483##bein_72x44_2022.png" xmltv_id="beIN (1)">beIN (1)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="375##bein_series_scifi_72x44_2022.png" xmltv_id="beIN SERIES SCI-FI (2)">beIN SERIES SCI-FI (2)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="326##bein_series_comedy_72x44_2022.png" xmltv_id="beIN SERIES COMEDY (4)">beIN SERIES COMEDY (4)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="255##bein_series_vice_72x44_2022.png" xmltv_id="beIN SERIES VICE (5)">beIN SERIES VICE (5)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="263##bein_series_drama_72x44_2022.png" xmltv_id="beIN SERIES DRAMA (6)">beIN SERIES DRAMA (6)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="271##bein_movies_premiere_72x44_2022.png" xmltv_id="beIN MOVIES PREMIERE (11)">beIN MOVIES PREMIERE (11)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="327##bein_movies_premiere2_72x44_2022.png" xmltv_id="beIN MOVIES PREMIERE 2 (12)">beIN MOVIES PREMIERE 2 (12)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="272##bein_movies_stars_72x44_2022.png" xmltv_id="beIN MOVIES STARS (13)">beIN MOVIES STARS (13)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="453##bein_movies_action_72x44_2022.png" xmltv_id="beIN MOVIES ACTION (14)">beIN MOVIES ACTION (14)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="454##bein_movies_action2_72x44_2022.png" xmltv_id="beIN MOVIES ACTION 2 (15)">beIN MOVIES ACTION 2 (15)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="335##bein_movies_family_72x44_2022.png" xmltv_id="beIN MOVIES FAMILY (16)">beIN MOVIES FAMILY (16)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="381##bein_movies_turk_72x44_2022.png" xmltv_id="beIN MOVIES TURK (17)">beIN MOVIES TURK (17)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="299##bein_iz_72x44_2022.png" xmltv_id="beIN İZ (18)">beIN İZ (18)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="456##bein_he_72x44_2022.png" xmltv_id="beIN HOME &amp; ENTERTAINMENT (19)">beIN HOME &amp; ENTERTAINMENT (19)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="407##gurme_72x44_2022.png" xmltv_id="beIN GURME (21)">beIN GURME (21)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="294##showtvhd.gif" xmltv_id="Show TV HD (22)">Show TV HD (22)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="19##70x46_trt1.png" xmltv_id="TRT 1 HD (23)">TRT 1 HD (23)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="430##70x46.png" xmltv_id="Kanal D HD (24)">Kanal D HD (24)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="300##atv_72x44_tem2021.png" xmltv_id="ATV (25)">ATV (25)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="18##fox_70x36.png" xmltv_id="FOX HD (26)">FOX HD (26)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="406##70x46_startv_hd.png" xmltv_id="Star TV HD (27)">Star TV HD (27)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="428##70x46_tv8hd.png" xmltv_id="TV8 HD (28)">TV8 HD (28)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="30##72x44_360tv_ekm2019.jpg" xmltv_id="360 HD (29)">360 HD (29)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="23##50x50_tlc.png" xmltv_id="TLC HD (30)">TLC HD (30)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="24##Bloomberg-HT.png" xmltv_id="Bloomberg HT HD (31)">Bloomberg HT HD (31)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="301##ahaber_h2018_72x44.png" xmltv_id="A Haber HD (32)">A Haber HD (32)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="20##trthaberhd-70x46_haz2018.png" xmltv_id="TRT Haber HD (33)">TRT Haber HD (33)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="439##70x46.png" xmltv_id="KANAL 7 HD (34)">KANAL 7 HD (34)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="490##a2_70x46.png" xmltv_id="A2 HD (35)">A2 HD (35)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="188##70x46_beyaztv_hd[1].png" xmltv_id="BEYAZ TV HD (36)">BEYAZ TV HD (36)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="527##72x44_tv100.png" xmltv_id="TV 100 HD (37)">TV 100 HD (37)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="166##uulketv_70x46.png" xmltv_id="Ülke TV HD (38)">Ülke TV HD (38)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="222##70x46_tvnet.png" xmltv_id="TVNET HD (39)">TVNET HD (39)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="178##72x46_24tv.png" xmltv_id="KANAL 24 HD (40)">KANAL 24 HD (40)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="28##NTV.png" xmltv_id="NTV HD (41)">NTV HD (41)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="29##cnn-turk.png" xmltv_id="CNN TÜRK HD (42)">CNN TÜRK HD (42)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="519##70x46_apara.png" xmltv_id="A Para HD (43)">A Para HD (43)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="31##haberturk-70x46.png" xmltv_id="HABERTURK HD (44)">HABERTURK HD (44)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="84##45_tgrt_haber_siyah.png" xmltv_id="TGRT Haber HD (45)">TGRT Haber HD (45)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="521##ekoturk_72x44.png" xmltv_id="EKOTÜRK TV HD (46)">EKOTÜRK TV HD (46)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="520##haberglobal_72x44_ksm2022.png" xmltv_id="HABER GLOBAL HD (47)">HABER GLOBAL HD (47)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="525##72x44_tele1.png" xmltv_id="TELE 1 HD (48)">TELE 1 HD (48)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="212##72x46_dmax.png" xmltv_id="DMAX HD (49)">DMAX HD (49)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="542##flash_haber_70x46_ekm2022.png" xmltv_id="Flash Haber TV (50)">Flash Haber TV (50)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="543##lider_haber_72_ara2022.png" xmltv_id="LIDER HABER TV HD (51)">LIDER HABER TV HD (51)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="539##72x44_ulusal_sub2021.png" xmltv_id="ULUSAL TV (52)">ULUSAL TV (52)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="298##70x46_halktv.png" xmltv_id="Halk TV (53)">Halk TV (53)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="256##70x46_tv2.png" xmltv_id="Teve2 HD (54)">Teve2 HD (54)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="489##70x46-tv8-5.png" xmltv_id="TV 8,5 (55)">TV 8,5 (55)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="229##trt3spor_72x44_oca2022.png" xmltv_id="TRT 3 - TRT Spor (56)">TRT 3 - TRT Spor (56)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="244##70x46_trt_avaz.png" xmltv_id="TRT AVAZ (57)">TRT AVAZ (57)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="246##70x46_trtkurdi.png" xmltv_id="TRT Kurdi (58)">TRT Kurdi (58)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="245##trt_turk_70x46.png" xmltv_id="TRT TURK (61)">TRT TURK (61)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="528##72x44_krt_may2019.png" xmltv_id="KRT TV HD (62)">KRT TV HD (62)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="308##trt_2_70x36.png" xmltv_id="TRT 2 HD (66)">TRT 2 HD (66)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="540##vav_72x44_nis2021.png" xmltv_id="VAV TV (67)">VAV TV (67)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="332##70x46_diyanettv.png" xmltv_id="Diyanet TV HD (68)">Diyanet TV HD (68)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="47##70x46_eurosport1_hd.png" xmltv_id="Eurosport 1 HD (71)">Eurosport 1 HD (71)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="82##eurosports2_hd_72x46_haz201.png" xmltv_id="Eurosport 2 HD (72)">Eurosport 2 HD (72)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="250##gs_tv.gif" xmltv_id="GS TV HD (75)">GS TV HD (75)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="55##FB-TV.png" xmltv_id="FB TV HD (76)">FB TV HD (76)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="193##bein_sport1_72x44_2022.png" xmltv_id="beIN SPORTS 1 (77)">beIN SPORTS 1 (77)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="310##bein_sport2_72x44_2022.png" xmltv_id="beIN SPORTS 2 (78)">beIN SPORTS 2 (78)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="312##bein_sport3_72x44_2022.png" xmltv_id="beIN SPORTS 3 (79)">beIN SPORTS 3 (79)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="495##bein_sport4_72x44_2022.png" xmltv_id="beIN SPORTS 4 (80)">beIN SPORTS 4 (80)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="506##bein_sports5_72x44.png" xmltv_id="beIN SPORTS 5 (81)">beIN SPORTS 5 (81)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="507##sport_max1_72x44_2022.png" xmltv_id="beIN SPORTS MAX HD 1 (82)">beIN SPORTS MAX HD 1 (82)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="508##sport_max2_72x44_2022.png" xmltv_id="beIN SPORTS MAX HD 2 (83)">beIN SPORTS MAX HD 2 (83)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="541##beinsports_haber-hd-70x46.png" xmltv_id="beIN SPORTS HABER (85)">beIN SPORTS HABER (85)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="331##trtspor_72x44_oca2022.png" xmltv_id="TRT SPOR HD (86)">TRT SPOR HD (86)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="533##trt_spor_yildiz_72x44.png" xmltv_id="TRT SPOR YILDIZ (87)">TRT SPOR YILDIZ (87)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="433##aspor_haz2018_72x44.png" xmltv_id="A Spor HD (88)">A Spor HD (88)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="53##TJK-TV.png" xmltv_id="TJK TV (89)">TJK TV (89)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="60##MCM-Top.gif" xmltv_id="MCM Top HD (101)">MCM Top HD (101)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="61##mezzo_haz2020.png" xmltv_id="Mezzo HD (102)">Mezzo HD (102)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="63##mtv00_72x44.png" xmltv_id="MTV 00s (103)">MTV 00s (103)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="261##trtmuzik_72x44_ksm2021.png" xmltv_id="TRT Müzik (104)">TRT Müzik (104)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="322##70x46_mtv_hd.png" xmltv_id="MTV Live HD (108)">MTV Live HD (108)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="337##70x46_mtv_hits.png" xmltv_id="MTV Hits (109)">MTV Hits (109)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="74##70x46_fashion.png" xmltv_id="Fashion TV HD (110)">Fashion TV HD (110)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="459##bbc_first_70x46.png" xmltv_id="BBC First (114)">BBC First (114)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="88##bbc-entertainment-50-50.gif" xmltv_id="BBC Entertainment (115)">BBC Entertainment (115)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="85##rai-uno-50-50.gif" xmltv_id="RAI UNO (130)">RAI UNO (130)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="86##TV5Monde.png" xmltv_id="TV5 Monde Europe (131)">TV5 Monde Europe (131)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="262##trt_arap_72x56.png" xmltv_id="TRT Arabi (133)">TRT Arabi (133)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="523##72x56_cgtn.png" xmltv_id="CGTN HD (134)">CGTN HD (134)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="137##BLOOMBERG-Television.png" xmltv_id="BLOOMBERG HD (139)">BLOOMBERG HD (139)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="501##70x46.png" xmltv_id="A News HD (140)">A News HD (140)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="77##BBC-World-News.png" xmltv_id="BBC World News HD (141)">BBC World News HD (141)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="468##70x46_trt_world.png" xmltv_id="TRT World HD (142)">TRT World HD (142)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="76##70x46_cnn.png" xmltv_id="CNN INTERNATIONAL (143)">CNN INTERNATIONAL (143)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="182##Al-Jazeera.png" xmltv_id="AL JAZEERA ENGLISH HD (144)">AL JAZEERA ENGLISH HD (144)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="78##euronews-70x46.png" xmltv_id="EURONEWS (145)">EURONEWS (145)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="285##France-24.png" xmltv_id="France 24 HD (146)">France 24 HD (146)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="477##Saudi-Quran-70x46.jpg" xmltv_id="Al Quran Al Kareem TV HD (147)">Al Quran Al Kareem TV HD (147)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="478##saudi_sunnah-70x46.jpg" xmltv_id="Al Sunnah Al Nabawiyah TV HD (148)">Al Sunnah Al Nabawiyah TV HD (148)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="536##eba_tv_ilkokul_72x44.png" xmltv_id="TRT EBATV İLKOKUL HD (151)">TRT EBATV İLKOKUL HD (151)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="537##eba_tv_ortaokul_72x44.png" xmltv_id="TRT EBATV ORTAOKUL HD (152)">TRT EBATV ORTAOKUL HD (152)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="538##eba_tv_lise_72x44.png" xmltv_id="TRT EBATV LİSE HD (153)">TRT EBATV LİSE HD (153)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="243##trtcocuk_72x44._ksm2021.png" xmltv_id="TRT Çocuk (160)">TRT Çocuk (160)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="512##72x56_cbeebies.png" xmltv_id="CBEEBIES HD (161)">CBEEBIES HD (161)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="436##70x46.png" xmltv_id="Baby TV (162)">Baby TV (162)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="529##davinci_70x46.png" xmltv_id="Da Vinci (164)">Da Vinci (164)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="282##70x46_disneyjr.png" xmltv_id="Disney Junior (165)">Disney Junior (165)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="518##72x44_boomerang.png" xmltv_id="BOOMERANG HD (168)">BOOMERANG HD (168)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="220##70x46_cartoon_network.png" xmltv_id="Cartoon Network (169)">Cartoon Network (169)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="291##70x46_minikago-haz2018.png" xmltv_id="MinikaGO (170)">MinikaGO (170)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="321##70x46_nicktr.png" xmltv_id="Nick Jr. (171)">Nick Jr. (171)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="189##70x46_nickelodeon.png" xmltv_id="Nickelodeon (172)">Nickelodeon (172)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="351##70x46_nickelodeon_hd.png" xmltv_id="Nickelodeon HD (173)">Nickelodeon HD (173)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="214##70x46_national_geographic_hd.png" xmltv_id="National Geographic HD (181)">National Geographic HD (181)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="159##iz-70x46.png" xmltv_id="beIN İZ HD (182)">beIN İZ HD (182)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="513##72x56_bbc_earth.png" xmltv_id="BBC EARTH HD (183)">BBC EARTH HD (183)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="179##ngwild_72x44_sub2019.png" xmltv_id="Nat Geo Wild HD (185)">Nat Geo Wild HD (185)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="532##70x46_yaban_eyl2019.png" xmltv_id="Yaban TV (189)">Yaban TV (189)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="487##trtbelgeselhd-70x46.png" xmltv_id="TRT Belgesel HD (190)">TRT Belgesel HD (190)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="317##70x46_dsc_ekm2019.png" xmltv_id="Discovery Channel HD (191)">Discovery Channel HD (191)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="318##70x46_discovery-science_e.png" xmltv_id="Discovery Science HD (192)">Discovery Science HD (192)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="524##d_72x56_cgtn.png" xmltv_id="CGTN DOCUMENTARY HD (194)">CGTN DOCUMENTARY HD (194)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="36##box_office1_72x44_2022.png" xmltv_id="beIN BOX OFFICE 1 (201)">beIN BOX OFFICE 1 (201)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="138##204_2.gif" xmltv_id="Taraftar HD (204)">Taraftar HD (204)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="304##205_2.gif" xmltv_id="Taraftar 2 HD (205)">Taraftar 2 HD (205)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="330##70x46_trt1_hd.png" xmltv_id="TRT1 HD (323)">TRT1 HD (323)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="469##70x46_trt_world.png" xmltv_id="TRT World HD (342)">TRT World HD (342)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="333##70x46_nickelodeon_hd.png" xmltv_id="Nickelodeon HD (355)">Nickelodeon HD (355)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="323##70x46_mtv_hd.png" xmltv_id="MTV Live HD (395)">MTV Live HD (395)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="491##70x46_4k.png" xmltv_id="Digiturk 4K (400)">Digiturk 4K (400)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="91##70x46_alemfm.png" xmltv_id="ALEM FM (401)">ALEM FM (401)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="95##kafa_radyo_72x.png" xmltv_id="KAFA RADYO (408)">KAFA RADYO (408)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="482##70x46_kralpop_radyo.png" xmltv_id="Kral Pop Radyo (411)">Kral Pop Radyo (411)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="383##70x46_slowturk.png" xmltv_id="Slow Türk (412)">Slow Türk (412)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="379##70x46_show_radyo.png" xmltv_id="Show Radyo (414)">Show Radyo (414)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="421##70x46_kralfm.png" xmltv_id="Kral FM (415)">Kral FM (415)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="380##70x46_radyo_viva.png" xmltv_id="Radyo Viva (416)">Radyo Viva (416)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="422##70x46_baba_radyo_eyl2019.png" xmltv_id="Baba Radyo (417)">Baba Radyo (417)</channel>
-    <channel update="i" site="digiturk.com.tr" site_id="107##radyo-kanallari-icin.png" xmltv_id="Joy FM (424,&quot;BroadcastDuration&quot;:24,&quot;WebSiteUrl&quot;:&quot;&quot;,&quot;FileName&quot;:null,&quot;PageID&quot;:30732,&quot;Description&quot;:&quot;&quot;,&quot;ChannelTypeID&quot;:3,&quot;EPG_Code&quot;:&quot;JOY&quot;,&quot;ServiceID&quot;:&quot;7593&quot;,&quot;ThemeId&quot;:&quot;47&quot;,&quot;Id&quot;:346},{&quot;Title&quot;:&quot;5+1 Concerts (435)">Joy FM (424,"BroadcastDuration":24,"WebSiteUrl":"","FileName":null,"PageID":30732,"Description":"","ChannelTypeID":3,"EPG_Code":"JOY","ServiceID":"7593","ThemeId":"47","Id":346},{"Title":"5+1 Concerts (435)</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_72x44_2022.png##483" xmltv_id="beIN">beIN</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_movies_premiere_72x44_2022.png##271" xmltv_id="beIN MOVIES PREMIERE">beIN MOVIES PREMIERE</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_movies_premiere2_72x44_2022.png##327" xmltv_id="beIN MOVIES PREMIERE 2">beIN MOVIES PREMIERE 2</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_movies_turk_72x44_2022.png##381" xmltv_id="beIN MOVIES TURK">beIN MOVIES TURK</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_movies_stars_72x44_2022.png##272" xmltv_id="beIN MOVIES STARS">beIN MOVIES STARS</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bs01_72x44_logo_sub2022.png##375" xmltv_id="beIN SERIES 1">beIN SERIES 1</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bs02_72x44_logo_sub2022.png##326" xmltv_id="beIN SERIES 2">beIN SERIES 2</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bs03_72x44_logo_sub2022.png##255" xmltv_id="beIN SERIES 3">beIN SERIES 3</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bs04_72x44_logo_sub2022.png##263" xmltv_id="beIN SERIES 4">beIN SERIES 4</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_iz_72x44_2022.png##299" xmltv_id="beIN İZ">beIN İZ</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_he_72x44_2022.png##456" xmltv_id="beIN HOME &amp; ENTERTAINMENT">beIN HOME &amp; ENTERTAINMENT</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="gurme_72x44_2022.png##407" xmltv_id="beIN GURME">beIN GURME</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="showtvhd.gif##294" xmltv_id="Show TV HD">Show TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_trt1.png##19" xmltv_id="TRT 1 HD">TRT 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46.png##430" xmltv_id="Kanal D HD">Kanal D HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="atv_72x44_tem2021.png##300" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="fox_70x36.png##18" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_startv_hd.png##406" xmltv_id="Star TV HD">Star TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_tv8hd.png##428" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x44_360tv_ekm2019.jpg##30" xmltv_id="360 HD">360 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="50x50_tlc.png##23" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="Bloomberg-HT.png##24" xmltv_id="Bloomberg HT HD">Bloomberg HT HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="ahaber_h2018_72x44.png##301" xmltv_id="A Haber HD">A Haber HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trthaberhd-70x46_haz2018.png##20" xmltv_id="TRT Haber HD">TRT Haber HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46.png##439" xmltv_id="KANAL 7 HD">KANAL 7 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="a2_70x46.png##490" xmltv_id="A2 HD">A2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_beyaztv_hd[1].png##188" xmltv_id="BEYAZ TV HD">BEYAZ TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x44_tv100.png##527" xmltv_id="TV 100 HD">TV 100 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="uulketv_70x46.png##166" xmltv_id="Ülke TV HD">Ülke TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_tvnet.png##222" xmltv_id="TVNET HD">TVNET HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x46_24tv.png##178" xmltv_id="KANAL 24 HD">KANAL 24 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="NTV.png##28" xmltv_id="NTV HD">NTV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="cnn-turk.png##29" xmltv_id="CNN TÜRK HD">CNN TÜRK HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_apara.png##519" xmltv_id="A Para HD">A Para HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="haberturk-70x46.png##31" xmltv_id="HABERTURK HD">HABERTURK HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="45_tgrt_haber_siyah.png##84" xmltv_id="TGRT Haber HD">TGRT Haber HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="ekoturk_72x44.png##521" xmltv_id="EKOTÜRK TV HD">EKOTÜRK TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="haberglobal_72x44_ksm2022.png##520" xmltv_id="HABER GLOBAL HD">HABER GLOBAL HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x44_tele1.png##525" xmltv_id="TELE 1 HD">TELE 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x46_dmax.png##212" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="flash_haber_70x46_ekm2022.png##542" xmltv_id="Flash Haber TV">Flash Haber TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="lider_72x44_sub2023.png##543" xmltv_id="LIDER HABER TV HD">LIDER HABER TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x44_ulusal_sub2021.png##539" xmltv_id="ULUSAL TV">ULUSAL TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_halktv.png##298" xmltv_id="Halk TV">Halk TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_tv2.png##256" xmltv_id="Teve2 HD">Teve2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46-tv8-5.png##489" xmltv_id="TV 8,5">TV 8,5</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trt3spor_72x44_oca2022.png##229" xmltv_id="TRT 3 - TRT Spor">TRT 3 - TRT Spor</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_trt_avaz.png##244" xmltv_id="TRT AVAZ">TRT AVAZ</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_trtkurdi.png##246" xmltv_id="TRT Kurdi">TRT Kurdi</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="th_70x46_mah2023.png##546" xmltv_id="TURKHABER TV">TURKHABER TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="sozcu_70x46_sub2023.png##544" xmltv_id="SÖZCÜ TV HD">SÖZCÜ TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trt_turk_70x46.png##245" xmltv_id="TRT TURK">TRT TURK</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x44_krt_may2019.png##528" xmltv_id="KRT TV HD">KRT TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bt_70x46_mah2023.png##547" xmltv_id="BENGÜTÜRK TV">BENGÜTÜRK TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="cadde-tv_70x46_mah2023.png##548" xmltv_id="CADDE TV">CADDE TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trt_2_70x36.png##308" xmltv_id="TRT 2 HD">TRT 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="iPhonelogo50-50.PNG##315" xmltv_id="Meltem TV">Meltem TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="vav_72x44_nis2021.png##540" xmltv_id="VAV TV">VAV TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_diyanettv.png##332" xmltv_id="Diyanet TV HD">Diyanet TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_eurosport1_hd.png##47" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="eurosports2_hd_72x46_haz201.png##82" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="gs_tv.gif##250" xmltv_id="GS TV HD">GS TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="FB-TV.png##55" xmltv_id="FB TV HD">FB TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_sport1_72x44_2022.png##193" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_sport2_72x44_2022.png##310" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_sport3_72x44_2022.png##312" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_sport4_72x44_2022.png##495" xmltv_id="beIN SPORTS 4">beIN SPORTS 4</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bein_sports5_72x44.png##506" xmltv_id="beIN SPORTS 5">beIN SPORTS 5</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="sport_max1_72x44_2022.png##507" xmltv_id="beIN SPORTS MAX HD 1">beIN SPORTS MAX HD 1</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="sport_max2_72x44_2022.png##508" xmltv_id="beIN SPORTS MAX HD 2">beIN SPORTS MAX HD 2</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="beinsports_haber-hd-70x46.png##541" xmltv_id="beIN SPORTS HABER">beIN SPORTS HABER</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trtspor_72x44_oca2022.png##331" xmltv_id="TRT SPOR HD">TRT SPOR HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trt_spor_yildiz_72x44.png##533" xmltv_id="TRT SPOR YILDIZ">TRT SPOR YILDIZ</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="aspor_haz2018_72x44.png##433" xmltv_id="A Spor HD">A Spor HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="TJK-TV.png##53" xmltv_id="TJK TV">TJK TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_power.png##434" xmltv_id="Number1 TV">Number1 TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="MCM-Top.gif##60" xmltv_id="Akıllı TV">Akıllı TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="mezzo_haz2020.png##61" xmltv_id="Power TV">Power TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="mtv00_72x44.png##63" xmltv_id="MCM Top HD">MCM Top HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trtmuzik_72x44_ksm2021.png##261" xmltv_id="Mezzo HD">Mezzo HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_mtv_hd.png##322" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_mtv_hits.png##337" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_fashion.png##74" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bbc_first_70x46.png##459" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="rai-uno-50-50.gif##85" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="TV5Monde.png##86" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trt_arap_72x56.png##262" xmltv_id="RAI UNO">RAI UNO</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x56_cgtn.png##523" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="BLOOMBERG-Television.png##137" xmltv_id="TRT Arabi">TRT Arabi</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46.png##501" xmltv_id="CGTN HD">CGTN HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="bbc_news_70x46_nis2023.png##77" xmltv_id="BLOOMBERG HD">BLOOMBERG HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_trt_world.png##468" xmltv_id="A News HD">A News HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_cnn.png##76" xmltv_id="BBC World News HD">BBC World News HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="Al-Jazeera.png##182" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="euronews-70x46.png##78" xmltv_id="CNN INTERNATIONAL">CNN INTERNATIONAL</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="France-24.png##285" xmltv_id="AL JAZEERA ENGLISH HD">AL JAZEERA ENGLISH HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="Saudi-Quran-70x46.jpg##477" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="saudi_sunnah-70x46.jpg##478" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="eba_tv_ilkokul_72x44.png##536" xmltv_id="Al Quran Al Kareem TV HD">Al Quran Al Kareem TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="eba_tv_ortaokul_72x44.png##537" xmltv_id="Al Sunnah Al Nabawiyah TV HD">Al Sunnah Al Nabawiyah TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="eba_tv_lise_72x44.png##538" xmltv_id="TRT EBATV İLKOKUL HD">TRT EBATV İLKOKUL HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trtcocuk_72x44._ksm2021.png##243" xmltv_id="TRT EBATV ORTAOKUL HD">TRT EBATV ORTAOKUL HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x56_cbeebies.png##512" xmltv_id="TRT EBATV LİSE HD">TRT EBATV LİSE HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46.png##436" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="davinci_70x46.png##529" xmltv_id="CBEEBIES HD">CBEEBIES HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_disneyjr.png##282" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x44_boomerang.png##518" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_cartoon_network.png##220" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_minikago-haz2018.png##291" xmltv_id="BOOMERANG HD">BOOMERANG HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_nicktr.png##321" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_nickelodeon.png##189" xmltv_id="MinikaGO">MinikaGO</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_nickelodeon_hd.png##351" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_national_geographic_hd.png##214" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="iz-70x46.png##159" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="72x56_bbc_earth.png##513" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="ttarih_70x46_may2023.png##545" xmltv_id="beIN İZ HD">beIN İZ HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="ngwild_72x44_sub2019.png##179" xmltv_id="BBC EARTH HD">BBC EARTH HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_yaban_eyl2019.png##532" xmltv_id="TARIH TV HD">TARIH TV HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="trtbelgeselhd-70x46.png##487" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_dsc_ekm2019.png##317" xmltv_id="Yaban TV">Yaban TV</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_discovery-science_e.png##318" xmltv_id="TRT Belgesel HD">TRT Belgesel HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="d_72x56_cgtn.png##524" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="box_office1_72x44_2022.png##36" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="204_2.gif##138" xmltv_id="CGTN DOCUMENTARY HD">CGTN DOCUMENTARY HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="205_2.gif##304" xmltv_id="beIN BOX OFFICE 1">beIN BOX OFFICE 1</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_trt1_hd.png##330" xmltv_id="Taraftar HD">Taraftar HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_trt_world.png##469" xmltv_id="Taraftar 2 HD">Taraftar 2 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_nickelodeon_hd.png##333" xmltv_id="TRT1 HD">TRT1 HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_mtv_hd.png##323" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_4k.png##491" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_alemfm.png##91" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="kafa_radyo_72x.png##95" xmltv_id="Digiturk 4K">Digiturk 4K</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_kralpop_radyo.png##482" xmltv_id="ALEM FM">ALEM FM</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_slowturk.png##383" xmltv_id="KAFA RADYO">KAFA RADYO</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_show_radyo.png##379" xmltv_id="Kral Pop Radyo">Kral Pop Radyo</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_kralfm.png##421" xmltv_id="Slow Türk">Slow Türk</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_radyo_viva.png##380" xmltv_id="Show Radyo">Show Radyo</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="70x46_baba_radyo_eyl2019.png##422" xmltv_id="Kral FM">Kral FM</channel>
+    <channel update="i" site="digiturk.com.tr" site_id="radyo-kanallari-icin.png##107" xmltv_id="Radyo Viva">Radyo Viva</channel>
   </channels>
 </site>
