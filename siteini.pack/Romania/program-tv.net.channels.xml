@@ -1,25 +1,43 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.4 -- Jan van Straaten" site="program-tv.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" site="program-tv.net">
   <channels>
     <channel update="i" site="program-tv.net" site_id="TVR1" xmltv_id="TVR 1 (HD)">TVR 1 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="TVR2" xmltv_id="TVR 2 (HD)">TVR 2 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="TVR3" xmltv_id="TVR 3 (HD)">TVR 3 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_INFO" xmltv_id="TVR Info">TVR Info</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_CULTURAL" xmltv_id="TVR Cultural">TVR Cultural</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_CLUJ" xmltv_id="TVR Cluj">TVR Cluj</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_TIMISOARA" xmltv_id="TVR Timișoara">TVR Timișoara</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_MURES" xmltv_id="TVR Mureș">TVR Mureș</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_IASI" xmltv_id="TVR Iași">TVR Iași</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_CRAIOVA" xmltv_id="TVR Craiova">TVR Craiova</channel>
+    <channel update="i" site="program-tv.net" site_id="TVR_MOLDOVA" xmltv_id="TVR Moldova">TVR Moldova</channel>
     <channel update="i" site="program-tv.net" site_id="TVRI" xmltv_id="TVR International">TVR International</channel>
     <channel update="i" site="program-tv.net" site_id="PRO_TV" xmltv_id="PRO TV (HD)">PRO TV (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="PRO2" xmltv_id="PRO 2 (HD)">PRO 2 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="PRO_X" xmltv_id="PRO-X (HD)">PRO-X (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="PRO_GOLD" xmltv_id="PRO Gold (HD)">PRO Gold (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRO_ARENA" xmltv_id="PRO Arena (HD)">PRO Arena (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="ACASA" xmltv_id="Acasă (HD)">Acasă (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="ACASA_GOLD" xmltv_id="Acasă Gold (HD)">Acasă Gold (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRO_TV_INTERNATIONAL" xmltv_id="PRO TV International">PRO TV International</channel>
     <channel update="i" site="program-tv.net" site_id="PRIMA_TV" xmltv_id="Prima TV (HD)">Prima TV (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="ANTENA1" xmltv_id="Antena 1 (HD)">Antena 1 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="HAPPY_CHANNEL" xmltv_id="Happy Channel (HD)">Happy Channel (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="ANTENA_STARS" xmltv_id="Antena Stars (HD)">Antena Stars (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="ANTENA_INTERNATIONAL" xmltv_id="Antena International (HD)">Antena International (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="KANALD" xmltv_id="Kanal D (HD)">Kanal D (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="ANTENA3" xmltv_id="Antena 3 (HD)">Antena 3 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMANEWS" xmltv_id="Prima News">Prima News</channel>
+    <channel update="i" site="program-tv.net" site_id="KANALD" xmltv_id="Kanal D (HD)">Kanal D (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="KANALD2" xmltv_id="Kanal D2 (HD)">Kanal D2 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="NATIONAL_TV" xmltv_id="National TV">National TV</channel>
     <channel update="i" site="program-tv.net" site_id="NATIONAL_24_PLUS" xmltv_id="National 24 Plus">National 24 Plus</channel>
+    <channel update="i" site="program-tv.net" site_id="ETNO_TV" xmltv_id="Etno TV (HD)">Etno TV (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="FAVORIT_TV" xmltv_id="Favorit TV">Favorit TV</channel>
+    <channel update="i" site="program-tv.net" site_id="KAPITAL_TV" xmltv_id="Kapital TV (HD)">Kapital TV (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="METROPOLA_TV" xmltv_id="Metropola TV">Metropola TV</channel>
+    <channel update="i" site="program-tv.net" site_id="ALFA_OMEGA_TV" xmltv_id="Alfa Omega TV (HD)">Alfa Omega TV (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="SPERANTA_TV" xmltv_id="Speranta TV">Speranta TV</channel>
     <channel update="i" site="program-tv.net" site_id="AGRO_TV" xmltv_id="Agro TV">Agro TV</channel>
     <channel update="i" site="program-tv.net" site_id="TV5_MONDE" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="program-tv.net" site_id="ERDELY_TV" xmltv_id="Erdély TV">Erdély TV</channel>
     <channel update="i" site="program-tv.net" site_id="PRO_CINEMA" xmltv_id="PRO Cinema (HD)">PRO Cinema (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="FILMNOW" xmltv_id="Filmnow (HD)">Filmnow (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="HBO" xmltv_id="HBO (HD)">HBO (HD)</channel>
@@ -27,6 +45,7 @@
     <channel update="i" site="program-tv.net" site_id="HBO3" xmltv_id="HBO3 (HD)">HBO3 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="CINEMAX" xmltv_id="Cinemax (HD)">Cinemax (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="CINEMAX2" xmltv_id="Cinemax2 (HD)">Cinemax2 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="BBC_FIRST" xmltv_id="BBC First (HD)">BBC First (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="DIVA" xmltv_id="Diva">Diva</channel>
     <channel update="i" site="program-tv.net" site_id="AMC" xmltv_id="AMC (HD)">AMC (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="FILMCAFE" xmltv_id="Film Cafe (HD)">Film Cafe (HD)</channel>
@@ -40,7 +59,6 @@
     <channel update="i" site="program-tv.net" site_id="BOLLYWOOD_CLASSIC" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
     <channel update="i" site="program-tv.net" site_id="EPIC_DRAMA" xmltv_id="Epic Drama (HD)">Epic Drama (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="TV1000" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="program-tv.net" site_id="TNT" xmltv_id="TNT (HD)">TNT (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="WARNER_TV" xmltv_id="Warner TV (HD)">Warner TV (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="FILMBOX" xmltv_id="Filmbox">Filmbox</channel>
     <channel update="i" site="program-tv.net" site_id="FILMBOX_EXTRA_HD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
@@ -49,18 +67,23 @@
     <channel update="i" site="program-tv.net" site_id="FILMBOX_FAMILY" xmltv_id="Filmbox Family">Filmbox Family</channel>
     <channel update="i" site="program-tv.net" site_id="COMEDY_CENTRAL" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="program-tv.net" site_id="CINEMARATON" xmltv_id="CineMaraton">CineMaraton</channel>
-    <channel update="i" site="program-tv.net" site_id="COMEDYEST" xmltv_id="comedyEST">comedyEST</channel>
+    <channel update="i" site="program-tv.net" site_id="CINEMAEST" xmltv_id="cinemaEST">cinemaEST</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMA_COMEDY" xmltv_id="Prima Comedy (HD)">Prima Comedy (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="FOCUS_SAT_TV" xmltv_id="Focus Sat TV (HD)">Focus Sat TV (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="MINIMAX" xmltv_id="Minimax">Minimax</channel>
     <channel update="i" site="program-tv.net" site_id="JIMJAM" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="program-tv.net" site_id="CARTOON" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="program-tv.net" site_id="BOOMERANG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="program-tv.net" site_id="CARTOONITO" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="program-tv.net" site_id="NICKELODEON" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="program-tv.net" site_id="TEENNICK" xmltv_id="TeenNick">TeenNick</channel>
     <channel update="i" site="program-tv.net" site_id="NICKTOONS" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="program-tv.net" site_id="NICKJR" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="program-tv.net" site_id="DISNEY" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="program-tv.net" site_id="DISNEY_JUNIOR" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="program-tv.net" site_id="TRALALA" xmltv_id="TraLaLa TV">TraLaLa TV</channel>
+    <channel update="i" site="program-tv.net" site_id="DUCKTV" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="program-tv.net" site_id="DUCKHD" xmltv_id="Duck TV HD">Duck TV HD</channel>
     <channel update="i" site="program-tv.net" site_id="MTV_EURO" xmltv_id="MTV Euro">MTV Euro</channel>
     <channel update="i" site="program-tv.net" site_id="DISCOVERY" xmltv_id="Discovery (HD)">Discovery (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="ANIMAL" xmltv_id="Animal Planet (HD)">Animal Planet (HD)</channel>
@@ -83,7 +106,7 @@
     <channel update="i" site="program-tv.net" site_id="DIGI_WORLD" xmltv_id="DIGI World (HD)">DIGI World (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="DIGI_ANIMAL_WORLD" xmltv_id="DIGI Animal World (HD)">DIGI Animal World (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="DOCUBOX" xmltv_id="Docubox (HD)">Docubox (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="DAVINCI" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="program-tv.net" site_id="DAVINCI" xmltv_id="Da Vinci (HD)">Da Vinci (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="LOVE_NATURE" xmltv_id="Love Nature (HD / 4K)">Love Nature (HD / 4K)</channel>
     <channel update="i" site="program-tv.net" site_id="PAPRIKA" xmltv_id="TV Paprika (HD)">TV Paprika (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="FOOD_NETWORK" xmltv_id="Food Network (HD)">Food Network (HD)</channel>
@@ -95,15 +118,16 @@
     <channel update="i" site="program-tv.net" site_id="DIGISPORT2" xmltv_id="DIGI Sport 2 (HD)">DIGI Sport 2 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="DIGISPORT3" xmltv_id="DIGI Sport 3 (HD)">DIGI Sport 3 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="DIGISPORT4" xmltv_id="DIGI Sport 4 (HD)">DIGI Sport 4 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="LOOK4K" xmltv_id="Look 4K">Look 4K</channel>
-    <channel update="i" site="program-tv.net" site_id="LOOKSPORT" xmltv_id="LookSport (HD)">LookSport (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="LOOKSPORT2" xmltv_id="LookSport 2 (HD)">LookSport 2 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="LOOKSPORT3" xmltv_id="LookSport 3 (HD)">LookSport 3 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="LOOKSPORT_PLUS" xmltv_id="LookSport+ (HD)">LookSport+ (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="TELEKOM_SPORT1" xmltv_id="Telekom Sport 1 (HD)">Telekom Sport 1 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="TELEKOM_SPORT2" xmltv_id="Telekom Sport 2 (HD)">Telekom Sport 2 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="TELEKOM_SPORT3" xmltv_id="Telekom Sport 3 (HD)">Telekom Sport 3 (HD)</channel>
-    <channel update="i" site="program-tv.net" site_id="TELEKOM_SPORT4" xmltv_id="Telekom Sport 4 (HD)">Telekom Sport 4 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMA_4K" xmltv_id="Prima 4K">Prima 4K</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMASPORT1" xmltv_id="Prima Sport 1 (HD)">Prima Sport 1 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMASPORT2" xmltv_id="Prima Sport 2 (HD)">Prima Sport 2 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMASPORT3" xmltv_id="Prima Sport 3 (HD)">Prima Sport 3 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMASPORT4" xmltv_id="Prima Sport 4 (HD)">Prima Sport 4 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="PRIMASPORT5" xmltv_id="Prima Sport 5 (HD)">Prima Sport 5 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="ORANGE_SPORT1" xmltv_id="Orange Sport 1 (HD)">Orange Sport 1 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="ORANGE_SPORT2" xmltv_id="Orange Sport 2 (HD)">Orange Sport 2 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="ORANGE_SPORT3" xmltv_id="Orange Sport 3 (HD)">Orange Sport 3 (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="ORANGE_SPORT4" xmltv_id="Orange Sport 4 (HD)">Orange Sport 4 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="EUROSPORT1" xmltv_id="Eurosport 1 (HD)">Eurosport 1 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="EUROSPORT2" xmltv_id="Eurosport 2 (HD)">Eurosport 2 (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="EUROSPORT4K" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
@@ -111,8 +135,7 @@
     <channel update="i" site="program-tv.net" site_id="FISHING_HUNTING" xmltv_id="Fishing and Hunting (HD)">Fishing and Hunting (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="FIGHTBOX" xmltv_id="Fightbox HD">Fightbox HD</channel>
     <channel update="i" site="program-tv.net" site_id="EXTREMESPORTS" xmltv_id="Extreme Sport Channel">Extreme Sport Channel</channel>
-    <channel update="i" site="program-tv.net" site_id="TRACESPORTS" xmltv_id="Trace Sports HD">Trace Sports HD</channel>
-    <channel update="i" site="program-tv.net" site_id="FAVORIT_TV" xmltv_id="Favorit TV">Favorit TV</channel>
+    <channel update="i" site="program-tv.net" site_id="TRACESPORTS" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
     <channel update="i" site="program-tv.net" site_id="ZUTV" xmltv_id="ZU TV (HD)">ZU TV (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="MOOZ_DANCE" xmltv_id="Mooz Dance (HD)">Mooz Dance (HD)</channel>
     <channel update="i" site="program-tv.net" site_id="MOOZ_HITS" xmltv_id="Mooz Hits / Mooz HD">Mooz Hits / Mooz HD</channel>
@@ -122,6 +145,8 @@
     <channel update="i" site="program-tv.net" site_id="MTV90S" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel update="i" site="program-tv.net" site_id="CLUB_MTV" xmltv_id="club MTV">club MTV</channel>
     <channel update="i" site="program-tv.net" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="program-tv.net" site_id="MEZZO_LIVE_HD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
     <channel update="i" site="program-tv.net" site_id="CLASSICA" xmltv_id="Stingray Classica (HD)">Stingray Classica (HD)</channel>
+    <channel update="i" site="program-tv.net" site_id="360TUNEBOX" xmltv_id="360 TuneBox">360 TuneBox</channel>
   </channels>
 </site>
