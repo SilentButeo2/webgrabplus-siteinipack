@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="tv24.lt">
   <channels>
+    <channel update="i" site="tv24.lt" site_id="go3-films" xmltv_id="go3-films">Go3 Films</channel>
     <channel update="i" site="tv24.lt" site_id="lrt-televizija" xmltv_id="LRT Televizija">LRT Televizija</channel>
     <channel update="i" site="tv24.lt" site_id="tv3-2" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="tv24.lt" site_id="lnk" xmltv_id="LNK">LNK</channel>
@@ -35,7 +36,7 @@
     <channel update="i" site="tv24.lt" site_id="play-tv" xmltv_id="Play TV">Play TV</channel>
     <channel update="i" site="tv24.lt" site_id="tv-7" xmltv_id="TV 7">TV 7</channel>
     <channel update="i" site="tv24.lt" site_id="gntv" xmltv_id="GNTV">GNTV</channel>
-    <channel update="i" site="tv24.lt" site_id="tv3-film" xmltv_id="TV3 Film">TV3 Film</channel>
+  
     <channel update="i" site="tv24.lt" site_id="filmzone-lithuania" xmltv_id="Filmzone Lithuania">Filmzone Lithuania</channel>
     <channel update="i" site="tv24.lt" site_id="tv1000-cee" xmltv_id="TV1000 CEE">TV1000 CEE</channel>
     <channel update="i" site="tv24.lt" site_id="tv1000-action-cee" xmltv_id="TV1000 Action CEE">TV1000 Action CEE</channel>
