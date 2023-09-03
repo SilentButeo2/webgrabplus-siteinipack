@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="meo.pt">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.2.0 -- Jan van Straaten" site="meo.pt">
   <channels>
     <channel update="i" site="meo.pt" site_id="DW-TV" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
     <channel update="i" site="meo.pt" site_id="RTP1" xmltv_id="RTP 1">RTP 1</channel>
@@ -17,6 +17,7 @@
     <channel update="i" site="meo.pt" site_id="ABOLA" xmltv_id="A BOLA TV">A BOLA TV</channel>
     <channel update="i" site="meo.pt" site_id="SPTVHD" xmltv_id="SPORT TV +">SPORT TV +</channel>
     <channel update="i" site="meo.pt" site_id="PORTO" xmltv_id="PORTO CANAL">PORTO CANAL</channel>
+    <channel update="i" site="meo.pt" site_id="RTPACR" xmltv_id="RTP AÇORES HD">RTP AÇORES HD</channel>
     <channel update="i" site="meo.pt" site_id="SPT1HD" xmltv_id="SPORT.TV1">SPORT.TV1</channel>
     <channel update="i" site="meo.pt" site_id="SPT2HD" xmltv_id="SPORT.TV2">SPORT.TV2</channel>
     <channel update="i" site="meo.pt" site_id="SPT3HD" xmltv_id="SPORT.TV3">SPORT.TV3</channel>
@@ -38,15 +39,16 @@
     <channel update="i" site="meo.pt" site_id="EURS2HD" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
     <channel update="i" site="meo.pt" site_id="DISNY" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
     <channel update="i" site="meo.pt" site_id="CART" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
-    <channel update="i" site="meo.pt" site_id="BIGGS" xmltv_id="BIGGS">BIGGS</channel>
+    <channel update="i" site="meo.pt" site_id="PANDAK" xmltv_id="Panda KIDS">Panda KIDS</channel>
     <channel update="i" site="meo.pt" site_id="SICK" xmltv_id="SIC K">SIC K</channel>
     <channel update="i" site="meo.pt" site_id="NICKELO" xmltv_id="NICKELODEON">NICKELODEON</channel>
     <channel update="i" site="meo.pt" site_id="DISNYJ" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="meo.pt" site_id="PANDA" xmltv_id="PANDA HD">PANDA HD</channel>
-    <channel update="i" site="meo.pt" site_id="BOOM" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="meo.pt" site_id="CNITO" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="meo.pt" site_id="BABYT" xmltv_id="BABY TV">BABY TV</channel>
     <channel update="i" site="meo.pt" site_id="LOLLY" xmltv_id="Lolly kids">Lolly kids</channel>
-    <channel update="i" site="meo.pt" site_id="PANDAK" xmltv_id="Panda KIDS">Panda KIDS</channel>
+    <channel update="i" site="meo.pt" site_id="NICKJR" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="meo.pt" site_id="BIGGS" xmltv_id="BIGGS">BIGGS</channel>
     <channel update="i" site="meo.pt" site_id="TVCTOPH" xmltv_id="TVCine TOP">TVCine TOP</channel>
     <channel update="i" site="meo.pt" site_id="TVCEDIH" xmltv_id="TVCINE Edition">TVCINE Edition</channel>
     <channel update="i" site="meo.pt" site_id="TVCEMOH" xmltv_id="TVCINE Emotion">TVCINE Emotion</channel>
@@ -77,7 +79,6 @@
     <channel update="i" site="meo.pt" site_id="SICR" xmltv_id="SIC RADICAL">SIC RADICAL</channel>
     <channel update="i" site="meo.pt" site_id="MTVPHD" xmltv_id="MTV Portugal HD">MTV Portugal HD</channel>
     <channel update="i" site="meo.pt" site_id="AMCBRE" xmltv_id="AMC Break">AMC Break</channel>
-    <channel update="i" site="meo.pt" site_id="FUELTV" xmltv_id="FUEL TV">FUEL TV</channel>
     <channel update="i" site="meo.pt" site_id="GAMET" xmltv_id="GAMETOON">GAMETOON</channel>
     <channel update="i" site="meo.pt" site_id="ADVNCE" xmltv_id="ADVNCE">ADVNCE</channel>
     <channel update="i" site="meo.pt" site_id="AMCCRI" xmltv_id="AMC Crime">AMC Crime</channel>
@@ -111,14 +112,13 @@
     <channel update="i" site="meo.pt" site_id="ICOHD" xmltv_id="STINGRAY ICONCERTS HD">STINGRAY ICONCERTS HD</channel>
     <channel update="i" site="meo.pt" site_id="LOUD" xmltv_id="STINGRAY LOUD HD">STINGRAY LOUD HD</channel>
     <channel update="i" site="meo.pt" site_id="RETRO" xmltv_id="STINGRAY RETRO HD">STINGRAY RETRO HD</channel>
-    <channel update="i" site="meo.pt" site_id="RTPACR" xmltv_id="RTP AÇORES HD">RTP AÇORES HD</channel>
-    <channel update="i" site="meo.pt" site_id="RTPMA" xmltv_id="RTP MADEIRA">RTP MADEIRA</channel>
+    <channel update="i" site="meo.pt" site_id="RTPMA" xmltv_id="RTP MADEIRA HD">RTP MADEIRA HD</channel>
     <channel update="i" site="meo.pt" site_id="ARTV" xmltv_id="ARTV">ARTV</channel>
     <channel update="i" site="meo.pt" site_id="LVTVHD" xmltv_id="LOCALVISÃO TV HD">LOCALVISÃO TV HD</channel>
     <channel update="i" site="meo.pt" site_id="AZORES" xmltv_id="AZORES TV">AZORES TV</channel>
-    <channel update="i" site="meo.pt" site_id="TOROTVHD" xmltv_id="TOROS HD">TOROS HD</channel>
     <channel update="i" site="meo.pt" site_id="CAÇAPHD" xmltv_id="CAÇA E PESCA HD">CAÇA E PESCA HD</channel>
     <channel update="i" site="meo.pt" site_id="CAÇAVHD" xmltv_id="CAÇAVISION HD">CAÇAVISION HD</channel>
+    <channel update="i" site="meo.pt" site_id="MUNTORO" xmltv_id="OneToro TV">OneToro TV</channel>
     <channel update="i" site="meo.pt" site_id="C180" xmltv_id="CANAL 180">CANAL 180</channel>
     <channel update="i" site="meo.pt" site_id="KURIAKO" xmltv_id="Kuriakos TV HD">Kuriakos TV HD</channel>
     <channel update="i" site="meo.pt" site_id="CNOVA" xmltv_id="CANÇÃO NOVA HD">CANÇÃO NOVA HD</channel>
@@ -126,6 +126,7 @@
     <channel update="i" site="meo.pt" site_id="UME" xmltv_id="UM Europa">UM Europa</channel>
     <channel update="i" site="meo.pt" site_id="UNIFE" xmltv_id="Unifé TV">Unifé TV</channel>
     <channel update="i" site="meo.pt" site_id="DOGTVHD" xmltv_id="DOGTV HD">DOGTV HD</channel>
+    <channel update="i" site="meo.pt" site_id="GOSPEL" xmltv_id="Gospel TV">Gospel TV</channel>
     <channel update="i" site="meo.pt" site_id="PFC" xmltv_id="PFC">PFC</channel>
     <channel update="i" site="meo.pt" site_id="GNEWS" xmltv_id="GLOBO NEWS">GLOBO NEWS</channel>
     <channel update="i" site="meo.pt" site_id="REC HD" xmltv_id="RECORD TV HD">RECORD TV HD</channel>
@@ -139,6 +140,7 @@
     <channel update="i" site="meo.pt" site_id="BLOOM" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
     <channel update="i" site="meo.pt" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="meo.pt" site_id="SKYN" xmltv_id="SKY NEWS">SKY NEWS</channel>
+    <channel update="i" site="meo.pt" site_id="ENGLISH" xmltv_id="English Club TV">English Club TV</channel>
     <channel update="i" site="meo.pt" site_id="BBC E" xmltv_id="BBC ENTERTAINMENT">BBC ENTERTAINMENT</channel>
     <channel update="i" site="meo.pt" site_id="FR24I" xmltv_id="FRANCE 24 (I)">FRANCE 24 (I)</channel>
     <channel update="i" site="meo.pt" site_id="I24I" xmltv_id="i24 NEWS (I)">i24 NEWS (I)</channel>
@@ -178,11 +180,10 @@
     <channel update="i" site="meo.pt" site_id="KBS" xmltv_id="KBS WORLD">KBS WORLD</channel>
     <channel update="i" site="meo.pt" site_id="CCTV4HD" xmltv_id="CCTV 4 HD">CCTV 4 HD</channel>
     <channel update="i" site="meo.pt" site_id="PHCNE" xmltv_id="PHOENIX CNE">PHOENIX CNE</channel>
-    <channel update="i" site="meo.pt" site_id="NICKUKR" xmltv_id="Nickelodeon Ukraine Pluto TV">Nickelodeon Ukraine Pluto TV</channel>
     <channel update="i" site="meo.pt" site_id="FREEDOM" xmltv_id="Freedom">Freedom</channel>
-    <channel update="i" site="meo.pt" site_id="UKR1" xmltv_id="Ukraine 1">Ukraine 1</channel>
-    <channel update="i" site="meo.pt" site_id="UKR2" xmltv_id="Ukraine 2">Ukraine 2</channel>
-    <channel update="i" site="meo.pt" site_id="NLOTV2" xmltv_id="NLO TV2">NLO TV2</channel>
+    <channel update="i" site="meo.pt" site_id="1E1INT" xmltv_id=" 1+1 International"> 1+1 International</channel>
+    <channel update="i" site="meo.pt" site_id="1E1UNEW" xmltv_id="1+1 United News">1+1 United News</channel>
+    <channel update="i" site="meo.pt" site_id="KVARTV" xmltv_id="Kvartal TV International">Kvartal TV International</channel>
     <channel update="i" site="meo.pt" site_id="STARCIN" xmltv_id="Star Cinema">Star Cinema</channel>
     <channel update="i" site="meo.pt" site_id="STARFAM" xmltv_id="Star Family">Star Family</channel>
     <channel update="i" site="meo.pt" site_id="XSPORT" xmltv_id="X Sport">X Sport</channel>
@@ -226,6 +227,7 @@
     <channel update="i" site="meo.pt" site_id="ABOLASD" xmltv_id="A BOLA TV">A BOLA TV</channel>
     <channel update="i" site="meo.pt" site_id="SPTV" xmltv_id="SPORT TV +">SPORT TV +</channel>
     <channel update="i" site="meo.pt" site_id="PORTOSD" xmltv_id="PORTO CANAL">PORTO CANAL</channel>
+    <channel update="i" site="meo.pt" site_id="RTPACRS" xmltv_id="RTP AÇORES">RTP AÇORES</channel>
     <channel update="i" site="meo.pt" site_id="SPTV1" xmltv_id="SPORT.TV1">SPORT.TV1</channel>
     <channel update="i" site="meo.pt" site_id="SPTV2" xmltv_id="SPORT.TV2">SPORT.TV2</channel>
     <channel update="i" site="meo.pt" site_id="SPTV3" xmltv_id="SPORT.TV3">SPORT.TV3</channel>
@@ -244,10 +246,10 @@
     <channel update="i" site="meo.pt" site_id="EURS2" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
     <channel update="i" site="meo.pt" site_id="DISNYSD" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
     <channel update="i" site="meo.pt" site_id="CARTSD" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="meo.pt" site_id="PANDAKS" xmltv_id="Panda KIDS">Panda KIDS</channel>
     <channel update="i" site="meo.pt" site_id="SICKSD" xmltv_id="SIC K">SIC K</channel>
     <channel update="i" site="meo.pt" site_id="DISNYJS" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
     <channel update="i" site="meo.pt" site_id="PANDASD" xmltv_id="PANDA">PANDA</channel>
-    <channel update="i" site="meo.pt" site_id="PANDAKS" xmltv_id="Panda KIDS">Panda KIDS</channel>
     <channel update="i" site="meo.pt" site_id="TVCTOP" xmltv_id="TVCine TOP">TVCine TOP</channel>
     <channel update="i" site="meo.pt" site_id="TVCEDI" xmltv_id="TVCINE Edition">TVCINE Edition</channel>
     <channel update="i" site="meo.pt" site_id="TVCEMO" xmltv_id="TVCINE Emotion">TVCINE Emotion</channel>
@@ -275,6 +277,7 @@
     <channel update="i" site="meo.pt" site_id="SICRSD" xmltv_id="SIC RADICAL">SIC RADICAL</channel>
     <channel update="i" site="meo.pt" site_id="MTV" xmltv_id="MTV Portugal">MTV Portugal</channel>
     <channel update="i" site="meo.pt" site_id="AMCCRIS" xmltv_id="AMC Crime">AMC Crime</channel>
+    <channel update="i" site="meo.pt" site_id="TLCSD" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="meo.pt" site_id="SICCSD" xmltv_id="SIC CARAS">SIC CARAS</channel>
     <channel update="i" site="meo.pt" site_id="E!" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
     <channel update="i" site="meo.pt" site_id="24KITC" xmltv_id="24 KITCHEN">24 KITCHEN</channel>
@@ -283,9 +286,8 @@
     <channel update="i" site="meo.pt" site_id="TRACE" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
     <channel update="i" site="meo.pt" site_id="MCM T" xmltv_id="MCM TOP">MCM TOP</channel>
     <channel update="i" site="meo.pt" site_id="CLUBB" xmltv_id="CLUBBING TV">CLUBBING TV</channel>
-    <channel update="i" site="meo.pt" site_id="RTPACRS" xmltv_id="RTP AÇORES">RTP AÇORES</channel>
+    <channel update="i" site="meo.pt" site_id="RTPMASD" xmltv_id="RTP MADEIRA">RTP MADEIRA</channel>
     <channel update="i" site="meo.pt" site_id="LVTV" xmltv_id="LOCALVISÃO TV">LOCALVISÃO TV</channel>
-    <channel update="i" site="meo.pt" site_id="TOROTV" xmltv_id="TOROS">TOROS</channel>
     <channel update="i" site="meo.pt" site_id="CAÇAP" xmltv_id="CAÇA E PESCA">CAÇA E PESCA</channel>
     <channel update="i" site="meo.pt" site_id="CAÇAV" xmltv_id="CAÇAVISION">CAÇAVISION</channel>
     <channel update="i" site="meo.pt" site_id="CNOVASD" xmltv_id="CANÇÃO NOVA">CANÇÃO NOVA</channel>
