@@ -1,116 +1,119 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.6 -- Jan van Straaten" site="tet.lv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.2.0 -- Jan van Straaten" site="tet.lv">
   <channels>
-    <channel update="i" site="tet.lv" site_id="2610605" xmltv_id="LTV1">LTV1</channel>
-    <channel update="i" site="tet.lv" site_id="2610612" xmltv_id="LTV7">LTV7</channel>
-    <channel update="i" site="tet.lv" site_id="2611375" xmltv_id="TV24">TV24</channel>
-    <channel update="i" site="tet.lv" site_id="2611289" xmltv_id="ReTV">ReTV</channel>
-    <channel update="i" site="tet.lv" site_id="83767041" xmltv_id="TV4">TV4</channel>
-    <channel update="i" site="tet.lv" site_id="2611125" xmltv_id="Euronews ENG">Euronews ENG</channel>
+    <channel update="i" site="tet.lv" site_id="2610605" xmltv_id="LTV1 HD">LTV1 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610612" xmltv_id="LTV7 HD">LTV7 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611375" xmltv_id="TV24 HD">TV24 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611289" xmltv_id="Re:TV HD">Re:TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="83767041" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611125" xmltv_id="Euronews ENG HD">Euronews ENG HD</channel>
     <channel update="i" site="tet.lv" site_id="2610953" xmltv_id="Latvijas Šlāgerkanāls">Latvijas Šlāgerkanāls</channel>
     <channel update="i" site="tet.lv" site_id="2610849" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="tet.lv" site_id="2611354" xmltv_id="Kidzone">Kidzone</channel>
-    <channel update="i" site="tet.lv" site_id="2610620" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="tet.lv" site_id="2611485" xmltv_id="STV Pirmā!">STV Pirmā!</channel>
-    <channel update="i" site="tet.lv" site_id="2611442" xmltv_id="360TV">360TV</channel>
-    <channel update="i" site="tet.lv" site_id="2610638" xmltv_id="TV6">TV6</channel>
-    <channel update="i" site="tet.lv" site_id="2610629" xmltv_id="TV3 Life">TV3 Life</channel>
-    <channel update="i" site="tet.lv" site_id="88689662" xmltv_id="8TV">8TV</channel>
-    <channel update="i" site="tet.lv" site_id="2610647" xmltv_id="3+">3+</channel>
-    <channel update="i" site="tet.lv" site_id="200535063" xmltv_id="Duo 7">Duo 7</channel>
-    <channel update="i" site="tet.lv" site_id="80775617" xmltv_id="FilmUADrama">FilmUADrama</channel>
-    <channel update="i" site="tet.lv" site_id="2611835" xmltv_id="Tet Hokejs">Tet Hokejs</channel>
-    <channel update="i" site="tet.lv" site_id="31718866" xmltv_id="FunboxUHD (Skatītāju izvēle)">FunboxUHD (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="2611660" xmltv_id="Current Time">Current Time</channel>
-    <channel update="i" site="tet.lv" site_id="12239973" xmltv_id="BBC World (Skatītāju izvēle)">BBC World (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="2611671" xmltv_id="UA TV (Skatītāju izvēle)">UA TV (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="2611737" xmltv_id="iTV (Skatītāju izvēle)">iTV (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="213165957" xmltv_id="Filmbox (Skatītāju izvēle)">Filmbox (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="212635712" xmltv_id="Ukraina 24 (Skatītāju izvēle)">Ukraina 24 (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="2611503" xmltv_id="1+1 International (Skatītāju izvēle)">1+1 International (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="213159482" xmltv_id="DocuBox (Skatitāju izvēle)">DocuBox (Skatitāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="2611354" xmltv_id="KidZone TV HD">KidZone TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610620" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611485" xmltv_id="STV Pirmā! HD">STV Pirmā! HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611442" xmltv_id="360TV HD">360TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610638" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610629" xmltv_id="TV3 Life HD">TV3 Life HD</channel>
+    <channel update="i" site="tet.lv" site_id="88689662" xmltv_id="8TV HD">8TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610647" xmltv_id="3+ HD">3+ HD</channel>
+    <channel update="i" site="tet.lv" site_id="200535063" xmltv_id="Kanal 7 HD">Kanal 7 HD</channel>
+    <channel update="i" site="tet.lv" site_id="80775617" xmltv_id="FilmUADrama HD">FilmUADrama HD</channel>
+    <channel update="i" site="tet.lv" site_id="219896415" xmltv_id="TV Extra">TV Extra</channel>
+    <channel update="i" site="tet.lv" site_id="232442924" xmltv_id="Super Baltic HD (Skatītāju izvēle)">Super Baltic HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="232442934" xmltv_id="Super+ HD (Skatītāju izvēle)">Super+ HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="234187073" xmltv_id="OTV HD (Skatītāju izvēle)">OTV HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="31718866" xmltv_id="FunBox UHD (Skatītāju izvēle)">FunBox UHD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="2611660" xmltv_id="Current Time HD (Skatītāju izvēle)">Current Time HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="12239973" xmltv_id="BBC News (Skatītāju izvēle)">BBC News (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="2611671" xmltv_id="FREEДOM HD (Skatītāju izvēle)">FREEДOM HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="2611737" xmltv_id="iTV HD (Skatītāju izvēle)">iTV HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="213165957" xmltv_id="Filmbox HD (Skatītāju izvēle)">Filmbox HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="225338140" xmltv_id="RADA">RADA</channel>
+    <channel update="i" site="tet.lv" site_id="238807784" xmltv_id="Salt TV HD (Skatītāju izvēle)">Salt TV HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="213159482" xmltv_id="DocuBox HD (Skatītāju izvēle)">DocuBox HD (Skatītāju izvēle)</channel>
     <channel update="i" site="tet.lv" site_id="2611707" xmltv_id="A TV (Skatītāju izvēle)">A TV (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="213166474" xmltv_id="Insight (Skatītāju izvēle)">Insight (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="31718708" xmltv_id="France 24 (Skatītāju izvēle)">France 24 (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="31718694" xmltv_id="OAN News (Skatītāju izvēle)">OAN News (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="31718701" xmltv_id="A Wealth of Entertainment (Skatītāju izvēle)">A Wealth of Entertainment (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="68374465" xmltv_id="Bolt (Skatītāju izvēle)">Bolt (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="213392681" xmltv_id="Viasat Explore (Skatītāju izvēle)">Viasat Explore (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="59679023" xmltv_id="Viasat Nature (Skatītāju izvēle)">Viasat Nature (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="213391596" xmltv_id="History (Skatītāju izvēle)">History (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="238810145" xmltv_id="Kino1 HD (Skatītāju izvēle)">Kino1 HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="31718708" xmltv_id="France 24 HD (Skatītāju izvēle)">France 24 HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="tet.lv" site_id="68374465" xmltv_id="Bolt HD (Skatītāju izvēle)">Bolt HD (Skatītāju izvēle)</channel>
     <channel update="i" site="tet.lv" site_id="2611791" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
-    <channel update="i" site="tet.lv" site_id="2611636" xmltv_id="VIP Comedy">VIP Comedy</channel>
+    <channel update="i" site="tet.lv" site_id="2611636" xmltv_id="Viasat Kino Comedy HD">Viasat Kino Comedy HD</channel>
     <channel update="i" site="tet.lv" site_id="2610684" xmltv_id="FOX">FOX</channel>
     <channel update="i" site="tet.lv" site_id="2610691" xmltv_id="FOX Life">FOX Life</channel>
-    <channel update="i" site="tet.lv" site_id="2610706" xmltv_id="Duo 3">Duo 3</channel>
-    <channel update="i" site="tet.lv" site_id="2611329" xmltv_id="Duo 6">Duo 6</channel>
-    <channel update="i" site="tet.lv" site_id="52195133" xmltv_id="TV21">TV21</channel>
-    <channel update="i" site="tet.lv" site_id="6476773" xmltv_id="Star Family">Star Family</channel>
-    <channel update="i" site="tet.lv" site_id="2611460" xmltv_id="AMC (Skatītāju izvēle)">AMC (Skatītāju izvēle)</channel>
-    <channel update="i" site="tet.lv" site_id="2611478" xmltv_id="Filmzone">Filmzone</channel>
-    <channel update="i" site="tet.lv" site_id="2611721" xmltv_id="Filmzone+">Filmzone+</channel>
+    <channel update="i" site="tet.lv" site_id="2610706" xmltv_id="Duo 3 HD">Duo 3 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611329" xmltv_id="Duo 6 HD">Duo 6 HD</channel>
+    <channel update="i" site="tet.lv" site_id="6476773" xmltv_id="Star Family HD">Star Family HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611460" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tet.lv" site_id="2611478" xmltv_id="Filmzone HD">Filmzone HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611721" xmltv_id="Filmzone+ HD">Filmzone+ HD</channel>
     <channel update="i" site="tet.lv" site_id="6476855" xmltv_id="Star Cinema HD">Star Cinema HD</channel>
-    <channel update="i" site="tet.lv" site_id="2611219" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="tet.lv" site_id="2611233" xmltv_id="TV1000 World kino">TV1000 World kino</channel>
-    <channel update="i" site="tet.lv" site_id="2611226" xmltv_id="TV1000 Action">TV1000 Action</channel>
-    <channel update="i" site="tet.lv" site_id="2611240" xmltv_id="TV3 Film HD">TV3 Film HD</channel>
-    <channel update="i" site="tet.lv" site_id="2611531" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="tet.lv" site_id="2611219" xmltv_id="Viasat Kino">Viasat Kino</channel>
+    <channel update="i" site="tet.lv" site_id="2611233" xmltv_id="Viasat Kino World">Viasat Kino World</channel>
+    <channel update="i" site="tet.lv" site_id="2611226" xmltv_id="Viasat Kino Action">Viasat Kino Action</channel>
+    <channel update="i" site="tet.lv" site_id="2611240" xmltv_id="Go3 Films HD">Go3 Films HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611531" xmltv_id="Nick Jr HD">Nick Jr HD</channel>
     <channel update="i" site="tet.lv" site_id="2610713" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="tet.lv" site_id="2610974" xmltv_id="TV3 Mini">TV3 Mini</channel>
+    <channel update="i" site="tet.lv" site_id="2610974" xmltv_id="TV3 Mini HD">TV3 Mini HD</channel>
+    <channel update="i" site="tet.lv" site_id="220472712" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="tet.lv" site_id="2610727" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="tet.lv" site_id="76431034" xmltv_id="Kidzone Mini (HD)">Kidzone Mini (HD)</channel>
+    <channel update="i" site="tet.lv" site_id="76431034" xmltv_id="Kidzone Mini HD">Kidzone Mini HD</channel>
     <channel update="i" site="tet.lv" site_id="2610749" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="tet.lv" site_id="2611848" xmltv_id="Smartzone">Smartzone</channel>
+    <channel update="i" site="tet.lv" site_id="2611848" xmltv_id="Smartzone HD">Smartzone HD</channel>
     <channel update="i" site="tet.lv" site_id="59088205" xmltv_id="Nick Toons">Nick Toons</channel>
     <channel update="i" site="tet.lv" site_id="2610720" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="tet.lv" site_id="227503184" xmltv_id="KidZone TV HD">KidZone TV HD</channel>
     <channel update="i" site="tet.lv" site_id="2611307" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel update="i" site="tet.lv" site_id="2611714" xmltv_id="Duck TV">Duck TV</channel>
-    <channel update="i" site="tet.lv" site_id="2611426" xmltv_id="Best4Sport TV">Best4Sport TV</channel>
+    <channel update="i" site="tet.lv" site_id="2611426" xmltv_id="Best4Sport TV HD">Best4Sport TV HD</channel>
     <channel update="i" site="tet.lv" site_id="2610796" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel update="i" site="tet.lv" site_id="2611435" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
     <channel update="i" site="tet.lv" site_id="42443313" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
-    <channel update="i" site="tet.lv" site_id="201882094" xmltv_id="TV3 Sport Open">TV3 Sport Open</channel>
-    <channel update="i" site="tet.lv" site_id="2611616" xmltv_id="Setanta Sports HD">Setanta Sports HD</channel>
-    <channel update="i" site="tet.lv" site_id="2610803" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="tet.lv" site_id="2611864" xmltv_id="Best4sport TV-2">Best4sport TV-2</channel>
-    <channel update="i" site="tet.lv" site_id="2611698" xmltv_id="Fight Sports">Fight Sports</channel>
-    <channel update="i" site="tet.lv" site_id="2611212" xmltv_id="TV3 Sport HD">TV3 Sport HD</channel>
-    <channel update="i" site="tet.lv" site_id="5922455" xmltv_id="TV3 Sport 2">TV3 Sport 2</channel>
-    <channel update="i" site="tet.lv" site_id="2611771" xmltv_id="TV3 Sport 3">TV3 Sport 3</channel>
+    <channel update="i" site="tet.lv" site_id="201882094" xmltv_id="Go3 Sport Open HD">Go3 Sport Open HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611616" xmltv_id="Setanta Sports 1 HD">Setanta Sports 1 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610803" xmltv_id="NBA TV HD">NBA TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611864" xmltv_id="Best4Sport TV-2 HD">Best4Sport TV-2 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611698" xmltv_id="FIGHT SPORTS HD">FIGHT SPORTS HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611212" xmltv_id="Go3 Sport 1 HD">Go3 Sport 1 HD</channel>
+    <channel update="i" site="tet.lv" site_id="5922455" xmltv_id="Go3 Sport 2 HD">Go3 Sport 2 HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611771" xmltv_id="Go3 Sport 3 HD">Go3 Sport 3 HD</channel>
     <channel update="i" site="tet.lv" site_id="2610835" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="tet.lv" site_id="2611390" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel update="i" site="tet.lv" site_id="2610856" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tet.lv" site_id="2610856" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
     <channel update="i" site="tet.lv" site_id="2610865" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="tet.lv" site_id="2610872" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
-    <channel update="i" site="tet.lv" site_id="203607979" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tet.lv" site_id="203607979" xmltv_id="HGTV HD">HGTV HD</channel>
     <channel update="i" site="tet.lv" site_id="2610888" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="tet.lv" site_id="2610932" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="tet.lv" site_id="216991478" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="tet.lv" site_id="2610932" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="tet.lv" site_id="213391596" xmltv_id="History HD">History HD</channel>
     <channel update="i" site="tet.lv" site_id="2610910" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="tet.lv" site_id="2611682" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tet.lv" site_id="59679023" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel update="i" site="tet.lv" site_id="213392681" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611682" xmltv_id="Viasat History HD">Viasat History HD</channel>
     <channel update="i" site="tet.lv" site_id="76430927" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="tet.lv" site_id="2611515" xmltv_id="Food Network">Food Network</channel>
-    <channel update="i" site="tet.lv" site_id="2610939" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="tet.lv" site_id="2611515" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="tet.lv" site_id="2610939" xmltv_id="MTV Global">MTV Global</channel>
     <channel update="i" site="tet.lv" site_id="2610946" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="tet.lv" site_id="2610960" xmltv_id="Mūzikas video">Mūzikas video</channel>
+    <channel update="i" site="tet.lv" site_id="2610960" xmltv_id="Mūzikas Video Kanāls">Mūzikas Video Kanāls</channel>
     <channel update="i" site="tet.lv" site_id="2610983" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="tet.lv" site_id="2610994" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="tet.lv" site_id="2611027" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tet.lv" site_id="2611027" xmltv_id="Mezzo HD">Mezzo HD</channel>
     <channel update="i" site="tet.lv" site_id="2611034" xmltv_id="Fashion &amp; Lifestyle HD">Fashion &amp; Lifestyle HD</channel>
     <channel update="i" site="tet.lv" site_id="2611296" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="tet.lv" site_id="79009739" xmltv_id="Deutsche Welle English HD">Deutsche Welle English HD</channel>
-    <channel update="i" site="tet.lv" site_id="2611730" xmltv_id="Euronews RUS">Euronews RUS</channel>
-    <channel update="i" site="tet.lv" site_id="2611132" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="tet.lv" site_id="2611397" xmltv_id="Дождь">Дождь</channel>
-    <channel update="i" site="tet.lv" site_id="2611368" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611730" xmltv_id="Euronews RU">Euronews RU</channel>
+    <channel update="i" site="tet.lv" site_id="2611132" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="tet.lv" site_id="2611368" xmltv_id="ARTE HD">ARTE HD</channel>
     <channel update="i" site="tet.lv" site_id="2611139" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="tet.lv" site_id="2611146" xmltv_id="PRO 7">PRO 7</channel>
+    <channel update="i" site="tet.lv" site_id="58818917" xmltv_id="CNN International">CNN International</channel>
     <channel update="i" site="tet.lv" site_id="2611157" xmltv_id="SAT1">SAT1</channel>
     <channel update="i" site="tet.lv" site_id="2611168" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="tet.lv" site_id="2611179" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="tet.lv" site_id="2611179" xmltv_id="Al Jazeera International HD">Al Jazeera International HD</channel>
     <channel update="i" site="tet.lv" site_id="2611190" xmltv_id="Hustler TV">Hustler TV</channel>
-    <channel update="i" site="tet.lv" site_id="2611201" xmltv_id="Private TV">Private TV</channel>
-    <channel update="i" site="tet.lv" site_id="213167387" xmltv_id="Redlight">Redlight</channel>
-    <channel update="i" site="tet.lv" site_id="6786139" xmltv_id="Noskaņojuma kanāls">Noskaņojuma kanāls</channel>
+    <channel update="i" site="tet.lv" site_id="2611201" xmltv_id="Private TV HD">Private TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="213167387" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="tet.lv" site_id="235845799" xmltv_id="Brazzers TV HD">Brazzers TV HD</channel>
+    <channel update="i" site="tet.lv" site_id="2611538" xmltv_id="Reality Kings">Reality Kings</channel>
+    <channel update="i" site="tet.lv" site_id="6786139" xmltv_id="Noskaņojuma kanāls HD">Noskaņojuma kanāls HD</channel>
   </channels>
 </site>
