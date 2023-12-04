@@ -1,439 +1,323 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.3.0 -- Jan van Straaten" site="telemach.si">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="telemach.si">
   <channels>
-    <channel update="i" site="epg.telemach.si" site_id="338##/2020/05/28/13/04/43/slo1hd_logo_16_9_light_300x168_de19a6ed_faa6_41d2_b3b3_01a7013817bd.png" xmltv_id="SLO 1 HD">SLO 1 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="339##/2020/05/28/13/04/48/slo2hd_logo_16_9_light_160x90_ad9a5eea_7997_40f2_871c_6f03c0e2b6d1.png" xmltv_id="SLO 2 HD">SLO 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="340##/2020/05/28/12/55/27/poptvhd_logo_16_9_light_384x216_c5c16071_e5b7_4691_a1bc_9e7ff16e5351.png" xmltv_id="POP TV HD">POP TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="341##/2020/12/14/11/10/38/xl_kanal_a_hd_eon_480x270px.png" xmltv_id="Kanal A HD">Kanal A HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="342##/2020/05/28/12/29/36/briohd_logo_16_9_light_384x216_452e44fe_815f_4553_8410_98cf94255b62.png" xmltv_id="Brio HD">Brio HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="344##/2020/11/05/16/50/21/xl_kino_light_.png" xmltv_id="Kino HD">Kino HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1157##/2022/07/04/10/26/45/light_384x216.png" xmltv_id="Astra TV HD">Astra TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="354##/2020/05/28/12/49/25/otohd_logo_16_9_light_300x168_8ff7f633_eadb_4aa4_bfbf_3acf1288a9b8.png" xmltv_id="OTO HD">OTO HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="343##/2020/11/25/12/53/58/xl_planet_hd_eon_480x270px.png" xmltv_id="Planet TV HD">Planet TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="348##/2021/08/23/15/09/56/xl_planet_2_eon_480x270px.png" xmltv_id="Planet 2 HD">Planet 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="629##/2021/08/23/15/09/33/xl_planet_eva_eon_480x270px.png" xmltv_id="Planet Eva HD">Planet Eva HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="271##/2023/10/26/14/57/08/light_480x270.png" xmltv_id="Nova24 TV HD">Nova24 TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="672##/2023/10/26/15/02/27/light_480x270.png" xmltv_id="2.Nova24 TV HD">2.Nova24 TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="628##/2020/09/11/07/17/32/xl_tv3_2020_eon_480x270px.png" xmltv_id="TV3 HD">TV3 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="322##/2023/07/19/10/09/58/veseljak_golica_dark_480x270.png" xmltv_id="TV Veseljak Golica HD">TV Veseljak Golica HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="873##/2020/07/23/08/15/16/xl_light_480x270.png" xmltv_id="SLO 3 HD">SLO 3 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="349##/2020/05/28/12/37/35/goldtvhd_logo_16_9_light_480x270_93670db6_52b5_4b1b_88b1_9f8dd9a2c81a.png" xmltv_id="Gold TV HD">Gold TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="886##/2021/06/29/12/32/33/xl_light_480x270.png" xmltv_id="Arena TV HD">Arena TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="793##/2023/11/27/08/51/25/light_480x270.png" xmltv_id="Cinestar TV 1 HD (SI)">Cinestar TV 1 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="795##/2023/11/27/08/55/00/light_480x270.png" xmltv_id="Cinestar Action and Thriller HD (SI)">Cinestar Action and Thriller HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="323##/2023/03/13/09/11/45/light_480x270.png" xmltv_id="Aktual TV HD">Aktual TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="355##/2023/10/01/09/55/55/light_480x270.png" xmltv_id="STAR HD (SI)">STAR HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="356##/2023/10/01/09/59/19/light_480x270.png" xmltv_id="STAR Life HD (SI)">STAR Life HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="357##/2023/10/01/09/57/59/light_480x270.png" xmltv_id="STAR Crime HD (SI)">STAR Crime HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="358##/2023/10/01/10/00/46/light_384x216.png" xmltv_id="STAR Movies HD (SI)">STAR Movies HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1414##/2023/04/28/07/36/23/light_384x216.png" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1484##/2023/08/01/06/56/38/light_480x270.png" xmltv_id="FilmBox Premium HD (SI)">FilmBox Premium HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="43##/2020/05/28/12/33/21/diva_logo_16_9_light_384x216_3cbbc3b1_fc74_4114_ae65_1c6d19f2eb52.png" xmltv_id="Diva">Diva</channel>
-    <channel update="i" site="epg.telemach.si" site_id="44##/2021/12/15/16/56/30/xl_light_480x270.png" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="epg.telemach.si" site_id="282##/2020/05/28/12/25/03/amc_logo_16_9_light_480x270_7c2c23e4_a7ed_4523_ade9_d215d376e75f.png" xmltv_id="AMC HD (SI)">AMC HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="989##/2021/04/26/12/56/41/xl_light.png" xmltv_id="Pickbox HD (SI)">Pickbox HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1415##/2023/11/27/08/53/41/light_480x270.png" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="49##/2023/11/20/13/51/20/xl_light_480x270.png" xmltv_id="CineStar TV Fantasy HD (SR)">CineStar TV Fantasy HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="51##/2023/11/20/13/55/28/xl_light_480x270.png" xmltv_id="CineStar TV Premiere 1 HD (SR)">CineStar TV Premiere 1 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="52##/2023/11/20/13/57/32/xl_light_480x270.png" xmltv_id="CineStar TV Premiere 2 HD (SR)">CineStar TV Premiere 2 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="773##/2023/11/20/14/02/12/xl_light_480x270.png" xmltv_id="CineStar TV 2 HD (SR)">CineStar TV 2 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1485##/2023/08/01/06/58/17/light_480x270.png" xmltv_id="FilmBox Extra HD (SI)">FilmBox Extra HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="576##/2021/06/25/12/49/33/xl_light_480x270.png" xmltv_id="SCI FI HD (SR)">SCI FI HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="60##/2020/05/28/12/39/08/hbohd_logo_16_9_light_160x90_b7d50849_51a3_41e1_9ff7_34e0f7c1c33a.png" xmltv_id="HBO HD (SR)">HBO HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="61##/2020/05/28/12/38/45/hbo2hd_logo_16_9_light_300x168_2ebcc208_24a0_4ea8_927d_44d6b0c39985.png" xmltv_id="HBO 2 HD (SR)">HBO 2 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="62##/2021/11/30/13/00/13/xl_light_480x270.png" xmltv_id="HBO 3 HD (SR)">HBO 3 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="63##/2020/05/28/12/30/45/cinemaxhd_logo_16_9_light_160x90_8435b044_5656_468c_99c0_20ff527f8ab5.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="64##/2020/05/28/12/30/38/cinemax2hd_logo_16_9_light_480x270_493ae2eb_ab92_4934_96f7_ec5ff6055295.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1408##/2023/04/28/07/23/35/light_480x270.png" xmltv_id="SHORTSTV HD">SHORTSTV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="18##/2020/05/28/13/04/23/skhd_logo_16_9_light_160x90_14f6cb27_ade9_4013_a133_3d9e5655a920.png" xmltv_id="SK HD">SK HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="345##/2020/05/28/13/02/21/sk1hd_logo_16_9_light_300x168_a135549c_a3d0_45b7_b24c_fc9f1b15ac4d.png" xmltv_id="SK 1 HD (SI)">SK 1 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="346##/2020/05/28/13/02/47/sk2hd_logo_16_9_light_384x216_234377f1_8fed_411c_b8a0_3d3df21eccee.png" xmltv_id="SK 2 HD (SI)">SK 2 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="347##/2020/05/28/13/03/04/sk3hd_logo_16_9_light_300x168_aa5558af_af95_4af5_85e1_0f4343639597.png" xmltv_id="SK 3 HD (SI)">SK 3 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="885##/2020/09/04/09/05/33/l_sk4l.png" xmltv_id="SK 4 HD (SI)">SK 4 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="292##/2022/11/09/13/29/51/light_288x162.png" xmltv_id="SK 5 HD (SI)">SK 5 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="293##/2022/11/09/13/34/16/light_384x216.png" xmltv_id="SK 6 HD (SI)">SK 6 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="941##/2021/03/04/13/52/34/xl_light.png" xmltv_id="SK 4K IPTV">SK 4K IPTV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="986##/2022/04/01/11/00/35/xl_light_480x270.png" xmltv_id="GP1 (Kreator TV)">GP1 (Kreator TV)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1140##/2022/04/12/08/54/37/xl_download.png" xmltv_id="SK Fight HD">SK Fight HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="73##/2020/05/28/13/04/17/skgolfhd_logo_16_9_light_160x90_21e37f21_1f81_493b_be9b_3014fe186230.png" xmltv_id="SK Golf HD (SR)">SK Golf HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="350##/2023/03/09/14/52/37/light_480x270.png" xmltv_id="Šport TV 1 HD">Šport TV 1 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="351##/2023/03/09/14/54/20/light_480x270.png" xmltv_id="Šport TV 2 HD">Šport TV 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="352##/2023/03/09/14/56/01/light_480x270.png" xmltv_id="Šport TV 3 HD">Šport TV 3 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="729##/2022/02/01/11/48/52/xl_light_480x270.png" xmltv_id="Eurosport 1 HD (SI)">Eurosport 1 HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="85##/2022/01/31/16/35/25/xl_light_480x270.png" xmltv_id="Eurosport 2 HD (SR)">Eurosport 2 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1082##/2021/06/23/13/47/35/xl_light_480x270.png" xmltv_id="Eurosport 4K IPTV">Eurosport 4K IPTV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1407##/2023/04/28/07/21/08/light_480x270.png" xmltv_id="Shift TV HD">Shift TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1384##/2023/09/15/07/38/25/light_160x90.png" xmltv_id="Motorvision+ HD">Motorvision+ HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1370##/2023/04/26/12/50/50/light_480x270.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="epg.telemach.si" site_id="297##/2020/09/17/09/36/14/xl_nautical_l.png" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="337##/2020/05/28/13/05/04/sport1_logo_16_9_light_300x168_5397e571_e6b4_49c1_9371_8d2397255e71.png" xmltv_id="Sport 1">Sport 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="782##/2020/05/28/13/07/28/trzictvsi_logo_16_9_light_288x162_b588693f_1f17_4094_a8aa_df39c75a4a44.png" xmltv_id="Tržič TV HD">Tržič TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="687##/2020/05/28/13/04/07/skesports_logo_16_9_light_160x90_492b1e3e_4559_43a3_b57f_0e487743b401.png" xmltv_id="SK Esports (SR)">SK Esports (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="668##/2020/05/28/12/50/12/pikaboohd_logo_16_9_light_384x216_ab574684_27de_4570_b82a_a19b5898f0fd.png" xmltv_id="Pikaboo HD SI">Pikaboo HD SI</channel>
-    <channel update="i" site="epg.telemach.si" site_id="637##/2020/05/28/12/47/15/nickjr_logo_16_9_light_480x270_a3b2bed0_eb0f_436b_9c57_bbb2bcd8edbd.png" xmltv_id="Nick Jr. (SI)">Nick Jr. (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1215##/2022/08/29/09/47/26/light_480x270.png" xmltv_id="IDJKids HD (SI)">IDJKids HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="670##/2023/04/19/12/24/40/light_480x270.png" xmltv_id="Minimax (SI)">Minimax (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1382##/2023/04/26/13/22/42/light_480x270.png" xmltv_id="Jim Jam">Jim Jam</channel>
-    <channel update="i" site="epg.telemach.si" site_id="572##/2020/05/28/13/12/04/vavoomhd_logo_16_9_light_300x168_62669c9e_7e19_4f33_aa14_906b721efc59.png" xmltv_id="Vavoom HD (SR)">Vavoom HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="871##/2020/07/15/09/23/50/xl_light_480x270.png" xmltv_id="Nicktoons (SI)">Nicktoons (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="88##/2023/08/24/10/02/18/light_480x270.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="epg.telemach.si" site_id="90##/2022/11/16/11/41/21/xl_light_480x270.png" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="epg.telemach.si" site_id="91##/2020/05/28/12/29/45/cartoonnetwork_logo_16_9_light_384x216_c972070f_3676_46e1_8a23_10c826b0b029.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="epg.telemach.si" site_id="930##/2020/11/10/11/47/55/xl_whiteindex.png" xmltv_id="RTL Kockica HD">RTL Kockica HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1121##/2023/02/10/10/17/29/light_480x270.png" xmltv_id="Da Vinci HD (SI)">Da Vinci HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1361##/2023/04/26/12/33/52/light_384x216.png" xmltv_id="Cartoonito">Cartoonito</channel>
-    <channel update="i" site="epg.telemach.si" site_id="95##/2023/08/24/10/04/36/light_480x270.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1364##/2023/04/26/12/39/31/light_288x162.png" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="epg.telemach.si" site_id="96##/2020/06/30/10/34/58/xl_light_480x270.png" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="663##/2020/05/28/12/46/52/natgeohd_logo_16_9_light_384x216_728c0dd2_cf41_43bf_82db_b55765b4ded4.png" xmltv_id="National Geographic HD (SI)">National Geographic HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="776##/2020/05/28/12/32/32/discoveryhd_logo_16_9_light_384x216_ec5d8e4c_3937_41bb_809a_7127272859af.png" xmltv_id="Discovery Channel HD (SR)">Discovery Channel HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="99##/2023/03/30/13/52/24/light_480x270.png" xmltv_id="History HD (SR)">History HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="731##/2022/04/18/15/47/01/light_480x270.png" xmltv_id="Viasat History HD (SR)">Viasat History HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1417##/2023/04/28/07/53/36/light_480x270.png" xmltv_id="Brainz HD">Brainz HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="730##/2022/01/19/11/11/29/xl_light_480x270.png" xmltv_id="Viasat Explore HD (SR)">Viasat Explore HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="101##/2020/05/28/12/43/37/loviribolov_logo_16_9_light_384x216_0be73ccb_add0_46fd_b424_6103a5055a71.png" xmltv_id="Lov i Ribolov (SR)">Lov i Ribolov (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="732##/2022/01/19/11/15/31/xl_light_480x270.png" xmltv_id="Viasat Nature HD (SR)">Viasat Nature HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1123##/2022/02/25/09/35/36/xl_download1.png" xmltv_id="ID (SI)">ID (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="116##/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png" xmltv_id="Crime &amp; Investigation (SR)">Crime &amp; Investigation (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="111##/2022/11/16/11/56/11/xl_light_480x270.png" xmltv_id="Nat Geo Wild HD (SR)">Nat Geo Wild HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="642##/2023/09/18/09/39/39/light_480x270.png" xmltv_id="BBC Earth HD (SI)">BBC Earth HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="17##/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" xmltv_id="Animal Planet HD (SR)">Animal Planet HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="359##/2020/05/28/12/54/56/planetearthhd_logo_16_9_light_384x216_68024d07_a417_480f_aa50_3d1683f4bd21.png" xmltv_id="Planet Earth HD">Planet Earth HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="115##/2023/06/01/11/20/11/light_480x270.png" xmltv_id="History 2 HD">History 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="353##/2022/09/14/14/29/05/light_480x270.png" xmltv_id="24Kitchen HD (SI)">24Kitchen HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="936##/2021/03/30/15/49/49/xl_light_480x270.png" xmltv_id="TLC HD">TLC HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="120##/2020/05/28/12/33/52/e_logo_16_9_light_160x90_ce3c5c00_c592_4cf5_b757_3da6e891ef94.png" xmltv_id="E! Entertainment (SR)">E! Entertainment (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1372##/2023/04/26/12/55/04/light_480x270.png" xmltv_id="FTV HD">FTV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="669##/2020/05/28/12/37/16/ftv4k_logo_16_9_light_288x162_8fed2610_eb67_44a7_a483_e34a96dc4983.png" xmltv_id="FTV 4K">FTV 4K</channel>
-    <channel update="i" site="epg.telemach.si" site_id="774##/2020/05/28/12/40/07/hgtv_logo_16_9_light_160x90_87604951_165b_455c_bf31_fb0f22642886.png" xmltv_id="Home and Garden TV">Home and Garden TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="554##/2023/07/03/08/45/41/light_384x216.png" xmltv_id="Woman HD SI">Woman HD SI</channel>
-    <channel update="i" site="epg.telemach.si" site_id="124##/2023/06/30/16/16/39/light_480x270.png" xmltv_id="Dr.Fit HD">Dr.Fit HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="125##/2020/05/28/13/07/19/travelhd_logo_16_9_light_160x90_980599ee_821f_4941_a59f_d57f6ffcdfec.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1410##/2023/04/28/07/28/13/light_480x270.png" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1374##/2023/04/26/13/01/38/light_480x270.png" xmltv_id="Grand International HD">Grand International HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1375##/2023/04/26/13/03/50/light_480x270.png" xmltv_id="Grand narodna televizija 2 HD">Grand narodna televizija 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1376##/2023/04/26/13/10/36/light_480x270.png" xmltv_id="Grand Nostalgija">Grand Nostalgija</channel>
-    <channel update="i" site="epg.telemach.si" site_id="10##/2020/05/28/12/41/30/idjtvhd_logo_16_9_light_288x162_62943ec9_70b7_429c_967d_ea14e5e622bd.png" xmltv_id="IDJTV HD">IDJTV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1091##/2021/09/15/09/37/02/xl_folx_slovenija_eon_480x270px.png" xmltv_id="Folx Slovenija (SI)">Folx Slovenija (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="202##/2023/06/02/08/23/35/light_480x270.png" xmltv_id="TV Zlati zvoki">TV Zlati zvoki</channel>
-    <channel update="i" site="epg.telemach.si" site_id="321##/2023/07/19/10/07/24/best_tv_dark_480x270.png" xmltv_id="Best TV">Best TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1521##/2023/11/10/10/36/17/light_480x270.png" xmltv_id="Prva TV (SI)">Prva TV (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1092##/2021/09/15/09/41/36/xl_folx_adria_eon_480x270px.png" xmltv_id="Adria (SI)">Adria (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1028##/2021/05/26/14/50/19/xl_cmc_l.png" xmltv_id="CMC HD">CMC HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1093##/2021/09/15/09/41/06/xl_folx_one_adria_eon_480x270px.png" xmltv_id="One Adria (SI)">One Adria (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1365##/2023/04/26/12/40/55/light_480x270.png" xmltv_id="DM Sat">DM Sat</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1420##/2023/04/28/07/59/10/light_480x270.png" xmltv_id="K::CN Music 2">K::CN Music 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="444##/2020/05/28/12/43/03/kcnsvet3_logo_16_9_light_160x90_73338ad3_99db_40bf_95d3_d8e8cd1d3fd1.png" xmltv_id="K::CN Svet +3 (W2)">K::CN Svet +3 (W2)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1421##/2023/04/28/08/00/41/light_480x270.png" xmltv_id="BN Music HD">BN Music HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="664##/2020/05/28/12/45/12/mtv_logo_16_9_light_480x270_9c9d452b_c2bf_43d5_8aeb_f9028d8ff756.png" xmltv_id="MTV (SI)">MTV (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1422##/2023/04/28/08/02/20/light_480x270.png" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1387##/2023/04/26/13/31/12/light_300x168.png" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1423##/2023/04/28/08/04/16/light_480x270.png" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1392##/2023/04/26/13/42/28/light_480x270.png" xmltv_id="Nick Music">Nick Music</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1385##/2023/04/26/13/27/52/light_480x270.png" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1386##/2023/04/26/13/29/31/light_480x270.png" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1383##/2023/04/26/13/24/06/light_480x270.png" xmltv_id="Mezzo Live">Mezzo Live</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1411##/2023/04/28/07/29/49/light_288x162.png" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1380##/2023/04/26/13/18/04/light_480x270.png" xmltv_id="iConcerts HD">iConcerts HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1388##/2023/04/26/13/33/02/light_480x270.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="638##/2020/05/28/13/05/13/festival4k_logo_16_9_light_480x270_87029dff_04a0_403e_80e2_0ed7c354b09e.png" xmltv_id="Stingray Festival 4K">Stingray Festival 4K</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1362##/2023/04/26/12/35/36/light_480x270.png" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="epg.telemach.si" site_id="336##/2023/01/11/14/35/30/light_480x270.png" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1360##/2023/04/26/12/31/29/light_480x270.png" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1424##/2023/04/28/08/05/50/light_480x270.png" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="epg.telemach.si" site_id="301##/2020/05/28/12/31/57/cnbceurope_logo_16_9_light_160x90_ac7abd15_6794_458d_8c98_502eb4106845.png" xmltv_id="CNBC Europe">CNBC Europe</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1369##/2023/04/26/12/49/11/light_480x270.png" xmltv_id="Euronews HD">Euronews HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1517##/2023/11/07/10/10/07/light_480x270.png" xmltv_id="Current Time TV (SI)">Current Time TV (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1371##/2023/04/26/12/53/38/light_384x216.png" xmltv_id="FREEДOM">FREEДOM</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1356##/2023/04/26/10/03/21/light_384x216.png" xmltv_id="1+1 International">1+1 International</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1363##/2023/04/26/12/37/34/light_288x162.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="epg.telemach.si" site_id="316##/2020/05/28/12/37/11/france24_logo_16_9_light_300x168_a1cf8974_60b2_427b_9041_cde831ac0507.png" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1357##/2023/04/26/12/22/56/light_160x90.png" xmltv_id="Al Jazeera Balkans HD">Al Jazeera Balkans HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="314##/2020/05/28/12/30/08/cgtn_logo_16_9_light_480x270_249ed7d7_3f4f_496d_a11a_78eea499c178.png" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="epg.telemach.si" site_id="302##/2021/06/25/12/46/21/xl_light_480x270.png" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="303##/2021/06/25/12/46/54/xl_light_480x270.png" xmltv_id="ORF 2 HD">ORF 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="808##/2020/02/11/14/42/04/pro7_m.png" xmltv_id="Pro7 (SI)">Pro7 (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="307##/2021/06/29/12/57/54/xl_light_480x270.png" xmltv_id="SAT 1">SAT 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="809##/2020/02/11/14/46/53/vox_stb_fhd.png" xmltv_id="VOX (SI)">VOX (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1406##/2023/04/28/07/18/15/light_480x270.png" xmltv_id="RTL (DE)">RTL (DE)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="305##/2021/12/15/17/07/43/xl_light_480x270.png" xmltv_id="RTL 2 (DE)">RTL 2 (DE)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1425##/2023/04/28/08/52/07/light_160x90.png" xmltv_id="Super RTL">Super RTL</channel>
-    <channel update="i" site="epg.telemach.si" site_id="308##/2021/06/25/12/56/43/xl_light_480x270.png" xmltv_id="ZDF HD">ZDF HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="309##/2021/06/25/12/36/57/xl_light_480x270.png" xmltv_id="ARD HD">ARD HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="311##/2021/06/29/12/40/08/xl_light_480x270.png" xmltv_id="Kabel 1">Kabel 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="312##/2021/06/29/12/31/17/xl_light_480x270.png" xmltv_id="3SAT HD">3SAT HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="310##/2020/05/28/12/26/43/arte_logo_16_9_light_480x270_ed8e3e6f_fd19_44d2_a829_be059c2340f6.png" xmltv_id="Arte HD">Arte HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="360##/2023/03/06/15/19/16/light_480x270.png" xmltv_id="Servus TV HD">Servus TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="315##/2022/01/21/15/32/21/xl_light_480x270.png" xmltv_id="France 2 HD">France 2 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1122##/2022/11/25/08/44/16/light_480x270.png" xmltv_id="TV5 Monde HD (SI)">TV5 Monde HD (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1404##/2023/04/28/07/12/30/light_160x90.png" xmltv_id="Rai Uno">Rai Uno</channel>
-    <channel update="i" site="epg.telemach.si" site_id="151##/2020/05/28/12/56/23/raidue_logo_16_9_light_480x270_cf77374b_2923_4eeb_8315_bf9bada9d39e.png" xmltv_id="Rai Due">Rai Due</channel>
-    <channel update="i" site="epg.telemach.si" site_id="781##/2020/05/28/12/44/01/mediasetitalia_logo_16_9_light_300x168_376e2ae7_416a_46ac_b482_f1257df4bb9d.png" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1413##/2023/04/28/07/34/31/light_480x270.png" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="epg.telemach.si" site_id="887##/2020/09/14/12/48/20/xl_duna_world_hd_480x270px.png" xmltv_id="Duna World HD">Duna World HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="815##/2020/05/28/12/39/19/duna_logo_16_9_light_288x162_d182cc58_811f_4780_805e_4d133fe08a8f.png" xmltv_id="Duna HD">Duna HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="811##/2020/05/28/12/39/24/m1_logo_16_9_light_480x270_6b1ea6da_0a5a_42f9_8524_731e83c02d61.png" xmltv_id="HD M1 (SI)">HD M1 (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="812##/2020/05/28/12/39/29/m2_logo_16_9_light_300x168_5f5634fb_b7dc_40ac_9366_82cc3bd5cf8b.png" xmltv_id="HD M2 (SI)">HD M2 (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="814##/2020/05/28/12/39/39/m5_logo_16_9_light_480x270_ebe031a2_847a_4fbe_b756_e11f81ae0d65.png" xmltv_id="HD M5 (SI)">HD M5 (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="300##/2021/06/29/12/46/22/xl_light_480x270.png" xmltv_id="RT Kosovo">RT Kosovo</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1390##/2023/04/26/13/38/27/light_480x270.png" xmltv_id="N1 HD (HR)">N1 HD (HR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="743##/2020/05/28/12/40/22/hrt1hd_logo_16_9_light_300x168_14bc03da_146f_4c9e_8b26_fdb803bdffb8.png" xmltv_id="HRT 1 HD (SR)">HRT 1 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="744##/2020/05/28/12/40/32/hrt2hd_logo_16_9_light_384x216_547598f4_7d51_477f_9696_9797fe08f19b.png" xmltv_id="HRT 2 HD (SR)">HRT 2 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="199##/2020/05/28/12/45/57/n1hd_logo_16_9_light_300x168_5eff2034_6882_492d_b72f_4a8a75753856.png" xmltv_id="N1 HD (BH)/(SR)">N1 HD (BH)/(SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1393##/2023/04/26/13/43/56/light_480x270.png" xmltv_id="Nova BH HD">Nova BH HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1377##/2023/04/26/13/13/20/light_480x270.png" xmltv_id="Hayat Plus">Hayat Plus</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1398##/2023/04/26/14/00/59/light_480x270.png" xmltv_id="OBN">OBN</channel>
-    <channel update="i" site="epg.telemach.si" site_id="34##/2022/11/16/09/49/19/xl_light_480x270.png" xmltv_id="BN Sat HD">BN Sat HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1397##/2023/04/26/13/58/38/light_480x270.png" xmltv_id="O Kanal HD">O Kanal HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1##/2020/05/28/12/46/08/n1hd_logo_16_9_light_480x270_c4b992f9_f8e1_4755_815c_329a1e28651a.png" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="746##/2023/01/04/09/57/17/light_160x90.png" xmltv_id="Nova HR HD">Nova HR HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1426##/2023/04/28/08/53/55/light_480x270.png" xmltv_id="Happy">Happy</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1427##/2023/04/28/08/55/48/light_480x270.png" xmltv_id="K::CN 1">K::CN 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1428##/2023/04/28/08/57/55/light_160x90.png" xmltv_id="B1 HD">B1 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1394##/2023/04/26/13/46/24/light_480x270.png" xmltv_id="Nova M HD">Nova M HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1412##/2023/04/28/07/31/52/light_480x270.png" xmltv_id="TV Vijesti">TV Vijesti</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1405##/2023/04/28/07/15/18/light_384x216.png" xmltv_id="RTCG Sat">RTCG Sat</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1024##/2021/05/26/14/36/16/l.png" xmltv_id="HRT 3 HD (HR)">HRT 3 HD (HR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1025##/2021/05/26/14/41/34/s.png" xmltv_id="HRT 4 HD (HR)">HRT 4 HD (HR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="747##/2022/11/18/09/40/05/xl_light_480x270.png" xmltv_id="RTL HR HD">RTL HR HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="745##/2020/05/28/12/57/38/rtl2hd_logo_16_9_light_300x168_dec1a558_094d_46fb_a15a_4bbfd08fe941.png" xmltv_id="RTL 2 HR HD">RTL 2 HR HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1094##/2022/10/24/10/51/03/light_480x270.png" xmltv_id="RTL Living HD">RTL Living HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1030##/2021/05/26/14/57/04/xl_l.png" xmltv_id="OTV HD">OTV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1045##/2022/04/12/10/26/03/stb_fhd_light_480x270.png" xmltv_id="TV Jadran HD">TV Jadran HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="551##/2020/05/28/12/44/34/mrezatv_logo_16_9_light_288x162_3b51f4fd_1072_4876_b1fe_2dbda17cfecc.png" xmltv_id="Mreza TV">Mreza TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="397##/2021/06/29/12/39/17/xl_light_480x270.png" xmltv_id="Jugoton TV">Jugoton TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="401##/2020/05/28/12/29/40/bujrumtv_logo_16_9_light_384x216_2f6cf418_048c_414a_b8f3_fd0fa1a438da.png" xmltv_id="Bujrum TV ">Bujrum TV </channel>
-    <channel update="i" site="epg.telemach.si" site_id="1429##/2023/04/28/08/59/53/light_480x270.png" xmltv_id="BHT 1">BHT 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1430##/2023/04/28/09/01/54/light_480x270.png" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1399##/2023/04/26/14/02/19/light_480x270.png" xmltv_id="OTV Valentino">OTV Valentino</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1431##/2023/04/28/09/03/50/light_384x216.png" xmltv_id="RTRS">RTRS</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1349##/2023/02/22/14/20/37/light_384x216.png" xmltv_id="LH TV HD">LH TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1432##/2023/10/12/15/05/19/light_300x168.png" xmltv_id="Insajder TV">Insajder TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1381##/2023/04/26/13/20/43/light_384x216.png" xmltv_id="Insta TV">Insta TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="678##/2023/01/04/09/40/08/light_480x270.png" xmltv_id="NOVA S HD (RS)">NOVA S HD (RS)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1433##/2023/04/28/09/06/33/light_480x270.png" xmltv_id="Palma plus">Palma plus</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1358##/2023/04/26/12/25/56/light_480x270.png" xmltv_id="B92 HD">B92 HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1403##/2023/09/11/17/57/44/light_480x270.png" xmltv_id="Prva plus">Prva plus</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1402##/2023/09/11/17/55/43/light_480x270.png" xmltv_id="Prva HD">Prva HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1434##/2023/09/11/17/59/53/light_480x270.png" xmltv_id="Prva World">Prva World</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1435##/2023/09/11/18/02/17/light_480x270.png" xmltv_id="Prva Kick">Prva Kick</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1436##/2023/04/28/09/11/21/light_480x270.png" xmltv_id="RTV 1">RTV 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1437##/2023/04/28/09/12/43/light_480x270.png" xmltv_id="RTV 2">RTV 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1103##/2021/11/09/09/56/05/xl_light_480x270.png" xmltv_id="Kristal TV HD">Kristal TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1438##/2023/04/28/09/14/42/light_384x216.png" xmltv_id="Naša TV (Beograd)">Naša TV (Beograd)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1489##/2023/09/14/10/01/25/tve_light_480x270.png" xmltv_id="TV e (CG)">TV e (CG)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="404##/2020/05/28/12/44/39/mrt1_logo_16_9_light_288x162_a698b306_7462_44d9_9740_b79eebf786cb.png" xmltv_id="MRT 1">MRT 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="405##/2020/05/28/12/44/46/mrt2_logo_16_9_light_384x216_189c364f_51a3_491c_9da3_8f6d4ef9ffe2.png" xmltv_id="MRT 2">MRT 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="406##/2020/05/28/12/45/02/mrtsobraniski_logo_16_9_light_300x168_58151d9a_5066_47b9_aa59_42ecd8a4d159.png" xmltv_id="MRT Sobraniski">MRT Sobraniski</channel>
-    <channel update="i" site="epg.telemach.si" site_id="403##/2020/05/28/12/24/46/alfamk_logo_16_9_light_160x90_11a5ddd8_5c61_4e37_b160_af1beffb1dbf.png" xmltv_id="Alfa (Skoplje)">Alfa (Skoplje)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="407##/2021/06/25/12/36/17/xl_light_480x270.png" xmltv_id="Alsat Macedonia">Alsat Macedonia</channel>
-    <channel update="i" site="epg.telemach.si" site_id="408##/2020/05/28/13/13/18/vizion_logo_16_9_light_300x168_9772e2aa_03f3_4150_a3c8_ef128dbb0d25.png" xmltv_id="Vizion +">Vizion +</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1396##/2023/04/26/13/55/18/light_160x90.png" xmltv_id="Nova Television HD (BG)">Nova Television HD (BG)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1359##/2023/04/26/12/29/07/light_480x270.png" xmltv_id="Balkanika">Balkanika</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1439##/2023/04/28/09/16/57/light_480x270.png" xmltv_id="TV Super Sat">TV Super Sat</channel>
-    <channel update="i" site="epg.telemach.si" site_id="877##/2020/11/05/16/34/32/l_nethd_light_.png" xmltv_id="NET TV HD">NET TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="327##/2020/05/28/13/13/34/vtv_logo_16_9_light_384x216_7b6b9d91_3105_4953_863a_5f1c499136c2.png" xmltv_id="VTV HD">VTV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="329##/2021/06/29/13/04/50/xl_light_480x270.png" xmltv_id="Vaš Kanal">Vaš Kanal</channel>
-    <channel update="i" site="epg.telemach.si" site_id="331##/2020/05/28/13/09/12/tvmaribor_logo_16_9_light_384x216_851b4bf6_47b6_4b3a_a10b_4c0a5ae4de4d.png" xmltv_id="TV Maribor HD">TV Maribor HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="333##/2020/05/28/12/58/50/rtsmaribor_logo_16_9_light_288x162_7bb1c952_1557_45fb_897e_faa0e6f036cc.png" xmltv_id="RTS Maribor">RTS Maribor</channel>
-    <channel update="i" site="epg.telemach.si" site_id="334##/2020/05/28/13/08/45/tvkoper_logo_16_9_light_160x90_d2e34a3d_a336_43e7_bfcc_75a60b9cb9d4.png" xmltv_id="TV Koper HD">TV Koper HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="332##/2020/05/28/13/01/43/siptv_logo_16_9_light_384x216_ae5bea11_ec76_4179_a59f_41755b9e07a3.png" xmltv_id="SIP TV">SIP TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="335##/2020/05/28/12/28/23/bktv_logo_16_9_light_160x90_54c763a6_169d_4ba2_acb0_ddc29bd965c1.png" xmltv_id="BK TV HD">BK TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="632##/2020/05/28/13/09/02/tvljubljana_logo_16_9_light_160x90_83afce6c_0dcb_4601_a166_0d4d02d32669.png" xmltv_id="TV Ljubljana HD">TV Ljubljana HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="383##/2021/12/21/10/59/10/xl_light_480x270.png" xmltv_id="ETV">ETV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="780##/2022/11/25/08/45/57/light_480x270.png" xmltv_id="Medvode TV">Medvode TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1070##/2021/06/01/14/37/17/xl_r_kanal_eon_480x270px.png" xmltv_id="Televizija R Kanal +">Televizija R Kanal +</channel>
-    <channel update="i" site="epg.telemach.si" site_id="379##/2020/05/28/13/11/49/vzivo_logo_16_9_light_288x162_46132c14_dada_45e6_a294_4fad86d417b1.png" xmltv_id="V živo">V živo</channel>
-    <channel update="i" site="epg.telemach.si" site_id="380##/2020/05/28/13/08/19/tvcelje_logo_16_9_light_480x270_e341ee52_79c8_4325_87e0_9d3d55105187.png" xmltv_id="TV Celje">TV Celje</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1090##/2021/09/15/09/42/34/xl_tv_nakupi_eon_480x270px.png" xmltv_id="TV Nakupi (SI)">TV Nakupi (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1290##/2022/10/04/14/54/00/megafon_480x270px.png" xmltv_id="Megafon TV HD">Megafon TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1089##/2021/09/15/09/40/33/xl_vascom_eon_480x270px.png" xmltv_id="Vascom (SI)">Vascom (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="384##/2020/05/28/13/00/52/savinjskatv_logo_16_9_light_160x90_57139a5c_deb4_4e3a_be0f_e157a27dffb6.png" xmltv_id="Savinjska TV">Savinjska TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="385##/2023/03/06/15/17/44/light_480x270.png" xmltv_id="TV Slovenska Bistrica">TV Slovenska Bistrica</channel>
-    <channel update="i" site="epg.telemach.si" site_id="386##/2020/05/28/12/43/15/koroskatv_logo_16_9_light_384x216_f7dced8b_5ae9_4fdb_a3dd_dd0892dbca59.png" xmltv_id="KOR TV - Koroška Regionalna Televizija">KOR TV - Koroška Regionalna Televizija</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1071##/2021/06/01/14/37/42/xl_tv_galeja_eon_480x270px.png" xmltv_id="Galeja TV">Galeja TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="858##/2020/07/07/12/43/15/xl_logo_iroki_na_belo.png" xmltv_id="Miklavž TV">Miklavž TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="388##/2023/03/16/13/37/50/light_288x162.png" xmltv_id="Uršlja TV ">Uršlja TV </channel>
-    <channel update="i" site="epg.telemach.si" site_id="391##/2020/05/28/12/38/00/gtv_logo_16_9_light_384x216_5a06c8a1_7a9a_4cf8_9891_ca82e121f8f0.png" xmltv_id="GTV">GTV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="635##/2022/11/25/08/36/38/light_480x270.png" xmltv_id="ATM Kranjska Gora">ATM Kranjska Gora</channel>
-    <channel update="i" site="epg.telemach.si" site_id="636##/2020/05/28/13/08/05/tvbled_logo_16_9_light_480x270_5ce2f795_28e1_407d_90cc_cf6ca4ec400d.png" xmltv_id="TV Bled">TV Bled</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1499##/2023/10/28/09/59/07/light_480x270.png" xmltv_id="Koroška Televizija Dravograd">Koroška Televizija Dravograd</channel>
-    <channel update="i" site="epg.telemach.si" site_id="881##/2020/09/14/12/44/48/xl_e_posavje_eon_480x270px.png" xmltv_id="ePosavje TV HD">ePosavje TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="681##/2020/05/28/13/07/59/tvbeltinci_logo_16_9_light_480x270_ce53ef5a_58d5_41ba_b1df_2a5bd9f0f6cd.png" xmltv_id="TV Beltinci">TV Beltinci</channel>
-    <channel update="i" site="epg.telemach.si" site_id="686##/2020/05/28/12/49/54/petv_logo_16_9_light_480x270_ff3f474e_fd8d_4362_80a1_c8372b7b61de.png" xmltv_id="PeTV">PeTV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="389##/2020/05/28/13/07/44/tvas_logo_16_9_light_288x162_6e7eaceb_ebb8_4e3d_9edf_cbf2741632fd.png" xmltv_id="TV AS HD">TV AS HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="884##/2020/09/10/13/05/42/xl_idea_tv_eon_480x270px.png" xmltv_id="Idea TV HD">Idea TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="682##/2020/12/12/10/14/07/xl_ktv_ormoz_eon_480x270px.png" xmltv_id="TV Ormož">TV Ormož</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1353##/2023/04/21/10/23/04/xl_light_480x270.png" xmltv_id="TV SRK 11 – Radgona">TV SRK 11 – Radgona</channel>
-    <channel update="i" site="epg.telemach.si" site_id="328##/2021/06/29/12/34/12/xl_light_480x270.png" xmltv_id="Exodus TV">Exodus TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="882##/2020/09/09/08/45/41/xl_paket_posavje_1_eon_480x270px.png" xmltv_id="Posavje Lokalni 1">Posavje Lokalni 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="879##/2020/09/09/08/45/59/xl_paket_posavje_2_eon_480x270px.png" xmltv_id="Posavje Lokalni 2">Posavje Lokalni 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="883##/2020/09/09/08/46/18/xl_paket_posavje_3_eon_480x270px.png" xmltv_id="Posavje Lokalni 3">Posavje Lokalni 3</channel>
-    <channel update="i" site="epg.telemach.si" site_id="880##/2020/09/09/08/46/32/xl_paket_posavje_4_eon_480x270px.png" xmltv_id="Posavje Lokalni 4">Posavje Lokalni 4</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1141##/2022/05/04/14/14/03/light_384x216.png" xmltv_id="TV Krpan HD">TV Krpan HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1440##/2023/04/28/09/18/21/light_480x270.png" xmltv_id="Pink Film">Pink Film</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1441##/2023/04/28/09/20/29/light_480x270.png" xmltv_id="Pink Serije">Pink Serije</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1442##/2023/04/28/09/25/19/light_480x270.png" xmltv_id="Pink Reality">Pink Reality</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1443##/2023/04/28/09/26/37/light_480x270.png" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1444##/2023/04/28/09/27/54/light_480x270.png" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1445##/2023/04/28/09/29/05/light_480x270.png" xmltv_id="Pink Fashion">Pink Fashion</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1446##/2023/04/28/09/30/42/light_480x270.png" xmltv_id="Pink Zabava">Pink Zabava</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1447##/2023/04/28/09/31/55/light_480x270.png" xmltv_id="Pink Show">Pink Show</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1448##/2023/04/28/09/33/16/light_480x270.png" xmltv_id="Pink Music">Pink Music</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1449##/2023/04/28/09/34/25/light_480x270.png" xmltv_id="Pink Music 2">Pink Music 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="361##/2020/05/28/12/51/55/pinkfolk_logo_16_9_light_288x162_b43b6f5a_a60c_48ee_a76e_8a27438d8444.png" xmltv_id="Pink Folk">Pink Folk</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1450##/2023/04/28/09/35/54/light_480x270.png" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1451##/2023/04/28/09/37/05/light_384x216.png" xmltv_id="Pink Hits">Pink Hits</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1452##/2023/04/28/09/38/22/light_480x270.png" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1453##/2023/04/28/09/39/39/light_480x270.png" xmltv_id="Pink n roll">Pink n roll</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1454##/2023/04/28/09/40/44/light_288x162.png" xmltv_id="Pink Koncert">Pink Koncert</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1457##/2023/04/28/09/44/23/light_480x270.png" xmltv_id="City Play">City Play</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1456##/2023/04/28/09/43/12/light_480x270.png" xmltv_id="Bravo Music">Bravo Music</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1455##/2023/04/28/09/41/53/light_480x270.png" xmltv_id="Pink World">Pink World</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1458##/2023/09/01/14/07/20/light_480x270.png" xmltv_id="Zadruga Live 1">Zadruga Live 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1459##/2023/09/01/14/08/22/light_480x270.png" xmltv_id="Zadruga Live 2">Zadruga Live 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1460##/2023/09/01/14/09/24/light_160x90.png" xmltv_id="Zadruga Live 3">Zadruga Live 3</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1461##/2023/09/01/14/10/17/light_288x162.png" xmltv_id="Zadruga Live 4">Zadruga Live 4</channel>
-    <channel update="i" site="epg.telemach.si" site_id="368##/2023/10/05/09/12/29/light_480x270.png" xmltv_id="NET XXL">NET XXL</channel>
-    <channel update="i" site="epg.telemach.si" site_id="374##/2020/05/28/13/01/31/sexationhd_logo_16_9_light_384x216_480f1137_0248_478a_9e8f_0c622e52b0f3.png" xmltv_id="Sexation HD">Sexation HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="369##/2022/11/25/08/38/29/light_480x270.png" xmltv_id="Balkan Erotic HD">Balkan Erotic HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1401##/2023/04/28/07/05/48/light_480x270.png" xmltv_id="Private TV">Private TV</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1378##/2023/04/26/13/15/09/light_480x270.png" xmltv_id="Hustler">Hustler</channel>
-    <channel update="i" site="epg.telemach.si" site_id="876##/2023/04/26/11/23/32/light_480x270.png" xmltv_id="Playhouse HD">Playhouse HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="875##/2023/10/05/09/15/31/light_480x270.png" xmltv_id="RED XXX HD">RED XXX HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1367##/2023/04/26/12/45/24/light_480x270.png" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
-    <channel update="i" site="epg.telemach.si" site_id="373##/2020/05/28/12/40/12/hotpleasure_logo_16_9_light_288x162_ee6cb9df_c74d_4f8f_9530_acd49a208a4b.png" xmltv_id="Hot Pleasure HD">Hot Pleasure HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1368##/2023/04/26/12/47/02/light_384x216.png" xmltv_id="Dusk!">Dusk!</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1400##/2023/04/26/14/04/52/light_480x270.png" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="183##/2022/11/16/11/45/39/xl_light_480x270.png" xmltv_id="Dorcel HD (SR)">Dorcel HD (SR)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="375##/2020/05/28/12/27/45/bangerzhd_logo_16_9_light_384x216_6bfaeaf3_3ff6_4021_8caa_c7a87aad89d0.png" xmltv_id="Bangerz HD">Bangerz HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="376##/2020/05/28/12/48/58/oldtimerhd_logo_16_9_light_384x216_09fca8e0_799a_4f4f_9e13_00fc8fc9b21c.png" xmltv_id="Old Timer HD">Old Timer HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="377##/2020/05/28/12/34/57/fastboyzhd_logo_16_9_light_160x90_13db9fc9_74a7_4c35_8a83_35ff6de69b8b.png" xmltv_id="Fastboyz HD">Fastboyz HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="378##/2020/05/28/13/05/56/taboohd_logo_16_9_light_160x90_05cdf74f_369c_4625_b532_e37c199b23a1.png" xmltv_id="Taboo HD">Taboo HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="1379##/2023/04/26/13/16/38/light_480x270.png" xmltv_id="Hustler HD">Hustler HD</channel>
-    <channel update="i" site="epg.telemach.si" site_id="865##/2020/09/09/08/46/54/xl_paket_primorska_1_eon_480x270px.png" xmltv_id="Primorska 1">Primorska 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="866##/2020/09/09/08/47/11/xl_paket_primorska_2_eon_480x270px.png" xmltv_id="Primorska 2">Primorska 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="867##/2020/09/09/08/47/25/xl_paket_primorska_3_eon_480x270px.png" xmltv_id="Primorska 3">Primorska 3</channel>
-    <channel update="i" site="epg.telemach.si" site_id="868##/2020/09/09/08/47/43/xl_paket_primorska_4_eon_480x270px.png" xmltv_id="Primorska 4">Primorska 4</channel>
-    <channel update="i" site="epg.telemach.si" site_id="869##/2020/09/09/08/47/59/xl_paket_primorska_5_eon_480x270px.png" xmltv_id="Primorska 5">Primorska 5</channel>
-    <channel update="i" site="epg.telemach.si" site_id="859##/2020/09/09/08/48/15/xl_paket_primorska_6_eon_480x270px.png" xmltv_id="Primorska 6">Primorska 6</channel>
-    <channel update="i" site="epg.telemach.si" site_id="860##/2020/09/09/08/48/39/xl_paket_primorska_7_eon_480x270px.png" xmltv_id="Primorska 7">Primorska 7</channel>
-    <channel update="i" site="epg.telemach.si" site_id="861##/2020/09/09/08/48/55/xl_paket_primorska_8_eon_480x270px.png" xmltv_id="Primorska 8">Primorska 8</channel>
-    <channel update="i" site="epg.telemach.si" site_id="862##/2020/09/09/08/49/10/xl_paket_primorska_9_eon_480x270px.png" xmltv_id="Primorska 9">Primorska 9</channel>
-    <channel update="i" site="epg.telemach.si" site_id="864##/2020/09/08/13/46/56/xl_paket_primorska_10_480x270px.png" xmltv_id="Primorska 10">Primorska 10</channel>
-    <channel update="i" site="epg.telemach.si" site_id="863##/2020/09/09/08/49/24/xl_paket_primorska_11_eon_480x270px.png" xmltv_id="Primorska 11">Primorska 11</channel>
-    <channel update="i" site="epg.telemach.si" site_id="330##/2020/05/28/13/06/24/telemachinfo_logo_16_9_light_480x270_a32b8111_4559_497f_bd43_a3fbafad4750.png" xmltv_id="Telemach Info kanal (SI)">Telemach Info kanal (SI)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="261##/2020/05/28/13/44/01/country_logo_16_9_light_480x270_0781fe09_51fd_4afa_a079_0a298d5c1cec.png" xmltv_id="Stingray Music Country">Stingray Music Country</channel>
-    <channel update="i" site="epg.telemach.si" site_id="262##/2021/10/05/12/12/08/xl_light_480x270.png" xmltv_id="Stingray Music Greek Music">Stingray Music Greek Music</channel>
-    <channel update="i" site="epg.telemach.si" site_id="224##/2020/05/28/13/45/51/totalhitsbalkan_logo_16_9_light_384x216_8a1028f7_7076_40e2_8d54_b1c795d8d63e.png" xmltv_id="Stingray Music Total Hits Balkan">Stingray Music Total Hits Balkan</channel>
-    <channel update="i" site="epg.telemach.si" site_id="252##/2020/05/28/13/45/46/thespa_logo_16_9_light_160x90_24cfa8e4_9898_4382_bc3a_434c64edd8b5.png" xmltv_id="Stingray Music The Spa">Stingray Music The Spa</channel>
-    <channel update="i" site="epg.telemach.si" site_id="264##/2020/05/28/13/46/12/worldcarnival_logo_16_9_light_384x216_292d4f20_463d_4faa_9402_18dce5ea3bdd.png" xmltv_id="Stingray Music World Carnival">Stingray Music World Carnival</channel>
-    <channel update="i" site="epg.telemach.si" site_id="260##/2020/05/28/13/43/26/chansons_logo_16_9_light_480x270_49130154_b1f1_4071_b31c_0bb204b8b3ba.png" xmltv_id="Stingray Music Chansons">Stingray Music Chansons</channel>
-    <channel update="i" site="epg.telemach.si" site_id="236##/2020/05/28/13/44/23/freedom_logo_16_9_light_480x270_b2b79b17_6829_45ce_bf08_0826e2d69e35.png" xmltv_id="Stingray Music Freedom">Stingray Music Freedom</channel>
-    <channel update="i" site="epg.telemach.si" site_id="223##/2020/05/28/13/43/16/balkanretro_logo_16_9_light_384x216_e5f2fd0b_eb77_4fd8_9421_fa8ecda51425.png" xmltv_id="Stingray Music Balkan Retro Hits">Stingray Music Balkan Retro Hits</channel>
-    <channel update="i" site="epg.telemach.si" site_id="259##/2021/11/01/23/37/43/xl_light_480x270.png" xmltv_id="Stingray Music Specials">Stingray Music Specials</channel>
-    <channel update="i" site="epg.telemach.si" site_id="237##/2020/05/28/13/45/37/silklovesongs_logo_16_9_light_288x162_7cff1dd2_d5e2_4232_8d2e_6842bee6c95b.png" xmltv_id="Stingray Music Silk (Love Songs)">Stingray Music Silk (Love Songs)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="225##/2020/05/28/13/43/11/balkanmusic_logo_16_9_light_288x162_a8eb7bd8_97ef_45b6_bf35_cbd0d69d434e.png" xmltv_id="Stingray Music Balkan Music / Gipsy">Stingray Music Balkan Music / Gipsy</channel>
-    <channel update="i" site="epg.telemach.si" site_id="238##/2020/05/28/13/45/56/totalhitsuk_logo_16_9_light_384x216_641ac527_6371_4f8c_8768_e664b6709b8a.png" xmltv_id="Stingray Music Total Hits UK">Stingray Music Total Hits UK</channel>
-    <channel update="i" site="epg.telemach.si" site_id="239##/2020/05/28/13/43/21/bassbreaksbeats_logo_16_9_light_288x162_d5408a40_800a_43fa_8cab_5ff5894f16a0.png" xmltv_id="Stingray Music Bass Breaks and Beats">Stingray Music Bass Breaks and Beats</channel>
-    <channel update="i" site="epg.telemach.si" site_id="240##/2020/05/28/13/43/30/chillout_logo_16_9_light_288x162_b2194cf9_565f_40cb_94ff_bcef5c4a587c.png" xmltv_id="Stingray Music Chillout">Stingray Music Chillout</channel>
-    <channel update="i" site="epg.telemach.si" site_id="242##/2020/05/28/13/44/06/dancefloor_logo_16_9_light_300x168_cac1304c_87d3_4456_944b_2540af56521b.png" xmltv_id="Stingray Music Dancefloor Fillers">Stingray Music Dancefloor Fillers</channel>
-    <channel update="i" site="epg.telemach.si" site_id="263##/2020/05/28/13/46/02/turkmuzigi_logo_16_9_light_480x270_bfbddf13_f02c_488c_ba14_fad524d33723.png" xmltv_id="Stingray Music Türk Müzigi">Stingray Music Türk Müzigi</channel>
-    <channel update="i" site="epg.telemach.si" site_id="234##/2020/05/28/13/43/00/alldayparty_logo_16_9_light_300x168_b0dd4e4d_42c4_44ed_9003_ba65ed090458.png" xmltv_id="Stingray Music All Day Party">Stingray Music All Day Party</channel>
-    <channel update="i" site="epg.telemach.si" site_id="235##/2020/05/28/13/44/17/drive_logo_16_9_light_480x270_6efe595e_71ea_4acd_9e1e_43c98dbe244a.png" xmltv_id="Stingray Music Drive">Stingray Music Drive</channel>
-    <channel update="i" site="epg.telemach.si" site_id="230##/2020/05/28/13/42/40/2000s_logo_16_9_light_300x168_51f465dc_b901_42e7_aecf_b027bb5c68e3.png" xmltv_id="Stingray Music 2000s">Stingray Music 2000s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="246##/2020/05/28/13/44/37/headbangers_logo_16_9_light_480x270_b82f368b_7201_4124_a9c0_626347dc1caa.png" xmltv_id="Stingray Music Headbangers">Stingray Music Headbangers</channel>
-    <channel update="i" site="epg.telemach.si" site_id="248##/2021/11/01/23/40/37/xl_light_480x270.png" xmltv_id="Stingray Music Alternative">Stingray Music Alternative</channel>
-    <channel update="i" site="epg.telemach.si" site_id="245##/2020/05/28/13/45/28/rockofages_logo_16_9_light_288x162_b71fb20c_f9fe_4c8c_8270_05757a499288.png" xmltv_id="Stingray Music Rock of Ages">Stingray Music Rock of Ages</channel>
-    <channel update="i" site="epg.telemach.si" site_id="226##/2020/05/28/13/42/46/60s_logo_16_9_light_384x216_dc139225_eec4_4d09_b429_8fef5e8fb38c.png" xmltv_id="Stingray Music 60s">Stingray Music 60s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="247##/2020/05/28/13/45/22/rockanthems_logo_16_9_light_288x162_f847d4e1_9dd0_4b47_8859_3bdd0498fc07.png" xmltv_id="Stingray Music Rock Anthems">Stingray Music Rock Anthems</channel>
-    <channel update="i" site="epg.telemach.si" site_id="241##/2020/05/28/13/43/35/classicrnbsoul_logo_16_9_light_384x216_7746a235_d4a2_4f89_9ced_f4634b0b95b3.png" xmltv_id="Stingray Music Classic R'n'B and Soul">Stingray Music Classic R'n'B and Soul</channel>
-    <channel update="i" site="epg.telemach.si" site_id="244##/2020/05/28/13/44/41/hiphop_logo_16_9_light_300x168_e2af4a65_0d59_4694_aca1_c3517d407b85.png" xmltv_id="Stingray Music Hip Hop">Stingray Music Hip Hop</channel>
-    <channel update="i" site="epg.telemach.si" site_id="253##/2020/05/28/13/44/47/jammin_logo_16_9_light_480x270_b3c89328_ca8a_4f25_a12d_7123176a6edb.png" xmltv_id="Stingray Music Jammin'">Stingray Music Jammin'</channel>
-    <channel update="i" site="epg.telemach.si" site_id="255##/2020/05/28/13/44/12/deepblues_logo_16_9_light_300x168_0ff4deff_db7c_4b8f_830f_8a0eae309e60.png" xmltv_id="Stingray Music Deep Blues">Stingray Music Deep Blues</channel>
-    <channel update="i" site="epg.telemach.si" site_id="249##/2021/11/01/23/43/09/xl_light_480x270.png" xmltv_id="Stingray Music Hip-Hop/R&amp;B UK">Stingray Music Hip-Hop/R&amp;B UK</channel>
-    <channel update="i" site="epg.telemach.si" site_id="243##/2020/05/28/13/44/32/groovediscofunk_logo_16_9_light_384x216_14b9f9a6_2bb1_4626_84bf_252efa413643.png" xmltv_id="Stingray Music Groove (Disco &amp; Funk)">Stingray Music Groove (Disco &amp; Funk)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="256##/2020/05/28/13/43/41/classicalcalm_logo_16_9_light_160x90_98a5e8dc_4556_4722_97ff_11a57cd31b13.png" xmltv_id="Stingray Music Classical Calm">Stingray Music Classical Calm</channel>
-    <channel update="i" site="epg.telemach.si" site_id="257##/2020/05/28/13/43/47/classicalgreats_logo_16_9_light_160x90_3bfeae87_ac27_49c0_a8da_82846433ede4.png" xmltv_id="Stingray Music Classical Greats">Stingray Music Classical Greats</channel>
-    <channel update="i" site="epg.telemach.si" site_id="258##/2020/05/28/13/45/03/lavitaebella_logo_16_9_light_480x270_24574410_d714_4d26_8b19_0fcb9ce770e0.png" xmltv_id="Stingray Music La Vita e Bella">Stingray Music La Vita e Bella</channel>
-    <channel update="i" site="epg.telemach.si" site_id="250##/2020/05/28/13/43/56/cooljazz_logo_16_9_light_480x270_9c4b279d_8aa5_40b5_8fbb_04d29a7e234d.png" xmltv_id="Stingray Music Cool Jazz">Stingray Music Cool Jazz</channel>
-    <channel update="i" site="epg.telemach.si" site_id="251##/2020/05/28/13/44/57/jazzclassics_logo_16_9_light_300x168_5b935361_2164_4369_82f2_42453feb6c4e.png" xmltv_id="Stingray Music Jazz Classics">Stingray Music Jazz Classics</channel>
-    <channel update="i" site="epg.telemach.si" site_id="254##/2020/05/28/13/43/52/cocktaillounge_logo_16_9_light_288x162_2d71c6fe_8dc4_4c66_92b6_b187229600d1.png" xmltv_id="Stingray Music Cocktail Lounge">Stingray Music Cocktail Lounge</channel>
-    <channel update="i" site="epg.telemach.si" site_id="227##/2020/05/28/13/45/42/soho70s_logo_16_9_light_288x162_c42de2b3_f37e_4b38_a847_84880902a7da.png" xmltv_id="Stingray Music Soho '70s">Stingray Music Soho '70s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="228##/2020/05/28/13/42/51/80s_logo_16_9_light_480x270_b233f495_0793_4259_afe6_247feb4aa213.png" xmltv_id="Stingray Music 80s">Stingray Music 80s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="229##/2020/05/28/13/42/55/90s_logo_16_9_light_160x90_3f9f2356_996f_4882_bc8c_de32192ec5bd.png" xmltv_id="Stingray Music 90s">Stingray Music 90s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="231##/2020/05/28/13/45/07/revival60s70s_logo_16_9_light_384x216_045e2c63_8d74_42e7_ac81_10de2127732c.png" xmltv_id="Stingray Music Revival 60s-70s ">Stingray Music Revival 60s-70s </channel>
-    <channel update="i" site="epg.telemach.si" site_id="232##/2020/05/28/13/45/12/rewind80s90s_logo_16_9_light_384x216_e6e2cfbc_483d_49ee_8f40_82d2032966bd.png" xmltv_id="Stingray Music Rewind 80s-90s">Stingray Music Rewind 80s-90s</channel>
-    <channel update="i" site="epg.telemach.si" site_id="233##/2020/05/28/13/45/32/rocknroll_logo_16_9_light_480x270_dbf5c1c2_f2b5_42cd_9f75_a2470a76f8a4.png" xmltv_id="Stingray Music Rock'n'Roll">Stingray Music Rock'n'Roll</channel>
-    <channel update="i" site="epg.telemach.si" site_id="417##/2020/05/28/13/40/36/prvi_logo_16_9_light_384x216_9297adfc_b1ee_42ee_b87a_61a4867832cc.png" xmltv_id="Radio Slovenija 1 - PRVI">Radio Slovenija 1 - PRVI</channel>
-    <channel update="i" site="epg.telemach.si" site_id="418##/2020/05/28/13/40/40/val202_logo_16_9_light_480x270_3c15d5ac_cb64_43cd_add9_0d3de2ce66db.png" xmltv_id="Radio Slovenija 2 - VAL 202">Radio Slovenija 2 - VAL 202</channel>
-    <channel update="i" site="epg.telemach.si" site_id="419##/2020/05/28/13/40/47/ars_logo_16_9_light_384x216_e71f18b3_1286_4b67_aed6_c38408f7b1f1.png" xmltv_id="Radio Slovenija 3 - ARS">Radio Slovenija 3 - ARS</channel>
-    <channel update="i" site="epg.telemach.si" site_id="420##/2020/05/28/13/40/26/radiosi_logo_16_9_light_480x270_aab27519_5c5c_460b_a324_9f210712e9bc.png" xmltv_id="Radio SI">Radio SI</channel>
-    <channel update="i" site="epg.telemach.si" site_id="421##/2020/05/28/13/34/31/radiocapodistr_logo_16_9_light_288x162_b028e81e_fde5_4ab8_8dd4_f54aca86d37c.png" xmltv_id="Radio Capodistria">Radio Capodistria</channel>
-    <channel update="i" site="epg.telemach.si" site_id="424##/2020/05/28/13/36/32/radiokoper_logo_16_9_light_288x162_075399a0_9e87_470f_8621_579be9cda6ac.png" xmltv_id="Radio Koper">Radio Koper</channel>
-    <channel update="i" site="epg.telemach.si" site_id="425##/2020/05/28/13/37/27/radiommr_logo_16_9_light_300x168_c9ad9aa8_4888_4d6e_a9dd_736586df0e10.png" xmltv_id="Radio MMR">Radio MMR</channel>
-    <channel update="i" site="epg.telemach.si" site_id="426##/2020/05/28/13/36/46/radiomaribor_logo_16_9_light_288x162_936d36e8_238b_4197_85f8_d58fdd65918d.png" xmltv_id="Radio Maribor">Radio Maribor</channel>
-    <channel update="i" site="epg.telemach.si" site_id="578##/2023/03/14/12/39/05/light_480x270.png" xmltv_id="Radio Aktual">Radio Aktual</channel>
-    <channel update="i" site="epg.telemach.si" site_id="592##/2023/03/14/12/40/47/light_480x270.png" xmltv_id="Radio Aktual Kum">Radio Aktual Kum</channel>
-    <channel update="i" site="epg.telemach.si" site_id="593##/2022/11/18/10/04/34/light_480x270.png" xmltv_id="Best FM">Best FM</channel>
-    <channel update="i" site="epg.telemach.si" site_id="206##/2020/05/28/13/32/32/radio1_logo_16_9_light_300x168_fa44ca59_a137_4786_87c8_99f5831a8ab7.png" xmltv_id="Radio 1">Radio 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="630##/2020/05/28/13/32/40/radio1koper_logo_16_9_light_480x270_ba39843e_fc0e_4141_9d91_a6a133bf2ad2.png" xmltv_id="Radio 1 Koper">Radio 1 Koper</channel>
-    <channel update="i" site="epg.telemach.si" site_id="631##/2020/05/28/13/32/46/radio1maribor_logo_16_9_light_384x216_010bcd22_b661_4011_b1e7_accfd3715256.png" xmltv_id="Radio 1 Maribor">Radio 1 Maribor</channel>
-    <channel update="i" site="epg.telemach.si" site_id="423##/2020/05/28/13/34/47/radiocenter_logo_16_9_light_480x270_4c480e16_f556_40c8_8baa_e851400a0f72.png" xmltv_id="Radio Center">Radio Center</channel>
-    <channel update="i" site="epg.telemach.si" site_id="602##/2020/05/28/13/34/52/centerkoper_logo_16_9_light_480x270_14044aa7_2921_46ab_a649_c0a36dbfd7c9.png" xmltv_id="Radio Center Koper">Radio Center Koper</channel>
-    <channel update="i" site="epg.telemach.si" site_id="603##/2020/05/28/13/34/59/centermaribor_logo_16_9_light_300x168_65cf5276_0f76_4032_9a34_46a4ed5f1d26.png" xmltv_id="Radio Center Maribor">Radio Center Maribor</channel>
-    <channel update="i" site="epg.telemach.si" site_id="415##/2020/05/28/13/35/11/radiocity_logo_16_9_light_300x168_fd3803ca_8f91_4be5_a699_8b9a31e6fdd0.png" xmltv_id="Radio City">Radio City</channel>
-    <channel update="i" site="epg.telemach.si" site_id="650##/2020/05/28/13/39/27/radiorock_logo_16_9_light_480x270_99ddc8d5_bddb_4c55_aecb_217a17e8a1e8.png" xmltv_id="Radio Rock (Ljubljana)">Radio Rock (Ljubljana)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="422##/2020/05/28/13/33/26/radioantena_logo_16_9_light_384x216_c8752f34_a534_46de_ab40_ce36dbdeb4ec.png" xmltv_id="Radio Antena (Ljubljana)">Radio Antena (Ljubljana)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="427##/2020/05/28/13/38/20/ognjisce_logo_16_9_light_480x270_4a8a3aff_e5b6_4031_b2b1_8170c2e50e5a.png" xmltv_id="Radio Ognjišče">Radio Ognjišče</channel>
-    <channel update="i" site="epg.telemach.si" site_id="579##/2023/01/13/09/00/11/light_480x270.png" xmltv_id="Radio Veseljak">Radio Veseljak</channel>
-    <channel update="i" site="epg.telemach.si" site_id="588##/2020/05/28/13/32/53/radio2_logo_16_9_light_384x216_0726beeb_2a63_4969_a10b_0738fea3dbfc.png" xmltv_id="Radio 2">Radio 2</channel>
-    <channel update="i" site="epg.telemach.si" site_id="591##/2020/05/28/13/34/13/radiobob_logo_16_9_light_160x90_aa624434_fbb0_4310_9e4c_eb6513b72ba3.png" xmltv_id="Radio BOB">Radio BOB</channel>
-    <channel update="i" site="epg.telemach.si" site_id="598##/2020/12/08/10/32/26/xl_radio_pohorje_eon_480x270px.png" xmltv_id="Radio Pohorje">Radio Pohorje</channel>
-    <channel update="i" site="epg.telemach.si" site_id="633##/2023/01/03/10/21/47/light_480x270.png" xmltv_id="Radio Capris">Radio Capris</channel>
-    <channel update="i" site="epg.telemach.si" site_id="601##/2020/05/28/13/34/41/radiocelje_logo_16_9_light_160x90_12fb76f8_f15e_4c45_b119_e9018f90c3ca.png" xmltv_id="Radio Celje">Radio Celje</channel>
-    <channel update="i" site="epg.telemach.si" site_id="604##/2020/05/28/13/35/26/radioekspres_logo_16_9_light_288x162_1e2f3db0_3717_4257_bb75_b35ed056544b.png" xmltv_id="Radio Ekspres">Radio Ekspres</channel>
-    <channel update="i" site="epg.telemach.si" site_id="594##/2023/01/13/08/43/25/light_480x270.png" xmltv_id="Radio Fantasy">Radio Fantasy</channel>
-    <channel update="i" site="epg.telemach.si" site_id="605##/2023/01/13/08/45/34/light_480x270.png" xmltv_id="Radio Gorenc">Radio Gorenc</channel>
-    <channel update="i" site="epg.telemach.si" site_id="618##/2020/05/28/13/35/48/radiohit_logo_16_9_light_288x162_ae5f6974_9f7c_48c9_a50d_4eb4c10a50ca.png" xmltv_id="Radio HIT Domžale">Radio HIT Domžale</channel>
-    <channel update="i" site="epg.telemach.si" site_id="619##/2020/05/28/13/36/37/radiokranj_logo_16_9_light_480x270_e1983849_f5ba_4a2b_bfa7_d77eb83cad83.png" xmltv_id="Radio Kranj">Radio Kranj</channel>
-    <channel update="i" site="epg.telemach.si" site_id="620##/2020/05/28/13/31/58/koroskiradio_logo_16_9_light_288x162_cf6c62eb_4397_43f8_adc8_19ec67e1e68e.png" xmltv_id="Koroški radio">Koroški radio</channel>
-    <channel update="i" site="epg.telemach.si" site_id="621##/2020/05/28/13/36/59/radiomars_logo_16_9_light_480x270_fbc3f91d_7f01_4ef7_bb31_6e093a325814.png" xmltv_id="Radio Marš">Radio Marš</channel>
-    <channel update="i" site="epg.telemach.si" site_id="622##/2020/05/28/13/37/04/radiomaxi_logo_16_9_light_480x270_a648ea1e_d00a_4128_9404_3454007c5064.png" xmltv_id="Radio Maxi">Radio Maxi</channel>
-    <channel update="i" site="epg.telemach.si" site_id="623##/2023/01/13/08/38/42/light_300x168.png" xmltv_id="Moj Radio">Moj Radio</channel>
-    <channel update="i" site="epg.telemach.si" site_id="624##/2023/01/13/08/50/11/light_480x270.png" xmltv_id="Radio Murski Val">Radio Murski Val</channel>
-    <channel update="i" site="epg.telemach.si" site_id="625##/2020/05/28/13/37/53/radionet_logo_16_9_light_160x90_8dc8360c_fe0a_4e2b_a2a1_aa5ba7b40924.png" xmltv_id="Radio NET">Radio NET</channel>
-    <channel update="i" site="epg.telemach.si" site_id="599##/2020/05/28/13/39/00/radioprlek_logo_16_9_light_288x162_9ca509a1_9357_40f4_8cbe_f37bc661d971.png" xmltv_id="Radio Prlek">Radio Prlek</channel>
-    <channel update="i" site="epg.telemach.si" site_id="617##/2023/01/13/08/53/20/light_384x216.png" xmltv_id="Radio Ptuj">Radio Ptuj</channel>
-    <channel update="i" site="epg.telemach.si" site_id="600##/2020/05/28/13/42/30/rockmaribor_logo_16_9_light_384x216_f15a6dfa_4f59_4a71_85d0_8462daba88df.png" xmltv_id="Rock Maribor">Rock Maribor</channel>
-    <channel update="i" site="epg.telemach.si" site_id="616##/2020/05/28/13/39/31/radiorogla_logo_16_9_light_480x270_692cb9df_46ef_4cdf_8515_3b004b0bdd4a.png" xmltv_id="Radio Rogla">Radio Rogla</channel>
-    <channel update="i" site="epg.telemach.si" site_id="595##/2023/01/13/08/56/19/light_160x90.png" xmltv_id="Radio S">Radio S</channel>
-    <channel update="i" site="epg.telemach.si" site_id="615##/2020/05/28/13/40/19/radiosalomon_logo_16_9_light_288x162_ae54f4fe_ff1e_42c7_aa1f_a48ededb8b1b.png" xmltv_id="Radio Salomon">Radio Salomon</channel>
-    <channel update="i" site="epg.telemach.si" site_id="614##/2020/05/28/13/40/30/radioslogorice_logo_16_9_light_300x168_0a7038c9_5745_4820_853f_0a1eaef7276c.png" xmltv_id="Radio Slo Gorice">Radio Slo Gorice</channel>
-    <channel update="i" site="epg.telemach.si" site_id="613##/2020/05/28/13/40/53/radiosora_logo_16_9_light_480x270_711ba2e5_a2e5_44ae_9d37_3975af236d0d.png" xmltv_id="Radio Sora">Radio Sora</channel>
-    <channel update="i" site="epg.telemach.si" site_id="597##/2020/05/28/13/41/04/radiosraka_logo_16_9_light_288x162_ec5a1350_157e_4ccf_b126_3fab0938f621.png" xmltv_id="Radio Sraka">Radio Sraka</channel>
-    <channel update="i" site="epg.telemach.si" site_id="610##/2020/05/28/13/41/31/stajerskival_logo_16_9_light_288x162_54df2fa1_ce3a_4cf7_b9f9_f599a06a116c.png" xmltv_id="Radio Štajerski Val">Radio Štajerski Val</channel>
-    <channel update="i" site="epg.telemach.si" site_id="609##/2020/05/28/13/41/37/radiostudent_logo_16_9_light_480x270_a1a24085_b1fc_45e9_86b9_4452f0755b18.png" xmltv_id="Radio Študent">Radio Študent</channel>
-    <channel update="i" site="epg.telemach.si" site_id="634##/2023/01/13/08/36/02/light_480x270.png" xmltv_id="Radio Mister DJ">Radio Mister DJ</channel>
-    <channel update="i" site="epg.telemach.si" site_id="608##/2020/05/28/13/41/56/radiotriglav_logo_16_9_light_480x270_8707f382_12c9_4dad_859b_5fb10a4fa7a5.png" xmltv_id="Radio Triglav">Radio Triglav</channel>
-    <channel update="i" site="epg.telemach.si" site_id="607##/2020/05/28/13/42/03/radiovelenje_logo_16_9_light_480x270_a78be77a_e890_4fd6_9a20_ee61febae80b.png" xmltv_id="Radio Velenje">Radio Velenje</channel>
-    <channel update="i" site="epg.telemach.si" site_id="606##/2020/05/28/13/42/15/radiozelenival_logo_16_9_light_300x168_31b9997e_9b33_48b3_8200_11662cef95fb.png" xmltv_id="Radio Zeleni Val">Radio Zeleni Val</channel>
-    <channel update="i" site="epg.telemach.si" site_id="428##/2022/11/16/10/49/04/xl_light_480x270.png" xmltv_id="Radio HRT 1 (W2)">Radio HRT 1 (W2)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="429##/2022/11/16/10/50/47/xl_light_480x270.png" xmltv_id="Radio HRT 2 (W2)">Radio HRT 2 (W2)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="430##/2022/11/16/10/51/54/xl_light_480x270.png" xmltv_id="Radio HRT 3 (W2)">Radio HRT 3 (W2)</channel>
-    <channel update="i" site="epg.telemach.si" site_id="431##/2023/03/13/15/28/24/light_480x270.png" xmltv_id="bravo!">bravo!</channel>
-    <channel update="i" site="epg.telemach.si" site_id="432##/2020/05/28/13/37/10/radiomir_logo_16_9_light_300x168_44f3f392_8a28_438c_9ef8_d43c36b5eff1.png" xmltv_id="Radio Mir">Radio Mir</channel>
-    <channel update="i" site="epg.telemach.si" site_id="433##/2020/05/28/13/36/53/radiomarija_logo_16_9_light_300x168_e52fce04_9c2a_4dca_aa8f_27f8674bca32.png" xmltv_id="Radio Marija">Radio Marija</channel>
-    <channel update="i" site="epg.telemach.si" site_id="438##/2023/01/13/08/41/08/light_480x270.png" xmltv_id="Radio ORF 1">Radio ORF 1</channel>
-    <channel update="i" site="epg.telemach.si" site_id="439##/2023/03/13/15/33/58/light_480x270.png" xmltv_id="Radio Kärnten">Radio Kärnten</channel>
-    <channel update="i" site="epg.telemach.si" site_id="440##/2020/05/28/13/38/38/radioorf3_logo_16_9_light_384x216_205d1e48_8b41_4054_a071_97e181276cf1.png" xmltv_id="Radio ORF 3">Radio ORF 3</channel>
-    <channel update="i" site="epg.telemach.si" site_id="612##/2020/05/28/13/41/13/radiosteiermark_logo_16_9_light_288x162_06376c07_e1c7_4c1e_8d97_2564ebeafc2e.png" xmltv_id="Radio Steiermark">Radio Steiermark</channel>
-    <channel update="i" site="epg.telemach.si" site_id="611##/2020/05/28/13/41/26/radioswr3_logo_16_9_light_480x270_c214b858_c210_425b_aebe_ee0f1d0f8864.png" xmltv_id="Radio SWR3">Radio SWR3</channel>
-    <channel update="i" site="epg.telemach.si" site_id="596##/2023/03/13/15/37/18/light_480x270.png" xmltv_id="Radio FM 4">Radio FM 4</channel>
-    <channel update="i" site="epg.telemach.si" site_id="416##/2023/03/13/15/40/57/light_384x216.png" xmltv_id="Deutschlandfunk Nova">Deutschlandfunk Nova</channel>
-    <channel update="i" site="epg.telemach.si" site_id="434##/2020/05/28/13/46/21/xfm_logo_16_9_light_480x270_b5104a4c_6915_4163_8923_44fdbe1143b1.png" xmltv_id="XFM">XFM</channel>
-    <channel update="i" site="epg.telemach.si" site_id="435##/2023/01/13/08/33/22/light_480x270.png" xmltv_id="Capital">Capital</channel>
-    <channel update="i" site="epg.telemach.si" site_id="436##/2023/01/13/08/29/19/light_288x162.png" xmltv_id="Capital Gold">Capital Gold</channel>
-    <channel update="i" site="epg.telemach.si" site_id="437##/2020/05/28/13/32/22/planetrock_logo_16_9_light_480x270_c417f7eb_c567_4569_800c_d82cbde05b39.png" xmltv_id="Planet Rock">Planet Rock</channel>
+    <channel update="i" site="epg.telemach.si" site_id="1356##/2023/04/26/10/03/21/light_480x270.png" xmltv_id="1+1 International">1+1 International</channel>
+<channel update="i" site="epg.telemach.si" site_id="672##/2023/10/26/15/02/27/light_300x168.png" xmltv_id="2.Nova24 TV HD">2.Nova24 TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="353##/2022/09/14/14/29/05/light_300x168.png" xmltv_id="24Kitchen HD (SI)">24Kitchen HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="312##/2021/06/29/12/31/18/stb_fhd_light_480x270.png" xmltv_id="3SAT HD">3SAT HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="282##/2020/05/28/12/25/04/amc_logo_16_9_light_160x90_0aae4af3_9288_4b15_9543_2a3810d81be2.png" xmltv_id="AMC HD (SI)">AMC HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="309##/2021/06/25/12/36/58/stb_fhd_light_480x270.png" xmltv_id="ARD HD">ARD HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="635##/2022/11/25/08/36/38/light_300x168.png" xmltv_id="ATM Kranjska Gora">ATM Kranjska Gora</channel>
+<channel update="i" site="epg.telemach.si" site_id="1092##/2021/09/15/09/41/37/stb_fhd_folx_adria_eon_480x270px.png" xmltv_id="Adria (SI)">Adria (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="323##/2023/03/13/09/11/45/light_300x168.png" xmltv_id="Aktual TV HD">Aktual TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1357##/2023/04/26/12/22/56/light_288x162.png" xmltv_id="Al Jazeera Balkans HD">Al Jazeera Balkans HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="403##/2020/05/28/12/24/46/alfamk_logo_16_9_light_300x168_8688c50b_667c_47e3_8015_b61f90c60e00.png" xmltv_id="Alfa (Skoplje)">Alfa (Skoplje)</channel>
+<channel update="i" site="epg.telemach.si" site_id="407##/2021/06/25/12/36/18/stb_fhd_light_480x270.png" xmltv_id="Alsat Macedonia">Alsat Macedonia</channel>
+<channel update="i" site="epg.telemach.si" site_id="17##/2020/05/28/12/25/19/animalplanethd_logo_16_9_light_160x90_5125c045_c375_4a6b_9027_ead21c3852e7.png" xmltv_id="Animal Planet HD (SR)">Animal Planet HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="886##/2021/06/29/12/32/34/stb_fhd_light_480x270.png" xmltv_id="Arena TV HD">Arena TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="310##/2020/05/28/12/26/44/arte_logo_16_9_light_384x216_01bf66bd_df7b_40b6_b9c4_918f0d388d51.png" xmltv_id="Arte HD">Arte HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1157##/2022/07/04/10/26/46/light_300x168.png" xmltv_id="Astra TV HD">Astra TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1428##/2023/04/28/08/57/56/light_384x216.png" xmltv_id="B1 HD">B1 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1358##/2023/04/26/12/25/56/light_300x168.png" xmltv_id="B92 HD">B92 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="642##/2023/09/18/09/39/39/light_300x168.png" xmltv_id="BBC Earth HD (SI)">BBC Earth HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1360##/2023/04/26/12/31/29/light_300x168.png" xmltv_id="BBC News">BBC News</channel>
+<channel update="i" site="epg.telemach.si" site_id="1429##/2023/04/28/08/59/53/light_300x168.png" xmltv_id="BHT 1">BHT 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="335##/2020/05/28/12/28/24/bktv_logo_16_9_light_480x270_32781af9_73c2_44fc_8381_0ba44b1617b9.png" xmltv_id="BK TV HD">BK TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1421##/2023/04/28/08/00/41/light_300x168.png" xmltv_id="BN Music HD">BN Music HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="34##/2022/11/16/09/49/20/stb_fhd_light_480x270.png" xmltv_id="BN Sat HD">BN Sat HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="96##/2020/06/30/10/34/59/stb_fhd_light_480x270.png" xmltv_id="BabyTV">BabyTV</channel>
+<channel update="i" site="epg.telemach.si" site_id="369##/2022/11/25/08/38/29/light_300x168.png" xmltv_id="Balkan Erotic HD">Balkan Erotic HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1359##/2023/04/26/12/29/07/light_300x168.png" xmltv_id="Balkanika">Balkanika</channel>
+<channel update="i" site="epg.telemach.si" site_id="375##/2020/05/28/12/27/46/bangerzhd_logo_16_9_light_160x90_01b28820_6ae0_4fc6_884f_cfce17d53a9a.png" xmltv_id="Bangerz HD">Bangerz HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="321##/2023/07/19/10/07/24/best_tv_dark_300x168.png" xmltv_id="Best TV">Best TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1424##/2023/04/28/08/05/50/light_300x168.png" xmltv_id="Bloomberg">Bloomberg</channel>
+<channel update="i" site="epg.telemach.si" site_id="1417##/2023/04/28/07/53/36/light_300x168.png" xmltv_id="Brainz HD">Brainz HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1456##/2023/04/28/09/43/12/light_300x168.png" xmltv_id="Bravo Music">Bravo Music</channel>
+<channel update="i" site="epg.telemach.si" site_id="342##/2020/05/28/12/29/36/briohd_logo_16_9_light_160x90_ff175c7a_989f_446e_9651_0d150665ad6b.png" xmltv_id="Brio HD">Brio HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="401##/2020/05/28/12/29/41/bujrumtv_logo_16_9_light_160x90_6775aa88_34ae_45e0_8282_ea14b7f73b3a.png" xmltv_id="Bujrum TV ">Bujrum TV </channel>
+<channel update="i" site="epg.telemach.si" site_id="314##/2020/05/28/12/30/09/cgtn_logo_16_9_light_288x162_b3118037_82f1_4a98_924e_051ef91d8dc8.png" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="epg.telemach.si" site_id="1028##/2021/05/26/14/50/20/stb_fhd_cmc_l.png" xmltv_id="CMC HD">CMC HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="301##/2020/05/28/12/31/57/cnbceurope_logo_16_9_light_480x270_2f6aec25_e758_49ef_9098_1874d8969cb5.png" xmltv_id="CNBC Europe">CNBC Europe</channel>
+<channel update="i" site="epg.telemach.si" site_id="1362##/2023/04/26/12/35/36/light_300x168.png" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="epg.telemach.si" site_id="91##/2020/05/28/12/29/46/cartoonnetwork_logo_16_9_light_288x162_26a723b9_3e8f_4362_88f4_c4d4a26efdce.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="epg.telemach.si" site_id="1361##/2023/04/26/12/33/52/light_300x168.png" xmltv_id="Cartoonito">Cartoonito</channel>
+<channel update="i" site="epg.telemach.si" site_id="773##/2023/11/20/14/02/13/stb_fhd_light_480x270.png" xmltv_id="CineStar TV 2 HD (SR)">CineStar TV 2 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1415##/2023/11/27/08/53/41/light_300x168.png" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="49##/2023/11/20/13/51/21/stb_fhd_light_480x270.png" xmltv_id="CineStar TV Fantasy HD (SR)">CineStar TV Fantasy HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="51##/2023/11/20/13/55/29/stb_fhd_light_480x270.png" xmltv_id="CineStar TV Premiere 1 HD (SR)">CineStar TV Premiere 1 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="52##/2023/11/20/13/57/34/stb_fhd_light_480x270.png" xmltv_id="CineStar TV Premiere 2 HD (SR)">CineStar TV Premiere 2 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="64##/2020/05/28/12/30/38/cinemax2hd_logo_16_9_light_300x168_50670633_bb19_4e2d_843d_26e46bee50bd.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="63##/2020/05/28/12/30/46/cinemaxhd_logo_16_9_light_480x270_8b0713eb_009b_4688_a04f_a67a5ed6c7bb.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="795##/2023/11/27/08/55/01/light_300x168.png" xmltv_id="Cinestar Action and Thriller HD (SI)">Cinestar Action and Thriller HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="793##/2023/11/27/08/51/24/light_300x168.png" xmltv_id="Cinestar TV 1 HD (SI)">Cinestar TV 1 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1457##/2023/04/28/09/44/23/light_300x168.png" xmltv_id="City Play">City Play</channel>
+<channel update="i" site="epg.telemach.si" site_id="1423##/2023/04/28/08/04/16/light_300x168.png" xmltv_id="Club MTV">Club MTV</channel>
+<channel update="i" site="epg.telemach.si" site_id="116##/2020/05/28/12/32/12/crimeinvest_logo_16_9_light_160x90_d6b19c31_b9a2_47ae_abfb_4b2fdc98b9ea.png" xmltv_id="Crime &amp; Investigation (SR)">Crime &amp; Investigation (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1517##/2023/11/07/10/10/07/light_300x168.png" xmltv_id="Current Time TV (SI)">Current Time TV (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1365##/2023/04/26/12/40/55/light_300x168.png" xmltv_id="DM Sat">DM Sat</channel>
+<channel update="i" site="epg.telemach.si" site_id="1121##/2023/02/10/10/17/29/light_300x168.png" xmltv_id="Da Vinci HD (SI)">Da Vinci HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1363##/2023/04/26/12/37/34/light_384x216.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+<channel update="i" site="epg.telemach.si" site_id="776##/2020/05/28/12/32/32/discoveryhd_logo_16_9_light_160x90_69cd749b_41db_460d_8f23_43e77e2bbe9a.png" xmltv_id="Discovery Channel HD (SR)">Discovery Channel HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="90##/2022/11/16/11/41/21/stb_fhd_light_480x270.png" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="epg.telemach.si" site_id="1364##/2023/04/26/12/39/31/light_384x216.png" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="epg.telemach.si" site_id="43##/2020/05/28/12/33/21/diva_logo_16_9_light_480x270_2043c89f_b09b_477c_a58c_4136eca491b4.png" xmltv_id="Diva">Diva</channel>
+<channel update="i" site="epg.telemach.si" site_id="183##/2022/11/16/11/45/39/stb_fhd_light_480x270.png" xmltv_id="Dorcel HD (SR)">Dorcel HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1367##/2023/04/26/12/45/24/light_384x216.png" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
+<channel update="i" site="epg.telemach.si" site_id="124##/2023/06/30/16/16/40/light_300x168.png" xmltv_id="Dr.Fit HD">Dr.Fit HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="815##/2020/05/28/12/39/20/duna_logo_16_9_light_480x270_81401c37_49d3_4a7e_9cda_ec4ec0610aa9.png" xmltv_id="Duna HD">Duna HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="887##/2020/09/14/12/48/21/stb_fhd_duna_world_hd_480x270px.png" xmltv_id="Duna World HD">Duna World HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1368##/2023/04/26/12/47/02/light_480x270.png" xmltv_id="Dusk!">Dusk!</channel>
+<channel update="i" site="epg.telemach.si" site_id="120##/2020/05/28/12/33/52/e_logo_16_9_light_384x216_dc41c2ad_d2e8_42db_b0ea_95fc38989268.png" xmltv_id="E! Entertainment (SR)">E! Entertainment (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="383##/2021/12/21/10/59/11/stb_fhd_light_480x270.png" xmltv_id="ETV">ETV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1414##/2023/04/28/07/36/24/light_480x270.png" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1369##/2023/04/26/12/49/11/light_300x168.png" xmltv_id="Euronews HD">Euronews HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="729##/2022/02/01/11/48/53/stb_fhd_light_480x270.png" xmltv_id="Eurosport 1 HD (SI)">Eurosport 1 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="85##/2022/01/31/16/35/26/stb_fhd_light_480x270.png" xmltv_id="Eurosport 2 HD (SR)">Eurosport 2 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="328##/2021/06/29/12/34/13/stb_fhd_light_480x270.png" xmltv_id="Exodus TV">Exodus TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1370##/2023/04/26/12/50/50/light_300x168.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
+<channel update="i" site="epg.telemach.si" site_id="1371##/2023/04/26/12/53/38/light_480x270.png" xmltv_id="FREEДOM">FREEДOM</channel>
+<channel update="i" site="epg.telemach.si" site_id="1372##/2023/04/26/12/55/04/light_300x168.png" xmltv_id="FTV HD">FTV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="377##/2020/05/28/12/34/58/fastboyzhd_logo_16_9_light_300x168_dc94a7f6_67fe_49ee_b300_09de4de1211b.png" xmltv_id="Fastboyz HD">Fastboyz HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1485##/2023/08/01/06/58/17/light_300x168.png" xmltv_id="FilmBox Extra HD (SI)">FilmBox Extra HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1484##/2023/08/01/06/56/38/light_300x168.png" xmltv_id="FilmBox Premium HD (SI)">FilmBox Premium HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1091##/2021/09/15/09/37/03/stb_fhd_folx_slovenija_eon_480x270px.png" xmltv_id="Folx Slovenija (SI)">Folx Slovenija (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="315##/2022/01/21/15/32/22/stb_fhd_light_480x270.png" xmltv_id="France 2 HD">France 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="316##/2020/05/28/12/37/11/france24_logo_16_9_light_160x90_bb20c6c9_83a0_4aa9_a46b_224c34f43827.png" xmltv_id="France 24 HD">France 24 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="986##/2022/04/01/11/00/36/stb_fhd_light_480x270.png" xmltv_id="GP1 (Kreator TV)">GP1 (Kreator TV)</channel>
+<channel update="i" site="epg.telemach.si" site_id="391##/2020/05/28/12/38/00/gtv_logo_16_9_light_480x270_b8196172_fc99_461d_bf1b_1b1dc00b3424.png" xmltv_id="GTV">GTV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1071##/2021/06/01/14/37/43/stb_fhd_tv_galeja_eon_480x270px.png" xmltv_id="Galeja TV">Galeja TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="349##/2020/05/28/12/37/35/goldtvhd_logo_16_9_light_300x168_87ffde5b_6c03_40a5_a648_557034929b2e.png" xmltv_id="Gold TV HD">Gold TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1374##/2023/04/26/13/01/37/light_300x168.png" xmltv_id="Grand International HD">Grand International HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1376##/2023/04/26/13/10/36/light_160x90.png" xmltv_id="Grand Nostalgija">Grand Nostalgija</channel>
+<channel update="i" site="epg.telemach.si" site_id="1375##/2023/04/26/13/03/50/light_300x168.png" xmltv_id="Grand narodna televizija 2 HD">Grand narodna televizija 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="61##/2020/05/28/12/38/46/hbo2hd_logo_16_9_light_480x270_213d8fa4_f08c_4d01_9836_fe58749a5e66.png" xmltv_id="HBO 2 HD (SR)">HBO 2 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="62##/2021/11/30/13/00/15/stb_fhd_light_480x270.png" xmltv_id="HBO 3 HD (SR)">HBO 3 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="60##/2020/05/28/12/39/09/hbohd_logo_16_9_light_300x168_2f37331c_4502_4804_b892_f9f9a1eaac72.png" xmltv_id="HBO HD (SR)">HBO HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="811##/2020/05/28/12/39/25/m1_logo_16_9_light_384x216_9fd2da9f_1e1a_4f32_94ce_188967139121.png" xmltv_id="HD M1 (SI)">HD M1 (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="812##/2020/05/28/12/39/30/m2_logo_16_9_light_480x270_2054e524_a0a9_4fee_a57a_1d35178a1e43.png" xmltv_id="HD M2 (SI)">HD M2 (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="814##/2020/05/28/12/39/40/m5_logo_16_9_light_384x216_775ec6cc_97f9_45d9_8c75_faf35407171b.png" xmltv_id="HD M5 (SI)">HD M5 (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="743##/2020/05/28/12/40/23/hrt1hd_logo_16_9_light_384x216_f4502f59_d860_4a3f_972c_3f6f6b981936.png" xmltv_id="HRT 1 HD (SR)">HRT 1 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="744##/2020/05/28/12/40/32/hrt2hd_logo_16_9_light_300x168_16607738_e860_4418_95fb_785b0852bf97.png" xmltv_id="HRT 2 HD (SR)">HRT 2 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1024##/2021/05/26/14/36/16/stb_fhd.png" xmltv_id="HRT 3 HD (HR)">HRT 3 HD (HR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1025##/2021/05/26/14/41/34/l.png" xmltv_id="HRT 4 HD (HR)">HRT 4 HD (HR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1426##/2023/04/28/08/53/55/light_300x168.png" xmltv_id="Happy">Happy</channel>
+<channel update="i" site="epg.telemach.si" site_id="1377##/2023/04/26/13/13/20/light_300x168.png" xmltv_id="Hayat Plus">Hayat Plus</channel>
+<channel update="i" site="epg.telemach.si" site_id="115##/2023/06/01/11/20/11/light_300x168.png" xmltv_id="History 2 HD">History 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="99##/2023/03/30/13/52/24/light_300x168.png" xmltv_id="History HD (SR)">History HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="774##/2020/05/28/12/40/07/hgtv_logo_16_9_light_384x216_f779c24c_3563_4690_b775_e504e6c5d523.png" xmltv_id="Home and Garden TV">Home and Garden TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="373##/2020/05/28/12/40/12/hotpleasure_logo_16_9_light_160x90_4c18be9b_42f4_412d_ae1a_2da7aaf18b1f.png" xmltv_id="Hot Pleasure HD">Hot Pleasure HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1378##/2023/04/26/13/15/09/light_300x168.png" xmltv_id="Hustler">Hustler</channel>
+<channel update="i" site="epg.telemach.si" site_id="1379##/2023/04/26/13/16/39/light_300x168.png" xmltv_id="Hustler HD">Hustler HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1123##/2022/02/25/09/35/38/stb_fhd_download1.png" xmltv_id="ID (SI)">ID (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1215##/2022/08/29/09/47/26/light_300x168.png" xmltv_id="IDJKids HD (SI)">IDJKids HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="10##/2020/05/28/12/41/32/idjtvhd_logo_16_9_light_300x168_cb88fba8_72e7_49ad_895e_fbd328599175.png" xmltv_id="IDJTV HD">IDJTV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="884##/2020/09/10/13/05/43/stb_fhd_idea_tv_eon_480x270px.png" xmltv_id="Idea TV HD">Idea TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1432##/2023/10/12/15/05/19/light_160x90.png" xmltv_id="Insajder TV">Insajder TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1381##/2023/04/26/13/20/44/light_288x162.png" xmltv_id="Insta TV">Insta TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1382##/2023/04/26/13/22/42/light_160x90.png" xmltv_id="Jim Jam">Jim Jam</channel>
+<channel update="i" site="epg.telemach.si" site_id="397##/2021/06/29/12/39/18/stb_fhd_light_480x270.png" xmltv_id="Jugoton TV">Jugoton TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1427##/2023/04/28/08/55/48/light_300x168.png" xmltv_id="K::CN 1">K::CN 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="1420##/2023/04/28/07/59/11/light_300x168.png" xmltv_id="K::CN Music 2">K::CN Music 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="444##/2020/05/28/12/43/04/kcnsvet3_logo_16_9_light_300x168_a9141487_cecc_4acb_a431_34933d65a262.png" xmltv_id="K::CN Svet +3 (W2)">K::CN Svet +3 (W2)</channel>
+<channel update="i" site="epg.telemach.si" site_id="386##/2020/05/28/12/43/15/koroskatv_logo_16_9_light_480x270_647bf970_b29b_4fff_b906_fc798e173493.png" xmltv_id="KOR TV - Koroška Regionalna Televizija">KOR TV - Koroška Regionalna Televizija</channel>
+<channel update="i" site="epg.telemach.si" site_id="311##/2021/06/29/12/40/09/stb_fhd_light_480x270.png" xmltv_id="Kabel 1">Kabel 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="341##/2020/12/14/11/10/39/stb_fhd_kanal_a_hd_eon_480x270px.png" xmltv_id="Kanal A HD">Kanal A HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="344##/2020/11/05/16/50/22/stb_fhd_kino_light_.png" xmltv_id="Kino HD">Kino HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1499##/2023/10/28/09/59/07/light_300x168.png" xmltv_id="Koroška Televizija Dravograd">Koroška Televizija Dravograd</channel>
+<channel update="i" site="epg.telemach.si" site_id="1103##/2021/11/09/09/56/06/stb_fhd_light_480x270.png" xmltv_id="Kristal TV HD">Kristal TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1349##/2023/02/22/14/20/37/light_480x270.png" xmltv_id="LH TV HD">LH TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="101##/2020/05/28/12/43/38/loviribolov_logo_16_9_light_480x270_343354d8_2aa9_4b13_9e0f_f38263e15bcb.png" xmltv_id="Lov i Ribolov (SR)">Lov i Ribolov (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="404##/2020/05/28/12/44/40/mrt1_logo_16_9_light_480x270_23d74cc2_7ebd_4337_8598_28734f504a58.png" xmltv_id="MRT 1">MRT 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="405##/2020/05/28/12/44/47/mrt2_logo_16_9_light_288x162_46b1c2e7_493f_44aa_8552_0fc75136b970.png" xmltv_id="MRT 2">MRT 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="406##/2020/05/28/12/45/03/mrtsobraniski_logo_16_9_light_480x270_253617b1_985b_483c_accc_108dd6e4d664.png" xmltv_id="MRT Sobraniski">MRT Sobraniski</channel>
+<channel update="i" site="epg.telemach.si" site_id="664##/2020/05/28/12/45/13/mtv_logo_16_9_light_288x162_42848441_4d7d_429e_a4e4_bba70e8b7142.png" xmltv_id="MTV (SI)">MTV (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1385##/2023/04/26/13/27/52/light_300x168.png" xmltv_id="MTV 00s">MTV 00s</channel>
+<channel update="i" site="epg.telemach.si" site_id="1386##/2023/04/26/13/29/31/light_300x168.png" xmltv_id="MTV 80s">MTV 80s</channel>
+<channel update="i" site="epg.telemach.si" site_id="1422##/2023/04/28/08/02/20/light_300x168.png" xmltv_id="MTV 90s">MTV 90s</channel>
+<channel update="i" site="epg.telemach.si" site_id="1387##/2023/04/26/13/31/12/light_160x90.png" xmltv_id="MTV Hits">MTV Hits</channel>
+<channel update="i" site="epg.telemach.si" site_id="1388##/2023/04/26/13/33/02/light_300x168.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="781##/2020/05/28/12/44/02/mediasetitalia_logo_16_9_light_384x216_96f179e1_2150_4584_9efb_7e74bd6bb379.png" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+<channel update="i" site="epg.telemach.si" site_id="780##/2022/11/25/08/45/57/light_300x168.png" xmltv_id="Medvode TV">Medvode TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="1290##/2022/10/04/14/54/00/megafon_300x168px.png" xmltv_id="Megafon TV HD">Megafon TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1383##/2023/04/26/13/24/06/light_288x162.png" xmltv_id="Mezzo Live">Mezzo Live</channel>
+<channel update="i" site="epg.telemach.si" site_id="858##/2020/07/07/12/43/17/stb_fhd_logo_iroki_na_belo.png" xmltv_id="Miklavž TV">Miklavž TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="670##/2023/04/19/12/24/40/light_300x168.png" xmltv_id="Minimax (SI)">Minimax (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1384##/2023/09/15/07/38/25/light_384x216.png" xmltv_id="Motorvision+ HD">Motorvision+ HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="551##/2020/05/28/12/44/35/mrezatv_logo_16_9_light_480x270_32e7394a_f3a7_4a49_af74_92a7b3d987af.png" xmltv_id="Mreza TV">Mreza TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="199##/2020/05/28/12/45/57/n1hd_logo_16_9_light_288x162_84fb0b9b_7959_4b02_b428_e5089d65f066.png" xmltv_id="N1 HD (BH)/(SR)">N1 HD (BH)/(SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1390##/2023/04/26/13/38/27/light_300x168.png" xmltv_id="N1 HD (HR)">N1 HD (HR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1##/2020/05/28/12/46/08/n1hd_logo_16_9_light_288x162_70aed965_463b_41a3_9a05_3fe5f9e9d916.png" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="877##/2020/11/05/16/34/32/xl_nethd_light_.png" xmltv_id="NET TV HD">NET TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="368##/2023/10/05/09/12/30/light_300x168.png" xmltv_id="NET XXL">NET XXL</channel>
+<channel update="i" site="epg.telemach.si" site_id="678##/2023/01/04/09/40/08/light_300x168.png" xmltv_id="NOVA S HD (RS)">NOVA S HD (RS)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1430##/2023/04/28/09/01/54/light_300x168.png" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
+<channel update="i" site="epg.telemach.si" site_id="111##/2022/11/16/11/56/11/stb_fhd_light_480x270.png" xmltv_id="Nat Geo Wild HD (SR)">Nat Geo Wild HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="663##/2020/05/28/12/46/52/natgeohd_logo_16_9_light_300x168_d034765c_f5cf_44d8_8341_19dba7b4285b.png" xmltv_id="National Geographic HD (SI)">National Geographic HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="297##/2020/09/17/09/36/14/stb_fhd_nautical_l.png" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1438##/2023/04/28/09/14/42/light_288x162.png" xmltv_id="Naša TV (Beograd)">Naša TV (Beograd)</channel>
+<channel update="i" site="epg.telemach.si" site_id="637##/2020/05/28/12/47/15/nickjr_logo_16_9_light_300x168_cac1a848_8bb6_4175_a41d_164ada546f48.png" xmltv_id="Nick Jr. (SI)">Nick Jr. (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1392##/2023/04/26/13/42/28/light_300x168.png" xmltv_id="Nick Music">Nick Music</channel>
+<channel update="i" site="epg.telemach.si" site_id="88##/2023/08/24/10/02/18/light_300x168.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="epg.telemach.si" site_id="95##/2023/08/24/10/04/36/light_300x168.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="871##/2020/07/15/09/23/51/stb_fhd_light_480x270.png" xmltv_id="Nicktoons (SI)">Nicktoons (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1393##/2023/04/26/13/43/56/light_300x168.png" xmltv_id="Nova BH HD">Nova BH HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="746##/2023/01/04/09/57/17/light_384x216.png" xmltv_id="Nova HR HD">Nova HR HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1394##/2023/04/26/13/46/24/light_300x168.png" xmltv_id="Nova M HD">Nova M HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1396##/2023/04/26/13/55/18/light_480x270.png" xmltv_id="Nova Television HD (BG)">Nova Television HD (BG)</channel>
+<channel update="i" site="epg.telemach.si" site_id="271##/2023/10/26/14/57/09/light_300x168.png" xmltv_id="Nova24 TV HD">Nova24 TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1397##/2023/04/26/13/58/39/light_384x216.png" xmltv_id="O Kanal HD">O Kanal HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1398##/2023/04/26/14/00/59/light_300x168.png" xmltv_id="OBN">OBN</channel>
+<channel update="i" site="epg.telemach.si" site_id="302##/2021/06/25/12/46/22/stb_fhd_light_480x270.png" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="303##/2021/06/25/12/46/56/stb_fhd_light_480x270.png" xmltv_id="ORF 2 HD">ORF 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="354##/2020/05/28/12/49/25/otohd_logo_16_9_light_384x216_ace35bcf_b934_4971_a518_8d323c94db87.png" xmltv_id="OTO HD">OTO HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1030##/2021/05/26/14/57/05/stb_fhd_l.png" xmltv_id="OTV HD">OTV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1399##/2023/04/26/14/02/19/light_300x168.png" xmltv_id="OTV Valentino">OTV Valentino</channel>
+<channel update="i" site="epg.telemach.si" site_id="376##/2020/05/28/12/48/59/oldtimerhd_logo_16_9_light_300x168_1ad00d7e_ccfa_42e3_ab67_0ad2f37ff676.png" xmltv_id="Old Timer HD">Old Timer HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1093##/2021/09/15/09/41/07/stb_fhd_folx_one_adria_eon_480x270px.png" xmltv_id="One Adria (SI)">One Adria (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="340##/2020/05/28/12/55/28/poptvhd_logo_16_9_light_300x168_de0a8086_fcbf_4c5a_913f_eed225188779.png" xmltv_id="POP TV HD">POP TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1433##/2023/04/28/09/06/33/light_300x168.png" xmltv_id="Palma plus">Palma plus</channel>
+<channel update="i" site="epg.telemach.si" site_id="686##/2020/05/28/12/49/55/petv_logo_16_9_light_384x216_7ec2ff9f_6d8b_4d74_b7e0_447c605dcc1e.png" xmltv_id="PeTV">PeTV</channel>
+<channel update="i" site="epg.telemach.si" site_id="989##/2021/04/26/12/56/42/stb_fhd_light.png" xmltv_id="Pickbox HD (SI)">Pickbox HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="668##/2020/05/28/12/50/11/pikaboohd_logo_16_9_light_300x168_cb761980_5409_4c9b_b385_f9c9f3a34a97.png" xmltv_id="Pikaboo HD SI">Pikaboo HD SI</channel>
+<channel update="i" site="epg.telemach.si" site_id="1444##/2023/04/28/09/27/54/light_300x168.png" xmltv_id="Pink Extra">Pink Extra</channel>
+<channel update="i" site="epg.telemach.si" site_id="1445##/2023/04/28/09/29/05/light_300x168.png" xmltv_id="Pink Fashion">Pink Fashion</channel>
+<channel update="i" site="epg.telemach.si" site_id="1440##/2023/04/28/09/18/21/light_300x168.png" xmltv_id="Pink Film">Pink Film</channel>
+<channel update="i" site="epg.telemach.si" site_id="361##/2020/05/28/12/51/56/pinkfolk_logo_16_9_light_384x216_2c55ee70_dbd1_44a3_a8c5_43ee1d932386.png" xmltv_id="Pink Folk">Pink Folk</channel>
+<channel update="i" site="epg.telemach.si" site_id="1450##/2023/04/28/09/35/54/light_300x168.png" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="1451##/2023/04/28/09/37/06/light_480x270.png" xmltv_id="Pink Hits">Pink Hits</channel>
+<channel update="i" site="epg.telemach.si" site_id="1452##/2023/04/28/09/38/22/light_300x168.png" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="1454##/2023/04/28/09/40/44/light_384x216.png" xmltv_id="Pink Koncert">Pink Koncert</channel>
+<channel update="i" site="epg.telemach.si" site_id="1448##/2023/04/28/09/33/16/light_300x168.png" xmltv_id="Pink Music">Pink Music</channel>
+<channel update="i" site="epg.telemach.si" site_id="1449##/2023/04/28/09/34/25/light_300x168.png" xmltv_id="Pink Music 2">Pink Music 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="1443##/2023/04/28/09/26/37/light_300x168.png" xmltv_id="Pink Plus">Pink Plus</channel>
+<channel update="i" site="epg.telemach.si" site_id="1442##/2023/04/28/09/25/19/light_300x168.png" xmltv_id="Pink Reality">Pink Reality</channel>
+<channel update="i" site="epg.telemach.si" site_id="1441##/2023/04/28/09/20/29/light_300x168.png" xmltv_id="Pink Serije">Pink Serije</channel>
+<channel update="i" site="epg.telemach.si" site_id="1447##/2023/04/28/09/31/54/light_300x168.png" xmltv_id="Pink Show">Pink Show</channel>
+<channel update="i" site="epg.telemach.si" site_id="1455##/2023/04/28/09/41/53/light_300x168.png" xmltv_id="Pink World">Pink World</channel>
+<channel update="i" site="epg.telemach.si" site_id="1446##/2023/04/28/09/30/42/light_300x168.png" xmltv_id="Pink Zabava">Pink Zabava</channel>
+<channel update="i" site="epg.telemach.si" site_id="1453##/2023/04/28/09/39/39/light_300x168.png" xmltv_id="Pink n roll">Pink n roll</channel>
+<channel update="i" site="epg.telemach.si" site_id="348##/2021/08/23/15/09/57/stb_fhd_planet_2_eon_480x270px.png" xmltv_id="Planet 2 HD">Planet 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="359##/2020/05/28/12/54/57/planetearthhd_logo_16_9_light_288x162_4ef19ce8_2469_492e_8a17_1f9910f7682e.png" xmltv_id="Planet Earth HD">Planet Earth HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="629##/2021/08/23/15/09/34/stb_fhd_planet_eva_eon_480x270px.png" xmltv_id="Planet Eva HD">Planet Eva HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="343##/2020/11/25/12/53/59/stb_fhd_planet_hd_eon_480x270px.png" xmltv_id="Planet TV HD">Planet TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1400##/2023/04/26/14/04/52/light_300x168.png" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="876##/2023/04/26/11/23/32/light_300x168.png" xmltv_id="Playhouse HD">Playhouse HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="882##/2020/09/09/08/45/42/stb_fhd_paket_posavje_1_eon_480x270px.png" xmltv_id="Posavje Lokalni 1">Posavje Lokalni 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="879##/2020/09/09/08/46/02/stb_fhd_paket_posavje_2_eon_480x270px.png" xmltv_id="Posavje Lokalni 2">Posavje Lokalni 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="883##/2020/09/09/08/46/19/stb_fhd_paket_posavje_3_eon_480x270px.png" xmltv_id="Posavje Lokalni 3">Posavje Lokalni 3</channel>
+<channel update="i" site="epg.telemach.si" site_id="880##/2020/09/09/08/46/33/stb_fhd_paket_posavje_4_eon_480x270px.png" xmltv_id="Posavje Lokalni 4">Posavje Lokalni 4</channel>
+<channel update="i" site="epg.telemach.si" site_id="865##/2020/09/09/08/46/55/stb_fhd_paket_primorska_1_eon_480x270px.png" xmltv_id="Primorska 1">Primorska 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="864##/2020/09/08/13/46/57/stb_fhd_paket_primorska_10_480x270px.png" xmltv_id="Primorska 10">Primorska 10</channel>
+<channel update="i" site="epg.telemach.si" site_id="863##/2020/09/09/08/49/24/stb_fhd_paket_primorska_11_eon_480x270px.png" xmltv_id="Primorska 11">Primorska 11</channel>
+<channel update="i" site="epg.telemach.si" site_id="866##/2020/09/09/08/47/12/stb_fhd_paket_primorska_2_eon_480x270px.png" xmltv_id="Primorska 2">Primorska 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="867##/2020/09/09/08/47/25/stb_fhd_paket_primorska_3_eon_480x270px.png" xmltv_id="Primorska 3">Primorska 3</channel>
+<channel update="i" site="epg.telemach.si" site_id="868##/2020/09/09/08/47/44/stb_fhd_paket_primorska_4_eon_480x270px.png" xmltv_id="Primorska 4">Primorska 4</channel>
+<channel update="i" site="epg.telemach.si" site_id="869##/2020/09/09/08/48/00/stb_fhd_paket_primorska_5_eon_480x270px.png" xmltv_id="Primorska 5">Primorska 5</channel>
+<channel update="i" site="epg.telemach.si" site_id="859##/2020/09/09/08/48/16/stb_fhd_paket_primorska_6_eon_480x270px.png" xmltv_id="Primorska 6">Primorska 6</channel>
+<channel update="i" site="epg.telemach.si" site_id="860##/2020/09/09/08/48/40/stb_fhd_paket_primorska_7_eon_480x270px.png" xmltv_id="Primorska 7">Primorska 7</channel>
+<channel update="i" site="epg.telemach.si" site_id="861##/2020/09/09/08/48/56/stb_fhd_paket_primorska_8_eon_480x270px.png" xmltv_id="Primorska 8">Primorska 8</channel>
+<channel update="i" site="epg.telemach.si" site_id="862##/2020/09/09/08/49/11/stb_fhd_paket_primorska_9_eon_480x270px.png" xmltv_id="Primorska 9">Primorska 9</channel>
+<channel update="i" site="epg.telemach.si" site_id="1401##/2023/04/28/07/05/48/light_300x168.png" xmltv_id="Private TV">Private TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="808##/2020/02/11/14/42/04/pro7_xl.png" xmltv_id="Pro7 (SI)">Pro7 (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1402##/2023/09/11/17/55/42/light_300x168.png" xmltv_id="Prva HD">Prva HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1435##/2023/09/11/18/02/17/light_300x168.png" xmltv_id="Prva Kick">Prva Kick</channel>
+<channel update="i" site="epg.telemach.si" site_id="1521##/2023/11/10/10/36/17/light_300x168.png" xmltv_id="Prva TV (SI)">Prva TV (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1434##/2023/09/11/17/59/53/light_300x168.png" xmltv_id="Prva World">Prva World</channel>
+<channel update="i" site="epg.telemach.si" site_id="1403##/2023/09/11/17/57/44/light_300x168.png" xmltv_id="Prva plus">Prva plus</channel>
+<channel update="i" site="epg.telemach.si" site_id="875##/2023/10/05/09/15/31/light_300x168.png" xmltv_id="RED XXX HD">RED XXX HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="300##/2021/06/29/12/46/23/stb_fhd_light_480x270.png" xmltv_id="RT Kosovo">RT Kosovo</channel>
+<channel update="i" site="epg.telemach.si" site_id="1405##/2023/04/28/07/15/18/light_480x270.png" xmltv_id="RTCG Sat">RTCG Sat</channel>
+<channel update="i" site="epg.telemach.si" site_id="1406##/2023/04/28/07/18/15/light_300x168.png" xmltv_id="RTL (DE)">RTL (DE)</channel>
+<channel update="i" site="epg.telemach.si" site_id="305##/2021/12/15/17/07/50/stb_fhd_light_480x270.png" xmltv_id="RTL 2 (DE)">RTL 2 (DE)</channel>
+<channel update="i" site="epg.telemach.si" site_id="745##/2020/05/28/12/57/39/rtl2hd_logo_16_9_light_160x90_5f936812_1d52_45d7_b9a9_fc72ed1525d0.png" xmltv_id="RTL 2 HR HD">RTL 2 HR HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="747##/2022/11/18/09/40/05/stb_fhd_light_480x270.png" xmltv_id="RTL HR HD">RTL HR HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="930##/2020/11/10/11/47/56/stb_fhd_whiteindex.png" xmltv_id="RTL Kockica HD">RTL Kockica HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1094##/2022/10/24/10/51/03/light_300x168.png" xmltv_id="RTL Living HD">RTL Living HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1431##/2023/04/28/09/03/50/light_300x168.png" xmltv_id="RTRS">RTRS</channel>
+<channel update="i" site="epg.telemach.si" site_id="333##/2020/05/28/12/58/51/rtsmaribor_logo_16_9_light_480x270_50be59b2_283f_4d25_9b91_b91c33b1a26a.png" xmltv_id="RTS Maribor">RTS Maribor</channel>
+<channel update="i" site="epg.telemach.si" site_id="1436##/2023/04/28/09/11/21/light_300x168.png" xmltv_id="RTV 1">RTV 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="1437##/2023/04/28/09/12/42/light_300x168.png" xmltv_id="RTV 2">RTV 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="151##/2020/05/28/12/56/24/raidue_logo_16_9_light_160x90_62ec0512_b009_4c46_8e81_fd58510e64e3.png" xmltv_id="Rai Due">Rai Due</channel>
+<channel update="i" site="epg.telemach.si" site_id="1404##/2023/04/28/07/12/30/dark_384x216.png" xmltv_id="Rai Uno">Rai Uno</channel>
+<channel update="i" site="epg.telemach.si" site_id="307##/2021/06/29/12/57/55/stb_fhd_light_480x270.png" xmltv_id="SAT 1">SAT 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="576##/2021/06/25/12/49/35/stb_fhd_light_480x270.png" xmltv_id="SCI FI HD (SR)">SCI FI HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1408##/2023/04/28/07/23/35/light_300x168.png" xmltv_id="SHORTSTV HD">SHORTSTV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="332##/2020/05/28/13/01/44/siptv_logo_16_9_light_480x270_9d54ba67_a7be_4624_9cb7_02caab6f825e.png" xmltv_id="SIP TV">SIP TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="345##/2020/05/28/13/02/22/sk1hd_logo_16_9_light_160x90_96798f2d_0107_4a9d_bd6c_486eb3f64d3e.png" xmltv_id="SK 1 HD (SI)">SK 1 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="346##/2020/05/28/13/02/48/sk2hd_logo_16_9_light_480x270_55e2e98e_bdb1_45fc_807d_7897f2b6afe4.png" xmltv_id="SK 2 HD (SI)">SK 2 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="347##/2020/05/28/13/03/04/sk3hd_logo_16_9_light_288x162_ab88a6b6_ba70_4126_819c_ee20cb41ca36.png" xmltv_id="SK 3 HD (SI)">SK 3 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="885##/2020/09/04/09/05/34/stb_fhd_sk4l.png" xmltv_id="SK 4 HD (SI)">SK 4 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="292##/2022/11/09/13/29/51/light_480x270.png" xmltv_id="SK 5 HD (SI)">SK 5 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="293##/2022/11/09/13/34/16/light_288x162.png" xmltv_id="SK 6 HD (SI)">SK 6 HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="687##/2020/05/28/13/04/07/skesports_logo_16_9_light_300x168_984edd69_98d0_414a_8c17_f95be08d15d5.png" xmltv_id="SK Esports (SR)">SK Esports (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1140##/2022/04/12/08/54/39/stb_fhd_download.png" xmltv_id="SK Fight HD">SK Fight HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="73##/2020/05/28/13/04/18/skgolfhd_logo_16_9_light_384x216_02a5b9fd_54a5_40de_b836_a4f48abcf878.png" xmltv_id="SK Golf HD (SR)">SK Golf HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="18##/2020/05/28/13/04/24/skhd_logo_16_9_light_384x216_ef398fbd_c782_4add_b829_743034402833.png" xmltv_id="SK HD">SK HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="338##/2020/05/28/13/04/44/slo1hd_logo_16_9_light_480x270_db28f1a9_b159_47a2_b4b8_a78afd252171.png" xmltv_id="SLO 1 HD">SLO 1 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="339##/2020/05/28/13/04/49/slo2hd_logo_16_9_light_480x270_fd83af2f_7116_46ce_9d6f_f2c1773c64e4.png" xmltv_id="SLO 2 HD">SLO 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="873##/2020/07/23/08/15/17/stb_fhd_light_480x270.png" xmltv_id="SLO 3 HD">SLO 3 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="357##/2023/10/01/09/57/59/light_300x168.png" xmltv_id="STAR Crime HD (SI)">STAR Crime HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="355##/2023/10/01/09/55/55/light_300x168.png" xmltv_id="STAR HD (SI)">STAR HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="356##/2023/10/01/09/59/19/light_300x168.png" xmltv_id="STAR Life HD (SI)">STAR Life HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="358##/2023/10/01/10/00/47/light_288x162.png" xmltv_id="STAR Movies HD (SI)">STAR Movies HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="384##/2020/05/28/13/00/55/savinjskatv_logo_16_9_light_300x168_c8bbb86a_9bd8_4348_bd13_7e5ba5265f17.png" xmltv_id="Savinjska TV">Savinjska TV</channel>
+<channel update="i" site="epg.telemach.si" site_id="360##/2023/03/06/15/19/16/light_300x168.png" xmltv_id="Servus TV HD">Servus TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="374##/2020/05/28/13/01/31/sexationhd_logo_16_9_light_300x168_703b2f63_a1b8_411e_811b_2a66d88895fe.png" xmltv_id="Sexation HD">Sexation HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1407##/2023/04/28/07/21/08/light_300x168.png" xmltv_id="Shift TV HD">Shift TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="336##/2023/01/11/14/35/30/light_300x168.png" xmltv_id="Sky News">Sky News</channel>
+<channel update="i" site="epg.telemach.si" site_id="337##/2020/05/28/13/05/04/sport1_logo_16_9_light_160x90_5134122d_71c0_4312_bbe0_fd3ca065afa7.png" xmltv_id="Sport 1">Sport 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="1425##/2023/04/28/08/52/07/light_300x168.png" xmltv_id="Super RTL">Super RTL</channel>
+<channel update="i" site="epg.telemach.si" site_id="936##/2021/03/30/15/49/51/stb_fhd_light_480x270.png" xmltv_id="TLC HD">TLC HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="389##/2020/05/28/13/07/45/tvas_logo_16_9_light_300x168_6bccf8d4_3b03_438b_81b5_d3d172516388.png" xmltv_id="TV AS HD">TV AS HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="681##/2020/05/28/13/07/59/tvbeltinci_logo_16_9_light_384x216_9f01a146_5885_48af_a333_52fa357f2c10.png" xmltv_id="TV Beltinci">TV Beltinci</channel>
+<channel update="i" site="epg.telemach.si" site_id="636##/2020/05/28/13/08/04/tvbled_logo_16_9_light_384x216_defd938e_8e06_47b0_8dec_dbc965a04c6a.png" xmltv_id="TV Bled">TV Bled</channel>
+<channel update="i" site="epg.telemach.si" site_id="380##/2020/05/28/13/08/20/tvcelje_logo_16_9_light_300x168_549157f4_2370_4283_818f_75917a2d231a.png" xmltv_id="TV Celje">TV Celje</channel>
+<channel update="i" site="epg.telemach.si" site_id="1045##/2022/04/12/10/26/03/s_light_480x270.png" xmltv_id="TV Jadran HD">TV Jadran HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="334##/2020/05/28/13/08/48/tvkoper_logo_16_9_light_480x270_b10cbe06_140a_46ee_9b70_f7eeac923ff8.png" xmltv_id="TV Koper HD">TV Koper HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1141##/2022/05/04/14/14/03/light_288x162.png" xmltv_id="TV Krpan HD">TV Krpan HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="632##/2020/05/28/13/09/03/tvljubljana_logo_16_9_light_288x162_6e957303_f022_477f_adb1_9116ed882249.png" xmltv_id="TV Ljubljana HD">TV Ljubljana HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="331##/2020/05/28/13/09/12/tvmaribor_logo_16_9_light_288x162_0dae305d_0ba4_4271_a55b_a3e57af173de.png" xmltv_id="TV Maribor HD">TV Maribor HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1090##/2021/09/15/09/42/35/stb_fhd_tv_nakupi_eon_480x270px.png" xmltv_id="TV Nakupi (SI)">TV Nakupi (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="682##/2020/12/12/10/14/08/stb_fhd_ktv_ormoz_eon_480x270px.png" xmltv_id="TV Ormož">TV Ormož</channel>
+<channel update="i" site="epg.telemach.si" site_id="1353##/2023/04/21/10/23/08/stb_fhd_light_480x270.png" xmltv_id="TV SRK 11 – Radgona">TV SRK 11 – Radgona</channel>
+<channel update="i" site="epg.telemach.si" site_id="385##/2023/03/06/15/17/44/light_300x168.png" xmltv_id="TV Slovenska Bistrica">TV Slovenska Bistrica</channel>
+<channel update="i" site="epg.telemach.si" site_id="1439##/2023/04/28/09/16/58/light_300x168.png" xmltv_id="TV Super Sat">TV Super Sat</channel>
+<channel update="i" site="epg.telemach.si" site_id="322##/2023/07/19/10/09/58/veseljak_golica_dark_300x168.png" xmltv_id="TV Veseljak Golica HD">TV Veseljak Golica HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1412##/2023/04/28/07/31/52/light_300x168.png" xmltv_id="TV Vijesti">TV Vijesti</channel>
+<channel update="i" site="epg.telemach.si" site_id="202##/2023/06/02/08/23/35/light_300x168.png" xmltv_id="TV Zlati zvoki">TV Zlati zvoki</channel>
+<channel update="i" site="epg.telemach.si" site_id="1489##/2023/09/14/10/01/25/tve_light_300x168.png" xmltv_id="TV e (CG)">TV e (CG)</channel>
+<channel update="i" site="epg.telemach.si" site_id="44##/2021/12/15/16/56/32/stb_fhd_light_480x270.png" xmltv_id="TV1000">TV1000</channel>
+<channel update="i" site="epg.telemach.si" site_id="628##/2020/09/11/07/17/33/stb_fhd_tv3_2020_eon_480x270px.png" xmltv_id="TV3 HD">TV3 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1122##/2022/11/25/08/44/16/light_300x168.png" xmltv_id="TV5 Monde HD (SI)">TV5 Monde HD (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1413##/2023/04/28/07/34/30/light_300x168.png" xmltv_id="TVE">TVE</channel>
+<channel update="i" site="epg.telemach.si" site_id="378##/2020/05/28/13/05/57/taboohd_logo_16_9_light_480x270_25fb4ed8_5daf_48da_b85e_903a18687642.png" xmltv_id="Taboo HD">Taboo HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="330##/2020/05/28/13/06/24/telemachinfo_logo_16_9_light_288x162_7ea494c5_08b8_4d8a_8dbd_e7d9a6654b86.png" xmltv_id="Telemach Info kanal (SI)">Telemach Info kanal (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="1070##/2021/06/01/14/37/18/stb_fhd_r_kanal_eon_480x270px.png" xmltv_id="Televizija R Kanal +">Televizija R Kanal +</channel>
+<channel update="i" site="epg.telemach.si" site_id="1410##/2023/04/28/07/28/13/light_300x168.png" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1411##/2023/04/28/07/29/50/light_480x270.png" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="125##/2020/05/28/13/07/19/travelhd_logo_16_9_light_480x270_dc75cbc3_8e50_4a35_9ee7_0fa355c4a66e.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="782##/2020/05/28/13/07/29/trzictvsi_logo_16_9_light_480x270_709e1b48_41ad_4202_a073_9d3296b4b542.png" xmltv_id="Tržič TV HD">Tržič TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="388##/2023/03/16/13/37/50/light_480x270.png" xmltv_id="Uršlja TV ">Uršlja TV </channel>
+<channel update="i" site="epg.telemach.si" site_id="379##/2020/05/28/13/11/50/vzivo_logo_16_9_light_480x270_5e722c0d_4617_4264_aa66_0f5da126f72f.png" xmltv_id="V živo">V živo</channel>
+<channel update="i" site="epg.telemach.si" site_id="809##/2020/02/11/14/46/53/vox_s.png" xmltv_id="VOX (SI)">VOX (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="327##/2020/05/28/13/13/34/vtv_logo_16_9_light_300x168_acc51219_bb1b_4f87_bb20_17d2f21d2a5a.png" xmltv_id="VTV HD">VTV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1089##/2021/09/15/09/40/34/stb_fhd_vascom_eon_480x270px.png" xmltv_id="Vascom (SI)">Vascom (SI)</channel>
+<channel update="i" site="epg.telemach.si" site_id="572##/2020/05/28/13/12/05/vavoomhd_logo_16_9_light_288x162_c611d5bd_1b39_46c2_a815_d989dfbf150e.png" xmltv_id="Vavoom HD (SR)">Vavoom HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="329##/2021/06/29/13/04/51/stb_fhd_light_480x270.png" xmltv_id="Vaš Kanal">Vaš Kanal</channel>
+<channel update="i" site="epg.telemach.si" site_id="730##/2022/01/19/11/11/30/stb_fhd_light_480x270.png" xmltv_id="Viasat Explore HD (SR)">Viasat Explore HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="731##/2022/04/18/15/47/02/light_384x216.png" xmltv_id="Viasat History HD (SR)">Viasat History HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="732##/2022/01/19/11/15/31/stb_fhd_light_480x270.png" xmltv_id="Viasat Nature HD (SR)">Viasat Nature HD (SR)</channel>
+<channel update="i" site="epg.telemach.si" site_id="408##/2020/05/28/13/13/19/vizion_logo_16_9_light_160x90_e052d401_5ad1_4b6c_a7b3_fb0716c2c566.png" xmltv_id="Vizion +">Vizion +</channel>
+<channel update="i" site="epg.telemach.si" site_id="554##/2023/07/03/08/45/41/light_480x270.png" xmltv_id="Woman HD SI">Woman HD SI</channel>
+<channel update="i" site="epg.telemach.si" site_id="308##/2021/06/25/12/56/44/stb_fhd_light_480x270.png" xmltv_id="ZDF HD">ZDF HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1458##/2023/09/01/14/07/20/light_300x168.png" xmltv_id="Zadruga Live 1">Zadruga Live 1</channel>
+<channel update="i" site="epg.telemach.si" site_id="1459##/2023/09/01/14/08/22/light_300x168.png" xmltv_id="Zadruga Live 2">Zadruga Live 2</channel>
+<channel update="i" site="epg.telemach.si" site_id="1460##/2023/09/01/14/09/24/light_384x216.png" xmltv_id="Zadruga Live 3">Zadruga Live 3</channel>
+<channel update="i" site="epg.telemach.si" site_id="1461##/2023/09/01/14/10/17/light_384x216.png" xmltv_id="Zadruga Live 4">Zadruga Live 4</channel>
+<channel update="i" site="epg.telemach.si" site_id="881##/2020/09/14/12/44/49/stb_fhd_e_posavje_eon_480x270px.png" xmltv_id="ePosavje TV HD">ePosavje TV HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="1380##/2023/04/26/13/18/04/light_300x168.png" xmltv_id="iConcerts HD">iConcerts HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="350##/2023/03/09/14/52/37/light_300x168.png" xmltv_id="Šport TV 1 HD">Šport TV 1 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="351##/2023/03/09/14/54/20/light_300x168.png" xmltv_id="Šport TV 2 HD">Šport TV 2 HD</channel>
+<channel update="i" site="epg.telemach.si" site_id="352##/2023/03/09/14/56/01/light_300x168.png" xmltv_id="Šport TV 3 HD">Šport TV 3 HD</channel>
   </channels>
 </site>
