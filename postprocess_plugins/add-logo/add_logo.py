@@ -19,9 +19,7 @@ def main():
     parser.add_argument(
         "--version", help="Set script version", required=False, default="0.1"
     )
-    parser.add_argument(
-        "--usage", help="Example usage", required=False, action="store_true"
-    )
+
     args = parser.parse_args()
 
     # Check if the user has provided valid arguments
@@ -98,29 +96,6 @@ def main():
 
 
 def check_usage(args):
-    if args.usage:
-        message = """Example usage:
-**  Example of a valid command line:
-      python add_logo --xmltv_in guide.xml --xmltv_out epg_logos.xml --logos logos.ini
-- as webgrab+plus postprocess plugin:
-      <postprocess run="y" grab="n">python add_logo --xmltv_in guide+2.xml --logos logos.txt</postprocess>    
-
-**  Content of the logos file:
-
-- syntax  ...  channel name, logo link
-
-- channel name must be the same as the channel_id value in the channel section of the input file
-- lines starting with * are considered a comment text
-
-**  Example logos file content:
-
-* list of channel logo links 
-*
-TV Camara , https://www.net.com.br/imagens/logo/tv_camara-1680_95x39.png
-TV Brasil , https://www.net.com.br/imagens/logo/tv_brasil-1683_95x39.png
-PREMIERE HD 3 , https://www.net.com.br/imagens/logo/premiere_hd_3_-1175_95x39.png
-----------------------------------------------------------------------------------------------
-"""
     fail = False
     if not args.xmltv_in or not os.path.exists(args.xmltv_in):
         message = "invalid --xmltv_in argument, try -h for help"
