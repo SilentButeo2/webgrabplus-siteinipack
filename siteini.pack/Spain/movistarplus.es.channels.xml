@@ -1,182 +1,192 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" site="movistarplus.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.2 -- Jan van Straaten" site="movistarplus.es">
   <channels>
-    <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="[01] LA 1">[01] LA 1</channel>
-    <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="[02] LA 2">[02] LA 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="[03] Antena 3">[03] Antena 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="[04] Cuatro">[04] Cuatro</channel>
-    <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="[05] Telecinco">[05] Telecinco</channel>
-    <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="[06] La Sexta">[06] La Sexta</channel>
-    <channel update="i" site="movistarplus.es" site_id="MPLUS" xmltv_id="[07] Movistar Plus+">[07] Movistar Plus+</channel>
-    <channel update="i" site="movistarplus.es" site_id="VAMOSD" xmltv_id="[50] M+ Vamos">[50] M+ Vamos</channel>
-    <channel update="i" site="movistarplus.es" site_id="7TVMUR" xmltv_id="[09] 7 TV Región Murcia">[09] 7 TV Región Murcia</channel>
-    <channel update="i" site="movistarplus.es" site_id="APUNT" xmltv_id="[09] À Punt">[09] À Punt</channel>
-    <channel update="i" site="movistarplus.es" site_id="ARAGTV" xmltv_id="[09] Aragón TV">[09] Aragón TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="CANAR" xmltv_id="[09] TV Canaria">[09] TV Canaria</channel>
-    <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="[09] Canal Sur">[09] Canal Sur</channel>
-    <channel update="i" site="movistarplus.es" site_id="CASMAN" xmltv_id="[09] Castilla la Mancha TV">[09] Castilla la Mancha TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="CSURHD" xmltv_id="[09] Canal Sur HD">[09] Canal Sur HD</channel>
-    <channel update="i" site="movistarplus.es" site_id="CYLTV" xmltv_id="[09] La 7">[09] La 7</channel>
-    <channel update="i" site="movistarplus.es" site_id="ETB1" xmltv_id="[09] ETB 1">[09] ETB 1</channel>
-    <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="[09] Canal Extremadura">[09] Canal Extremadura</channel>
-    <channel update="i" site="movistarplus.es" site_id="IB3" xmltv_id="[09] IB3">[09] IB3</channel>
-    <channel update="i" site="movistarplus.es" site_id="NAVA" xmltv_id="[09] Navarra TV">[09] Navarra TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="[09] Telemadrid">[09] Telemadrid</channel>
-    <channel update="i" site="movistarplus.es" site_id="TPA" xmltv_id="[09] TPA">[09] TPA</channel>
-    <channel update="i" site="movistarplus.es" site_id="TV3CAT" xmltv_id="[09] TV3">[09] TV3</channel>
-    <channel update="i" site="movistarplus.es" site_id="TVGAL" xmltv_id="[09] TVG -TV Galicia">[09] TVG -TV Galicia</channel>
-    <channel update="i" site="movistarplus.es" site_id="ANDATV" xmltv_id="[10] Andalucía TV">[10] Andalucía TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="ETB2" xmltv_id="[10] ETB 2">[10] ETB 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="MEDITE" xmltv_id="[10] La Ocho TV">[10] La Ocho TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="OTRA" xmltv_id="[10] La Otra">[10] La Otra</channel>
-    <channel update="i" site="movistarplus.es" site_id="TVG2" xmltv_id="[10] TVG 2">[10] TVG 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="MV1" xmltv_id="[11] M+ Cine">[11] M+ Cine</channel>
-    <channel update="i" site="movistarplus.es" site_id="MV2" xmltv_id="[12] M+ Series">[12] M+ Series</channel>
-    <channel update="i" site="movistarplus.es" site_id="MCFUT" xmltv_id="[14] M+ Cracks">[14] M+ Cracks</channel>
-    <channel update="i" site="movistarplus.es" site_id="MCLAS" xmltv_id="[15] M+ Clásicos">[15] M+ Clásicos</channel>
-    <channel update="i" site="movistarplus.es" site_id="CPACCI" xmltv_id="[16] M+ Acción">[16] M+ Acción</channel>
-    <channel update="i" site="movistarplus.es" site_id="CPCOME" xmltv_id="[17] M+ Comedia">[17] M+ Comedia</channel>
-    <channel update="i" site="movistarplus.es" site_id="CPCOLE" xmltv_id="[18] M+ Drama">[18] M+ Drama</channel>
-    <channel update="i" site="movistarplus.es" site_id="DCESP" xmltv_id="[19] M+ Cine Español">[19] M+ Cine Español</channel>
-    <channel update="i" site="movistarplus.es" site_id="MSUSP" xmltv_id="[20] M+ Suspense">[20] M+ Suspense</channel>
-    <channel update="i" site="movistarplus.es" site_id="MINDI" xmltv_id="[21] M+ Indie">[21] M+ Indie</channel>
-    <channel update="i" site="movistarplus.es" site_id="TCM" xmltv_id="[22] TCM">[22] TCM</channel>
-    <channel update="i" site="movistarplus.es" site_id="HOLLYW" xmltv_id="[23] Hollywood">[23] Hollywood</channel>
-    <channel update="i" site="movistarplus.es" site_id="XTRM" xmltv_id="[24] XTRM">[24] XTRM</channel>
-    <channel update="i" site="movistarplus.es" site_id="SUNDAN" xmltv_id="[25] Sundance">[25] Sundance</channel>
-    <channel update="i" site="movistarplus.es" site_id="DARK" xmltv_id="[26] DARK">[26] DARK</channel>
-    <channel update="i" site="movistarplus.es" site_id="SOMOS" xmltv_id="[27] Somos">[27] Somos</channel>
-    <channel update="i" site="movistarplus.es" site_id="PARCH" xmltv_id="[29] Paramount Channel">[29] Paramount Channel</channel>
-    <channel update="i" site="movistarplus.es" site_id="MDOC" xmltv_id="[30] M+ Documentales">[30] M+ Documentales</channel>
-    <channel update="i" site="movistarplus.es" site_id="MONFIR" xmltv_id="[31] M+ Música">[31] M+ Música</channel>
-    <channel update="i" site="movistarplus.es" site_id="RESIST" xmltv_id="[32] La Resistencia">[32] La Resistencia</channel>
-    <channel update="i" site="movistarplus.es" site_id="FOXGE" xmltv_id="[33] Fox">[33] Fox</channel>
-    <channel update="i" site="movistarplus.es" site_id="AXN" xmltv_id="[34] AXN">[34] AXN</channel>
-    <channel update="i" site="movistarplus.es" site_id="TNT" xmltv_id="[35] Warner TV">[35] Warner TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="PCM" xmltv_id="[36] Comedy Central">[36] Comedy Central</channel>
-    <channel update="i" site="movistarplus.es" site_id="CL13" xmltv_id="[37] Calle 13">[37] Calle 13</channel>
-    <channel update="i" site="movistarplus.es" site_id="COSMO" xmltv_id="[38] COSMO">[38] COSMO</channel>
-    <channel update="i" site="movistarplus.es" site_id="AMC" xmltv_id="[39] AMC">[39] AMC</channel>
-    <channel update="i" site="movistarplus.es" site_id="SET" xmltv_id="[40] AXN Movies">[40] AXN Movies</channel>
-    <channel update="i" site="movistarplus.es" site_id="SCI-FI" xmltv_id="[41] SYFY">[41] SYFY</channel>
-    <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="[42] 13 TV">[42] 13 TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="ENERGY" xmltv_id="[44] Energy">[44] Energy</channel>
-    <channel update="i" site="movistarplus.es" site_id="FDFIC" xmltv_id="[45] Factoría de Ficción">[45] Factoría de Ficción</channel>
-    <channel update="i" site="movistarplus.es" site_id="NEOX" xmltv_id="[46] Neox">[46] Neox</channel>
-    <channel update="i" site="movistarplus.es" site_id="ATRESS" xmltv_id="[47] Atreseries">[47] Atreseries</channel>
-    <channel update="i" site="movistarplus.es" site_id="MELLAV" xmltv_id="[51] M+ Ellas V">[51] M+ Ellas V</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIGA" xmltv_id="[52] M+ LALIGA TV">[52] M+ LALIGA TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="DAZNLI" xmltv_id="[53] DAZN LALIGA">[53] DAZN LALIGA</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIGS" xmltv_id="[54] LALIGA TV HYPERMOTION">[54] LALIGA TV HYPERMOTION</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIG1" xmltv_id="[55] M+ Champions Tour">[55] M+ Champions Tour</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHAPIO" xmltv_id="[56] M+ Liga de Campeones">[56] M+ Liga de Campeones</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHAP1" xmltv_id="[57] M+Champions Tour">[57] M+Champions Tour</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHAP2" xmltv_id="[58] M+ Liga de Campeones 3">[58] M+ Liga de Campeones 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="CPDEP" xmltv_id="[59] M+ Deportes">[59] M+ Deportes</channel>
-    <channel update="i" site="movistarplus.es" site_id="ARTHUR" xmltv_id="[60] M+ Deportes 2">[60] M+ Deportes 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="USOP2" xmltv_id="[61] M+ Deportes 3">[61] M+ Deportes 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="GOLF+" xmltv_id="[62] M+ Golf">[62] M+ Golf</channel>
-    <channel update="i" site="movistarplus.es" site_id="MVF1" xmltv_id="[63] DAZN F1">[63] DAZN F1</channel>
-    <channel update="i" site="movistarplus.es" site_id="M1SD" xmltv_id="[64] DAZN 1">[64] DAZN 1</channel>
-    <channel update="i" site="movistarplus.es" site_id="M2SD" xmltv_id="[65] DAZN 2">[65] DAZN 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="ESP" xmltv_id="[66] Eurosport 1">[66] Eurosport 1</channel>
-    <channel update="i" site="movistarplus.es" site_id="ESP2" xmltv_id="[67] Eurosport 2">[67] Eurosport 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="GOLF2" xmltv_id="[68] M+ Golf 2">[68] M+ Golf 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="GOL" xmltv_id="[69] GOL PLAY">[69] GOL PLAY</channel>
-    <channel update="i" site="movistarplus.es" site_id="TDEP" xmltv_id="[70] Teledeporte">[70] Teledeporte</channel>
-    <channel update="i" site="movistarplus.es" site_id="CAZPES" xmltv_id="[71] Caza y Pesca">[71] Caza y Pesca</channel>
-    <channel update="i" site="movistarplus.es" site_id="IBERAL" xmltv_id="[72] Iberalia TV">[72] Iberalia TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="[74] Real Madrid TV">[74] Real Madrid TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="GARAGE" xmltv_id="[78] El Garage TV">[78] El Garage TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="UBEAT" xmltv_id="[79] Ubeat">[79] Ubeat</channel>
-    <channel update="i" site="movistarplus.es" site_id="NATGEO" xmltv_id="[80] National Geographic">[80] National Geographic</channel>
-    <channel update="i" site="movistarplus.es" site_id="NATGW" xmltv_id="[81] Nat Geo Wild">[81] Nat Geo Wild</channel>
-    <channel update="i" site="movistarplus.es" site_id="HIST" xmltv_id="[82] Historia">[82] Historia</channel>
-    <channel update="i" site="movistarplus.es" site_id="DCR" xmltv_id="[83] Discovery">[83] Discovery</channel>
-    <channel update="i" site="movistarplus.es" site_id="ODISEA" xmltv_id="[84] Odisea">[84] Odisea</channel>
-    <channel update="i" site="movistarplus.es" site_id="BIOGRA" xmltv_id="[85] AMC Break">[85] AMC Break</channel>
-    <channel update="i" site="movistarplus.es" site_id="DCRMAX" xmltv_id="[87] DMAX">[87] DMAX</channel>
-    <channel update="i" site="movistarplus.es" site_id="CYM" xmltv_id="[88] AMC Crime">[88] AMC Crime</channel>
-    <channel update="i" site="movistarplus.es" site_id="BUENV" xmltv_id="[89] BuenViaje">[89] BuenViaje</channel>
-    <channel update="i" site="movistarplus.es" site_id="CACOC" xmltv_id="[90] Canal Cocina">[90] Canal Cocina</channel>
-    <channel update="i" site="movistarplus.es" site_id="DECASA" xmltv_id="[91] Canal Decasa">[91] Canal Decasa</channel>
-    <channel update="i" site="movistarplus.es" site_id="DKISS" xmltv_id="[92] DKISS">[92] DKISS</channel>
-    <channel update="i" site="movistarplus.es" site_id="DIVINI" xmltv_id="[93] Divinity">[93] Divinity</channel>
-    <channel update="i" site="movistarplus.es" site_id="NOVA" xmltv_id="[94] Nova">[94] Nova</channel>
-    <channel update="i" site="movistarplus.es" site_id="MEGA" xmltv_id="[95] Mega">[95] Mega</channel>
-    <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="[96] BE MAD">[96] BE MAD</channel>
-    <channel update="i" site="movistarplus.es" site_id="TEN" xmltv_id="[97] Ten">[97] Ten</channel>
-    <channel update="i" site="movistarplus.es" site_id="PANDA" xmltv_id="[98] Enfamilia">[98] Enfamilia</channel>
-    <channel update="i" site="movistarplus.es" site_id="BABY" xmltv_id="[110] Baby TV">[110] Baby TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="PLAYDC" xmltv_id="[111] Disney Junior">[111] Disney Junior</channel>
-    <channel update="i" site="movistarplus.es" site_id="NICKJR" xmltv_id="[113] NICK JR">[113] NICK JR</channel>
-    <channel update="i" site="movistarplus.es" site_id="NICK" xmltv_id="[114] Nickelodeon">[114] Nickelodeon</channel>
-    <channel update="i" site="movistarplus.es" site_id="DWSP" xmltv_id="[115] Dreamworks">[115] Dreamworks</channel>
-    <channel update="i" site="movistarplus.es" site_id="DCH" xmltv_id="[116] Disney Channel">[116] Disney Channel</channel>
-    <channel update="i" site="movistarplus.es" site_id="BOING" xmltv_id="[117] Boing">[117] Boing</channel>
-    <channel update="i" site="movistarplus.es" site_id="CLANTV" xmltv_id="[118] Clan TVE">[118] Clan TVE</channel>
-    <channel update="i" site="movistarplus.es" site_id="ETB3" xmltv_id="[119] ETB 3">[119] ETB 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="MTV" xmltv_id="[120] MTV">[120] MTV</channel>
-    <channel update="i" site="movistarplus.es" site_id="VH1" xmltv_id="[121] MTV 00s">[121] MTV 00s</channel>
-    <channel update="i" site="movistarplus.es" site_id="MEZZO" xmltv_id="[123] Mezzo">[123] Mezzo</channel>
-    <channel update="i" site="movistarplus.es" site_id="MEZOHD" xmltv_id="[124] Mezzo Live HD">[124] Mezzo Live HD</channel>
-    <channel update="i" site="movistarplus.es" site_id="CLASSI" xmltv_id="[125] Classica HD">[125] Classica HD</channel>
-    <channel update="i" site="movistarplus.es" site_id="CLASSD" xmltv_id="[125] Classica">[125] Classica</channel>
-    <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="[127] 24 Horas">[127] 24 Horas</channel>
-    <channel update="i" site="movistarplus.es" site_id="BBC" xmltv_id="[128] BBC World">[128] BBC World</channel>
-    <channel update="i" site="movistarplus.es" site_id="CNN" xmltv_id="[129] CNN Int">[129] CNN Int</channel>
-    <channel update="i" site="movistarplus.es" site_id="FOXNWS" xmltv_id="[130] Fox News">[130] Fox News</channel>
-    <channel update="i" site="movistarplus.es" site_id="ENW" xmltv_id="[131] Euronews">[131] Euronews</channel>
-    <channel update="i" site="movistarplus.es" site_id="ALJAZE" xmltv_id="[132] Al Jazeera English">[132] Al Jazeera English</channel>
-    <channel update="i" site="movistarplus.es" site_id="FRANCE" xmltv_id="[133] FRANCE24 (FR)">[133] FRANCE24 (FR)</channel>
-    <channel update="i" site="movistarplus.es" site_id="INTEUA" xmltv_id="[135] 1+1 Internacional">[135] 1+1 Internacional</channel>
-    <channel update="i" site="movistarplus.es" site_id="NBC" xmltv_id="[136] CNBC">[136] CNBC</channel>
-    <channel update="i" site="movistarplus.es" site_id="TV5" xmltv_id="[137] TV5MONDE">[137] TV5MONDE</channel>
-    <channel update="i" site="movistarplus.es" site_id="BL" xmltv_id="[138] Bloomberg">[138] Bloomberg</channel>
-    <channel update="i" site="movistarplus.es" site_id="SKYNW" xmltv_id="[139] Sky News">[139] Sky News</channel>
-    <channel update="i" site="movistarplus.es" site_id="INTECO" xmltv_id="[139] El Toro TV">[139] El Toro TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="NEGOTV" xmltv_id="[140] Negocios TV">[140] Negocios TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="CCTV-E" xmltv_id="[142] CGTN Español">[142] CGTN Español</channel>
-    <channel update="i" site="movistarplus.es" site_id="TELEFE" xmltv_id="[143] Telefe Internacional">[143] Telefe Internacional</channel>
-    <channel update="i" site="movistarplus.es" site_id="GALAV" xmltv_id="[144] Canal de las Estrellas">[144] Canal de las Estrellas</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHILE" xmltv_id="[145] TV Chile">[145] TV Chile</channel>
-    <channel update="i" site="movistarplus.es" site_id="ARIRHD" xmltv_id="[145] Arirang TV HD">[145] Arirang TV HD</channel>
-    <channel update="i" site="movistarplus.es" site_id="COLOMB" xmltv_id="[146] TV Colombia">[146] TV Colombia</channel>
-    <channel update="i" site="movistarplus.es" site_id="CUBAV" xmltv_id="[147] Cubavisión">[147] Cubavisión</channel>
-    <channel update="i" site="movistarplus.es" site_id="TLESUR" xmltv_id="[148] Telesur">[148] Telesur</channel>
-    <channel update="i" site="movistarplus.es" site_id="EWTN" xmltv_id="[149] EWTN">[149] EWTN</channel>
-    <channel update="i" site="movistarplus.es" site_id="ANTV" xmltv_id="[151] Canal Sur Andalucía">[151] Canal Sur Andalucía</channel>
-    <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="[152] TVG Europa">[152] TVG Europa</channel>
-    <channel update="i" site="movistarplus.es" site_id="EXTREM" xmltv_id="[153] Canal Extremadura Sat">[153] Canal Extremadura Sat</channel>
-    <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="[154] TV3 Cat">[154] TV3 Cat</channel>
-    <channel update="i" site="movistarplus.es" site_id="ETB" xmltv_id="[155] EITB Basque">[155] EITB Basque</channel>
-    <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="[156] Aragón TV Int">[156] Aragón TV Int</channel>
-    <channel update="i" site="movistarplus.es" site_id="TELMIN" xmltv_id="[157] Telemadrid Int.">[157] Telemadrid Int.</channel>
-    <channel update="i" site="movistarplus.es" site_id="8TV" xmltv_id="[158] 8 tv">[158] 8 tv</channel>
-    <channel update="i" site="movistarplus.es" site_id="C33" xmltv_id="[163] Canal 33">[163] Canal 33</channel>
-    <channel update="i" site="movistarplus.es" site_id="ESP3" xmltv_id="[164] Esport 3">[164] Esport 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="[165] 3 24">[165] 3 24</channel>
-    <channel update="i" site="movistarplus.es" site_id="BTV" xmltv_id="[166] Betevé">[166] Betevé</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIG2" xmltv_id="[167] M+ LALIGA TV 3">[167] M+ LALIGA TV 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIG3" xmltv_id="[168] M+ LALIGA TV 4">[168] M+ LALIGA TV 4</channel>
-    <channel update="i" site="movistarplus.es" site_id="DAZNL2" xmltv_id="[172] DAZN LALIGA 2">[172] DAZN LALIGA 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIGS2" xmltv_id="[177] LALIGA TV HYPERMOTION 2">[177] LALIGA TV HYPERMOTION 2</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIGS3" xmltv_id="[178] LALIGA TV HYPERMOTION 3">[178] LALIGA TV HYPERMOTION 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHAP3" xmltv_id="[180] M+ Liga de Campeones 4">[180] M+ Liga de Campeones 4</channel>
-    <channel update="i" site="movistarplus.es" site_id="PBOY" xmltv_id="[190] Playboy TV">[190] Playboy TV</channel>
-    <channel update="i" site="movistarplus.es" site_id="USOP3" xmltv_id="[191] M+ Deportes 4">[191] M+ Deportes 4</channel>
-    <channel update="i" site="movistarplus.es" site_id="USOP11" xmltv_id="[192] M+ Deportes 5">[192] M+ Deportes 5</channel>
-    <channel update="i" site="movistarplus.es" site_id="MULTI8" xmltv_id="[193] M+ Deportes 6">[193] M+ Deportes 6</channel>
-    <channel update="i" site="movistarplus.es" site_id="MULTI6" xmltv_id="[194] M+ Deportes 7">[194] M+ Deportes 7</channel>
-    <channel update="i" site="movistarplus.es" site_id="DAZN3" xmltv_id="[196] DAZN 3">[196] DAZN 3</channel>
-    <channel update="i" site="movistarplus.es" site_id="DAZN4" xmltv_id="[197] DAZN 4">[197] DAZN 4</channel>
-    <channel update="i" site="movistarplus.es" site_id="HDTQ10" xmltv_id="[198] Alquiler HD">[198] Alquiler HD</channel>
-    <channel update="i" site="movistarplus.es" site_id="TQ1" xmltv_id="[198] Alquiler  1">[198] Alquiler  1</channel>
-    <channel update="i" site="movistarplus.es" site_id="FUTREP" xmltv_id="[199] Canal Fútbol Replay">[199] Canal Fútbol Replay</channel>
-    <channel update="i" site="movistarplus.es" site_id="MLIGUH" xmltv_id="[440] M+ LALIGA TV UHD">[440] M+ LALIGA TV UHD</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHAUHD" xmltv_id="[441] M+ Liga de Campeones UHD">[441] M+ Liga de Campeones UHD</channel>
-    <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="[442] DAZN F1 4K">[442] DAZN F1 4K</channel>
-    <channel update="i" site="movistarplus.es" site_id="CHUHD1" xmltv_id="[443] M+ Liga de Campeones2 UHD">[443] M+ Liga de Campeones2 UHD</channel>
-    <channel update="i" site="movistarplus.es" site_id="MORIG" xmltv_id="[13] M+ Originales">[13] M+ Originales</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVE" xmltv_id="LA 1 [01]">LA 1 [01]</channel>
+    <channel update="i" site="movistarplus.es" site_id="LA2" xmltv_id="LA 2 [02]">LA 2 [02]</channel>
+    <channel update="i" site="movistarplus.es" site_id="A3" xmltv_id="Antena 3 [03]">Antena 3 [03]</channel>
+    <channel update="i" site="movistarplus.es" site_id="C4" xmltv_id="Cuatro [04]">Cuatro [04]</channel>
+    <channel update="i" site="movistarplus.es" site_id="T5" xmltv_id="Telecinco [05]">Telecinco [05]</channel>
+    <channel update="i" site="movistarplus.es" site_id="SEXTA" xmltv_id="La Sexta [06]">La Sexta [06]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MPLUS" xmltv_id="Movistar Plus+ [07]">Movistar Plus+ [07]</channel>
+    <channel update="i" site="movistarplus.es" site_id="VAMOSD" xmltv_id="M+ Vamos [53]">M+ Vamos [53]</channel>
+    <channel update="i" site="movistarplus.es" site_id="7TVMUR" xmltv_id="7 TV Región Murcia [09]">7 TV Región Murcia [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="APUNT" xmltv_id="À Punt [09]">À Punt [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARAGTV" xmltv_id="Aragón TV [09]">Aragón TV [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CANAR" xmltv_id="TV Canaria [09]">TV Canaria [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CANSUR" xmltv_id="Canal Sur [09]">Canal Sur [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CASMAN" xmltv_id="Castilla la Mancha TV [09]">Castilla la Mancha TV [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CSURHD" xmltv_id="Canal Sur HD [09]">Canal Sur HD [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CYLTV" xmltv_id="La 7 [09]">La 7 [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB1" xmltv_id="ETB 1 [09]">ETB 1 [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="EXTRE" xmltv_id="Canal Extremadura [09]">Canal Extremadura [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="IB3" xmltv_id="IB3 [09]">IB3 [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NAVA" xmltv_id="Navarra TV [09]">Navarra TV [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TELMAD" xmltv_id="Telemadrid [09]">Telemadrid [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TPA" xmltv_id="TPA [09]">TPA [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TV3CAT" xmltv_id="TV3 [09]">TV3 [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVGAL" xmltv_id="TVG -TV Galicia [09]">TVG -TV Galicia [09]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ANDATV" xmltv_id="Andalucía TV [10]">Andalucía TV [10]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB2" xmltv_id="ETB 2 [10]">ETB 2 [10]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEDITE" xmltv_id="La Ocho TV [10]">La Ocho TV [10]</channel>
+    <channel update="i" site="movistarplus.es" site_id="OTRA" xmltv_id="La Otra [10]">La Otra [10]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVG2" xmltv_id="TVG 2 [10]">TVG 2 [10]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MV1" xmltv_id="M+ Cine [12]">M+ Cine [12]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MV2" xmltv_id="M+ Series [13]">M+ Series [13]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MORIG" xmltv_id="M+ Originales [14]">M+ Originales [14]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MVCIVA" xmltv_id="Canal Pop Up [15]">Canal Pop Up [15]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MDOC" xmltv_id="M+ Documentales [17]">M+ Documentales [17]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MONFIR" xmltv_id="M+ Música [18]">M+ Música [18]</channel>
+    <channel update="i" site="movistarplus.es" site_id="RESIST" xmltv_id="La Resistencia [19]">La Resistencia [19]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MCLAS" xmltv_id="M+ Clásicos [20]">M+ Clásicos [20]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPACCI" xmltv_id="M+ Acción [21]">M+ Acción [21]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPCOME" xmltv_id="M+ Comedia [22]">M+ Comedia [22]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPCOLE" xmltv_id="M+ Drama [23]">M+ Drama [23]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MSUSP" xmltv_id="M+ Suspense [24]">M+ Suspense [24]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MINDI" xmltv_id="M+ Indie [25]">M+ Indie [25]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCESP" xmltv_id="M+ Cine Español [26]">M+ Cine Español [26]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TCM" xmltv_id="TCM [30]">TCM [30]</channel>
+    <channel update="i" site="movistarplus.es" site_id="HOLLYW" xmltv_id="Hollywood [31]">Hollywood [31]</channel>
+    <channel update="i" site="movistarplus.es" site_id="XTRM" xmltv_id="XTRM [32]">XTRM [32]</channel>
+    <channel update="i" site="movistarplus.es" site_id="SUNDAN" xmltv_id="Sundance [33]">Sundance [33]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DARK" xmltv_id="DARK [34]">DARK [34]</channel>
+    <channel update="i" site="movistarplus.es" site_id="SOMOS" xmltv_id="Somos [35]">Somos [35]</channel>
+    <channel update="i" site="movistarplus.es" site_id="PARCH" xmltv_id="Paramount Channel [36]">Paramount Channel [36]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BEMAD" xmltv_id="BE MAD [37]">BE MAD [37]</channel>
+    <channel update="i" site="movistarplus.es" site_id="FOXGE" xmltv_id="Fox [38]">Fox [38]</channel>
+    <channel update="i" site="movistarplus.es" site_id="AXN" xmltv_id="AXN [39]">AXN [39]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TNT" xmltv_id="Warner TV [40]">Warner TV [40]</channel>
+    <channel update="i" site="movistarplus.es" site_id="PCM" xmltv_id="Comedy Central [41]">Comedy Central [41]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CL13" xmltv_id="Calle 13 [42]">Calle 13 [42]</channel>
+    <channel update="i" site="movistarplus.es" site_id="COSMO" xmltv_id="COSMO [43]">COSMO [43]</channel>
+    <channel update="i" site="movistarplus.es" site_id="SCI-FI" xmltv_id="SYFY [44]">SYFY [44]</channel>
+    <channel update="i" site="movistarplus.es" site_id="AMC" xmltv_id="AMC [45]">AMC [45]</channel>
+    <channel update="i" site="movistarplus.es" site_id="SET" xmltv_id="AXN Movies [46]">AXN Movies [46]</channel>
+    <channel update="i" site="movistarplus.es" site_id="13TV" xmltv_id="13 TV [47]">13 TV [47]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ENERGY" xmltv_id="Energy [48]">Energy [48]</channel>
+    <channel update="i" site="movistarplus.es" site_id="FDFIC" xmltv_id="Factoría de Ficción [49]">Factoría de Ficción [49]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NEOX" xmltv_id="Neox [50]">Neox [50]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ATRESS" xmltv_id="Atreseries [51]">Atreseries [51]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIG2" xmltv_id="M+ Supercopa [52]">M+ Supercopa [52]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIGA" xmltv_id="M+ LALIGA TV [54]">M+ LALIGA TV [54]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DAZNLI" xmltv_id="DAZN LALIGA [55]">DAZN LALIGA [55]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIGS" xmltv_id="LALIGA TV HYPERMOTION [56]">LALIGA TV HYPERMOTION [56]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIG1" xmltv_id="M+ LALIGA TV 2 [57]">M+ LALIGA TV 2 [57]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DAZNL2" xmltv_id="DAZN LALIGA 2 [58]">DAZN LALIGA 2 [58]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIGS2" xmltv_id="LALIGA TV HYPERMOTION 2 [59]">LALIGA TV HYPERMOTION 2 [59]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAPIO" xmltv_id="M+ Liga de Campeones [60]">M+ Liga de Campeones [60]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP1" xmltv_id="M+ Liga de Campeones 2 [61]">M+ Liga de Campeones 2 [61]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP2" xmltv_id="M+ Liga de Campeones 3 [62]">M+ Liga de Campeones 3 [62]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CPDEP" xmltv_id="M+ Deportes [63]">M+ Deportes [63]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARTHUR" xmltv_id="M+ Deportes 2 [64]">M+ Deportes 2 [64]</channel>
+    <channel update="i" site="movistarplus.es" site_id="USOP2" xmltv_id="M+ Deportes 3 [65]">M+ Deportes 3 [65]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MELLAV" xmltv_id="M+ Ellas V [66]">M+ Ellas V [66]</channel>
+    <channel update="i" site="movistarplus.es" site_id="GOLF+" xmltv_id="M+ Golf [67]">M+ Golf [67]</channel>
+    <channel update="i" site="movistarplus.es" site_id="GOLF2" xmltv_id="M+ Golf 2 [68]">M+ Golf 2 [68]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MVF1" xmltv_id="DAZN F1 [69]">DAZN F1 [69]</channel>
+    <channel update="i" site="movistarplus.es" site_id="M1SD" xmltv_id="DAZN 1 [70]">DAZN 1 [70]</channel>
+    <channel update="i" site="movistarplus.es" site_id="M2SD" xmltv_id="DAZN 2 [71]">DAZN 2 [71]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP" xmltv_id="Eurosport 1 [72]">Eurosport 1 [72]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP2" xmltv_id="Eurosport 2 [73]">Eurosport 2 [73]</channel>
+    <channel update="i" site="movistarplus.es" site_id="GOL" xmltv_id="GOL PLAY [74]">GOL PLAY [74]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TDEP" xmltv_id="Teledeporte [75]">Teledeporte [75]</channel>
+    <channel update="i" site="movistarplus.es" site_id="REALM" xmltv_id="Real Madrid TV [76]">Real Madrid TV [76]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CAZPES" xmltv_id="Caza y Pesca [77]">Caza y Pesca [77]</channel>
+    <channel update="i" site="movistarplus.es" site_id="IBERAL" xmltv_id="Iberalia TV [78]">Iberalia TV [78]</channel>
+    <channel update="i" site="movistarplus.es" site_id="GARAGE" xmltv_id="El Garage TV [79]">El Garage TV [79]</channel>
+    <channel update="i" site="movistarplus.es" site_id="UBEAT" xmltv_id="Ubeat [80]">Ubeat [80]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NATGEO" xmltv_id="National Geographic [82]">National Geographic [82]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NATGW" xmltv_id="Nat Geo Wild [83]">Nat Geo Wild [83]</channel>
+    <channel update="i" site="movistarplus.es" site_id="HIST" xmltv_id="Historia [84]">Historia [84]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCR" xmltv_id="Discovery [85]">Discovery [85]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ODISEA" xmltv_id="Odisea [86]">Odisea [86]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BIOGRA" xmltv_id="AMC Break [87]">AMC Break [87]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCRMAX" xmltv_id="DMAX [89]">DMAX [89]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CYM" xmltv_id="AMC Crime [90]">AMC Crime [90]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BUENV" xmltv_id="BuenViaje [91]">BuenViaje [91]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CACOC" xmltv_id="Canal Cocina [92]">Canal Cocina [92]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DECASA" xmltv_id="Canal Decasa [93]">Canal Decasa [93]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DKISS" xmltv_id="DKISS [94]">DKISS [94]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DIVINI" xmltv_id="Divinity [95]">Divinity [95]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NOVA" xmltv_id="Nova [96]">Nova [96]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEGA" xmltv_id="Mega [97]">Mega [97]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TEN" xmltv_id="Ten [98]">Ten [98]</channel>
+    <channel update="i" site="movistarplus.es" site_id="PANDA" xmltv_id="Enfamilia [99]">Enfamilia [99]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BABY" xmltv_id="Baby TV [110]">Baby TV [110]</channel>
+    <channel update="i" site="movistarplus.es" site_id="PLAYDC" xmltv_id="Disney Junior [111]">Disney Junior [111]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NICKJR" xmltv_id="NICK JR [113]">NICK JR [113]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NICK" xmltv_id="Nickelodeon [114]">Nickelodeon [114]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DWSP" xmltv_id="Dreamworks [115]">Dreamworks [115]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DCH" xmltv_id="Disney Channel [116]">Disney Channel [116]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BOING" xmltv_id="Boing [117]">Boing [117]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLANTV" xmltv_id="Clan TVE [118]">Clan TVE [118]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB3" xmltv_id="ETB 3 [119]">ETB 3 [119]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MTV" xmltv_id="MTV [120]">MTV [120]</channel>
+    <channel update="i" site="movistarplus.es" site_id="VH1" xmltv_id="MTV 00s [121]">MTV 00s [121]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEZZO" xmltv_id="Mezzo [123]">Mezzo [123]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MEZOHD" xmltv_id="Mezzo Live HD [124]">Mezzo Live HD [124]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLASSD" xmltv_id="Classica [125]">Classica [125]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CLASSI" xmltv_id="Classica HD [125]">Classica HD [125]</channel>
+    <channel update="i" site="movistarplus.es" site_id="24H" xmltv_id="24 Horas [127]">24 Horas [127]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BBC" xmltv_id="BBC World [128]">BBC World [128]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CNN" xmltv_id="CNN Int [129]">CNN Int [129]</channel>
+    <channel update="i" site="movistarplus.es" site_id="FOXNWS" xmltv_id="Fox News [130]">Fox News [130]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ENW" xmltv_id="Euronews [131]">Euronews [131]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ALJAZE" xmltv_id="Al Jazeera English [132]">Al Jazeera English [132]</channel>
+    <channel update="i" site="movistarplus.es" site_id="FRANCE" xmltv_id="FRANCE24 (FR) [133]">FRANCE24 (FR) [133]</channel>
+    <channel update="i" site="movistarplus.es" site_id="INTEUA" xmltv_id="1+1 Internacional [135]">1+1 Internacional [135]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NBC" xmltv_id="CNBC [136]">CNBC [136]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TV5" xmltv_id="TV5MONDE [137]">TV5MONDE [137]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BL" xmltv_id="Bloomberg [138]">Bloomberg [138]</channel>
+    <channel update="i" site="movistarplus.es" site_id="SKYNW" xmltv_id="Sky News [139]">Sky News [139]</channel>
+    <channel update="i" site="movistarplus.es" site_id="INTECO" xmltv_id="El Toro TV [139]">El Toro TV [139]</channel>
+    <channel update="i" site="movistarplus.es" site_id="NEGOTV" xmltv_id="Negocios TV [140]">Negocios TV [140]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CCTV-E" xmltv_id="CGTN Español [142]">CGTN Español [142]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TELEFE" xmltv_id="Telefe Internacional [143]">Telefe Internacional [143]</channel>
+    <channel update="i" site="movistarplus.es" site_id="GALAV" xmltv_id="Canal de las Estrellas [144]">Canal de las Estrellas [144]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHILE" xmltv_id="TV Chile [145]">TV Chile [145]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARIRHD" xmltv_id="Arirang TV HD [145]">Arirang TV HD [145]</channel>
+    <channel update="i" site="movistarplus.es" site_id="COLOMB" xmltv_id="TV Colombia [146]">TV Colombia [146]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CUBAV" xmltv_id="Cubavisión [147]">Cubavisión [147]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TLESUR" xmltv_id="Telesur [148]">Telesur [148]</channel>
+    <channel update="i" site="movistarplus.es" site_id="EWTN" xmltv_id="EWTN [149]">EWTN [149]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ANTV" xmltv_id="Canal Sur Andalucía [151]">Canal Sur Andalucía [151]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVG" xmltv_id="TVG Europa [152]">TVG Europa [152]</channel>
+    <channel update="i" site="movistarplus.es" site_id="EXTREM" xmltv_id="Canal Extremadura Sat [153]">Canal Extremadura Sat [153]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TVC" xmltv_id="TV3 Cat [154]">TV3 Cat [154]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ETB" xmltv_id="EITB Basque [155]">EITB Basque [155]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ARAGON" xmltv_id="Aragón TV Int [156]">Aragón TV Int [156]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TELMIN" xmltv_id="Telemadrid Int. [157]">Telemadrid Int. [157]</channel>
+    <channel update="i" site="movistarplus.es" site_id="C33" xmltv_id="Canal 33 [163]">Canal 33 [163]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP3" xmltv_id="Esport 3 [164]">Esport 3 [164]</channel>
+    <channel update="i" site="movistarplus.es" site_id="3_24" xmltv_id="3 24 [165]">3 24 [165]</channel>
+    <channel update="i" site="movistarplus.es" site_id="BTV" xmltv_id="Betevé [166]">Betevé [166]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIG3" xmltv_id="INFO []">INFO []</channel>
+    <channel update="i" site="movistarplus.es" site_id="MPLUS2" xmltv_id="Movistar Plus+ 2 [176]">Movistar Plus+ 2 [176]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIGS3" xmltv_id="LALIGA TV HYPERMOTION 3 [178]">LALIGA TV HYPERMOTION 3 [178]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP3" xmltv_id="M+ Liga de Campeones 4 [180]">M+ Liga de Campeones 4 [180]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP4" xmltv_id="M+ Liga de Campeones 5 [181]">M+ Liga de Campeones 5 [181]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP5" xmltv_id="M+ Liga de Campeones 6 [182]">M+ Liga de Campeones 6 [182]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP6" xmltv_id="M+ Liga de Campeones 7 [183]">M+ Liga de Campeones 7 [183]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP7" xmltv_id="M+ Liga de Campeones 8 [184]">M+ Liga de Campeones 8 [184]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP8" xmltv_id="M+ Liga de Campeones 9 [185]">M+ Liga de Campeones 9 [185]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP9" xmltv_id="M+ Liga de Campeones 10 [186]">M+ Liga de Campeones 10 [186]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP10" xmltv_id="M+ Liga de Campeones 11 [187]">M+ Liga de Campeones 11 [187]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP11" xmltv_id="M+ Liga de Campeones 12 [188]">M+ Liga de Campeones 12 [188]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAP12" xmltv_id="M+ Liga de Campeones 13 [189]">M+ Liga de Campeones 13 [189]</channel>
+    <channel update="i" site="movistarplus.es" site_id="PBOY" xmltv_id="Playboy TV [190]">Playboy TV [190]</channel>
+    <channel update="i" site="movistarplus.es" site_id="USOP3" xmltv_id="M+ Deportes 4 [191]">M+ Deportes 4 [191]</channel>
+    <channel update="i" site="movistarplus.es" site_id="USOP11" xmltv_id="M+ Deportes 5 [192]">M+ Deportes 5 [192]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MULTI8" xmltv_id="M+ Deportes 6 [193]">M+ Deportes 6 [193]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MULTI6" xmltv_id="M+ Deportes 7 [194]">M+ Deportes 7 [194]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DAZN3" xmltv_id="DAZN 3 [196]">DAZN 3 [196]</channel>
+    <channel update="i" site="movistarplus.es" site_id="DAZN4" xmltv_id="DAZN 4 [197]">DAZN 4 [197]</channel>
+    <channel update="i" site="movistarplus.es" site_id="HDTQ10" xmltv_id="Alquiler HD [198]">Alquiler HD [198]</channel>
+    <channel update="i" site="movistarplus.es" site_id="TQ1" xmltv_id="Alquiler  1 [198]">Alquiler  1 [198]</channel>
+    <channel update="i" site="movistarplus.es" site_id="FUTREP" xmltv_id="Canal Fútbol Replay [199]">Canal Fútbol Replay [199]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MLIGUH" xmltv_id="M+ LALIGA TV UHD [440]">M+ LALIGA TV UHD [440]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHAUHD" xmltv_id="M+ Liga de Campeones UHD [441]">M+ Liga de Campeones UHD [441]</channel>
+    <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="DAZN F1 4K [442]">DAZN F1 4K [442]</channel>
+    <channel update="i" site="movistarplus.es" site_id="CHUHD1" xmltv_id="M+ Liga de Campeones2 UHD [443]">M+ Liga de Campeones2 UHD [443]</channel>
+    <channel update="i" site="movistarplus.es" site_id="ESP4K" xmltv_id="Eurosport 4K [444]">Eurosport 4K [444]</channel>
   </channels>
 </site>
