@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.5 -- Jan van Straaten" site="vodafone.pt">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.1 -- Jan van Straaten" site="vodafone.pt">
   <channels>
     <channel update="i" site="vodafone.pt" site_id="RTP 1 HD" xmltv_id="RTPHD">RTPHD</channel>
     <channel update="i" site="vodafone.pt" site_id="RTP 2 HD" xmltv_id="RTP 2 HD">RTP 2 HD</channel>
@@ -12,13 +12,13 @@
     <channel update="i" site="vodafone.pt" site_id="SPTV+ HD" xmltv_id="Sport TV + HD">Sport TV + HD</channel>
     <channel update="i" site="vodafone.pt" site_id="GLOBO HD" xmltv_id="TV Globo Básico HD">TV Globo Básico HD</channel>
     <channel update="i" site="vodafone.pt" site_id="CANAL 11 HD" xmltv_id="Canal 11 HD">Canal 11 HD</channel>
+    <channel update="i" site="vodafone.pt" site_id="TVI Ficcao" xmltv_id="TVI Ficção">TVI Ficção</channel>
     <channel update="i" site="vodafone.pt" site_id="PORTOC HD" xmltv_id="PORTOC HD">PORTOC HD</channel>
     <channel update="i" site="vodafone.pt" site_id="SIC C HD" xmltv_id="SIC Caras HD">SIC Caras HD</channel>
     <channel update="i" site="vodafone.pt" site_id="SIC R HD" xmltv_id="SIC Radical HD">SIC Radical HD</channel>
     <channel update="i" site="vodafone.pt" site_id="SIC M HD" xmltv_id="SIC Mulher HD">SIC Mulher HD</channel>
     <channel update="i" site="vodafone.pt" site_id="RTPMEM" xmltv_id="RTP Memoria">RTP Memoria</channel>
     <channel update="i" site="vodafone.pt" site_id="24K HD" xmltv_id="24Kitchen HD">24Kitchen HD</channel>
-    <channel update="i" site="vodafone.pt" site_id="Canal Q HD" xmltv_id="Canal Q HD">Canal Q HD</channel>
     <channel update="i" site="vodafone.pt" site_id="SPTV1 HD" xmltv_id="Sport TV 1 HD">Sport TV 1 HD</channel>
     <channel update="i" site="vodafone.pt" site_id="SPTV2 HD" xmltv_id="Sport TV 2 HD">Sport TV 2 HD</channel>
     <channel update="i" site="vodafone.pt" site_id="SPTV3 HD" xmltv_id="Sport TV 3 HD">Sport TV 3 HD</channel>
@@ -45,12 +45,12 @@
     <channel update="i" site="vodafone.pt" site_id="DISNEY" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="vodafone.pt" site_id="DISNEY JR HD" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
     <channel update="i" site="vodafone.pt" site_id="PANDA KIDS" xmltv_id="Panda Kids">Panda Kids</channel>
-    <channel update="i" site="vodafone.pt" site_id="CN PT" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="vodafone.pt" site_id="CN HD" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
     <channel update="i" site="vodafone.pt" site_id="PANDA HD" xmltv_id="Panda HD">Panda HD</channel>
     <channel update="i" site="vodafone.pt" site_id="PANDA B" xmltv_id="Panda Biggs">Panda Biggs</channel>
     <channel update="i" site="vodafone.pt" site_id="BABYTV" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="vodafone.pt" site_id="SIC K HD" xmltv_id="SIC K HD">SIC K HD</channel>
-    <channel update="i" site="vodafone.pt" site_id="BOOMERANG" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="vodafone.pt" site_id="CARTOONITO HD" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
     <channel update="i" site="vodafone.pt" site_id="NICK" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="vodafone.pt" site_id="SUPER RTL" xmltv_id="Super RTL">Super RTL</channel>
     <channel update="i" site="vodafone.pt" site_id="TVC Top HD" xmltv_id="TVCine Top HD">TVCine Top HD</channel>
@@ -71,6 +71,7 @@
     <channel update="i" site="vodafone.pt" site_id="SyFy SD" xmltv_id="SyFy SD">SyFy SD</channel>
     <channel update="i" site="vodafone.pt" site_id="AMC HD" xmltv_id="AMC HD">AMC HD</channel>
     <channel update="i" site="vodafone.pt" site_id="EUROCHANNEL PT" xmltv_id="Eurochannel PT">Eurochannel PT</channel>
+    <channel update="i" site="vodafone.pt" site_id="Canal Q HD" xmltv_id="Canal Q HD">Canal Q HD</channel>
     <channel update="i" site="vodafone.pt" site_id="MTV P HD" xmltv_id="MTV Portugal HD">MTV Portugal HD</channel>
     <channel update="i" site="vodafone.pt" site_id="MTV00s" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel update="i" site="vodafone.pt" site_id="CLASSICA" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
@@ -83,18 +84,20 @@
     <channel update="i" site="vodafone.pt" site_id="TRACE HD" xmltv_id="Trace TV HD">Trace TV HD</channel>
     <channel update="i" site="vodafone.pt" site_id="TRACE TOCA" xmltv_id="Trace Toca">Trace Toca</channel>
     <channel update="i" site="vodafone.pt" site_id="MEZZO LIVE HD" xmltv_id="MEZZO Live HD">MEZZO Live HD</channel>
+    <channel update="i" site="vodafone.pt" site_id="ICONCERTS" xmltv_id="iConcerts">iConcerts</channel>
     <channel update="i" site="vodafone.pt" site_id="Disc HD" xmltv_id="Discovery HD">Discovery HD</channel>
     <channel update="i" site="vodafone.pt" site_id="NGC HD" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
     <channel update="i" site="vodafone.pt" site_id="NGW HD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
     <channel update="i" site="vodafone.pt" site_id="HISTOR" xmltv_id="História">História</channel>
     <channel update="i" site="vodafone.pt" site_id="ODISSEIA HD" xmltv_id="Odisseia HD">Odisseia HD</channel>
     <channel update="i" site="vodafone.pt" site_id="DOCUBOX HD" xmltv_id="Docubox HD">Docubox HD</channel>
-    <channel update="i" site="vodafone.pt" site_id="RT DOC" xmltv_id="Russia Today Documentary">Russia Today Documentary</channel>
+    <channel update="i" site="vodafone.pt" site_id="AMC CRIME" xmltv_id="AMC Crime HD">AMC Crime HD</channel>
     <channel update="i" site="vodafone.pt" site_id="S+" xmltv_id="S+">S+</channel>
     <channel update="i" site="vodafone.pt" site_id="CASAECOZ" xmltv_id="Casa e Cozinha HD">Casa e Cozinha HD</channel>
+    <channel update="i" site="vodafone.pt" site_id="TVI Reality" xmltv_id="TVI Reality">TVI Reality</channel>
     <channel update="i" site="vodafone.pt" site_id="GLOBO NOW HD" xmltv_id="Globo Now HD">Globo Now HD</channel>
     <channel update="i" site="vodafone.pt" site_id="TV REC HD" xmltv_id="TV Record HD">TV Record HD</channel>
-    <channel update="i" site="vodafone.pt" site_id="BLAZE HD" xmltv_id="Blaze HD">Blaze HD</channel>
+    <channel update="i" site="vodafone.pt" site_id="AMC Break HD" xmltv_id="AMC Break HD">AMC Break HD</channel>
     <channel update="i" site="vodafone.pt" site_id="TLC" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="vodafone.pt" site_id="E! HD" xmltv_id="E! HD">E! HD</channel>
     <channel update="i" site="vodafone.pt" site_id="TRAVEL HD" xmltv_id="Travel HD">Travel HD</channel>
@@ -103,7 +106,7 @@
     <channel update="i" site="vodafone.pt" site_id="BBC ENTERT" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
     <channel update="i" site="vodafone.pt" site_id="M6" xmltv_id="M6">M6</channel>
     <channel update="i" site="vodafone.pt" site_id="FastnFunBox" xmltv_id="FastnFunbox HD">FastnFunbox HD</channel>
-    <channel update="i" site="vodafone.pt" site_id="GINX" xmltv_id="GINX">GINX</channel>
+    <channel update="i" site="vodafone.pt" site_id="GINX ESPORTS HD" xmltv_id="GINX HD">GINX HD</channel>
     <channel update="i" site="vodafone.pt" site_id="LUXEHD" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
     <channel update="i" site="vodafone.pt" site_id="QYOU HD" xmltv_id="QYOU HD">QYOU HD</channel>
     <channel update="i" site="vodafone.pt" site_id="MZENHD" xmltv_id="Melody Zen. TV">Melody Zen. TV</channel>
@@ -125,7 +128,7 @@
     <channel update="i" site="vodafone.pt" site_id="FRA24E" xmltv_id="France 24 Eng">France 24 Eng</channel>
     <channel update="i" site="vodafone.pt" site_id="TVC NEWS" xmltv_id="TVC NEWS">TVC NEWS</channel>
     <channel update="i" site="vodafone.pt" site_id="PHOENI" xmltv_id="Phoenix InfoNews">Phoenix InfoNews</channel>
-    <channel update="i" site="vodafone.pt" site_id="RTPMAD" xmltv_id="RTP Madeira">RTP Madeira</channel>
+    <channel update="i" site="vodafone.pt" site_id="RTP MAD HD" xmltv_id="RTP Madeira HD">RTP Madeira HD</channel>
     <channel update="i" site="vodafone.pt" site_id="RTPACOR HD" xmltv_id="RTP Açores HD">RTP Açores HD</channel>
     <channel update="i" site="vodafone.pt" site_id="Local HD" xmltv_id="Localvisão HD">Localvisão HD</channel>
     <channel update="i" site="vodafone.pt" site_id="RTP AF" xmltv_id="RTP Africa">RTP Africa</channel>
@@ -138,18 +141,20 @@
     <channel update="i" site="vodafone.pt" site_id="RAI 1" xmltv_id="RAI 1">RAI 1</channel>
     <channel update="i" site="vodafone.pt" site_id="VOX" xmltv_id="VOX">VOX</channel>
     <channel update="i" site="vodafone.pt" site_id="RTL" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="vodafone.pt" site_id="RUSSIA" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="vodafone.pt" site_id="RT DOC" xmltv_id="RT Doc">RT Doc</channel>
+    <channel update="i" site="vodafone.pt" site_id="RUSSIA" xmltv_id="RT">RT</channel>
     <channel update="i" site="vodafone.pt" site_id="PROTV" xmltv_id="PRO TV International">PRO TV International</channel>
     <channel update="i" site="vodafone.pt" site_id="KBS WORLD" xmltv_id="KBS">KBS</channel>
     <channel update="i" site="vodafone.pt" site_id="ARIRANG TV" xmltv_id="Arirang TV">Arirang TV</channel>
     <channel update="i" site="vodafone.pt" site_id="NHK WORLD" xmltv_id="NHK WORLD TV">NHK WORLD TV</channel>
     <channel update="i" site="vodafone.pt" site_id="CUBAVI" xmltv_id="Cubavision">Cubavision</channel>
-    <channel update="i" site="vodafone.pt" site_id="UATV" xmltv_id="UATV">UATV</channel>
+    <channel update="i" site="vodafone.pt" site_id="FREEDOM" xmltv_id="FREEDOM">FREEDOM</channel>
     <channel update="i" site="vodafone.pt" site_id="SET A" xmltv_id="SET Ásia">SET Ásia</channel>
     <channel update="i" site="vodafone.pt" site_id="STAR P" xmltv_id="Star Plus">Star Plus</channel>
     <channel update="i" site="vodafone.pt" site_id="SET M" xmltv_id="SET Max">SET Max</channel>
     <channel update="i" site="vodafone.pt" site_id="STAR G" xmltv_id="Star Gold">Star Gold</channel>
     <channel update="i" site="vodafone.pt" site_id="CNova" xmltv_id="Canção Nova TV">Canção Nova TV</channel>
+    <channel update="i" site="vodafone.pt" site_id="UNIFETV" xmltv_id="UNIFETV">UNIFETV</channel>
     <channel update="i" site="vodafone.pt" site_id="KURIAKOS TV" xmltv_id="Kuriakos TV">Kuriakos TV</channel>
     <channel update="i" site="vodafone.pt" site_id="TOUROS" xmltv_id="Touros">Touros</channel>
     <channel update="i" site="vodafone.pt" site_id="CAC &amp; PESCA" xmltv_id="Caza &amp; Pesca">Caza &amp; Pesca</channel>
@@ -186,8 +191,10 @@
     <channel update="i" site="vodafone.pt" site_id="SCP TV" xmltv_id="Sporting TV">Sporting TV</channel>
     <channel update="i" site="vodafone.pt" site_id="FUELTV" xmltv_id="Fuel TV">Fuel TV</channel>
     <channel update="i" site="vodafone.pt" site_id="DISNEY J" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="vodafone.pt" site_id="CN PT" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="vodafone.pt" site_id="PANDA" xmltv_id="Panda">Panda</channel>
     <channel update="i" site="vodafone.pt" site_id="SIC K" xmltv_id="SIC K">SIC K</channel>
+    <channel update="i" site="vodafone.pt" site_id="CARTOONITO" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="vodafone.pt" site_id="TVC Top" xmltv_id="TVCine Top">TVCine Top</channel>
     <channel update="i" site="vodafone.pt" site_id="TVC Edition" xmltv_id="TVCine Edition">TVCine Edition</channel>
     <channel update="i" site="vodafone.pt" site_id="TVC Emotion" xmltv_id="TVCine Emotion">TVCine Emotion</channel>
@@ -214,12 +221,16 @@
     <channel update="i" site="vodafone.pt" site_id="CASAECOZ SD" xmltv_id="Casa e Cozinha">Casa e Cozinha</channel>
     <channel update="i" site="vodafone.pt" site_id="GLOBO NOW" xmltv_id="Globo Now">Globo Now</channel>
     <channel update="i" site="vodafone.pt" site_id="TV REC" xmltv_id="TV Record">TV Record</channel>
-    <channel update="i" site="vodafone.pt" site_id="BLAZE" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="vodafone.pt" site_id="AMC Break" xmltv_id="AMC Break">AMC Break</channel>
+    <channel update="i" site="vodafone.pt" site_id="TLC SD" xmltv_id="TLC SD">TLC SD</channel>
     <channel update="i" site="vodafone.pt" site_id="E!" xmltv_id="E!">E!</channel>
     <channel update="i" site="vodafone.pt" site_id="TRAVEL" xmltv_id="Travel">Travel</channel>
     <channel update="i" site="vodafone.pt" site_id="FASHTV" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="vodafone.pt" site_id="TFN" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="vodafone.pt" site_id="GINX" xmltv_id="GINX">GINX</channel>
     <channel update="i" site="vodafone.pt" site_id="QYOU SD" xmltv_id="QYOU SD">QYOU SD</channel>
+    <channel update="i" site="vodafone.pt" site_id="CNN SD" xmltv_id="CNN SD">CNN SD</channel>
+    <channel update="i" site="vodafone.pt" site_id="RTPMAD" xmltv_id="RTP Madeira">RTP Madeira</channel>
     <channel update="i" site="vodafone.pt" site_id="RTPACOR" xmltv_id="RTP Açores">RTP Açores</channel>
     <channel update="i" site="vodafone.pt" site_id="Localv" xmltv_id="Localvisão">Localvisão</channel>
     <channel update="i" site="vodafone.pt" site_id="180" xmltv_id="Canal 180">Canal 180</channel>
