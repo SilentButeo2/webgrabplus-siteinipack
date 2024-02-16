@@ -1,24 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="sledovanitv.cz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.2 -- Jan van Straaten" site="sledovanitv.cz">
   <channels>
     <channel update="i" site="sledovanitv.cz" site_id="ct1" xmltv_id="ČT1">ČT1</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ct2" xmltv_id="ČT2">ČT2</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ct24" xmltv_id="ČT24">ČT24</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ct4sport" xmltv_id="ČT Sport">ČT Sport</channel>
     <channel update="i" site="sledovanitv.cz" site_id="primafamily" xmltv_id="Prima">Prima</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="prima_max" xmltv_id="Prima Max">Prima Max</channel>
     <channel update="i" site="sledovanitv.cz" site_id="primacool" xmltv_id="Prima COOL">Prima COOL</channel>
     <channel update="i" site="sledovanitv.cz" site_id="prima_krimi" xmltv_id="Prima Krimi">Prima Krimi</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="primazoom" xmltv_id="Prima Zoom">Prima Zoom</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="ctdecko" xmltv_id="Déčko">Déčko</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="ctart" xmltv_id="ČT art">ČT art</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="prima_max" xmltv_id="Prima Max">Prima Max</channel>
     <channel update="i" site="sledovanitv.cz" site_id="primalove" xmltv_id="Prima Love">Prima Love</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="prima_news" xmltv_id="CNN Prima News">CNN Prima News</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="ctdecko" xmltv_id="ČT Déčko">ČT Déčko</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="ctart" xmltv_id="ČT art">ČT art</channel>
     <channel update="i" site="sledovanitv.cz" site_id="prima_show" xmltv_id="Prima Show">Prima Show</channel>
     <channel update="i" site="sledovanitv.cz" site_id="prima_star" xmltv_id="Prima Star">Prima Star</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="prima_news" xmltv_id="CNN Prima News">CNN Prima News</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="primazoom" xmltv_id="Prima Zoom">Prima Zoom</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ct1jm" xmltv_id="ČT1 JM">ČT1 JM</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ct1sm" xmltv_id="ČT1 SM">ČT1 SM</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="primacomedy" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Seznam" xmltv_id="Televize Seznam">Televize Seznam</channel>
     <channel update="i" site="sledovanitv.cz" site_id="nova" xmltv_id="Nova">Nova</channel>
     <channel update="i" site="sledovanitv.cz" site_id="novacinema" xmltv_id="Nova Cinema">Nova Cinema</channel>
@@ -30,9 +29,13 @@
     <channel update="i" site="sledovanitv.cz" site_id="nova_sport2" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
     <channel update="i" site="sledovanitv.cz" site_id="stv1" xmltv_id="Jednotka">Jednotka</channel>
     <channel update="i" site="sledovanitv.cz" site_id="stv2" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="ct1jzc" xmltv_id="ČT1 JZČ">ČT1 JZČ</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="ct1svc" xmltv_id="ČT1 SVČ">ČT1 SVČ</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="stv24" xmltv_id="RTVS :24">RTVS :24</channel>
     <channel update="i" site="sledovanitv.cz" site_id="jojcinema" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
     <channel update="i" site="sledovanitv.cz" site_id="jojfamily" xmltv_id="JOJ Family">JOJ Family</channel>
     <channel update="i" site="sledovanitv.cz" site_id="markizaint" xmltv_id="Markíza International">Markíza International</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="spektrum_home" xmltv_id="Spektrum home">Spektrum home</channel>
     <channel update="i" site="sledovanitv.cz" site_id="HBO" xmltv_id="HBO">HBO</channel>
     <channel update="i" site="sledovanitv.cz" site_id="HBO2" xmltv_id="HBO 2">HBO 2</channel>
     <channel update="i" site="sledovanitv.cz" site_id="hbo_comedy" xmltv_id="HBO 3">HBO 3</channel>
@@ -42,17 +45,19 @@
     <channel update="i" site="sledovanitv.cz" site_id="FilmboxHD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
     <channel update="i" site="sledovanitv.cz" site_id="FilmboxExtra" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
     <channel update="i" site="sledovanitv.cz" site_id="FilmboxFamily" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="360TuneBox" xmltv_id="360TuneBox">360TuneBox</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="filmboxplus" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="FilmboxArthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
     <channel update="i" site="sledovanitv.cz" site_id="DocuBoxHD" xmltv_id="DocuBox">DocuBox</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="stv24" xmltv_id="RTVS :24">RTVS :24</channel>
     <channel update="i" site="sledovanitv.cz" site_id="FashionboxHD" xmltv_id="FashionBox">FashionBox</channel>
     <channel update="i" site="sledovanitv.cz" site_id="FightboxHD" xmltv_id="FightBox">FightBox</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Fastnfunbox" xmltv_id="Fast &amp; Fun Box">Fast &amp; Fun Box</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="FilmboxArthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="filmboxplus" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="funbox_uhd" xmltv_id="FunBox UHD">FunBox UHD</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="360TuneBox" xmltv_id="360TuneBox">360TuneBox</channel>
     <channel update="i" site="sledovanitv.cz" site_id="barrandov" xmltv_id="TV Barrandov">TV Barrandov</channel>
     <channel update="i" site="sledovanitv.cz" site_id="barrandovplus" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
     <channel update="i" site="sledovanitv.cz" site_id="kinobarrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="up_network" xmltv_id="Spark">Spark</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="regiotv" xmltv_id="A11">A11</channel>
     <channel update="i" site="sledovanitv.cz" site_id="axn" xmltv_id="AXN">AXN</channel>
     <channel update="i" site="sledovanitv.cz" site_id="axnblack" xmltv_id="AXN Black">AXN Black</channel>
     <channel update="i" site="sledovanitv.cz" site_id="axnwhite" xmltv_id="AXN White">AXN White</channel>
@@ -64,23 +69,24 @@
     <channel update="i" site="sledovanitv.cz" site_id="war" xmltv_id="CS History">CS History</channel>
     <channel update="i" site="sledovanitv.cz" site_id="amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="sledovanitv.cz" site_id="film_plus" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="primacomedy" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="sledovanitv.cz" site_id="travelxp" xmltv_id="Travelxp">Travelxp</channel>
     <channel update="i" site="sledovanitv.cz" site_id="love_nature" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
     <channel update="i" site="sledovanitv.cz" site_id="nat_geo_wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="NGC_HD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="NGC_HD" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="sledovanitv.cz" site_id="animal_planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="sledovanitv.cz" site_id="travelhd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="sledovanitv.cz" site_id="spektrum" xmltv_id="Spektrum">Spektrum</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="spektrum_home" xmltv_id="Spektrum home">Spektrum home</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="tv_paprika" xmltv_id="TV Paprika">TV Paprika</channel>
     <channel update="i" site="sledovanitv.cz" site_id="viasat_history" xmltv_id="Viasat History">Viasat History</channel>
     <channel update="i" site="sledovanitv.cz" site_id="viasat_explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
     <channel update="i" site="sledovanitv.cz" site_id="viasat_nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Discovery" xmltv_id="Discovery">Discovery</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="TLC" xmltv_id="Discovery : TLC">Discovery : TLC</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="Science" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="world" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="TLC" xmltv_id="Discovery: TLC">Discovery: TLC</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ID" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel update="i" site="sledovanitv.cz" site_id="sat_crime_invest" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="hgtv_ce" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="food_network" xmltv_id="Food network">Food network</channel>
     <channel update="i" site="sledovanitv.cz" site_id="history" xmltv_id="History Channel">History Channel</channel>
     <channel update="i" site="sledovanitv.cz" site_id="arcadia" xmltv_id="Arcadia World">Arcadia World</channel>
     <channel update="i" site="sledovanitv.cz" site_id="nasatv" xmltv_id="NASA TV">NASA TV</channel>
@@ -105,22 +111,21 @@
     <channel update="i" site="sledovanitv.cz" site_id="rebel" xmltv_id="Rebel">Rebel</channel>
     <channel update="i" site="sledovanitv.cz" site_id="retro" xmltv_id="Retro">Retro</channel>
     <channel update="i" site="sledovanitv.cz" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="mezzo_live" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="mezzo_live" xmltv_id="Mezzo Live">Mezzo Live</channel>
     <channel update="i" site="sledovanitv.cz" site_id="i_concerts" xmltv_id="iConcerts">iConcerts</channel>
     <channel update="i" site="sledovanitv.cz" site_id="mtv" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="sledovanitv.cz" site_id="VH1" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="slagr_premium" xmltv_id="Šláger Premium HD">Šláger Premium HD</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="slagr_premium" xmltv_id="Šláger Premium">Šláger Premium</channel>
     <channel update="i" site="sledovanitv.cz" site_id="slagr" xmltv_id="Šláger Originál">Šláger Originál</channel>
     <channel update="i" site="sledovanitv.cz" site_id="slagr2" xmltv_id="Šláger Muzika">Šláger Muzika</channel>
     <channel update="i" site="sledovanitv.cz" site_id="cartoon_network_hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
     <channel update="i" site="sledovanitv.cz" site_id="cartoon_cz" xmltv_id="Cartoon Network CZ">Cartoon Network CZ</channel>
     <channel update="i" site="sledovanitv.cz" site_id="cartoon" xmltv_id="Cartoon Network EN">Cartoon Network EN</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="boomerang" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="sledovanitv.cz" site_id="nickjr" xmltv_id="Nick JR">Nick JR</channel>
     <channel update="i" site="sledovanitv.cz" site_id="nick_jr_en" xmltv_id="Nick JR EN">Nick JR EN</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="nickelodeon_pluto_ua" xmltv_id="Nickelodeon Ukraine">Nickelodeon Ukraine</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Disney_Channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="sledovanitv.cz" site_id="disney_junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Jim_Jam" xmltv_id="Jim Jam">Jim Jam</channel>
@@ -128,11 +133,10 @@
     <channel update="i" site="sledovanitv.cz" site_id="baby_tv" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="lala_tv" xmltv_id="Lala TV">Lala TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="rik2" xmltv_id="Rik">Rik</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="tv_paprika" xmltv_id="TV Paprika">TV Paprika</channel>
     <channel update="i" site="sledovanitv.cz" site_id="zaktv" xmltv_id="ZAK TV">ZAK TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="plzen_tv" xmltv_id="Plzeň TV">Plzeň TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ustecko_tv" xmltv_id="Televize Ústeckého kraje">Televize Ústeckého kraje</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="bbc" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="bbc" xmltv_id="BBC News">BBC News</channel>
     <channel update="i" site="sledovanitv.cz" site_id="cnn" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="sledovanitv.cz" site_id="tv5" xmltv_id="TV5MONDE">TV5MONDE</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ta3" xmltv_id="TA3">TA3</channel>
@@ -143,16 +147,10 @@
     <channel update="i" site="sledovanitv.cz" site_id="TVlife" xmltv_id="Life TV">Life TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="natura" xmltv_id="TV Natura">TV Natura</channel>
     <channel update="i" site="sledovanitv.cz" site_id="tv_lux" xmltv_id="TV Lux">TV Lux</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="lounge" xmltv_id="Lounge TV">Lounge TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="hobby" xmltv_id="Hobby TV">Hobby TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="mnamtv" xmltv_id="TV Mňam">TV Mňam</channel>
     <channel update="i" site="sledovanitv.cz" site_id="mnau" xmltv_id="TV Mňau">TV Mňau</channel>
     <channel update="i" site="sledovanitv.cz" site_id="haha_tv" xmltv_id="HaHa TV">HaHa TV</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="zoo_brno_a_vesnice" xmltv_id="Zoo Brno - Africká vesnice">Zoo Brno - Africká vesnice</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="zoo_brno_m_kamcatsky" xmltv_id="Zoo Brno - Medvěd kamčatský">Zoo Brno - Medvěd kamčatský</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="zoo_brno_m_ledni" xmltv_id="Zoo Brno - Medvěd lední">Zoo Brno - Medvěd lední</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="komentovana_krmeni" xmltv_id="Zoo Brno - Komentovaná krmení">Zoo Brno - Komentovaná krmení</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="zvirata_v_zoo" xmltv_id="Zoo Brno - Život v zoo">Zoo Brno - Život v zoo</channel>
     <channel update="i" site="sledovanitv.cz" site_id="filmpro" xmltv_id="Filmpro">Filmpro</channel>
     <channel update="i" site="sledovanitv.cz" site_id="kladno" xmltv_id="Kladno.1 TV">Kladno.1 TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="Polar" xmltv_id="Polar">Polar</channel>
@@ -162,54 +160,35 @@
     <channel update="i" site="sledovanitv.cz" site_id="praha" xmltv_id="TV Praha">TV Praha</channel>
     <channel update="i" site="sledovanitv.cz" site_id="rtm_plus_liberec" xmltv_id="RTM+ (Liberecko)">RTM+ (Liberecko)</channel>
     <channel update="i" site="sledovanitv.cz" site_id="oik" xmltv_id="OIK TV">OIK TV</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="regiotv" xmltv_id="Náš region TV">Náš region TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="ivysocina_stream_zs" xmltv_id="i-Vysočina">i-Vysočina</channel>
     <channel update="i" site="sledovanitv.cz" site_id="tvbeskyd" xmltv_id="TV Beskyd">TV Beskyd</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="orf1" xmltv_id="ORF eins">ORF eins</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="orf2" xmltv_id="ORF zwei">ORF zwei</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="sledovanitv.cz" site_id="uatv" xmltv_id="UA TV">UA TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="m1" xmltv_id="M1">M1</channel>
     <channel update="i" site="sledovanitv.cz" site_id="m2" xmltv_id="M2">M2</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="hgtv_ce" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="duna" xmltv_id="Duna">Duna</channel>
     <channel update="i" site="sledovanitv.cz" site_id="m4" xmltv_id="M4 Sport">M4 Sport</channel>
     <channel update="i" site="sledovanitv.cz" site_id="m5" xmltv_id="M5">M5</channel>
     <channel update="i" site="sledovanitv.cz" site_id="dunaworld" xmltv_id="Duna World">Duna World</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="loop_naturetv-galerie-zvirat" xmltv_id="Galerie zvířat">Galerie zvířat</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="loop_naturetv-osetrovani-mladat" xmltv_id="Ošetřování mláďat">Ošetřování mláďat</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="fireplace" xmltv_id="Krb">Krb</channel>
     <channel update="i" site="sledovanitv.cz" site_id="cms_tv" xmltv_id="cms:tv">cms:tv</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="uscenes_cat_cafe" xmltv_id="Kočičí kavárna">Kočičí kavárna</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="uscenes_coral_garden" xmltv_id="Korálová zahrada">Korálová zahrada</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="panorama_tv" xmltv_id="Panorama TV">Panorama TV</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="uscenes_hammock_beach" xmltv_id="Pláž">Pláž</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="naturetv" xmltv_id="NatureTV">NatureTV</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="loop_naturetv_mumlava_waterfalls" xmltv_id="Mumlavské vodopády">Mumlavské vodopády</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="stork_nest" xmltv_id="Čapí hnízdo">Čapí hnízdo</channel>
     <channel update="i" site="sledovanitv.cz" site_id="krusna_tv" xmltv_id="Krušná TV">Krušná TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
     <channel update="i" site="sledovanitv.cz" site_id="jihoceska_televize" xmltv_id="Jihočeská televize">Jihočeská televize</channel>
     <channel update="i" site="sledovanitv.cz" site_id="tik_bohumin" xmltv_id="Tik Bohumín">Tik Bohumín</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="rt_jc" xmltv_id="Regionální televize jižní Čechy">Regionální televize jižní Čechy</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="rt_jc" xmltv_id="Kurýr TV">Kurýr TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="rt_ustecko" xmltv_id="RT Ústecko">RT Ústecko</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="pscr" xmltv_id="Poslanecká sněmovna ČR">Poslanecká sněmovna ČR</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="ard" xmltv_id="Das Erste">Das Erste</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="sledovanitv.cz" site_id="eroxHD" xmltv_id="Erox">Erox</channel>
     <channel update="i" site="sledovanitv.cz" site_id="eroxxxHD" xmltv_id="Eroxxx">Eroxxx</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="extasy_4k" xmltv_id="Extasy 4K">Extasy 4K</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="leo_gold" xmltv_id="Leo TV Gold">Leo TV Gold</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="ukraina_24" xmltv_id="1+1">1+1</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="food_network" xmltv_id="Food network">Food network</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="sport5" xmltv_id="Sport 5">Sport 5</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="info_tv_brno" xmltv_id="Info TV Brno a jižní morava">Info TV Brno a jižní morava</channel>
     <channel update="i" site="sledovanitv.cz" site_id="DorceltvHD" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="extasy_4k" xmltv_id="Extasy 4K Platinum">Extasy 4K Platinum</channel>
     <channel update="i" site="sledovanitv.cz" site_id="DorcelHD" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="brazzers" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="playboy" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="leo_gold" xmltv_id="Leo TV Gold">Leo TV Gold</channel>
     <channel update="i" site="sledovanitv.cz" site_id="leo" xmltv_id="Leo TV">Leo TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="extasy" xmltv_id="Extasy">Extasy</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="espresso" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="brazzers" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="playboy" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="realitykings" xmltv_id="Reality Kings">Reality Kings</channel>
     <channel update="i" site="sledovanitv.cz" site_id="true_amateurs" xmltv_id="True Amateurs">True Amateurs</channel>
     <channel update="i" site="sledovanitv.cz" site_id="babes_tv" xmltv_id="Babes TV">Babes TV</channel>
