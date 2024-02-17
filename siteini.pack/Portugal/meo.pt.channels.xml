@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.3.0 -- Jan van Straaten" site="meo.pt">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.2 -- Jan van Straaten" site="meo.pt">
   <channels>
     <channel update="i" site="meo.pt" site_id="DW-TV" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
     <channel update="i" site="meo.pt" site_id="RTP1" xmltv_id="RTP 1">RTP 1</channel>
@@ -54,14 +54,14 @@
     <channel update="i" site="meo.pt" site_id="TVCACTH" xmltv_id="TVCine Action">TVCine Action</channel>
     <channel update="i" site="meo.pt" site_id="CINEHD" xmltv_id="Cinemundo">Cinemundo</channel>
     <channel update="i" site="meo.pt" site_id="HOLHD" xmltv_id="Hollywood">Hollywood</channel>
-    <channel update="i" site="meo.pt" site_id="FOXMH" xmltv_id="FOX Movies">FOX Movies</channel>
+    <channel update="i" site="meo.pt" site_id="STARMOV" xmltv_id="STAR Movies">STAR Movies</channel>
     <channel update="i" site="meo.pt" site_id="AMCHD" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="meo.pt" site_id="AXNMHD" xmltv_id="AXN Movies">AXN Movies</channel>
     <channel update="i" site="meo.pt" site_id="VOD" xmltv_id="MEO VideoClube">MEO VideoClube</channel>
-    <channel update="i" site="meo.pt" site_id="FOXHD" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="meo.pt" site_id="FLIFEH" xmltv_id="FOX Life">FOX Life</channel>
-    <channel update="i" site="meo.pt" site_id="FOXCHD" xmltv_id="FOX Crime">FOX Crime</channel>
-    <channel update="i" site="meo.pt" site_id="FOXCOH" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel update="i" site="meo.pt" site_id="STARCHA" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel update="i" site="meo.pt" site_id="STARLIF" xmltv_id="STAR Life">STAR Life</channel>
+    <channel update="i" site="meo.pt" site_id="STARCRI" xmltv_id="STAR Crime">STAR Crime</channel>
+    <channel update="i" site="meo.pt" site_id="STARCOM" xmltv_id="STAR Comedy">STAR Comedy</channel>
     <channel update="i" site="meo.pt" site_id="AXNHD" xmltv_id="AXN ">AXN </channel>
     <channel update="i" site="meo.pt" site_id="AXWHD" xmltv_id="AXN White">AXN White</channel>
     <channel update="i" site="meo.pt" site_id="SYFHD" xmltv_id="SyFy">SyFy</channel>
@@ -130,12 +130,13 @@
     <channel update="i" site="meo.pt" site_id="GOSPEL" xmltv_id="Gospel TV">Gospel TV</channel>
     <channel update="i" site="meo.pt" site_id="PFC" xmltv_id="PFC">PFC</channel>
     <channel update="i" site="meo.pt" site_id="GNEWS" xmltv_id="Globo News">Globo News</channel>
-    <channel update="i" site="meo.pt" site_id="REC HD" xmltv_id="Record TV">Record TV</channel>
+    <channel update="i" site="meo.pt" site_id="NEWBR" xmltv_id="NEW Brasil">NEW Brasil</channel>
+    <channel update="i" site="meo.pt" site_id="REC HD" xmltv_id="Record Europa">Record Europa</channel>
     <channel update="i" site="meo.pt" site_id="RECNEW" xmltv_id="Record News">Record News</channel>
     <channel update="i" site="meo.pt" site_id="EURN" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="meo.pt" site_id="RTPA" xmltv_id="RTP África">RTP África</channel>
     <channel update="i" site="meo.pt" site_id="TVA" xmltv_id="Televisão África">Televisão África</channel>
-    <channel update="i" site="meo.pt" site_id="TPA" xmltv_id="TPA Internacional">TPA Internacional</channel>
+    <channel update="i" site="meo.pt" site_id="TPA" xmltv_id="TPA Notícias">TPA Notícias</channel>
     <channel update="i" site="meo.pt" site_id="TCV" xmltv_id="TCV Internacional">TCV Internacional</channel>
     <channel update="i" site="meo.pt" site_id="CNN" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="meo.pt" site_id="BLOOM" xmltv_id="Bloomberg">Bloomberg</channel>
@@ -200,15 +201,17 @@
     <channel update="i" site="meo.pt" site_id="ZEECIN" xmltv_id="ZEE CINEMA">ZEE CINEMA</channel>
     <channel update="i" site="meo.pt" site_id="SETAS" xmltv_id="SET ASIA">SET ASIA</channel>
     <channel update="i" site="meo.pt" site_id="MAX" xmltv_id="SET MAX">SET MAX</channel>
-    <channel update="i" site="meo.pt" site_id="PBTVHD" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel update="i" site="meo.pt" site_id="VENUS" xmltv_id="Venus">Venus</channel>
     <channel update="i" site="meo.pt" site_id="SEXTRM" xmltv_id="SexTreme">SexTreme</channel>
     <channel update="i" site="meo.pt" site_id="PENTHG" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
     <channel update="i" site="meo.pt" site_id="BODYSEX" xmltv_id="BODY SEX">BODY SEX</channel>
-    <channel update="i" site="meo.pt" site_id="HOTHD" xmltv_id="HOT">HOT</channel>
     <channel update="i" site="meo.pt" site_id="HOTTAB" xmltv_id="HOT Taboo">HOT Taboo</channel>
     <channel update="i" site="meo.pt" site_id="HOTMAN" xmltv_id="HOT Man">HOT Man</channel>
     <channel update="i" site="meo.pt" site_id="VIVID" xmltv_id="VIVID RED">VIVID RED</channel>
+    <channel update="i" site="meo.pt" site_id="DORCEL" xmltv_id="DORCEL tv">DORCEL tv</channel>
+    <channel update="i" site="meo.pt" site_id="VIXEN" xmltv_id="VIXEN">VIXEN</channel>
+    <channel update="i" site="meo.pt" site_id="PBTVHD" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="meo.pt" site_id="HOTHD" xmltv_id="HOT">HOT</channel>
     <channel update="i" site="meo.pt" site_id="TRAXP4K" xmltv_id="Travelxp 4K HDR">Travelxp 4K HDR</channel>
     <channel update="i" site="meo.pt" site_id="MCSUHD" xmltv_id="MCS TV Ultra HD">MCS TV Ultra HD</channel>
     <channel update="i" site="meo.pt" site_id="HISPA4K" xmltv_id="Hispasat">Hispasat</channel>
