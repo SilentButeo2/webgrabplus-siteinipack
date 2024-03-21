@@ -1,478 +1,495 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="mts.rs">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.3 -- Jan van Straaten" site="mts.rs">
   <channels>
-    <channel update="i" site="mts.rs" site_id="100" xmltv_id="Iris TV promo">Iris TV promo</channel>
-    <channel update="i" site="mts.rs" site_id="101" xmltv_id="RTS 1">RTS 1</channel>
-    <channel update="i" site="mts.rs" site_id="102" xmltv_id="RTS 2 ">RTS 2 </channel>
-    <channel update="i" site="mts.rs" site_id="103" xmltv_id="SUPERSTAR TV">SUPERSTAR TV</channel>
-    <channel update="i" site="mts.rs" site_id="104" xmltv_id="TV Pink">TV Pink</channel>
-    <channel update="i" site="mts.rs" site_id="105" xmltv_id="Prva TV HD">Prva TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="106" xmltv_id="B92">B92</channel>
-    <channel update="i" site="mts.rs" site_id="107" xmltv_id="Happy TV HD">Happy TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="108" xmltv_id="Kurir HD">Kurir HD</channel>
-    <channel update="i" site="mts.rs" site_id="109" xmltv_id="K1 HD">K1 HD</channel>
-    <channel update="i" site="mts.rs" site_id="110" xmltv_id="Red TV">Red TV</channel>
-    <channel update="i" site="mts.rs" site_id="111" xmltv_id="VESTI">VESTI</channel>
-    <channel update="i" site="mts.rs" site_id="114" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
-    <channel update="i" site="mts.rs" site_id="115" xmltv_id="Blic TV">Blic TV</channel>
-    <channel update="i" site="mts.rs" site_id="116" xmltv_id="Studio B">Studio B</channel>
-    <channel update="i" site="mts.rs" site_id="118" xmltv_id="Insajder">Insajder</channel>
-    <channel update="i" site="mts.rs" site_id="119" xmltv_id="Insta TV HD">Insta TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="120" xmltv_id="Informer TV">Informer TV</channel>
-    <channel update="i" site="mts.rs" site_id="121" xmltv_id="Balkan Trip">Balkan Trip</channel>
-    <channel update="i" site="mts.rs" site_id="122" xmltv_id="Toxic TV">Toxic TV</channel>
-    <channel update="i" site="mts.rs" site_id="123" xmltv_id="TV Palma plus">TV Palma plus</channel>
-    <channel update="i" site="mts.rs" site_id="124" xmltv_id="TV Ras">TV Ras</channel>
-    <channel update="i" site="mts.rs" site_id="125" xmltv_id="UNA TV">UNA TV</channel>
-    <channel update="i" site="mts.rs" site_id="126" xmltv_id="Agro TV HD">Agro TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="128" xmltv_id="Dox TV">Dox TV</channel>
-    <channel update="i" site="mts.rs" site_id="129" xmltv_id="Film klub">Film klub</channel>
-    <channel update="i" site="mts.rs" site_id="130" xmltv_id="Toxic Folk">Toxic Folk</channel>
-    <channel update="i" site="mts.rs" site_id="131" xmltv_id="RTV 1">RTV 1</channel>
-    <channel update="i" site="mts.rs" site_id="132" xmltv_id="RTV 2">RTV 2</channel>
-    <channel update="i" site="mts.rs" site_id="133" xmltv_id="Prva MAX HD">Prva MAX HD</channel>
-    <channel update="i" site="mts.rs" site_id="134" xmltv_id="Balkan Trip">Balkan Trip</channel>
-    <channel update="i" site="mts.rs" site_id="135" xmltv_id="RTRS">RTRS</channel>
-    <channel update="i" site="mts.rs" site_id="136" xmltv_id="BN">BN</channel>
-    <channel update="i" site="mts.rs" site_id="137" xmltv_id="TV Hram HD">TV Hram HD</channel>
-    <channel update="i" site="mts.rs" site_id="138" xmltv_id="Koreni HD">Koreni HD</channel>
-    <channel update="i" site="mts.rs" site_id="139" xmltv_id="TV mreza Most HD">TV mreza Most HD</channel>
-    <channel update="i" site="mts.rs" site_id="140" xmltv_id="RTS 3 HD">RTS 3 HD</channel>
-    <channel update="i" site="mts.rs" site_id="141" xmltv_id="BN 2">BN 2</channel>
-    <channel update="i" site="mts.rs" site_id="143" xmltv_id="Dunav TV HD">Dunav TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="145" xmltv_id="TVDR HD">TVDR HD</channel>
-    <channel update="i" site="mts.rs" site_id="146" xmltv_id="Hype HD">Hype HD</channel>
-    <channel update="i" site="mts.rs" site_id="147" xmltv_id="Moj Astrolog">Moj Astrolog</channel>
-    <channel update="i" site="mts.rs" site_id="148" xmltv_id="RTS Drama">RTS Drama</channel>
-    <channel update="i" site="mts.rs" site_id="149" xmltv_id="Arena PREMIUM 1">Arena PREMIUM 1</channel>
-    <channel update="i" site="mts.rs" site_id="150" xmltv_id="Arena PREMIUM 2">Arena PREMIUM 2</channel>
-    <channel update="i" site="mts.rs" site_id="151" xmltv_id="Arena PREMIUM 3">Arena PREMIUM 3</channel>
-    <channel update="i" site="mts.rs" site_id="152" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
-    <channel update="i" site="mts.rs" site_id="153" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
-    <channel update="i" site="mts.rs" site_id="154" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
-    <channel update="i" site="mts.rs" site_id="155" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
-    <channel update="i" site="mts.rs" site_id="156" xmltv_id="Arena Sport 5">Arena Sport 5</channel>
-    <channel update="i" site="mts.rs" site_id="157" xmltv_id="Arena Sport 6">Arena Sport 6</channel>
-    <channel update="i" site="mts.rs" site_id="158" xmltv_id="Arena Sport 7">Arena Sport 7</channel>
-    <channel update="i" site="mts.rs" site_id="159" xmltv_id="Arena Sport 8">Arena Sport 8</channel>
-    <channel update="i" site="mts.rs" site_id="160" xmltv_id="Arena Sport 9">Arena Sport 9</channel>
-    <channel update="i" site="mts.rs" site_id="161" xmltv_id="Arena Sport 10">Arena Sport 10</channel>
-    <channel update="i" site="mts.rs" site_id="162" xmltv_id="Premier League TV ">Premier League TV </channel>
-    <channel update="i" site="mts.rs" site_id="163" xmltv_id="Arena Sport 1x2">Arena Sport 1x2</channel>
-    <channel update="i" site="mts.rs" site_id="164" xmltv_id="Arena Fight">Arena Fight</channel>
-    <channel update="i" site="mts.rs" site_id="165" xmltv_id="Arena Esport">Arena Esport</channel>
-    <channel update="i" site="mts.rs" site_id="166" xmltv_id="Kuvo TV">Kuvo TV</channel>
-    <channel update="i" site="mts.rs" site_id="167" xmltv_id="RTS Kolo">RTS Kolo</channel>
-    <channel update="i" site="mts.rs" site_id="168" xmltv_id="RTS Muzika">RTS Muzika</channel>
-    <channel update="i" site="mts.rs" site_id="169" xmltv_id="RTS Klasika">RTS Klasika</channel>
-    <channel update="i" site="mts.rs" site_id="170" xmltv_id="Skymusic entertainment /SE">Skymusic entertainment /SE</channel>
-    <channel update="i" site="mts.rs" site_id="171" xmltv_id="Moje Happy Društvo">Moje Happy Društvo</channel>
-    <channel update="i" site="mts.rs" site_id="172" xmltv_id="Moj Happy Život">Moj Happy Život</channel>
-    <channel update="i" site="mts.rs" site_id="173" xmltv_id="Moja Happy Zemlja">Moja Happy Zemlja</channel>
-    <channel update="i" site="mts.rs" site_id="174" xmltv_id="Moja Happy Muzika">Moja Happy Muzika</channel>
-    <channel update="i" site="mts.rs" site_id="177" xmltv_id="Dankos Plus TV">Dankos Plus TV</channel>
-    <channel update="i" site="mts.rs" site_id="179" xmltv_id="RTS Život">RTS Život</channel>
-    <channel update="i" site="mts.rs" site_id="180" xmltv_id="RTS Trezor">RTS Trezor</channel>
-    <channel update="i" site="mts.rs" site_id="181" xmltv_id="RTV KISS">RTV KISS</channel>
-    <channel update="i" site="mts.rs" site_id="185" xmltv_id="Timeless Dizi Channel">Timeless Dizi Channel</channel>
-    <channel update="i" site="mts.rs" site_id="190" xmltv_id="Hit FM radio">Hit FM radio</channel>
-    <channel update="i" site="mts.rs" site_id="200" xmltv_id="SUPERSTAR TV">SUPERSTAR TV</channel>
-    <channel update="i" site="mts.rs" site_id="201" xmltv_id="SUPERSTAR 2">SUPERSTAR 2</channel>
-    <channel update="i" site="mts.rs" site_id="202" xmltv_id="Klasik TV">Klasik TV</channel>
-    <channel update="i" site="mts.rs" site_id="203" xmltv_id="Film klub">Film klub</channel>
-    <channel update="i" site="mts.rs" site_id="204" xmltv_id="Pink Premium HD">Pink Premium HD</channel>
-    <channel update="i" site="mts.rs" site_id="205" xmltv_id="Pink Movies">Pink Movies</channel>
-    <channel update="i" site="mts.rs" site_id="206" xmltv_id="Pink Action">Pink Action</channel>
-    <channel update="i" site="mts.rs" site_id="207" xmltv_id="Pink Thriller">Pink Thriller</channel>
-    <channel update="i" site="mts.rs" site_id="208" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
-    <channel update="i" site="mts.rs" site_id="209" xmltv_id="Pink Comedy">Pink Comedy</channel>
-    <channel update="i" site="mts.rs" site_id="210" xmltv_id="Pink Classic">Pink Classic</channel>
-    <channel update="i" site="mts.rs" site_id="211" xmltv_id="Pink Western">Pink Western</channel>
-    <channel update="i" site="mts.rs" site_id="212" xmltv_id="Pink Romance">Pink Romance</channel>
-    <channel update="i" site="mts.rs" site_id="213" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
-    <channel update="i" site="mts.rs" site_id="214" xmltv_id="Pink Horror">Pink Horror</channel>
-    <channel update="i" site="mts.rs" site_id="215" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
-    <channel update="i" site="mts.rs" site_id="216" xmltv_id="Pink Film">Pink Film</channel>
-    <channel update="i" site="mts.rs" site_id="217" xmltv_id="Fox">Fox</channel>
-    <channel update="i" site="mts.rs" site_id="218" xmltv_id="Fox Movies">Fox Movies</channel>
-    <channel update="i" site="mts.rs" site_id="219" xmltv_id="Fox Life">Fox Life</channel>
-    <channel update="i" site="mts.rs" site_id="220" xmltv_id="Fox Crime">Fox Crime</channel>
-    <channel update="i" site="mts.rs" site_id="221" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="mts.rs" site_id="222" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="mts.rs" site_id="223" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="mts.rs" site_id="224" xmltv_id="AXN Spin">AXN Spin</channel>
-    <channel update="i" site="mts.rs" site_id="225" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="mts.rs" site_id="226" xmltv_id="HBO 2">HBO 2</channel>
-    <channel update="i" site="mts.rs" site_id="227" xmltv_id="HBO 3">HBO 3</channel>
-    <channel update="i" site="mts.rs" site_id="235" xmltv_id="Diva">Diva</channel>
-    <channel update="i" site="mts.rs" site_id="236" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
-    <channel update="i" site="mts.rs" site_id="237" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
-    <channel update="i" site="mts.rs" site_id="238" xmltv_id="Filmbox Extra">Filmbox Extra</channel>
-    <channel update="i" site="mts.rs" site_id="239" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
-    <channel update="i" site="mts.rs" site_id="240" xmltv_id="Epic Drama">Epic Drama</channel>
-    <channel update="i" site="mts.rs" site_id="241" xmltv_id="Sci Fi">Sci Fi</channel>
-    <channel update="i" site="mts.rs" site_id="242" xmltv_id="Pink Family">Pink Family</channel>
-    <channel update="i" site="mts.rs" site_id="243" xmltv_id="Pink Serije">Pink Serije</channel>
-    <channel update="i" site="mts.rs" site_id="244" xmltv_id="Pink Soap">Pink Soap</channel>
-    <channel update="i" site="mts.rs" site_id="245" xmltv_id="Film Klub Extra">Film Klub Extra</channel>
-    <channel update="i" site="mts.rs" site_id="246" xmltv_id="Euro  Cinema 1">Euro  Cinema 1</channel>
-    <channel update="i" site="mts.rs" site_id="247" xmltv_id="Euro Cinema 2">Euro Cinema 2</channel>
-    <channel update="i" site="mts.rs" site_id="248" xmltv_id="Euro Cinema 3">Euro Cinema 3</channel>
-    <channel update="i" site="mts.rs" site_id="249" xmltv_id="Euro Cinema 4">Euro Cinema 4</channel>
-    <channel update="i" site="mts.rs" site_id="260" xmltv_id="Prva Life">Prva Life</channel>
-    <channel update="i" site="mts.rs" site_id="261" xmltv_id="Prva Files">Prva Files</channel>
-    <channel update="i" site="mts.rs" site_id="262" xmltv_id="Prva Kick">Prva Kick</channel>
-    <channel update="i" site="mts.rs" site_id="263" xmltv_id="Prva World">Prva World</channel>
-    <channel update="i" site="mts.rs" site_id="264" xmltv_id="24Kitchen">24Kitchen</channel>
-    <channel update="i" site="mts.rs" site_id="265" xmltv_id="K1">K1</channel>
-    <channel update="i" site="mts.rs" site_id="266" xmltv_id="Agro TV">Agro TV</channel>
-    <channel update="i" site="mts.rs" site_id="268" xmltv_id="TVDR">TVDR</channel>
-    <channel update="i" site="mts.rs" site_id="269" xmltv_id="Balkan Trip HD">Balkan Trip HD</channel>
-    <channel update="i" site="mts.rs" site_id="270" xmltv_id="Zelena TV Zdravlje">Zelena TV Zdravlje</channel>
-    <channel update="i" site="mts.rs" site_id="271" xmltv_id="Turizam + TV">Turizam + TV</channel>
-    <channel update="i" site="mts.rs" site_id="272" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="mts.rs" site_id="273" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="mts.rs" site_id="274" xmltv_id="Fashion TV">Fashion TV</channel>
-    <channel update="i" site="mts.rs" site_id="275" xmltv_id="Pink Fashion">Pink Fashion</channel>
-    <channel update="i" site="mts.rs" site_id="276" xmltv_id="Pink Style">Pink Style</channel>
-    <channel update="i" site="mts.rs" site_id="277" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
-    <channel update="i" site="mts.rs" site_id="278" xmltv_id="Pink Show">Pink Show</channel>
-    <channel update="i" site="mts.rs" site_id="279" xmltv_id="Pink Zabava">Pink Zabava</channel>
-    <channel update="i" site="mts.rs" site_id="280" xmltv_id="Pink Reality">Pink Reality</channel>
-    <channel update="i" site="mts.rs" site_id="281" xmltv_id="Pink World">Pink World</channel>
-    <channel update="i" site="mts.rs" site_id="282" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel update="i" site="mts.rs" site_id="283" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="mts.rs" site_id="284" xmltv_id="HA HA">HA HA</channel>
-    <channel update="i" site="mts.rs" site_id="285" xmltv_id="LOL">LOL</channel>
-    <channel update="i" site="mts.rs" site_id="286" xmltv_id="Gametoon">Gametoon</channel>
-    <channel update="i" site="mts.rs" site_id="287" xmltv_id="Happy Reality 1">Happy Reality 1</channel>
-    <channel update="i" site="mts.rs" site_id="288" xmltv_id="Happy Reality 2">Happy Reality 2</channel>
-    <channel update="i" site="mts.rs" site_id="290" xmltv_id="Fashion box">Fashion box</channel>
-    <channel update="i" site="mts.rs" site_id="295" xmltv_id="Hype">Hype</channel>
-    <channel update="i" site="mts.rs" site_id="296" xmltv_id="Kuvo TV">Kuvo TV</channel>
-    <channel update="i" site="mts.rs" site_id="297" xmltv_id="Food Network HD">Food Network HD</channel>
-    <channel update="i" site="mts.rs" site_id="299" xmltv_id="Eko vizija">Eko vizija</channel>
-    <channel update="i" site="mts.rs" site_id="300" xmltv_id="Arena PREMIUM 1">Arena PREMIUM 1</channel>
-    <channel update="i" site="mts.rs" site_id="301" xmltv_id="Arena PREMIUM 2 HD">Arena PREMIUM 2 HD</channel>
-    <channel update="i" site="mts.rs" site_id="302" xmltv_id="Arena PREMIUM 3 HD">Arena PREMIUM 3 HD</channel>
-    <channel update="i" site="mts.rs" site_id="303" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
-    <channel update="i" site="mts.rs" site_id="304" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
-    <channel update="i" site="mts.rs" site_id="305" xmltv_id="Arena Sport 3 HD">Arena Sport 3 HD</channel>
-    <channel update="i" site="mts.rs" site_id="306" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
-    <channel update="i" site="mts.rs" site_id="307" xmltv_id="Arena Sport 5">Arena Sport 5</channel>
-    <channel update="i" site="mts.rs" site_id="308" xmltv_id="Arena Sport 6">Arena Sport 6</channel>
-    <channel update="i" site="mts.rs" site_id="309" xmltv_id="Arena Sport 7">Arena Sport 7</channel>
-    <channel update="i" site="mts.rs" site_id="310" xmltv_id="Arena Sport 8">Arena Sport 8</channel>
-    <channel update="i" site="mts.rs" site_id="311" xmltv_id="Arena Sport 9">Arena Sport 9</channel>
-    <channel update="i" site="mts.rs" site_id="312" xmltv_id="Arena Sport 10">Arena Sport 10</channel>
-    <channel update="i" site="mts.rs" site_id="313" xmltv_id="Premier League TV HD">Premier League TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="314" xmltv_id="Arena Sport 1x2 ">Arena Sport 1x2 </channel>
-    <channel update="i" site="mts.rs" site_id="315" xmltv_id="Arena Fight HD">Arena Fight HD</channel>
-    <channel update="i" site="mts.rs" site_id="316" xmltv_id="Arena Esport">Arena Esport</channel>
-    <channel update="i" site="mts.rs" site_id="317" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="mts.rs" site_id="318" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="mts.rs" site_id="319" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="mts.rs" site_id="320" xmltv_id="LFCTV">LFCTV</channel>
-    <channel update="i" site="mts.rs" site_id="321" xmltv_id="SOS Kanal Plus">SOS Kanal Plus</channel>
-    <channel update="i" site="mts.rs" site_id="322" xmltv_id="Zvezda TV">Zvezda TV</channel>
-    <channel update="i" site="mts.rs" site_id="323" xmltv_id="TV Partizan">TV Partizan</channel>
-    <channel update="i" site="mts.rs" site_id="324" xmltv_id="DTX">DTX</channel>
-    <channel update="i" site="mts.rs" site_id="325" xmltv_id="Fight Network">Fight Network</channel>
-    <channel update="i" site="mts.rs" site_id="327" xmltv_id="Fight Box">Fight Box</channel>
-    <channel update="i" site="mts.rs" site_id="328" xmltv_id="Fast &amp; Fun HD">Fast &amp; Fun HD</channel>
-    <channel update="i" site="mts.rs" site_id="329" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="mts.rs" site_id="330" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
-    <channel update="i" site="mts.rs" site_id="350" xmltv_id="Dox TV HD">Dox TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="351" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="mts.rs" site_id="352" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="mts.rs" site_id="361" xmltv_id="ID">ID</channel>
-    <channel update="i" site="mts.rs" site_id="362" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="mts.rs" site_id="363" xmltv_id="RT Documentary">RT Documentary</channel>
-    <channel update="i" site="mts.rs" site_id="364" xmltv_id="Pink Pedia">Pink Pedia</channel>
-    <channel update="i" site="mts.rs" site_id="366" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
-    <channel update="i" site="mts.rs" site_id="369" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
-    <channel update="i" site="mts.rs" site_id="400" xmltv_id="Kazbuka">Kazbuka</channel>
-    <channel update="i" site="mts.rs" site_id="402" xmltv_id="Dexy TV">Dexy TV</channel>
-    <channel update="i" site="mts.rs" site_id="403" xmltv_id="RTS Poletarac">RTS Poletarac</channel>
-    <channel update="i" site="mts.rs" site_id="404" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="mts.rs" site_id="405" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="mts.rs" site_id="406" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
-    <channel update="i" site="mts.rs" site_id="407" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="mts.rs" site_id="409" xmltv_id="Nicktoons">Nicktoons</channel>
-    <channel update="i" site="mts.rs" site_id="410" xmltv_id="Pink Kids">Pink Kids</channel>
-    <channel update="i" site="mts.rs" site_id="411" xmltv_id="Pink Super Kids">Pink Super Kids</channel>
-    <channel update="i" site="mts.rs" site_id="412" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="mts.rs" site_id="413" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="mts.rs" site_id="414" xmltv_id="Cartoonito">Cartoonito</channel>
-    <channel update="i" site="mts.rs" site_id="415" xmltv_id="JimJam">JimJam</channel>
-    <channel update="i" site="mts.rs" site_id="416" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="mts.rs" site_id="417" xmltv_id="Hayatovci">Hayatovci</channel>
-    <channel update="i" site="mts.rs" site_id="418" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="mts.rs" site_id="450" xmltv_id="Pink Music">Pink Music</channel>
-    <channel update="i" site="mts.rs" site_id="451" xmltv_id="Pink Music 2">Pink Music 2</channel>
-    <channel update="i" site="mts.rs" site_id="452" xmltv_id="Bravo Music">Bravo Music</channel>
-    <channel update="i" site="mts.rs" site_id="453" xmltv_id="Pink Koncert">Pink Koncert</channel>
-    <channel update="i" site="mts.rs" site_id="454" xmltv_id="HiFi Music">HiFi Music</channel>
-    <channel update="i" site="mts.rs" site_id="455" xmltv_id="City play">City play</channel>
-    <channel update="i" site="mts.rs" site_id="457" xmltv_id="TV S">TV S</channel>
-    <channel update="i" site="mts.rs" site_id="458" xmltv_id="TV Duga plus">TV Duga plus</channel>
-    <channel update="i" site="mts.rs" site_id="459" xmltv_id="Hayat Folk">Hayat Folk</channel>
-    <channel update="i" site="mts.rs" site_id="460" xmltv_id="Hayat Music">Hayat Music</channel>
-    <channel update="i" site="mts.rs" site_id="461" xmltv_id="Pink Folk">Pink Folk</channel>
-    <channel update="i" site="mts.rs" site_id="462" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
-    <channel update="i" site="mts.rs" site_id="463" xmltv_id="BN Music">BN Music</channel>
-    <channel update="i" site="mts.rs" site_id="464" xmltv_id="DM SAT">DM SAT</channel>
-    <channel update="i" site="mts.rs" site_id="465" xmltv_id="TV K::CN Music 2">TV K::CN Music 2</channel>
-    <channel update="i" site="mts.rs" site_id="466" xmltv_id="TV K::CN Svet Plus 3">TV K::CN Svet Plus 3</channel>
-    <channel update="i" site="mts.rs" site_id="467" xmltv_id="TV Melos">TV Melos</channel>
-    <channel update="i" site="mts.rs" site_id="468" xmltv_id="HiFi Etno">HiFi Etno</channel>
-    <channel update="i" site="mts.rs" site_id="469" xmltv_id="Toxic Folk HD">Toxic Folk HD</channel>
-    <channel update="i" site="mts.rs" site_id="470" xmltv_id="Pink&amp;Roll">Pink&amp;Roll</channel>
-    <channel update="i" site="mts.rs" site_id="471" xmltv_id="Pink Hits 1">Pink Hits 1</channel>
-    <channel update="i" site="mts.rs" site_id="472" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
-    <channel update="i" site="mts.rs" site_id="473" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="mts.rs" site_id="474" xmltv_id="MTV Hits International">MTV Hits International</channel>
-    <channel update="i" site="mts.rs" site_id="476" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="mts.rs" site_id="477" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="mts.rs" site_id="478" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="mts.rs" site_id="479" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="mts.rs" site_id="480" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="mts.rs" site_id="481" xmltv_id="Toxic TV HD">Toxic TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="486" xmltv_id="TOP TV HD">TOP TV HD</channel>
-    <channel update="i" site="mts.rs" site_id="489" xmltv_id="360 Tune box">360 Tune box</channel>
-    <channel update="i" site="mts.rs" site_id="493" xmltv_id="Trace Urban">Trace Urban</channel>
-    <channel update="i" site="mts.rs" site_id="500" xmltv_id="B1">B1</channel>
-    <channel update="i" site="mts.rs" site_id="501" xmltv_id="BTV">BTV</channel>
-    <channel update="i" site="mts.rs" site_id="502" xmltv_id="TV K::CN 1">TV K::CN 1</channel>
-    <channel update="i" site="mts.rs" site_id="503" xmltv_id="SuperSat TV">SuperSat TV</channel>
-    <channel update="i" site="mts.rs" site_id="504" xmltv_id="RTV 101">RTV 101</channel>
-    <channel update="i" site="mts.rs" site_id="505" xmltv_id="TV Front">TV Front</channel>
-    <channel update="i" site="mts.rs" site_id="506" xmltv_id="TV Info 24">TV Info 24</channel>
-    <channel update="i" site="mts.rs" site_id="507" xmltv_id="TV Palma plus">TV Palma plus</channel>
-    <channel update="i" site="mts.rs" site_id="511" xmltv_id="Humana TV Plus">Humana TV Plus</channel>
-    <channel update="i" site="mts.rs" site_id="515" xmltv_id="RTV Fortuna">RTV Fortuna</channel>
-    <channel update="i" site="mts.rs" site_id="519" xmltv_id="TV Bap">TV Bap</channel>
-    <channel update="i" site="mts.rs" site_id="520" xmltv_id="TV Subotica">TV Subotica</channel>
-    <channel update="i" site="mts.rs" site_id="522" xmltv_id="TV K23">TV K23</channel>
-    <channel update="i" site="mts.rs" site_id="523" xmltv_id="Panon TV">Panon TV</channel>
-    <channel update="i" site="mts.rs" site_id="525" xmltv_id="TV Bačka">TV Bačka</channel>
-    <channel update="i" site="mts.rs" site_id="526" xmltv_id="TV Kanal 25">TV Kanal 25</channel>
-    <channel update="i" site="mts.rs" site_id="527" xmltv_id="TV Sombor">TV Sombor</channel>
-    <channel update="i" site="mts.rs" site_id="528" xmltv_id="TV Kula">TV Kula</channel>
-    <channel update="i" site="mts.rs" site_id="529" xmltv_id="TV Bečej">TV Bečej</channel>
-    <channel update="i" site="mts.rs" site_id="530" xmltv_id="TV Novi Bečej">TV Novi Bečej</channel>
-    <channel update="i" site="mts.rs" site_id="531" xmltv_id="TV Apatin">TV Apatin</channel>
-    <channel update="i" site="mts.rs" site_id="532" xmltv_id="Novosadska TV">Novosadska TV</channel>
-    <channel update="i" site="mts.rs" site_id="534" xmltv_id="TV Delta">TV Delta</channel>
-    <channel update="i" site="mts.rs" site_id="535" xmltv_id="TV Most">TV Most</channel>
-    <channel update="i" site="mts.rs" site_id="537" xmltv_id="VTV">VTV</channel>
-    <channel update="i" site="mts.rs" site_id="538" xmltv_id="TV Banat">TV Banat</channel>
-    <channel update="i" site="mts.rs" site_id="539" xmltv_id="TV Santos">TV Santos</channel>
-    <channel update="i" site="mts.rs" site_id="540" xmltv_id="TV Kikinda">TV Kikinda</channel>
-    <channel update="i" site="mts.rs" site_id="541" xmltv_id="TV Lav">TV Lav</channel>
-    <channel update="i" site="mts.rs" site_id="542" xmltv_id="TV CINK">TV CINK</channel>
-    <channel update="i" site="mts.rs" site_id="543" xmltv_id="Sremska TV">Sremska TV</channel>
-    <channel update="i" site="mts.rs" site_id="544" xmltv_id="TV Petrovec">TV Petrovec</channel>
-    <channel update="i" site="mts.rs" site_id="545" xmltv_id="RTV Stara Pazova">RTV Stara Pazova</channel>
-    <channel update="i" site="mts.rs" site_id="546" xmltv_id="TV Fruška Gora">TV Fruška Gora</channel>
-    <channel update="i" site="mts.rs" site_id="547" xmltv_id="Gradska M">Gradska M</channel>
-    <channel update="i" site="mts.rs" site_id="548" xmltv_id="TV MAG">TV MAG</channel>
-    <channel update="i" site="mts.rs" site_id="549" xmltv_id="TV GEM">TV GEM</channel>
-    <channel update="i" site="mts.rs" site_id="550" xmltv_id="K::CN K">K::CN K</channel>
-    <channel update="i" site="mts.rs" site_id="551" xmltv_id="TV IKS">TV IKS</channel>
-    <channel update="i" site="mts.rs" site_id="552" xmltv_id="RTV Šumadija">RTV Šumadija</channel>
-    <channel update="i" site="mts.rs" site_id="553" xmltv_id="TV Sunce">TV Sunce</channel>
-    <channel update="i" site="mts.rs" site_id="554" xmltv_id="TV HIT plus Batocina">TV HIT plus Batocina</channel>
-    <channel update="i" site="mts.rs" site_id="555" xmltv_id="RTV Kragujevac">RTV Kragujevac</channel>
-    <channel update="i" site="mts.rs" site_id="557" xmltv_id="TV Rača">TV Rača</channel>
-    <channel update="i" site="mts.rs" site_id="558" xmltv_id="RTP">RTP</channel>
-    <channel update="i" site="mts.rs" site_id="559" xmltv_id="TV Jefimija">TV Jefimija</channel>
-    <channel update="i" site="mts.rs" site_id="560" xmltv_id="TV 4S">TV 4S</channel>
-    <channel update="i" site="mts.rs" site_id="561" xmltv_id="TV Kruševac">TV Kruševac</channel>
-    <channel update="i" site="mts.rs" site_id="562" xmltv_id="TV Plus">TV Plus</channel>
-    <channel update="i" site="mts.rs" site_id="563" xmltv_id="TV Diskos">TV Diskos</channel>
-    <channel update="i" site="mts.rs" site_id="564" xmltv_id="TV Trstenik">TV Trstenik</channel>
-    <channel update="i" site="mts.rs" site_id="565" xmltv_id="TV Kanal M">TV Kanal M</channel>
-    <channel update="i" site="mts.rs" site_id="566" xmltv_id="Slobodna televizija">Slobodna televizija</channel>
-    <channel update="i" site="mts.rs" site_id="568" xmltv_id="KA TV">KA TV</channel>
-    <channel update="i" site="mts.rs" site_id="570" xmltv_id="TV K::CN Raška">TV K::CN Raška</channel>
-    <channel update="i" site="mts.rs" site_id="572" xmltv_id="TV Sandžak">TV Sandžak</channel>
-    <channel update="i" site="mts.rs" site_id="573" xmltv_id="RTV Novi Pazar">RTV Novi Pazar</channel>
-    <channel update="i" site="mts.rs" site_id="574" xmltv_id="Pešter TV">Pešter TV</channel>
-    <channel update="i" site="mts.rs" site_id="576" xmltv_id="K::CN Zapad">K::CN Zapad</channel>
-    <channel update="i" site="mts.rs" site_id="577" xmltv_id="TV Šabac">TV Šabac</channel>
-    <channel update="i" site="mts.rs" site_id="578" xmltv_id="TV AS">TV AS</channel>
-    <channel update="i" site="mts.rs" site_id="579" xmltv_id="TV GM Plus">TV GM Plus</channel>
-    <channel update="i" site="mts.rs" site_id="580" xmltv_id="TV Lotel plus">TV Lotel plus</channel>
-    <channel update="i" site="mts.rs" site_id="581" xmltv_id="TV Podrinje">TV Podrinje</channel>
-    <channel update="i" site="mts.rs" site_id="582" xmltv_id="Moja TV">Moja TV</channel>
-    <channel update="i" site="mts.rs" site_id="583" xmltv_id="TV City">TV City</channel>
-    <channel update="i" site="mts.rs" site_id="585" xmltv_id="TV VA PLUS">TV VA PLUS</channel>
-    <channel update="i" site="mts.rs" site_id="586" xmltv_id="TV Marš">TV Marš</channel>
-    <channel update="i" site="mts.rs" site_id="587" xmltv_id="Info 24 Plus">Info 24 Plus</channel>
-    <channel update="i" site="mts.rs" site_id="588" xmltv_id="TV Galaksija 32">TV Galaksija 32</channel>
-    <channel update="i" site="mts.rs" site_id="589" xmltv_id="Telemark">Telemark</channel>
-    <channel update="i" site="mts.rs" site_id="590" xmltv_id="TV Lav Plus">TV Lav Plus</channel>
-    <channel update="i" site="mts.rs" site_id="591" xmltv_id="TV 5 Užice">TV 5 Užice</channel>
-    <channel update="i" site="mts.rs" site_id="592" xmltv_id="TV Požega">TV Požega</channel>
-    <channel update="i" site="mts.rs" site_id="593" xmltv_id="TV Zlatar">TV Zlatar</channel>
-    <channel update="i" site="mts.rs" site_id="594" xmltv_id="TV Priboj">TV Priboj</channel>
-    <channel update="i" site="mts.rs" site_id="595" xmltv_id="TV Prima">TV Prima</channel>
-    <channel update="i" site="mts.rs" site_id="596" xmltv_id="TV Forum">TV Forum</channel>
-    <channel update="i" site="mts.rs" site_id="597" xmltv_id="TV K::CN Istok">TV K::CN Istok</channel>
-    <channel update="i" site="mts.rs" site_id="598" xmltv_id="TV Jasenica">TV Jasenica</channel>
-    <channel update="i" site="mts.rs" site_id="599" xmltv_id="SAT TV">SAT TV</channel>
-    <channel update="i" site="mts.rs" site_id="600" xmltv_id="TV Kladovo">TV Kladovo</channel>
-    <channel update="i" site="mts.rs" site_id="601" xmltv_id="TV Bor">TV Bor</channel>
-    <channel update="i" site="mts.rs" site_id="602" xmltv_id="TV Trans">TV Trans</channel>
-    <channel update="i" site="mts.rs" site_id="603" xmltv_id="T1">T1</channel>
-    <channel update="i" site="mts.rs" site_id="605" xmltv_id="TV Istok">TV Istok</channel>
-    <channel update="i" site="mts.rs" site_id="606" xmltv_id="TV Pirot">TV Pirot</channel>
-    <channel update="i" site="mts.rs" site_id="607" xmltv_id="TV PI kanal">TV PI kanal</channel>
-    <channel update="i" site="mts.rs" site_id="608" xmltv_id="TV Caribrod">TV Caribrod</channel>
-    <channel update="i" site="mts.rs" site_id="611" xmltv_id="NTV">NTV</channel>
-    <channel update="i" site="mts.rs" site_id="613" xmltv_id="TV Mostnet">TV Mostnet</channel>
-    <channel update="i" site="mts.rs" site_id="615" xmltv_id="TV Sokobanja">TV Sokobanja</channel>
-    <channel update="i" site="mts.rs" site_id="616" xmltv_id="TV Leskovac">TV Leskovac</channel>
-    <channel update="i" site="mts.rs" site_id="617" xmltv_id="TV K-1">TV K-1</channel>
-    <channel update="i" site="mts.rs" site_id="618" xmltv_id="SKAY TV">SKAY TV</channel>
-    <channel update="i" site="mts.rs" site_id="619" xmltv_id="TV Vranje">TV Vranje</channel>
-    <channel update="i" site="mts.rs" site_id="620" xmltv_id="Vranjska plus">Vranjska plus</channel>
-    <channel update="i" site="mts.rs" site_id="621" xmltv_id="TV Ritam">TV Ritam</channel>
-    <channel update="i" site="mts.rs" site_id="622" xmltv_id="TV Fokus">TV Fokus</channel>
-    <channel update="i" site="mts.rs" site_id="624" xmltv_id="TV Bujanovac">TV Bujanovac</channel>
-    <channel update="i" site="mts.rs" site_id="635" xmltv_id="HRT 1">HRT 1</channel>
-    <channel update="i" site="mts.rs" site_id="636" xmltv_id="HRT 2">HRT 2</channel>
-    <channel update="i" site="mts.rs" site_id="637" xmltv_id="HRT 3">HRT 3</channel>
-    <channel update="i" site="mts.rs" site_id="638" xmltv_id="HRT 4">HRT 4</channel>
-    <channel update="i" site="mts.rs" site_id="639" xmltv_id="HRT INT">HRT INT</channel>
-    <channel update="i" site="mts.rs" site_id="640" xmltv_id="Hayat">Hayat</channel>
-    <channel update="i" site="mts.rs" site_id="641" xmltv_id="Hayat Plus">Hayat Plus</channel>
-    <channel update="i" site="mts.rs" site_id="642" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="mts.rs" site_id="645" xmltv_id="RTL Croatia World">RTL Croatia World</channel>
-    <channel update="i" site="mts.rs" site_id="647" xmltv_id="Naša TV">Naša TV</channel>
-    <channel update="i" site="mts.rs" site_id="651" xmltv_id="Pink Montenegro">Pink Montenegro</channel>
-    <channel update="i" site="mts.rs" site_id="652" xmltv_id="Prva CG">Prva CG</channel>
-    <channel update="i" site="mts.rs" site_id="653" xmltv_id="ADRIA TV">ADRIA TV</channel>
-    <channel update="i" site="mts.rs" site_id="655" xmltv_id="Face TV">Face TV</channel>
-    <channel update="i" site="mts.rs" site_id="656" xmltv_id="FTV">FTV</channel>
-    <channel update="i" site="mts.rs" site_id="657" xmltv_id="ATV">ATV</channel>
-    <channel update="i" site="mts.rs" site_id="658" xmltv_id="K3">K3</channel>
-    <channel update="i" site="mts.rs" site_id="659" xmltv_id="OBN">OBN</channel>
-    <channel update="i" site="mts.rs" site_id="660" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="mts.rs" site_id="663" xmltv_id="Rossia 24">Rossia 24</channel>
-    <channel update="i" site="mts.rs" site_id="664" xmltv_id="RT News HD">RT News HD</channel>
-    <channel update="i" site="mts.rs" site_id="665" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="mts.rs" site_id="666" xmltv_id="France 24">France 24</channel>
-    <channel update="i" site="mts.rs" site_id="669" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="mts.rs" site_id="670" xmltv_id="CCTV 4">CCTV 4</channel>
-    <channel update="i" site="mts.rs" site_id="671" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="mts.rs" site_id="673" xmltv_id="Espreso TV">Espreso TV</channel>
-    <channel update="i" site="mts.rs" site_id="674" xmltv_id="Current Time TV">Current Time TV</channel>
-    <channel update="i" site="mts.rs" site_id="675" xmltv_id="Duna TV">Duna TV</channel>
-    <channel update="i" site="mts.rs" site_id="676" xmltv_id="Duna World">Duna World</channel>
-    <channel update="i" site="mts.rs" site_id="682" xmltv_id="COOL">COOL</channel>
-    <channel update="i" site="mts.rs" site_id="683" xmltv_id="Film +">Film +</channel>
-    <channel update="i" site="mts.rs" site_id="685" xmltv_id="Film 4">Film 4</channel>
-    <channel update="i" site="mts.rs" site_id="686" xmltv_id="M1">M1</channel>
-    <channel update="i" site="mts.rs" site_id="688" xmltv_id="M5">M5</channel>
-    <channel update="i" site="mts.rs" site_id="689" xmltv_id="RTL Gold">RTL Gold</channel>
-    <channel update="i" site="mts.rs" site_id="690" xmltv_id="Sorozat+">Sorozat+</channel>
-    <channel update="i" site="mts.rs" site_id="691" xmltv_id="Story 4">Story 4</channel>
-    <channel update="i" site="mts.rs" site_id="692" xmltv_id="TV2">TV2</channel>
-    <channel update="i" site="mts.rs" site_id="693" xmltv_id="Super TV2">Super TV2</channel>
-    <channel update="i" site="mts.rs" site_id="800" xmltv_id="Dorcel">Dorcel</channel>
-    <channel update="i" site="mts.rs" site_id="801" xmltv_id="Private TV">Private TV</channel>
-    <channel update="i" site="mts.rs" site_id="802" xmltv_id="Brazzers TV">Brazzers TV</channel>
-    <channel update="i" site="mts.rs" site_id="803" xmltv_id="Hustler">Hustler</channel>
-    <channel update="i" site="mts.rs" site_id="804" xmltv_id="Erotic">Erotic</channel>
-    <channel update="i" site="mts.rs" site_id="805" xmltv_id="Erotic 2">Erotic 2</channel>
-    <channel update="i" site="mts.rs" site_id="806" xmltv_id="Erotic 3">Erotic 3</channel>
-    <channel update="i" site="mts.rs" site_id="807" xmltv_id="Erotic 4">Erotic 4</channel>
-    <channel update="i" site="mts.rs" site_id="808" xmltv_id="Erotic 5">Erotic 5</channel>
-    <channel update="i" site="mts.rs" site_id="809" xmltv_id="Erotic 6">Erotic 6</channel>
-    <channel update="i" site="mts.rs" site_id="810" xmltv_id="Erotic 7">Erotic 7</channel>
-    <channel update="i" site="mts.rs" site_id="811" xmltv_id="Erotic 8">Erotic 8</channel>
-    <channel update="i" site="mts.rs" site_id="814" xmltv_id="Babes">Babes</channel>
-    <channel update="i" site="mts.rs" site_id="815" xmltv_id="Reality Kings">Reality Kings</channel>
-    <channel update="i" site="mts.rs" site_id="816" xmltv_id="Bang U">Bang U</channel>
-    <channel update="i" site="mts.rs" site_id="817" xmltv_id="Adult 1">Adult 1</channel>
-    <channel update="i" site="mts.rs" site_id="818" xmltv_id="Adult 2">Adult 2</channel>
-    <channel update="i" site="mts.rs" site_id="819" xmltv_id="Adult 3">Adult 3</channel>
-    <channel update="i" site="mts.rs" site_id="820" xmltv_id="Adult 4">Adult 4</channel>
-    <channel update="i" site="mts.rs" site_id="821" xmltv_id="Adult 5">Adult 5</channel>
-    <channel update="i" site="mts.rs" site_id="822" xmltv_id="Adult 6">Adult 6</channel>
-    <channel update="i" site="mts.rs" site_id="823" xmltv_id="Adult 7">Adult 7</channel>
-    <channel update="i" site="mts.rs" site_id="824" xmltv_id="Erox">Erox</channel>
-    <channel update="i" site="mts.rs" site_id="827" xmltv_id="EroXXX HD">EroXXX HD</channel>
-    <channel update="i" site="mts.rs" site_id="853" xmltv_id="Radio Lola">Radio Lola</channel>
-    <channel update="i" site="mts.rs" site_id="900" xmltv_id="2000s">2000s</channel>
-    <channel update="i" site="mts.rs" site_id="901" xmltv_id="60s">60s</channel>
-    <channel update="i" site="mts.rs" site_id="902" xmltv_id="70s">70s</channel>
-    <channel update="i" site="mts.rs" site_id="903" xmltv_id="80s">80s</channel>
-    <channel update="i" site="mts.rs" site_id="904" xmltv_id="90s">90s</channel>
-    <channel update="i" site="mts.rs" site_id="905" xmltv_id="All Day Party">All Day Party</channel>
-    <channel update="i" site="mts.rs" site_id="906" xmltv_id="Bass, Breaks &amp; Beats">Bass, Breaks &amp; Beats</channel>
-    <channel update="i" site="mts.rs" site_id="907" xmltv_id="Blues">Blues</channel>
-    <channel update="i" site="mts.rs" site_id="908" xmltv_id="Chillout">Chillout</channel>
-    <channel update="i" site="mts.rs" site_id="909" xmltv_id="Classic R'n'B &amp; Soul">Classic R'n'B &amp; Soul</channel>
-    <channel update="i" site="mts.rs" site_id="910" xmltv_id="Classic Rock">Classic Rock</channel>
-    <channel update="i" site="mts.rs" site_id="911" xmltv_id="Classical Calm">Classical Calm</channel>
-    <channel update="i" site="mts.rs" site_id="912" xmltv_id="Classical Greats">Classical Greats</channel>
-    <channel update="i" site="mts.rs" site_id="913" xmltv_id="La Vitta e Bella">La Vitta e Bella</channel>
-    <channel update="i" site="mts.rs" site_id="914" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
-    <channel update="i" site="mts.rs" site_id="915" xmltv_id="Cool Jazz">Cool Jazz</channel>
-    <channel update="i" site="mts.rs" site_id="916" xmltv_id="Instrumental Melodies">Instrumental Melodies</channel>
-    <channel update="i" site="mts.rs" site_id="917" xmltv_id="Dancefloor Fillers">Dancefloor Fillers</channel>
-    <channel update="i" site="mts.rs" site_id="918" xmltv_id="Drive">Drive</channel>
-    <channel update="i" site="mts.rs" site_id="919" xmltv_id="Freedom">Freedom</channel>
-    <channel update="i" site="mts.rs" site_id="920" xmltv_id="Groove ( Disco &amp; Funk)">Groove ( Disco &amp; Funk)</channel>
-    <channel update="i" site="mts.rs" site_id="921" xmltv_id="Headbangers">Headbangers</channel>
-    <channel update="i" site="mts.rs" site_id="922" xmltv_id="Hip Hop">Hip Hop</channel>
-    <channel update="i" site="mts.rs" site_id="923" xmltv_id="House Music">House Music</channel>
-    <channel update="i" site="mts.rs" site_id="924" xmltv_id="Jazz Classics">Jazz Classics</channel>
-    <channel update="i" site="mts.rs" site_id="925" xmltv_id="Latin">Latin</channel>
-    <channel update="i" site="mts.rs" site_id="926" xmltv_id="The Spa">The Spa</channel>
-    <channel update="i" site="mts.rs" site_id="927" xmltv_id="Jammin">Jammin</channel>
-    <channel update="i" site="mts.rs" site_id="928" xmltv_id="Revival 60s &amp; 70s">Revival 60s &amp; 70s</channel>
-    <channel update="i" site="mts.rs" site_id="929" xmltv_id="Rewind 80s &amp; 90s">Rewind 80s &amp; 90s</channel>
-    <channel update="i" site="mts.rs" site_id="930" xmltv_id="Rock Anthems">Rock Anthems</channel>
-    <channel update="i" site="mts.rs" site_id="931" xmltv_id="Rock'n'Roll">Rock'n'Roll</channel>
-    <channel update="i" site="mts.rs" site_id="932" xmltv_id="Silk (Love Songs)">Silk (Love Songs)</channel>
-    <channel update="i" site="mts.rs" site_id="933" xmltv_id="Rock Alternative -US">Rock Alternative -US</channel>
-    <channel update="i" site="mts.rs" site_id="934" xmltv_id="Total Hits Balkan">Total Hits Balkan</channel>
-    <channel update="i" site="mts.rs" site_id="935" xmltv_id="Balkan Retro Hits">Balkan Retro Hits</channel>
-    <channel update="i" site="mts.rs" site_id="936" xmltv_id="Gypsy Party">Gypsy Party</channel>
-    <channel update="i" site="mts.rs" site_id="937" xmltv_id="Total Hits Italy">Total Hits Italy</channel>
-    <channel update="i" site="mts.rs" site_id="938" xmltv_id="OMG">OMG</channel>
-    <channel update="i" site="mts.rs" site_id="939" xmltv_id="Hit List (USA)">Hit List (USA)</channel>
-    <channel update="i" site="mts.rs" site_id="940" xmltv_id="Total Hits UK">Total Hits UK</channel>
-    <channel update="i" site="mts.rs" site_id="941" xmltv_id="Trance">Trance</channel>
-    <channel update="i" site="mts.rs" site_id="942" xmltv_id="Chansons">Chansons</channel>
-    <channel update="i" site="mts.rs" site_id="943" xmltv_id="Urban">Urban</channel>
-    <channel update="i" site="mts.rs" site_id="944" xmltv_id="Carnival">Carnival</channel>
-    <channel update="i" site="mts.rs" site_id="945" xmltv_id="Zvuci Skadarlije">Zvuci Skadarlije</channel>
-    <channel update="i" site="mts.rs" site_id="946" xmltv_id="Nežne note">Nežne note</channel>
-    <channel update="i" site="mts.rs" site_id="947" xmltv_id="Dečja muzika">Dečja muzika</channel>
-    <channel update="i" site="mts.rs" site_id="948" xmltv_id="Srpski rok">Srpski rok</channel>
-    <channel update="i" site="mts.rs" site_id="950" xmltv_id="Radio Beograd 1">Radio Beograd 1</channel>
-    <channel update="i" site="mts.rs" site_id="951" xmltv_id="Radio Beograd 2/3">Radio Beograd 2/3</channel>
-    <channel update="i" site="mts.rs" site_id="952" xmltv_id="Radio Beograd 202">Radio Beograd 202</channel>
-    <channel update="i" site="mts.rs" site_id="953" xmltv_id="Play">Play</channel>
-    <channel update="i" site="mts.rs" site_id="954" xmltv_id="Radio Studio B">Radio Studio B</channel>
-    <channel update="i" site="mts.rs" site_id="955" xmltv_id="Radio S1">Radio S1</channel>
-    <channel update="i" site="mts.rs" site_id="959" xmltv_id="Pink radio">Pink radio</channel>
-    <channel update="i" site="mts.rs" site_id="960" xmltv_id="Naxi radio">Naxi radio</channel>
-    <channel update="i" site="mts.rs" site_id="961" xmltv_id="Red Radio">Red Radio</channel>
-    <channel update="i" site="mts.rs" site_id="963" xmltv_id="Radio Karolina">Radio Karolina</channel>
-    <channel update="i" site="mts.rs" site_id="964" xmltv_id="TDI radio">TDI radio</channel>
-    <channel update="i" site="mts.rs" site_id="965" xmltv_id="Hit FM radio">Hit FM radio</channel>
-    <channel update="i" site="mts.rs" site_id="969" xmltv_id="Timočki radio">Timočki radio</channel>
-    <channel update="i" site="mts.rs" site_id="970" xmltv_id="Radio Skay">Radio Skay</channel>
-    <channel update="i" site="mts.rs" site_id="971" xmltv_id="Radio AS FM">Radio AS FM</channel>
-    <channel update="i" site="mts.rs" site_id="972" xmltv_id="Slovo Ljubve">Slovo Ljubve</channel>
-    <channel update="i" site="mts.rs" site_id="973" xmltv_id="Radio Beseda">Radio Beseda</channel>
-    <channel update="i" site="mts.rs" site_id="974" xmltv_id="Lova Lova">Lova Lova</channel>
-    <channel update="i" site="mts.rs" site_id="998" xmltv_id="Promo poslovnice">Promo poslovnice</channel>
+    <channel update="i" site="mts.rs" site_id="iris_tv_promo" xmltv_id="Iris TV promo">Iris TV promo</channel>
+    <channel update="i" site="mts.rs" site_id="rts_1_hd" xmltv_id="RTS 1">RTS 1</channel>
+    <channel update="i" site="mts.rs" site_id="rts_2_hd" xmltv_id="RTS 2 ">RTS 2 </channel>
+    <channel update="i" site="mts.rs" site_id="rtv_1" xmltv_id="RTV 1">RTV 1</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pink" xmltv_id="TV Pink">TV Pink</channel>
+    <channel update="i" site="mts.rs" site_id="prva_tv_hd" xmltv_id="Prva">Prva</channel>
+    <channel update="i" site="mts.rs" site_id="b92" xmltv_id="B92">B92</channel>
+    <channel update="i" site="mts.rs" site_id="happy_tv_hd" xmltv_id="Happy TV">Happy TV</channel>
+    <channel update="i" site="mts.rs" site_id="superstar_tv" xmltv_id="SUPERSTAR TV">SUPERSTAR TV</channel>
+    <channel update="i" site="mts.rs" site_id="kurir_hd" xmltv_id="Kurir TV">Kurir TV</channel>
+    <channel update="i" site="mts.rs" site_id="Informer TV" xmltv_id="Informer TV">Informer TV</channel>
+    <channel update="i" site="mts.rs" site_id="k1_hd" xmltv_id="K1">K1</channel>
+    <channel update="i" site="mts.rs" site_id="red_tv" xmltv_id="Red TV">Red TV</channel>
+    <channel update="i" site="mts.rs" site_id="vesti" xmltv_id="VESTI">VESTI</channel>
+    <channel update="i" site="mts.rs" site_id="euronews_serbia" xmltv_id="Euronews Serbia">Euronews Serbia</channel>
+    <channel update="i" site="mts.rs" site_id="tanjug_tv" xmltv_id="Tanjug TV">Tanjug TV</channel>
+    <channel update="i" site="mts.rs" site_id="bloomberg_adria" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
+    <channel update="i" site="mts.rs" site_id="blic_tv" xmltv_id="Blic TV">Blic TV</channel>
+    <channel update="i" site="mts.rs" site_id="studio_b" xmltv_id="Studio B">Studio B</channel>
+    <channel update="i" site="mts.rs" site_id="klasik_tv" xmltv_id="Klasik">Klasik</channel>
+    <channel update="i" site="mts.rs" site_id="balkan_trip" xmltv_id="Balkan Trip">Balkan Trip</channel>
+    <channel update="i" site="mts.rs" site_id="insta_tv" xmltv_id="Insta TV">Insta TV</channel>
+    <channel update="i" site="mts.rs" site_id="insajder" xmltv_id="Insajder">Insajder</channel>
+    <channel update="i" site="mts.rs" site_id="toxic_tv" xmltv_id="Toxic TV">Toxic TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_palma_plus" xmltv_id="TV Palma plus">TV Palma plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_ras" xmltv_id="TV Ras">TV Ras</channel>
+    <channel update="i" site="mts.rs" site_id="una_tv" xmltv_id="UNA TV">UNA TV</channel>
+    <channel update="i" site="mts.rs" site_id="agro_tv" xmltv_id="Agro TV">Agro TV</channel>
+    <channel update="i" site="mts.rs" site_id="Eko vizija" xmltv_id="Eko vizija">Eko vizija</channel>
+    <channel update="i" site="mts.rs" site_id="dox_tv" xmltv_id="Dox TV">Dox TV</channel>
+    <channel update="i" site="mts.rs" site_id="film_klub" xmltv_id="Film klub">Film klub</channel>
+    <channel update="i" site="mts.rs" site_id="toxic_folk" xmltv_id="Toxic Folk">Toxic Folk</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_2" xmltv_id="RTV 2">RTV 2</channel>
+    <channel update="i" site="mts.rs" site_id="prva_max" xmltv_id="Prva MAX">Prva MAX</channel>
+    <channel update="i" site="mts.rs" site_id="rtrs" xmltv_id="RTRS">RTRS</channel>
+    <channel update="i" site="mts.rs" site_id="bn" xmltv_id="BN">BN</channel>
+    <channel update="i" site="mts.rs" site_id="tv_hram_hd" xmltv_id="TV Hram">TV Hram</channel>
+    <channel update="i" site="mts.rs" site_id="koreni_hd" xmltv_id="Koreni HD">Koreni HD</channel>
+    <channel update="i" site="mts.rs" site_id="tv_mreza_most_hd" xmltv_id="TV mreza Most Zvečan">TV mreza Most Zvečan</channel>
+    <channel update="i" site="mts.rs" site_id="rts_3_hd" xmltv_id="RTS 3">RTS 3</channel>
+    <channel update="i" site="mts.rs" site_id="bn2" xmltv_id="BN 2">BN 2</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pančevo" xmltv_id="TV Pančevo">TV Pančevo</channel>
+    <channel update="i" site="mts.rs" site_id="dunav_tv_hd" xmltv_id="Dunav TV">Dunav TV</channel>
+    <channel update="i" site="mts.rs" site_id="tvdr_hd" xmltv_id="TVDR">TVDR</channel>
+    <channel update="i" site="mts.rs" site_id="hype_hd" xmltv_id="Hype">Hype</channel>
+    <channel update="i" site="mts.rs" site_id="moj_astrolog_tv" xmltv_id="Moj Astrolog">Moj Astrolog</channel>
+    <channel update="i" site="mts.rs" site_id="rts_drama" xmltv_id="RTS Drama">RTS Drama</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_1 dupli" xmltv_id="RTV 1">RTV 1</channel>
+    <channel update="i" site="mts.rs" site_id="kuvo_tv" xmltv_id="Kuvo TV">Kuvo TV</channel>
+    <channel update="i" site="mts.rs" site_id="rts_kolo" xmltv_id="RTS Kolo">RTS Kolo</channel>
+    <channel update="i" site="mts.rs" site_id="rts_muzika" xmltv_id="RTS Muzika">RTS Muzika</channel>
+    <channel update="i" site="mts.rs" site_id="rts_klasika" xmltv_id="RTS Klasika">RTS Klasika</channel>
+    <channel update="i" site="mts.rs" site_id="skymusic_entertainment_se" xmltv_id="Skymusic entertainment /SE">Skymusic entertainment /SE</channel>
+    <channel update="i" site="mts.rs" site_id="moje_happy_drustvo" xmltv_id="Moje Happy Društvo">Moje Happy Društvo</channel>
+    <channel update="i" site="mts.rs" site_id="moj_happy_zivot" xmltv_id="Moj Happy Život">Moj Happy Život</channel>
+    <channel update="i" site="mts.rs" site_id="moja_happy_zemlja" xmltv_id="Moja Happy Zemlja">Moja Happy Zemlja</channel>
+    <channel update="i" site="mts.rs" site_id="moja_happy_muzika" xmltv_id="Moja Happy Muzika">Moja Happy Muzika</channel>
+    <channel update="i" site="mts.rs" site_id="dankos_plus_tv" xmltv_id="Dankos Plus TV">Dankos Plus TV</channel>
+    <channel update="i" site="mts.rs" site_id="rts_nauka" xmltv_id="RTS Nauka">RTS Nauka</channel>
+    <channel update="i" site="mts.rs" site_id="rts_zivot" xmltv_id="RTS Život">RTS Život</channel>
+    <channel update="i" site="mts.rs" site_id="rts_trezor" xmltv_id="RTS Trezor">RTS Trezor</channel>
+    <channel update="i" site="mts.rs" site_id="RTV KISS" xmltv_id="RTV KISS">RTV KISS</channel>
+    <channel update="i" site="mts.rs" site_id="timeless_dizi_channel" xmltv_id="Timeless Dizi Channel">Timeless Dizi Channel</channel>
+    <channel update="i" site="mts.rs" site_id="Hit FM radio" xmltv_id="Hit FM radio">Hit FM radio</channel>
+    <channel update="i" site="mts.rs" site_id="superstar_tv_hd" xmltv_id="SUPERSTAR TV">SUPERSTAR TV</channel>
+    <channel update="i" site="mts.rs" site_id="superstar_2_hd" xmltv_id="SUPERSTAR 2">SUPERSTAR 2</channel>
+    <channel update="i" site="mts.rs" site_id="klasik_tv_duplicate" xmltv_id="Klasik">Klasik</channel>
+    <channel update="i" site="mts.rs" site_id="film_klub_duplicate" xmltv_id="Film klub">Film klub</channel>
+    <channel update="i" site="mts.rs" site_id="pink_premium_hd" xmltv_id="Pink Premium">Pink Premium</channel>
+    <channel update="i" site="mts.rs" site_id="pink_movies" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel update="i" site="mts.rs" site_id="pink_action" xmltv_id="Pink Action">Pink Action</channel>
+    <channel update="i" site="mts.rs" site_id="pink_thriller" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel update="i" site="mts.rs" site_id="pink_crime_&amp;_mystery" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
+    <channel update="i" site="mts.rs" site_id="pink_comedy" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel update="i" site="mts.rs" site_id="pink_classic" xmltv_id="Pink Classic">Pink Classic</channel>
+    <channel update="i" site="mts.rs" site_id="pink_western" xmltv_id="Pink Western">Pink Western</channel>
+    <channel update="i" site="mts.rs" site_id="pink_romance" xmltv_id="Pink Romance">Pink Romance</channel>
+    <channel update="i" site="mts.rs" site_id="pink_sci-fi_&amp;_fantasy" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
+    <channel update="i" site="mts.rs" site_id="pink_horror" xmltv_id="Pink Horror">Pink Horror</channel>
+    <channel update="i" site="mts.rs" site_id="pink_world_cinema" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
+    <channel update="i" site="mts.rs" site_id="pink_film" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="mts.rs" site_id="fox" xmltv_id="Star">Star</channel>
+    <channel update="i" site="mts.rs" site_id="fox_movies" xmltv_id="Star Movies">Star Movies</channel>
+    <channel update="i" site="mts.rs" site_id="fox_life" xmltv_id="Star Life">Star Life</channel>
+    <channel update="i" site="mts.rs" site_id="fox_crime" xmltv_id="Star Crime">Star Crime</channel>
+    <channel update="i" site="mts.rs" site_id="tv1000" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="mts.rs" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="mts.rs" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="mts.rs" site_id="axn_spin" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="mts.rs" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="mts.rs" site_id="hbo_2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="mts.rs" site_id="hbo_3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="mts.rs" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="mts.rs" site_id="cinemax_2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="mts.rs" site_id="diva" xmltv_id="Diva">Diva</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_premium" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_stars" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_extra" xmltv_id="Filmbox Extra">Filmbox Extra</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_arthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="mts.rs" site_id="epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="mts.rs" site_id="sci_fi" xmltv_id="Sci Fi">Sci Fi</channel>
+    <channel update="i" site="mts.rs" site_id="pink_family" xmltv_id="Pink Family">Pink Family</channel>
+    <channel update="i" site="mts.rs" site_id="pink_serije" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel update="i" site="mts.rs" site_id="pink_soap" xmltv_id="Pink Soap">Pink Soap</channel>
+    <channel update="i" site="mts.rs" site_id="film_klub_extra" xmltv_id="Film Klub Extra">Film Klub Extra</channel>
+    <channel update="i" site="mts.rs" site_id="euro_cinema_1" xmltv_id="Euro  Cinema 1">Euro  Cinema 1</channel>
+    <channel update="i" site="mts.rs" site_id="euro_cinema_2" xmltv_id="Euro Cinema 2">Euro Cinema 2</channel>
+    <channel update="i" site="mts.rs" site_id="euro_cinema_3" xmltv_id="Euro Cinema 3">Euro Cinema 3</channel>
+    <channel update="i" site="mts.rs" site_id="euro_cinema_4" xmltv_id="Euro Cinema 4">Euro Cinema 4</channel>
+    <channel update="i" site="mts.rs" site_id="prva_life" xmltv_id="Prva Life">Prva Life</channel>
+    <channel update="i" site="mts.rs" site_id="prva_files" xmltv_id="Prva Files">Prva Files</channel>
+    <channel update="i" site="mts.rs" site_id="prva_kick" xmltv_id="Prva Kick">Prva Kick</channel>
+    <channel update="i" site="mts.rs" site_id="prva_world" xmltv_id="Prva World">Prva World</channel>
+    <channel update="i" site="mts.rs" site_id="24kitchen" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="mts.rs" site_id="k1_duplicate" xmltv_id="K1">K1</channel>
+    <channel update="i" site="mts.rs" site_id="agro_tv_duplicate" xmltv_id="Agro TV">Agro TV</channel>
+    <channel update="i" site="mts.rs" site_id="tvdr_duplicate" xmltv_id="TVDR">TVDR</channel>
+    <channel update="i" site="mts.rs" site_id="balkan_trip_hd" xmltv_id="Balkan Trip">Balkan Trip</channel>
+    <channel update="i" site="mts.rs" site_id="zdravlje_tv" xmltv_id="Zelena TV Zdravlje">Zelena TV Zdravlje</channel>
+    <channel update="i" site="mts.rs" site_id="turizam_+_tv" xmltv_id="Turizam + TV">Turizam + TV</channel>
+    <channel update="i" site="mts.rs" site_id="travel_channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="mts.rs" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="mts.rs" site_id="fashion_tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="mts.rs" site_id="pink_fashion" xmltv_id="Pink Fashion">Pink Fashion</channel>
+    <channel update="i" site="mts.rs" site_id="pink_style" xmltv_id="Pink Style">Pink Style</channel>
+    <channel update="i" site="mts.rs" site_id="pink_kuvar" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
+    <channel update="i" site="mts.rs" site_id="pink_show" xmltv_id="Pink Show">Pink Show</channel>
+    <channel update="i" site="mts.rs" site_id="pink_zabava" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel update="i" site="mts.rs" site_id="pink_reality" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="mts.rs" site_id="pink_world" xmltv_id="Pink World">Pink World</channel>
+    <channel update="i" site="mts.rs" site_id="pink_extra" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="mts.rs" site_id="pink_plus" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="mts.rs" site_id="ha_ha" xmltv_id="HA HA">HA HA</channel>
+    <channel update="i" site="mts.rs" site_id="lol" xmltv_id="LOL">LOL</channel>
+    <channel update="i" site="mts.rs" site_id="gametoon" xmltv_id="Gametoon">Gametoon</channel>
+    <channel update="i" site="mts.rs" site_id="happy_reality_1" xmltv_id="Happy Reality 1">Happy Reality 1</channel>
+    <channel update="i" site="mts.rs" site_id="happy_reality_2" xmltv_id="Happy Reality 2">Happy Reality 2</channel>
+    <channel update="i" site="mts.rs" site_id="fashion_box" xmltv_id="Fashion box">Fashion box</channel>
+    <channel update="i" site="mts.rs" site_id="Zadruga live_1" xmltv_id="Elita live 1">Elita live 1</channel>
+    <channel update="i" site="mts.rs" site_id="Zadruga live_2" xmltv_id="Elita live 2">Elita live 2</channel>
+    <channel update="i" site="mts.rs" site_id="Zadruga live_3" xmltv_id="Elita live 3">Elita live 3</channel>
+    <channel update="i" site="mts.rs" site_id="Zadruga live_4" xmltv_id="Elita live 4">Elita live 4</channel>
+    <channel update="i" site="mts.rs" site_id="hype" xmltv_id="Hype">Hype</channel>
+    <channel update="i" site="mts.rs" site_id="kuvo_tv_hd" xmltv_id="Kuvo TV">Kuvo TV</channel>
+    <channel update="i" site="mts.rs" site_id="food_network_hd" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="mts.rs" site_id="eko_vizija" xmltv_id="Eko vizija">Eko vizija</channel>
+    <channel update="i" site="mts.rs" site_id="arena_premium_1_hd" xmltv_id="Arena PREMIUM 1">Arena PREMIUM 1</channel>
+    <channel update="i" site="mts.rs" site_id="arena_premium_2_hd" xmltv_id="Arena PREMIUM 2">Arena PREMIUM 2</channel>
+    <channel update="i" site="mts.rs" site_id="arena_premium_3_hd" xmltv_id="Arena PREMIUM 3">Arena PREMIUM 3</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_1_hd" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_2_hd" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_3_hd" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_4_hd" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_5_hd" xmltv_id="Arena Sport 5">Arena Sport 5</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_6_hd" xmltv_id="Arena Sport 6">Arena Sport 6</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_7_hd" xmltv_id="Arena Sport 7">Arena Sport 7</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_8_hd" xmltv_id="Arena Sport 8">Arena Sport 8</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_9_hd" xmltv_id="Arena Sport 9">Arena Sport 9</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_10_hd" xmltv_id="Arena Sport 10">Arena Sport 10</channel>
+    <channel update="i" site="mts.rs" site_id="premier_legue_tv_hd" xmltv_id="Premier League TV">Premier League TV</channel>
+    <channel update="i" site="mts.rs" site_id="arena_sport_1x2_hd" xmltv_id="Arena Sport 1x2 ">Arena Sport 1x2 </channel>
+    <channel update="i" site="mts.rs" site_id="arena_fight_hd" xmltv_id="Arena Fight">Arena Fight</channel>
+    <channel update="i" site="mts.rs" site_id="arena_esport__hd" xmltv_id="Arena Esport">Arena Esport</channel>
+    <channel update="i" site="mts.rs" site_id="nba_tv" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="mts.rs" site_id="eurosport_1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="mts.rs" site_id="eurosport_2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="mts.rs" site_id="_lfctv" xmltv_id="LFCTV">LFCTV</channel>
+    <channel update="i" site="mts.rs" site_id="sos_kanal_plus" xmltv_id="SOS Kanal Plus">SOS Kanal Plus</channel>
+    <channel update="i" site="mts.rs" site_id="zvezda_tv" xmltv_id="Zvezda TV">Zvezda TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_partizan" xmltv_id="TV Partizan">TV Partizan</channel>
+    <channel update="i" site="mts.rs" site_id="fight_network" xmltv_id="Fight Network">Fight Network</channel>
+    <channel update="i" site="mts.rs" site_id="fight_box" xmltv_id="Fight Box">Fight Box</channel>
+    <channel update="i" site="mts.rs" site_id="fast_&amp;_fun_hd" xmltv_id="Fast &amp; Fun">Fast &amp; Fun</channel>
+    <channel update="i" site="mts.rs" site_id="extreme_sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="mts.rs" site_id="trace_sport_stars" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+    <channel update="i" site="mts.rs" site_id="dox_tv_hd" xmltv_id="Dox TV">Dox TV</channel>
+    <channel update="i" site="mts.rs" site_id="discovery_channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="mts.rs" site_id="animal_planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="mts.rs" site_id="history_2" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="mts.rs" site_id="id" xmltv_id="ID">ID</channel>
+    <channel update="i" site="mts.rs" site_id="rt_documentary" xmltv_id="RT Documentary">RT Documentary</channel>
+    <channel update="i" site="mts.rs" site_id="pink_pedia" xmltv_id="Pink Pedia">Pink Pedia</channel>
+    <channel update="i" site="mts.rs" site_id="tv_front" xmltv_id="TV Front">TV Front</channel>
+    <channel update="i" site="mts.rs" site_id="da_vinci_learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="mts.rs" site_id="crime_and_investigation" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="mts.rs" site_id="LH_TV" xmltv_id="LH TV">LH TV</channel>
+    <channel update="i" site="mts.rs" site_id="kazbuka" xmltv_id="Kazbuka">Kazbuka</channel>
+    <channel update="i" site="mts.rs" site_id="dexy_tv_duplicate" xmltv_id="Dexy TV">Dexy TV</channel>
+    <channel update="i" site="mts.rs" site_id="rts_poletarac" xmltv_id="RTS Poletarac">RTS Poletarac</channel>
+    <channel update="i" site="mts.rs" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="mts.rs" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="mts.rs" site_id="nickelodeon_junior" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="mts.rs" site_id="baby_tv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="mts.rs" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="mts.rs" site_id="pink_kids" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="mts.rs" site_id="pink_super_kids" xmltv_id="Pink Super Kids">Pink Super Kids</channel>
+    <channel update="i" site="mts.rs" site_id="disney_junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="mts.rs" site_id="disney_channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="mts.rs" site_id="Cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="mts.rs" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="mts.rs" site_id="cartoon_network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="mts.rs" site_id="hayatovci" xmltv_id="Hayatovci">Hayatovci</channel>
+    <channel update="i" site="mts.rs" site_id="nickelodeon_hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="mts.rs" site_id="pink_music" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="mts.rs" site_id="pink_music_2" xmltv_id="Pink Music 2">Pink Music 2</channel>
+    <channel update="i" site="mts.rs" site_id="bravo_music" xmltv_id="Bravo Music">Bravo Music</channel>
+    <channel update="i" site="mts.rs" site_id="pink_koncert" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel update="i" site="mts.rs" site_id="hifi_music" xmltv_id="HiFi Music">HiFi Music</channel>
+    <channel update="i" site="mts.rs" site_id="city_play" xmltv_id="City play">City play</channel>
+    <channel update="i" site="mts.rs" site_id="tv_s" xmltv_id="TV S">TV S</channel>
+    <channel update="i" site="mts.rs" site_id="tv_duga_plus" xmltv_id="TV Duga plus">TV Duga plus</channel>
+    <channel update="i" site="mts.rs" site_id="hayat_folk" xmltv_id="Hayat Folk">Hayat Folk</channel>
+    <channel update="i" site="mts.rs" site_id="hayat_music" xmltv_id="Hayat Music">Hayat Music</channel>
+    <channel update="i" site="mts.rs" site_id="pink_folk" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="mts.rs" site_id="pink_folk_2" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+    <channel update="i" site="mts.rs" site_id="bn_music" xmltv_id="BN Music">BN Music</channel>
+    <channel update="i" site="mts.rs" site_id="dm_sat" xmltv_id="DM SAT">DM SAT</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kcn_music_2" xmltv_id="TV K::CN Music 2">TV K::CN Music 2</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kcn_svet_plus_3" xmltv_id="TV K::CN Svet Plus 3">TV K::CN Svet Plus 3</channel>
+    <channel update="i" site="mts.rs" site_id="tv_melos" xmltv_id="TV Melos">TV Melos</channel>
+    <channel update="i" site="mts.rs" site_id="hifi_etno" xmltv_id="HiFi Etno">HiFi Etno</channel>
+    <channel update="i" site="mts.rs" site_id="toxic_folk_hd" xmltv_id="Toxic Folk">Toxic Folk</channel>
+    <channel update="i" site="mts.rs" site_id="pink&amp;roll" xmltv_id="Pink&amp;Roll">Pink&amp;Roll</channel>
+    <channel update="i" site="mts.rs" site_id="pink_hits_1" xmltv_id="Pink Hits 1">Pink Hits 1</channel>
+    <channel update="i" site="mts.rs" site_id="pink_hits_2" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
+    <channel update="i" site="mts.rs" site_id="mtv_europe" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="mts.rs" site_id="mtv_hits_international" xmltv_id="MTV Hits International">MTV Hits International</channel>
+    <channel update="i" site="mts.rs" site_id="club_mtv" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="mts.rs" site_id="mtv_90s" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="mts.rs" site_id="mtv_00s" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="mts.rs" site_id="mtv_80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="mts.rs" site_id="mtv_live_hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="mts.rs" site_id="toxic_tv_hd" xmltv_id="Toxic TV">Toxic TV</channel>
+    <channel update="i" site="mts.rs" site_id="top_tv_hd" xmltv_id="TOP TV">TOP TV</channel>
+    <channel update="i" site="mts.rs" site_id="360_tune_box" xmltv_id="360 Tune box">360 Tune box</channel>
+    <channel update="i" site="mts.rs" site_id="Trace_Urban" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="mts.rs" site_id="B_1" xmltv_id="B1">B1</channel>
+    <channel update="i" site="mts.rs" site_id="btv" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kcn_1" xmltv_id="TV K::CN 1">TV K::CN 1</channel>
+    <channel update="i" site="mts.rs" site_id="supersat_tv" xmltv_id="SuperSat TV">SuperSat TV</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_101" xmltv_id="RTV 101">RTV 101</channel>
+    <channel update="i" site="mts.rs" site_id="TV Info_24" xmltv_id="TV Info 24">TV Info 24</channel>
+    <channel update="i" site="mts.rs" site_id="TV Palma_plus" xmltv_id="TV Palma plus">TV Palma plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pancevo" xmltv_id="TV Pančevo">TV Pančevo</channel>
+    <channel update="i" site="mts.rs" site_id="humana_tv_plus" xmltv_id="Humana TV Plus">Humana TV Plus</channel>
+    <channel update="i" site="mts.rs" site_id="studio_b_duplicate" xmltv_id="Studio B">Studio B</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_fortuna" xmltv_id="RTV Fortuna">RTV Fortuna</channel>
+    <channel update="i" site="mts.rs" site_id="Ras tv" xmltv_id="TV Ras">TV Ras</channel>
+    <channel update="i" site="mts.rs" site_id="tv_bap" xmltv_id="TV Bap">TV Bap</channel>
+    <channel update="i" site="mts.rs" site_id="tv_subotica" xmltv_id="TV Subotica">TV Subotica</channel>
+    <channel update="i" site="mts.rs" site_id="tv_k23" xmltv_id="TV K23">TV K23</channel>
+    <channel update="i" site="mts.rs" site_id="panon_tv" xmltv_id="Panon TV">Panon TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_backa" xmltv_id="TV Bačka">TV Bačka</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kanal_25" xmltv_id="TV Kanal 25">TV Kanal 25</channel>
+    <channel update="i" site="mts.rs" site_id="tv_sombor" xmltv_id="TV Sombor">TV Sombor</channel>
+    <channel update="i" site="mts.rs" site_id="tv_Kula" xmltv_id="TV Kula">TV Kula</channel>
+    <channel update="i" site="mts.rs" site_id="tv_becej" xmltv_id="TV Bečej">TV Bečej</channel>
+    <channel update="i" site="mts.rs" site_id="tv_novi_becej" xmltv_id="TV Novi Bečej">TV Novi Bečej</channel>
+    <channel update="i" site="mts.rs" site_id="tv_apatin" xmltv_id="TV Apatin">TV Apatin</channel>
+    <channel update="i" site="mts.rs" site_id="novosadska_tv" xmltv_id="Novosadska TV">Novosadska TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_delta" xmltv_id="TV Delta">TV Delta</channel>
+    <channel update="i" site="mts.rs" site_id="tv_most" xmltv_id="TV Most">TV Most</channel>
+    <channel update="i" site="mts.rs" site_id="vtv" xmltv_id="VTV">VTV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_banat" xmltv_id="TV Banat">TV Banat</channel>
+    <channel update="i" site="mts.rs" site_id="tv_santos" xmltv_id="TV Santos">TV Santos</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kikinda" xmltv_id="TV Kikinda">TV Kikinda</channel>
+    <channel update="i" site="mts.rs" site_id="tv_lav" xmltv_id="TV Lav">TV Lav</channel>
+    <channel update="i" site="mts.rs" site_id="tv_cink" xmltv_id="TV CINK">TV CINK</channel>
+    <channel update="i" site="mts.rs" site_id="sremska_tv" xmltv_id="Sremska TV">Sremska TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_petrovec" xmltv_id="TV Petrovec">TV Petrovec</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_stara_pazova" xmltv_id="RTV Stara Pazova">RTV Stara Pazova</channel>
+    <channel update="i" site="mts.rs" site_id="tv_fruska_gora" xmltv_id="TV Fruška Gora">TV Fruška Gora</channel>
+    <channel update="i" site="mts.rs" site_id="gradska_m" xmltv_id="Gradska M ">Gradska M </channel>
+    <channel update="i" site="mts.rs" site_id="tv_mag" xmltv_id="TV MAG">TV MAG</channel>
+    <channel update="i" site="mts.rs" site_id="tv_gem" xmltv_id="TV GEM">TV GEM</channel>
+    <channel update="i" site="mts.rs" site_id="kcn_k" xmltv_id="K::CN K">K::CN K</channel>
+    <channel update="i" site="mts.rs" site_id="tv_iks" xmltv_id="TV IKS">TV IKS</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_sumadija" xmltv_id="RTV Šumadija">RTV Šumadija</channel>
+    <channel update="i" site="mts.rs" site_id="tv_sunce" xmltv_id="TV Sunce">TV Sunce</channel>
+    <channel update="i" site="mts.rs" site_id="tv_hit_plus_batocina" xmltv_id="TV HIT plus Batočina">TV HIT plus Batočina</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_kragujevac" xmltv_id="RTV Kragujevac">RTV Kragujevac</channel>
+    <channel update="i" site="mts.rs" site_id="SAGA" xmltv_id="SAGA">SAGA</channel>
+    <channel update="i" site="mts.rs" site_id="tv_raca" xmltv_id="TV Rača">TV Rača</channel>
+    <channel update="i" site="mts.rs" site_id="rtp" xmltv_id="RTP">RTP</channel>
+    <channel update="i" site="mts.rs" site_id="TV Jefimija" xmltv_id="TV Jefimija">TV Jefimija</channel>
+    <channel update="i" site="mts.rs" site_id="tv_4s" xmltv_id="TV 4S">TV 4S</channel>
+    <channel update="i" site="mts.rs" site_id="tv_krusevac" xmltv_id="TV Kruševac">TV Kruševac</channel>
+    <channel update="i" site="mts.rs" site_id="tv_plus" xmltv_id="TV Plus">TV Plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_diskos" xmltv_id="TV Diskos">TV Diskos</channel>
+    <channel update="i" site="mts.rs" site_id="tv_trstenik" xmltv_id="TV Trstenik">TV Trstenik</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kanal_m" xmltv_id="TV Kanal M">TV Kanal M</channel>
+    <channel update="i" site="mts.rs" site_id="Slobodna televizija" xmltv_id="Slobodna televizija">Slobodna televizija</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kraljevo" xmltv_id="TV Kraljevo">TV Kraljevo</channel>
+    <channel update="i" site="mts.rs" site_id="ka_tv" xmltv_id="KA TV">KA TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kcn_raska" xmltv_id="TV K::CN Raška">TV K::CN Raška</channel>
+    <channel update="i" site="mts.rs" site_id="UNA TV" xmltv_id="UNA TV">UNA TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_sandzak" xmltv_id="TV Sandžak">TV Sandžak</channel>
+    <channel update="i" site="mts.rs" site_id="rtv_novi_pazar" xmltv_id="RTV Novi Pazar">RTV Novi Pazar</channel>
+    <channel update="i" site="mts.rs" site_id="pester_tv" xmltv_id="Pešter TV">Pešter TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_hram" xmltv_id="TV Hram">TV Hram</channel>
+    <channel update="i" site="mts.rs" site_id="kcn_zapad" xmltv_id="K::CN Zapad">K::CN Zapad</channel>
+    <channel update="i" site="mts.rs" site_id="koreni" xmltv_id="Koreni">Koreni</channel>
+    <channel update="i" site="mts.rs" site_id="tv_as" xmltv_id="TV AS">TV AS</channel>
+    <channel update="i" site="mts.rs" site_id="tv_gm_plus" xmltv_id="TV GM Plus">TV GM Plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_lotel_plus" xmltv_id="TV LOTEL PLUS HD">TV LOTEL PLUS HD</channel>
+    <channel update="i" site="mts.rs" site_id="tv_podrinje" xmltv_id="TV Podrinje">TV Podrinje</channel>
+    <channel update="i" site="mts.rs" site_id="Moja TV" xmltv_id="Moja TV">Moja TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_city" xmltv_id="TV City">TV City</channel>
+    <channel update="i" site="mts.rs" site_id="V_5" xmltv_id="V5">V5</channel>
+    <channel update="i" site="mts.rs" site_id="tv_va_plus" xmltv_id="TV VA PLUS">TV VA PLUS</channel>
+    <channel update="i" site="mts.rs" site_id="tv_mars" xmltv_id="TV Marš">TV Marš</channel>
+    <channel update="i" site="mts.rs" site_id="info_24_plus" xmltv_id="INFO 24 Plus">INFO 24 Plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_galaksija_32" xmltv_id="TV Galaksija 32">TV Galaksija 32</channel>
+    <channel update="i" site="mts.rs" site_id="telemark" xmltv_id="Telemark">Telemark</channel>
+    <channel update="i" site="mts.rs" site_id="tv_lav_plus" xmltv_id="TV Lav Plus">TV Lav Plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_5_uzice" xmltv_id="TV 5 Užice">TV 5 Užice</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pozega" xmltv_id="TV Požega">TV Požega</channel>
+    <channel update="i" site="mts.rs" site_id="tv_zlatar" xmltv_id="TV Zlatar">TV Zlatar</channel>
+    <channel update="i" site="mts.rs" site_id="tv_priboj" xmltv_id="TV Priboj">TV Priboj</channel>
+    <channel update="i" site="mts.rs" site_id="tv_prima" xmltv_id="TV Prima">TV Prima</channel>
+    <channel update="i" site="mts.rs" site_id="tv_forum" xmltv_id="TV Forum">TV Forum</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kcn_istok" xmltv_id="TV K::CN Istok">TV K::CN Istok</channel>
+    <channel update="i" site="mts.rs" site_id="tv_jasenica" xmltv_id="TV Jasenica">TV Jasenica</channel>
+    <channel update="i" site="mts.rs" site_id="sat_tv" xmltv_id="SAT TV">SAT TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_kladovo" xmltv_id="TV Kladovo">TV Kladovo</channel>
+    <channel update="i" site="mts.rs" site_id="tv_bor" xmltv_id="TV Bor">TV Bor</channel>
+    <channel update="i" site="mts.rs" site_id="tv_trans" xmltv_id="TV Trans">TV Trans</channel>
+    <channel update="i" site="mts.rs" site_id="t1" xmltv_id="T1">T1</channel>
+    <channel update="i" site="mts.rs" site_id="tv_istok" xmltv_id="TV Istok">TV Istok</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pirot" xmltv_id="TV Pirot">TV Pirot</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pi_kanal" xmltv_id="TV PI kanal">TV PI kanal</channel>
+    <channel update="i" site="mts.rs" site_id="tv_caribrod" xmltv_id="TV Caribrod">TV Caribrod</channel>
+    <channel update="i" site="mts.rs" site_id="ntv" xmltv_id="NTV">NTV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_mostnet" xmltv_id="TV Mostnet">TV Mostnet</channel>
+    <channel update="i" site="mts.rs" site_id="tv_sokobanja" xmltv_id="TV Sokobanja">TV Sokobanja</channel>
+    <channel update="i" site="mts.rs" site_id="tv_leskovac" xmltv_id="TV Leskovac">TV Leskovac</channel>
+    <channel update="i" site="mts.rs" site_id="tv_k-1" xmltv_id="TV K-1">TV K-1</channel>
+    <channel update="i" site="mts.rs" site_id="skay_tv" xmltv_id="SKAY TV">SKAY TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_vranje" xmltv_id="TV Vranje">TV Vranje</channel>
+    <channel update="i" site="mts.rs" site_id="vranjska_plus" xmltv_id="Vranjska plus">Vranjska plus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_ritam" xmltv_id="TV Ritam">TV Ritam</channel>
+    <channel update="i" site="mts.rs" site_id="tv_fokus" xmltv_id="TV Fokus">TV Fokus</channel>
+    <channel update="i" site="mts.rs" site_id="tv_bujanovac" xmltv_id="TV Bujanovac">TV Bujanovac</channel>
+    <channel update="i" site="mts.rs" site_id="Ultra Puls " xmltv_id="Ultra Puls TV">Ultra Puls TV</channel>
+    <channel update="i" site="mts.rs" site_id="Nais_TV " xmltv_id="Nais TV">Nais TV</channel>
+    <channel update="i" site="mts.rs" site_id="tv_strela" xmltv_id="TV Strela">TV Strela</channel>
+    <channel update="i" site="mts.rs" site_id="TV_Vozd " xmltv_id="TV Vožd ">TV Vožd </channel>
+    <channel update="i" site="mts.rs" site_id="hrt_1" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="mts.rs" site_id="hrt_2" xmltv_id="HRT 2">HRT 2</channel>
+    <channel update="i" site="mts.rs" site_id="hrt_3" xmltv_id="HRT 3">HRT 3</channel>
+    <channel update="i" site="mts.rs" site_id="hrt_4" xmltv_id="HRT 4">HRT 4</channel>
+    <channel update="i" site="mts.rs" site_id="hrt_int_tv" xmltv_id="HRT INT">HRT INT</channel>
+    <channel update="i" site="mts.rs" site_id="hayat" xmltv_id="Hayat">Hayat</channel>
+    <channel update="i" site="mts.rs" site_id="hayat_plus" xmltv_id="Hayat Plus">Hayat Plus</channel>
+    <channel update="i" site="mts.rs" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="mts.rs" site_id="rtl_2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel update="i" site="mts.rs" site_id="rtl_kockica" xmltv_id="RTL KOCKICA">RTL KOCKICA</channel>
+    <channel update="i" site="mts.rs" site_id="rtl_croatia_world" xmltv_id="RTL Croatia World">RTL Croatia World</channel>
+    <channel update="i" site="mts.rs" site_id="nasa_tv" xmltv_id="Naša TV">Naša TV</channel>
+    <channel update="i" site="mts.rs" site_id="Pink_BH" xmltv_id="Pink BH">Pink BH</channel>
+    <channel update="i" site="mts.rs" site_id="pink_montenegro" xmltv_id="Pink M">Pink M</channel>
+    <channel update="i" site="mts.rs" site_id="prva_cg" xmltv_id="Prva CG">Prva CG</channel>
+    <channel update="i" site="mts.rs" site_id="adria_tv" xmltv_id="ADRIA TV">ADRIA TV</channel>
+    <channel update="i" site="mts.rs" site_id="face_tv" xmltv_id="Face TV">Face TV</channel>
+    <channel update="i" site="mts.rs" site_id="ftv" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="mts.rs" site_id="atv" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="mts.rs" site_id="k3" xmltv_id="K3">K3</channel>
+    <channel update="i" site="mts.rs" site_id="obn" xmltv_id="OBN">OBN</channel>
+    <channel update="i" site="mts.rs" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="mts.rs" site_id="RTR_Planeta" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="mts.rs" site_id="rossia_24" xmltv_id="Rossia 24">Rossia 24</channel>
+    <channel update="i" site="mts.rs" site_id="rt_news_hd" xmltv_id="RT News HD">RT News HD</channel>
+    <channel update="i" site="mts.rs" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="mts.rs" site_id="france_24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="mts.rs" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="mts.rs" site_id="cctv_4" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="mts.rs" site_id="cgtn" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="mts.rs" site_id="Espreso TV" xmltv_id="Espreso TV">Espreso TV</channel>
+    <channel update="i" site="mts.rs" site_id="Current Time_TV" xmltv_id="Current Time TV">Current Time TV</channel>
+    <channel update="i" site="mts.rs" site_id="duna_tv" xmltv_id="DUNA TV">DUNA TV</channel>
+    <channel update="i" site="mts.rs" site_id="duna_world" xmltv_id="DUNA World">DUNA World</channel>
+    <channel update="i" site="mts.rs" site_id="FEM3" xmltv_id="TV2 Klub">TV2 Klub</channel>
+    <channel update="i" site="mts.rs" site_id="TV2SEF" xmltv_id="TV2SEF">TV2SEF</channel>
+    <channel update="i" site="mts.rs" site_id="cool" xmltv_id="COOL">COOL</channel>
+    <channel update="i" site="mts.rs" site_id="film_+" xmltv_id="Film + HD">Film + HD</channel>
+    <channel update="i" site="mts.rs" site_id="Muzsika_TV" xmltv_id="Muzsika TV">Muzsika TV</channel>
+    <channel update="i" site="mts.rs" site_id="film_4" xmltv_id="Film 4">Film 4</channel>
+    <channel update="i" site="mts.rs" site_id="m1" xmltv_id="M1">M1</channel>
+    <channel update="i" site="mts.rs" site_id="m5_tv" xmltv_id="M5">M5</channel>
+    <channel update="i" site="mts.rs" site_id="rtl_gold" xmltv_id="RTL Gold">RTL Gold</channel>
+    <channel update="i" site="mts.rs" site_id="sorozat+" xmltv_id="Sorozat+">Sorozat+</channel>
+    <channel update="i" site="mts.rs" site_id="story_4" xmltv_id="Story 4">Story 4</channel>
+    <channel update="i" site="mts.rs" site_id="tv2" xmltv_id="TV2">TV2</channel>
+    <channel update="i" site="mts.rs" site_id="super_tv2" xmltv_id="Super TV2">Super TV2</channel>
+    <channel update="i" site="mts.rs" site_id="tv_pink_hd" xmltv_id="TV Pink HD">TV Pink HD</channel>
+    <channel update="i" site="mts.rs" site_id="dorcel" xmltv_id="Dorcel">Dorcel</channel>
+    <channel update="i" site="mts.rs" site_id="private_tv" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="mts.rs" site_id="brazzers_tv" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="mts.rs" site_id="hustler" xmltv_id="Hustler">Hustler</channel>
+    <channel update="i" site="mts.rs" site_id="erotic" xmltv_id="Erotic">Erotic</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_2" xmltv_id="Erotic 2">Erotic 2</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_3" xmltv_id="Erotic 3">Erotic 3</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_4" xmltv_id="Erotic 4">Erotic 4</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_5" xmltv_id="Erotic 5">Erotic 5</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_6" xmltv_id="Erotic 6">Erotic 6</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_7" xmltv_id="Erotic 7">Erotic 7</channel>
+    <channel update="i" site="mts.rs" site_id="erotic_8" xmltv_id="Erotic 8">Erotic 8</channel>
+    <channel update="i" site="mts.rs" site_id="babes" xmltv_id="Babes">Babes</channel>
+    <channel update="i" site="mts.rs" site_id="reality_kings" xmltv_id="Reality Kings">Reality Kings</channel>
+    <channel update="i" site="mts.rs" site_id="bang_u" xmltv_id="Bang U">Bang U</channel>
+    <channel update="i" site="mts.rs" site_id="adult_1" xmltv_id="Adult 1">Adult 1</channel>
+    <channel update="i" site="mts.rs" site_id="adult_2" xmltv_id="Adult 2">Adult 2</channel>
+    <channel update="i" site="mts.rs" site_id="adult_3" xmltv_id="Adult 3">Adult 3</channel>
+    <channel update="i" site="mts.rs" site_id="adult_4" xmltv_id="Adult 4">Adult 4</channel>
+    <channel update="i" site="mts.rs" site_id="adult_5" xmltv_id="Adult 5">Adult 5</channel>
+    <channel update="i" site="mts.rs" site_id="adult_6" xmltv_id="Adult 6">Adult 6</channel>
+    <channel update="i" site="mts.rs" site_id="adult_7" xmltv_id="Adult 7">Adult 7</channel>
+    <channel update="i" site="mts.rs" site_id="erox" xmltv_id="Erox">Erox</channel>
+    <channel update="i" site="mts.rs" site_id="Hit FM_radio" xmltv_id="Hit FM radio">Hit FM radio</channel>
+    <channel update="i" site="mts.rs" site_id="radio_lola" xmltv_id="Radio Lola">Radio Lola</channel>
+    <channel update="i" site="mts.rs" site_id="2000s" xmltv_id="2000s">2000s</channel>
+    <channel update="i" site="mts.rs" site_id="60s" xmltv_id="60s">60s</channel>
+    <channel update="i" site="mts.rs" site_id="70s" xmltv_id="70s">70s</channel>
+    <channel update="i" site="mts.rs" site_id="80s" xmltv_id="80s">80s</channel>
+    <channel update="i" site="mts.rs" site_id="90s" xmltv_id="90s">90s</channel>
+    <channel update="i" site="mts.rs" site_id="all_day_party" xmltv_id="All Day Party">All Day Party</channel>
+    <channel update="i" site="mts.rs" site_id="bass,_breaks_&amp;_beats" xmltv_id="Bass, Breaks &amp; Beats">Bass, Breaks &amp; Beats</channel>
+    <channel update="i" site="mts.rs" site_id="blues" xmltv_id="Blues">Blues</channel>
+    <channel update="i" site="mts.rs" site_id="chillout" xmltv_id="Chillout">Chillout</channel>
+    <channel update="i" site="mts.rs" site_id="classic_r'n'b_&amp;_soul" xmltv_id="Classic R n B &amp; Soul">Classic R n B &amp; Soul</channel>
+    <channel update="i" site="mts.rs" site_id="classic_rock" xmltv_id="Classic Rock">Classic Rock</channel>
+    <channel update="i" site="mts.rs" site_id="classical_calm" xmltv_id="Classical Calm">Classical Calm</channel>
+    <channel update="i" site="mts.rs" site_id="classical_greats" xmltv_id="Classical Greats">Classical Greats</channel>
+    <channel update="i" site="mts.rs" site_id="la_vitta_e_bella" xmltv_id="La Vitta e Bella">La Vitta e Bella</channel>
+    <channel update="i" site="mts.rs" site_id="cocktail_lounge" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
+    <channel update="i" site="mts.rs" site_id="cool_jazz" xmltv_id="Cool Jazz">Cool Jazz</channel>
+    <channel update="i" site="mts.rs" site_id="instrumental_melodies" xmltv_id="Instrumental Melodies">Instrumental Melodies</channel>
+    <channel update="i" site="mts.rs" site_id="dancefloor_fillers" xmltv_id="Dancefloor Fillers">Dancefloor Fillers</channel>
+    <channel update="i" site="mts.rs" site_id="drive" xmltv_id="Drive">Drive</channel>
+    <channel update="i" site="mts.rs" site_id="freedom" xmltv_id="Freedom">Freedom</channel>
+    <channel update="i" site="mts.rs" site_id="groove_(_disco_&amp;_funk)" xmltv_id="Groove ( Disco &amp; Funk)">Groove ( Disco &amp; Funk)</channel>
+    <channel update="i" site="mts.rs" site_id="headbangers" xmltv_id="Headbangers">Headbangers</channel>
+    <channel update="i" site="mts.rs" site_id="hip_hop" xmltv_id="Hip Hop">Hip Hop</channel>
+    <channel update="i" site="mts.rs" site_id="house_music" xmltv_id="House Music">House Music</channel>
+    <channel update="i" site="mts.rs" site_id="jazz_classics" xmltv_id="Jazz Classics">Jazz Classics</channel>
+    <channel update="i" site="mts.rs" site_id="latin" xmltv_id="Latin">Latin</channel>
+    <channel update="i" site="mts.rs" site_id="the_spa" xmltv_id="The Spa">The Spa</channel>
+    <channel update="i" site="mts.rs" site_id="jammin" xmltv_id="Jammin">Jammin</channel>
+    <channel update="i" site="mts.rs" site_id="revival_60s_&amp;_70s" xmltv_id="Revival 60s &amp; 70s">Revival 60s &amp; 70s</channel>
+    <channel update="i" site="mts.rs" site_id="rewind_80s_&amp;_90s" xmltv_id="Rewind 80s &amp; 90s">Rewind 80s &amp; 90s</channel>
+    <channel update="i" site="mts.rs" site_id="rock_anthems" xmltv_id="Rock Anthems">Rock Anthems</channel>
+    <channel update="i" site="mts.rs" site_id="rock'n'roll" xmltv_id="Rock n Roll">Rock n Roll</channel>
+    <channel update="i" site="mts.rs" site_id="silk_(love_songs)" xmltv_id="Silk (Love Songs)">Silk (Love Songs)</channel>
+    <channel update="i" site="mts.rs" site_id="rock_alternative_-us" xmltv_id="Rock Alternative -US">Rock Alternative -US</channel>
+    <channel update="i" site="mts.rs" site_id="total_hits_balkan" xmltv_id="Total Hits Balkan">Total Hits Balkan</channel>
+    <channel update="i" site="mts.rs" site_id="balkan_retro_hits" xmltv_id="Balkan Retro Hits">Balkan Retro Hits</channel>
+    <channel update="i" site="mts.rs" site_id="gypsy_party" xmltv_id="Gypsy Party">Gypsy Party</channel>
+    <channel update="i" site="mts.rs" site_id="total_hits_italy" xmltv_id="Total Hits Italy">Total Hits Italy</channel>
+    <channel update="i" site="mts.rs" site_id="omg" xmltv_id="OMG">OMG</channel>
+    <channel update="i" site="mts.rs" site_id="hit_list_(usa)" xmltv_id="Hit List (USA)">Hit List (USA)</channel>
+    <channel update="i" site="mts.rs" site_id="total_hits_uk" xmltv_id="Total Hits UK">Total Hits UK</channel>
+    <channel update="i" site="mts.rs" site_id="trance" xmltv_id="Trance">Trance</channel>
+    <channel update="i" site="mts.rs" site_id="chansons" xmltv_id="Chansons">Chansons</channel>
+    <channel update="i" site="mts.rs" site_id="urban" xmltv_id="Urban">Urban</channel>
+    <channel update="i" site="mts.rs" site_id="carnival" xmltv_id="Carnival">Carnival</channel>
+    <channel update="i" site="mts.rs" site_id="zvuci_skadarlije" xmltv_id="Zvuci Skadarlije">Zvuci Skadarlije</channel>
+    <channel update="i" site="mts.rs" site_id="nezne_note" xmltv_id="Nežne note">Nežne note</channel>
+    <channel update="i" site="mts.rs" site_id="decja_muzika" xmltv_id="Dečja muzika">Dečja muzika</channel>
+    <channel update="i" site="mts.rs" site_id="srpski_rok" xmltv_id="Srpski rok">Srpski rok</channel>
+    <channel update="i" site="mts.rs" site_id="radio_beograd_1" xmltv_id="Radio Beograd 1">Radio Beograd 1</channel>
+    <channel update="i" site="mts.rs" site_id="radio_beograd_2_3" xmltv_id="Radio Beograd 2/3">Radio Beograd 2/3</channel>
+    <channel update="i" site="mts.rs" site_id="radio_beograd_202" xmltv_id="Radio Beograd 202">Radio Beograd 202</channel>
+    <channel update="i" site="mts.rs" site_id="play" xmltv_id="Play">Play</channel>
+    <channel update="i" site="mts.rs" site_id="radio_studio_b" xmltv_id="Radio Studio B">Radio Studio B</channel>
+    <channel update="i" site="mts.rs" site_id="radio_s" xmltv_id="Radio S1">Radio S1</channel>
+    <channel update="i" site="mts.rs" site_id="pink_radio" xmltv_id="Pink radio">Pink radio</channel>
+    <channel update="i" site="mts.rs" site_id="naxi_radio" xmltv_id="Naxi radio">Naxi radio</channel>
+    <channel update="i" site="mts.rs" site_id="red_radio" xmltv_id="Red Radio">Red Radio</channel>
+    <channel update="i" site="mts.rs" site_id="radio_karolina" xmltv_id="Radio Karolina">Radio Karolina</channel>
+    <channel update="i" site="mts.rs" site_id="tdi_radio" xmltv_id="TDI radio">TDI radio</channel>
+    <channel update="i" site="mts.rs" site_id="Radio Hit FM" xmltv_id="Hit FM radio">Hit FM radio</channel>
+    <channel update="i" site="mts.rs" site_id="timocki_radio" xmltv_id="Hype FM">Hype FM</channel>
+    <channel update="i" site="mts.rs" site_id="radio_skay" xmltv_id="Radio Skay">Radio Skay</channel>
+    <channel update="i" site="mts.rs" site_id="radio_as_fm" xmltv_id="Radio AS FM">Radio AS FM</channel>
+    <channel update="i" site="mts.rs" site_id="slovo_ljubve" xmltv_id="Slovo Ljubve">Slovo Ljubve</channel>
+    <channel update="i" site="mts.rs" site_id="radio_beseda" xmltv_id="Radio Beseda">Radio Beseda</channel>
+    <channel update="i" site="mts.rs" site_id="Lova Lova" xmltv_id="Lova Lova">Lova Lova</channel>
+    <channel update="i" site="mts.rs" site_id="Radio_Rokenroler " xmltv_id="Radio Rokenroler ">Radio Rokenroler </channel>
+    <channel update="i" site="mts.rs" site_id="Radio_Vrteška " xmltv_id="Radio Vrteška ">Radio Vrteška </channel>
+    <channel update="i" site="mts.rs" site_id="pozicija-rastuce" xmltv_id="Pozicija - Rastuće">Pozicija - Rastuće</channel>
   </channels>
 </site>
