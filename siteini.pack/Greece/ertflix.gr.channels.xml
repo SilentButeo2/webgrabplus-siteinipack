@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.4 -- Jan van Straaten" site="ertflix.gr">
   <channels>
-    <channel update="i" site="ertflix.gr" site_id="voice-live-1253" xmltv_id="">
-    </channel>
+    <channel update="i" site="ertflix.gr" site_id="ert-news##ert-news-logo-800x300.png" xmltv_id="EPT NEWS">EPT NEWS</channel>
+    <channel update="i" site="ertflix.gr" site_id="ert-sports-live-ww##ertsports1-logo-800x300.png" xmltv_id="ERT SPORTS 1 LIVE">ERT SPORTS 1 LIVE</channel>
+    <channel update="i" site="ertflix.gr" site_id="ept-world-live##ertworld-logo-800x300-f.png" xmltv_id="EPT WORLD LIVE">EPT WORLD LIVE</channel>
+    <channel update="i" site="ertflix.gr" site_id="voice-live##" xmltv_id="Voice of Greece">Voice of Greece</channel>
   </channels>
 </site>
