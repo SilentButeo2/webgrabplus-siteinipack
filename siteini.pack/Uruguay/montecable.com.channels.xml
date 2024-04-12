@@ -1,183 +1,173 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="montecable.com.EK">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.4 -- Jan van Straaten" site="montecable.com">
   <channels>
-    <channel update="i" site="montecable.com" site_id="100" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="montecable.com" site_id="130" xmltv_id="CINECANAL">CINECANAL</channel>
-    <channel update="i" site="montecable.com" site_id="131" xmltv_id="CINEMAX">CINEMAX</channel>
-    <channel update="i" site="montecable.com" site_id="132" xmltv_id="TNT">TNT</channel>
-    <channel update="i" site="montecable.com" site_id="133" xmltv_id="SPACE">SPACE</channel>
-    <channel update="i" site="montecable.com" site_id="135" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
-    <channel update="i" site="montecable.com" site_id="136" xmltv_id="I-SAT">I-SAT</channel>
-    <channel update="i" site="montecable.com" site_id="137" xmltv_id="TCM ">TCM </channel>
-    <channel update="i" site="montecable.com" site_id="138" xmltv_id="EUROPA EUROPA">EUROPA EUROPA</channel>
-    <channel update="i" site="montecable.com" site_id="150" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
-    <channel update="i" site="montecable.com" site_id="151" xmltv_id="WARNER">WARNER</channel>
-    <channel update="i" site="montecable.com" site_id="152" xmltv_id="SONY">SONY</channel>
-    <channel update="i" site="montecable.com" site_id="153" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="montecable.com" site_id="154" xmltv_id="UNIVERSAL CHANNEL">UNIVERSAL CHANNEL</channel>
-    <channel update="i" site="montecable.com" site_id="155" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="montecable.com" site_id="157" xmltv_id="FX">FX</channel>
-    <channel update="i" site="montecable.com" site_id="159" xmltv_id="A&amp;E MUNDO">A&amp;E MUNDO</channel>
-    <channel update="i" site="montecable.com" site_id="160" xmltv_id="FILM&amp;ARTS">FILM&amp;ARTS</channel>
-    <channel update="i" site="montecable.com" site_id="161" xmltv_id="DISCOVERY ID">DISCOVERY ID</channel>
-    <channel update="i" site="montecable.com" site_id="200" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="montecable.com" site_id="201" xmltv_id="HBO 2">HBO 2</channel>
-    <channel update="i" site="montecable.com" site_id="202" xmltv_id="HBO PLUS HD">HBO PLUS HD</channel>
-    <channel update="i" site="montecable.com" site_id="204" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
-    <channel update="i" site="montecable.com" site_id="205" xmltv_id="HBO SIGNATURE HD">HBO SIGNATURE HD</channel>
-    <channel update="i" site="montecable.com" site_id="211" xmltv_id="HBO MUNDI HD">HBO MUNDI HD</channel>
-    <channel update="i" site="montecable.com" site_id="212" xmltv_id="HBO XTREME HD">HBO XTREME HD</channel>
-    <channel update="i" site="montecable.com" site_id="214" xmltv_id="HBO POP HD">HBO POP HD</channel>
-    <channel update="i" site="montecable.com" site_id="223" xmltv_id="UNIVERSAL PREMIERE">UNIVERSAL PREMIERE</channel>
-    <channel update="i" site="montecable.com" site_id="224" xmltv_id="UNIVERSAL CINEMA">UNIVERSAL CINEMA</channel>
-    <channel update="i" site="montecable.com" site_id="225" xmltv_id="UNIVERSAL COMEDY">UNIVERSAL COMEDY</channel>
-    <channel update="i" site="montecable.com" site_id="226" xmltv_id="UNIVERSAL CRIME">UNIVERSAL CRIME</channel>
-    <channel update="i" site="montecable.com" site_id="227" xmltv_id="UNIVERSAL REALITY">UNIVERSAL REALITY</channel>
-    <channel update="i" site="montecable.com" site_id="230" xmltv_id="CINECANAL HD">CINECANAL HD</channel>
-    <channel update="i" site="montecable.com" site_id="231" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
-    <channel update="i" site="montecable.com" site_id="232" xmltv_id="TNT HD">TNT HD</channel>
-    <channel update="i" site="montecable.com" site_id="233" xmltv_id="SPACE HD">SPACE HD</channel>
-    <channel update="i" site="montecable.com" site_id="235" xmltv_id="STUDIO UNIVERSAL HD">STUDIO UNIVERSAL HD</channel>
-    <channel update="i" site="montecable.com" site_id="238" xmltv_id="EUROPA EUROPA HD">EUROPA EUROPA HD</channel>
-    <channel update="i" site="montecable.com" site_id="242" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
-    <channel update="i" site="montecable.com" site_id="244" xmltv_id="A3CINE">A3CINE</channel>
-    <channel update="i" site="montecable.com" site_id="246" xmltv_id="GOLDEN PLUS">GOLDEN PLUS</channel>
-    <channel update="i" site="montecable.com" site_id="247" xmltv_id="GOLDEN PREMIER">GOLDEN PREMIER</channel>
-    <channel update="i" site="montecable.com" site_id="248" xmltv_id="DHE">DHE</channel>
-    <channel update="i" site="montecable.com" site_id="249" xmltv_id="SONY MOVIES">SONY MOVIES</channel>
-    <channel update="i" site="montecable.com" site_id="250" xmltv_id="STAR CHANNEL HD">STAR CHANNEL HD</channel>
-    <channel update="i" site="montecable.com" site_id="251" xmltv_id="WARNER HD">WARNER HD</channel>
-    <channel update="i" site="montecable.com" site_id="252" xmltv_id="SONY HD">SONY HD</channel>
-    <channel update="i" site="montecable.com" site_id="253" xmltv_id="AXN HD">AXN HD</channel>
-    <channel update="i" site="montecable.com" site_id="254" xmltv_id="UNIVERSAL CHANNEL HD">UNIVERSAL CHANNEL HD</channel>
-    <channel update="i" site="montecable.com" site_id="255" xmltv_id="AMC HD">AMC HD</channel>
-    <channel update="i" site="montecable.com" site_id="256" xmltv_id="TNT SERIES HD">TNT SERIES HD</channel>
-    <channel update="i" site="montecable.com" site_id="257" xmltv_id="FX HD">FX HD</channel>
-    <channel update="i" site="montecable.com" site_id="258" xmltv_id="SYFY">SYFY</channel>
-    <channel update="i" site="montecable.com" site_id="259" xmltv_id="A&amp;E MUNDO HD">A&amp;E MUNDO HD</channel>
-    <channel update="i" site="montecable.com" site_id="260" xmltv_id="FILM&amp;ARTS HD">FILM&amp;ARTS HD</channel>
-    <channel update="i" site="montecable.com" site_id="261" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
-    <channel update="i" site="montecable.com" site_id="263" xmltv_id="ANTENA3">ANTENA3</channel>
-    <channel update="i" site="montecable.com" site_id="264" xmltv_id="ATRESERIES HD">ATRESERIES HD</channel>
-    <channel update="i" site="montecable.com" site_id="266" xmltv_id="STAR TVE">STAR TVE</channel>
-    <channel update="i" site="montecable.com" site_id="300" xmltv_id="ENTERTAINMENT TELEVISION">ENTERTAINMENT TELEVISION</channel>
-    <channel update="i" site="montecable.com" site_id="301" xmltv_id="DISCOVERY HOME AND HEALTH">DISCOVERY HOME AND HEALTH</channel>
-    <channel update="i" site="montecable.com" site_id="302" xmltv_id="EL GOURMET">EL GOURMET</channel>
-    <channel update="i" site="montecable.com" site_id="303" xmltv_id="MAS CHIC">MAS CHIC</channel>
-    <channel update="i" site="montecable.com" site_id="304" xmltv_id="LIFETIME">LIFETIME</channel>
-    <channel update="i" site="montecable.com" site_id="305" xmltv_id="HOLA TV">HOLA TV</channel>
-    <channel update="i" site="montecable.com" site_id="307" xmltv_id="TRU TV">TRU TV</channel>
-    <channel update="i" site="montecable.com" site_id="308" xmltv_id="PASIONES">PASIONES</channel>
-    <channel update="i" site="montecable.com" site_id="309" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
-    <channel update="i" site="montecable.com" site_id="310" xmltv_id="GLITZ">GLITZ</channel>
-    <channel update="i" site="montecable.com" site_id="313" xmltv_id="IVC">IVC</channel>
-    <channel update="i" site="montecable.com" site_id="321" xmltv_id="DISCOVERY">DISCOVERY</channel>
-    <channel update="i" site="montecable.com" site_id="325" xmltv_id="DISCOVERY TLC">DISCOVERY TLC</channel>
-    <channel update="i" site="montecable.com" site_id="326" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
-    <channel update="i" site="montecable.com" site_id="328" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
-    <channel update="i" site="montecable.com" site_id="329" xmltv_id="HISTORY">HISTORY</channel>
-    <channel update="i" site="montecable.com" site_id="350" xmltv_id="HGTV">HGTV</channel>
-    <channel update="i" site="montecable.com" site_id="351" xmltv_id="DISCOVERY HOME AND HEALTH HD">DISCOVERY HOME AND HEALTH HD</channel>
-    <channel update="i" site="montecable.com" site_id="352" xmltv_id="EL GOURMET HD">EL GOURMET HD</channel>
-    <channel update="i" site="montecable.com" site_id="353" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
-    <channel update="i" site="montecable.com" site_id="358" xmltv_id="TRU TV HD">TRU TV HD</channel>
-    <channel update="i" site="montecable.com" site_id="361" xmltv_id="LAS ESTRELLAS">LAS ESTRELLAS</channel>
-    <channel update="i" site="montecable.com" site_id="370" xmltv_id="DISCOVERY TLC HD">DISCOVERY TLC HD</channel>
-    <channel update="i" site="montecable.com" site_id="371" xmltv_id="DISCOVERY HD">DISCOVERY HD</channel>
-    <channel update="i" site="montecable.com" site_id="372" xmltv_id="DISCOVERY HD THEATER">DISCOVERY HD THEATER</channel>
-    <channel update="i" site="montecable.com" site_id="373" xmltv_id="DISCOVERY WORLD HD">DISCOVERY WORLD HD</channel>
-    <channel update="i" site="montecable.com" site_id="374" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
-    <channel update="i" site="montecable.com" site_id="376" xmltv_id="DISCOVERY TURBO HD">DISCOVERY TURBO HD</channel>
-    <channel update="i" site="montecable.com" site_id="377" xmltv_id="NAT GEO HD">NAT GEO HD</channel>
-    <channel update="i" site="montecable.com" site_id="379" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
-    <channel update="i" site="montecable.com" site_id="380" xmltv_id="HISTORY HD">HISTORY HD</channel>
-    <channel update="i" site="montecable.com" site_id="381" xmltv_id="H2 HD">H2 HD</channel>
-    <channel update="i" site="montecable.com" site_id="400" xmltv_id="CANAL 4">CANAL 4</channel>
-    <channel update="i" site="montecable.com" site_id="401" xmltv_id="SAETA">SAETA</channel>
-    <channel update="i" site="montecable.com" site_id="402" xmltv_id="LATELE">LATELE</channel>
-    <channel update="i" site="montecable.com" site_id="403" xmltv_id="CANAL 5">CANAL 5</channel>
-    <channel update="i" site="montecable.com" site_id="404" xmltv_id="VTV">VTV</channel>
-    <channel update="i" site="montecable.com" site_id="406" xmltv_id="TV CIUDAD">TV CIUDAD</channel>
-    <channel update="i" site="montecable.com" site_id="408" xmltv_id="A+V">A+V</channel>
-    <channel update="i" site="montecable.com" site_id="411" xmltv_id="CHARRUA TV">CHARRUA TV</channel>
-    <channel update="i" site="montecable.com" site_id="420" xmltv_id="CANAL 4 HD">CANAL 4 HD</channel>
-    <channel update="i" site="montecable.com" site_id="421" xmltv_id="SAETA HD">SAETA HD</channel>
-    <channel update="i" site="montecable.com" site_id="422" xmltv_id="LATELE HD">LATELE HD</channel>
-    <channel update="i" site="montecable.com" site_id="423" xmltv_id="CANAL 5 HD">CANAL 5 HD</channel>
-    <channel update="i" site="montecable.com" site_id="424" xmltv_id="VTV HD">VTV HD</channel>
-    <channel update="i" site="montecable.com" site_id="425" xmltv_id="VTV + HD">VTV + HD</channel>
-    <channel update="i" site="montecable.com" site_id="426" xmltv_id="TV CIUDAD HD">TV CIUDAD HD</channel>
-    <channel update="i" site="montecable.com" site_id="450" xmltv_id="CANAL 21">CANAL 21</channel>
-    <channel update="i" site="montecable.com" site_id="451" xmltv_id="EVENTOS MONTECABLE 1">EVENTOS MONTECABLE 1</channel>
-    <channel update="i" site="montecable.com" site_id="452" xmltv_id="EVENTOS MONTECABLE 2 - VTV +">EVENTOS MONTECABLE 2 - VTV +</channel>
-    <channel update="i" site="montecable.com" site_id="454" xmltv_id="EVENTOS MONTECABLE HD">EVENTOS MONTECABLE HD</channel>
-    <channel update="i" site="montecable.com" site_id="455" xmltv_id="EVENTOS MONTECABLE HD 2">EVENTOS MONTECABLE HD 2</channel>
-    <channel update="i" site="montecable.com" site_id="456" xmltv_id="EVENTOS MONTECABLE HD 3">EVENTOS MONTECABLE HD 3</channel>
-    <channel update="i" site="montecable.com" site_id="500" xmltv_id="ESPN">ESPN</channel>
-    <channel update="i" site="montecable.com" site_id="501" xmltv_id="ESPN 2">ESPN 2</channel>
-    <channel update="i" site="montecable.com" site_id="502" xmltv_id="ESPN 3">ESPN 3</channel>
-    <channel update="i" site="montecable.com" site_id="510" xmltv_id="ESPN 4">ESPN 4</channel>
-    <channel update="i" site="montecable.com" site_id="511" xmltv_id="FOX SPORTS 2">FOX SPORTS 2</channel>
-    <channel update="i" site="montecable.com" site_id="512" xmltv_id="FOX SPORTS 3">FOX SPORTS 3</channel>
-    <channel update="i" site="montecable.com" site_id="520" xmltv_id="TYC SPORTS">TYC SPORTS</channel>
-    <channel update="i" site="montecable.com" site_id="522" xmltv_id="GOL TV">GOL TV</channel>
-    <channel update="i" site="montecable.com" site_id="524" xmltv_id="SPORTV">SPORTV</channel>
-    <channel update="i" site="montecable.com" site_id="550" xmltv_id="ESPN HD">ESPN HD</channel>
-    <channel update="i" site="montecable.com" site_id="551" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
-    <channel update="i" site="montecable.com" site_id="552" xmltv_id="ESPN 3 HD">ESPN 3 HD</channel>
-    <channel update="i" site="montecable.com" site_id="553" xmltv_id="ESPN EXTRA">ESPN EXTRA</channel>
-    <channel update="i" site="montecable.com" site_id="560" xmltv_id="ESPN 4 HD">ESPN 4 HD</channel>
-    <channel update="i" site="montecable.com" site_id="561" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
-    <channel update="i" site="montecable.com" site_id="562" xmltv_id="FOX SPORTS 3 HD">FOX SPORTS 3 HD</channel>
-    <channel update="i" site="montecable.com" site_id="570" xmltv_id="TYC SPORTS HD">TYC SPORTS HD</channel>
-    <channel update="i" site="montecable.com" site_id="572" xmltv_id="GOL TV HD (MONTECABLE) ">GOL TV HD (MONTECABLE) </channel>
-    <channel update="i" site="montecable.com" site_id="585" xmltv_id="CLAROSPORTS">CLAROSPORTS</channel>
-    <channel update="i" site="montecable.com" site_id="600" xmltv_id="TN">TN</channel>
-    <channel update="i" site="montecable.com" site_id="601" xmltv_id="CRONICA TV">CRONICA TV</channel>
-    <channel update="i" site="montecable.com" site_id="602" xmltv_id="CNN EN ESPAÑOL">CNN EN ESPAÑOL</channel>
-    <channel update="i" site="montecable.com" site_id="605" xmltv_id="BBC WORLD">BBC WORLD</channel>
-    <channel update="i" site="montecable.com" site_id="606" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
-    <channel update="i" site="montecable.com" site_id="607" xmltv_id="CANAL 24 HS">CANAL 24 HS</channel>
-    <channel update="i" site="montecable.com" site_id="608" xmltv_id="26 TV">26 TV</channel>
-    <channel update="i" site="montecable.com" site_id="609" xmltv_id="C5N">C5N</channel>
-    <channel update="i" site="montecable.com" site_id="611" xmltv_id="CANAL RURAL">CANAL RURAL</channel>
-    <channel update="i" site="montecable.com" site_id="613" xmltv_id="FRANCE 24 FRANCÉS">FRANCE 24 FRANCÉS</channel>
-    <channel update="i" site="montecable.com" site_id="614" xmltv_id="FRANCE 24">FRANCE 24</channel>
-    <channel update="i" site="montecable.com" site_id="616" xmltv_id="A24">A24</channel>
-    <channel update="i" site="montecable.com" site_id="617" xmltv_id="LA NACION +">LA NACION +</channel>
-    <channel update="i" site="montecable.com" site_id="620" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="montecable.com" site_id="621" xmltv_id="GALICIA TV">GALICIA TV</channel>
-    <channel update="i" site="montecable.com" site_id="622" xmltv_id="CANAL VASCO">CANAL VASCO</channel>
-    <channel update="i" site="montecable.com" site_id="623" xmltv_id="TV 5">TV 5</channel>
-    <channel update="i" site="montecable.com" site_id="624" xmltv_id="RAI">RAI</channel>
-    <channel update="i" site="montecable.com" site_id="625" xmltv_id="DEUTSCHE WELLE">DEUTSCHE WELLE</channel>
-    <channel update="i" site="montecable.com" site_id="627" xmltv_id="AMERICA 2">AMERICA 2</channel>
-    <channel update="i" site="montecable.com" site_id="628" xmltv_id="TVN CHILE">TVN CHILE</channel>
-    <channel update="i" site="montecable.com" site_id="632" xmltv_id="REDE TV">REDE TV</channel>
-    <channel update="i" site="montecable.com" site_id="633" xmltv_id="REDE RECORD">REDE RECORD</channel>
-    <channel update="i" site="montecable.com" site_id="650" xmltv_id="TN HD">TN HD</channel>
-    <channel update="i" site="montecable.com" site_id="670" xmltv_id="HOLA TV HD">HOLA TV HD</channel>
-    <channel update="i" site="montecable.com" site_id="680" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="montecable.com" site_id="699" xmltv_id="TELEFE INTERNACIONAL">TELEFE INTERNACIONAL</channel>
-    <channel update="i" site="montecable.com" site_id="700" xmltv_id="DISNEY">DISNEY</channel>
-    <channel update="i" site="montecable.com" site_id="702" xmltv_id="DISNEY JR">DISNEY JR</channel>
-    <channel update="i" site="montecable.com" site_id="703" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
-    <channel update="i" site="montecable.com" site_id="704" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
-    <channel update="i" site="montecable.com" site_id="705" xmltv_id="TOONCAST">TOONCAST</channel>
-    <channel update="i" site="montecable.com" site_id="706" xmltv_id="CARTOONITO">CARTOONITO</channel>
-    <channel update="i" site="montecable.com" site_id="707" xmltv_id="NICK JR">NICK JR</channel>
-    <channel update="i" site="montecable.com" site_id="708" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel update="i" site="montecable.com" site_id="709" xmltv_id="BABY TV">BABY TV</channel>
-    <channel update="i" site="montecable.com" site_id="720" xmltv_id="DISNEY HD">DISNEY HD</channel>
-    <channel update="i" site="montecable.com" site_id="723" xmltv_id="DISCOVERY KIDS HD">DISCOVERY KIDS HD</channel>
-    <channel update="i" site="montecable.com" site_id="724" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
-    <channel update="i" site="montecable.com" site_id="731" xmltv_id="CLAN">CLAN</channel>
-    <channel update="i" site="montecable.com" site_id="740" xmltv_id="EWTN">EWTN</channel>
-    <channel update="i" site="montecable.com" site_id="750" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="montecable.com" site_id="751" xmltv_id="MTV HITS">MTV HITS</channel>
-    <channel update="i" site="montecable.com" site_id="752" xmltv_id="MTV DANCE">MTV DANCE</channel>
-    <channel update="i" site="montecable.com" site_id="754" xmltv_id="VH1 CLASSIC">VH1 CLASSIC</channel>
-    <channel update="i" site="montecable.com" site_id="755" xmltv_id="MUCHMUSIC">MUCHMUSIC</channel>
-    <channel update="i" site="montecable.com" site_id="770" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-6" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="montecable.com" site_id="cinecanal-4" xmltv_id="CINECANAL">CINECANAL</channel>
+    <channel update="i" site="montecable.com" site_id="cinemax-104" xmltv_id="CINEMAX">CINEMAX</channel>
+    <channel update="i" site="montecable.com" site_id="tnt-39" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="montecable.com" site_id="space-12" xmltv_id="SPACE">SPACE</channel>
+    <channel update="i" site="montecable.com" site_id="studio-universal-70" xmltv_id="STUDIO UNIVERSAL">STUDIO UNIVERSAL</channel>
+    <channel update="i" site="montecable.com" site_id="tcm-42" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="montecable.com" site_id="europa-europa-37" xmltv_id="EUROPA EUROPA">EUROPA EUROPA</channel>
+    <channel update="i" site="montecable.com" site_id="star-channel-50" xmltv_id="STAR CHANNEL">STAR CHANNEL</channel>
+    <channel update="i" site="montecable.com" site_id="warner-16" xmltv_id="WARNER">WARNER</channel>
+    <channel update="i" site="montecable.com" site_id="sony-11" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="montecable.com" site_id="universal-channel-52" xmltv_id="UNIVERSAL CHANNEL">UNIVERSAL CHANNEL</channel>
+    <channel update="i" site="montecable.com" site_id="amc-27" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="montecable.com" site_id="fx-49" xmltv_id="FX">FX</channel>
+    <channel update="i" site="montecable.com" site_id="ae-mundo-34" xmltv_id="A&amp;E MUNDO">A&amp;E MUNDO</channel>
+    <channel update="i" site="montecable.com" site_id="filmarts-22" xmltv_id="FILM&amp;ARTS">FILM&amp;ARTS</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-id-30" xmltv_id="DISCOVERY ID">DISCOVERY ID</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-hd-64" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-2-101" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-plus-hd-108" xmltv_id="HBO PLUS HD">HBO PLUS HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-family-hd-43" xmltv_id="HBO FAMILY HD">HBO FAMILY HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-signature-hd-99" xmltv_id="HBO SIGNATURE HD">HBO SIGNATURE HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-mundi-hd-79" xmltv_id="HBO MUNDI HD">HBO MUNDI HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-xtreme-hd-109" xmltv_id="HBO XTREME HD">HBO XTREME HD</channel>
+    <channel update="i" site="montecable.com" site_id="hbo-pop-hd-154" xmltv_id="HBO POP HD">HBO POP HD</channel>
+    <channel update="i" site="montecable.com" site_id="universal-premiere-181" xmltv_id="UNIVERSAL PREMIERE">UNIVERSAL PREMIERE</channel>
+    <channel update="i" site="montecable.com" site_id="universal-cinema-178" xmltv_id="UNIVERSAL CINEMA">UNIVERSAL CINEMA</channel>
+    <channel update="i" site="montecable.com" site_id="universal-comedy-179" xmltv_id="UNIVERSAL COMEDY">UNIVERSAL COMEDY</channel>
+    <channel update="i" site="montecable.com" site_id="universal-crime-180" xmltv_id="UNIVERSAL CRIME">UNIVERSAL CRIME</channel>
+    <channel update="i" site="montecable.com" site_id="universal-reality-182" xmltv_id="UNIVERSAL REALITY">UNIVERSAL REALITY</channel>
+    <channel update="i" site="montecable.com" site_id="cinecanal-hd-141" xmltv_id="CINECANAL HD">CINECANAL HD</channel>
+    <channel update="i" site="montecable.com" site_id="cinemax-hd-126" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
+    <channel update="i" site="montecable.com" site_id="tnt-hd-155" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="montecable.com" site_id="space-hd-162" xmltv_id="SPACE HD">SPACE HD</channel>
+    <channel update="i" site="montecable.com" site_id="studio-universal-hd-156" xmltv_id="STUDIO UNIVERSAL HD">STUDIO UNIVERSAL HD</channel>
+    <channel update="i" site="montecable.com" site_id="europa-europa-hd-142" xmltv_id="EUROPA EUROPA HD">EUROPA EUROPA HD</channel>
+    <channel update="i" site="montecable.com" site_id="paramount-120" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
+    <channel update="i" site="montecable.com" site_id="a3cine-146" xmltv_id="A3CINE">A3CINE</channel>
+    <channel update="i" site="montecable.com" site_id="golden-plus-81" xmltv_id="GOLDEN PLUS">GOLDEN PLUS</channel>
+    <channel update="i" site="montecable.com" site_id="golden-premier-105" xmltv_id="GOLDEN PREMIER">GOLDEN PREMIER</channel>
+    <channel update="i" site="montecable.com" site_id="dhe-125" xmltv_id="DHE">DHE</channel>
+    <channel update="i" site="montecable.com" site_id="sony-movies-176" xmltv_id="SONY MOVIES">SONY MOVIES</channel>
+    <channel update="i" site="montecable.com" site_id="star-channel-hd-123" xmltv_id="STAR CHANNEL HD">STAR CHANNEL HD</channel>
+    <channel update="i" site="montecable.com" site_id="warner-hd-149" xmltv_id="WARNER HD">WARNER HD</channel>
+    <channel update="i" site="montecable.com" site_id="axn-hd-93" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="montecable.com" site_id="universal-channel-hd-83" xmltv_id="UNIVERSAL CHANNEL HD">UNIVERSAL CHANNEL HD</channel>
+    <channel update="i" site="montecable.com" site_id="amc-hd-73" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="montecable.com" site_id="tnt-series-hd-134" xmltv_id="TNT SERIES HD">TNT SERIES HD</channel>
+    <channel update="i" site="montecable.com" site_id="fx-hd-98" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="montecable.com" site_id="usa-network-190" xmltv_id="USA NETWORK">USA NETWORK</channel>
+    <channel update="i" site="montecable.com" site_id="ae-mundo-hd-87" xmltv_id="A&amp;E MUNDO HD">A&amp;E MUNDO HD</channel>
+    <channel update="i" site="montecable.com" site_id="filmarts-hd-133" xmltv_id="FILM&amp;ARTS HD">FILM&amp;ARTS HD</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-id-hd-165" xmltv_id="DISCOVERY ID HD">DISCOVERY ID HD</channel>
+    <channel update="i" site="montecable.com" site_id="antena3-20" xmltv_id="ANTENA3">ANTENA3</channel>
+    <channel update="i" site="montecable.com" site_id="atreseries-hd-127" xmltv_id="ATRESERIES HD">ATRESERIES HD</channel>
+    <channel update="i" site="montecable.com" site_id="tnt-novelas-194" xmltv_id="TNT NOVELAS">TNT NOVELAS</channel>
+    <channel update="i" site="montecable.com" site_id="star-tve-167" xmltv_id="STAR TVE">STAR TVE</channel>
+    <channel update="i" site="montecable.com" site_id="entertainment-television-17" xmltv_id="ENTERTAINMENT TELEVISION">ENTERTAINMENT TELEVISION</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-home-and-health-44" xmltv_id="DISCOVERY HOME AND HEALTH">DISCOVERY HOME AND HEALTH</channel>
+    <channel update="i" site="montecable.com" site_id="el-gourmet-31" xmltv_id="EL GOURMET">EL GOURMET</channel>
+    <channel update="i" site="montecable.com" site_id="mas-chic-29" xmltv_id="MAS CHIC">MAS CHIC</channel>
+    <channel update="i" site="montecable.com" site_id="lifetime-113" xmltv_id="LIFETIME">LIFETIME</channel>
+    <channel update="i" site="montecable.com" site_id="pasiones-96" xmltv_id="PASIONES">PASIONES</channel>
+    <channel update="i" site="montecable.com" site_id="telemundo-69" xmltv_id="TELEMUNDO">TELEMUNDO</channel>
+    <channel update="i" site="montecable.com" site_id="ivc-131" xmltv_id="IVC">IVC</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-5" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-tlc-89" xmltv_id="DISCOVERY TLC">DISCOVERY TLC</channel>
+    <channel update="i" site="montecable.com" site_id="national-geographic-51" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="montecable.com" site_id="animal-planet-88" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
+    <channel update="i" site="montecable.com" site_id="history-36" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="montecable.com" site_id="hgtv-84" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-home-and-health-hd-102" xmltv_id="DISCOVERY HOME AND HEALTH HD">DISCOVERY HOME AND HEALTH HD</channel>
+    <channel update="i" site="montecable.com" site_id="el-gourmet-hd-130" xmltv_id="EL GOURMET HD">EL GOURMET HD</channel>
+    <channel update="i" site="montecable.com" site_id="food-network-140" xmltv_id="FOOD NETWORK">FOOD NETWORK</channel>
+    <channel update="i" site="montecable.com" site_id="hola-tv-hd-107" xmltv_id="HOLA TV HD">HOLA TV HD</channel>
+    <channel update="i" site="montecable.com" site_id="las-estrellas-2" xmltv_id="LAS ESTRELLAS">LAS ESTRELLAS</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-tlc-hd-166" xmltv_id="DISCOVERY TLC HD">DISCOVERY TLC HD</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-hd-124" xmltv_id="DISCOVERY HD">DISCOVERY HD</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-hd-theater-71" xmltv_id="DISCOVERY HD THEATER">DISCOVERY HD THEATER</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-world-hd-78" xmltv_id="DISCOVERY WORLD HD">DISCOVERY WORLD HD</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-science-hd-164" xmltv_id="DISCOVERY SCIENCE HD">DISCOVERY SCIENCE HD</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-turbo-hd-128" xmltv_id="DISCOVERY TURBO HD">DISCOVERY TURBO HD</channel>
+    <channel update="i" site="montecable.com" site_id="nat-geo-hd-111" xmltv_id="NAT GEO HD">NAT GEO HD</channel>
+    <channel update="i" site="montecable.com" site_id="animal-planet-hd-163" xmltv_id="ANIMAL PLANET HD">ANIMAL PLANET HD</channel>
+    <channel update="i" site="montecable.com" site_id="history-hd-80" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel update="i" site="montecable.com" site_id="h2-hd-145" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="montecable.com" site_id="av-97" xmltv_id="A+V">A+V</channel>
+    <channel update="i" site="montecable.com" site_id="charrua-tv-119" xmltv_id="CHARRUA TV">CHARRUA TV</channel>
+    <channel update="i" site="montecable.com" site_id="campo-ruraltv-185" xmltv_id="CAMPO RURALTV">CAMPO RURALTV</channel>
+    <channel update="i" site="montecable.com" site_id="canal-4-hd-117" xmltv_id="CANAL 4 HD">CANAL 4 HD</channel>
+    <channel update="i" site="montecable.com" site_id="saeta-hd-115" xmltv_id="SAETA HD">SAETA HD</channel>
+    <channel update="i" site="montecable.com" site_id="latele-hd-118" xmltv_id="LATELE HD">LATELE HD</channel>
+    <channel update="i" site="montecable.com" site_id="canal-5-hd-116" xmltv_id="CANAL 5 HD">CANAL 5 HD</channel>
+    <channel update="i" site="montecable.com" site_id="vtv-hd-121" xmltv_id="VTV HD">VTV HD</channel>
+    <channel update="i" site="montecable.com" site_id="vtv-hd-122" xmltv_id="VTV + HD">VTV + HD</channel>
+    <channel update="i" site="montecable.com" site_id="tv-ciudad-hd-161" xmltv_id="TV CIUDAD HD">TV CIUDAD HD</channel>
+    <channel update="i" site="montecable.com" site_id="canal-21-132" xmltv_id="CANAL 21">CANAL 21</channel>
+    <channel update="i" site="montecable.com" site_id="eventos-montecable-1-136" xmltv_id="EVENTOS MONTECABLE 1">EVENTOS MONTECABLE 1</channel>
+    <channel update="i" site="montecable.com" site_id="eventos-montecable-hd-139" xmltv_id="EVENTOS MONTECABLE HD">EVENTOS MONTECABLE HD</channel>
+    <channel update="i" site="montecable.com" site_id="eventos-montecable-hd-2-184" xmltv_id="EVENTOS MONTECABLE HD 2">EVENTOS MONTECABLE HD 2</channel>
+    <channel update="i" site="montecable.com" site_id="eventos-montecable-hd-3-177" xmltv_id="EVENTOS MONTECABLE HD 3">EVENTOS MONTECABLE HD 3</channel>
+    <channel update="i" site="montecable.com" site_id="espn-170" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="montecable.com" site_id="espn-2-174" xmltv_id="ESPN 2">ESPN 2</channel>
+    <channel update="i" site="montecable.com" site_id="espn-3-168" xmltv_id="ESPN 3">ESPN 3</channel>
+    <channel update="i" site="montecable.com" site_id="espn-4-46" xmltv_id="ESPN 5">ESPN 5</channel>
+    <channel update="i" site="montecable.com" site_id="fox-sports-2-112" xmltv_id="ESPN 7">ESPN 7</channel>
+    <channel update="i" site="montecable.com" site_id="fox-sports-3-150" xmltv_id="ESPN 6">ESPN 6</channel>
+    <channel update="i" site="montecable.com" site_id="tyc-sports-103" xmltv_id="TYC SPORTS">TYC SPORTS</channel>
+    <channel update="i" site="montecable.com" site_id="gol-tv-173" xmltv_id="GOL TV">GOL TV</channel>
+    <channel update="i" site="montecable.com" site_id="sportv-172" xmltv_id="SPORTV">SPORTV</channel>
+    <channel update="i" site="montecable.com" site_id="espn-hd-171" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="montecable.com" site_id="espn-2-hd-175" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+    <channel update="i" site="montecable.com" site_id="espn-3-hd-169" xmltv_id="ESPN 3 HD">ESPN 3 HD</channel>
+    <channel update="i" site="montecable.com" site_id="espn-extra-129" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel update="i" site="montecable.com" site_id="espn-4-hd-110" xmltv_id="ESPN 5 HD">ESPN 5 HD</channel>
+    <channel update="i" site="montecable.com" site_id="fox-sports-2-hd-144" xmltv_id="ESPN 7 HD">ESPN 7 HD</channel>
+    <channel update="i" site="montecable.com" site_id="fox-sports-3-hd-151" xmltv_id="ESPN 6 HD">ESPN 6 HD</channel>
+    <channel update="i" site="montecable.com" site_id="tyc-sports-hd-90" xmltv_id="TYC SPORTS HD">TYC SPORTS HD</channel>
+    <channel update="i" site="montecable.com" site_id="gol-tv-hd-montecable-183" xmltv_id="GOL TV HD (MONTECABLE)">GOL TV HD (MONTECABLE)</channel>
+    <channel update="i" site="montecable.com" site_id="clarosports-95" xmltv_id="CLAROSPORTS">CLAROSPORTS</channel>
+    <channel update="i" site="montecable.com" site_id="tn-13" xmltv_id="TN">TN</channel>
+    <channel update="i" site="montecable.com" site_id="cronica-tv-38" xmltv_id="CRONICA TV">CRONICA TV</channel>
+    <channel update="i" site="montecable.com" site_id="cnn-en-espanol-21" xmltv_id="CNN EN ESPAÑOL">CNN EN ESPAÑOL</channel>
+    <channel update="i" site="montecable.com" site_id="bbc-news-26" xmltv_id="BBC NEWS">BBC NEWS</channel>
+    <channel update="i" site="montecable.com" site_id="bloomberg-60" xmltv_id="BLOOMBERG">BLOOMBERG</channel>
+    <channel update="i" site="montecable.com" site_id="canal-24-hs-41" xmltv_id="CANAL 24 HS">CANAL 24 HS</channel>
+    <channel update="i" site="montecable.com" site_id="26-tv-1" xmltv_id="26 TV">26 TV</channel>
+    <channel update="i" site="montecable.com" site_id="c5n-57" xmltv_id="C5N">C5N</channel>
+    <channel update="i" site="montecable.com" site_id="canal-rural-3" xmltv_id="CANAL RURAL">CANAL RURAL</channel>
+    <channel update="i" site="montecable.com" site_id="france-24-frances-135" xmltv_id="FRANCE 24 FRANCÉS">FRANCE 24 FRANCÉS</channel>
+    <channel update="i" site="montecable.com" site_id="france-24-157" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel update="i" site="montecable.com" site_id="a24-45" xmltv_id="A24">A24</channel>
+    <channel update="i" site="montecable.com" site_id="tve-18" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="montecable.com" site_id="galicia-tv-24" xmltv_id="GALICIA TV">GALICIA TV</channel>
+    <channel update="i" site="montecable.com" site_id="canal-vasco-40" xmltv_id="CANAL VASCO">CANAL VASCO</channel>
+    <channel update="i" site="montecable.com" site_id="tv-5-14" xmltv_id="TV 5">TV 5</channel>
+    <channel update="i" site="montecable.com" site_id="rai-10" xmltv_id="RAI">RAI</channel>
+    <channel update="i" site="montecable.com" site_id="america-2-68" xmltv_id="AMERICA 2">AMERICA 2</channel>
+    <channel update="i" site="montecable.com" site_id="tvn-chile-15" xmltv_id="TVN CHILE">TVN CHILE</channel>
+    <channel update="i" site="montecable.com" site_id="rede-tv-94" xmltv_id="REDE TV">REDE TV</channel>
+    <channel update="i" site="montecable.com" site_id="rede-record-152" xmltv_id="REDE RECORD">REDE RECORD</channel>
+    <channel update="i" site="montecable.com" site_id="tn-hd-92" xmltv_id="TN HD">TN HD</channel>
+    <channel update="i" site="montecable.com" site_id="la-nacion-153" xmltv_id="LA NACION +">LA NACION +</channel>
+    <channel update="i" site="montecable.com" site_id="cnn-192" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="montecable.com" site_id="cgtn-85" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="montecable.com" site_id="telefe-internacional-33" xmltv_id="TELEFE INTERNACIONAL">TELEFE INTERNACIONAL</channel>
+    <channel update="i" site="montecable.com" site_id="disney-32" xmltv_id="DISNEY">DISNEY</channel>
+    <channel update="i" site="montecable.com" site_id="disney-jr-61" xmltv_id="DISNEY JR">DISNEY JR</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-kids-25" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel update="i" site="montecable.com" site_id="cartoon-network-48" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="montecable.com" site_id="tooncast-65" xmltv_id="TOONCAST">TOONCAST</channel>
+    <channel update="i" site="montecable.com" site_id="cartoonito-35" xmltv_id="CARTOONITO">CARTOONITO</channel>
+    <channel update="i" site="montecable.com" site_id="nick-jr-63" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="montecable.com" site_id="nickelodeon-19" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="montecable.com" site_id="baby-tv-56" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="montecable.com" site_id="a3cine-hd-147" xmltv_id="A3CINE HD">A3CINE HD</channel>
+    <channel update="i" site="montecable.com" site_id="disney-hd-160" xmltv_id="DISNEY HD">DISNEY HD</channel>
+    <channel update="i" site="montecable.com" site_id="discovery-kids-hd-143" xmltv_id="DISCOVERY KIDS HD">DISCOVERY KIDS HD</channel>
+    <channel update="i" site="montecable.com" site_id="cartoon-network-hd-114" xmltv_id="CARTOON NETWORK HD">CARTOON NETWORK HD</channel>
+    <channel update="i" site="montecable.com" site_id="clan-159" xmltv_id="CLAN">CLAN</channel>
+    <channel update="i" site="montecable.com" site_id="adult-swim-195" xmltv_id="ADULT SWIM">ADULT SWIM</channel>
+    <channel update="i" site="montecable.com" site_id="ewtn-23" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="montecable.com" site_id="mtv-8" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="montecable.com" site_id="mtv-hits-59" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="montecable.com" site_id="mtv-dance-58" xmltv_id="MTV DANCE">MTV DANCE</channel>
+    <channel update="i" site="montecable.com" site_id="vh1-classic-67" xmltv_id="VH1 CLASSIC">VH1 CLASSIC</channel>
+    <channel update="i" site="montecable.com" site_id="htv-193" xmltv_id="HTV">HTV</channel>
+    <channel update="i" site="montecable.com" site_id="mtv-hd-72" xmltv_id="MTV HD">MTV HD</channel>
   </channels>
 </site>
