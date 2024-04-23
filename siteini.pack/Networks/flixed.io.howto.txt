@@ -1,0 +1,29 @@
+1. Create a Stream/City Provider File,only needs to be done if you want to create a fresh list if something changes,one is provided.
+   "<channel update="i" site="flixed.io" site_id="" xmltv_id="dummy">dummy</channel>
+   <update>c1-stream-city</update>
+2. ****For streaming providers Vidgo,Directv TV Stream,Sling TV,Philo,Fubo TV
+   ****DO NOT USE for Hulu Live TV,YouTube TV,Pluto TV,Peacock,goto step 3.
+   Use the channel line from step 1.Example..
+   <channel update="i" site="flixed.io" site_id="tv-guide/streaming/directv-stream" xmltv_id="DirecTV Stream">DirecTV Stream</channel>
+   <update>c2-directv</c2>
+3. Use a channel line created in step 2 or Stream provider Hulu Live TV,YouTube TV,Pluto TV,Peacock from step 1.Example..
+   <channel update="i" site="flixed.io" site_id="tv-guide/streaming/hulu-live-tv" xmltv_id="Hulu Live TV">Hulu Live TV</channel>
+   <update>c3-hulu</update>
+   or (channel line from step 2)
+   <channel update="i" site="flixed.io" site_id="tv-guide/streaming/directv-stream/ultimate" xmltv_id="DirecTV Stream">DirecTV Stream Ultimate</channel>
+   <update>c3-diretcv-ultimate</update>
+4. *****For USA and Canada Only******
+   Use a USA or Canada city channel line from step 1.Example..
+   <channel update="i" site="flixed.io" site_id="tv-guide/new-york/ny" xmltv_id="New York, NY">New York, NY</channel>
+   <update>c4-new-york</update>
+   or
+   <channel update="i" site="flixed.io" site_id="en-ca/tv-guide/toronto/on" xmltv_id="Toronto, ON">Toronto, ON</channel>
+   <update>c4-toronto</update>
+5. *****For USA and Canada Only******
+   Use a USA or Canada provider channel line from step 4.Example..
+   <channel update="i" site="flixed.io" site_id="USA-DITV501-DEFAULT" xmltv_id="DIRECTV New York - New York">DIRECTV New York - New York</channel>
+   <update>c5-directv-new-york</update>
+   or
+   <channel update="i" site="flixed.io" site_id="CAN-0005980-X" xmltv_id="Bell Fibe TV - Toronto/Niagara/Barrie">Bell Fibe TV - Toronto/Niagara/Barrie</channel>
+   <update>c5-bell-toronto</update>
+
