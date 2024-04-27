@@ -1,292 +1,301 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.3.0 -- Jan van Straaten" site="tvguide.dk">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="tvguide.dk">
   <channels>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/dr1" xmltv_id="DR1">DR1</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/daserste?ref=www.tvguide.dk" xmltv_id="Das Erste">Das Erste</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-1?ref=www.tvguide.dk" xmltv_id="LA 1">LA 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one?ref=www.tvguide.dk" xmltv_id="BBC One">BBC One</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk1?ref=www.tvguide.dk" xmltv_id="NRK 1">NRK 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/svt1?ref=www.tvguide.dk" xmltv_id="SVT1">SVT1</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2" xmltv_id="TV2">TV2</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-two?ref=www.tvguide.dk" xmltv_id="BBC Two">BBC Two</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2?ref=www.tvguide.dk" xmltv_id="TV 2">TV 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-2?ref=www.tvguide.dk" xmltv_id="LA 2">LA 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/svt2?ref=www.tvguide.dk" xmltv_id="SVT2">SVT2</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/zdf?ref=www.tvguide.dk" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv1?ref=www.tvguide.dk" xmltv_id="ITV">ITV</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv3?ref=www.tvguide.dk" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv3" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/one?ref=www.tvguide.dk" xmltv_id="One">One</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tvnorge?ref=www.tvguide.dk" xmltv_id="TVNorge">TVNorge</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/antena-3?ref=www.tvguide.dk" xmltv_id="Antena 3">Antena 3</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/channel-4?ref=www.tvguide.dk" xmltv_id="Channel 4">Channel 4</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sat1?ref=www.tvguide.dk" xmltv_id="Sat1">Sat1</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk2?ref=www.tvguide.dk" xmltv_id="NRK 2">NRK 2</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/kanal-5" xmltv_id="Kanal 5">Kanal 5</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4?ref=www.tvguide.dk" xmltv_id="TV4">TV4</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cuatro?ref=www.tvguide.dk" xmltv_id="Cuatro">Cuatro</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kanal-5?ref=www.tvguide.dk" xmltv_id="Kanal 5">Kanal 5</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telecinco?ref=www.tvguide.dk" xmltv_id="Telecinco">Telecinco</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/dr2" xmltv_id="DR2">DR2</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/rtl?ref=www.tvguide.dk" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv3?ref=www.tvguide.dk" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/channel-5?ref=www.tvguide.dk" xmltv_id="Channel 5">Channel 5</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv6?ref=www.tvguide.dk" xmltv_id="TV6">TV6</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-echo" xmltv_id="TV2 Echo">TV2 Echo</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-sexta?ref=www.tvguide.dk" xmltv_id="La Sexta">La Sexta</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/vox?ref=www.tvguide.dk" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-nyhetskanalen?ref=www.tvguide.dk" xmltv_id="TV 2 Nyhetskanalen">TV 2 Nyhetskanalen</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv3-plus" xmltv_id="TV3+">TV3+</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/vox?ref=www.tvguide.dk" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv2?ref=www.tvguide.dk" xmltv_id="ITV2">ITV2</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/prosieben?ref=www.tvguide.dk" xmltv_id="ProSieben">ProSieben</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/sjuan?ref=www.tvguide.dk" xmltv_id="Sjuan">Sjuan</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/paramount-channel?ref=www.tvguide.dk" xmltv_id="Paramount Channel">Paramount Channel</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/6eren" xmltv_id="6'eren">6'eren</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv3?ref=www.tvguide.dk" xmltv_id="ITV3">ITV3</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/kabel-eins?ref=www.tvguide.dk" xmltv_id="Kabel Eins">Kabel Eins</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/divinity?ref=www.tvguide.dk" xmltv_id="Divinity">Divinity</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/max?ref=www.tvguide.dk" xmltv_id="MAX">MAX</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv8?ref=www.tvguide.dk" xmltv_id="TV8">TV8</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/fem?ref=www.tvguide.dk" xmltv_id="FEM">FEM</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/dkiss?ref=www.tvguide.dk" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/6eren" xmltv_id="6`eren">6`eren</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/dr-ramasjang" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/zdfneo?ref=www.tvguide.dk" xmltv_id="ZDFneo">ZDFneo</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv4?ref=www.tvguide.dk" xmltv_id="ITV4">ITV4</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kanal-9?ref=www.tvguide.dk" xmltv_id="Kanal 9">Kanal 9</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/ten?ref=www.tvguide.dk" xmltv_id="Ten">Ten</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv10?ref=www.tvguide.dk" xmltv_id="TV10">TV10</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-zebra?ref=www.tvguide.dk" xmltv_id="TV 2 Zebra">TV 2 Zebra</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-charlie" xmltv_id="TV2 Charlie">TV2 Charlie</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sat1-gold?ref=www.tvguide.dk" xmltv_id="Sat1 Gold">Sat1 Gold</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/zdfinfo?ref=www.tvguide.dk" xmltv_id="ZDFinfo">ZDFinfo</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv3-puls" xmltv_id="TV3 Puls">TV3 Puls</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-guld?ref=www.tvguide.dk" xmltv_id="TV4 Guld">TV4 Guld</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/e4?ref=www.tvguide.dk" xmltv_id="E4">E4</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/be-mad?ref=www.tvguide.dk" xmltv_id="BE MAD">BE MAD</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv12?ref=www.tvguide.dk" xmltv_id="TV12">TV12</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/kanal-4" xmltv_id="Kanal 4">Kanal 4</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/3sat?ref=www.tvguide.dk" xmltv_id="3SAT">3SAT</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/discovery-max?ref=www.tvguide.dk" xmltv_id="Discovery Max">Discovery Max</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv6?ref=www.tvguide.dk" xmltv_id="TV6">TV6</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/more-4?ref=www.tvguide.dk" xmltv_id="More 4">More 4</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/dk4" xmltv_id="DK4">DK4</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/arte?ref=www.tvguide.dk" xmltv_id="Arte">Arte</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/energy?ref=www.tvguide.dk" xmltv_id="Energy">Energy</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/sf-kanalen?ref=www.tvguide.dk" xmltv_id="SF Kanalen">SF Kanalen</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-livsstil?ref=www.tvguide.dk" xmltv_id="TV 2 Livsstil">TV 2 Livsstil</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/film-4?ref=www.tvguide.dk" xmltv_id="Film 4">Film 4</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kunskapskanalen?ref=www.tvguide.dk" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk3?ref=www.tvguide.dk" xmltv_id="NRK 3">NRK 3</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/factoria-de-ficcion?ref=www.tvguide.dk" xmltv_id="Factoría de Ficción">Factoría de Ficción</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-fri" xmltv_id="TV2 FRI">TV2 FRI</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/dave?ref=www.tvguide.dk" xmltv_id="Dave">Dave</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/kika?ref=www.tvguide.dk" xmltv_id="Kika">Kika</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/5-star?ref=www.tvguide.dk" xmltv_id="5 Star">5 Star</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk-super?ref=www.tvguide.dk" xmltv_id="NRK Super">NRK Super</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv3-max" xmltv_id="TV3 Max">TV3 Max</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/prosieben-maxx?ref=www.tvguide.dk" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/barnkanalen?ref=www.tvguide.dk" xmltv_id="Barnkanalen">Barnkanalen</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/atreseries?ref=www.tvguide.dk" xmltv_id="Atreseries">Atreseries</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/eurosport-norge?ref=www.tvguide.dk" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/canal-9" xmltv_id="Canal 9">Canal 9</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/5-usa?ref=www.tvguide.dk" xmltv_id="5 USA">5 USA</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sixx?ref=www.tvguide.dk" xmltv_id="Sixx">Sixx</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/svt24?ref=www.tvguide.dk" xmltv_id="SVT24">SVT24</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nova?ref=www.tvguide.dk" xmltv_id="Nova">Nova</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/pick?ref=www.tvguide.dk" xmltv_id="Pick">Pick</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/fakta?ref=www.tvguide.dk" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/kabel-eins-doku?ref=www.tvguide.dk" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-premium?ref=www.tvguide.dk" xmltv_id="TV 2 Sport Premium">TV 2 Sport Premium</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-sport-x" xmltv_id="TV2 Sport X">TV2 Sport X</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/neox?ref=www.tvguide.dk" xmltv_id="Neox">Neox</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kanal-11?ref=www.tvguide.dk" xmltv_id="Kanal 11">Kanal 11</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/13-tv?ref=www.tvguide.dk" xmltv_id="13 TV">13 TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-1?ref=www.tvguide.dk" xmltv_id="TV 2 Sport 1">TV 2 Sport 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/rtl2?ref=www.tvguide.dk" xmltv_id="RTL 2">RTL 2</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-sport" xmltv_id="TV2 Sport">TV2 Sport</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/alibi?ref=www.tvguide.dk" xmltv_id="Alibi">Alibi</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/yesterday?ref=www.tvguide.dk" xmltv_id="Yesterday">Yesterday</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv3-sport" xmltv_id="TV3 Sport">TV3 Sport</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/tagesschau24?ref=www.tvguide.dk" xmltv_id="Tagesschau 24">Tagesschau 24</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-sport?ref=www.tvguide.dk" xmltv_id="Viasat Sport">Viasat Sport</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/boing?ref=www.tvguide.dk" xmltv_id="Boing">Boing</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/radio-bremen?ref=www.tvguide.dk" xmltv_id="Radio Bremen">Radio Bremen</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-2?ref=www.tvguide.dk" xmltv_id="TV 2 Sport 2">TV 2 Sport 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-channel?ref=www.tvguide.dk" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/clan-tve?ref=www.tvguide.dk" xmltv_id="Clan TVE">Clan TVE</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-premiere?ref=www.tvguide.dk" xmltv_id="Viasat Premiere">Viasat Premiere</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/disney-channel?ref=www.tvguide.dk" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/hr-fernsehen?ref=www.tvguide.dk" xmltv_id="HR Fernsehen">HR Fernsehen</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/see" xmltv_id="See">See</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-news-channel?ref=www.tvguide.dk" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-hockey?ref=www.tvguide.dk" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/animal-planet?ref=www.tvguide.dk" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-news" xmltv_id="TV2 News">TV2 News</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/teledeporte?ref=www.tvguide.dk" xmltv_id="Teledeporte">Teledeporte</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-fotboll?ref=www.tvguide.dk" xmltv_id="Viasat Fotball">Viasat Fotball</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/br-fernsehen?ref=www.tvguide.dk" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-science?ref=www.tvguide.dk" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-film?ref=www.tvguide.dk" xmltv_id="TV4 Film">TV4 Film</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/discovery-channel?ref=www.tvguide.dk" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/gol?ref=www.tvguide.dk" xmltv_id="GOL">GOL</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/wdr-fernsehen?ref=www.tvguide.dk" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/cbeebies?ref=www.tvguide.dk" xmltv_id="Cbeebies">Cbeebies</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/investigation-discovery?ref=www.tvguide.dk" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-film-hits?ref=www.tvguide.dk" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/real-madrid-tv?ref=www.tvguide.dk" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/eurosport" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sr-fernsehen?ref=www.tvguide.dk" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/animal-planet?ref=www.tvguide.dk" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/turbo?ref=www.tvguide.dk" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tlc" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/discovery-science?ref=www.tvguide.dk" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/mdr-fernsehen?ref=www.tvguide.dk" xmltv_id="MDR Fernsehen">MDR Fernsehen</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/ndr-fernsehen?ref=www.tvguide.dk" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-premiere?ref=www.tvguide.dk" xmltv_id="Viasat Premiere">Viasat Premiere</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/disney" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/paramount?ref=www.tvguide.dk" xmltv_id="Paramount">Paramount</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-series?ref=www.tvguide.dk" xmltv_id="Viasat Series">Viasat Series</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-premiere?ref=www.tvguide.dk" xmltv_id="Sky Premiere">Sky Premiere</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/swr-ferns-bw?ref=www.tvguide.dk" xmltv_id="SWR Fernsehen BW">SWR Fernsehen BW</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/swr-ferns-rp?ref=www.tvguide.dk" xmltv_id="SWR Fernsehen RP">SWR Fernsehen RP</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/national-geographic" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-main-event?ref=www.tvguide.dk" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-first?ref=www.tvguide.dk" xmltv_id="C More First">C More First</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-series?ref=www.tvguide.dk" xmltv_id="C More Series">C More Series</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/rbb-fernsehen?ref=www.tvguide.dk" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-f1?ref=www.tvguide.dk" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-premier-league?ref=www.tvguide.dk" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
-    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/ard-alpha?ref=www.tvguide.dk" xmltv_id="ARD Alpha">ARD Alpha</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-golf?ref=www.tvguide.dk" xmltv_id="Viasat Golf">Viasat Golf</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/id" xmltv_id="ID">ID</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-premiere" xmltv_id="Viasat Premiere">Viasat Premiere</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/sf-kanalen?ref=www.tvguide.dk" xmltv_id="SF Kanalen">SF Kanalen</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-golf?ref=www.tvguide.dk" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-film-premiere" xmltv_id="V Film Premiere">V Film Premiere</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/national-geographic-wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-action?ref=www.tvguide.dk" xmltv_id="Sky Action">Sky Action</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-comedy-cinema?ref=www.tvguide.dk" xmltv_id="Sky Comedy">Sky Comedy</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-hits?ref=www.tvguide.dk" xmltv_id="Sky Hits">Sky Hits</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/rt?ref=www.tvguide.dk" xmltv_id="RT">RT</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/rt-espanol?ref=www.tvguide.dk" xmltv_id="RT Español">RT Español</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-csgo" xmltv_id="TV2 CSGO">TV2 CSGO</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/tv2-oiii" xmltv_id="TV2 Oiii">TV2 Oiii</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv3?ref=www.tvguide.dk" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-series?ref=www.tvguide.dk" xmltv_id="Viasat Series">Viasat Series</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/syfy?ref=www.tvguide.dk" xmltv_id="SYFY">SYFY</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv3-cat?ref=www.tvguide.dk" xmltv_id="TV3 Cat">TV3 Cat</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tpa?ref=www.tvguide.dk" xmltv_id="TPA">TPA</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/really?ref=www.tvguide.dk" xmltv_id="Really">Really</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tnt?ref=www.tvguide.dk" xmltv_id="TNT">TNT</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/tlc?ref=www.tvguide.dk" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-fotboll?ref=www.tvguide.dk" xmltv_id="TV4 Fotball">TV4 Fotball</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-arts?ref=www.tvguide.dk" xmltv_id="Sky Arts">Sky Arts</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-atlantic?ref=www.tvguide.dk" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/toros?ref=www.tvguide.dk" xmltv_id="Toros">Toros</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-series" xmltv_id="Viasat Series">Viasat Series</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-record?ref=www.tvguide.dk" xmltv_id="TV RECORD">TV RECORD</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-ultra-hd?ref=www.tvguide.dk" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nhk-world-tv?ref=www.tvguide.dk" xmltv_id="NHK World TV">NHK World TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-canaria?ref=www.tvguide.dk" xmltv_id="TV Canaria">TV Canaria</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nick-jr?ref=www.tvguide.dk" xmltv_id="NICK JR">NICK JR</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nickelodeon?ref=www.tvguide.dk" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-galicia?ref=www.tvguide.dk" xmltv_id="TV Galicia">TV Galicia</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/w?ref=www.tvguide.dk" xmltv_id="W">W</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-ultra-hd" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-ultra-hd?ref=www.tvguide.dk" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk-tegnspraak?ref=www.tvguide.dk" xmltv_id="NRK Tegnspraak">NRK Tegnspraak</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-mediterraneo?ref=www.tvguide.dk" xmltv_id="TV Mediterráneo">TV Mediterráneo</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/odisea?ref=www.tvguide.dk" xmltv_id="Odisea">Odisea</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-sport-premium?ref=www.tvguide.dk" xmltv_id="Viasat Sport Premium">Viasat Sport Premium</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-premium-2?ref=www.tvguide.dk" xmltv_id="TV 2 Sport Premium 2">TV 2 Sport Premium 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-plus?ref=www.tvguide.dk" xmltv_id="Viasat Sport Plus">Viasat Sport Plus</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-3?ref=www.tvguide.dk" xmltv_id="Viasat Sport 3">Viasat Sport 3</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/playboy-tv?ref=www.tvguide.dk" xmltv_id="Playboy TV">Playboy TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-2?ref=www.tvguide.dk" xmltv_id="Viasat Sport 2">Viasat Sport 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-1?ref=www.tvguide.dk" xmltv_id="Viasat Sport 1">Viasat Sport 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-scfi-horror?ref=www.tvguide.dk" xmltv_id="Sky Cinema Sci-Fi\/Horror">Sky Cinema Sci-Fi\/Horror</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-family?ref=www.tvguide.dk" xmltv_id="Sky Family">Sky Family</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-drama?ref=www.tvguide.dk" xmltv_id="Sky Drama">Sky Drama</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telefe-internacional?ref=www.tvguide.dk" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-chile?ref=www.tvguide.dk" xmltv_id="TV Chile">TV Chile</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-football?ref=www.tvguide.dk" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tvg-tv-galicia?ref=www.tvguide.dk" xmltv_id="TVG - TV Galicia">TVG - TV Galicia</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telesur?ref=www.tvguide.dk" xmltv_id="Telesur">Telesur</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-mix?ref=www.tvguide.dk" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-news?ref=www.tvguide.dk" xmltv_id="Sky Sports News">Sky Sports News</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telemadrid?ref=www.tvguide.dk" xmltv_id="Telemadrid">Telemadrid</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-thriller?ref=www.tvguide.dk" xmltv_id="Sky Thriller">Sky Thriller</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/vh1?ref=www.tvguide.dk" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-arena?ref=www.tvguide.dk" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/sundance?ref=www.tvguide.dk" xmltv_id="Sundance">Sundance</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-5?ref=www.tvguide.dk" xmltv_id="Viasat Extra 5">Viasat Extra 5</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-4?ref=www.tvguide.dk" xmltv_id="Viasat Extra 4">Viasat Extra 4</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-3?ref=www.tvguide.dk" xmltv_id="Viasat Extra 3">Viasat Extra 3</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-2?ref=www.tvguide.dk" xmltv_id="Viasat Extra 2">Viasat Extra 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-1?ref=www.tvguide.dk" xmltv_id="Viasat Extra 1">Viasat Extra 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-4?ref=www.tvguide.dk" xmltv_id="Viasat 4">Viasat 4</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tcm?ref=www.tvguide.dk" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tlc?ref=www.tvguide.dk" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv5monde?ref=www.tvguide.dk" xmltv_id="TV5MONDE">TV5MONDE</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/viajar?ref=www.tvguide.dk" xmltv_id="Viajar">Viajar</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-motor?ref=www.tvguide.dk" xmltv_id="TV4 Motor">TV4 Motor</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-greats?ref=www.tvguide.dk" xmltv_id="Sky Greats">Sky Greats</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-motor?ref=www.tvguide.dk" xmltv_id="Viasat Motor">Viasat Motor</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-news?ref=www.tvguide.dk" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-hits?ref=www.tvguide.dk" xmltv_id="TV4 Hits">TV4 Hits</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-film-hits" xmltv_id="V Film Hits">V Film Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-sport-ultra-hd" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-sport-golf" xmltv_id="V Sport Golf">V Sport Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-series" xmltv_id="V Series">V Series</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-film-family" xmltv_id="V Film Family">V Film Family</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/v-film-action" xmltv_id="V Film Action">V Film Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/dr-tva" xmltv_id="DR TV Avisen">DR TV Avisen</channel>
+    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/svt1?ref=www.tvguide.dk" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/svt2?ref=www.tvguide.dk" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv3?ref=www.tvguide.dk" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4?ref=www.tvguide.dk" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kanal-5?ref=www.tvguide.dk" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv6?ref=www.tvguide.dk" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/sjuan?ref=www.tvguide.dk" xmltv_id="Sjuan">Sjuan</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv8?ref=www.tvguide.dk" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kanal-9?ref=www.tvguide.dk" xmltv_id="Kanal 9">Kanal 9</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv10?ref=www.tvguide.dk" xmltv_id="TV10">TV10</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-guld?ref=www.tvguide.dk" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv12?ref=www.tvguide.dk" xmltv_id="TV12">TV12</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/sf-kanalen?ref=www.tvguide.dk" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kunskapskanalen?ref=www.tvguide.dk" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/barnkanalen?ref=www.tvguide.dk" xmltv_id="Barnkanalen">Barnkanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/svt24?ref=www.tvguide.dk" xmltv_id="SVT24">SVT24</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/fakta?ref=www.tvguide.dk" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/kanal-11?ref=www.tvguide.dk" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-sport?ref=www.tvguide.dk" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-premiere?ref=www.tvguide.dk" xmltv_id="Viasat Premiere">Viasat Premiere</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-hockey?ref=www.tvguide.dk" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-fotboll?ref=www.tvguide.dk" xmltv_id="Viasat Fotball">Viasat Fotball</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-film?ref=www.tvguide.dk" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-film-hits?ref=www.tvguide.dk" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-golf?ref=www.tvguide.dk" xmltv_id="Viasat Golf">Viasat Golf</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-hockey?ref=www.tvguide.dk" xmltv_id="TV4 Hockey">TV4 Hockey</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tlc?ref=www.tvguide.dk" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-film-premiere" xmltv_id="Viasat Film Premiere">Viasat Film Premiere</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-tennis?ref=www.tvguide.dk" xmltv_id="TV4 Tennis">TV4 Tennis</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-film-hits" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-stars?ref=www.tvguide.dk" xmltv_id="TV4 Stars">TV4 Stars</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-film-hits?ref=www.tvguide.dk" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-film-family" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-film-family?ref=www.tvguide.dk" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-film-action?ref=www.tvguide.dk" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/viasat-film-action" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/sky-news?ref=www.tvguide.dk" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-film-action?ref=www.tvguide.dk" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-colombia?ref=www.tvguide.dk" xmltv_id="TV Colombia">TV Colombia</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cero?ref=www.tvguide.dk" xmltv_id="#0">#0</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tlc?ref=www.tvguide.dk" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-motor?ref=www.tvguide.dk" xmltv_id="Viasat Motor">Viasat Motor</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-sport-premium?ref=www.tvguide.dk" xmltv_id="Viasat Sport Premium">Viasat Sport Premium</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-ultra-hd?ref=www.tvguide.dk" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/viasat-series?ref=www.tvguide.dk" xmltv_id="Viasat Series">Viasat Series</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-fotboll?ref=www.tvguide.dk" xmltv_id="TV4 Fotball">TV4 Fotball</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-hits?ref=www.tvguide.dk" xmltv_id="TV4 Hits">TV4 Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-hockey?ref=www.tvguide.dk" xmltv_id="TV4 Hockey">TV4 Hockey</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-tennis?ref=www.tvguide.dk" xmltv_id="TV4 Tennis">TV4 Tennis</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-stars?ref=www.tvguide.dk" xmltv_id="TV4 Stars">TV4 Stars</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/tv4-motor?ref=www.tvguide.dk" xmltv_id="TV4 Motor">TV4 Motor</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/national-geographic-wild?ref=www.tvguide.dk" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-hits?ref=www.tvguide.dk" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-hockey?ref=www.tvguide.dk" xmltv_id="C More Hockey">C More Hockey</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-sportskanalen?ref=www.tvguide.dk" xmltv_id="C More Sportskanalen">C More Sportskanalen</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-series?ref=www.tvguide.dk" xmltv_id="C More Series">C More Series</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-live-5?ref=www.tvguide.dk" xmltv_id="C More Live 5">C More Live 5</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-live-4?ref=www.tvguide.dk" xmltv_id="C More Live 4">C More Live 4</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-live-3?ref=www.tvguide.dk" xmltv_id="C More Live 3">C More Live 3</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-live-2?ref=www.tvguide.dk" xmltv_id="C More Live 2">C More Live 2</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-live?ref=www.tvguide.dk" xmltv_id="C More Live">C More Live</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-hockey?ref=www.tvguide.dk" xmltv_id="C More Hockey">C More Hockey</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-hits?ref=www.tvguide.dk" xmltv_id="C More Hits">C More Hits</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-stars?ref=www.tvguide.dk" xmltv_id="C More Stars">C More Stars</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-hits?ref=www.tvguide.dk" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-stars?ref=www.tvguide.dk" xmltv_id="C More Stars">C More Stars</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-fotboll?ref=www.tvguide.dk" xmltv_id="C More Fotboll">C More Fotboll</channel>
     <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-first?ref=www.tvguide.dk" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/animal-planet?ref=www.tvguide.dk" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/national-geographic?ref=www.tvguide.dk" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/mtv?ref=www.tvguide.dk" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/discovery-science?ref=www.tvguide.dk" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/discovery-channel?ref=www.tvguide.dk" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/id?ref=www.tvguide.dk" xmltv_id="ID">ID</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/eurosport-2?ref=www.tvguide.dk" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/eurosport?ref=www.tvguide.dk" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk1?ref=www.tvguide.dk" xmltv_id="NRK 1">NRK 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2?ref=www.tvguide.dk" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tvnorge?ref=www.tvguide.dk" xmltv_id="TVNorge">TVNorge</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk2?ref=www.tvguide.dk" xmltv_id="NRK 2">NRK 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv3?ref=www.tvguide.dk" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-nyhetskanalen?ref=www.tvguide.dk" xmltv_id="TV 2 Nyhetskanalen">TV 2 Nyhetskanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/vox?ref=www.tvguide.dk" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/max?ref=www.tvguide.dk" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/fem?ref=www.tvguide.dk" xmltv_id="FEM">FEM</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-zebra?ref=www.tvguide.dk" xmltv_id="TV 2 Zebra">TV 2 Zebra</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv6?ref=www.tvguide.dk" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-livsstil?ref=www.tvguide.dk" xmltv_id="TV 2 Livsstil">TV 2 Livsstil</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk3?ref=www.tvguide.dk" xmltv_id="NRK 3">NRK 3</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk-super?ref=www.tvguide.dk" xmltv_id="NRK Super">NRK Super</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/eurosport-norge?ref=www.tvguide.dk" xmltv_id="Eurosport Norge">Eurosport Norge</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-premium?ref=www.tvguide.dk" xmltv_id="TV 2 Sport Premium">TV 2 Sport Premium</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-1?ref=www.tvguide.dk" xmltv_id="TV 2 Sport 1">TV 2 Sport 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-2?ref=www.tvguide.dk" xmltv_id="TV 2 Sport 2">TV 2 Sport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/animal-planet?ref=www.tvguide.dk" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/discovery-channel?ref=www.tvguide.dk" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/investigation-discovery?ref=www.tvguide.dk" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/discovery-science?ref=www.tvguide.dk" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-premiere?ref=www.tvguide.dk" xmltv_id="Viasat Premiere">Viasat Premiere</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-series?ref=www.tvguide.dk" xmltv_id="Viasat Series">Viasat Series</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-first?ref=www.tvguide.dk" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-series?ref=www.tvguide.dk" xmltv_id="C More Series">C More Series</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-golf?ref=www.tvguide.dk" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/sf-kanalen?ref=www.tvguide.dk" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-film-hits?ref=www.tvguide.dk" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-film-family?ref=www.tvguide.dk" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-film-action?ref=www.tvguide.dk" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-5?ref=www.tvguide.dk" xmltv_id="Viasat Extra 5">Viasat Extra 5</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-4?ref=www.tvguide.dk" xmltv_id="Viasat Extra 4">Viasat Extra 4</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-3?ref=www.tvguide.dk" xmltv_id="Viasat Extra 3">Viasat Extra 3</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-2?ref=www.tvguide.dk" xmltv_id="Viasat Extra 2">Viasat Extra 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-extra-1?ref=www.tvguide.dk" xmltv_id="Viasat Extra 1">Viasat Extra 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-4?ref=www.tvguide.dk" xmltv_id="Viasat 4">Viasat 4</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-ultra-hd?ref=www.tvguide.dk" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-plus?ref=www.tvguide.dk" xmltv_id="Viasat Sport Plus">Viasat Sport Plus</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-3?ref=www.tvguide.dk" xmltv_id="Viasat Sport 3">Viasat Sport 3</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-2?ref=www.tvguide.dk" xmltv_id="Viasat Sport 2">Viasat Sport 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/nrk-tegnspraak?ref=www.tvguide.dk" xmltv_id="NRK Tegnspraak">NRK Tegnspraak</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/viasat-sport-1?ref=www.tvguide.dk" xmltv_id="Viasat Sport 1">Viasat Sport 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tv2-sport-premium-2?ref=www.tvguide.dk" xmltv_id="TV 2 Sport Premium 2">TV 2 Sport Premium 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/tlc?ref=www.tvguide.dk" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-hits?ref=www.tvguide.dk" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/c-more-stars?ref=www.tvguide.dk" xmltv_id="C More Stars">C More Stars</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/mtv?ref=www.tvguide.dk" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/eurosport-1?ref=www.tvguide.dk" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one?ref=www.tvguide.dk" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-two?ref=www.tvguide.dk" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv1?ref=www.tvguide.dk" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/channel-4?ref=www.tvguide.dk" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/channel-5?ref=www.tvguide.dk" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv2?ref=www.tvguide.dk" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv3?ref=www.tvguide.dk" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv4?ref=www.tvguide.dk" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/e4?ref=www.tvguide.dk" xmltv_id="E4">E4</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/more-4?ref=www.tvguide.dk" xmltv_id="More 4">More 4</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/film-4?ref=www.tvguide.dk" xmltv_id="Film 4">Film 4</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/dave?ref=www.tvguide.dk" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/5-star?ref=www.tvguide.dk" xmltv_id="5 Star">5 Star</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/5-usa?ref=www.tvguide.dk" xmltv_id="5 USA">5 USA</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/alibi?ref=www.tvguide.dk" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/yesterday?ref=www.tvguide.dk" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-channel?ref=www.tvguide.dk" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-news-channel?ref=www.tvguide.dk" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-science?ref=www.tvguide.dk" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/cbeebies?ref=www.tvguide.dk" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/animal-planet?ref=www.tvguide.dk" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/turbo?ref=www.tvguide.dk" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/paramount?ref=www.tvguide.dk" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-premiere?ref=www.tvguide.dk" xmltv_id="Sky Premiere">Sky Premiere</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-main-event?ref=www.tvguide.dk" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-f1?ref=www.tvguide.dk" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-premier-league?ref=www.tvguide.dk" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-golf?ref=www.tvguide.dk" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-action?ref=www.tvguide.dk" xmltv_id="Sky Action">Sky Action</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-comedy-cinema?ref=www.tvguide.dk" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-hits?ref=www.tvguide.dk" xmltv_id="Sky Hits">Sky Hits</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/tlc?ref=www.tvguide.dk" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/really?ref=www.tvguide.dk" xmltv_id="Really">Really</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-atlantic?ref=www.tvguide.dk" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/w?ref=www.tvguide.dk" xmltv_id="W">W</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-arts?ref=www.tvguide.dk" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-scfi-horror?ref=www.tvguide.dk" xmltv_id="Sky Cinema Sci-Fi/Horror">Sky Cinema Sci-Fi/Horror</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-mix?ref=www.tvguide.dk" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-arena?ref=www.tvguide.dk" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-football?ref=www.tvguide.dk" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-news?ref=www.tvguide.dk" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-sports-news?ref=www.tvguide.dk" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-thriller?ref=www.tvguide.dk" xmltv_id="Sky Thriller">Sky Thriller</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-drama?ref=www.tvguide.dk" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-family?ref=www.tvguide.dk" xmltv_id="Sky Family">Sky Family</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/sky-greats?ref=www.tvguide.dk" xmltv_id="Sky Greats">Sky Greats</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-sport-ultimate?ref=www.tvguide.dk" xmltv_id="BT Sport Ultimate">BT Sport Ultimate</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-sport-espn?ref=www.tvguide.dk" xmltv_id="BT Sport ESPN">BT Sport ESPN</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-sport-3?ref=www.tvguide.dk" xmltv_id="BT Sport 3">BT Sport 3</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-sport-2?ref=www.tvguide.dk" xmltv_id="BT Sport 2">BT Sport 2</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-sport-1?ref=www.tvguide.dk" xmltv_id="BT Sport 1">BT Sport 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-box-nation?ref=www.tvguide.dk" xmltv_id="BT Box Nation">BT Box Nation</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-sportskanalen?ref=www.tvguide.dk" xmltv_id="C More Sportskanalen">C More Sportskanalen</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/c-more-stars?ref=www.tvguide.dk" xmltv_id="C More Stars">C More Stars</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/blaze?ref=www.tvguide.dk" xmltv_id="Blaze">Blaze</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-sur-andalucia?ref=www.tvguide.dk" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/citv?ref=www.tvguide.dk" xmltv_id="cItv">cItv</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/ci?ref=www.tvguide.dk" xmltv_id="CI">CI</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/chelsea-tv?ref=www.tvguide.dk" xmltv_id="Chelsea TV">Chelsea TV</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/challenge?ref=www.tvguide.dk" xmltv_id="Challenge">Challenge</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cgtn-espanol?ref=www.tvguide.dk" xmltv_id="CGTN Español">CGTN Español</channel>
     <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/cbbc?ref=www.tvguide.dk" xmltv_id="CBBC">CBBC</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/caza-y-pesca?ref=www.tvguide.dk" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/castilla-la-mancha-tv?ref=www.tvguide.dk" xmltv_id="Castilla la Mancha TV">Castilla la Mancha TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-sur?ref=www.tvguide.dk" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bt-box-nation?ref=www.tvguide.dk" xmltv_id="BT Box Nation">BT Box Nation</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/5-select?ref=www.tvguide.dk" xmltv_id="5 Select">5 Select</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/4-seven?ref=www.tvguide.dk" xmltv_id="4 Seven">4 Seven</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/4-music?ref=www.tvguide.dk" xmltv_id="4 Music">4 Music</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-northern-ireland?ref=www.tvguide.dk" xmltv_id="BBC One Northern Ireland">BBC One Northern Ireland</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-parliament?ref=www.tvguide.dk" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-wales?ref=www.tvguide.dk" xmltv_id="BBC One Wales">BBC One Wales</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-scotland?ref=www.tvguide.dk" xmltv_id="BBC One Scotland">BBC One Scotland</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-oxfordshire?ref=www.tvguide.dk" xmltv_id="BBC One Oxfordshire">BBC One Oxfordshire</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-east-midlands?ref=www.tvguide.dk" xmltv_id="BBC One East Midlands">BBC One East Midlands</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-east?ref=www.tvguide.dk" xmltv_id="BBC One East">BBC One East</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-channel-islands?ref=www.tvguide.dk" xmltv_id="BBC One Channel Islands">BBC One Channel Islands</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-cambridgeshire?ref=www.tvguide.dk" xmltv_id="BBC One Cambridgeshire">BBC One Cambridgeshire</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-four?ref=www.tvguide.dk" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-alba?ref=www.tvguide.dk" xmltv_id="BBC Alba">BBC Alba</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv-be?ref=www.tvguide.dk" xmltv_id="Itv Be">Itv Be</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/nat-geo?ref=www.tvguide.dk" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/nat-geo-wild?ref=www.tvguide.dk" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-shed?ref=www.tvguide.dk" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/eden?ref=www.tvguide.dk" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/drama?ref=www.tvguide.dk" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/dmax?ref=www.tvguide.dk" xmltv_id="Dmax">Dmax</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-history?ref=www.tvguide.dk" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/id?ref=www.tvguide.dk" xmltv_id="ID">ID</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/home-health?ref=www.tvguide.dk" xmltv_id="Home Health">Home Health</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/history?ref=www.tvguide.dk" xmltv_id="History">History</channel>
+    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/gold?ref=www.tvguide.dk" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-1?ref=www.tvguide.dk" xmltv_id="LA 1">LA 1</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-2?ref=www.tvguide.dk" xmltv_id="LA 2">LA 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/antena-3?ref=www.tvguide.dk" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cuatro?ref=www.tvguide.dk" xmltv_id="Cuatro">Cuatro</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telecinco?ref=www.tvguide.dk" xmltv_id="Telecinco">Telecinco</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-sexta?ref=www.tvguide.dk" xmltv_id="La Sexta">La Sexta</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/paramount-channel?ref=www.tvguide.dk" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/divinity?ref=www.tvguide.dk" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/dkiss?ref=www.tvguide.dk" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/ten?ref=www.tvguide.dk" xmltv_id="Ten">Ten</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/be-mad?ref=www.tvguide.dk" xmltv_id="BE MAD">BE MAD</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/discovery-max?ref=www.tvguide.dk" xmltv_id="Discovery Max">Discovery Max</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/energy?ref=www.tvguide.dk" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/factoria-de-ficcion?ref=www.tvguide.dk" xmltv_id="Factoría de Ficción">Factoría de Ficción</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/atreseries?ref=www.tvguide.dk" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nova?ref=www.tvguide.dk" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/neox?ref=www.tvguide.dk" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/13-tv?ref=www.tvguide.dk" xmltv_id="13 TV">13 TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/boing?ref=www.tvguide.dk" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/clan-tve?ref=www.tvguide.dk" xmltv_id="Clan TVE">Clan TVE</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/disney-channel?ref=www.tvguide.dk" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/teledeporte?ref=www.tvguide.dk" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/gol?ref=www.tvguide.dk" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/real-madrid-tv?ref=www.tvguide.dk" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/rt?ref=www.tvguide.dk" xmltv_id="RT">RT</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/rt-espanol?ref=www.tvguide.dk" xmltv_id="RT Español">RT Español</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tnt?ref=www.tvguide.dk" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tcm?ref=www.tvguide.dk" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nhk-world-tv?ref=www.tvguide.dk" xmltv_id="NHK World TV">NHK World TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nick-jr?ref=www.tvguide.dk" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nickelodeon?ref=www.tvguide.dk" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telefe-internacional?ref=www.tvguide.dk" xmltv_id="Telefe Internacional">Telefe Internacional</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/odisea?ref=www.tvguide.dk" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telemadrid?ref=www.tvguide.dk" xmltv_id="Telemadrid">Telemadrid</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/playboy-tv?ref=www.tvguide.dk" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-colombia?ref=www.tvguide.dk" xmltv_id="TV Colombia">TV Colombia</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/syfy?ref=www.tvguide.dk" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tpa?ref=www.tvguide.dk" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-canaria?ref=www.tvguide.dk" xmltv_id="TV Canaria">TV Canaria</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv3-cat?ref=www.tvguide.dk" xmltv_id="TV3 Cat">TV3 Cat</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-chile?ref=www.tvguide.dk" xmltv_id="TV Chile">TV Chile</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv3?ref=www.tvguide.dk" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-record?ref=www.tvguide.dk" xmltv_id="TV RECORD">TV RECORD</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-mediterraneo?ref=www.tvguide.dk" xmltv_id="TV Mediterráneo">TV Mediterráneo</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/sundance?ref=www.tvguide.dk" xmltv_id="Sundance">Sundance</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/sky-news?ref=www.tvguide.dk" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv-galicia?ref=www.tvguide.dk" xmltv_id="TV Galicia">TV Galicia</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/viajar?ref=www.tvguide.dk" xmltv_id="Viajar">Viajar</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/vh1?ref=www.tvguide.dk" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tvg-tv-galicia?ref=www.tvguide.dk" xmltv_id="TVG - TV Galicia">TVG - TV Galicia</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/toros?ref=www.tvguide.dk" xmltv_id="Toros">Toros</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/tv5monde?ref=www.tvguide.dk" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/telesur?ref=www.tvguide.dk" xmltv_id="Telesur">Telesur</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cero?ref=www.tvguide.dk" xmltv_id="#0">#0</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/calle-13?ref=www.tvguide.dk" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/bloomberg?ref=www.tvguide.dk" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/castilla-la-mancha-tv?ref=www.tvguide.dk" xmltv_id="Castilla la Mancha TV">Castilla la Mancha TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/classica?ref=www.tvguide.dk" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cgtn-espanol?ref=www.tvguide.dk" xmltv_id="CGTN Español">CGTN Español</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/caza-y-pesca?ref=www.tvguide.dk" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-sur-andalucia?ref=www.tvguide.dk" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-33?ref=www.tvguide.dk" xmltv_id="Canal 33">Canal 33</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-sur?ref=www.tvguide.dk" xmltv_id="Canal Sur">Canal Sur</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-panda?ref=www.tvguide.dk" xmltv_id="Canal Panda">Canal Panda</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-orbe-21?ref=www.tvguide.dk" xmltv_id="Canal Orbe 21">Canal Orbe 21</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-futbol-replay?ref=www.tvguide.dk" xmltv_id="Canal Fútbol Replay">Canal Fútbol Replay</channel>
@@ -294,10 +303,8 @@
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-decasa?ref=www.tvguide.dk" xmltv_id="Canal Decasa">Canal Decasa</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-de-las-estrellas?ref=www.tvguide.dk" xmltv_id="Canal de las Estrellas">Canal de las Estrellas</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-cocina?ref=www.tvguide.dk" xmltv_id="Canal Cocina">Canal Cocina</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/canal-33?ref=www.tvguide.dk" xmltv_id="Canal 33">Canal 33</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/bloomberg?ref=www.tvguide.dk" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/beteve?ref=www.tvguide.dk" xmltv_id="Betevé">Betevé</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cnbc?ref=www.tvguide.dk" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/blaze?ref=www.tvguide.dk" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cnc-world?ref=www.tvguide.dk" xmltv_id="CNC World">CNC World</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/alquiler-1?ref=www.tvguide.dk" xmltv_id="Alquiler 1">Alquiler 1</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/andalucia-tv?ref=www.tvguide.dk" xmltv_id="Andalucía TV">Andalucía TV</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/amc?ref=www.tvguide.dk" xmltv_id="AMC">AMC</channel>
@@ -307,39 +314,25 @@
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/alquiler-3?ref=www.tvguide.dk" xmltv_id="Alquiler 3">Alquiler 3</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/alquiler-2?ref=www.tvguide.dk" xmltv_id="Alquiler 2">Alquiler 2</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/al-jazeera-english?ref=www.tvguide.dk" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/aragon-tv?ref=www.tvguide.dk" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/aragon-tv-int?ref=www.tvguide.dk" xmltv_id="Aragón TV Int">Aragón TV Int</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/a-punt?ref=www.tvguide.dk" xmltv_id="À Punt">À Punt</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/8-tv?ref=www.tvguide.dk" xmltv_id="8 tv">8 tv</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/7-tv-region-murcia?ref=www.tvguide.dk" xmltv_id="7 TV Región Murcia">7 TV Región Murcia</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/5-select?ref=www.tvguide.dk" xmltv_id="5 Select">5 Select</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/4-seven?ref=www.tvguide.dk" xmltv_id="4 Seven">4 Seven</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/4-music?ref=www.tvguide.dk" xmltv_id="4 Music">4 Music</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/3-24?ref=www.tvguide.dk" xmltv_id="3 24">3 24</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/24-horas?ref=www.tvguide.dk" xmltv_id="24 Horas">24 Horas</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/animal-planet?ref=www.tvguide.dk" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/aragon-tv-int?ref=www.tvguide.dk" xmltv_id="Aragón TV Int">Aragón TV Int</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/aragon-tv?ref=www.tvguide.dk" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/arirang-tv?ref=www.tvguide.dk" xmltv_id="ARIRANG TV">ARIRANG TV</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/beteve?ref=www.tvguide.dk" xmltv_id="Betevé">Betevé</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/bein-laliga-4k?ref=www.tvguide.dk" xmltv_id="Bein LaLiga 4K">Bein LaLiga 4K</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-east-midlands?ref=www.tvguide.dk" xmltv_id="BBC One East Midlands">BBC One East Midlands</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/bein-laliga-1?ref=www.tvguide.dk" xmltv_id="Bein LaLiga 1">Bein LaLiga 1</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/bein-laliga?ref=www.tvguide.dk" xmltv_id="Bein LaLiga">Bein LaLiga</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/bbc-world?ref=www.tvguide.dk" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-parliament?ref=www.tvguide.dk" xmltv_id="BBC Parliament">BBC Parliament</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-wales?ref=www.tvguide.dk" xmltv_id="BBC One Wales">BBC One Wales</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-scotland?ref=www.tvguide.dk" xmltv_id="BBC One Scotland">BBC One Scotland</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-oxfordshire?ref=www.tvguide.dk" xmltv_id="BBC One Oxfordshire">BBC One Oxfordshire</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-northern-ireland?ref=www.tvguide.dk" xmltv_id="BBC One Northern Ireland">BBC One Northern Ireland</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-east?ref=www.tvguide.dk" xmltv_id="BBC One East">BBC One East</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/arirang-tv?ref=www.tvguide.dk" xmltv_id="ARIRANG TV">ARIRANG TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-channel-islands?ref=www.tvguide.dk" xmltv_id="BBC One Channel Islands">BBC One Channel Islands</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-one-cambridgeshire?ref=www.tvguide.dk" xmltv_id="BBC One Cambridgeshire">BBC One Cambridgeshire</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-four?ref=www.tvguide.dk" xmltv_id="BBC Four">BBC Four</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/bbc-alba?ref=www.tvguide.dk" xmltv_id="BBC Alba">BBC Alba</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/axn?ref=www.tvguide.dk" xmltv_id="AXN">AXN</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/barca-tv?ref=www.tvguide.dk" xmltv_id="Barça TV">Barça TV</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/baby-tv?ref=www.tvguide.dk" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/axn-white?ref=www.tvguide.dk" xmltv_id="AXN White">AXN White</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/axn?ref=www.tvguide.dk" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/classica?ref=www.tvguide.dk" xmltv_id="Classica">Classica</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cnc-world?ref=www.tvguide.dk" xmltv_id="CNC World">CNC World</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cnbc?ref=www.tvguide.dk" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cnn-int?ref=www.tvguide.dk" xmltv_id="CNN Int">CNN Int</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/national-geographic?ref=www.tvguide.dk" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-cinedocandroll?ref=www.tvguide.dk" xmltv_id="M.CineDoc&amp;Roll">M.CineDoc&amp;Roll</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/movistar-estrenos?ref=www.tvguide.dk" xmltv_id="Movistar Estrenos">Movistar Estrenos</channel>
@@ -351,8 +344,8 @@
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/mega?ref=www.tvguide.dk" xmltv_id="Mega">Mega</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-seriesmania?ref=www.tvguide.dk" xmltv_id="M. Seriesmanía">M. Seriesmanía</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/movistar-golf?ref=www.tvguide.dk" xmltv_id="Movistar Golf">Movistar Golf</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-liga-de-campeones?ref=www.tvguide.dk" xmltv_id="M. Liga de Campeones">M. Liga de Campeones</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/vamos?ref=www.tvguide.dk" xmltv_id="#Vamos">#Vamos</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-halloween?ref=www.tvguide.dk" xmltv_id="M. Halloween">M. Halloween</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-esports?ref=www.tvguide.dk" xmltv_id="M. eSports">M. eSports</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-drama?ref=www.tvguide.dk" xmltv_id="M. Drama">M. Drama</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-disney?ref=www.tvguide.dk" xmltv_id="M. Disney">M. Disney</channel>
@@ -361,11 +354,7 @@
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-otra?ref=www.tvguide.dk" xmltv_id="La Otra">La Otra</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/movistar-formula-1?ref=www.tvguide.dk" xmltv_id="Movistar Fórmula 1">Movistar Fórmula 1</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/movistar-moto-gp?ref=www.tvguide.dk" xmltv_id="Movistar Moto GP">Movistar Moto GP</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/itv-be?ref=www.tvguide.dk" xmltv_id="Itv Be">Itv Be</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/multi3-motogp?ref=www.tvguide.dk" xmltv_id="Multi3 MotoGP">Multi3 MotoGP</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/national-geographic?ref=www.tvguide.dk" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/nat-geo?ref=www.tvguide.dk" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/nat-geo-wild?ref=www.tvguide.dk" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/nat-geo-wild?ref=www.tvguide.dk" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/multicamara1-motogp?ref=www.tvguide.dk" xmltv_id="Multicámara1 MotoGP">Multicámara1 MotoGP</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/multi6-motogp?ref=www.tvguide.dk" xmltv_id="Multi6 MotoGP">Multi6 MotoGP</channel>
@@ -377,54 +366,64 @@
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/multi-4-motogp?ref=www.tvguide.dk" xmltv_id="Multi 4 MotoGP">Multi 4 MotoGP</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/mtv-rocks?ref=www.tvguide.dk" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/mtv?ref=www.tvguide.dk" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/mtv?ref=www.tvguide.dk" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/mtv?ref=www.tvguide.dk" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/mtv" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/movistar-series?ref=www.tvguide.dk" xmltv_id="Movistar Series">Movistar Series</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/la-7?ref=www.tvguide.dk" xmltv_id="La 7">La 7</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/intereconomia-tv?ref=www.tvguide.dk" xmltv_id="Intereconomía TV">Intereconomía TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cnn-int?ref=www.tvguide.dk" xmltv_id="CNN Int">CNN Int</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/discovery-science?ref=www.tvguide.dk" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/comedy-central?ref=www.tvguide.dk" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/esport-3?ref=www.tvguide.dk" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/el-garage-tv?ref=www.tvguide.dk" xmltv_id="El Garage TV">El Garage TV</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/eden?ref=www.tvguide.dk" xmltv_id="Eden">Eden</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/drama?ref=www.tvguide.dk" xmltv_id="Drama">Drama</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/dmax?ref=www.tvguide.dk" xmltv_id="Dmax">Dmax</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/disney-xd?ref=www.tvguide.dk" xmltv_id="Disney XD">Disney XD</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/disney-junior?ref=www.tvguide.dk" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-shed?ref=www.tvguide.dk" xmltv_id="Discovery Shed">Discovery Shed</channel>
-    <channel update="i" site="tvguide.dk" site_id="dk##/kanaler/discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/etb-2?ref=www.tvguide.dk" xmltv_id="ETB 2">ETB 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/discovery-history?ref=www.tvguide.dk" xmltv_id="Discovery History">Discovery History</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/discovery-channel?ref=www.tvguide.dk" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/discovery?ref=www.tvguide.dk" xmltv_id="Discovery">Discovery</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/dark?ref=www.tvguide.dk" xmltv_id="DARK">DARK</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cubavision?ref=www.tvguide.dk" xmltv_id="Cubavisión">Cubavisión</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/crimen-investigacion?ref=www.tvguide.dk" xmltv_id="Crimen + Investigación">Crimen + Investigación</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/cosmo?ref=www.tvguide.dk" xmltv_id="COSMO">COSMO</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/comedy-central?ref=www.tvguide.dk" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/etb-1?ref=www.tvguide.dk" xmltv_id="ETB 1">ETB 1</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/etb-sat?ref=www.tvguide.dk" xmltv_id="ETB Sat">ETB Sat</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/id?ref=www.tvguide.dk" xmltv_id="ID">ID</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/france-24?ref=www.tvguide.dk" xmltv_id="FRANCE 24">FRANCE 24</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/id?ref=www.tvguide.dk" xmltv_id="ID">ID</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/iberalia-tv?ref=www.tvguide.dk" xmltv_id="Iberalia TV">Iberalia TV</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/ib3-rtv-illes-balears?ref=www.tvguide.dk" xmltv_id="IB3 RTV Illes Balears">IB3 RTV Illes Balears</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/home-health?ref=www.tvguide.dk" xmltv_id="Home Health">Home Health</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/hollywood?ref=www.tvguide.dk" xmltv_id="Hollywood">Hollywood</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/history?ref=www.tvguide.dk" xmltv_id="History">History</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/historia?ref=www.tvguide.dk" xmltv_id="Historia">Historia</channel>
-    <channel update="i" site="tvguide.dk" site_id="uk##https://www.zaptv.co.uk/channels/gold?ref=www.tvguide.dk" xmltv_id="GOLD">GOLD</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/fox-news?ref=www.tvguide.dk" xmltv_id="Fox News">Fox News</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/euronews?ref=www.tvguide.dk" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/fox-life?ref=www.tvguide.dk" xmltv_id="Fox Life">Fox Life</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/fox?ref=www.tvguide.dk" xmltv_id="Fox">Fox</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/ewtn?ref=www.tvguide.dk" xmltv_id="EWTN">EWTN</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/eurosport-2?ref=www.tvguide.dk" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/eurosport-2?ref=www.tvguide.dk" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/eurosport-1?ref=www.tvguide.dk" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="no##https://no.zaptv.com/kanaler/eurosport-1?ref=www.tvguide.dk" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="tvguide.dk" site_id="se##https://www.zaptv.se/kanaler/eurosport?ref=www.tvguide.dk" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-liga-de-campeones?ref=www.tvguide.dk" xmltv_id="M. Liga de Campeones">M. Liga de Campeones</channel>
+    <channel update="i" site="tvguide.dk" site_id="es##https://www.zaptv.es/canales/m-halloween?ref=www.tvguide.dk" xmltv_id="M. Halloween">M. Halloween</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/daserste?ref=www.tvguide.dk" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/zdf?ref=www.tvguide.dk" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/one?ref=www.tvguide.dk" xmltv_id="One">One</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sat1?ref=www.tvguide.dk" xmltv_id="Sat1">Sat1</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/rtl?ref=www.tvguide.dk" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/vox?ref=www.tvguide.dk" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/prosieben?ref=www.tvguide.dk" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/kabel-eins?ref=www.tvguide.dk" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/zdfneo?ref=www.tvguide.dk" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sat1-gold?ref=www.tvguide.dk" xmltv_id="Sat1 Gold">Sat1 Gold</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/zdfinfo?ref=www.tvguide.dk" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/3sat?ref=www.tvguide.dk" xmltv_id="3SAT">3SAT</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/arte?ref=www.tvguide.dk" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/kika?ref=www.tvguide.dk" xmltv_id="Kika">Kika</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/prosieben-maxx?ref=www.tvguide.dk" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sixx?ref=www.tvguide.dk" xmltv_id="Sixx">Sixx</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/kabel-eins-doku?ref=www.tvguide.dk" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/rtl2?ref=www.tvguide.dk" xmltv_id="RTL 2">RTL 2</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/tagesschau24?ref=www.tvguide.dk" xmltv_id="Tagesschau 24">Tagesschau 24</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/radio-bremen?ref=www.tvguide.dk" xmltv_id="Radio Bremen">Radio Bremen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/hr-fernsehen?ref=www.tvguide.dk" xmltv_id="HR Fernsehen">HR Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/br-fernsehen?ref=www.tvguide.dk" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/wdr-fernsehen?ref=www.tvguide.dk" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/sr-fernsehen?ref=www.tvguide.dk" xmltv_id="SR Fernsehen">SR Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/mdr-fernsehen?ref=www.tvguide.dk" xmltv_id="MDR Fernsehen">MDR Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/ndr-fernsehen?ref=www.tvguide.dk" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/swr-ferns-bw?ref=www.tvguide.dk" xmltv_id="SWR Fernsehen BW">SWR Fernsehen BW</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/swr-ferns-rp?ref=www.tvguide.dk" xmltv_id="SWR Fernsehen RP">SWR Fernsehen RP</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/rbb-fernsehen?ref=www.tvguide.dk" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
+    <channel update="i" site="tvguide.dk" site_id="de##https://www.tvabend.de/sender/ard-alpha?ref=www.tvguide.dk" xmltv_id="ARD Alpha">ARD Alpha</channel>
   </channels>
 </site>
