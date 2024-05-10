@@ -1,97 +1,189 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.3 -- Jan van Straaten" site="digea.gr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="digea.gr">
   <channels>
-    <channel update="i" site="digea.gr" site_id="3100##new/logo-alpha-tv.png" xmltv_id="ALPHA">ALPHA</channel>
-    <channel update="i" site="digea.gr" site_id="3200##new/logo-skai.jpg" xmltv_id="SKAI">SKAI</channel>
-    <channel update="i" site="digea.gr" site_id="3300##new/logo-ant1.png" xmltv_id="ANT1">ANT1</channel>
-    <channel update="i" site="digea.gr" site_id="3400##new/logo-open.jpg" xmltv_id="OPEN BEYOND">OPEN BEYOND</channel>
-    <channel update="i" site="digea.gr" site_id="3500##new/logo-star.jpg" xmltv_id="STAR">STAR</channel>
-    <channel update="i" site="digea.gr" site_id="3600##new/logo-mega.jpg" xmltv_id="MEGA">MEGA</channel>
-    <channel update="i" site="digea.gr" site_id="3700##new/logo-makedonia-tv.png" xmltv_id="ΜΑΚΕΔΟΝΙΑ ΤV">ΜΑΚΕΔΟΝΙΑ ΤV</channel>
-    <channel update="i" site="digea.gr" site_id="4020##new/logo-delta-fv.png" xmltv_id="ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ">ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4030##new/logo-diktyo.jpg" xmltv_id="ΔΙΚΤΥΟ TV">ΔΙΚΤΥΟ TV</channel>
-    <channel update="i" site="digea.gr" site_id="4040##new/logo-ena.jpg" xmltv_id="ENA CHANNEL">ENA CHANNEL</channel>
-    <channel update="i" site="digea.gr" site_id="4050##new/logo-epiloges.png" xmltv_id="ΕΠΙΛΟΓΕΣ">ΕΠΙΛΟΓΕΣ</channel>
-    <channel update="i" site="digea.gr" site_id="4060##new/logo-thrakinet.jpg" xmltv_id="ΘΡΑΚΗ ΝΕΤ">ΘΡΑΚΗ ΝΕΤ</channel>
-    <channel update="i" site="digea.gr" site_id="4070##new/logo-orestiada.jpg" xmltv_id="ΟΡΕΣΤΙΑΔΑ">ΟΡΕΣΤΙΑΔΑ</channel>
-    <channel update="i" site="digea.gr" site_id="4080##new/logo-alfa.jpg" xmltv_id="ALFA">ALFA</channel>
-    <channel update="i" site="digea.gr" site_id="4090##new/logo-center.jpg" xmltv_id="CENTER TV">CENTER TV</channel>
-    <channel update="i" site="digea.gr" site_id="4100##new/logo-next-tv.jpg" xmltv_id="NEXT TV">NEXT TV</channel>
-    <channel update="i" site="digea.gr" site_id="4110##new/logo-smile-thraki.png" xmltv_id="SMILE (Θράκης)">SMILE (Θράκης)</channel>
-    <channel update="i" site="digea.gr" site_id="4120##new/logo-star-voreiou-ellados.png" xmltv_id="STAR ΒOΡΕΙΟΥ ΕΛΛΑΔΟΣ">STAR ΒOΡΕΙΟΥ ΕΛΛΑΔΟΣ</channel>
-    <channel update="i" site="digea.gr" site_id="4130##new/logo-tv-rodopi.jpg" xmltv_id="ΤV ΡΟΔΟΠΗ">ΤV ΡΟΔΟΠΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4170##new/logo-lydia.jpg" xmltv_id="ΛΥΔΙΑ">ΛΥΔΙΑ</channel>
-    <channel update="i" site="digea.gr" site_id="4240##new/logo-vergina.jpg" xmltv_id="ΒΕΡΓΙΝΑ">ΒΕΡΓΙΝΑ</channel>
-    <channel update="i" site="digea.gr" site_id="4250##new/logo-atlas.jpg" xmltv_id="ATLAS TELEVISION">ATLAS TELEVISION</channel>
-    <channel update="i" site="digea.gr" site_id="4260##new/logo-dion.jpg" xmltv_id="DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας">DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας</channel>
-    <channel update="i" site="digea.gr" site_id="4270##new/logo-eurotv.jpg" xmltv_id="EURO TV">EURO TV</channel>
-    <channel update="i" site="digea.gr" site_id="4280##new/logo-europe1.png" xmltv_id="EUROPE 1">EUROPE 1</channel>
-    <channel update="i" site="digea.gr" site_id="4290##new/logo-gnomi-tv.jpg" xmltv_id="GNOMI TV">GNOMI TV</channel>
-    <channel update="i" site="digea.gr" site_id="4300##new/logo-tv100.jpg" xmltv_id="TV100 ΘΕΣΣΑΛΟΝΙΚΗ">TV100 ΘΕΣΣΑΛΟΝΙΚΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4360##new/logo-a-epsilon.png" xmltv_id="AE CHANNEL Thessaloniki">AE CHANNEL Thessaloniki</channel>
-    <channel update="i" site="digea.gr" site_id="4370##new/logo-nickelodeon-plus.png" xmltv_id="NICKELODEON+">NICKELODEON+</channel>
-    <channel update="i" site="digea.gr" site_id="4380##new/logo-4e.jpg" xmltv_id="4E">4E</channel>
-    <channel update="i" site="digea.gr" site_id="4450##new/logo-lyxnos.jpg" xmltv_id="ΛΥΧΝΟΣ">ΛΥΧΝΟΣ</channel>
-    <channel update="i" site="digea.gr" site_id="4460##new/logo-mesogeios.jpg" xmltv_id="ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ">ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4470##new/logo-opt-television.jpg" xmltv_id="ΟΡΤ TELEVISION">ΟΡΤ TELEVISION</channel>
-    <channel update="i" site="digea.gr" site_id="4490##new/logo-art-4490.jpg" xmltv_id="ΑRT">ΑRT</channel>
-    <channel update="i" site="digea.gr" site_id="4510##new/logo-best.png" xmltv_id="BEST">BEST</channel>
-    <channel update="i" site="digea.gr" site_id="4520##new/logo-ionian.png" xmltv_id="IONIAN">IONIAN</channel>
-    <channel update="i" site="digea.gr" site_id="4530##new/logo-lepanto.png" xmltv_id="LEPANTO ΤΗΛΕΟΡΑΣΗ">LEPANTO ΤΗΛΕΟΡΑΣΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4540##new/logo-patra-tv.jpg" xmltv_id="Patra tv">Patra tv</channel>
-    <channel update="i" site="digea.gr" site_id="4550##new/logo-rtp-kentro.png" xmltv_id="RTP ΚΕΝΤΡΟ">RTP ΚΕΝΤΡΟ</channel>
-    <channel update="i" site="digea.gr" site_id="4560##new/logo-super.jpg" xmltv_id="SUPER">SUPER</channel>
-    <channel update="i" site="digea.gr" site_id="4670##new/logo-thessalia.png" xmltv_id="ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ">ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4680##new/logo-astra.png" xmltv_id="ASTRA TV">ASTRA TV</channel>
-    <channel update="i" site="digea.gr" site_id="4690##new/logo-smile-plus.jpg" xmltv_id="SMILE +">SMILE +</channel>
-    <channel update="i" site="digea.gr" site_id="4700##new/logo-trt.jpg" xmltv_id="TRT">TRT</channel>
-    <channel update="i" site="digea.gr" site_id="4710##new/logo-form-media-tv.jpg" xmltv_id="FORMedia TV">FORMedia TV</channel>
-    <channel update="i" site="digea.gr" site_id="4800##new/logo-ena-kentrikis-elladas.jpg" xmltv_id="ENA TV KE">ENA TV KE</channel>
-    <channel update="i" site="digea.gr" site_id="4810##new/logo-star-kentrikis-elladas.png" xmltv_id="STAR K.E.">STAR K.E.</channel>
-    <channel update="i" site="digea.gr" site_id="4830##new/logo-e-tv.jpg" xmltv_id="E ΤV">E ΤV</channel>
-    <channel update="i" site="digea.gr" site_id="4900##new/logo-art-4900.png" xmltv_id="ΑΡΤ">ΑΡΤ</channel>
-    <channel update="i" site="digea.gr" site_id="4910##new/logo-alert.png" xmltv_id="ALERT">ALERT</channel>
-    <channel update="i" site="digea.gr" site_id="4920##new/logo-attica-tv.png" xmltv_id="ATTICA">ATTICA</channel>
-    <channel update="i" site="digea.gr" site_id="4930##new/logo-blue-sky.jpg" xmltv_id="BLUE SKY">BLUE SKY</channel>
-    <channel update="i" site="digea.gr" site_id="4940##new/logo-one-channel.jpg" xmltv_id="One Channel">One Channel</channel>
-    <channel update="i" site="digea.gr" site_id="4950##new/logo-extra-channel.jpg" xmltv_id="EXTRA">EXTRA</channel>
-    <channel update="i" site="digea.gr" site_id="4990##new/logo-a-epsilon.jpg" xmltv_id="A.EPSILON">A.EPSILON</channel>
-    <channel update="i" site="digea.gr" site_id="5000##new/logo-action24.jpg" xmltv_id="ACTION 24">ACTION 24</channel>
-    <channel update="i" site="digea.gr" site_id="5010##new/logo-hight-tv.png" xmltv_id="HIGH TV">HIGH TV</channel>
-    <channel update="i" site="digea.gr" site_id="5020##new/logo-kontra.jpg" xmltv_id="KONTRA">KONTRA</channel>
-    <channel update="i" site="digea.gr" site_id="5030##new/logo-mad.jpg" xmltv_id="MAD">MAD</channel>
-    <channel update="i" site="digea.gr" site_id="5040##new/logo-nickelodeon.jpg" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel update="i" site="digea.gr" site_id="5050##new/logo-rise-tv.jpg" xmltv_id="RISE TV">RISE TV</channel>
-    <channel update="i" site="digea.gr" site_id="5060##new/logo-smile.png" xmltv_id="SMILE">SMILE</channel>
-    <channel update="i" site="digea.gr" site_id="5130##new/logo-alitheia-tv.jpg" xmltv_id="ΑΛΗΘΕΙΑ TV">ΑΛΗΘΕΙΑ TV</channel>
-    <channel update="i" site="digea.gr" site_id="5140##new/logo-patrida.png" xmltv_id="ΠΑΤΡΙΔΑ TV">ΠΑΤΡΙΔΑ TV</channel>
-    <channel update="i" site="digea.gr" site_id="5150##new/logo-aeolos.png" xmltv_id="AEOLOS">AEOLOS</channel>
-    <channel update="i" site="digea.gr" site_id="5300##new/logo-osios-nikanor.jpg" xmltv_id="OCIOC ΝΙΚΑΝΩΡ">OCIOC ΝΙΚΑΝΩΡ</channel>
-    <channel update="i" site="digea.gr" site_id="5310##new/logo-diktyo1.png" xmltv_id="DIKTYO1">DIKTYO1</channel>
-    <channel update="i" site="digea.gr" site_id="5320##new/logo-flash-tv.png" xmltv_id="FLASH TV">FLASH TV</channel>
-    <channel update="i" site="digea.gr" site_id="5330##new/logo-west.jpg" xmltv_id="WEST">WEST</channel>
-    <channel update="i" site="digea.gr" site_id="5350##new/logo-top-channel.png" xmltv_id="TOP CHANNEL">TOP CHANNEL</channel>
-    <channel update="i" site="digea.gr" site_id="5420##new/logo-axeloos.jpg" xmltv_id="ΑΧΕΛΩΟΣ">ΑΧΕΛΩΟΣ</channel>
-    <channel update="i" site="digea.gr" site_id="5430##new/logo-vima-tv.png" xmltv_id="ΒΗΜΑ ΤΗΛΕΟΡΑΣΗ">ΒΗΜΑ ΤΗΛΕΟΡΑΣΗ</channel>
-    <channel update="i" site="digea.gr" site_id="5440##new/logo-ipiros-tv1.png" xmltv_id="ΗΠΕΙΡΟΣ TV1">ΗΠΕΙΡΟΣ TV1</channel>
-    <channel update="i" site="digea.gr" site_id="5450##new/logo-art-tv-4490.jpg" xmltv_id="ART TV">ART TV</channel>
-    <channel update="i" site="digea.gr" site_id="5460##new/logo-corfu-tv.png" xmltv_id="CORFU TV">CORFU TV</channel>
-    <channel update="i" site="digea.gr" site_id="5470##new/logo-itv.jpg" xmltv_id="ΙTV">ΙTV</channel>
-    <channel update="i" site="digea.gr" site_id="5480##new/logo-start.jpg" xmltv_id="START">START</channel>
-    <channel update="i" site="digea.gr" site_id="5570##new/logo-telekriti.png" xmltv_id="TeleKPHTH">TeleKPHTH</channel>
-    <channel update="i" site="digea.gr" site_id="5580##new/logo-kriti-tv.jpg" xmltv_id="ΚΡΗΤΗTV">ΚΡΗΤΗTV</channel>
-    <channel update="i" site="digea.gr" site_id="5590##new/logo-kriti1.png" xmltv_id="KΡHTH1">KΡHTH1</channel>
-    <channel update="i" site="digea.gr" site_id="5600##new/logo-nea-tileorasi-kritis.png" xmltv_id="ΝΕΑ Τηλεόραση Κρήτης">ΝΕΑ Τηλεόραση Κρήτης</channel>
-    <channel update="i" site="digea.gr" site_id="5610##new/logo-creta-tv.png" xmltv_id="TV CRETA">TV CRETA</channel>
-    <channel update="i" site="digea.gr" site_id="5620##new/logo-notos-tv.jpg" xmltv_id="NOTOS TV">NOTOS TV</channel>
-    <channel update="i" site="digea.gr" site_id="5630##new/logo-sitia-tv.png" xmltv_id="SITIA TV">SITIA TV</channel>
-    <channel update="i" site="digea.gr" site_id="5720##new/logo-aigaio.jpg" xmltv_id="ΑΙΓΑΙΟ">ΑΙΓΑΙΟ</channel>
-    <channel update="i" site="digea.gr" site_id="5730##new/logo-sat.jpg" xmltv_id="ΣΑΤ">ΣΑΤ</channel>
-    <channel update="i" site="digea.gr" site_id="5740##new/logo-irida.png" xmltv_id="IRIDA">IRIDA</channel>
-    <channel update="i" site="digea.gr" site_id="5750##new/logo-kos-tv.png" xmltv_id="KOS TV">KOS TV</channel>
-    <channel update="i" site="digea.gr" site_id="5760##new/logo-tv-kosmos.png" xmltv_id="TV KOSMOS">TV KOSMOS</channel>
-    <channel update="i" site="digea.gr" site_id="5770##new/logo-tharri.png" xmltv_id="ΘΑΡΡΙ">ΘΑΡΡΙ</channel>
-    <channel update="i" site="digea.gr" site_id="5850##new/logo-syros-tv.jpg" xmltv_id="SYROS TV1">SYROS TV1</channel>
-    <channel update="i" site="digea.gr" site_id="5860##new/logo-volcano.png" xmltv_id="VOLCANO">VOLCANO</channel>
+    <channel update="i" site="digea.gr" site_id="el##3100##alpha-tv.png" xmltv_id="EL: ALPHA-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: ALPHA-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##3200##skai.jpg" xmltv_id="EL: SKAI-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: SKAI-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##3300##ant1.png" xmltv_id="EL: ANT1-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: ANT1-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##3400##open.jpg" xmltv_id="EL: OPEN BEYOND-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: OPEN BEYOND-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##3500##star.jpg" xmltv_id="EL: STAR-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: STAR-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##3600##mega.jpg" xmltv_id="EL: MEGA-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: MEGA-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##3700##makedonia-tv.png" xmltv_id="EL: ΜΑΚΕΔΟΝΙΑ ΤV-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ">EL: ΜΑΚΕΔΟΝΙΑ ΤV-ΕΘΝΙΚΗΣ ΕΜΒΕΛΕΙΑΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4020##delta-fv.png" xmltv_id="EL: ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4030##diktyo.jpg" xmltv_id="EL: ΔΙΚΤΥΟ TV-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΔΙΚΤΥΟ TV-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4040##ena.jpg" xmltv_id="EL: ENA CHANNEL-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ENA CHANNEL-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4050##epiloges.png" xmltv_id="EL: ΕΠΙΛΟΓΕΣ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΕΠΙΛΟΓΕΣ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4060##thrakinet.jpg" xmltv_id="EL: ΘΡΑΚΗ ΝΕΤ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΘΡΑΚΗ ΝΕΤ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4070##orestiada.jpg" xmltv_id="EL: ΟΡΕΣΤΙΑΔΑ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΟΡΕΣΤΙΑΔΑ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4080##alfa.jpg" xmltv_id="EL: ALFA-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ALFA-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4090##center.jpg" xmltv_id="EL: CENTER TV-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: CENTER TV-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4100##next-tv.jpg" xmltv_id="EL: NEXT TV-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: NEXT TV-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4110##smile-thraki.png" xmltv_id="EL: SMILE (Θράκης)-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: SMILE (Θράκης)-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4120##star-voreiou-ellados.png" xmltv_id="EL: STAR ΒOΡΕΙΟΥ ΕΛΛΑΔΟΣ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: STAR ΒOΡΕΙΟΥ ΕΛΛΑΔΟΣ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4130##tv-rodopi.jpg" xmltv_id="EL: ΤV ΡΟΔΟΠΗ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΤV ΡΟΔΟΠΗ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4170##lydia.jpg" xmltv_id="EL: ΛΥΔΙΑ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ">EL: ΛΥΔΙΑ-ΠΖ 1 ΑΝ. ΜΑΚΕΔΟΝΙΑ &amp; ΘΡΑΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4240##vergina.jpg" xmltv_id="EL: ΒΕΡΓΙΝΑ-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: ΒΕΡΓΙΝΑ-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4250##atlas.jpg" xmltv_id="EL: ATLAS TELEVISION-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: ATLAS TELEVISION-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4260##dion.jpg" xmltv_id="EL: DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4270##eurotv.jpg" xmltv_id="EL: EURO TV-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: EURO TV-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4280##europe1.png" xmltv_id="EL: EUROPE 1-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: EUROPE 1-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4290##gnomi-tv.jpg" xmltv_id="EL: GNOMI TV-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: GNOMI TV-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4300##tv100.jpg" xmltv_id="EL: TV100 ΘΕΣΣΑΛΟΝΙΚΗ-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: TV100 ΘΕΣΣΑΛΟΝΙΚΗ-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4360##a-epsilon.png" xmltv_id="EL: AE CHANNEL Thessaloniki-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: AE CHANNEL Thessaloniki-ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4370##nickelodeon-plus.png" xmltv_id="EL: NICKELODEON+ -ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: NICKELODEON+ -ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4380##4e.jpg" xmltv_id="EL: 4E -ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ">EL: 4E -ΠΖ 2&amp;3 Κ. ΜΑΚΕΔΟΝΙΑ &amp; ΧΑΛΚΙΔΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4450##lyxnos.jpg" xmltv_id="EL: ΛΥΧΝΟΣ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: ΛΥΧΝΟΣ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4460##mesogeios.jpg" xmltv_id="EL: ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4470##opt-television.jpg" xmltv_id="EL: ΟΡΤ TELEVISION-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: ΟΡΤ TELEVISION-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4490##art-4490.jpg" xmltv_id="EL: ΑRT-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: ΑRT-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4510##best.png" xmltv_id="EL: BEST-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: BEST-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4520##ionian.png" xmltv_id="EL: IONIAN-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: IONIAN-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4530##lepanto.png" xmltv_id="EL: LEPANTO ΤΗΛΕΟΡΑΣΗ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: LEPANTO ΤΗΛΕΟΡΑΣΗ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4540##patra-tv.jpg" xmltv_id="EL: Patra tv-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: Patra tv-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4550##rtp-kentro.png" xmltv_id="EL: RTP ΚΕΝΤΡΟ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: RTP ΚΕΝΤΡΟ-ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4560##super.jpg" xmltv_id="EL: SUPER -ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ">EL: SUPER -ΠΖ 6 ΠΕΛΟΠΟΝΝΗΣΟΥ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4670##thessalia.png" xmltv_id="EL: ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ-ΠΖ 7 ΘΕΣΣΑΛΙΑ">EL: ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ-ΠΖ 7 ΘΕΣΣΑΛΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4680##astra.png" xmltv_id="EL: ASTRA TV-ΠΖ 7 ΘΕΣΣΑΛΙΑ">EL: ASTRA TV-ΠΖ 7 ΘΕΣΣΑΛΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4690##smile-plus.jpg" xmltv_id="EL: SMILE +-ΠΖ 7 ΘΕΣΣΑΛΙΑ">EL: SMILE +-ΠΖ 7 ΘΕΣΣΑΛΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4700##trt.jpg" xmltv_id="EL: TRT-ΠΖ 7 ΘΕΣΣΑΛΙΑ">EL: TRT-ΠΖ 7 ΘΕΣΣΑΛΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4710##form-media-tv.jpg" xmltv_id="EL: FORMedia TV-ΠΖ 7 ΘΕΣΣΑΛΙΑ">EL: FORMedia TV-ΠΖ 7 ΘΕΣΣΑΛΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4800##ena-kentrikis-elladas.jpg" xmltv_id="EL: ENA TV KE-ΠΖ 8 ΣΤΕΡΕΑ ΕΛΛΑΔΑ">EL: ENA TV KE-ΠΖ 8 ΣΤΕΡΕΑ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4810##star-kentrikis-elladas.png" xmltv_id="EL: STAR K.E.-ΠΖ 8 ΣΤΕΡΕΑ ΕΛΛΑΔΑ">EL: STAR K.E.-ΠΖ 8 ΣΤΕΡΕΑ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4830##e-tv.jpg" xmltv_id="EL: E ΤV-ΠΖ 8 ΣΤΕΡΕΑ ΕΛΛΑΔΑ">EL: E ΤV-ΠΖ 8 ΣΤΕΡΕΑ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4900##art-4900.png" xmltv_id="EL: ΑΡΤ-ΠΖ 9 ΑΤΤΙΚΗ">EL: ΑΡΤ-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4910##alert.png" xmltv_id="EL: ALERT-ΠΖ 9 ΑΤΤΙΚΗ">EL: ALERT-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4920##attica-tv.png" xmltv_id="EL: ATTICA-ΠΖ 9 ΑΤΤΙΚΗ">EL: ATTICA-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4930##blue-sky.jpg" xmltv_id="EL: BLUE SKY-ΠΖ 9 ΑΤΤΙΚΗ">EL: BLUE SKY-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4940##one-channel.jpg" xmltv_id="EL: One Channel-ΠΖ 9 ΑΤΤΙΚΗ">EL: One Channel-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4950##extra-channel.jpg" xmltv_id="EL: EXTRA-ΠΖ 9 ΑΤΤΙΚΗ">EL: EXTRA-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##4990##a-epsilon.jpg" xmltv_id="EL: A.EPSILON-ΠΖ 9 ΑΤΤΙΚΗ">EL: A.EPSILON-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5000##action24.jpg" xmltv_id="EL: ACTION 24-ΠΖ 9 ΑΤΤΙΚΗ">EL: ACTION 24-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5010##hight-tv.png" xmltv_id="EL: HIGH TV-ΠΖ 9 ΑΤΤΙΚΗ">EL: HIGH TV-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5020##kontra.jpg" xmltv_id="EL: KONTRA-ΠΖ 9 ΑΤΤΙΚΗ">EL: KONTRA-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5030##mad.jpg" xmltv_id="EL: MAD-ΠΖ 9 ΑΤΤΙΚΗ">EL: MAD-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5040##nickelodeon.jpg" xmltv_id="EL: NICKELODEON-ΠΖ 9 ΑΤΤΙΚΗ">EL: NICKELODEON-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5050##rise-tv.jpg" xmltv_id="EL: RISE TV-ΠΖ 9 ΑΤΤΙΚΗ">EL: RISE TV-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5060##smile.png" xmltv_id="EL: SMILE-ΠΖ 9 ΑΤΤΙΚΗ">EL: SMILE-ΠΖ 9 ΑΤΤΙΚΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5130##alitheia-tv.jpg" xmltv_id="EL: ΑΛΗΘΕΙΑ TV-ΠΖ 13 Β.Α. ΑΙΓΑΙΟ">EL: ΑΛΗΘΕΙΑ TV-ΠΖ 13 Β.Α. ΑΙΓΑΙΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5140##patrida.png" xmltv_id="EL: ΠΑΤΡΙΔΑ TV-ΠΖ 13 Β.Α. ΑΙΓΑΙΟ">EL: ΠΑΤΡΙΔΑ TV-ΠΖ 13 Β.Α. ΑΙΓΑΙΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5150##aeolos.png" xmltv_id="EL: AEOLOS-ΠΖ 13 Β.Α. ΑΙΓΑΙΟ">EL: AEOLOS-ΠΖ 13 Β.Α. ΑΙΓΑΙΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5300##osios-nikanor.jpg" xmltv_id="EL: OCIOC ΝΙΚΑΝΩΡ-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ">EL: OCIOC ΝΙΚΑΝΩΡ-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5310##diktyo1.png" xmltv_id="EL: DIKTYO1-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ">EL: DIKTYO1-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5320##flash-tv.png" xmltv_id="EL: FLASH TV-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ">EL: FLASH TV-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5330##west.jpg" xmltv_id="EL: WEST-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ">EL: WEST-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5350##top-channel.png" xmltv_id="EL: TOP CHANNEL-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ">EL: TOP CHANNEL-ΠΖ 4 ΔΥΤ. ΜΑΚΕΔΟΝΙΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5420##axeloos.jpg" xmltv_id="EL: ΑΧΕΛΩΟΣ-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: ΑΧΕΛΩΟΣ-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5430##vima-tv.png" xmltv_id="EL: ΒΗΜΑ ΤΗΛΕΟΡΑΣΗ-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: ΒΗΜΑ ΤΗΛΕΟΡΑΣΗ-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5440##ipiros-tv1.png" xmltv_id="EL: ΗΠΕΙΡΟΣ TV1-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: ΗΠΕΙΡΟΣ TV1-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5450##art-tv-4490.jpg" xmltv_id="EL: ART TV-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: ART TV-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5460##corfu-tv.png" xmltv_id="EL: CORFU TV-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: CORFU TV-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5470##itv.jpg" xmltv_id="EL: ΙTV-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: ΙTV-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5480##start.jpg" xmltv_id="EL: START-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ">EL: START-ΠΖ 5 ΔΥΤΙΚΗ ΕΛΛΑΔΑ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5570##telekriti.png" xmltv_id="EL: TeleKPHTH-ΠΖ 10 ΚΡΗΤΗ">EL: TeleKPHTH-ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5580##kriti-tv.jpg" xmltv_id="EL: ΚΡΗΤΗTV-ΠΖ 10 ΚΡΗΤΗ">EL: ΚΡΗΤΗTV-ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5590##kriti1.png" xmltv_id="EL: KΡHTH1-ΠΖ 10 ΚΡΗΤΗ">EL: KΡHTH1-ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5600##nea-tileorasi-kritis.png" xmltv_id="EL: ΝΕΑ Τηλεόραση Κρήτης-ΠΖ 10 ΚΡΗΤΗ">EL: ΝΕΑ Τηλεόραση Κρήτης-ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5610##creta-tv.png" xmltv_id="EL: TV CRETA-ΠΖ 10 ΚΡΗΤΗ">EL: TV CRETA-ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5620##notos-tv.jpg" xmltv_id="EL: NOTOS TV-ΠΖ 10 ΚΡΗΤΗ">EL: NOTOS TV-ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5630##sitia-tv.png" xmltv_id="EL: SITIA TV -ΠΖ 10 ΚΡΗΤΗ">EL: SITIA TV -ΠΖ 10 ΚΡΗΤΗ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5720##aigaio.jpg" xmltv_id="EL: ΑΙΓΑΙΟ-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ">EL: ΑΙΓΑΙΟ-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5730##sat.jpg" xmltv_id="EL: ΣΑΤ-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ">EL: ΣΑΤ-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5740##irida.png" xmltv_id="EL: IRIDA-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ">EL: IRIDA-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5750##kos-tv.png" xmltv_id="EL: KOS TV-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ">EL: KOS TV-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5760##tv-kosmos.png" xmltv_id="EL: TV KOSMOS-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ">EL: TV KOSMOS-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5770##tharri.png" xmltv_id="EL: ΘΑΡΡΙ-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ">EL: ΘΑΡΡΙ-ΠΖ 11 ΔΩΔΕΚΑΝΗΣΩΝ ΚΑΙ ΣΑΜΟ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5850##syros-tv.jpg" xmltv_id="EL: SYROS TV1-ΠΖ 12 ΚΥΚΛΑΔΕΣ">EL: SYROS TV1-ΠΖ 12 ΚΥΚΛΑΔΕΣ</channel>
+    <channel update="i" site="digea.gr" site_id="el##5860##volcano.png" xmltv_id="EL: VOLCANO-ΠΖ 12 ΚΥΚΛΑΔΕΣ">EL: VOLCANO-ΠΖ 12 ΚΥΚΛΑΔΕΣ</channel>
+    <channel update="i" site="digea.gr" site_id="en##3100##alpha-tv.png" xmltv_id="EN: ALPHA-NATIONWIDE">EN: ALPHA-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##3200##skai.jpg" xmltv_id="EN: SKAI-NATIONWIDE">EN: SKAI-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##3300##ant1.png" xmltv_id="EN: ANT1-NATIONWIDE">EN: ANT1-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##3400##open.jpg" xmltv_id="EN: OPEN Beyond-NATIONWIDE">EN: OPEN Beyond-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##3500##star.jpg" xmltv_id="EN: STAR-NATIONWIDE">EN: STAR-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##3600##mega.jpg" xmltv_id="EN: MEGA-NATIONWIDE">EN: MEGA-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##3700##makedonia-tv.png" xmltv_id="EN: MAK TV-NATIONWIDE">EN: MAK TV-NATIONWIDE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4020##delta-fv.png" xmltv_id="EN: DELTA TILEORASI-RZ 1 E. MACEDONIA &amp; THRACE">EN: DELTA TILEORASI-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4030##diktyo.jpg" xmltv_id="EN: DIKTYO-RZ 1 E. MACEDONIA &amp; THRACE">EN: DIKTYO-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4040##ena.jpg" xmltv_id="EN: ENA CHANNEL-RZ 1 E. MACEDONIA &amp; THRACE">EN: ENA CHANNEL-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4050##epiloges.png" xmltv_id="EN: EPILOGES-RZ 1 E. MACEDONIA &amp; THRACE">EN: EPILOGES-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4060##thrakinet.jpg" xmltv_id="EN: THRAKI NET-RZ 1 E. MACEDONIA &amp; THRACE">EN: THRAKI NET-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4070##orestiada.jpg" xmltv_id="EN: ORESTIADA-RZ 1 E. MACEDONIA &amp; THRACE">EN: ORESTIADA-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4080##alfa.jpg" xmltv_id="EN: ALFA-RZ 1 E. MACEDONIA &amp; THRACE">EN: ALFA-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4090##center.jpg" xmltv_id="EN: CENTER TILEORASI-RZ 1 E. MACEDONIA &amp; THRACE">EN: CENTER TILEORASI-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4100##next-tv.jpg" xmltv_id="EN: NEXT TV-RZ 1 E. MACEDONIA &amp; THRACE">EN: NEXT TV-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4110##smile-thraki.png" xmltv_id="EN: SMILE-RZ 1 E. MACEDONIA &amp; THRACE">EN: SMILE-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4120##star-voreiou-ellados.png" xmltv_id="EN: STAR VOREIOU ELLADOS-RZ 1 E. MACEDONIA &amp; THRACE">EN: STAR VOREIOU ELLADOS-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4130##tv-rodopi.jpg" xmltv_id="EN: TV RODOPI-RZ 1 E. MACEDONIA &amp; THRACE">EN: TV RODOPI-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4170##lydia.jpg" xmltv_id="EN: LYDIA-RZ 1 E. MACEDONIA &amp; THRACE">EN: LYDIA-RZ 1 E. MACEDONIA &amp; THRACE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4240##vergina.jpg" xmltv_id="EN: VERGINA-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: VERGINA-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4250##atlas.jpg" xmltv_id="EN: ATLAS TELEVISION-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: ATLAS TELEVISION-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4260##dion.jpg" xmltv_id="EN: DION TILEORASI Kentrikis Makedonias-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: DION TILEORASI Kentrikis Makedonias-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4270##eurotv.jpg" xmltv_id="EN: EURO TV-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: EURO TV-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4280##europe1.png" xmltv_id="EN: EUROPE 1-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: EUROPE 1-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4290##gnomi-tv.jpg" xmltv_id="EN: GNOMI TV-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: GNOMI TV-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4300##tv100.jpg" xmltv_id="EN: TV100 THESSALONIKI-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: TV100 THESSALONIKI-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4360##a-epsilon.png" xmltv_id="EN: AE CHANNEL Thessaloniki-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: AE CHANNEL Thessaloniki-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4370##nickelodeon-plus.png" xmltv_id="EN: NICKELODEON+-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: NICKELODEON+-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4380##4e.jpg" xmltv_id="EN: 4E-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI">EN: 4E-RZ 2&amp;3 C. MACEDONIA &amp; HALKIDIKI</channel>
+    <channel update="i" site="digea.gr" site_id="en##4450##lyxnos.jpg" xmltv_id="EN: LYCHNOS-RZ 6 PELOPONNESE">EN: LYCHNOS-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4460##mesogeios.jpg" xmltv_id="EN: MESOGEIOS TILEORASI-RZ 6 PELOPONNESE">EN: MESOGEIOS TILEORASI-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4470##opt-television.jpg" xmltv_id="EN: ORT TELEVISION-RZ 6 PELOPONNESE">EN: ORT TELEVISION-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4490##art-4490.jpg" xmltv_id="EN: ΑRT-RZ 6 PELOPONNESE">EN: ΑRT-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4510##best.png" xmltv_id="EN: BEST-RZ 6 PELOPONNESE">EN: BEST-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4520##ionian.png" xmltv_id="EN: IONIAN-RZ 6 PELOPONNESE">EN: IONIAN-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4530##lepanto.png" xmltv_id="EN: LEPANTO TILEORASI-RZ 6 PELOPONNESE">EN: LEPANTO TILEORASI-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4540##patra-tv.jpg" xmltv_id="EN: Patra tv-RZ 6 PELOPONNESE">EN: Patra tv-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4550##rtp-kentro.png" xmltv_id="EN: RTP KENTRO-RZ 6 PELOPONNESE">EN: RTP KENTRO-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4560##super.jpg" xmltv_id="EN: SUPER-RZ 6 PELOPONNESE">EN: SUPER-RZ 6 PELOPONNESE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4670##thessalia.png" xmltv_id="EN: THESSALIA TILEORASI-RZ 7 THESSALY">EN: THESSALIA TILEORASI-RZ 7 THESSALY</channel>
+    <channel update="i" site="digea.gr" site_id="en##4680##astra.png" xmltv_id="EN: ASTRA TV-RZ 7 THESSALY">EN: ASTRA TV-RZ 7 THESSALY</channel>
+    <channel update="i" site="digea.gr" site_id="en##4690##smile-plus.jpg" xmltv_id="EN: SMILE +-RZ 7 THESSALY">EN: SMILE +-RZ 7 THESSALY</channel>
+    <channel update="i" site="digea.gr" site_id="en##4700##trt.jpg" xmltv_id="EN: TRT-RZ 7 THESSALY">EN: TRT-RZ 7 THESSALY</channel>
+    <channel update="i" site="digea.gr" site_id="en##4710##form-media-tv.jpg" xmltv_id="EN: FORMedia TV.-RZ 7 THESSALY">EN: FORMedia TV.-RZ 7 THESSALY</channel>
+    <channel update="i" site="digea.gr" site_id="en##4800##ena-kentrikis-elladas.jpg" xmltv_id="EN: ENA TV KE-RZ 8 C. GREECE">EN: ENA TV KE-RZ 8 C. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4810##star-kentrikis-elladas.png" xmltv_id="EN: STAR KE-RZ 8 C. GREECE">EN: STAR KE-RZ 8 C. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4830##e-tv.jpg" xmltv_id="EN: E TV-RZ 8 C. GREECE">EN: E TV-RZ 8 C. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##4900##art-4900.png" xmltv_id="EN: ART-RZ 9 ATTICA">EN: ART-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##4910##alert.png" xmltv_id="EN: ALERT-RZ 9 ATTICA">EN: ALERT-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##4920##attica-tv.png" xmltv_id="EN: ATTICA-RZ 9 ATTICA">EN: ATTICA-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##4930##blue-sky.jpg" xmltv_id="EN: BLUESKY-RZ 9 ATTICA">EN: BLUESKY-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##4940##one-channel.jpg" xmltv_id="EN: one channel-RZ 9 ATTICA">EN: one channel-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##4950##extra-channel.jpg" xmltv_id="EN: EXTRA-RZ 9 ATTICA">EN: EXTRA-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##4990##a-epsilon.jpg" xmltv_id="EN: A.EPSILON-RZ 9 ATTICA">EN: A.EPSILON-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5000##action24.jpg" xmltv_id="EN: ACTION 24-RZ 9 ATTICA">EN: ACTION 24-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5010##hight-tv.png" xmltv_id="EN: HIGH TV-RZ 9 ATTICA">EN: HIGH TV-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5020##kontra.jpg" xmltv_id="EN: KONTRA-RZ 9 ATTICA">EN: KONTRA-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5030##mad.jpg" xmltv_id="EN: MAD-RZ 9 ATTICA">EN: MAD-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5040##nickelodeon.jpg" xmltv_id="EN: NICKELODEON-RZ 9 ATTICA">EN: NICKELODEON-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5050##rise-tv.jpg" xmltv_id="EN: RISE TV-RZ 9 ATTICA">EN: RISE TV-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5060##smile.png" xmltv_id="EN: SMILE-RZ 9 ATTICA">EN: SMILE-RZ 9 ATTICA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5130##alitheia-tv.jpg" xmltv_id="EN: ALITHIA TV-RZ 13 NE AEGEAN">EN: ALITHIA TV-RZ 13 NE AEGEAN</channel>
+    <channel update="i" site="digea.gr" site_id="en##5140##patrida.png" xmltv_id="EN: PATRIDA TV-RZ 13 NE AEGEAN">EN: PATRIDA TV-RZ 13 NE AEGEAN</channel>
+    <channel update="i" site="digea.gr" site_id="en##5150##aeolos.png" xmltv_id="EN: AEOLOS-RZ 13 NE AEGEAN">EN: AEOLOS-RZ 13 NE AEGEAN</channel>
+    <channel update="i" site="digea.gr" site_id="en##5300##osios-nikanor.jpg" xmltv_id="EN: OCIOC NIKANOR-RZ 4 W. MACEDONIA">EN: OCIOC NIKANOR-RZ 4 W. MACEDONIA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5310##diktyo1.png" xmltv_id="EN: DIKTYO1-RZ 4 W. MACEDONIA">EN: DIKTYO1-RZ 4 W. MACEDONIA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5320##flash-tv.png" xmltv_id="EN: FLASH TV-RZ 4 W. MACEDONIA">EN: FLASH TV-RZ 4 W. MACEDONIA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5330##west.jpg" xmltv_id="EN: WEST-RZ 4 W. MACEDONIA">EN: WEST-RZ 4 W. MACEDONIA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5350##top-channel.png" xmltv_id="EN: TOP CHANNEL-RZ 4 W. MACEDONIA">EN: TOP CHANNEL-RZ 4 W. MACEDONIA</channel>
+    <channel update="i" site="digea.gr" site_id="en##5420##axeloos.jpg" xmltv_id="EN: ACHELOOS-RZ 5 W. GREECE">EN: ACHELOOS-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5430##vima-tv.png" xmltv_id="EN: VIMA TILEORASI-RZ 5 W. GREECE">EN: VIMA TILEORASI-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5440##ipiros-tv1.png" xmltv_id="EN: EPIRUS TV1-RZ 5 W. GREECE">EN: EPIRUS TV1-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5450##art-tv-4490.jpg" xmltv_id="EN: ART TV-RZ 5 W. GREECE">EN: ART TV-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5460##corfu-tv.png" xmltv_id="EN: CORFU TV-RZ 5 W. GREECE">EN: CORFU TV-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5470##itv.jpg" xmltv_id="EN: ΙTV-RZ 5 W. GREECE">EN: ΙTV-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5480##start.jpg" xmltv_id="EN: START-RZ 5 W. GREECE">EN: START-RZ 5 W. GREECE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5570##telekriti.png" xmltv_id="EN: TeleKPHTH-RZ 10 CRETE">EN: TeleKPHTH-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5580##kriti-tv.jpg" xmltv_id="EN: KRHTH TV-RZ 10 CRETE">EN: KRHTH TV-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5590##kriti1.png" xmltv_id="EN: KΡHTH1-RZ 10 CRETE">EN: KΡHTH1-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5600##nea-tileorasi-kritis.png" xmltv_id="EN: ΝΕΑ Tileorasi Kritis-RZ 10 CRETE">EN: ΝΕΑ Tileorasi Kritis-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5610##creta-tv.png" xmltv_id="EN: TV CRETA-RZ 10 CRETE">EN: TV CRETA-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5620##notos-tv.jpg" xmltv_id="EN: NOTOS TV-RZ 10 CRETE">EN: NOTOS TV-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5630##sitia-tv.png" xmltv_id="EN: SITIA-RZ 10 CRETE">EN: SITIA-RZ 10 CRETE</channel>
+    <channel update="i" site="digea.gr" site_id="en##5720##aigaio.jpg" xmltv_id="EN: AIGAIO-RZ 11 DODECANESE AND SAMOS">EN: AIGAIO-RZ 11 DODECANESE AND SAMOS</channel>
+    <channel update="i" site="digea.gr" site_id="en##5730##sat.jpg" xmltv_id="EN: SAT-RZ 11 DODECANESE AND SAMOS">EN: SAT-RZ 11 DODECANESE AND SAMOS</channel>
+    <channel update="i" site="digea.gr" site_id="en##5740##irida.png" xmltv_id="EN: IRIDA-RZ 11 DODECANESE AND SAMOS">EN: IRIDA-RZ 11 DODECANESE AND SAMOS</channel>
+    <channel update="i" site="digea.gr" site_id="en##5750##kos-tv.png" xmltv_id="EN: KOS TV-RZ 11 DODECANESE AND SAMOS">EN: KOS TV-RZ 11 DODECANESE AND SAMOS</channel>
+    <channel update="i" site="digea.gr" site_id="en##5760##tv-kosmos.png" xmltv_id="EN: TV KOSMOS-RZ 11 DODECANESE AND SAMOS">EN: TV KOSMOS-RZ 11 DODECANESE AND SAMOS</channel>
+    <channel update="i" site="digea.gr" site_id="en##5770##tharri.png" xmltv_id="EN: THARRI-RZ 11 DODECANESE AND SAMOS">EN: THARRI-RZ 11 DODECANESE AND SAMOS</channel>
+    <channel update="i" site="digea.gr" site_id="en##5850##syros-tv.jpg" xmltv_id="EN: SYROS TV1-RZ 12 CYCLADES">EN: SYROS TV1-RZ 12 CYCLADES</channel>
+    <channel update="i" site="digea.gr" site_id="en##5860##volcano.png" xmltv_id="EN: VOLCANO-RZ 12 CYCLADES">EN: VOLCANO-RZ 12 CYCLADES</channel>
   </channels>
 </site>
