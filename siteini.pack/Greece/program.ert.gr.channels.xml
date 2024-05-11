@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.3.3 -- Jan van Straaten" site="program.ert.gr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="program.ert.gr">
   <channels>
-    <channel update="i" site="program.ert.gr" site_id="9" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
-    <channel update="i" site="program.ert.gr" site_id="49" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
-    <channel update="i" site="program.ert.gr" site_id="10" xmltv_id="EΡT3">EΡT3</channel>
-    <channel update="i" site="program.ert.gr" site_id="24" xmltv_id="ΕΡΤ SPORTS HD">ΕΡΤ SPORTS HD</channel>
-    <channel update="i" site="program.ert.gr" site_id="8" xmltv_id="ΒΟΥΛΗ">ΒΟΥΛΗ</channel>
+    <channel update="i" site="program.ert.gr" site_id="Ert1##9" xmltv_id="ΕΡΤ1">ΕΡΤ1</channel>
+    <channel update="i" site="program.ert.gr" site_id="Ert2##49" xmltv_id="ΕΡΤ2">ΕΡΤ2</channel>
+    <channel update="i" site="program.ert.gr" site_id="Ert3##10" xmltv_id="EΡT3">EΡT3</channel>
+    <channel update="i" site="program.ert.gr" site_id="ErtNews##68" xmltv_id="ΕΡΤ NEWS">ΕΡΤ NEWS</channel>
+    <channel update="i" site="program.ert.gr" site_id="ERTSportsHD##11" xmltv_id="ERT World">ERT World</channel>
+    <channel update="i" site="program.ert.gr" site_id="ErtWorld##73" xmltv_id="ERT World Cyprus">ERT World Cyprus</channel>
+    <channel update="i" site="program.ert.gr" site_id="ErtWorldCyprus##8" xmltv_id="ΒΟΥΛΗ">ΒΟΥΛΗ</channel>
   </channels>
 </site>
