@@ -3,11 +3,10 @@
    
   <!-- This is a sample of an almost "ready to go" setup 
 	1. If required set full path for the output guide.xml 
-	2. Add correct decription key for siteini type .EK 
-	3. change your username and mail (used to register on the forum) and password (see license in forum profile) 
-	4. set timespan (number of days) it start with 0 so one week = 6 
-	5. create updated channel list setting <update>c</update> first, then set back to i or f
-	6. Below a setup to run an encrypted siteini and a regular one
+	2. change your username and mail (used to register on the forum) and password (see license in forum profile) 
+	3. set timespan (number of days) it start with 0 so one week = 6 
+	4. create updated channel list setting <update>c</update> first, then set back to i or f
+	5. Below a setup to run an encrypted siteini and a regular one
 	-->
    
   <filename>guide.xml</filename>
