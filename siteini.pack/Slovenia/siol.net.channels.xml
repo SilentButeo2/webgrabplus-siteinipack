@@ -1,329 +1,316 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="siol.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.0 -- Jan van Straaten" site="siol.net">
   <channels>
-    <channel update="i" site="siol.net" site_id="doq" xmltv_id="24Kitchen">24Kitchen</channel>
-    <channel update="i" site="siol.net" site_id="3sat" xmltv_id="3sat">3sat</channel>
-    <channel update="i" site="siol.net" site_id="mgm" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="siol.net" site_id="ard" xmltv_id="ARD">ARD</channel>
-    <channel update="i" site="siol.net" site_id="axn" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="siol.net" site_id="axnspin" xmltv_id="AXN Spin">AXN Spin</channel>
-    <channel update="i" site="siol.net" site_id="aljazeera" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
-    <channel update="i" site="siol.net" site_id="alsatm" xmltv_id="Alsat Macedonia">Alsat Macedonia</channel>
-    <channel update="i" site="siol.net" site_id="animal" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="siol.net" site_id="arte" xmltv_id="Arte">Arte</channel>
-    <channel update="i" site="siol.net" site_id="bbcearth" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel update="i" site="siol.net" site_id="bbcworld" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="siol.net" site_id="bktv" xmltv_id="BK TV">BK TV</channel>
-    <channel update="i" site="siol.net" site_id="bntv" xmltv_id="BN TV">BN TV</channel>
-    <channel update="i" site="siol.net" site_id="babytv" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="siol.net" site_id="bloomberg" xmltv_id="Bloomberg EU TV">Bloomberg EU TV</channel>
-    <channel update="i" site="siol.net" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="siol.net" site_id="brio" xmltv_id="Brio">Brio</channel>
-    <channel update="i" site="siol.net" site_id="reality" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="siol.net" site_id="cmc" xmltv_id="CMC">CMC</channel>
-    <channel update="i" site="siol.net" site_id="cnn" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="siol.net" site_id="cartoon" xmltv_id="Cartoon / TCM">Cartoon / TCM</channel>
-    <channel update="i" site="siol.net" site_id="russia1" xmltv_id="Channel One Russia">Channel One Russia</channel>
-    <channel update="i" site="siol.net" site_id="cinestaraction" xmltv_id="CineStar TV Action &amp; Thriller">CineStar TV Action &amp; Thriller</channel>
-    <channel update="i" site="siol.net" site_id="cinestarpr1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
-    <channel update="i" site="siol.net" site_id="cinestarpr2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
-    <channel update="i" site="siol.net" site_id="cinemax1" xmltv_id="Cinemax">Cinemax</channel>
-    <channel update="i" site="siol.net" site_id="cinemax2" xmltv_id="Cinemax 2">Cinemax 2</channel>
-    <channel update="i" site="siol.net" site_id="cinestartv" xmltv_id="Cinestar">Cinestar</channel>
-    <channel update="i" site="siol.net" site_id="comedycentral" xmltv_id="Comedy central">Comedy central</channel>
-    <channel update="i" site="siol.net" site_id="dtx" xmltv_id="DTX">DTX</channel>
-    <channel update="i" site="siol.net" site_id="davincilear" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
-    <channel update="i" site="siol.net" site_id="discovery" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="siol.net" site_id="discoveryhd" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
-    <channel update="i" site="siol.net" site_id="discidx" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
-    <channel update="i" site="siol.net" site_id="discsci" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="siol.net" site_id="disctlc" xmltv_id="Discovery TLC">Discovery TLC</channel>
-    <channel update="i" site="siol.net" site_id="disney" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="siol.net" site_id="jetix" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="siol.net" site_id="hallmark" xmltv_id="Diva">Diva</channel>
-    <channel update="i" site="siol.net" site_id="drfit" xmltv_id="Dr. Fit">Dr. Fit</channel>
-    <channel update="i" site="siol.net" site_id="duna" xmltv_id="Duna TV">Duna TV</channel>
-    <channel update="i" site="siol.net" site_id="eeurope" xmltv_id="E!">E!</channel>
-    <channel update="i" site="siol.net" site_id="eltatv" xmltv_id="ELTA TV">ELTA TV</channel>
-    <channel update="i" site="siol.net" site_id="ewtn" xmltv_id="EWTN">EWTN</channel>
-    <channel update="i" site="siol.net" site_id="alternativa" xmltv_id="Elta 2">Elta 2</channel>
-    <channel update="i" site="siol.net" site_id="epicdrama" xmltv_id="Epic Drama">Epic Drama</channel>
-    <channel update="i" site="siol.net" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="siol.net" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="siol.net" site_id="exodustv" xmltv_id="Exodus TV">Exodus TV</channel>
-    <channel update="i" site="siol.net" site_id="extreme" xmltv_id="Extreme TV">Extreme TV</channel>
-    <channel update="i" site="siol.net" site_id="fox" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="siol.net" site_id="foxcrime" xmltv_id="FOX Crime">FOX Crime</channel>
-    <channel update="i" site="siol.net" site_id="foxlife" xmltv_id="FOX Life">FOX Life</channel>
-    <channel update="i" site="siol.net" site_id="foxmovies" xmltv_id="FOX Movies">FOX Movies</channel>
-    <channel update="i" site="siol.net" site_id="ftv" xmltv_id="FTV">FTV</channel>
-    <channel update="i" site="siol.net" site_id="fashion" xmltv_id="Fashion TV">Fashion TV</channel>
-    <channel update="i" site="siol.net" site_id="france24" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel update="i" site="siol.net" site_id="ginx" xmltv_id="Ginx">Ginx</channel>
-    <channel update="i" site="siol.net" site_id="gold" xmltv_id="Gold TV">Gold TV</channel>
-    <channel update="i" site="siol.net" site_id="grand1" xmltv_id="Grand 1">Grand 1</channel>
-    <channel update="i" site="siol.net" site_id="grand2" xmltv_id="Grand 2">Grand 2</channel>
-    <channel update="i" site="siol.net" site_id="hbo" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="siol.net" site_id="hbo2" xmltv_id="HBO 2">HBO 2</channel>
-    <channel update="i" site="siol.net" site_id="hbo3" xmltv_id="HBO 3">HBO 3</channel>
-    <channel update="i" site="siol.net" site_id="hrt1" xmltv_id="HRT 1">HRT 1</channel>
-    <channel update="i" site="siol.net" site_id="hrt2" xmltv_id="HRT 2">HRT 2</channel>
-    <channel update="i" site="siol.net" site_id="hrt3" xmltv_id="HRT 3">HRT 3</channel>
-    <channel update="i" site="siol.net" site_id="happy" xmltv_id="Happy TV">Happy TV</channel>
-    <channel update="i" site="siol.net" site_id="hayat" xmltv_id="Hayat">Hayat</channel>
-    <channel update="i" site="siol.net" site_id="historych" xmltv_id="History Channel">History Channel</channel>
-    <channel update="i" site="siol.net" site_id="jabukatv" xmltv_id="Jabuka (OTV)">Jabuka (OTV)</channel>
-    <channel update="i" site="siol.net" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
-    <channel update="i" site="siol.net" site_id="jugotontv" xmltv_id="Jugoton">Jugoton</channel>
-    <channel update="i" site="siol.net" site_id="kcn" xmltv_id="KCN">KCN</channel>
-    <channel update="i" site="siol.net" site_id="kcnm" xmltv_id="KCN Music">KCN Music</channel>
-    <channel update="i" site="siol.net" site_id="kohavision" xmltv_id="KOHAVISION">KOHAVISION</channel>
-    <channel update="i" site="siol.net" site_id="kabel1" xmltv_id="Kabel 1">Kabel 1</channel>
-    <channel update="i" site="siol.net" site_id="kanal5" xmltv_id="Kanal 5">Kanal 5</channel>
-    <channel update="i" site="siol.net" site_id="akanal" xmltv_id="Kanal A">Kanal A</channel>
-    <channel update="i" site="siol.net" site_id="popkino" xmltv_id="Kino">Kino</channel>
-    <channel update="i" site="siol.net" site_id="klasiktv" xmltv_id="Klasik TV">Klasik TV</channel>
-    <channel update="i" site="siol.net" site_id="loviribolov" xmltv_id="Lov in ribolov">Lov in ribolov</channel>
-    <channel update="i" site="siol.net" site_id="mktv1" xmltv_id="MTV 1">MTV 1</channel>
-    <channel update="i" site="siol.net" site_id="mktv2" xmltv_id="MTV 2">MTV 2</channel>
-    <channel update="i" site="siol.net" site_id="mtvdance" xmltv_id="MTV Dance">MTV Dance</channel>
-    <channel update="i" site="siol.net" site_id="mtvh" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="siol.net" site_id="mtv2" xmltv_id="MTV Rocks">MTV Rocks</channel>
-    <channel update="i" site="siol.net" site_id="mediainter" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
-    <channel update="i" site="siol.net" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
-    <channel update="i" site="siol.net" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="siol.net" site_id="motorvisiontv" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
-    <channel update="i" site="siol.net" site_id="n1" xmltv_id="N1">N1</channel>
-    <channel update="i" site="siol.net" site_id="net" xmltv_id="NET TV">NET TV</channel>
-    <channel update="i" site="siol.net" site_id="kakanj" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
-    <channel update="i" site="siol.net" site_id="narodna" xmltv_id="Narodna TV">Narodna TV</channel>
-    <channel update="i" site="siol.net" site_id="natgeo" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="siol.net" site_id="natgeow" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="siol.net" site_id="yachtsail" xmltv_id="Nautical Channel">Nautical Channel</channel>
-    <channel update="i" site="siol.net" site_id="nickleodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="siol.net" site_id="nova24tv" xmltv_id="Nova 24 TV">Nova 24 TV</channel>
-    <channel update="i" site="siol.net" site_id="nova24tv2" xmltv_id="Nova 24 TV 2">Nova 24 TV 2</channel>
-    <channel update="i" site="siol.net" site_id="novatv" xmltv_id="Nova TV">Nova TV</channel>
-    <channel update="i" site="siol.net" site_id="b92" xmltv_id="O2 TV">O2 TV</channel>
-    <channel update="i" site="siol.net" site_id="obnbosna" xmltv_id="OBN">OBN</channel>
-    <channel update="i" site="siol.net" site_id="orf1" xmltv_id="ORF 1">ORF 1</channel>
-    <channel update="i" site="siol.net" site_id="orf2" xmltv_id="ORF 2">ORF 2</channel>
-    <channel update="i" site="siol.net" site_id="popoto" xmltv_id="OTO">OTO</channel>
-    <channel update="i" site="siol.net" site_id="outdoor" xmltv_id="Outdoor">Outdoor</channel>
-    <channel update="i" site="siol.net" site_id="pinkslo" xmltv_id="PINK SI">PINK SI</channel>
-    <channel update="i" site="siol.net" site_id="poptv" xmltv_id="POP TV">POP TV</channel>
-    <channel update="i" site="siol.net" site_id="prvasrb" xmltv_id="PRVA Srbska TV">PRVA Srbska TV</channel>
-    <channel update="i" site="siol.net" site_id="okbambino" xmltv_id="Pikaboo">Pikaboo</channel>
-    <channel update="i" site="siol.net" site_id="pink2" xmltv_id="Pink 2">Pink 2</channel>
-    <channel update="i" site="siol.net" site_id="pinkextra" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel update="i" site="siol.net" site_id="pinkfamily" xmltv_id="Pink Family">Pink Family</channel>
-    <channel update="i" site="siol.net" site_id="pinkfilm" xmltv_id="Pink Film">Pink Film</channel>
-    <channel update="i" site="siol.net" site_id="pinkfolk" xmltv_id="Pink Folk">Pink Folk</channel>
-    <channel update="i" site="siol.net" site_id="pinkkids" xmltv_id="Pink Kids">Pink Kids</channel>
-    <channel update="i" site="siol.net" site_id="pinkmovie" xmltv_id="Pink Movies">Pink Movies</channel>
-    <channel update="i" site="siol.net" site_id="pinkmusic" xmltv_id="Pink Music">Pink Music</channel>
-    <channel update="i" site="siol.net" site_id="pink" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="siol.net" site_id="pinkreality" xmltv_id="Pink Reality">Pink Reality</channel>
-    <channel update="i" site="siol.net" site_id="pinkworld" xmltv_id="Pink World">Pink World</channel>
-    <channel update="i" site="siol.net" site_id="pinkzabava" xmltv_id="Pink Zabava">Pink Zabava</channel>
-    <channel update="i" site="siol.net" site_id="planettv" xmltv_id="Planet">Planet</channel>
-    <channel update="i" site="siol.net" site_id="planet2" xmltv_id="Planet 2">Planet 2</channel>
-    <channel update="i" site="siol.net" site_id="planetplus" xmltv_id="Planet PLUS">Planet PLUS</channel>
-    <channel update="i" site="siol.net" site_id="pro7" xmltv_id="Pro7">Pro7</channel>
-    <channel update="i" site="siol.net" site_id="ptujtv" xmltv_id="Ptujska TV">Ptujska TV</channel>
-    <channel update="i" site="siol.net" site_id="rai1" xmltv_id="RAI 1">RAI 1</channel>
-    <channel update="i" site="siol.net" site_id="rai2" xmltv_id="RAI 2">RAI 2</channel>
-    <channel update="i" site="siol.net" site_id="rai3" xmltv_id="RAI 3">RAI 3</channel>
-    <channel update="i" site="siol.net" site_id="rtcg" xmltv_id="RT Crna gora">RT Crna gora</channel>
-    <channel update="i" site="siol.net" site_id="rts" xmltv_id="RT Srbija">RT Srbija</channel>
-    <channel update="i" site="siol.net" site_id="rtl" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="siol.net" site_id="rtlhrvatska2" xmltv_id="RTL 2 Hrvaška">RTL 2 Hrvaška</channel>
-    <channel update="i" site="siol.net" site_id="rtlhrvatska" xmltv_id="RTL Hrvaška">RTL Hrvaška</channel>
-    <channel update="i" site="siol.net" site_id="rtl2" xmltv_id="RTL II">RTL II</channel>
-    <channel update="i" site="siol.net" site_id="rtlliving" xmltv_id="RTL Living">RTL Living</channel>
-    <channel update="i" site="siol.net" site_id="rtrs" xmltv_id="RTRS">RTRS</channel>
-    <channel update="i" site="siol.net" site_id="rts1" xmltv_id="RTS 1">RTS 1</channel>
-    <channel update="i" site="siol.net" site_id="rts2" xmltv_id="RTS 2">RTS 2</channel>
-    <channel update="i" site="siol.net" site_id="rtsm" xmltv_id="RTS Maribor">RTS Maribor</channel>
-    <channel update="i" site="siol.net" site_id="russiatoday" xmltv_id="Russia Today">Russia Today</channel>
-    <channel update="i" site="siol.net" site_id="sat1" xmltv_id="SAT 1">SAT 1</channel>
-    <channel update="i" site="siol.net" site_id="scifi" xmltv_id="SciFi">SciFi</channel>
-    <channel update="i" site="siol.net" site_id="sitel3" xmltv_id="Sitel 3">Sitel 3</channel>
-    <channel update="i" site="siol.net" site_id="sportkl" xmltv_id="Sport Klub 1">Sport Klub 1</channel>
-    <channel update="i" site="siol.net" site_id="sportklubp" xmltv_id="Sport Klub 2">Sport Klub 2</channel>
-    <channel update="i" site="siol.net" site_id="sportklubprime" xmltv_id="Sport Klub 3">Sport Klub 3</channel>
-    <channel update="i" site="siol.net" site_id="sk4" xmltv_id="Sport Klub 4">Sport Klub 4</channel>
-    <channel update="i" site="siol.net" site_id="sk5" xmltv_id="Sport Klub 5">Sport Klub 5</channel>
-    <channel update="i" site="siol.net" site_id="sk6" xmltv_id="Sport Klub 6">Sport Klub 6</channel>
-    <channel update="i" site="siol.net" site_id="dsf" xmltv_id="Sport1">Sport1</channel>
-    <channel update="i" site="siol.net" site_id="sportklubgolf" xmltv_id="Sportklub Golf">Sportklub Golf</channel>
-    <channel update="i" site="siol.net" site_id="sundancetv" xmltv_id="Sundance TV">Sundance TV</channel>
-    <channel update="i" site="siol.net" site_id="superrtl" xmltv_id="Super RTL">Super RTL</channel>
-    <channel update="i" site="siol.net" site_id="tv1" xmltv_id="TV 1">TV 1</channel>
-    <channel update="i" site="siol.net" site_id="tv1000" xmltv_id="TV 1000">TV 1000</channel>
-    <channel update="i" site="siol.net" site_id="atlas" xmltv_id="TV Atlas">TV Atlas</channel>
-    <channel update="i" site="siol.net" site_id="dugans" xmltv_id="TV Duga Novi sad">TV Duga Novi sad</channel>
-    <channel update="i" site="siol.net" site_id="istra" xmltv_id="TV Istra">TV Istra</channel>
-    <channel update="i" site="siol.net" site_id="jadran" xmltv_id="TV Jadran">TV Jadran</channel>
-    <channel update="i" site="siol.net" site_id="koper" xmltv_id="TV Koper Capodistria">TV Koper Capodistria</channel>
     <channel update="i" site="siol.net" site_id="slo1" xmltv_id="TV SLO 1">TV SLO 1</channel>
     <channel update="i" site="siol.net" site_id="slo2" xmltv_id="TV SLO 2">TV SLO 2</channel>
-    <channel update="i" site="siol.net" site_id="slo3" xmltv_id="TV SLO 3">TV SLO 3</channel>
-    <channel update="i" site="siol.net" site_id="sarajevo" xmltv_id="TV Sarajevo">TV Sarajevo</channel>
-    <channel update="i" site="siol.net" site_id="sitel" xmltv_id="TV Sitel">TV Sitel</channel>
-    <channel update="i" site="siol.net" site_id="spbeograd" xmltv_id="TV Svet Plus Beograd">TV Svet Plus Beograd</channel>
-    <channel update="i" site="siol.net" site_id="paprika" xmltv_id="TV Veseljak">TV Veseljak</channel>
-    <channel update="i" site="siol.net" site_id="pinksi" xmltv_id="TV3 Medias">TV3 Medias</channel>
-    <channel update="i" site="siol.net" site_id="tv5" xmltv_id="TV5MONDE">TV5MONDE</channel>
-    <channel update="i" site="siol.net" site_id="tve" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="siol.net" site_id="telem" xmltv_id="Tele Maribor">Tele Maribor</channel>
-    <channel update="i" site="siol.net" site_id="telma" xmltv_id="Telma TV">Telma TV</channel>
-    <channel update="i" site="siol.net" site_id="infotv" xmltv_id="Top TV">Top TV</channel>
-    <channel update="i" site="siol.net" site_id="tracesport" xmltv_id="Trace Sport">Trace Sport</channel>
-    <channel update="i" site="siol.net" site_id="trace" xmltv_id="Trace Urban">Trace Urban</channel>
-    <channel update="i" site="siol.net" site_id="travel" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="siol.net" site_id="tring7" xmltv_id="Tring 7">Tring 7</channel>
-    <channel update="i" site="siol.net" site_id="tringm" xmltv_id="Tring Max">Tring Max</channel>
-    <channel update="i" site="siol.net" site_id="trings" xmltv_id="Tring Shiqip">Tring Shiqip</channel>
-    <channel update="i" site="siol.net" site_id="tringt" xmltv_id="Tring Tring">Tring Tring</channel>
-    <channel update="i" site="siol.net" site_id="tringvp" xmltv_id="Tring Vizion+">Tring Vizion+</channel>
-    <channel update="i" site="siol.net" site_id="vh1" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="siol.net" site_id="vh1cla" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel update="i" site="siol.net" site_id="vox" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="siol.net" site_id="explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="siol.net" site_id="poptv" xmltv_id="POP TV">POP TV</channel>
+    <channel update="i" site="siol.net" site_id="akanal" xmltv_id="Kanal A">Kanal A</channel>
+    <channel update="i" site="siol.net" site_id="planettv" xmltv_id="Planet">Planet</channel>
+    <channel update="i" site="siol.net" site_id="arenapremium" xmltv_id="Arena Sport 1 Premium">Arena Sport 1 Premium</channel>
+    <channel update="i" site="siol.net" site_id="arenaslo1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel update="i" site="siol.net" site_id="eurosport" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="siol.net" site_id="discoveryhdd" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="siol.net" site_id="natgeo" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="siol.net" site_id="fox" xmltv_id="STAR Channel">STAR Channel</channel>
+    <channel update="i" site="siol.net" site_id="foxlife" xmltv_id="STAR Life">STAR Life</channel>
+    <channel update="i" site="siol.net" site_id="planet2" xmltv_id="Planet 2">Planet 2</channel>
+    <channel update="i" site="siol.net" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="siol.net" site_id="dizi" xmltv_id="Dizi">Dizi</channel>
+    <channel update="i" site="siol.net" site_id="carlitv" xmltv_id="Veseljak Golica">Veseljak Golica</channel>
+    <channel update="i" site="siol.net" site_id="gold" xmltv_id="Gold TV">Gold TV</channel>
+    <channel update="i" site="siol.net" site_id="arenatv" xmltv_id="Arena TV">Arena TV</channel>
+    <channel update="i" site="siol.net" site_id="tvpetelin" xmltv_id="AKTUAL TV">AKTUAL TV</channel>
+    <channel update="i" site="siol.net" site_id="natgeow" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="siol.net" site_id="animalhd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="siol.net" site_id="disctlc" xmltv_id="Discovery TLC">Discovery TLC</channel>
+    <channel update="i" site="siol.net" site_id="discidx" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
+    <channel update="i" site="siol.net" site_id="doxtv" xmltv_id="DOX TV">DOX TV</channel>
+    <channel update="i" site="siol.net" site_id="travelxphd" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel update="i" site="siol.net" site_id="travelxp4k" xmltv_id="Travelxp 4K">Travelxp 4K</channel>
+    <channel update="i" site="siol.net" site_id="planetearthsd" xmltv_id="Planet Earth">Planet Earth</channel>
+    <channel update="i" site="siol.net" site_id="docubox" xmltv_id="DocuBox">DocuBox</channel>
     <channel update="i" site="siol.net" site_id="history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="siol.net" site_id="bbcearth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="siol.net" site_id="historych" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="siol.net" site_id="h2" xmltv_id="H2">H2</channel>
+    <channel update="i" site="siol.net" site_id="davincilear" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="siol.net" site_id="travel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="siol.net" site_id="vianature" xmltv_id="Viasat Nature">Viasat Nature</channel>
-    <channel update="i" site="siol.net" site_id="vikom" xmltv_id="Vikom">Vikom</channel>
+    <channel update="i" site="siol.net" site_id="explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="siol.net" site_id="curiosity" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel update="i" site="siol.net" site_id="balkantrip" xmltv_id="Balkan trip">Balkan trip</channel>
+    <channel update="i" site="siol.net" site_id="hbo2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="siol.net" site_id="hbo3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="siol.net" site_id="cinemax1" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="siol.net" site_id="cinemax2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="siol.net" site_id="foxcrime" xmltv_id="STAR Crime">STAR Crime</channel>
+    <channel update="i" site="siol.net" site_id="foxmovies" xmltv_id="STAR Movies">STAR Movies</channel>
+    <channel update="i" site="siol.net" site_id="pickboxtv" xmltv_id="Pickbox TV">Pickbox TV</channel>
+    <channel update="i" site="siol.net" site_id="tv1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="siol.net" site_id="popkino" xmltv_id="Kino">Kino</channel>
+    <channel update="i" site="siol.net" site_id="brio" xmltv_id="Brio">Brio</channel>
+    <channel update="i" site="siol.net" site_id="cinestartv" xmltv_id="Cinestar TV 1">Cinestar TV 1</channel>
+    <channel update="i" site="siol.net" site_id="cinestartv2" xmltv_id="Cinestar TV 2">Cinestar TV 2</channel>
+    <channel update="i" site="siol.net" site_id="cinestaraction" xmltv_id="CineStar TV Action &amp; Thriller">CineStar TV Action &amp; Thriller</channel>
+    <channel update="i" site="siol.net" site_id="cinestarfantasy" xmltv_id="Cinestar Fantasy">Cinestar Fantasy</channel>
+    <channel update="i" site="siol.net" site_id="cinestarpr1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
+    <channel update="i" site="siol.net" site_id="cinestarpr2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+    <channel update="i" site="siol.net" site_id="bbcfirsthd_" xmltv_id="BBC First HD">BBC First HD</channel>
+    <channel update="i" site="siol.net" site_id="klasiktv" xmltv_id="Klasik">Klasik</channel>
+    <channel update="i" site="siol.net" site_id="mgm" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="siol.net" site_id="hallmark" xmltv_id="Diva">Diva</channel>
+    <channel update="i" site="siol.net" site_id="pinkserije" xmltv_id="Pink Serije">Pink Serije</channel>
+    <channel update="i" site="siol.net" site_id="pinkfilm" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="siol.net" site_id="epicdrama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="siol.net" site_id="scifi" xmltv_id="SciFi">SciFi</channel>
+    <channel update="i" site="siol.net" site_id="filmbox_premium" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="siol.net" site_id="filmbox_extra" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="siol.net" site_id="filmbox_stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="siol.net" site_id="doq" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="siol.net" site_id="kitchentv" xmltv_id="Kitchen TV">Kitchen TV</channel>
+    <channel update="i" site="siol.net" site_id="eeurope" xmltv_id="E!">E!</channel>
+    <channel update="i" site="siol.net" site_id="planetplus" xmltv_id="Planet Eva">Planet Eva</channel>
+    <channel update="i" site="siol.net" site_id="pinksi" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="siol.net" site_id="fashionhd" xmltv_id="Fashion HD">Fashion HD</channel>
+    <channel update="i" site="siol.net" site_id="fashion" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="siol.net" site_id="drfit" xmltv_id="Dr. Fit">Dr. Fit</channel>
     <channel update="i" site="siol.net" site_id="woman" xmltv_id="Woman">Woman</channel>
-    <channel update="i" site="siol.net" site_id="z1" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
-    <channel update="i" site="siol.net" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="siol.net" site_id="zdrava" xmltv_id="Zdrava TV">Zdrava TV</channel>
+    <channel update="i" site="siol.net" site_id="arte" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="siol.net" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="siol.net" site_id="rtl2" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="siol.net" site_id="superrtl" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="siol.net" site_id="kabel1" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel update="i" site="siol.net" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="siol.net" site_id="sat1" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="siol.net" site_id="pro7" xmltv_id="Pro7">Pro7</channel>
+    <channel update="i" site="siol.net" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="siol.net" site_id="ntv" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="siol.net" site_id="tve" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="siol.net" site_id="tv5" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="siol.net" site_id="mediainter" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel update="i" site="siol.net" site_id="infotv" xmltv_id="Top TV">Top TV</channel>
+    <channel update="i" site="siol.net" site_id="pinkslo" xmltv_id="PINK SI">PINK SI</channel>
+    <channel update="i" site="siol.net" site_id="ewtn" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="siol.net" site_id="lhtv" xmltv_id="LH TV HD">LH TV HD</channel>
+    <channel update="i" site="siol.net" site_id="pink" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="siol.net" site_id="pinkzabava" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel update="i" site="siol.net" site_id="pinkreality" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="siol.net" site_id="pinkshow" xmltv_id="Pink Show">Pink Show</channel>
+    <channel update="i" site="siol.net" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="siol.net" site_id="happy_puppy" xmltv_id="Happy Puppy">Happy Puppy</channel>
+    <channel update="i" site="siol.net" site_id="dogtv" xmltv_id="Dog TV">Dog TV</channel>
+    <channel update="i" site="siol.net" site_id="filmbox_arthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+    <channel update="i" site="siol.net" site_id="fashionbox" xmltv_id="FashionBox">FashionBox</channel>
+    <channel update="i" site="siol.net" site_id="fast_and_funbox" xmltv_id="Fast and FunBox">Fast and FunBox</channel>
+    <channel update="i" site="siol.net" site_id="funbox" xmltv_id="FunBox">FunBox</channel>
+    <channel update="i" site="siol.net" site_id="museumhd" xmltv_id="Museum HD">Museum HD</channel>
+    <channel update="i" site="siol.net" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="siol.net" site_id="popoto" xmltv_id="OTO">OTO</channel>
+    <channel update="i" site="siol.net" site_id="babytv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="siol.net" site_id="nickleodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="siol.net" site_id="cartoon" xmltv_id="Cartoon">Cartoon</channel>
+    <channel update="i" site="siol.net" site_id="boomerang" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="siol.net" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="siol.net" site_id="disney" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="siol.net" site_id="disneyjr" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="siol.net" site_id="nickjr1" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="siol.net" site_id="nicktoons" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="siol.net" site_id="rtlkockica_" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel update="i" site="siol.net" site_id="arenaslo2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="siol.net" site_id="arenaslo3" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
+    <channel update="i" site="siol.net" site_id="arenaslo4" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
     <channel update="i" site="siol.net" site_id="sporttv" xmltv_id="Šport TV 1">Šport TV 1</channel>
     <channel update="i" site="siol.net" site_id="sporttv2" xmltv_id="Šport TV 2">Šport TV 2</channel>
     <channel update="i" site="siol.net" site_id="sporttv3" xmltv_id="Šport TV 3">Šport TV 3</channel>
-    <channel update="i" site="siol.net" site_id="dokumentarni" xmltv_id="Dokumentarni">Dokumentarni</channel>
-    <channel update="i" site="siol.net" site_id="film" xmltv_id="Film">Film</channel>
-    <channel update="i" site="siol.net" site_id="informativni" xmltv_id="Informativni">Informativni</channel>
-    <channel update="i" site="siol.net" site_id="izobrazevalni" xmltv_id="Izobraževalni">Izobraževalni</channel>
-    <channel update="i" site="siol.net" site_id="kulturno-umetniski" xmltv_id="Kulturno-umetniški">Kulturno-umetniški</channel>
-    <channel update="i" site="siol.net" site_id="nadaljevanka" xmltv_id="Nadaljevanka">Nadaljevanka</channel>
-    <channel update="i" site="siol.net" site_id="nanizanka" xmltv_id="Nanizanka">Nanizanka</channel>
-    <channel update="i" site="siol.net" site_id="neznan" xmltv_id="Neznan">Neznan</channel>
-    <channel update="i" site="siol.net" site_id="otroski-in-mladinski" xmltv_id="Otroški in mladinski">Otroški in mladinski</channel>
-    <channel update="i" site="siol.net" site_id="pogovorni" xmltv_id="Pogovorni">Pogovorni</channel>
-    <channel update="i" site="siol.net" site_id="politika" xmltv_id="Politika">Politika</channel>
-    <channel update="i" site="siol.net" site_id="propagandni-program" xmltv_id="Propagandni program">Propagandni program</channel>
-    <channel update="i" site="siol.net" site_id="razvedrilni" xmltv_id="Razvedrilni">Razvedrilni</channel>
-    <channel update="i" site="siol.net" site_id="verski" xmltv_id="Verski">Verski</channel>
-    <channel update="i" site="siol.net" site_id="za-odrasle" xmltv_id="Za odrasle">Za odrasle</channel>
-    <channel update="i" site="siol.net" site_id="sport" xmltv_id="Šport">Šport</channel>
-    <channel update="i" site="siol.net" site_id="akcija" xmltv_id="Akcija">Akcija</channel>
-    <channel update="i" site="siol.net" site_id="ameriski-nogomet" xmltv_id="Ameriški nogomet">Ameriški nogomet</channel>
-    <channel update="i" site="siol.net" site_id="animirani" xmltv_id="Animirani">Animirani</channel>
-    <channel update="i" site="siol.net" site_id="atletika" xmltv_id="Atletika">Atletika</channel>
-    <channel update="i" site="siol.net" site_id="avto-moto-sporti" xmltv_id="Avto-moto športi">Avto-moto športi</channel>
-    <channel update="i" site="siol.net" site_id="badminton" xmltv_id="Badminton">Badminton</channel>
-    <channel update="i" site="siol.net" site_id="biatlon" xmltv_id="Biatlon">Biatlon</channel>
-    <channel update="i" site="siol.net" site_id="biljard" xmltv_id="Biljard">Biljard</channel>
-    <channel update="i" site="siol.net" site_id="biografija" xmltv_id="Biografija">Biografija</channel>
-    <channel update="i" site="siol.net" site_id="boks" xmltv_id="Boks">Boks</channel>
-    <channel update="i" site="siol.net" site_id="borilni-sporti" xmltv_id="Borilni športi">Borilni športi</channel>
-    <channel update="i" site="siol.net" site_id="deskanje-na-snegu" xmltv_id="Deskanje na snegu">Deskanje na snegu</channel>
-    <channel update="i" site="siol.net" site_id="dnevno-informativna-oddaja" xmltv_id="Dnevno-informativna oddaja">Dnevno-informativna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="domisljiski" xmltv_id="Domišljiski">Domišljiski</channel>
-    <channel update="i" site="siol.net" site_id="drama" xmltv_id="Drama">Drama</channel>
-    <channel update="i" site="siol.net" site_id="drsanje" xmltv_id="Drsanje">Drsanje</channel>
-    <channel update="i" site="siol.net" site_id="drugi-sporti" xmltv_id="Drugi športi">Drugi športi</channel>
-    <channel update="i" site="siol.net" site_id="druzboslovje" xmltv_id="Družboslovje">Družboslovje</channel>
-    <channel update="i" site="siol.net" site_id="druzinski" xmltv_id="Družinski">Družinski</channel>
-    <channel update="i" site="siol.net" site_id="ekstremni-sporti" xmltv_id="Ekstremni športi">Ekstremni športi</channel>
-    <channel update="i" site="siol.net" site_id="eroticni" xmltv_id="Erotični">Erotični</channel>
-    <channel update="i" site="siol.net" site_id="formula-1" xmltv_id="Formula 1">Formula 1</channel>
-    <channel update="i" site="siol.net" site_id="gimnastika" xmltv_id="Gimnastika">Gimnastika</channel>
-    <channel update="i" site="siol.net" site_id="glasba" xmltv_id="Glasba">Glasba</channel>
-    <channel update="i" site="siol.net" site_id="golf" xmltv_id="Golf">Golf</channel>
-    <channel update="i" site="siol.net" site_id="gospodarstvo" xmltv_id="Gospodarstvo">Gospodarstvo</channel>
-    <channel update="i" site="siol.net" site_id="grozljivka" xmltv_id="Grozljivka">Grozljivka</channel>
-    <channel update="i" site="siol.net" site_id="hokej" xmltv_id="Hokej">Hokej</channel>
-    <channel update="i" site="siol.net" site_id="humoristicni" xmltv_id="Humoristični">Humoristični</channel>
-    <channel update="i" site="siol.net" site_id="igre-na-sreco" xmltv_id="Igre na srečo">Igre na srečo</channel>
-    <channel update="i" site="siol.net" site_id="infokanal" xmltv_id="Infokanal">Infokanal</channel>
-    <channel update="i" site="siol.net" site_id="informativna-oddaja" xmltv_id="Informativna oddaja">Informativna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="intervju" xmltv_id="Intervju">Intervju</channel>
-    <channel update="i" site="siol.net" site_id="izobrazevalna-oddaja" xmltv_id="Izobraževalna oddaja">Izobraževalna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="jadranje" xmltv_id="Jadranje">Jadranje</channel>
-    <channel update="i" site="siol.net" site_id="knjizevnost" xmltv_id="Književnost">Književnost</channel>
-    <channel update="i" site="siol.net" site_id="kolesarstvo" xmltv_id="Kolesarstvo">Kolesarstvo</channel>
-    <channel update="i" site="siol.net" site_id="komedija" xmltv_id="Komedija">Komedija</channel>
-    <channel update="i" site="siol.net" site_id="koncert" xmltv_id="Koncert">Koncert</channel>
-    <channel update="i" site="siol.net" site_id="konjenistvo" xmltv_id="Konjeništvo">Konjeništvo</channel>
-    <channel update="i" site="siol.net" site_id="kontaktna-oddaja" xmltv_id="Kontaktna oddaja">Kontaktna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="kosarka" xmltv_id="Košarka">Košarka</channel>
-    <channel update="i" site="siol.net" site_id="kratki" xmltv_id="Kratki">Kratki</channel>
-    <channel update="i" site="siol.net" site_id="kriminalka" xmltv_id="Kriminalka">Kriminalka</channel>
-    <channel update="i" site="siol.net" site_id="kuharska-oddaja" xmltv_id="Kuharska oddaja">Kuharska oddaja</channel>
-    <channel update="i" site="siol.net" site_id="kultura" xmltv_id="Kultura">Kultura</channel>
-    <channel update="i" site="siol.net" site_id="kviz" xmltv_id="Kviz">Kviz</channel>
-    <channel update="i" site="siol.net" site_id="magazin" xmltv_id="Magazin">Magazin</channel>
-    <channel update="i" site="siol.net" site_id="misterij" xmltv_id="Misterij">Misterij</channel>
-    <channel update="i" site="siol.net" site_id="moda" xmltv_id="Moda">Moda</channel>
-    <channel update="i" site="siol.net" site_id="motokros" xmltv_id="Motokros">Motokros</channel>
-    <channel update="i" site="siol.net" site_id="muzikal" xmltv_id="Muzikal">Muzikal</channel>
-    <channel update="i" site="siol.net" site_id="namizni-tenis" xmltv_id="Namizni tenis">Namizni tenis</channel>
-    <channel update="i" site="siol.net" site_id="napovedniki" xmltv_id="Napovedniki">Napovedniki</channel>
-    <channel update="i" site="siol.net" site_id="naravoslovje" xmltv_id="Naravoslovje">Naravoslovje</channel>
-    <channel update="i" site="siol.net" site_id="nogomet" xmltv_id="Nogomet">Nogomet</channel>
-    <channel update="i" site="siol.net" site_id="notranje-politicna-oddaja" xmltv_id="Notranje politična oddaja">Notranje politična oddaja</channel>
-    <channel update="i" site="siol.net" site_id="odbojka" xmltv_id="Odbojka">Odbojka</channel>
-    <channel update="i" site="siol.net" site_id="oglasi" xmltv_id="Oglasi">Oglasi</channel>
-    <channel update="i" site="siol.net" site_id="omizje" xmltv_id="Omizje">Omizje</channel>
-    <channel update="i" site="siol.net" site_id="opera" xmltv_id="Opera">Opera</channel>
-    <channel update="i" site="siol.net" site_id="ostalo" xmltv_id="Ostalo">Ostalo</channel>
-    <channel update="i" site="siol.net" site_id="otroska-ali-mladinska-serija" xmltv_id="Otroška ali mladinska serija">Otroška ali mladinska serija</channel>
-    <channel update="i" site="siol.net" site_id="otroska-oddaja" xmltv_id="Otroška oddaja">Otroška oddaja</channel>
-    <channel update="i" site="siol.net" site_id="otroski-ali-mladinski-film" xmltv_id="Otroški ali mladinski film">Otroški ali mladinski film</channel>
-    <channel update="i" site="siol.net" site_id="plavanje" xmltv_id="Plavanje">Plavanje</channel>
-    <channel update="i" site="siol.net" site_id="ples" xmltv_id="Ples">Ples</channel>
-    <channel update="i" site="siol.net" site_id="pogovorna-oddaja" xmltv_id="Pogovorna oddaja">Pogovorna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="poker" xmltv_id="Poker">Poker</channel>
-    <channel update="i" site="siol.net" site_id="poljudnoznanstvena-oddaja" xmltv_id="Poljudnoznanstvena oddaja">Poljudnoznanstvena oddaja</channel>
-    <channel update="i" site="siol.net" site_id="potopis" xmltv_id="Potopis">Potopis</channel>
-    <channel update="i" site="siol.net" site_id="predstava" xmltv_id="Predstava">Predstava</channel>
-    <channel update="i" site="siol.net" site_id="prireditev" xmltv_id="Prireditev">Prireditev</channel>
-    <channel update="i" site="siol.net" site_id="promet" xmltv_id="Promet">Promet</channel>
-    <channel update="i" site="siol.net" site_id="proslava" xmltv_id="Proslava">Proslava</channel>
-    <channel update="i" site="siol.net" site_id="pustolovscina" xmltv_id="Pustolovščina">Pustolovščina</channel>
-    <channel update="i" site="siol.net" site_id="ragbi" xmltv_id="Ragbi">Ragbi</channel>
-    <channel update="i" site="siol.net" site_id="reportaza" xmltv_id="Reportaža">Reportaža</channel>
-    <channel update="i" site="siol.net" site_id="resnicnostna-tv" xmltv_id="Resničnostna TV">Resničnostna TV</channel>
-    <channel update="i" site="siol.net" site_id="risanka" xmltv_id="Risanka">Risanka</channel>
-    <channel update="i" site="siol.net" site_id="rokomet" xmltv_id="Rokomet">Rokomet</channel>
-    <channel update="i" site="siol.net" site_id="romanticen" xmltv_id="Romantičen">Romantičen</channel>
-    <channel update="i" site="siol.net" site_id="romanticna-komedija" xmltv_id="Romantična komedija">Romantična komedija</channel>
-    <channel update="i" site="siol.net" site_id="smucanje" xmltv_id="Smučanje">Smučanje</channel>
-    <channel update="i" site="siol.net" site_id="smucarski-skoki" xmltv_id="Smučarski skoki">Smučarski skoki</channel>
-    <channel update="i" site="siol.net" site_id="smucarski-teki" xmltv_id="Smučarski teki">Smučarski teki</channel>
-    <channel update="i" site="siol.net" site_id="srhljivka" xmltv_id="Srhljivka">Srhljivka</channel>
-    <channel update="i" site="siol.net" site_id="supermoto" xmltv_id="Supermoto">Supermoto</channel>
-    <channel update="i" site="siol.net" site_id="svetovalna-oddaja" xmltv_id="Svetovalna oddaja">Svetovalna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="tv-prodaja" xmltv_id="TV prodaja">TV prodaja</channel>
-    <channel update="i" site="siol.net" site_id="tehnika" xmltv_id="Tehnika">Tehnika</channel>
-    <channel update="i" site="siol.net" site_id="telenovela" xmltv_id="Telenovela">Telenovela</channel>
-    <channel update="i" site="siol.net" site_id="tenis" xmltv_id="Tenis">Tenis</channel>
-    <channel update="i" site="siol.net" site_id="triler" xmltv_id="Triler">Triler</channel>
-    <channel update="i" site="siol.net" site_id="umetnost" xmltv_id="Umetnost">Umetnost</channel>
-    <channel update="i" site="siol.net" site_id="vaterpolo" xmltv_id="Vaterpolo">Vaterpolo</channel>
-    <channel update="i" site="siol.net" site_id="verska-oddaja" xmltv_id="Verska oddaja">Verska oddaja</channel>
-    <channel update="i" site="siol.net" site_id="verski-obred" xmltv_id="Verski obred">Verski obred</channel>
-    <channel update="i" site="siol.net" site_id="veslanje" xmltv_id="Veslanje">Veslanje</channel>
-    <channel update="i" site="siol.net" site_id="vestern" xmltv_id="Vestern">Vestern</channel>
-    <channel update="i" site="siol.net" site_id="vojni" xmltv_id="Vojni">Vojni</channel>
-    <channel update="i" site="siol.net" site_id="vreme" xmltv_id="Vreme">Vreme</channel>
-    <channel update="i" site="siol.net" site_id="vzgojna-oddaja" xmltv_id="Vzgojna oddaja">Vzgojna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="zabavna-oddaja" xmltv_id="Zabavna oddaja">Zabavna oddaja</channel>
-    <channel update="i" site="siol.net" site_id="zgodovina" xmltv_id="Zgodovina">Zgodovina</channel>
-    <channel update="i" site="siol.net" site_id="zgodovinski" xmltv_id="Zgodovinski">Zgodovinski</channel>
-    <channel update="i" site="siol.net" site_id="znanstvena-fantastika" xmltv_id="Znanstvena fantastika">Znanstvena fantastika</channel>
-    <channel update="i" site="siol.net" site_id="solska-oddaja" xmltv_id="Šolska oddaja">Šolska oddaja</channel>
+    <channel update="i" site="siol.net" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="siol.net" site_id="arenafight" xmltv_id="Arena Fight">Arena Fight</channel>
+    <channel update="i" site="siol.net" site_id="tvarenaesport" xmltv_id="Arena eSport">Arena eSport</channel>
+    <channel update="i" site="siol.net" site_id="gametoon" xmltv_id="Gametoon">Gametoon</channel>
+    <channel update="i" site="siol.net" site_id="fightbox" xmltv_id="FightBox">FightBox</channel>
+    <channel update="i" site="siol.net" site_id="extreme" xmltv_id="Extreme TV">Extreme TV</channel>
+    <channel update="i" site="siol.net" site_id="motorvisiontv" xmltv_id="Motorvision+">Motorvision+</channel>
+    <channel update="i" site="siol.net" site_id="tracesport" xmltv_id="Trace Sport">Trace Sport</channel>
+    <channel update="i" site="siol.net" site_id="yachtsail" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="siol.net" site_id="pinkfolk2" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
+    <channel update="i" site="siol.net" site_id="pinkkoncert" xmltv_id="Pink Koncert">Pink Koncert</channel>
+    <channel update="i" site="siol.net" site_id="pinknroll" xmltv_id="Pink'n'Roll">Pink'n'Roll</channel>
+    <channel update="i" site="siol.net" site_id="mtvlivehd" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="siol.net" site_id="vh1" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="siol.net" site_id="cmc" xmltv_id="CMC">CMC</channel>
+    <channel update="i" site="siol.net" site_id="jugotontv" xmltv_id="Jugoton">Jugoton</channel>
+    <channel update="i" site="siol.net" site_id="mtvh" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="siol.net" site_id="mtvdance" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="siol.net" site_id="trace" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="siol.net" site_id="mtv2" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="siol.net" site_id="vh1cla" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="siol.net" site_id="pinkmusic" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="siol.net" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="siol.net" site_id="dmtv" xmltv_id="DM SAT">DM SAT</channel>
+    <channel update="i" site="siol.net" site_id="pinkextra" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="siol.net" site_id="pinkfolk" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="siol.net" site_id="adria" xmltv_id="Adria">Adria</channel>
+    <channel update="i" site="siol.net" site_id="folx" xmltv_id="Folx">Folx</channel>
+    <channel update="i" site="siol.net" site_id="oneadria" xmltv_id="One Adria">One Adria</channel>
+    <channel update="i" site="siol.net" site_id="mezzolivehd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="siol.net" site_id="tvgolica" xmltv_id="TV Zlati zvoki">TV Zlati zvoki</channel>
+    <channel update="i" site="siol.net" site_id="prvatvhd" xmltv_id="PRVA TV">PRVA TV</channel>
+    <channel update="i" site="siol.net" site_id="paprika" xmltv_id="BEST TV">BEST TV</channel>
+    <channel update="i" site="siol.net" site_id="360_tunebox" xmltv_id="360 TuneBox">360 TuneBox</channel>
+    <channel update="i" site="siol.net" site_id="tv8" xmltv_id="Tv8">Tv8</channel>
+    <channel update="i" site="siol.net" site_id="net" xmltv_id="NET TV">NET TV</channel>
+    <channel update="i" site="siol.net" site_id="vaskanal" xmltv_id="Vaš kanal">Vaš kanal</channel>
+    <channel update="i" site="siol.net" site_id="ptujtv" xmltv_id="Ptujska TV">Ptujska TV</channel>
+    <channel update="i" site="siol.net" site_id="siptv" xmltv_id="SIP TV">SIP TV</channel>
+    <channel update="i" site="siol.net" site_id="tvas" xmltv_id="TV As">TV As</channel>
+    <channel update="i" site="siol.net" site_id="rtsm" xmltv_id="RTS Maribor">RTS Maribor</channel>
+    <channel update="i" site="siol.net" site_id="vtv" xmltv_id="VTV">VTV</channel>
+    <channel update="i" site="siol.net" site_id="bktv" xmltv_id="BK TV">BK TV</channel>
+    <channel update="i" site="siol.net" site_id="tvcelje" xmltv_id="TV Celje">TV Celje</channel>
+    <channel update="i" site="siol.net" site_id="ideatv" xmltv_id="Kanal 10 / Idea TV">Kanal 10 / Idea TV</channel>
+    <channel update="i" site="siol.net" site_id="galejatv" xmltv_id="TV Galeja HD">TV Galeja HD</channel>
+    <channel update="i" site="siol.net" site_id="ansattv" xmltv_id="ePosavje TV">ePosavje TV</channel>
+    <channel update="i" site="siol.net" site_id="exodustv" xmltv_id="Exodus TV">Exodus TV</channel>
+    <channel update="i" site="siol.net" site_id="megafontv" xmltv_id="Megafon TV HD">Megafon TV HD</channel>
+    <channel update="i" site="siol.net" site_id="koroskatv" xmltv_id="KOROŠKA TV">KOROŠKA TV</channel>
+    <channel update="i" site="siol.net" site_id="zdravatv" xmltv_id="Zdrava TV">Zdrava TV</channel>
+    <channel update="i" site="siol.net" site_id="atmtvkg" xmltv_id="ATM TV Kranjska Gora HD">ATM TV Kranjska Gora HD</channel>
+    <channel update="i" site="siol.net" site_id="tvradgona" xmltv_id="TV Radgona">TV Radgona</channel>
+    <channel update="i" site="siol.net" site_id="tvnakupihd" xmltv_id="TV nakupi HD">TV nakupi HD</channel>
+    <channel update="i" site="siol.net" site_id="ljtv" xmltv_id="Ljubljana TV HD">Ljubljana TV HD</channel>
+    <channel update="i" site="siol.net" site_id="rkanalp" xmltv_id="R Kanal+">R Kanal+</channel>
+    <channel update="i" site="siol.net" site_id="orontv" xmltv_id="Oron TV">Oron TV</channel>
+    <channel update="i" site="siol.net" site_id="tvormoz" xmltv_id="Tv Ormož HD">Tv Ormož HD</channel>
+    <channel update="i" site="siol.net" site_id="tvmiklavzhd" xmltv_id="TV Miklavž HD">TV Miklavž HD</channel>
+    <channel update="i" site="siol.net" site_id="tvbeltinci" xmltv_id="TV Beltinci">TV Beltinci</channel>
+    <channel update="i" site="siol.net" site_id="savinjskatv" xmltv_id="Savinjska TV">Savinjska TV</channel>
+    <channel update="i" site="siol.net" site_id="tvvascom" xmltv_id="TV Vascom">TV Vascom</channel>
+    <channel update="i" site="siol.net" site_id="etv" xmltv_id="ETV HD">ETV HD</channel>
+    <channel update="i" site="siol.net" site_id="vitel" xmltv_id="Vitel">Vitel</channel>
+    <channel update="i" site="siol.net" site_id="kictvhd" xmltv_id="KIC TV">KIC TV</channel>
+    <channel update="i" site="siol.net" site_id="trzictv" xmltv_id="Tržič TV">Tržič TV</channel>
+    <channel update="i" site="siol.net" site_id="slo3" xmltv_id="TV SLO 3">TV SLO 3</channel>
+    <channel update="i" site="siol.net" site_id="nova24tv" xmltv_id="Nova 24 TV">Nova 24 TV</channel>
+    <channel update="i" site="siol.net" site_id="nova24tv2" xmltv_id="Nova 24 TV 2">Nova 24 TV 2</channel>
+    <channel update="i" site="siol.net" site_id="koper" xmltv_id="TV Koper Capodistria">TV Koper Capodistria</channel>
+    <channel update="i" site="siol.net" site_id="telem" xmltv_id="Tele Maribor">Tele Maribor</channel>
+    <channel update="i" site="siol.net" site_id="hrt1" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="siol.net" site_id="hrt2" xmltv_id="HRT 2">HRT 2</channel>
+    <channel update="i" site="siol.net" site_id="hrt3" xmltv_id="HRT 3">HRT 3</channel>
+    <channel update="i" site="siol.net" site_id="obnbosna" xmltv_id="OBN">OBN</channel>
+    <channel update="i" site="siol.net" site_id="rts" xmltv_id="RT Srbija HD">RT Srbija HD</channel>
+    <channel update="i" site="siol.net" site_id="rtcg" xmltv_id="MNE">MNE</channel>
+    <channel update="i" site="siol.net" site_id="rtk" xmltv_id="RTK">RTK</channel>
+    <channel update="i" site="siol.net" site_id="aljazeera" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel update="i" site="siol.net" site_id="hayat" xmltv_id="Hayat">Hayat</channel>
+    <channel update="i" site="siol.net" site_id="eltatv" xmltv_id="ELTA TV">ELTA TV</channel>
+    <channel update="i" site="siol.net" site_id="bntv" xmltv_id="BN TV 2">BN TV 2</channel>
+    <channel update="i" site="siol.net" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="siol.net" site_id="bbcworld" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="siol.net" site_id="skynews" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="siol.net" site_id="bloombergadria" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
+    <channel update="i" site="siol.net" site_id="rai1" xmltv_id="RAI 1">RAI 1</channel>
+    <channel update="i" site="siol.net" site_id="france24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="siol.net" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="siol.net" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="siol.net" site_id="foxnews" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="siol.net" site_id="orf1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="siol.net" site_id="orf2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="siol.net" site_id="rai2" xmltv_id="RAI 2">RAI 2</channel>
+    <channel update="i" site="siol.net" site_id="rai3" xmltv_id="RAI 3">RAI 3</channel>
+    <channel update="i" site="siol.net" site_id="duna" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="siol.net" site_id="enaplusena" xmltv_id="1+1 International">1+1 International</channel>
+    <channel update="i" site="siol.net" site_id="domkino" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel update="i" site="siol.net" site_id="telecafe" xmltv_id="Telecafe">Telecafe</channel>
+    <channel update="i" site="siol.net" site_id="vremya" xmltv_id="Vremya">Vremya</channel>
+    <channel update="i" site="siol.net" site_id="muzpervogo" xmltv_id="Muzika Pervogo">Muzika Pervogo</channel>
+    <channel update="i" site="siol.net" site_id="karousel" xmltv_id="Karousel">Karousel</channel>
+    <channel update="i" site="siol.net" site_id="ict" xmltv_id="ICTbusiness TV">ICTbusiness TV</channel>
+    <channel update="i" site="siol.net" site_id="rtlhrvatska2" xmltv_id="RTL 2 Hrvaška">RTL 2 Hrvaška</channel>
+    <channel update="i" site="siol.net" site_id="rtlhrvatska" xmltv_id="RTL Hrvaška">RTL Hrvaška</channel>
+    <channel update="i" site="siol.net" site_id="rtlliving" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="siol.net" site_id="otvv" xmltv_id="OTV Valentino">OTV Valentino</channel>
+    <channel update="i" site="siol.net" site_id="tring7" xmltv_id="Tring 7">Tring 7</channel>
+    <channel update="i" site="siol.net" site_id="tringm" xmltv_id="Tring Max">Tring Max</channel>
+    <channel update="i" site="siol.net" site_id="trings" xmltv_id="Tring Shqip">Tring Shqip</channel>
+    <channel update="i" site="siol.net" site_id="tringt" xmltv_id="Tring Tring">Tring Tring</channel>
+    <channel update="i" site="siol.net" site_id="tringvp" xmltv_id="Tring Vizion+">Tring Vizion+</channel>
+    <channel update="i" site="siol.net" site_id="prvamax" xmltv_id="TV Prva Max">TV Prva Max</channel>
+    <channel update="i" site="siol.net" site_id="prvaworld" xmltv_id="TV Prva World">TV Prva World</channel>
+    <channel update="i" site="siol.net" site_id="alternativa" xmltv_id="Elta 2">Elta 2</channel>
+    <channel update="i" site="siol.net" site_id="ftv" xmltv_id="FTV">FTV</channel>
+    <channel update="i" site="siol.net" site_id="kakanj" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
+    <channel update="i" site="siol.net" site_id="folkp" xmltv_id="Folk Plus">Folk Plus</channel>
+    <channel update="i" site="siol.net" site_id="rtrs" xmltv_id="RTRS">RTRS</channel>
+    <channel update="i" site="siol.net" site_id="tv1" xmltv_id="O Kanal">O Kanal</channel>
+    <channel update="i" site="siol.net" site_id="sarajevo" xmltv_id="TV Sarajevo">TV Sarajevo</channel>
+    <channel update="i" site="siol.net" site_id="zdrava" xmltv_id="Zdrava Televizija">Zdrava Televizija</channel>
+    <channel update="i" site="siol.net" site_id="prvafiles" xmltv_id="TV Prva Files">TV Prva Files</channel>
+    <channel update="i" site="siol.net" site_id="prvakick" xmltv_id="TV Prva Kick">TV Prva Kick</channel>
+    <channel update="i" site="siol.net" site_id="prvaplus" xmltv_id="TV Prva Plus">TV Prva Plus</channel>
+    <channel update="i" site="siol.net" site_id="jabukatv" xmltv_id="Jabuka (OTV)">Jabuka (OTV)</channel>
+    <channel update="i" site="siol.net" site_id="narodna" xmltv_id="Narodna TV">Narodna TV</channel>
+    <channel update="i" site="siol.net" site_id="istra" xmltv_id="TV RI">TV RI</channel>
+    <channel update="i" site="siol.net" site_id="jadran" xmltv_id="TV Jadran">TV Jadran</channel>
+    <channel update="i" site="siol.net" site_id="z1" xmltv_id="Z1 Televizija">Z1 Televizija</channel>
+    <channel update="i" site="siol.net" site_id="alfa" xmltv_id="Alfa TV">Alfa TV</channel>
+    <channel update="i" site="siol.net" site_id="alsatm" xmltv_id="Alsat Macedonia">Alsat Macedonia</channel>
+    <channel update="i" site="siol.net" site_id="soncetv" xmltv_id="Sonce TV">Sonce TV</channel>
+    <channel update="i" site="siol.net" site_id="happyreality1" xmltv_id="Happy Reality 1">Happy Reality 1</channel>
+    <channel update="i" site="siol.net" site_id="mktv1" xmltv_id="MTV 1">MTV 1</channel>
+    <channel update="i" site="siol.net" site_id="mktv2" xmltv_id="MTV 2">MTV 2</channel>
+    <channel update="i" site="siol.net" site_id="mktv3" xmltv_id="MTV 3">MTV 3</channel>
+    <channel update="i" site="siol.net" site_id="nasatv" xmltv_id="NAŠA TV">NAŠA TV</channel>
+    <channel update="i" site="siol.net" site_id="happyreality2" xmltv_id="Happy Reality 2">Happy Reality 2</channel>
+    <channel update="i" site="siol.net" site_id="bir" xmltv_id="BIR">BIR</channel>
+    <channel update="i" site="siol.net" site_id="sitel" xmltv_id="TV Sitel">TV Sitel</channel>
+    <channel update="i" site="siol.net" site_id="b92" xmltv_id="B92">B92</channel>
+    <channel update="i" site="siol.net" site_id="prvalife" xmltv_id="TV Prva Life">TV Prva Life</channel>
+    <channel update="i" site="siol.net" site_id="happy" xmltv_id="Happy TV">Happy TV</channel>
+    <channel update="i" site="siol.net" site_id="vikom" xmltv_id="Vikom">Vikom</channel>
+    <channel update="i" site="siol.net" site_id="kcn" xmltv_id="KCN 1">KCN 1</channel>
+    <channel update="i" site="siol.net" site_id="kcnm" xmltv_id="KCN 2 (music)">KCN 2 (music)</channel>
+    <channel update="i" site="siol.net" site_id="prvasrb" xmltv_id="PRVA Srbska TV">PRVA Srbska TV</channel>
+    <channel update="i" site="siol.net" site_id="rts1" xmltv_id="RTS 1">RTS 1</channel>
+    <channel update="i" site="siol.net" site_id="rts2" xmltv_id="RTS 2">RTS 2</channel>
+    <channel update="i" site="siol.net" site_id="dugans" xmltv_id="TV Duga Novi sad">TV Duga Novi sad</channel>
+    <channel update="i" site="siol.net" site_id="spbeograd" xmltv_id="KCN 3 (svet+)">KCN 3 (svet+)</channel>
+    <channel update="i" site="siol.net" site_id="bht1_" xmltv_id="BHT1">BHT1</channel>
+    <channel update="i" site="siol.net" site_id="eltahd" xmltv_id="ELTA HD">ELTA HD</channel>
+    <channel update="i" site="siol.net" site_id="hema" xmltv_id="Hema">Hema</channel>
+    <channel update="i" site="siol.net" site_id="rtcg2" xmltv_id="RTCG 2">RTCG 2</channel>
+    <channel update="i" site="siol.net" site_id="slontv" xmltv_id="SLON TV extra">SLON TV extra</channel>
+    <channel update="i" site="siol.net" site_id="24vesti" xmltv_id="TV Vijesti">TV Vijesti</channel>
+    <channel update="i" site="siol.net" site_id="24urm" xmltv_id="Televizija 24">Televizija 24</channel>
+    <channel update="i" site="siol.net" site_id="glamhd" xmltv_id="Glam HD">Glam HD</channel>
+    <channel update="i" site="siol.net" site_id="foxydollshd" xmltv_id="Foxy Dolls HD">Foxy Dolls HD</channel>
+    <channel update="i" site="siol.net" site_id="extremede" xmltv_id="Extrem">Extrem</channel>
+    <channel update="i" site="siol.net" site_id="hotpleasure" xmltv_id="Hot Pleasure">Hot Pleasure</channel>
+    <channel update="i" site="siol.net" site_id="balkan" xmltv_id="Balkan Erotic">Balkan Erotic</channel>
+    <channel update="i" site="siol.net" site_id="playboytv" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="siol.net" site_id="spice" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="siol.net" site_id="dorcel" xmltv_id="Dorcel TV HD">Dorcel TV HD</channel>
+    <channel update="i" site="siol.net" site_id="dorcelhd" xmltv_id="Dorcel XXX HD">Dorcel XXX HD</channel>
+    <channel update="i" site="siol.net" site_id="hustlerhd" xmltv_id="Hustler TV HD">Hustler TV HD</channel>
+    <channel update="i" site="siol.net" site_id="private" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="siol.net" site_id="superonehd" xmltv_id="Super One HD">Super One HD</channel>
+    <channel update="i" site="siol.net" site_id="dusktv" xmltv_id="Dusk TV">Dusk TV</channel>
+    <channel update="i" site="siol.net" site_id="satisfactionitaly" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="siol.net" site_id="sctprive" xmltv_id="CentoXCento">CentoXCento</channel>
+    <channel update="i" site="siol.net" site_id="sct" xmltv_id="Vivid Red HD">Vivid Red HD</channel>
+    <channel update="i" site="siol.net" site_id="freex" xmltv_id="Pinko club">Pinko club</channel>
+    <channel update="i" site="siol.net" site_id="vividtouch" xmltv_id="Vivid Touch">Vivid Touch</channel>
+    <channel update="i" site="siol.net" site_id="sexation" xmltv_id="Sexation">Sexation</channel>
+    <channel update="i" site="siol.net" site_id="rkings" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
+    <channel update="i" site="siol.net" site_id="hustler" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="siol.net" site_id="hotxxl" xmltv_id="Hot XXL">Hot XXL</channel>
+    <channel update="i" site="siol.net" site_id="passionxxxhd" xmltv_id="Passion XXX HD">Passion XXX HD</channel>
+    <channel update="i" site="siol.net" site_id="erox" xmltv_id="Erox">Erox</channel>
+    <channel update="i" site="siol.net" site_id="eroxxx" xmltv_id="Eroxxx">Eroxxx</channel>
+    <channel update="i" site="siol.net" site_id="devilshomehd" xmltv_id="Devils Home HD">Devils Home HD</channel>
+    <channel update="i" site="siol.net" site_id="capableholehd" xmltv_id="Capable Hole HD">Capable Hole HD</channel>
+    <channel update="i" site="siol.net" site_id="boobhd" xmltv_id="BooB HD">BooB HD</channel>
+    <channel update="i" site="siol.net" site_id="angelshd" xmltv_id="Angels HD">Angels HD</channel>
+    <channel update="i" site="siol.net" site_id="mixxxhd" xmltv_id="MIXXX HD">MIXXX HD</channel>
+    <channel update="i" site="siol.net" site_id="xxxtazyhd" xmltv_id="XXXTAZY HD">XXXTAZY HD</channel>
   </channels>
 </site>
