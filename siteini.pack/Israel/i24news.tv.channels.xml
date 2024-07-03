@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.27 -- Jan van Straaten" site="i24news.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.0 -- Jan van Straaten" site="i24news.tv">
   <channels>
-    <channel update="i" site="i24news.tv" site_id="i24" xmltv_id="I24 News">I24 News</channel>
+    <channel update="i" site="i24news.tv" site_id="ar" xmltv_id="i24news Arabic">i24news Arabic</channel>
+    <channel update="i" site="i24news.tv" site_id="en" xmltv_id="i24news English">i24news English</channel>
+    <channel update="i" site="i24news.tv" site_id="fr" xmltv_id="i24news French">i24news French</channel>
+    <channel update="i" site="i24news.tv" site_id="he" xmltv_id="i24news Ebrew">i24news Ebrew</channel>
   </channels>
 </site>
