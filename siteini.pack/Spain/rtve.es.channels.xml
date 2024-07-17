@@ -1,15 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.1.7 -- Jan van Straaten" site="rtve.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.2 -- Jan van Straaten" site="rtve.es">
   <channels>
-    <channel update="i" site="rtve.es" site_id="canal-1" xmltv_id="1">1</channel>
-    <channel update="i" site="rtve.es" site_id="canal-1-can" xmltv_id="1 Canarias">1 Canarias</channel>
-    <channel update="i" site="rtve.es" site_id="canal-1-cat" xmltv_id="1 Catalunya">1 Catalunya</channel>
-    <channel update="i" site="rtve.es" site_id="canal-2" xmltv_id="2">2</channel>
-    <channel update="i" site="rtve.es" site_id="canal-2-can" xmltv_id="2 Canarias">2 Canarias</channel>
-    <channel update="i" site="rtve.es" site_id="canal-2-cat" xmltv_id="2 Catalunya">2 Catalunya</channel>
-    <channel update="i" site="rtve.es" site_id="canal-24" xmltv_id="24">24</channel>
-    <channel update="i" site="rtve.es" site_id="canal-24-cat" xmltv_id="24 Catalunya">24 Catalunya</channel>
-    <channel update="i" site="rtve.es" site_id="canal-clan" xmltv_id="clan">clan</channel>
-    <channel update="i" site="rtve.es" site_id="canal-tdp" xmltv_id="tdp">tdp</channel>
+    <channel update="i" site="rtve.es" site_id="##la1" xmltv_id="La 1">La 1</channel>
+    <channel update="i" site="rtve.es" site_id="##la2" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="rtve.es" site_id="##tdp" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="rtve.es" site_id="##24h" xmltv_id="24 horas">24 horas</channel>
+    <channel update="i" site="rtve.es" site_id="##clan" xmltv_id="Clan">Clan</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##la1" xmltv_id="La 1 Cataluña">La 1 Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##la2" xmltv_id="La 2 Cataluña">La 2 Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##24h" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="canarias##la1" xmltv_id="La 1 Canarias">La 1 Canarias</channel>
+    <channel update="i" site="rtve.es" site_id="canarias##la2" xmltv_id="La 2 Canarias">La 2 Canarias</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##play" xmltv_id="Somos Cine">Somos Cine</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playep" xmltv_id="De Series">De Series</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playpr" xmltv_id="Cuéntame">Cuéntame</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playcri" xmltv_id="Los Conciertos de Radio 3">Los Conciertos de Radio 3</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playdoc" xmltv_id="De Viajes">De Viajes</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playm1" xmltv_id="La Promesa">La Promesa</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playm2" xmltv_id="4 Estrellas">4 Estrellas</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##playm3" xmltv_id="Eurovisión">Eurovisión</channel>
   </channels>
 </site>
