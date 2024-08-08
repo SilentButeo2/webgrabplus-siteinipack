@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="telekom.cz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.4 -- Jan van Straaten" site="telekom.cz">
   <channels>
     <channel update="i" site="telekom.cz" site_id="4303" xmltv_id="360Tune box HD">360Tune box HD</channel>
     <channel update="i" site="telekom.cz" site_id="4516" xmltv_id=":24 HD">:24 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="6106" xmltv_id="A11">A11</channel>
     <channel update="i" site="telekom.cz" site_id="6083" xmltv_id="AMC HD">AMC HD</channel>
     <channel update="i" site="telekom.cz" site_id="4478" xmltv_id="ARD">ARD</channel>
     <channel update="i" site="telekom.cz" site_id="44" xmltv_id="AXN">AXN</channel>
@@ -10,9 +11,11 @@
     <channel update="i" site="telekom.cz" site_id="6010" xmltv_id="AXN White">AXN White</channel>
     <channel update="i" site="telekom.cz" site_id="6038" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="telekom.cz" site_id="6102" xmltv_id="Arena Sport 1 HD">Arena Sport 1 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4591" xmltv_id="Arena Sport 2 HD">Arena Sport 2 HD</channel>
     <channel update="i" site="telekom.cz" site_id="4474" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="telekom.cz" site_id="4504" xmltv_id="Auto Motor Sport HD">Auto Motor Sport HD</channel>
     <channel update="i" site="telekom.cz" site_id="4495" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4601" xmltv_id="BBC First HD">BBC First HD</channel>
     <channel update="i" site="telekom.cz" site_id="6067" xmltv_id="BBC News">BBC News</channel>
     <channel update="i" site="telekom.cz" site_id="4468" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="telekom.cz" site_id="4569" xmltv_id="Barrandov Krimi HD">Barrandov Krimi HD</channel>
@@ -20,20 +23,19 @@
     <channel update="i" site="telekom.cz" site_id="6068" xmltv_id="Bloomberg Eu">Bloomberg Eu</channel>
     <channel update="i" site="telekom.cz" site_id="4492" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
     <channel update="i" site="telekom.cz" site_id="4565" xmltv_id="CANAL+ Action HD">CANAL+ Action HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4560" xmltv_id="CANAL+ Sport 2 HD">CANAL+ Sport 2 HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4561" xmltv_id="CANAL+ Sport 3 HD">CANAL+ Sport 3 HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4562" xmltv_id="CANAL+ Sport 4 HD">CANAL+ Sport 4 HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4563" xmltv_id="CANAL+ Sport 5 HD">CANAL+ Sport 5 HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4564" xmltv_id="CANAL+ Sport 6 HD">CANAL+ Sport 6 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4560" xmltv_id="CANAL+ Sport 4 HD">CANAL+ Sport 4 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4561" xmltv_id="CANAL+ Sport 5 HD">CANAL+ Sport 5 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4562" xmltv_id="CANAL+ Sport 6 HD">CANAL+ Sport 6 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4563" xmltv_id="CANAL+ Sport 7 HD">CANAL+ Sport 7 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4564" xmltv_id="CANAL+ Sport 8 HD">CANAL+ Sport 8 HD</channel>
     <channel update="i" site="telekom.cz" site_id="4559" xmltv_id="CANAL+ Sport HD">CANAL+ Sport HD</channel>
     <channel update="i" site="telekom.cz" site_id="4475" xmltv_id="CNBC">CNBC</channel>
     <channel update="i" site="telekom.cz" site_id="6070" xmltv_id="CNN Intl. Europe">CNN Intl. Europe</channel>
     <channel update="i" site="telekom.cz" site_id="6115" xmltv_id="CNN Prima News HD">CNN Prima News HD</channel>
-    <channel update="i" site="telekom.cz" site_id="29" xmltv_id="CS Film-CS Horror">CS Film-CS Horror</channel>
+    <channel update="i" site="telekom.cz" site_id="4583" xmltv_id="CS Film-CS Horror HD">CS Film-CS Horror HD</channel>
     <channel update="i" site="telekom.cz" site_id="6082" xmltv_id="CS History">CS History</channel>
     <channel update="i" site="telekom.cz" site_id="6048" xmltv_id="CS Mystery">CS Mystery</channel>
     <channel update="i" site="telekom.cz" site_id="6069" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
-    <channel update="i" site="telekom.cz" site_id="6079" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="telekom.cz" site_id="4313" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
     <channel update="i" site="telekom.cz" site_id="4582" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
     <channel update="i" site="telekom.cz" site_id="6091" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
@@ -46,19 +48,20 @@
     <channel update="i" site="telekom.cz" site_id="6104" xmltv_id="ČT JM HD">ČT JM HD</channel>
     <channel update="i" site="telekom.cz" site_id="6103" xmltv_id="ČT SM HD">ČT SM HD</channel>
     <channel update="i" site="telekom.cz" site_id="6105" xmltv_id="ČT Sport HD">ČT Sport HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4596" xmltv_id="ČT Sport HD LIVE">ČT Sport HD LIVE</channel>
     <channel update="i" site="telekom.cz" site_id="6054" xmltv_id="ČT1 HD">ČT1 HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4076" xmltv_id="ČT1 HD Optik">ČT1 HD Optik</channel>
     <channel update="i" site="telekom.cz" site_id="6053" xmltv_id="ČT2 HD">ČT2 HD</channel>
     <channel update="i" site="telekom.cz" site_id="6024" xmltv_id="ČT24 HD">ČT24 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="222011" xmltv_id="DRAMOX">DRAMOX</channel>
+    <channel update="i" site="telekom.cz" site_id="4586" xmltv_id="DVTV EXTRA HD">DVTV EXTRA HD</channel>
     <channel update="i" site="telekom.cz" site_id="4130" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="telekom.cz" site_id="4571" xmltv_id="Disc. Turbo Xtra HD">Disc. Turbo Xtra HD</channel>
     <channel update="i" site="telekom.cz" site_id="6085" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4152" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
     <channel update="i" site="telekom.cz" site_id="15" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="telekom.cz" site_id="6021" xmltv_id="Dorcel TV HD">Dorcel TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="6097" xmltv_id="Dorcel XXX HD">Dorcel XXX HD</channel>
     <channel update="i" site="telekom.cz" site_id="4577" xmltv_id="Duck TV HD">Duck TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="6047" xmltv_id="Dusk TV">Dusk TV</channel>
+    <channel update="i" site="telekom.cz" site_id="2" xmltv_id="Dvojka">Dvojka</channel>
     <channel update="i" site="telekom.cz" site_id="4146" xmltv_id="Dvojka HD">Dvojka HD</channel>
     <channel update="i" site="telekom.cz" site_id="4326" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
     <channel update="i" site="telekom.cz" site_id="4491" xmltv_id="Erox HD">Erox HD</channel>
@@ -77,12 +80,10 @@
     <channel update="i" site="telekom.cz" site_id="6028" xmltv_id="Filmbox Family">Filmbox Family</channel>
     <channel update="i" site="telekom.cz" site_id="4512" xmltv_id="Filmbox HD">Filmbox HD</channel>
     <channel update="i" site="telekom.cz" site_id="6062" xmltv_id="Filmbox Premium HD">Filmbox Premium HD</channel>
-    <channel update="i" site="telekom.cz" site_id="6029" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
     <channel update="i" site="telekom.cz" site_id="4568" xmltv_id="Filmbox Stars HD">Filmbox Stars HD</channel>
     <channel update="i" site="telekom.cz" site_id="6022" xmltv_id="Fishing and Hunting">Fishing and Hunting</channel>
     <channel update="i" site="telekom.cz" site_id="4578" xmltv_id="Food Network HD">Food Network HD</channel>
     <channel update="i" site="telekom.cz" site_id="6026" xmltv_id="France 24">France 24</channel>
-    <channel update="i" site="telekom.cz" site_id="6034" xmltv_id="Ginx eSports TV">Ginx eSports TV</channel>
     <channel update="i" site="telekom.cz" site_id="4567" xmltv_id="Ginx eSports TV HD">Ginx eSports TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="6033" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
     <channel update="i" site="telekom.cz" site_id="6012" xmltv_id="HBO HD">HBO HD</channel>
@@ -91,9 +92,10 @@
     <channel update="i" site="telekom.cz" site_id="6014" xmltv_id="History HD">History HD</channel>
     <channel update="i" site="telekom.cz" site_id="4135" xmltv_id="ID">ID</channel>
     <channel update="i" site="telekom.cz" site_id="4226" xmltv_id="ID HD">ID HD</channel>
-    <channel update="i" site="telekom.cz" site_id="6110" xmltv_id="Info TV Brno">Info TV Brno</channel>
     <channel update="i" site="telekom.cz" site_id="6052" xmltv_id="JOJ Cinema HD">JOJ Cinema HD</channel>
     <channel update="i" site="telekom.cz" site_id="4461" xmltv_id="JOJ Family HD">JOJ Family HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4070" xmltv_id="JOJ HD">JOJ HD</channel>
+    <channel update="i" site="telekom.cz" site_id="1" xmltv_id="Jednotka">Jednotka</channel>
     <channel update="i" site="telekom.cz" site_id="4099" xmltv_id="Jednotka HD">Jednotka HD</channel>
     <channel update="i" site="telekom.cz" site_id="6107" xmltv_id="Jihočeská TV">Jihočeská TV</channel>
     <channel update="i" site="telekom.cz" site_id="6017" xmltv_id="Jim Jam">Jim Jam</channel>
@@ -101,6 +103,8 @@
     <channel update="i" site="telekom.cz" site_id="6056" xmltv_id="LEO TV">LEO TV</channel>
     <channel update="i" site="telekom.cz" site_id="4507" xmltv_id="LaLa TV HD">LaLa TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="6098" xmltv_id="Leo TV Gold HD">Leo TV Gold HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4590" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4585" xmltv_id="MEN.TV">MEN.TV</channel>
     <channel update="i" site="telekom.cz" site_id="6003" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="telekom.cz" site_id="6004" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel update="i" site="telekom.cz" site_id="4308" xmltv_id="MTV 80s">MTV 80s</channel>
@@ -108,16 +112,15 @@
     <channel update="i" site="telekom.cz" site_id="6057" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="telekom.cz" site_id="4119" xmltv_id="MTV Live HD">MTV Live HD</channel>
     <channel update="i" site="telekom.cz" site_id="4494" xmltv_id="Magenta TV">Magenta TV</channel>
+    <channel update="i" site="telekom.cz" site_id="4044" xmltv_id="Markíza HD">Markíza HD</channel>
     <channel update="i" site="telekom.cz" site_id="4460" xmltv_id="Markíza Int. HD">Markíza Int. HD</channel>
     <channel update="i" site="telekom.cz" site_id="38" xmltv_id="Minimax">Minimax</channel>
     <channel update="i" site="telekom.cz" site_id="6015" xmltv_id="NGC HD">NGC HD</channel>
     <channel update="i" site="telekom.cz" site_id="6060" xmltv_id="NGC Wild HD">NGC Wild HD</channel>
     <channel update="i" site="telekom.cz" site_id="6087" xmltv_id="NOE">NOE</channel>
-    <channel update="i" site="telekom.cz" site_id="6106" xmltv_id="Náš Region TV">Náš Region TV</channel>
     <channel update="i" site="telekom.cz" site_id="6027" xmltv_id="Nick Jr.">Nick Jr.</channel>
     <channel update="i" site="telekom.cz" site_id="6099" xmltv_id="Nick Toons">Nick Toons</channel>
     <channel update="i" site="telekom.cz" site_id="4052" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="telekom.cz" site_id="4552" xmltv_id="Nickelodeon Ukraine">Nickelodeon Ukraine</channel>
     <channel update="i" site="telekom.cz" site_id="4455" xmltv_id="Nova Action HD">Nova Action HD</channel>
     <channel update="i" site="telekom.cz" site_id="4462" xmltv_id="Nova Cinema HD">Nova Cinema HD</channel>
     <channel update="i" site="telekom.cz" site_id="4453" xmltv_id="Nova FUN HD">Nova FUN HD</channel>
@@ -128,6 +131,8 @@
     <channel update="i" site="telekom.cz" site_id="6073" xmltv_id="Nova Sport 2 HD">Nova Sport 2 HD</channel>
     <channel update="i" site="telekom.cz" site_id="6122" xmltv_id="Nova Sport 3 HD">Nova Sport 3 HD</channel>
     <channel update="i" site="telekom.cz" site_id="6123" xmltv_id="Nova Sport 4 HD">Nova Sport 4 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="6126" xmltv_id="Nova Sport 5 HD">Nova Sport 5 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4599" xmltv_id="Nova Sport 6 HD">Nova Sport 6 HD</channel>
     <channel update="i" site="telekom.cz" site_id="4508" xmltv_id="ORF 2">ORF 2</channel>
     <channel update="i" site="telekom.cz" site_id="6011" xmltv_id="ORF1">ORF1</channel>
     <channel update="i" site="telekom.cz" site_id="4506" xmltv_id="Óčko Black HD">Óčko Black HD</channel>
@@ -137,6 +142,9 @@
     <channel update="i" site="telekom.cz" site_id="4487" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
     <channel update="i" site="telekom.cz" site_id="6096" xmltv_id="PREMIER SPORT 1 HD">PREMIER SPORT 1 HD</channel>
     <channel update="i" site="telekom.cz" site_id="6121" xmltv_id="PREMIER SPORT 2 HD">PREMIER SPORT 2 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4588" xmltv_id="PREMIER SPORT 3 HD">PREMIER SPORT 3 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="4597" xmltv_id="PREMIER SPORT 4 HD">PREMIER SPORT 4 HD</channel>
+    <channel update="i" site="telekom.cz" site_id="6118" xmltv_id="PREMIUM HD">PREMIUM HD</channel>
     <channel update="i" site="telekom.cz" site_id="4579" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
     <channel update="i" site="telekom.cz" site_id="6109" xmltv_id="Polar">Polar</channel>
     <channel update="i" site="telekom.cz" site_id="4526" xmltv_id="Posl.Sněmovna pult">Posl.Sněmovna pult</channel>
@@ -154,25 +162,24 @@
     <channel update="i" site="telekom.cz" site_id="4480" xmltv_id="Rai 1">Rai 1</channel>
     <channel update="i" site="telekom.cz" site_id="6114" xmltv_id="Regionální TV TVS">Regionální TV TVS</channel>
     <channel update="i" site="telekom.cz" site_id="4459" xmltv_id="Relax">Relax</channel>
+    <channel update="i" site="telekom.cz" site_id="4594" xmltv_id="SPORTY TV HD">SPORTY TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="6100" xmltv_id="STRIKE TV HD">STRIKE TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="4525" xmltv_id="Senát">Senát</channel>
     <channel update="i" site="telekom.cz" site_id="35" xmltv_id="Spektrum HD">Spektrum HD</channel>
-    <channel update="i" site="telekom.cz" site_id="6019" xmltv_id="Spektrum Home">Spektrum Home</channel>
-    <channel update="i" site="telekom.cz" site_id="4466" xmltv_id="Sport 5">Sport 5</channel>
+    <channel update="i" site="telekom.cz" site_id="4587" xmltv_id="Spektrum Home HD">Spektrum Home HD</channel>
     <channel update="i" site="telekom.cz" site_id="6050" xmltv_id="Sport1 HD">Sport1 HD</channel>
     <channel update="i" site="telekom.cz" site_id="6041" xmltv_id="Sport2 HD">Sport2 HD</channel>
     <channel update="i" site="telekom.cz" site_id="6093" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
     <channel update="i" site="telekom.cz" site_id="6078" xmltv_id="Stingray Djazz HD">Stingray Djazz HD</channel>
     <channel update="i" site="telekom.cz" site_id="4528" xmltv_id="Šláger Muzika HD">Šláger Muzika HD</channel>
     <channel update="i" site="telekom.cz" site_id="4574" xmltv_id="Šláger Originál HD">Šláger Originál HD</channel>
-    <channel update="i" site="telekom.cz" site_id="6118" xmltv_id="Šlágr Premium HD">Šlágr Premium HD</channel>
     <channel update="i" site="telekom.cz" site_id="4075" xmltv_id="TA3 HD">TA3 HD</channel>
     <channel update="i" site="telekom.cz" site_id="4572" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="telekom.cz" site_id="4320" xmltv_id="TV 1000 Russkoe Kino">TV 1000 Russkoe Kino</channel>
     <channel update="i" site="telekom.cz" site_id="6111" xmltv_id="TV Brno 1">TV Brno 1</channel>
     <channel update="i" site="telekom.cz" site_id="6088" xmltv_id="TV REBEL">TV REBEL</channel>
     <channel update="i" site="telekom.cz" site_id="4554" xmltv_id="TV RiK HD">TV RiK HD</channel>
-    <channel update="i" site="telekom.cz" site_id="4581" xmltv_id="TV Spark">TV Spark</channel>
+    <channel update="i" site="telekom.cz" site_id="4581" xmltv_id="TV Spark HD">TV Spark HD</channel>
     <channel update="i" site="telekom.cz" site_id="4477" xmltv_id="TV5 Monde">TV5 Monde</channel>
     <channel update="i" site="telekom.cz" site_id="4481" xmltv_id="TVP Polonia">TVP Polonia</channel>
     <channel update="i" site="telekom.cz" site_id="6092" xmltv_id="Televize Seznam HD">Televize Seznam HD</channel>
@@ -182,7 +189,7 @@
     <channel update="i" site="telekom.cz" site_id="4501" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
     <channel update="i" site="telekom.cz" site_id="4502" xmltv_id="Viasat History HD">Viasat History HD</channel>
     <channel update="i" site="telekom.cz" site_id="4503" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
-    <channel update="i" site="telekom.cz" site_id="6051" xmltv_id="XMO">XMO</channel>
+    <channel update="i" site="telekom.cz" site_id="4593" xmltv_id="Warner TV HD">Warner TV HD</channel>
     <channel update="i" site="telekom.cz" site_id="4479" xmltv_id="ZDF">ZDF</channel>
   </channels>
 </site>
