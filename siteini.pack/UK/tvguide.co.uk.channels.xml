@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="tvguide.co.uk">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.5 -- Jan van Straaten" site="tvguide.co.uk">
   <channels>
-    <channel update="i" site="tvguide.co.uk" site_id="4music" xmltv_id="4Music">4Music</channel>
     <channel update="i" site="tvguide.co.uk" site_id="4seven" xmltv_id="4seven">4seven</channel>
     <channel update="i" site="tvguide.co.uk" site_id="4seven-hd" xmltv_id="4seven HD">4seven HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="5action" xmltv_id="5Action">5Action</channel>
@@ -20,6 +19,7 @@
     <channel update="i" site="tvguide.co.uk" site_id="animal-planet-plus-1" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="arirang" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="ary-digital" xmltv_id="ARY Digital">ARY Digital</channel>
     <channel update="i" site="tvguide.co.uk" site_id="ayozat-tv" xmltv_id="Ayozat TV">Ayozat TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="b4u-movies" xmltv_id="B4U Movies">B4U Movies</channel>
     <channel update="i" site="tvguide.co.uk" site_id="b4u-music" xmltv_id="B4U Music">B4U Music</channel>
@@ -91,9 +91,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="crime-plus-investigation-hd" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="cula4-hd" xmltv_id="Cula4 HD">Cula4 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="dangal" xmltv_id="Dangal">Dangal</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="dave" xmltv_id="Dave">Dave</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="dave-hd" xmltv_id="Dave HD">Dave HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="dave-ja-vu" xmltv_id="Dave ja vu">Dave ja vu</channel>
     <channel update="i" site="tvguide.co.uk" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="tvguide.co.uk" site_id="discovery-channel-plus-1" xmltv_id="Discovery Channel +1">Discovery Channel +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="discovery-channel-hd" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
@@ -105,14 +102,10 @@
     <channel update="i" site="tvguide.co.uk" site_id="discovery-turbo-plus-1" xmltv_id="Discovery Turbo +1">Discovery Turbo +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
     <channel update="i" site="tvguide.co.uk" site_id="dmax-plus-1" xmltv_id="DMAX +1">DMAX +1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="drama" xmltv_id="Drama">Drama</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="drama-plus-1" xmltv_id="Drama +1">Drama +1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="drama-hd" xmltv_id="Drama HD">Drama HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="e4" xmltv_id="E4">E4</channel>
     <channel update="i" site="tvguide.co.uk" site_id="e4-plus-1" xmltv_id="E4 +1">E4 +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="e4-hd" xmltv_id="E4 HD">E4 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="e4-extra" xmltv_id="E4 Extra">E4 Extra</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="earthx-tv" xmltv_id="Earthx TV">Earthx TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="eden" xmltv_id="Eden">Eden</channel>
     <channel update="i" site="tvguide.co.uk" site_id="eden-plus-1" xmltv_id="Eden +1">Eden +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="eden-hd" xmltv_id="Eden HD">Eden HD</channel>
@@ -139,14 +132,13 @@
     <channel update="i" site="tvguide.co.uk" site_id="great-action-plus-1" xmltv_id="GREAT! action +1">GREAT! action +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="great-movies" xmltv_id="GREAT! movies">GREAT! movies</channel>
     <channel update="i" site="tvguide.co.uk" site_id="great-movies-plus-1" xmltv_id="GREAT! movies +1">GREAT! movies +1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="great-real" xmltv_id="GREAT! real">GREAT! real</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="great-real-plus-1" xmltv_id="GREAT! Real+1">GREAT! Real+1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="great-romance" xmltv_id="GREAT! romance">GREAT! romance</channel>
     <channel update="i" site="tvguide.co.uk" site_id="great-romance-plus-1" xmltv_id="GREAT! romance +1">GREAT! romance +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="great-tv" xmltv_id="GREAT! tv">GREAT! tv</channel>
     <channel update="i" site="tvguide.co.uk" site_id="great-tv-plus-1" xmltv_id="GREAT! tv +1">GREAT! tv +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="hgtv-plus-1" xmltv_id="HGTV +1">HGTV +1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="hum-europe" xmltv_id="HUM Europe">HUM Europe</channel>
     <channel update="i" site="tvguide.co.uk" site_id="ideal-world" xmltv_id="Ideal World">Ideal World</channel>
     <channel update="i" site="tvguide.co.uk" site_id="ideal-world-hd" xmltv_id="Ideal World HD">Ideal World HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
@@ -168,8 +160,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="itvbe" xmltv_id="ITVBe">ITVBe</channel>
     <channel update="i" site="tvguide.co.uk" site_id="itvbe-plus-1" xmltv_id="ITVBe +1">ITVBe +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="itvbe-hd" xmltv_id="ITVBe HD">ITVBe HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="kerrang-tv" xmltv_id="Kerrang! TV">Kerrang! TV</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="kiss-tv" xmltv_id="Kiss TV">Kiss TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="leeds-tv" xmltv_id="Leeds TV">Leeds TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="legend" xmltv_id="Legend">Legend</channel>
     <channel update="i" site="tvguide.co.uk" site_id="legend-xtra" xmltv_id="Legend Xtra">Legend Xtra</channel>
@@ -177,7 +167,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="lfc-tv-hd" xmltv_id="LFC TV HD">LFC TV HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="liverpool-tv" xmltv_id="Liverpool TV">Liverpool TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="london-live" xmltv_id="London Live">London Live</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="magic" xmltv_id="Magic">Magic</channel>
     <channel update="i" site="tvguide.co.uk" site_id="more4" xmltv_id="More4">More4</channel>
     <channel update="i" site="tvguide.co.uk" site_id="more4-plus-1" xmltv_id="More4 +1">More4 +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="more4-hd" xmltv_id="More4 HD">More4 HD</channel>
@@ -198,9 +187,8 @@
     <channel update="i" site="tvguide.co.uk" site_id="national-geographic-channel-hd" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="national-geographic-wild" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="national-geographic-wild-hd" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="nbc-news-now-hd" xmltv_id="NBC News NOW HD">NBC News NOW HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="ndtv-24x7" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="new-vision" xmltv_id="New Vision">New Vision</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="new-vision-tv" xmltv_id="New Vision TV">New Vision TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="nhk-world" xmltv_id="NHK World">NHK World</channel>
     <channel update="i" site="tvguide.co.uk" site_id="nhk-world-hd" xmltv_id="NHK World HD">NHK World HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="nick-jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
@@ -215,6 +203,7 @@
     <channel update="i" site="tvguide.co.uk" site_id="notts-tv" xmltv_id="Notts TV">Notts TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="now-70s" xmltv_id="NOW 70s">NOW 70s</channel>
     <channel update="i" site="tvguide.co.uk" site_id="now-80s" xmltv_id="NOW 80s">NOW 80s</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="now-90s00s" xmltv_id="NOW 90s00s">NOW 90s00s</channel>
     <channel update="i" site="tvguide.co.uk" site_id="now-rock" xmltv_id="NOW Rock">NOW Rock</channel>
     <channel update="i" site="tvguide.co.uk" site_id="oireachtas-tv" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="pbs-america" xmltv_id="PBS America">PBS America</channel>
@@ -227,7 +216,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="premier-sports-1-hd" xmltv_id="Premier Sports 1 HD">Premier Sports 1 HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="premier-sports-1-roi" xmltv_id="Premier Sports 1 ROI">Premier Sports 1 ROI</channel>
     <channel update="i" site="tvguide.co.uk" site_id="premier-sports-2-hd" xmltv_id="Premier Sports 2 HD">Premier Sports 2 HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="premier-sports-2-roi" xmltv_id="Premier Sports 2 ROI">Premier Sports 2 ROI</channel>
     <channel update="i" site="tvguide.co.uk" site_id="quest" xmltv_id="Quest">Quest</channel>
     <channel update="i" site="tvguide.co.uk" site_id="quest-plus-1" xmltv_id="Quest +1">Quest +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="quest-hd" xmltv_id="Quest HD">Quest HD</channel>
@@ -243,6 +231,7 @@
     <channel update="i" site="tvguide.co.uk" site_id="racing-tv" xmltv_id="Racing TV">Racing TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="racing-tv-hd" xmltv_id="Racing TV HD">Racing TV HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="really" xmltv_id="Really">Really</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="rewind-tv" xmltv_id="Rewind TV">Rewind TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="rte-jr" xmltv_id="RTE Jr">RTE Jr</channel>
     <channel update="i" site="tvguide.co.uk" site_id="rte-news" xmltv_id="RTE News">RTE News</channel>
     <channel update="i" site="tvguide.co.uk" site_id="rte-one" xmltv_id="RTE One">RTE One</channel>
@@ -263,6 +252,8 @@
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-action-hd" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-animation" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-animation-hd" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-blockbusters" xmltv_id="Sky Cinema Blockbusters">Sky Cinema Blockbusters</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-blockbusters-hd" xmltv_id="Sky Cinema Blockbusters HD">Sky Cinema Blockbusters HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-comedy" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-comedy-hd" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-drama" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
@@ -271,14 +262,12 @@
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-family-hd" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-greats" xmltv_id="Sky Cinema Greats">Sky Cinema Greats</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-greats-hd" xmltv_id="Sky Cinema Greats HD">Sky Cinema Greats HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-hits" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-hits-hd" xmltv_id="Sky Cinema Hits HD">Sky Cinema Hits HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-premiere" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-premiere-hd" xmltv_id="Sky Cinema Premiere HD">Sky Cinema Premiere HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-sci-fi-horror" xmltv_id="Sky Cinema Sci-fi/Horror">Sky Cinema Sci-fi/Horror</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-sci-fi-horror-hd" xmltv_id="Sky Cinema Sci-fi/Horror HD">Sky Cinema Sci-fi/Horror HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-stunt" xmltv_id="Sky Cinema Stunt">Sky Cinema Stunt</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-stunt-hd" xmltv_id="Sky Cinema Stunt HD">Sky Cinema Stunt HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-sci-fi" xmltv_id="Sky Cinema Sci-fi">Sky Cinema Sci-fi</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-sci-fi-hd" xmltv_id="Sky Cinema Sci-fi HD">Sky Cinema Sci-fi HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-superheroes" xmltv_id="Sky Cinema Superheroes">Sky Cinema Superheroes</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-superheroes-hd" xmltv_id="Sky Cinema Superheroes HD">Sky Cinema Superheroes HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-thriller" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-cinema-thriller-hd" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-comedy" xmltv_id="Sky Comedy">Sky Comedy</channel>
@@ -309,11 +298,10 @@
     <channel update="i" site="tvguide.co.uk" site_id="sky-showcase" xmltv_id="Sky Showcase">Sky Showcase</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-showcase-plus-1" xmltv_id="Sky Showcase +1">Sky Showcase +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-showcase-hd" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-sports-plus" xmltv_id="Sky Sports +">Sky Sports +</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="sky-sports-plus-hd" xmltv_id="Sky Sports + HD">Sky Sports + HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-sports-action" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-sports-action-hd" xmltv_id="Sky Sports Action HD">Sky Sports Action HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-sports-arena" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-sports-arena-hd" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="sky-sports-box-office" xmltv_id="Sky Sports Box Office">Sky Sports Box Office</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-sports-box-office-hd" xmltv_id="Sky Sports Box Office HD">Sky Sports Box Office HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-sports-cricket" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
     <channel update="i" site="tvguide.co.uk" site_id="sky-sports-cricket-hd" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
@@ -353,16 +341,21 @@
     <channel update="i" site="tvguide.co.uk" site_id="teesside-tv" xmltv_id="Teesside TV">Teesside TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tg4" xmltv_id="TG4">TG4</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tg4-hd" xmltv_id="TG4 HD">TG4 HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="thats-60s" xmltv_id="That's 60s">That's 60s</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="thats-60s-mcr-freeview" xmltv_id="That's 60s (MCR Freeview)">That's 60s (MCR Freeview)</channel>
     <channel update="i" site="tvguide.co.uk" site_id="thats-70s-mcr-freeview" xmltv_id="That's 70s (MCR Freeview)">That's 70s (MCR Freeview)</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="thats-80s" xmltv_id="That's 80s">That's 80s</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="thats-90s" xmltv_id="That's 90s">That's 90s</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="thats-90s-mcr-freeview" xmltv_id="That's 90s (MCR Freeview)">That's 90s (MCR Freeview)</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-dance-freeview" xmltv_id="That's Dance (Freeview)">That's Dance (Freeview)</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-dance-mcr-and-sky" xmltv_id="That's Dance (MCR and Sky)">That's Dance (MCR and Sky)</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-melody" xmltv_id="That's Melody">That's Melody</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-melody-mcr" xmltv_id="That's Melody MCR">That's Melody MCR</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-rock" xmltv_id="That's Rock">That's Rock</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-rock-mcr" xmltv_id="That's Rock MCR">That's Rock MCR</channel>
     <channel update="i" site="tvguide.co.uk" site_id="thats-tv" xmltv_id="That's TV">That's TV</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="thats-tv-freeview" xmltv_id="That's TV (Freeview)">That's TV (Freeview)</channel>
     <channel update="i" site="tvguide.co.uk" site_id="thats-tv-2" xmltv_id="That's TV 2">That's TV 2</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="the-box" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-tv-2-mcr" xmltv_id="That's TV 2 MCR">That's TV 2 MCR</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-tv-3" xmltv_id="That's TV 3">That's TV 3</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-tv-mcr" xmltv_id="That's TV MCR">That's TV MCR</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="thats-tv3-freeview-and-sky" xmltv_id="That's TV3 (Freeview &amp; Sky)">That's TV3 (Freeview &amp; Sky)</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="tiny-pop" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="tiny-pop-plus-1" xmltv_id="Tiny Pop +1">Tiny Pop +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tlc-plus-1" xmltv_id="TLC +1">TLC +1</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
@@ -391,7 +384,6 @@
     <channel update="i" site="tvguide.co.uk" site_id="tnt-sports-ultimate" xmltv_id="TNT Sports Ultimate">TNT Sports Ultimate</channel>
     <channel update="i" site="tvguide.co.uk" site_id="together-tv" xmltv_id="Together TV">Together TV</channel>
     <channel update="i" site="tvguide.co.uk" site_id="together-tv-plus-1" xmltv_id="Together TV +1">Together TV +1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="together-tv-ip" xmltv_id="Together TV IP">Together TV IP</channel>
     <channel update="i" site="tvguide.co.uk" site_id="travelxp" xmltv_id="Travelxp">Travelxp</channel>
     <channel update="i" site="tvguide.co.uk" site_id="trt-world" xmltv_id="TRT World">TRT World</channel>
     <channel update="i" site="tvguide.co.uk" site_id="trt-world-hd" xmltv_id="TRT World HD">TRT World HD</channel>
@@ -400,6 +392,18 @@
     <channel update="i" site="tvguide.co.uk" site_id="true-crime-xtra" xmltv_id="True Crime Xtra">True Crime Xtra</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tvc-news" xmltv_id="TVC News">TVC News</channel>
     <channel update="i" site="tvguide.co.uk" site_id="tyne-and-wear-tv" xmltv_id="Tyne &amp; Wear TV">Tyne &amp; Wear TV</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-dave" xmltv_id="U&amp;Dave">U&amp;Dave</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-dave-hd" xmltv_id="U&amp;Dave HD">U&amp;Dave HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-dave-ja-vu" xmltv_id="U&amp;Dave ja vu">U&amp;Dave ja vu</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-drama" xmltv_id="U&amp;Drama">U&amp;Drama</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-drama-plus-1" xmltv_id="U&amp;Drama +1">U&amp;Drama +1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-drama-hd" xmltv_id="U&amp;Drama HD">U&amp;Drama HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-w" xmltv_id="U&amp;W">U&amp;W</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-w-plus-1" xmltv_id="U&amp;W +1">U&amp;W +1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-w-hd" xmltv_id="U&amp;W HD">U&amp;W HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-yesterday" xmltv_id="U&amp;Yesterday">U&amp;Yesterday</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-yesterday-plus-1" xmltv_id="U&amp;Yesterday +1">U&amp;Yesterday +1</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="u-and-yesterday-hd" xmltv_id="U&amp;Yesterday HD">U&amp;Yesterday HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="utsav-bharat" xmltv_id="Utsav Bharat">Utsav Bharat</channel>
     <channel update="i" site="tvguide.co.uk" site_id="utsav-gold" xmltv_id="Utsav Gold">Utsav Gold</channel>
     <channel update="i" site="tvguide.co.uk" site_id="utsav-gold-hd" xmltv_id="Utsav Gold HD">Utsav Gold HD</channel>
@@ -410,13 +414,7 @@
     <channel update="i" site="tvguide.co.uk" site_id="virgin-media-one-hd" xmltv_id="Virgin Media One HD">Virgin Media One HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="virgin-media-three" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
     <channel update="i" site="tvguide.co.uk" site_id="virgin-media-two-hd" xmltv_id="Virgin Media Two HD">Virgin Media Two HD</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="w" xmltv_id="W">W</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="w-plus-1" xmltv_id="W +1">W +1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="w-hd" xmltv_id="W HD">W HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="wildearth" xmltv_id="WildEarth">WildEarth</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="yesterday" xmltv_id="Yesterday">Yesterday</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="yesterday-plus-1" xmltv_id="Yesterday +1">Yesterday +1</channel>
-    <channel update="i" site="tvguide.co.uk" site_id="yesterday-hd" xmltv_id="Yesterday HD">Yesterday HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="zee-cinema" xmltv_id="Zee Cinema">Zee Cinema</channel>
     <channel update="i" site="tvguide.co.uk" site_id="zee-cinema-hd" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="zee-tv" xmltv_id="Zee TV">Zee TV</channel>
