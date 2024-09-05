@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.9 -- Jan van Straaten" site="tv.iskon.hr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.5 -- Jan van Straaten" site="tv.iskon.hr">
   <channels>
     <channel update="i" site="tv.iskon.hr" site_id="111268##hrt-1-hd2/271283-2-cro-HR/HRT-1-HD.png" xmltv_id="HRT 1 HD">HRT 1 HD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111269##hrt-2-hd3/271285-2-cro-HR/HRT-2-HD.png" xmltv_id="HRT 2 HD">HRT 2 HD</channel>
@@ -7,7 +7,7 @@
     <channel update="i" site="tv.iskon.hr" site_id="111276##hrt-4-hd2/271289-2-cro-HR/HRT-4-HD.png" xmltv_id="HRT 4 HD">HRT 4 HD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111271##rtl-hd/271291-2-cro-HR/RTL-HD.png" xmltv_id="RTL HD">RTL HD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111273##rtl-2-hd/271293-2-cro-HR/RTL-2-HD.png" xmltv_id="RTL 2 HD">RTL 2 HD</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111272##nova-tv-hd2/271295-5-cro-HR/Nova-TV-HD.png" xmltv_id="Nova TV HD">Nova TV HD</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111272##nova-tv-hd/271295-5-cro-HR/Nova-TV-HD.png" xmltv_id="Nova TV HD">Nova TV HD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111275##doma-tv-hd2/271297-6-cro-HR/Doma-TV-HD.png" xmltv_id="Doma TV HD">Doma TV HD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="33130692##hrt-1-fhd/367407-2-cro-HR/HRT-1-FHD.png" xmltv_id="HRT 1 FHD">HRT 1 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="33130704##hrt-2-fhd/367409-2-cro-HR/HRT-2-FHD.png" xmltv_id="HRT 2 FHD">HRT 2 FHD</channel>
@@ -17,27 +17,29 @@
     <channel update="i" site="tv.iskon.hr" site_id="4855465##n1-fhd/272561-2-cro-HR/N1-FHD.png" xmltv_id="N1 FHD">N1 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111279##cinestar-tv-1/271301-3-cro-HR/CineStar-TV-1.png" xmltv_id="CineStar TV 1">CineStar TV 1</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111280##cinestar-tv-action2/271303-5-cro-HR/CineStar-TV-Action.png" xmltv_id="CineStar TV Action">CineStar TV Action</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="108258##cinestar-tv-premiere-12/271305-3-cro-HR/CineStar-TV-Premiere-1.png" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="108259##cinestar-tv-premiere-22/271307-4-cro-HR/CineStar-TV-Premiere-2.png" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="68513033" xmltv_id="CineStar TV 2">CineStar TV 2</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="68513042" xmltv_id="CineStar TV Comedy &amp; Family">CineStar TV Comedy &amp; Family</channel>
     <channel update="i" site="tv.iskon.hr" site_id="38842670##pickbox-tv/371402-8-cro-HR/Pickbox-TV.png" xmltv_id="Pickbox TV">Pickbox TV</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111282##fox-life2/271311-2-cro-HR/Fox-Life.png" xmltv_id="Fox Life">Fox Life</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111283##fox-crime2/271313-2-cro-HR/Fox-Crime.png" xmltv_id="Fox Crime">Fox Crime</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111284##fox2/271315-3-cro-HR/Fox.png" xmltv_id="Fox">Fox</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111285##fox-movies2/271317-2-cro-HR/Fox-Movies.png" xmltv_id="Fox Movies">Fox Movies</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111282##star-life2/271311-2-cro-HR/Star-Life.png" xmltv_id="Star Life">Star Life</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111283##star-crime2/271313-3-cro-HR/Star-Crime.png" xmltv_id="Star Crime">Star Crime</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111284##star-channel/271315-4-cro-HR/Star-Channel.png" xmltv_id="Star Channel">Star Channel</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111285##star-movies2/271317-3-cro-HR/Star-Movies.png" xmltv_id="Star Movies">Star Movies</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111286##kinotv2/271319-2-cro-HR/KinoTV.png" xmltv_id="KinoTV">KinoTV</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111287##klasik-tv2/271321-3-cro-HR/Klasik-TV.png" xmltv_id="Klasik TV">Klasik TV</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111287##klasik/271321-3-cro-HR/Klasik.png" xmltv_id="Klasik">Klasik</channel>
     <channel update="i" site="tv.iskon.hr" site_id="114424##rtl-crime2/271323-2-cro-HR/RTL-Crime.png" xmltv_id="RTL Crime">RTL Crime</channel>
     <channel update="i" site="tv.iskon.hr" site_id="116386##rtl-passion2/271325-2-cro-HR/RTL-Passion.png" xmltv_id="RTL Passion">RTL Passion</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111290##amc2/271327-2-cro-HR/AMC.png" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111293##tv10002/271333-2-cro-HR/TV1000.png" xmltv_id="TV1000">TV1000</channel>
     <channel update="i" site="tv.iskon.hr" site_id="10332377##epic-drama/296648-2-cro-HR/Epic-Drama.png" xmltv_id="Epic Drama">Epic Drama</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="10332379##cinestar-tv-fantasy/296650-3-cro-HR/CineStar-TV-Fantasy.png" xmltv_id="CineStar TV Fantasy">CineStar TV Fantasy</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="10332379##cinestar-tv-fantasy/296650-4-cro-HR/CineStar-TV-Fantasy.png" xmltv_id="CineStar TV Fantasy">CineStar TV Fantasy</channel>
     <channel update="i" site="tv.iskon.hr" site_id="38842672##pickbox-tv-fhd/371404-2-cro-HR/Pickbox-TV-FHD.png" xmltv_id="Pickbox TV FHD">Pickbox TV FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="108260##cinestar-tv-premiere-1-fhd2/271335-4-cro-HR/CineStar-TV-Premiere-1-FHD.png" xmltv_id="CineStar TV Premiere 1 FHD">CineStar TV Premiere 1 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="108261##cinestar-tv-premiere-2-fhd2/271337-4-cro-HR/CineStar-TV-Premiere-2-FHD.png" xmltv_id="CineStar TV Premiere 2 FHD">CineStar TV Premiere 2 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113463##kinotv-fhd/271339-2-cro-HR/KinoTV-FHD.png" xmltv_id="KinoTV FHD">KinoTV FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="18036417##axn/325324-2-cro-HR/AXN.png" xmltv_id="AXN">AXN</channel>
     <channel update="i" site="tv.iskon.hr" site_id="18036460##axn-spin/325326-2-cro-HR/AXN-Spin.png" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="58619524" xmltv_id="RTL Adria">RTL Adria</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="58619526" xmltv_id="RTL Adria FHD">RTL Adria FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111292##hbo2/271341-2-cro-HR/HBO.png" xmltv_id="HBO">HBO</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113569##hbo-22/271343-2-cro-HR/HBO-2.png" xmltv_id="HBO 2">HBO 2</channel>
     <channel update="i" site="tv.iskon.hr" site_id="384759##hbo-32/271345-2-cro-HR/HBO-3.png" xmltv_id="HBO 3">HBO 3</channel>
@@ -54,8 +56,10 @@
     <channel update="i" site="tv.iskon.hr" site_id="4855485##history-2/272563-4-cro-HR/History-2.png" xmltv_id="History 2">History 2</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111299##viasat-explore/271367-2-cro-HR/Viasat-Explore.png" xmltv_id="Viasat Explore">Viasat Explore</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111300##viasat-history2/271369-2-cro-HR/Viasat-History.png" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60966313##balkan-trip/381421-2-cro-HR/Balkan-Trip.png" xmltv_id="Balkan Trip">Balkan Trip</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="69735734" xmltv_id="ICT business TV">ICT business TV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="3480393##crime-investigation2/271381-2-cro-HR/Crime-Investigation.png" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="10332380##bbc-earth/296652-2-cro-HR/BBC-Earth.png" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="10332380##bbc-earth/296652-3-cro-HR/BBC-Earth.png" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="tv.iskon.hr" site_id="10332382##viasat-nature/296654-2-cro-HR/Viasat-Nature.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113466##ng-fhd2/271383-2-cro-HR/NG-FHD.png" xmltv_id="NG FHD">NG FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113467##nat-geo-wild-fhd2/271385-2-cro-HR/Nat-Geo-Wild-FHD.png" xmltv_id="Nat Geo Wild FHD">Nat Geo Wild FHD</channel>
@@ -72,11 +76,14 @@
     <channel update="i" site="tv.iskon.hr" site_id="46370980##arenasport-8/377197-2-cro-HR/Arenasport-8.png" xmltv_id="Arenasport 8">Arenasport 8</channel>
     <channel update="i" site="tv.iskon.hr" site_id="46371071##arenasport-9/377199-2-cro-HR/Arenasport-9.png" xmltv_id="Arenasport 9">Arenasport 9</channel>
     <channel update="i" site="tv.iskon.hr" site_id="46371144##arenasport-10/377201-2-cro-HR/Arenasport-10.png" xmltv_id="Arenasport 10">Arenasport 10</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60966309##arena-fight/381423-2-cro-HR/Arena-Fight.png" xmltv_id="Arena Fight">Arena Fight</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60966311##arena-esport/381425-2-cro-HR/Arena-Esport.png" xmltv_id="Arena Esport">Arena Esport</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60689819" xmltv_id="MAXSport 1">MAXSport 1</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60689822" xmltv_id="MAXSport 2">MAXSport 2</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111325##sportska-tv2/271401-2-cro-HR/Sportska-TV.png" xmltv_id="Sportska TV">Sportska TV</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111328##extreme-sports2/271405-2-cro-HR/Extreme-Sports.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111329##kreator-tv2/271407-2-cro-HR/Kreator-TV.png" xmltv_id="Kreator TV">Kreator TV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111333##sport-12/271413-2-cro-HR/Sport-1.png" xmltv_id="Sport 1">Sport 1</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="547766##hntv2/271415-2-cro-HR/HNTV.png" xmltv_id="HNTV">HNTV</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111329##gp1/271407-2-cro-HR/GP1.png" xmltv_id="GP1">GP1</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111328##extreme-sports2/271405-2-cro-HR/Extreme-Sports.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="tv.iskon.hr" site_id="30904283##arenasport-1-fhd/361834-5-cro-HR/Arenasport-1-FHD.png" xmltv_id="Arenasport 1 FHD">Arenasport 1 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="30904284##arenasport-2-fhd/361836-5-cro-HR/Arenasport-2-FHD.png" xmltv_id="Arenasport 2 FHD">Arenasport 2 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="30904286##arenasport-3-fhd/361838-5-cro-HR/Arenasport-3-FHD.png" xmltv_id="Arenasport 3 FHD">Arenasport 3 FHD</channel>
@@ -87,13 +94,15 @@
     <channel update="i" site="tv.iskon.hr" site_id="46371282##arenasport-8-fhd/377189-2-cro-HR/Arenasport-8-FHD.png" xmltv_id="Arenasport 8 FHD">Arenasport 8 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="46371285##arenasport-9-fhd/377191-2-cro-HR/Arenasport-9-FHD.png" xmltv_id="Arenasport 9 FHD">Arenasport 9 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="46371289##arenasport-10-fhd/377193-2-cro-HR/Arenasport-10-FHD.png" xmltv_id="Arenasport 10 FHD">Arenasport 10 FHD</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60689827##maxsport-1-fhd/381407-2-cro-HR/MAXSport-1-FHD.png" xmltv_id="MAXSport 1 FHD">MAXSport 1 FHD</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60689831##maxsport-2-fhd/381409-2-cro-HR/MAXSport-2-FHD.png" xmltv_id="MAXSport 2 FHD">MAXSport 2 FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111313##baby-tv2/271423-2-cro-HR/Baby-TV.png" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="288963##disney-channel2/271425-2-cro-HR/Disney-Channel.png" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111314##boomerang2/271427-2-cro-HR/Boomerang.png" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111314##cartoonito2/271427-2-cro-HR/Cartoonito.png" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113567##cartoon-network-tcm2/271429-2-cro-HR/Cartoon-Network-TCM.png" xmltv_id="Cartoon Network / TCM">Cartoon Network / TCM</channel>
     <channel update="i" site="tv.iskon.hr" site_id="37110790##nicktoons/371205-2-cro-HR/Nicktoons.png" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111317##disney-xd2/271433-2-cro-HR/Disney-XD.png" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111318##da-vinci/271435-2-cro-HR/Da-Vinci.png" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111318##da-vinci/271435-4-cro-HR/Da-Vinci.png" xmltv_id="Da Vinci">Da Vinci</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111319##nickelodeon-hr2/271437-2-cro-HR/Nickelodeon-HR.png" xmltv_id="Nickelodeon HR">Nickelodeon HR</channel>
     <channel update="i" site="tv.iskon.hr" site_id="3480550##nickelodeon-junior-hr2/271439-2-cro-HR/Nickelodeon-Junior-HR.png" xmltv_id="Nickelodeon Junior HR">Nickelodeon Junior HR</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111320##mini-tv-hd/271441-4-cro-HR/Mini-TV-HD.png" xmltv_id="Mini TV HD">Mini TV HD</channel>
@@ -101,8 +110,8 @@
     <channel update="i" site="tv.iskon.hr" site_id="111321##nickelodeon2/271445-2-cro-HR/Nickelodeon.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="tv.iskon.hr" site_id="289009##nickelodeon-junior2/271447-2-cro-HR/Nickelodeon-Junior.png" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
     <channel update="i" site="tv.iskon.hr" site_id="38842673##toon-kids/371406-2-cro-HR/Toon-Kids.png" xmltv_id="Toon Kids">Toon Kids</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="50897302#" xmltv_id="RiC">RiC</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="50037817#" xmltv_id="KiKA">KiKA</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="50897302" xmltv_id="RiC">RiC</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="50037817" xmltv_id="KiKA">KiKA</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111334##cmc-fhd/271453-2-cro-HR/CMC-FHD.png" xmltv_id="CMC FHD">CMC FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111335##jugoton2/271455-2-cro-HR/Jugoton.png" xmltv_id="Jugoton">Jugoton</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111337##club-mtv/271459-2-cro-HR/Club-MTV.png" xmltv_id="Club MTV">Club MTV</channel>
@@ -113,8 +122,9 @@
     <channel update="i" site="tv.iskon.hr" site_id="111342##stingray-iconcerts2/271469-2-cro-HR/Stingray-iConcerts.png" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111343##mezzo-tv2/271471-2-cro-HR/Mezzo-TV.png" xmltv_id="Mezzo TV">Mezzo TV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="16727063##extra-tv/320947-2-cro-HR/Extra-TV.png" xmltv_id="Extra TV">Extra TV</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="19396297##narodni-tv/330007-3-cro-HR/Narodni-TV.png" xmltv_id="Narodni TV">Narodni TV</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="50037884#" xmltv_id="DM Sat">DM Sat</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="19396297##bravo!-tv/330007-4-cro-HR/bravo!-TV.png" xmltv_id="bravo! TV">bravo! TV</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="50037884" xmltv_id="DM Sat">DM Sat</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="60966505##klape-i-tambure/381427-2-cro-HR/Klape-i-Tambure.png" xmltv_id="Klape i Tambure">Klape i Tambure</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113465##stingray-iconcerts-fhd2/271473-2-cro-HR/Stingray-iConcerts-FHD.png" xmltv_id="Stingray iConcerts FHD">Stingray iConcerts FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111308##24-kitchen2/271475-2-cro-HR/24-Kitchen.png" xmltv_id="24 Kitchen">24 Kitchen</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111310##kitchen-tv2/271477-2-cro-HR/Kitchen-TV.png" xmltv_id="Kitchen TV">Kitchen TV</channel>
@@ -123,8 +133,6 @@
     <channel update="i" site="tv.iskon.hr" site_id="111306##travel-xp/271483-3-cro-HR/Travel-XP.png" xmltv_id="Travel XP">Travel XP</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111309##myzen2/271485-4-cro-HR/MyZen.png" xmltv_id="MyZen">MyZen</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111311##fashion-tv2/271487-2-cro-HR/Fashion-TV.png" xmltv_id="Fashion TV">Fashion TV</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111307##cbs-reality2/271489-2-cro-HR/CBS-Reality.png" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="10332384##woman/296656-2-cro-HR/Woman.png" xmltv_id="Woman">Woman</channel>
     <channel update="i" site="tv.iskon.hr" site_id="7444293##game-bar/288028-3-cro-HR/Game-Bar.png" xmltv_id="Game Bar">Game Bar</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111344##jabuka-tv2/271493-2-cro-HR/Jabuka-TV.png" xmltv_id="Jabuka TV">Jabuka TV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111345##kanal-ri2/271495-2-cro-HR/Kanal-RI.png" xmltv_id="Kanal RI">Kanal RI</channel>
@@ -135,23 +143,26 @@
     <channel update="i" site="tv.iskon.hr" site_id="111349##tv-jadran2/271505-2-cro-HR/TV-Jadran.png" xmltv_id="TV Jadran">TV Jadran</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111350##tv-student2/271507-2-cro-HR/TV-Student.png" xmltv_id="TV Student">TV Student</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111351##z12/271509-2-cro-HR/Z1.png" xmltv_id="Z1">Z1</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="2369884##poljoprivredna-tv2/271511-2-cro-HR/Poljoprivredna-TV.png" xmltv_id="Poljoprivredna TV">Poljoprivredna TV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="7444294##libertas-tv-fhd/288030-2-cro-HR/Libertas-TV-FHD.png" xmltv_id="Libertas TV FHD">Libertas TV FHD</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111353##ftv2/271513-2-cro-HR/FTV.png" xmltv_id="FTV">FTV</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111354##hayat2/271515-2-cro-HR/Hayat.png" xmltv_id="Hayat">Hayat</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111355##obn2/271517-2-cro-HR/OBN.png" xmltv_id="OBN">OBN</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111357##rai-12/271523-2-cro-HR/RAI-1.png" xmltv_id="RAI 1">RAI 1</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111358##rai-22/271525-2-cro-HR/RAI-2.png" xmltv_id="RAI 2">RAI 2</channel>
     <channel update="i" site="tv.iskon.hr" site_id="111361##mediaset2/271531-2-cro-HR/Mediaset.png" xmltv_id="Mediaset">Mediaset</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111362##slo12/271533-2-cro-HR/SLO1.png" xmltv_id="SLO1">SLO1</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111363##pro-sieben2/271535-2-cro-HR/Pro-Sieben.png" xmltv_id="Pro Sieben">Pro Sieben</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111364##rtl-television2/271537-2-cro-HR/RTL-Television.png" xmltv_id="RTL Television">RTL Television</channel>
-    <channel update="i" site="tv.iskon.hr" site_id="111365##sat12/271539-2-cro-HR/SAT1.png" xmltv_id="SAT1">SAT1</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113469##blue-hustler2/271567-2-cro-HR/Blue-Hustler.png" xmltv_id="Blue Hustler">Blue Hustler</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113470##superone2/271569-2-cro-HR/SuperOne.png" xmltv_id="SuperOne">SuperOne</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113471##hustler2/271571-2-cro-HR/Hustler.png" xmltv_id="Hustler">Hustler</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111362##slo12/271533-2-cro-HR/SLO1.png" xmltv_id="SLO1">SLO1</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113431##private-tv2/271573-3-cro-HR/Private-TV.png" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111363##pro-sieben2/271535-2-cro-HR/Pro-Sieben.png" xmltv_id="Pro Sieben">Pro Sieben</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113432##vivid-red/271575-3-cro-HR/Vivid-Red.png" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111364##rtl-television2/271537-2-cro-HR/RTL-Television.png" xmltv_id="RTL Television">RTL Television</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="111365##sat12/271539-2-cro-HR/SAT1.png" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="113452##pink2/271541-2-cro-HR/PINK.png" xmltv_id="PINK">PINK</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="113453##pink-m2/271543-2-cro-HR/PINK-M.png" xmltv_id="PINK M">PINK M</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="113454##pink-bh2/271545-2-cro-HR/PINK-BH.png" xmltv_id="PINK BH">PINK BH</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="113455##pink-plus2/271547-2-cro-HR/PINK-Plus.png" xmltv_id="PINK Plus">PINK Plus</channel>
+    <channel update="i" site="tv.iskon.hr" site_id="113456##pink-extra2/271549-2-cro-HR/PINK-Extra.png" xmltv_id="PINK Extra">PINK Extra</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113519##pink-music2/271551-2-cro-HR/PINK-Music.png" xmltv_id="PINK Music">PINK Music</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113458##pink-folk-12/271553-2-cro-HR/PINK-Folk-1.png" xmltv_id="PINK Folk 1">PINK Folk 1</channel>
     <channel update="i" site="tv.iskon.hr" site_id="113459##pink-film2/271555-2-cro-HR/PINK-Film.png" xmltv_id="PINK Film">PINK Film</channel>
