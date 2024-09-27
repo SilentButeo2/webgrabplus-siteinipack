@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.0 -- Jan van Straaten" site="sledovanietv.sk">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.2.1 -- Jan van Straaten" site="sledovanietv.sk">
   <channels>
     <channel update="i" site="sledovanietv.sk" site_id="stv1sk" xmltv_id="Jednotka">Jednotka</channel>
     <channel update="i" site="sledovanietv.sk" site_id="stv2sk" xmltv_id="Dvojka">Dvojka</channel>
@@ -12,10 +12,10 @@
     <channel update="i" site="sledovanietv.sk" site_id="joj_svet" xmltv_id="JOJ Svet">JOJ Svet</channel>
     <channel update="i" site="sledovanietv.sk" site_id="rik" xmltv_id="Jojko">Jojko</channel>
     <channel update="i" site="sledovanietv.sk" site_id="markiza" xmltv_id="Markíza">Markíza</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="primacool_sk" xmltv_id="Prima COOL SK">Prima COOL SK</channel>
     <channel update="i" site="sledovanietv.sk" site_id="dajto" xmltv_id="Dajto">Dajto</channel>
     <channel update="i" site="sledovanietv.sk" site_id="doma" xmltv_id="Doma">Doma</channel>
     <channel update="i" site="sledovanietv.sk" site_id="markiza_krimi" xmltv_id="Markíza Krimi">Markíza Krimi</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="markiza_klasik" xmltv_id="Markíza Klasik">Markíza Klasik</channel>
     <channel update="i" site="sledovanietv.sk" site_id="joj_sport" xmltv_id="JOJ Šport">JOJ Šport</channel>
     <channel update="i" site="sledovanietv.sk" site_id="jojcinema" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
     <channel update="i" site="sledovanietv.sk" site_id="ta3" xmltv_id="TA3">TA3</channel>
@@ -27,6 +27,7 @@
     <channel update="i" site="sledovanietv.sk" site_id="ctart" xmltv_id="ČT art">ČT art</channel>
     <channel update="i" site="sledovanietv.sk" site_id="ct24" xmltv_id="ČT24">ČT24</channel>
     <channel update="i" site="sledovanietv.sk" site_id="primaplus" xmltv_id="Prima SK">Prima SK</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="primacool_sk" xmltv_id="Prima COOL SK">Prima COOL SK</channel>
     <channel update="i" site="sledovanietv.sk" site_id="prima_news" xmltv_id="CNN Prima News">CNN Prima News</channel>
     <channel update="i" site="sledovanietv.sk" site_id="Seznam" xmltv_id="Televize Seznam">Televize Seznam</channel>
     <channel update="i" site="sledovanietv.sk" site_id="novaint" xmltv_id="Nova International">Nova International</channel>
@@ -39,15 +40,10 @@
     <channel update="i" site="sledovanietv.sk" site_id="cinemax1" xmltv_id="Cinemax 1">Cinemax 1</channel>
     <channel update="i" site="sledovanietv.sk" site_id="cinemax2" xmltv_id="Cinemax 2">Cinemax 2</channel>
     <channel update="i" site="sledovanietv.sk" site_id="filmbox" xmltv_id="FilmBox">FilmBox</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="FilmboxHD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="FilmboxExtra" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="FilmboxFamily" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="filmboxplus" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="DocuBoxHD" xmltv_id="DocuBox">DocuBox</channel>
     <channel update="i" site="sledovanietv.sk" site_id="barrandov" xmltv_id="TV Barrandov">TV Barrandov</channel>
     <channel update="i" site="sledovanietv.sk" site_id="barrandovplus" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
     <channel update="i" site="sledovanietv.sk" site_id="kinobarrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="regiotv" xmltv_id="A11">A11</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="regiotv" xmltv_id="Náš region">Náš region</channel>
     <channel update="i" site="sledovanietv.sk" site_id="axn" xmltv_id="AXN">AXN</channel>
     <channel update="i" site="sledovanietv.sk" site_id="axnblack" xmltv_id="AXN Black">AXN Black</channel>
     <channel update="i" site="sledovanietv.sk" site_id="axnwhite" xmltv_id="AXN White">AXN White</channel>
@@ -63,6 +59,7 @@
     <channel update="i" site="sledovanietv.sk" site_id="travelxp" xmltv_id="Travelxp">Travelxp</channel>
     <channel update="i" site="sledovanietv.sk" site_id="NGC_HD" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="sledovanietv.sk" site_id="nat_geo_wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="sledovanietv.sk" site_id="animal_planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="sledovanietv.sk" site_id="travelhd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="sledovanietv.sk" site_id="spektrum" xmltv_id="Spektrum">Spektrum</channel>
@@ -74,8 +71,6 @@
     <channel update="i" site="sledovanietv.sk" site_id="ID" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel update="i" site="sledovanietv.sk" site_id="sat_crime_invest" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
     <channel update="i" site="sledovanietv.sk" site_id="history" xmltv_id="History Channel">History Channel</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="nasatv" xmltv_id="NASA TV">NASA TV</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="nasatv_uhd" xmltv_id="NASA TV UHD">NASA TV UHD</channel>
     <channel update="i" site="sledovanietv.sk" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
     <channel update="i" site="sledovanietv.sk" site_id="Eurosport2" xmltv_id="Eurosport2">Eurosport2</channel>
     <channel update="i" site="sledovanietv.sk" site_id="Sport1" xmltv_id="Sport1">Sport1</channel>
@@ -118,7 +113,6 @@
     <channel update="i" site="sledovanietv.sk" site_id="france24_fr" xmltv_id="France 24 (FR)">France 24 (FR)</channel>
     <channel update="i" site="sledovanietv.sk" site_id="tvnoe" xmltv_id="TV Noe">TV Noe</channel>
     <channel update="i" site="sledovanietv.sk" site_id="TVlife" xmltv_id="Life TV">Life TV</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="sledovanietv.sk" site_id="tv_lux" xmltv_id="TV Lux">TV Lux</channel>
     <channel update="i" site="sledovanietv.sk" site_id="hobby" xmltv_id="Hobby TV">Hobby TV</channel>
     <channel update="i" site="sledovanietv.sk" site_id="mnamtv" xmltv_id="TV Mňam">TV Mňam</channel>
@@ -136,7 +130,7 @@
     <channel update="i" site="sledovanietv.sk" site_id="pan_kubinska_hora" xmltv_id="Panorama Kubínská hoľa">Panorama Kubínská hoľa</channel>
     <channel update="i" site="sledovanietv.sk" site_id="pan_marino_brdo" xmltv_id="Panorama Malinô Brdo">Panorama Malinô Brdo</channel>
     <channel update="i" site="sledovanietv.sk" site_id="cms_tv" xmltv_id="cms:tv">cms:tv</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="uatv" xmltv_id="UA TV">UA TV</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="uatv" xmltv_id="FREEDOM">FREEDOM</channel>
     <channel update="i" site="sledovanietv.sk" site_id="m1" xmltv_id="M1">M1</channel>
     <channel update="i" site="sledovanietv.sk" site_id="m2" xmltv_id="M2">M2</channel>
     <channel update="i" site="sledovanietv.sk" site_id="m4" xmltv_id="M4 Sport">M4 Sport</channel>
@@ -157,14 +151,17 @@
     <channel update="i" site="sledovanietv.sk" site_id="espresso" xmltv_id="Espreso TV">Espreso TV</channel>
     <channel update="i" site="sledovanietv.sk" site_id="ivodarenstvi" xmltv_id="iVodárenství">iVodárenství</channel>
     <channel update="i" site="sledovanietv.sk" site_id="tvr" xmltv_id="TV R">TV R</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="FilmboxHD" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="FilmboxExtra" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="FilmboxFamily" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="DocuBoxHD" xmltv_id="DocuBox">DocuBox</channel>
     <channel update="i" site="sledovanietv.sk" site_id="FashionboxHD" xmltv_id="FashionBox">FashionBox</channel>
     <channel update="i" site="sledovanietv.sk" site_id="FightboxHD" xmltv_id="FightBox">FightBox</channel>
     <channel update="i" site="sledovanietv.sk" site_id="Fastnfunbox" xmltv_id="Fast &amp; Fun Box">Fast &amp; Fun Box</channel>
     <channel update="i" site="sledovanietv.sk" site_id="FilmboxArthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="sledovanietv.sk" site_id="filmboxplus" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
     <channel update="i" site="sledovanietv.sk" site_id="360TuneBox" xmltv_id="360TuneBox">360TuneBox</channel>
     <channel update="i" site="sledovanietv.sk" site_id="auto_motor_sport" xmltv_id="Auto Motor Sport">Auto Motor Sport</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="Disney_Channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="sledovanietv.sk" site_id="disney_junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="sledovanietv.sk" site_id="rtl_klub" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="sledovanietv.sk" site_id="cool_tv_hun" xmltv_id="Cool TV">Cool TV</channel>
     <channel update="i" site="sledovanietv.sk" site_id="rtl2_hun" xmltv_id="RTL KETTŐ">RTL KETTŐ</channel>
