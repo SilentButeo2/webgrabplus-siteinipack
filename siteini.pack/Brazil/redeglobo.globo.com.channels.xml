@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="redeglobo.globo.com">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="redeglobo.globo.com">
   <channels>
+    <channel update="i" site="redeglobo.globo.com" site_id="americas" xmltv_id="Internacional - Américas">Internacional - Américas</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="on" xmltv_id="Internacional - Globo On">Internacional - Globo On</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="portugal" xmltv_id="Internacional - Portugal">Internacional - Portugal</channel>
+    <channel update="i" site="redeglobo.globo.com" site_id="africa" xmltv_id="Internacional - África">Internacional - África</channel>
     <channel update="i" site="redeglobo.globo.com" site_id="globobrasilia" xmltv_id="Regionais - Globo Brasília">Regionais - Globo Brasília</channel>
     <channel update="i" site="redeglobo.globo.com" site_id="globominas" xmltv_id="Regionais - Globo Minas">Regionais - Globo Minas</channel>
     <channel update="i" site="redeglobo.globo.com" site_id="globonordeste" xmltv_id="Regionais - Globo Nordeste">Regionais - Globo Nordeste</channel>
