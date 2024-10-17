@@ -1,41 +1,73 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" site="viasat.fi">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="viasat.fi">
   <channels>
+    <channel update="i" site="viasat.fi" site_id="686" xmltv_id="YLE TV1 HD (F) (T)">YLE TV1 HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="687" xmltv_id="YLE TV2 HD (F) (T)">YLE TV2 HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1076" xmltv_id="MTV3 HD (F) (T)">MTV3 HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1077" xmltv_id="Nelonen (F) (T)">Nelonen (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="689" xmltv_id="YLE Teema &amp; Fem HD (F) (T)">YLE Teema &amp; Fem HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1078" xmltv_id="MTV Sub (F) (T)">MTV Sub (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1079" xmltv_id="TV5 (F) (T)">TV5 (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1080" xmltv_id="liv (F) (T)">liv (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1081" xmltv_id="JIM (F) (T)">JIM (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1083" xmltv_id="Discovery Channel (F) (T)">Discovery Channel (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1084" xmltv_id="MTV Juniori (F) (T) ">MTV Juniori (F) (T) </channel>
+    <channel update="i" site="viasat.fi" site_id="0358" xmltv_id="Viasat Explore HD (T)">Viasat Explore HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0357" xmltv_id="Viasat History HD (T)">Viasat History HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0356" xmltv_id="Viasat Nature HD (T)">Viasat Nature HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1094" xmltv_id="Love Nature HD (T)">Love Nature HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0084" xmltv_id="National Geographic HD (S/F) (T)">National Geographic HD (S/F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="668" xmltv_id="Horse &amp; Country (T)">Horse &amp; Country (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1016" xmltv_id="BBC Nordic HD (S/D/F) (T)">BBC Nordic HD (S/D/F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1002" xmltv_id="SkyShowtime 1 HD (T)">SkyShowtime 1 HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1001" xmltv_id="SkyShowtime 2 HD (T)">SkyShowtime 2 HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="968" xmltv_id="MTV Aitio HD (F) (T)">MTV Aitio HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1101" xmltv_id="Dizi">Dizi</channel>
+    <channel update="i" site="viasat.fi" site_id="971" xmltv_id="MTV Viihde HD (F) (T)">MTV Viihde HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="972" xmltv_id="SF Kanalen (T)">SF Kanalen (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="418" xmltv_id="V sport ultra HD (T)">V sport ultra HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="527" xmltv_id="V sport premium HD (T)">V sport premium HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0362" xmltv_id="V sport 1 HD (S/F) (T)">V sport 1 HD (S/F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0364" xmltv_id="V sport golf HD (T)">V sport golf HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0274" xmltv_id="V sport+ Suomi HD (T)">V sport+ Suomi HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="488" xmltv_id="V sport 2 Suomi HD (T)">V sport 2 Suomi HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0269" xmltv_id="V sport football HD (T)">V sport football HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0159" xmltv_id="V sport 1 Suomi HD (T)">V sport 1 Suomi HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0363" xmltv_id="V sport vinter HD (T)">V sport vinter HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1085" xmltv_id="MTV Max HD (F) (T) ">MTV Max HD (F) (T) </channel>
+    <channel update="i" site="viasat.fi" site_id="1086" xmltv_id="MTV Urheilu 1 HD (F) (T)">MTV Urheilu 1 HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1087" xmltv_id="MTV Urheilu 2 HD (F) (T)">MTV Urheilu 2 HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1088" xmltv_id="Eurosport 1 HD (F) (T)">Eurosport 1 HD (F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1024" xmltv_id="Eurosport 2 HD (S/F) (T)">Eurosport 2 HD (S/F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1039" xmltv_id="ID Investigation Discovery (S/F) (T)">ID Investigation Discovery (S/F) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1097" xmltv_id="Mezzo Live (T)">Mezzo Live (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0080" xmltv_id="MTV (Nordic) (T)">MTV (Nordic) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0246" xmltv_id="MTV 00s (T)">MTV 00s (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="604" xmltv_id="MTV 80s (T)">MTV 80s (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1096" xmltv_id="Moonbug (T)">Moonbug (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0088" xmltv_id="Nick Jr. (T)">Nick Jr. (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0086" xmltv_id="Nickelodeon (Nordic) (T)">Nickelodeon (Nordic) (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0028" xmltv_id="Cartoon Network (T) ">Cartoon Network (T) </channel>
+    <channel update="i" site="viasat.fi" site_id="570" xmltv_id="Nicktoons (T)">Nicktoons (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0148" xmltv_id="SVT1 HD (T)">SVT1 HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0282" xmltv_id="SVT2 HD (T)">SVT2 HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0147" xmltv_id="SVT Barn HD (T)">SVT Barn HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0149" xmltv_id="Kunskapskanalen HD (T)">Kunskapskanalen HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0033" xmltv_id="CNN (T)">CNN (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0016" xmltv_id="BBC News (T)">BBC News (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="596" xmltv_id="Sky News (T)">Sky News (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1008" xmltv_id="Bloomberg (T)">Bloomberg (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0344" xmltv_id="Al Jazeera English (T)">Al Jazeera English (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0032" xmltv_id="CNBC (T)">CNBC (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="1007" xmltv_id="DW English (T)">DW English (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0321" xmltv_id="V film premiere HD (T)">V film premiere HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0308" xmltv_id="V film family (T)">V film family (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0299" xmltv_id="V film action HD (T)">V film action HD (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0322" xmltv_id="V film hits HD (T)">V film hits HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0369" xmltv_id="V sport + Suomi HD (T)">V sport + Suomi HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="488" xmltv_id="OTT V sport 2 Suomi HD">OTT V sport 2 Suomi HD</channel>
-    <channel update="i" site="viasat.fi" site_id="0159" xmltv_id="OTT V sport 1 Suomi HD">OTT V sport 1 Suomi HD</channel>
-    <channel update="i" site="viasat.fi" site_id="527" xmltv_id="V sport premium HD (T)">V sport premium HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0362" xmltv_id="V sport 1 HD (SE) (T)">V sport 1 HD (SE) (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0269" xmltv_id="V sport football HD (T)">V sport football HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0363" xmltv_id="V sport vinter HD (T)">V sport vinter HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0364" xmltv_id="V sport golf HD (T)">V sport golf HD (T)</channel>
+    <channel update="i" site="viasat.fi" site_id="0308" xmltv_id="V film family (T)">V film family (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0255" xmltv_id="V sport live 1 (T)">V sport live 1 (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0256" xmltv_id="V sport live 2 (T)">V sport live 2 (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0257" xmltv_id="V sport live 3 (T)">V sport live 3 (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0258" xmltv_id="V sport live 4 (T)">V sport live 4 (T)</channel>
     <channel update="i" site="viasat.fi" site_id="0259" xmltv_id="V sport live 5 (T)">V sport live 5 (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="418" xmltv_id="V sport ultra HD (T)">V sport ultra HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0037" xmltv_id="Disney Channel (Nordic) (T)">Disney Channel (Nordic) (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0307" xmltv_id="Disney Junior (T)">Disney Junior (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0028" xmltv_id="Cartoon Network (T) ">Cartoon Network (T) </channel>
-    <channel update="i" site="viasat.fi" site_id="0017" xmltv_id="Boomerang (T)">Boomerang (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0088" xmltv_id="Nick Jr. (T)">Nick Jr. (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0084" xmltv_id="National Geographic HD (SE/FI) (T)">National Geographic HD (SE/FI) (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="558" xmltv_id="National Geographic Wild HD -OTT">National Geographic Wild HD -OTT</channel>
-    <channel update="i" site="viasat.fi" site_id="0263" xmltv_id="Viasat History">Viasat History</channel>
-    <channel update="i" site="viasat.fi" site_id="0252" xmltv_id="Viasat Explore (BSS)">Viasat Explore (BSS)</channel>
-    <channel update="i" site="viasat.fi" site_id="0250" xmltv_id="Viasat Nature">Viasat Nature</channel>
-    <channel update="i" site="viasat.fi" site_id="0033" xmltv_id="CNN (T)">CNN (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0032" xmltv_id="CNBC -OTT">CNBC -OTT</channel>
-    <channel update="i" site="viasat.fi" site_id="0080" xmltv_id="MTV (Nordic) (T)">MTV (Nordic) (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0246" xmltv_id="MTV 00s (T)">MTV 00s (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0360" xmltv_id="TV6 HD (SE) (T)">TV6 HD (SE) (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="0290" xmltv_id="TV3 HD (SE) (T)">TV3 HD (SE) (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="1001" xmltv_id="Paramount+ MOVIES HD (T)">Paramount+ MOVIES HD (T)</channel>
-    <channel update="i" site="viasat.fi" site_id="1002" xmltv_id="Paramount+ SERIES HD (T)">Paramount+ SERIES HD (T)</channel>
   </channels>
 </site>
