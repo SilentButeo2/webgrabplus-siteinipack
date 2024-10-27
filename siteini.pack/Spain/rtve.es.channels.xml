@@ -1,23 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="rtve.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.2.1 -- Jan van Straaten" site="rtve.es">
   <channels>
-    <channel update="i" site="rtve.es" site_id="##la1" xmltv_id="La 1">La 1</channel>
-    <channel update="i" site="rtve.es" site_id="##la2" xmltv_id="La 2">La 2</channel>
-    <channel update="i" site="rtve.es" site_id="##tdp" xmltv_id="Teledeporte">Teledeporte</channel>
-    <channel update="i" site="rtve.es" site_id="##24h" xmltv_id="24 horas">24 horas</channel>
-    <channel update="i" site="rtve.es" site_id="##clan" xmltv_id="Clan">Clan</channel>
-    <channel update="i" site="rtve.es" site_id="catalunya##la1" xmltv_id="La 1 Cataluña">La 1 Cataluña</channel>
-    <channel update="i" site="rtve.es" site_id="catalunya##la2" xmltv_id="La 2 Cataluña">La 2 Cataluña</channel>
-    <channel update="i" site="rtve.es" site_id="catalunya##24h" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
-    <channel update="i" site="rtve.es" site_id="canarias##la1" xmltv_id="La 1 Canarias">La 1 Canarias</channel>
-    <channel update="i" site="rtve.es" site_id="canarias##la2" xmltv_id="La 2 Canarias">La 2 Canarias</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##play" xmltv_id="Somos Cine">Somos Cine</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playep" xmltv_id="De Series">De Series</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playpr" xmltv_id="Cuéntame">Cuéntame</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playcri" xmltv_id="Los Conciertos de Radio 3">Los Conciertos de Radio 3</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playdoc" xmltv_id="De Viajes">De Viajes</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playm1" xmltv_id="La Promesa">La Promesa</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playm2" xmltv_id="4 Estrellas">4 Estrellas</channel>
-    <channel update="i" site="rtve.es" site_id="canales-digitales##playm3" xmltv_id="Crimen">Crimen</channel>
+    <channel update="i" site="rtve.es" site_id="##tv-la1" xmltv_id="La 1">La 1</channel>
+    <channel update="i" site="rtve.es" site_id="##tv-la2" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="rtve.es" site_id="##tv-teledeporte" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="rtve.es" site_id="##tv-24-horas" xmltv_id="24 horas">24 horas</channel>
+    <channel update="i" site="rtve.es" site_id="##tv-clan" xmltv_id="Clan">Clan</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##tv-la1_cat" xmltv_id="La 1 Cataluña">La 1 Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##tv-la2_cat" xmltv_id="La 2 Cataluña">La 2 Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="catalunya##tv-24-horas_cat" xmltv_id="24 horas Cataluña">24 horas Cataluña</channel>
+    <channel update="i" site="rtve.es" site_id="canarias##tv-la1_can" xmltv_id="La 1 Canarias">La 1 Canarias</channel>
+    <channel update="i" site="rtve.es" site_id="canarias##tv-la2_can" xmltv_id="La 2 Canarias">La 2 Canarias</channel>
+    <channel update="i" site="rtve.es" site_id="canarias##tv-24-horas_can" xmltv_id="24 horas Canarias">24 horas Canarias</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##somos_cine" xmltv_id="Somos Cine">Somos Cine</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##de_series" xmltv_id="De Series">De Series</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##cuentame" xmltv_id="Cuéntame">Cuéntame</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##los_conciertos_de_radio_3" xmltv_id="Los Conciertos de Radio 3">Los Conciertos de Radio 3</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##de_viajes" xmltv_id="De Viajes">De Viajes</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##la_promesa" xmltv_id="La Promesa">La Promesa</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##4_estrellas" xmltv_id="4 Estrellas">4 Estrellas</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##crimen" xmltv_id="Crimen">Crimen</channel>
+    <channel update="i" site="rtve.es" site_id="canales-digitales##epoca" xmltv_id="Época">Época</channel>
   </channels>
 </site>
