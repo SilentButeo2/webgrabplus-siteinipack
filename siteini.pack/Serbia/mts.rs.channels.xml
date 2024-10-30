@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.3.0 -- Jan van Straaten" site="mts.rs">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="mts.rs">
   <channels>
     <channel update="i" site="mts.rs" site_id="iris_tv_promo" xmltv_id="Iris TV promo">Iris TV promo</channel>
     <channel update="i" site="mts.rs" site_id="rts_1_hd" xmltv_id="RTS 1">RTS 1</channel>
@@ -20,8 +20,9 @@
     <channel update="i" site="mts.rs" site_id="bloomberg_adria" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
     <channel update="i" site="mts.rs" site_id="blic_tv" xmltv_id="Blic TV">Blic TV</channel>
     <channel update="i" site="mts.rs" site_id="studio_b" xmltv_id="Studio B">Studio B</channel>
+    <channel update="i" site="mts.rs" site_id="Newsmax_Balkans" xmltv_id="Newsmax Balkans">Newsmax Balkans</channel>
     <channel update="i" site="mts.rs" site_id="balkan_trip" xmltv_id="Balkan Trip">Balkan Trip</channel>
-    <channel update="i" site="mts.rs" site_id="insta_tv" xmltv_id="Insta TV">Insta TV</channel>
+    <channel update="i" site="mts.rs" site_id="Narodna_TV" xmltv_id="Narodna TV">Narodna TV</channel>
     <channel update="i" site="mts.rs" site_id="insajder" xmltv_id="Insajder">Insajder</channel>
     <channel update="i" site="mts.rs" site_id="toxic_tv" xmltv_id="Toxic TV">Toxic TV</channel>
     <channel update="i" site="mts.rs" site_id="tv_palma_plus" xmltv_id="TV Palma plus">TV Palma plus</channel>
@@ -184,6 +185,9 @@
     <channel update="i" site="mts.rs" site_id="da_vinci_learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
     <channel update="i" site="mts.rs" site_id="crime_and_investigation" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
     <channel update="i" site="mts.rs" site_id="LH_TV" xmltv_id="LH TV">LH TV</channel>
+    <channel update="i" site="mts.rs" site_id="TravelXP_4K" xmltv_id="TravelXP">TravelXP</channel>
+    <channel update="i" site="mts.rs" site_id="Love Nature_4K" xmltv_id="Love Nature">Love Nature</channel>
+    <channel update="i" site="mts.rs" site_id="Yachting_TV " xmltv_id="Yachting TV ">Yachting TV </channel>
     <channel update="i" site="mts.rs" site_id="kazbuka" xmltv_id="Kazbuka">Kazbuka</channel>
     <channel update="i" site="mts.rs" site_id="dexy_tv_duplicate" xmltv_id="Dexy TV">Dexy TV</channel>
     <channel update="i" site="mts.rs" site_id="rts_poletarac" xmltv_id="RTS Poletarac">RTS Poletarac</channel>
@@ -261,7 +265,6 @@
     <channel update="i" site="mts.rs" site_id="tv_delta" xmltv_id="TV Delta">TV Delta</channel>
     <channel update="i" site="mts.rs" site_id="tv_most" xmltv_id="TV Most">TV Most</channel>
     <channel update="i" site="mts.rs" site_id="vtv" xmltv_id="VTV">VTV</channel>
-    <channel update="i" site="mts.rs" site_id="tv_banat" xmltv_id="TV Banat">TV Banat</channel>
     <channel update="i" site="mts.rs" site_id="tv_santos" xmltv_id="TV Santos">TV Santos</channel>
     <channel update="i" site="mts.rs" site_id="tv_kikinda" xmltv_id="TV Kikinda">TV Kikinda</channel>
     <channel update="i" site="mts.rs" site_id="tv_lav" xmltv_id="TV Lav">TV Lav</channel>
@@ -345,6 +348,7 @@
     <channel update="i" site="mts.rs" site_id="Nais_TV " xmltv_id="Nais TV">Nais TV</channel>
     <channel update="i" site="mts.rs" site_id="tv_strela" xmltv_id="TV Strela">TV Strela</channel>
     <channel update="i" site="mts.rs" site_id="TV_Vozd " xmltv_id="TV Vožd ">TV Vožd </channel>
+    <channel update="i" site="mts.rs" site_id="TV_Brus" xmltv_id="TV Brus">TV Brus</channel>
     <channel update="i" site="mts.rs" site_id="hrt_1" xmltv_id="HRT 1">HRT 1</channel>
     <channel update="i" site="mts.rs" site_id="hrt_2" xmltv_id="HRT 2">HRT 2</channel>
     <channel update="i" site="mts.rs" site_id="hrt_3" xmltv_id="HRT 3">HRT 3</channel>
@@ -422,54 +426,54 @@
     <channel update="i" site="mts.rs" site_id="Hit FM_radio" xmltv_id="Hit FM radio">Hit FM radio</channel>
     <channel update="i" site="mts.rs" site_id="radio_lola" xmltv_id="Radio Lola">Radio Lola</channel>
     <channel update="i" site="mts.rs" site_id="2000s" xmltv_id="2000s">2000s</channel>
-    <channel update="i" site="mts.rs" site_id="60s" xmltv_id="60s">60s</channel>
-    <channel update="i" site="mts.rs" site_id="70s" xmltv_id="70s">70s</channel>
-    <channel update="i" site="mts.rs" site_id="80s" xmltv_id="80s">80s</channel>
-    <channel update="i" site="mts.rs" site_id="90s" xmltv_id="90s">90s</channel>
+    <channel update="i" site="mts.rs" site_id="60s" xmltv_id="’60s">’60s</channel>
+    <channel update="i" site="mts.rs" site_id="70s" xmltv_id="Soho ’70s">Soho ’70s</channel>
+    <channel update="i" site="mts.rs" site_id="80s" xmltv_id="’80s">’80s</channel>
+    <channel update="i" site="mts.rs" site_id="90s" xmltv_id="’90s">’90s</channel>
     <channel update="i" site="mts.rs" site_id="all_day_party" xmltv_id="All Day Party">All Day Party</channel>
-    <channel update="i" site="mts.rs" site_id="bass,_breaks_&amp;_beats" xmltv_id="Bass, Breaks &amp; Beats">Bass, Breaks &amp; Beats</channel>
-    <channel update="i" site="mts.rs" site_id="blues" xmltv_id="Blues">Blues</channel>
+    <channel update="i" site="mts.rs" site_id="bass,_breaks_&amp;_beats" xmltv_id="Bass, Breaks and Beats">Bass, Breaks and Beats</channel>
+    <channel update="i" site="mts.rs" site_id="blues" xmltv_id="Deep Blues">Deep Blues</channel>
     <channel update="i" site="mts.rs" site_id="chillout" xmltv_id="Chillout">Chillout</channel>
     <channel update="i" site="mts.rs" site_id="classic_r'n'b_&amp;_soul" xmltv_id="Classic R n B &amp; Soul">Classic R n B &amp; Soul</channel>
-    <channel update="i" site="mts.rs" site_id="classic_rock" xmltv_id="Classic Rock">Classic Rock</channel>
+    <channel update="i" site="mts.rs" site_id="classic_rock" xmltv_id="Rock of Ages">Rock of Ages</channel>
     <channel update="i" site="mts.rs" site_id="classical_calm" xmltv_id="Classical Calm">Classical Calm</channel>
     <channel update="i" site="mts.rs" site_id="classical_greats" xmltv_id="Classical Greats">Classical Greats</channel>
     <channel update="i" site="mts.rs" site_id="la_vitta_e_bella" xmltv_id="La Vitta e Bella">La Vitta e Bella</channel>
     <channel update="i" site="mts.rs" site_id="cocktail_lounge" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
     <channel update="i" site="mts.rs" site_id="cool_jazz" xmltv_id="Cool Jazz">Cool Jazz</channel>
-    <channel update="i" site="mts.rs" site_id="instrumental_melodies" xmltv_id="Instrumental Melodies">Instrumental Melodies</channel>
+    <channel update="i" site="mts.rs" site_id="instrumental_melodies" xmltv_id="Easy Listening">Easy Listening</channel>
     <channel update="i" site="mts.rs" site_id="dancefloor_fillers" xmltv_id="Dancefloor Fillers">Dancefloor Fillers</channel>
     <channel update="i" site="mts.rs" site_id="drive" xmltv_id="Drive">Drive</channel>
     <channel update="i" site="mts.rs" site_id="freedom" xmltv_id="Freedom">Freedom</channel>
     <channel update="i" site="mts.rs" site_id="groove_(_disco_&amp;_funk)" xmltv_id="Groove ( Disco &amp; Funk)">Groove ( Disco &amp; Funk)</channel>
     <channel update="i" site="mts.rs" site_id="headbangers" xmltv_id="Headbangers">Headbangers</channel>
     <channel update="i" site="mts.rs" site_id="hip_hop" xmltv_id="Hip Hop">Hip Hop</channel>
-    <channel update="i" site="mts.rs" site_id="house_music" xmltv_id="House Music">House Music</channel>
+    <channel update="i" site="mts.rs" site_id="house_music" xmltv_id="House">House</channel>
     <channel update="i" site="mts.rs" site_id="jazz_classics" xmltv_id="Jazz Classics">Jazz Classics</channel>
-    <channel update="i" site="mts.rs" site_id="latin" xmltv_id="Latin">Latin</channel>
-    <channel update="i" site="mts.rs" site_id="the_spa" xmltv_id="The Spa">The Spa</channel>
-    <channel update="i" site="mts.rs" site_id="jammin" xmltv_id="Jammin">Jammin</channel>
-    <channel update="i" site="mts.rs" site_id="revival_60s_&amp;_70s" xmltv_id="Revival 60s &amp; 70s">Revival 60s &amp; 70s</channel>
-    <channel update="i" site="mts.rs" site_id="rewind_80s_&amp;_90s" xmltv_id="Rewind 80s &amp; 90s">Rewind 80s &amp; 90s</channel>
+    <channel update="i" site="mts.rs" site_id="latin" xmltv_id="Éxitos Latinos">Éxitos Latinos</channel>
+    <channel update="i" site="mts.rs" site_id="the_spa" xmltv_id="New Age">New Age</channel>
+    <channel update="i" site="mts.rs" site_id="jammin" xmltv_id="Riddim">Riddim</channel>
+    <channel update="i" site="mts.rs" site_id="revival_60s_&amp;_70s" xmltv_id="Revival ’60s &amp; ’70s">Revival ’60s &amp; ’70s</channel>
+    <channel update="i" site="mts.rs" site_id="rewind_80s_&amp;_90s" xmltv_id="Rewind ’80s &amp; ’90s">Rewind ’80s &amp; ’90s</channel>
     <channel update="i" site="mts.rs" site_id="rock_anthems" xmltv_id="Rock Anthems">Rock Anthems</channel>
     <channel update="i" site="mts.rs" site_id="rock'n'roll" xmltv_id="Rock n Roll">Rock n Roll</channel>
     <channel update="i" site="mts.rs" site_id="silk_(love_songs)" xmltv_id="Silk (Love Songs)">Silk (Love Songs)</channel>
-    <channel update="i" site="mts.rs" site_id="rock_alternative_-us" xmltv_id="Rock Alternative -US">Rock Alternative -US</channel>
-    <channel update="i" site="mts.rs" site_id="total_hits_balkan" xmltv_id="Total Hits Balkan">Total Hits Balkan</channel>
+    <channel update="i" site="mts.rs" site_id="rock_alternative_-us" xmltv_id="Alternative">Alternative</channel>
+    <channel update="i" site="mts.rs" site_id="total_hits_balkan" xmltv_id="Total Hits Balkans">Total Hits Balkans</channel>
     <channel update="i" site="mts.rs" site_id="balkan_retro_hits" xmltv_id="Balkan Retro Hits">Balkan Retro Hits</channel>
-    <channel update="i" site="mts.rs" site_id="gypsy_party" xmltv_id="Gypsy Party">Gypsy Party</channel>
+    <channel update="i" site="mts.rs" site_id="gypsy_party" xmltv_id="Balkan Music/Gypsy">Balkan Music/Gypsy</channel>
     <channel update="i" site="mts.rs" site_id="total_hits_italy" xmltv_id="Total Hits Italy">Total Hits Italy</channel>
     <channel update="i" site="mts.rs" site_id="omg" xmltv_id="OMG">OMG</channel>
-    <channel update="i" site="mts.rs" site_id="hit_list_(usa)" xmltv_id="Hit List (USA)">Hit List (USA)</channel>
+    <channel update="i" site="mts.rs" site_id="hit_list_(usa)" xmltv_id="Hit List">Hit List</channel>
     <channel update="i" site="mts.rs" site_id="total_hits_uk" xmltv_id="Total Hits UK">Total Hits UK</channel>
     <channel update="i" site="mts.rs" site_id="trance" xmltv_id="Trance">Trance</channel>
     <channel update="i" site="mts.rs" site_id="chansons" xmltv_id="Chansons">Chansons</channel>
-    <channel update="i" site="mts.rs" site_id="urban" xmltv_id="Urban">Urban</channel>
-    <channel update="i" site="mts.rs" site_id="carnival" xmltv_id="Carnival">Carnival</channel>
-    <channel update="i" site="mts.rs" site_id="zvuci_skadarlije" xmltv_id="Zvuci Skadarlije">Zvuci Skadarlije</channel>
-    <channel update="i" site="mts.rs" site_id="nezne_note" xmltv_id="Nežne note">Nežne note</channel>
-    <channel update="i" site="mts.rs" site_id="decja_muzika" xmltv_id="Dečja muzika">Dečja muzika</channel>
-    <channel update="i" site="mts.rs" site_id="srpski_rok" xmltv_id="Srpski rok">Srpski rok</channel>
+    <channel update="i" site="mts.rs" site_id="urban" xmltv_id="Hip-Hop/R&amp;B">Hip-Hop/R&amp;B</channel>
+    <channel update="i" site="mts.rs" site_id="carnival" xmltv_id="Stingray Specials">Stingray Specials</channel>
+    <channel update="i" site="mts.rs" site_id="zvuci_skadarlije" xmltv_id="The Spa">The Spa</channel>
+    <channel update="i" site="mts.rs" site_id="nezne_note" xmltv_id="Today s K-Pop">Today s K-Pop</channel>
+    <channel update="i" site="mts.rs" site_id="decja_muzika" xmltv_id="Greatest Hits">Greatest Hits</channel>
+    <channel update="i" site="mts.rs" site_id="srpski_rok" xmltv_id="Serbian Rock">Serbian Rock</channel>
     <channel update="i" site="mts.rs" site_id="radio_beograd_1" xmltv_id="Radio Beograd 1">Radio Beograd 1</channel>
     <channel update="i" site="mts.rs" site_id="radio_beograd_2_3" xmltv_id="Radio Beograd 2">Radio Beograd 2</channel>
     <channel update="i" site="mts.rs" site_id="radio_beograd_202" xmltv_id="Radio Beograd 202">Radio Beograd 202</channel>
@@ -490,7 +494,9 @@
     <channel update="i" site="mts.rs" site_id="Lova Lova" xmltv_id="Lova Lova">Lova Lova</channel>
     <channel update="i" site="mts.rs" site_id="Radio_Rokenroler " xmltv_id="Radio Rokenroler ">Radio Rokenroler </channel>
     <channel update="i" site="mts.rs" site_id="Radio_Vrteška " xmltv_id="Radio Vrteška ">Radio Vrteška </channel>
+    <channel update="i" site="mts.rs" site_id="k1" xmltv_id="K1">K1</channel>
     <channel update="i" site="mts.rs" site_id="klasik_tv" xmltv_id="Klasik">Klasik</channel>
+    <channel update="i" site="mts.rs" site_id="prva" xmltv_id="Prva">Prva</channel>
     <channel update="i" site="mts.rs" site_id="pozicija-rastuce" xmltv_id="Pozicija - Rastuće">Pozicija - Rastuće</channel>
   </channels>
 </site>
