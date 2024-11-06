@@ -1,70 +1,77 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="allente.se">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="allente.se">
   <channels>
-    <channel update="i" site="allente.dk" site_id="30001" xmltv_id="DR1 HD">DR1 HD</channel>
-    <channel update="i" site="allente.dk" site_id="30003" xmltv_id="TV 2 HD (D)">TV 2 HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30007" xmltv_id="TV3 HD (D)">TV3 HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30032" xmltv_id="TV3+ HD (D)">TV3+ HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30008" xmltv_id="TV3 Puls HD">TV3 Puls HD</channel>
-    <channel update="i" site="allente.dk" site_id="30004" xmltv_id="Kanal 4 HD">Kanal 4 HD</channel>
-    <channel update="i" site="allente.dk" site_id="30005" xmltv_id="Kanal 5 HD (D)">Kanal 5 HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30012" xmltv_id="TV 2 News HD">TV 2 News HD</channel>
-    <channel update="i" site="allente.dk" site_id="30013" xmltv_id="TV 2 Charlie HD">TV 2 Charlie HD</channel>
-    <channel update="i" site="allente.dk" site_id="30019" xmltv_id="TV 2 Echo HD">TV 2 Echo HD</channel>
-    <channel update="i" site="allente.dk" site_id="30014" xmltv_id="TV 2 Fri HD">TV 2 Fri HD</channel>
-    <channel update="i" site="allente.dk" site_id="30002" xmltv_id="DR2 HD">DR2 HD</channel>
-    <channel update="i" site="allente.dk" site_id="30006" xmltv_id="6’eren HD">6’eren HD</channel>
-    <channel update="i" site="allente.dk" site_id="30015" xmltv_id="dk4">dk4</channel>
-    <channel update="i" site="allente.dk" site_id="50038" xmltv_id="BBC Nordic HD">BBC Nordic HD</channel>
-    <channel update="i" site="allente.dk" site_id="50012" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="allente.dk" site_id="50041" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="allente.dk" site_id="50015" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="allente.dk" site_id="30017" xmltv_id="TLC Danmark">TLC Danmark</channel>
-    <channel update="i" site="allente.dk" site_id="50143" xmltv_id="Mezzo Live">Mezzo Live</channel>
-    <channel update="i" site="allente.dk" site_id="50142" xmltv_id="Love Nature HD">Love Nature HD</channel>
-    <channel update="i" site="allente.dk" site_id="50007" xmltv_id="HISTORY">HISTORY</channel>
-    <channel update="i" site="allente.dk" site_id="50008" xmltv_id="HISTORY 2">HISTORY 2</channel>
-    <channel update="i" site="allente.dk" site_id="50114" xmltv_id="Viasat History HD">Viasat History HD</channel>
-    <channel update="i" site="allente.dk" site_id="50115" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
-    <channel update="i" site="allente.dk" site_id="50113" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
-    <channel update="i" site="allente.dk" site_id="30047" xmltv_id="National Geographic HD (D)">National Geographic HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30018" xmltv_id="Discovery Channel HD (D)">Discovery Channel HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30024" xmltv_id="ID Investigation Discovery (D)">ID Investigation Discovery (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30021" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
-    <channel update="i" site="allente.dk" site_id="50018" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="allente.dk" site_id="20062" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="allente.dk" site_id="50085" xmltv_id="Nicktoons">Nicktoons</channel>
-    <channel update="i" site="allente.dk" site_id="50019" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="allente.dk" site_id="50141" xmltv_id="Moonbug">Moonbug</channel>
-    <channel update="i" site="allente.dk" site_id="50106" xmltv_id="V film premiere HD">V film premiere HD</channel>
-    <channel update="i" site="allente.dk" site_id="50050" xmltv_id="V series HD">V series HD</channel>
-    <channel update="i" site="allente.dk" site_id="50107" xmltv_id="V film action HD">V film action HD</channel>
-    <channel update="i" site="allente.dk" site_id="50108" xmltv_id="V film hits HD">V film hits HD</channel>
-    <channel update="i" site="allente.dk" site_id="50109" xmltv_id="V film family">V film family</channel>
-    <channel update="i" site="allente.dk" site_id="50025" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="allente.dk" site_id="50024" xmltv_id="CNN International">CNN International</channel>
-    <channel update="i" site="allente.dk" site_id="50082" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="allente.dk" site_id="50083" xmltv_id="DW English">DW English</channel>
-    <channel update="i" site="allente.dk" site_id="30027" xmltv_id="TV3 Sport HD (D)">TV3 Sport HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30050" xmltv_id="TV3 MAX HD">TV3 MAX HD</channel>
-    <channel update="i" site="allente.dk" site_id="30009" xmltv_id="CANAL9 HD (D)">CANAL9 HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="50022" xmltv_id="Eurosport 1 HD (D)">Eurosport 1 HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="30010" xmltv_id="Eurosport 2 HD (D)">Eurosport 2 HD (D)</channel>
-    <channel update="i" site="allente.dk" site_id="50077" xmltv_id="V sport golf HD">V sport golf HD</channel>
-    <channel update="i" site="allente.dk" site_id="30011" xmltv_id="TV 2 SPORT HD">TV 2 SPORT HD</channel>
-    <channel update="i" site="allente.dk" site_id="30051" xmltv_id="TV 2 SPORT X">TV 2 SPORT X</channel>
-    <channel update="i" site="allente.dk" site_id="30056" xmltv_id="See">See</channel>
-    <channel update="i" site="allente.dk" site_id="30026" xmltv_id="Sport Live">Sport Live</channel>
-    <channel update="i" site="allente.dk" site_id="20001" xmltv_id="SVT1 HD">SVT1 HD</channel>
-    <channel update="i" site="allente.dk" site_id="20002" xmltv_id="SVT2 HD">SVT2 HD</channel>
-    <channel update="i" site="allente.dk" site_id="20004" xmltv_id="TV4 HD">TV4 HD</channel>
-    <channel update="i" site="allente.dk" site_id="10001" xmltv_id="NRK1 HD">NRK1 HD</channel>
-    <channel update="i" site="allente.dk" site_id="30038" xmltv_id="TV 2 / Syd">TV 2 / Syd</channel>
-    <channel update="i" site="allente.dk" site_id="30037" xmltv_id="TV 2 / Fyn">TV 2 / Fyn</channel>
-    <channel update="i" site="allente.dk" site_id="30036" xmltv_id="TV 2 / Øst">TV 2 / Øst</channel>
-    <channel update="i" site="allente.dk" site_id="30041" xmltv_id="TV 2 / Nord">TV 2 / Nord</channel>
-    <channel update="i" site="allente.dk" site_id="30040" xmltv_id="TV 2 / Midt-Vest">TV 2 / Midt-Vest</channel>
-    <channel update="i" site="allente.dk" site_id="30039" xmltv_id="TV 2 / Østjylland">TV 2 / Østjylland</channel>
-    <channel update="i" site="allente.dk" site_id="30042" xmltv_id="TV 2 / Bornholm">TV 2 / Bornholm</channel>
+    <channel update="i" site="allente.dk" site_id="452" xmltv_id="DR1 HD (T)">DR1 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0297" xmltv_id="TV 2 HD (D) (T)">TV 2 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0359" xmltv_id="TV3 HD (D) (T)">TV3 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0248" xmltv_id="TV3+ HD (D) (T)">TV3+ HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="665" xmltv_id="TV3 Puls HD (D) (T)">TV3 Puls HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0064" xmltv_id="Kanal 4 HD (D) (T)">Kanal 4 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0065" xmltv_id="Kanal 5 HD (D) (T)">Kanal 5 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0190" xmltv_id="TV 2 News HD (D) (T)">TV 2 News HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0180" xmltv_id="TV 2 Charlie HD (D) (T)">TV 2 Charlie HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0209" xmltv_id="TV 2 Echo HD (D) (T)">TV 2 Echo HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0378" xmltv_id="TV 2 Fri HD (D) (T)">TV 2 Fri HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0051" xmltv_id="DR2 HD (T)">DR2 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="568" xmltv_id="6’eren HD (D) (T)">6’eren HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0376" xmltv_id="dk4 (T)">dk4 (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1016" xmltv_id="BBC Nordic HD (S/D/F) (T)">BBC Nordic HD (S/D/F) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0076" xmltv_id="MTV (Nordic) (T)">MTV (Nordic) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="604" xmltv_id="MTV 80s (T)">MTV 80s (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0246" xmltv_id="MTV 00s (T)">MTV 00s (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1097" xmltv_id="Mezzo Live (T)">Mezzo Live (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1014" xmltv_id="TLC Danmark (T)">TLC Danmark (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0357" xmltv_id="Viasat History HD (T)">Viasat History HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0356" xmltv_id="Viasat Nature HD (T)">Viasat Nature HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0358" xmltv_id="Viasat Explore HD (T)">Viasat Explore HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0317" xmltv_id="National Geographic HD (D) (T)">National Geographic HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1074" xmltv_id="Discovery Channel HD (D) (T)">Discovery Channel HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1094" xmltv_id="Love Nature HD (T)">Love Nature HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1013" xmltv_id="ID Investigation Discovery (D) (T)">ID Investigation Discovery (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0048" xmltv_id="DR Ramasjang (T)">DR Ramasjang (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0088" xmltv_id="Nick Jr. (T)">Nick Jr. (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0086" xmltv_id="Nickelodeon (Nordic) (T)">Nickelodeon (Nordic) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="570" xmltv_id="Nicktoons (T)">Nicktoons (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0028" xmltv_id="Cartoon Network (T) ">Cartoon Network (T) </channel>
+    <channel update="i" site="allente.dk" site_id="1096" xmltv_id="Moonbug (T)">Moonbug (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1002" xmltv_id="SkyShowtime 1 HD (T)">SkyShowtime 1 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1001" xmltv_id="SkyShowtime 2 HD (T)">SkyShowtime 2 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0321" xmltv_id="V film premiere HD (T)">V film premiere HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0320" xmltv_id="V series HD (T)">V series HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0299" xmltv_id="V film action HD (T)">V film action HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0322" xmltv_id="V film hits HD (T)">V film hits HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0308" xmltv_id="V film family (T)">V film family (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1101" xmltv_id="Dizi">Dizi</channel>
+    <channel update="i" site="allente.dk" site_id="0016" xmltv_id="BBC News (T)">BBC News (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0033" xmltv_id="CNN (T)">CNN (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0032" xmltv_id="CNBC (T)">CNBC (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1007" xmltv_id="DW English (T)">DW English (T)</channel>
+    <channel update="i" site="allente.dk" site_id="596" xmltv_id="Sky News (T)">Sky News (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0344" xmltv_id="Al Jazeera English (T)">Al Jazeera English (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1008" xmltv_id="Bloomberg (T)">Bloomberg (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0200" xmltv_id="TV3 Sport HD (D) (T)">TV3 Sport HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0374" xmltv_id="TV3 MAX HD (D) (T)">TV3 MAX HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0368" xmltv_id="CANAL9 HD (D) (T)">CANAL9 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1075" xmltv_id="Eurosport 1 HD (D) (T)">Eurosport 1 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0367" xmltv_id="Eurosport 2 HD (D) (T)">Eurosport 2 HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="418" xmltv_id="V sport ultra HD (T)">V sport ultra HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0364" xmltv_id="V sport golf HD (T)">V sport golf HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="454" xmltv_id="TV 2 Sport HD (D) (T)">TV 2 Sport HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="718" xmltv_id="TV 2 Sport X HD (D) (T)">TV 2 Sport X HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="707" xmltv_id="See HD (D) (T)">See HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="668" xmltv_id="Horse &amp; Country (T)">Horse &amp; Country (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1015" xmltv_id="Sport Live (D) (T)">Sport Live (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0255" xmltv_id="V sport live 1 (T)">V sport live 1 (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0256" xmltv_id="V sport live 2 (T)">V sport live 2 (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0257" xmltv_id="V sport live 3 (T)">V sport live 3 (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0258" xmltv_id="V sport live 4 (T)">V sport live 4 (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0259" xmltv_id="V sport live 5 (T)">V sport live 5 (T)</channel>
+    <channel update="i" site="allente.dk" site_id="1222" xmltv_id="Viaplay Sport News HD (D) (T)">Viaplay Sport News HD (D) (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0148" xmltv_id="SVT1 HD (T)">SVT1 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0282" xmltv_id="SVT2 HD (T)">SVT2 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0227" xmltv_id="TV4 HD (T)">TV4 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0090" xmltv_id="NRK1 HD (T)">NRK1 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0288" xmltv_id="NRK2 HD (T)">NRK2 HD (T)</channel>
+    <channel update="i" site="allente.dk" site_id="0289" xmltv_id="NRK3/ NRK Super HD (T)">NRK3/ NRK Super HD (T)</channel>
   </channels>
 </site>
