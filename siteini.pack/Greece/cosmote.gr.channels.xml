@@ -1,106 +1,115 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="cosmote.gr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="cosmote.gr">
   <channels>
-    <channel update="i" site="cosmote.gr" site_id="boule" xmltv_id="ΒΟΥΛΗ">ΒΟΥΛΗ</channel>
-    <channel update="i" site="cosmote.gr" site_id="ert-news" xmltv_id="ΕΡΤ NEWS">ΕΡΤ NEWS</channel>
-    <channel update="i" site="cosmote.gr" site_id="ert1-hd" xmltv_id="ΕΡΤ1 HD">ΕΡΤ1 HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="ert2-hd" xmltv_id="ΕΡΤ2 HD">ΕΡΤ2 HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="ert3-hd" xmltv_id="ΕΡΤ3 HD">ΕΡΤ3 HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="ant1-hd" xmltv_id="ANT1 HD">ANT1 HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="alpha-hd" xmltv_id="ALPHA HD">ALPHA HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="star-hd" xmltv_id="STAR HD">STAR HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="skai-hd" xmltv_id="ΣΚΑΪ HD">ΣΚΑΪ HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="open-beyond-hd" xmltv_id="OPEN BEYOND HD">OPEN BEYOND HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="one-channel-hd" xmltv_id="ONE Channel HD">ONE Channel HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="mega-hd" xmltv_id="MEGA HD">MEGA HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="makedonia-tv-hd" xmltv_id="Μακεδονία TV HD">Μακεδονία TV HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="naftemporiki" xmltv_id="Naftemporiki">Naftemporiki</channel>
-    <channel update="i" site="cosmote.gr" site_id="action-24" xmltv_id="Action 24">Action 24</channel>
-    <channel update="i" site="cosmote.gr" site_id="kontra" xmltv_id="Kontra">Kontra</channel>
-    <channel update="i" site="cosmote.gr" site_id="attica-tv" xmltv_id="ATTICA TV">ATTICA TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="euronews-greek" xmltv_id="Euronews Greek">Euronews Greek</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-history-hd" xmltv_id="COSMOTE HISTORY HD">COSMOTE HISTORY HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmotecinemaoscarshd" xmltv_id="COSMOTE CINEMA KIDS">COSMOTE CINEMA KIDS</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-cinema-1hd" xmltv_id="COSMOTE CINEMA 1HD">COSMOTE CINEMA 1HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-cinema-2-hd" xmltv_id="COSMOTE CINEMA 2 HD">COSMOTE CINEMA 2 HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-cinema-3" xmltv_id="COSMOTE CINEMA 3">COSMOTE CINEMA 3</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-series-hd" xmltv_id="COSMOTE SERIES HD">COSMOTE SERIES HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-series-marathon" xmltv_id="COSMOTE SERIES MARATHON">COSMOTE SERIES MARATHON</channel>
-    <channel update="i" site="cosmote.gr" site_id="village-cinema-hd" xmltv_id="Village Cinema HD">Village Cinema HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="tcm-hd" xmltv_id="TCM HD">TCM HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="fx-life" xmltv_id="FX Life">FX Life</channel>
-    <channel update="i" site="cosmote.gr" site_id="fx" xmltv_id="FX">FX</channel>
-    <channel update="i" site="cosmote.gr" site_id="e-hd" xmltv_id="E! HD">E! HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-highlights-hd" xmltv_id="COSMOTE SPORT HIGHLIGHTS HD">COSMOTE SPORT HIGHLIGHTS HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-1hd" xmltv_id="COSMOTE SPORT 1HD">COSMOTE SPORT 1HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-2hd" xmltv_id="COSMOTE SPORT 2HD">COSMOTE SPORT 2HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-3hd" xmltv_id="COSMOTE SPORT 3HD">COSMOTE SPORT 3HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-4hd" xmltv_id="COSMOTE SPORT 4HD">COSMOTE SPORT 4HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-5hd" xmltv_id="COSMOTE SPORT 5HD">COSMOTE SPORT 5HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-6hd" xmltv_id="COSMOTE SPORT 6HD">COSMOTE SPORT 6HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-7hd" xmltv_id="COSMOTE SPORT 7HD">COSMOTE SPORT 7HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-8hd" xmltv_id="COSMOTE SPORT 8HD">COSMOTE SPORT 8HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-9hd" xmltv_id="COSMOTE SPORT 9HD">COSMOTE SPORT 9HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-4k" xmltv_id="COSMOTE Sport 4K">COSMOTE Sport 4K</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-aek-super-league-pass" xmltv_id="COSMOTE SPORT ΑΕΚ Super League Pass">COSMOTE SPORT ΑΕΚ Super League Pass</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-olympiakos-super-league-pass" xmltv_id="COSMOTE SPORT ΟΛΥΜΠΙΑΚΟΣ Super League Pass">COSMOTE SPORT ΟΛΥΜΠΙΑΚΟΣ Super League Pass</channel>
-    <channel update="i" site="cosmote.gr" site_id="cosmote-sport-panathenaikos-super-league-pass" xmltv_id="COSMOTE SPORT ΠΑΝΑΘΗΝΑΪΚΟΣ Super League Pass">COSMOTE SPORT ΠΑΝΑΘΗΝΑΪΚΟΣ Super League Pass</channel>
-    <channel update="i" site="cosmote.gr" site_id="edgesport-hd" xmltv_id="EDGEsport HD">EDGEsport HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="nautical-channel-hd" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="motorvision-" xmltv_id="Motorvision+">Motorvision+</channel>
-    <channel update="i" site="cosmote.gr" site_id="ginx-esports" xmltv_id="GINX eSports">GINX eSports</channel>
-    <channel update="i" site="cosmote.gr" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="viasat-history-hd" xmltv_id="Viasat History HD">Viasat History HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="viasat-nature-hd" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="viasat-explore-hd" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="crime-and-investigation" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
-    <channel update="i" site="cosmote.gr" site_id="museum-tv" xmltv_id="Museum TV">Museum TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="myzen-tv" xmltv_id="MyZen TV">MyZen TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="cosmote.gr" site_id="luxe-tv-hd" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="ftv-hd" xmltv_id="FTV HD">FTV HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="cosmote.gr" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="cosmote.gr" site_id="nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="baby-tv" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="smile-tv" xmltv_id="Smile TV">Smile TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="promohd" xmltv_id="Promo HD">Promo HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="vouli" xmltv_id="ΒΟΥΛΗ HD">ΒΟΥΛΗ HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="ertnews" xmltv_id="ΕΡΤ NEWS">ΕΡΤ NEWS</channel>
+    <channel update="i" site="cosmote.gr" site_id="ert1" xmltv_id="ΕΡΤ1 HD">ΕΡΤ1 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="ert2" xmltv_id="ΕΡΤ2 HD">ΕΡΤ2 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="ert3" xmltv_id="ΕΡΤ3 HD">ΕΡΤ3 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="ant1hd" xmltv_id="ANT1">ANT1</channel>
+    <channel update="i" site="cosmote.gr" site_id="alphahd" xmltv_id="ALPHA">ALPHA</channel>
+    <channel update="i" site="cosmote.gr" site_id="starhd" xmltv_id="STAR">STAR</channel>
+    <channel update="i" site="cosmote.gr" site_id="skaihd" xmltv_id="ΣΚΑΪ">ΣΚΑΪ</channel>
+    <channel update="i" site="cosmote.gr" site_id="openbeyondhd" xmltv_id="OPEN BEYOND">OPEN BEYOND</channel>
+    <channel update="i" site="cosmote.gr" site_id="onechannelhd" xmltv_id="ONE Channel HD">ONE Channel HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="megahd" xmltv_id="MEGA HD">MEGA HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="makedoniatv" xmltv_id="Μακεδονία TV HD">Μακεδονία TV HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="naftemporhd" xmltv_id="Naftemporiki">Naftemporiki</channel>
+    <channel update="i" site="cosmote.gr" site_id="action24" xmltv_id="Action 24">Action 24</channel>
+    <channel update="i" site="cosmote.gr" site_id="kontrahd" xmltv_id="Kontra">Kontra</channel>
+    <channel update="i" site="cosmote.gr" site_id="atticatv" xmltv_id="ATTICA TV">ATTICA TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="euronewsgreek" xmltv_id="Euronews Greek">Euronews Greek</channel>
+    <channel update="i" site="cosmote.gr" site_id="historyhd" xmltv_id="COSMOTE History HD">COSMOTE History HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="cinema1hd" xmltv_id="COSMOTE Cinema 1 HD">COSMOTE Cinema 1 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="cinema2hd" xmltv_id="COSMOTE Cinema 2 HD">COSMOTE Cinema 2 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="cinema3" xmltv_id="COSMOTE Cinema 3">COSMOTE Cinema 3</channel>
+    <channel update="i" site="cosmote.gr" site_id="cinema4hd" xmltv_id="COSMOTE Series HD">COSMOTE Series HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="marathonhd" xmltv_id="COSMOTE Series Marathon">COSMOTE Series Marathon</channel>
+    <channel update="i" site="cosmote.gr" site_id="villagehd" xmltv_id="Village Cinema HD">Village Cinema HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="tcmhd" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="foxlifehd" xmltv_id="FX Life">FX Life</channel>
+    <channel update="i" site="cosmote.gr" site_id="foxhd" xmltv_id="FX">FX</channel>
+    <channel update="i" site="cosmote.gr" site_id="ehd" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="highlightshd" xmltv_id="COSMOTE Sport Highlights HD">COSMOTE Sport Highlights HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport1hd" xmltv_id="COSMOTE Sport 1 HD">COSMOTE Sport 1 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport2hd" xmltv_id="COSMOTE Sport 2 HD">COSMOTE Sport 2 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport3hd" xmltv_id="COSMOTE Sport 3 HD">COSMOTE Sport 3 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport4hd" xmltv_id="COSMOTE Sport 4 HD">COSMOTE Sport 4 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport5hd" xmltv_id="COSMOTE Sport 5 HD">COSMOTE Sport 5 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport6hd" xmltv_id="COSMOTE Sport 6 HD">COSMOTE Sport 6 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport7hd" xmltv_id="COSMOTE Sport 7 HD">COSMOTE Sport 7 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport8hd" xmltv_id="COSMOTE Sport 8 HD">COSMOTE Sport 8 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport9hd" xmltv_id="COSMOTE Sport 9 HD">COSMOTE Sport 9 HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="sport4k1" xmltv_id="COSMOTE Sport 4K">COSMOTE Sport 4K</channel>
+    <channel update="i" site="cosmote.gr" site_id="team01hd" xmltv_id="ΑΕΚ SL Pass">ΑΕΚ SL Pass</channel>
+    <channel update="i" site="cosmote.gr" site_id="team02hd" xmltv_id="ΟΛΥΜΠΙΑΚΟΣ SL Pass">ΟΛΥΜΠΙΑΚΟΣ SL Pass</channel>
+    <channel update="i" site="cosmote.gr" site_id="team03hd" xmltv_id="ΠΑΝΑΘΗΝΑΪΚΟΣ SL Pass">ΠΑΝΑΘΗΝΑΪΚΟΣ SL Pass</channel>
+    <channel update="i" site="cosmote.gr" site_id="novanews" xmltv_id="Novasports News HD">Novasports News HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novastart" xmltv_id="Novasports Start HD">Novasports Start HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novaprime" xmltv_id="Novasports Prime HD">Novasports Prime HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nova1" xmltv_id="Novasports1HD">Novasports1HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nova2" xmltv_id="Novasports2HD">Novasports2HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nova3" xmltv_id="Novasports3HD">Novasports3HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nova4" xmltv_id="Novasports4HD">Novasports4HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nova5" xmltv_id="Novasports5HD">Novasports5HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nova6" xmltv_id="Novasports6HD">Novasports6HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novaplg" xmltv_id="Novasports Premier League HD">Novasports Premier League HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novaextra1" xmltv_id="Novasportsextra1HD">Novasportsextra1HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novaextra2" xmltv_id="Novasportsextra2HD">Novasportsextra2HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novaextra3" xmltv_id="Novasportsextra3HD">Novasportsextra3HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="novaextra4" xmltv_id="Novasportsextra4HD">Novasportsextra4HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="nauticalhd" xmltv_id="Nautical Channel HD">Nautical Channel HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="motorvisionhd" xmltv_id="Motorvision+">Motorvision+</channel>
+    <channel update="i" site="cosmote.gr" site_id="ginxesports" xmltv_id="GINX eSports">GINX eSports</channel>
+    <channel update="i" site="cosmote.gr" site_id="nationalgeo" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="natgeowildhd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="bbcearthhd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="viasathistory" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="viasatnature" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="viasatexplore" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="crimeinvestig" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+    <channel update="i" site="cosmote.gr" site_id="museumtv" xmltv_id="Museum TV">Museum TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="myzentvhd" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="luxetvhd" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="fashiontv" xmltv_id="FTV HD">FTV HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="disneychannel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="cosmote.gr" site_id="disneyjunior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="cosmote.gr" site_id="nickelodeonhd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="babytv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="smiletv" xmltv_id="Smile TV">Smile TV</channel>
     <channel update="i" site="cosmote.gr" site_id="ducktv" xmltv_id="ducktv">ducktv</channel>
-    <channel update="i" site="cosmote.gr" site_id="mad" xmltv_id="MAD">MAD</channel>
-    <channel update="i" site="cosmote.gr" site_id="mad-viral-hd" xmltv_id="MAD Viral HD">MAD Viral HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="panik-tv" xmltv_id="Panik TV">Panik TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="mtv-europe" xmltv_id="MTV Europe">MTV Europe</channel>
-    <channel update="i" site="cosmote.gr" site_id="mtv-live" xmltv_id="MTV Live">MTV Live</channel>
-    <channel update="i" site="cosmote.gr" site_id="mtv-00s" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="cosmote.gr" site_id="mezzo-live-hd" xmltv_id="MEZZO LIVE HD">MEZZO LIVE HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="stingray-cmusic" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
-    <channel update="i" site="cosmote.gr" site_id="stingray-iconcerts" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
-    <channel update="i" site="cosmote.gr" site_id="a-epsilon" xmltv_id="α.Epsilon">α.Epsilon</channel>
-    <channel update="i" site="cosmote.gr" site_id="bergina-tv" xmltv_id="Βεργίνα TV">Βεργίνα TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="ena-channel" xmltv_id="ENA Channel">ENA Channel</channel>
-    <channel update="i" site="cosmote.gr" site_id="4e" xmltv_id="4Ε">4Ε</channel>
-    <channel update="i" site="cosmote.gr" site_id="krete-nea-teleorase" xmltv_id="Κρήτη Νέα Τηλεόραση">Κρήτη Νέα Τηλεόραση</channel>
-    <channel update="i" site="cosmote.gr" site_id="krete-tv" xmltv_id="ΚΡΗΤΗ TV">ΚΡΗΤΗ TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="star-kentrikes-elladas" xmltv_id="Star Κεντρικής Ελλάδας">Star Κεντρικής Ελλάδας</channel>
+    <channel update="i" site="cosmote.gr" site_id="madhd" xmltv_id="MAD HD">MAD HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="madhitshd" xmltv_id="MAD Viral HD">MAD Viral HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="panikhd" xmltv_id="Panik TV">Panik TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="mtveurope" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="cosmote.gr" site_id="mtvlivehd" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="cosmote.gr" site_id="vh1" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="cosmote.gr" site_id="mtvhits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="cosmote.gr" site_id="mezzo" xmltv_id="MEZZO LIVE HD">MEZZO LIVE HD</channel>
+    <channel update="i" site="cosmote.gr" site_id="stingraycmusic" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
+    <channel update="i" site="cosmote.gr" site_id="stingrayiconc" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
+    <channel update="i" site="cosmote.gr" site_id="aepsilon" xmltv_id="α.Epsilon">α.Epsilon</channel>
+    <channel update="i" site="cosmote.gr" site_id="verginatv" xmltv_id="Βεργίνα TV">Βεργίνα TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="enachannel" xmltv_id="ENA Channel">ENA Channel</channel>
+    <channel update="i" site="cosmote.gr" site_id="channel4e" xmltv_id="4Ε">4Ε</channel>
+    <channel update="i" site="cosmote.gr" site_id="kritineatv" xmltv_id="Κρήτη Νέα Τηλεόραση">Κρήτη Νέα Τηλεόραση</channel>
+    <channel update="i" site="cosmote.gr" site_id="krititv" xmltv_id="ΚΡΗΤΗ TV">ΚΡΗΤΗ TV</channel>
+    <channel update="i" site="cosmote.gr" site_id="starkentriki" xmltv_id="Star Κεντρικής Ελλάδας">Star Κεντρικής Ελλάδας</channel>
     <channel update="i" site="cosmote.gr" site_id="tv100" xmltv_id="TV100">TV100</channel>
     <channel update="i" site="cosmote.gr" site_id="cnn" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="cosmote.gr" site_id="bbc-news" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="cosmote.gr" site_id="sky-news" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="cosmote.gr" site_id="dw" xmltv_id="DW">DW</channel>
-    <channel update="i" site="cosmote.gr" site_id="france-24-en" xmltv_id="France 24 En">France 24 En</channel>
-    <channel update="i" site="cosmote.gr" site_id="france-24-fr" xmltv_id="France 24 Fr">France 24 Fr</channel>
-    <channel update="i" site="cosmote.gr" site_id="al-arabiya" xmltv_id="Al Arabiya">Al Arabiya</channel>
-    <channel update="i" site="cosmote.gr" site_id="asharq-news" xmltv_id="Asharq News">Asharq News</channel>
-    <channel update="i" site="cosmote.gr" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="cosmote.gr" site_id="bbcworldnews" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="cosmote.gr" site_id="skynews" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="cosmote.gr" site_id="deutschewelle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="cosmote.gr" site_id="france24en" xmltv_id="France 24 En">France 24 En</channel>
+    <channel update="i" site="cosmote.gr" site_id="alarabiya" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel update="i" site="cosmote.gr" site_id="aljazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="cosmote.gr" site_id="asharq" xmltv_id="Asharq News">Asharq News</channel>
     <channel update="i" site="cosmote.gr" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel update="i" site="cosmote.gr" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="cosmote.gr" site_id="euronews-english" xmltv_id="Euronews English">Euronews English</channel>
-    <channel update="i" site="cosmote.gr" site_id="ert-world" xmltv_id="ERT WORLD">ERT WORLD</channel>
-    <channel update="i" site="cosmote.gr" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
-    <channel update="i" site="cosmote.gr" site_id="sirina-tv" xmltv_id="Sirina TV">Sirina TV</channel>
-    <channel update="i" site="cosmote.gr" site_id="penthouse-gold" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
-    <channel update="i" site="cosmote.gr" site_id="hustler-tv-hd" xmltv_id="Hustler TV HD">Hustler TV HD</channel>
-    <channel update="i" site="cosmote.gr" site_id="vixen" xmltv_id="VIXEN">VIXEN</channel>
+    <channel update="i" site="cosmote.gr" site_id="euronewseng" xmltv_id="Euronews English">Euronews English</channel>
+    <channel update="i" site="cosmote.gr" site_id="ertworld" xmltv_id="ERT WORLD">ERT WORLD</channel>
+    <channel update="i" site="cosmote.gr" site_id="test01" xmltv_id="TEST01">TEST01</channel>
+    <channel update="i" site="cosmote.gr" site_id="test02" xmltv_id="TEST02">TEST02</channel>
   </channels>
 </site>
