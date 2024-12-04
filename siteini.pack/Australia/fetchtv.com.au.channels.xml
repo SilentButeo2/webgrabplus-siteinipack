@@ -1,0 +1,592 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" site="fetchtv.com.au">
+  <channels>
+    <channel update="i" site="fetchtv.com.au" site_id="396557" xmltv_id="9Go! NSW">9Go! NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="272547" xmltv_id="10 TAS">10 TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="412513" xmltv_id="7TWO HD Qld">7TWO HD Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="18017" xmltv_id="NBN NSW">NBN NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="273191" xmltv_id="SBS Melbourne">SBS Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251843" xmltv_id="10 QLD">10 QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251840" xmltv_id="10 Albury">10 Albury</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289733" xmltv_id="9 Mackay">9 Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289732" xmltv_id="9 QLD">9 QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="249832" xmltv_id="ABC TV WA">ABC TV WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="406568" xmltv_id="10 Peach Comedy QLD">10 Peach Comedy QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="406567" xmltv_id="10 Peach Comedy NSW">10 Peach Comedy NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="406565" xmltv_id="10 Peach Comedy VIC">10 Peach Comedy VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="275885" xmltv_id="ABC TV ACT">ABC TV ACT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411316" xmltv_id="ABC Entertains NSW">ABC Entertains NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="406689" xmltv_id="10 Peach Comedy TAS">10 Peach Comedy TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411319" xmltv_id="ABC Entertains NT">ABC Entertains NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="406681" xmltv_id="10 BOLD Drama Northern NSW">10 BOLD Drama Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="18671" xmltv_id="Channel Nine Sydney">Channel Nine Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="392279" xmltv_id="10 DDT">10 DDT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251859" xmltv_id="Seven SA">Seven SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391419" xmltv_id="7HD Queensland, Wide Bay">7HD Queensland, Wide Bay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="408550" xmltv_id="NBN 9GEM Gold Coast">NBN 9GEM Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391416" xmltv_id="7HD QLD, Toowoomba">7HD QLD, Toowoomba</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391417" xmltv_id="7HD Queensland, Mackay">7HD Queensland, Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251856" xmltv_id="Seven TAS">Seven TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391140" xmltv_id="SBS HD Sydney">SBS HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391141" xmltv_id="SBS HD Adelaide">SBS HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391142" xmltv_id="SBS HD Brisbane">SBS HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391143" xmltv_id="SBS HD Melbourne">SBS HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391144" xmltv_id="SBS HD Perth">SBS HD Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388613" xmltv_id="10 BOLD Drama Perth">10 BOLD Drama Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="250185" xmltv_id="10 Melbourne">10 Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="250187" xmltv_id="10 Adelaide">10 Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388612" xmltv_id="10 BOLD Drama Adelaide">10 BOLD Drama Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388610" xmltv_id="10 BOLD Drama Melbourne">10 BOLD Drama Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388611" xmltv_id="10 BOLD Drama Brisbane">10 BOLD Drama Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="249943" xmltv_id="9 Wagga">9 Wagga</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289717" xmltv_id="7HD Queensland, Townsville">7HD Queensland, Townsville</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251860" xmltv_id="Seven Regional WA">Seven Regional WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251861" xmltv_id="Seven Central">Seven Central</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251862" xmltv_id="Seven Darwin">Seven Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381168" xmltv_id="7HD Southern, Wollongong">7HD Southern, Wollongong</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="387291" xmltv_id="7mate Sydney">7mate Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289718" xmltv_id="7HD Queensland, Rockhampton">7HD Queensland, Rockhampton</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407658" xmltv_id="9Go! Brisbane">9Go! Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="371465" xmltv_id="TVS">TVS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407657" xmltv_id="9Go! Melbourne">9Go! Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="408549" xmltv_id="NBN 9GEM NSW">NBN 9GEM NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="260450" xmltv_id="Channel Nine Gold Coast">Channel Nine Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="412514" xmltv_id="7TWO HD Vic">7TWO HD Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="16173" xmltv_id="10 Perth">10 Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411736" xmltv_id="7TWO Darwin">7TWO Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388609" xmltv_id="10 BOLD Drama Sydney">10 BOLD Drama Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391953" xmltv_id="7mate Prime NSW">7mate Prime NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="413691" xmltv_id="7mate Darwin">7mate Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="264783" xmltv_id="SBS Queensland">SBS Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="281938" xmltv_id="NBN Gold Coast">NBN Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411105" xmltv_id="9 SA">9 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="252342" xmltv_id="Channel Nine Melbourne">Channel Nine Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="264824" xmltv_id="Imparja Television Qld">Imparja Television Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="264823" xmltv_id="Imparja Television NSW/Vic">Imparja Television NSW/Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381170" xmltv_id="7HD Southern, Orange">7HD Southern, Orange</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411535" xmltv_id="ABC NEWS Tasmania">ABC NEWS Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381172" xmltv_id="7HD Queensland, Cairns">7HD Queensland, Cairns</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411324" xmltv_id="ABC Entertains Vic">ABC Entertains Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388547" xmltv_id="7mate Melbourne">7mate Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407760" xmltv_id="9Go! Sydney">9Go! Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="260461" xmltv_id="Channel Nine Brisbane">Channel Nine Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391723" xmltv_id="7HD Southern, South Coast">7HD Southern, South Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411534" xmltv_id="ABC NEWS Northern Territory">ABC NEWS Northern Territory</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="392906" xmltv_id="7HD Victoria, Gippsland">7HD Victoria, Gippsland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391924" xmltv_id="7mate Qld">7mate Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391133" xmltv_id="9Gem Perth">9Gem Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407824" xmltv_id="9Gem TAS">9Gem TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407827" xmltv_id="9Go! WA">9Go! WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391420" xmltv_id="7HD Queensland, Sunshine Coast">7HD Queensland, Sunshine Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251888" xmltv_id="ABC TV NT">ABC TV NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="410802" xmltv_id="7TWO Adelaide">7TWO Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="277145" xmltv_id="7HD Victoria, Albury">7HD Victoria, Albury</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251882" xmltv_id="Channel 31 Melbourne">Channel 31 Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251883" xmltv_id="31 Digital">31 Digital</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="273204" xmltv_id="SBS NT">SBS NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="18294" xmltv_id="ABC TV NSW">ABC TV NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="86173" xmltv_id="Channel Nine Adelaide">Channel Nine Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="86170" xmltv_id="ABC TV SA">ABC TV SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="381167" xmltv_id="7HD Northern, Lismore/Coffs Harbour">7HD Northern, Lismore/Coffs Harbour</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289724" xmltv_id="10 NSW">10 NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="86178" xmltv_id="Channel Seven Perth">Channel Seven Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391139" xmltv_id="ABC NEWS Western Australia">ABC NEWS Western Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391138" xmltv_id="ABC NEWS Queensland">ABC NEWS Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="259107" xmltv_id="SBS WA">SBS WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="259106" xmltv_id="SBS SA">SBS SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="259105" xmltv_id="SBS Eastern">SBS Eastern</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391132" xmltv_id="9Gem Melbourne">9Gem Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391135" xmltv_id="ABC NEWS NSW">ABC NEWS NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391134" xmltv_id="9Gem Sydney">9Gem Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391137" xmltv_id="ABC NEWS South Australia">ABC NEWS South Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391136" xmltv_id="ABC NEWS Victoria">ABC NEWS Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="96100" xmltv_id="Channel Seven Melbourne">Channel Seven Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289720" xmltv_id="7HD Northern, Tamworth/Taree/Port Macquarie">7HD Northern, Tamworth/Taree/Port Macquarie</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="246955" xmltv_id="10 Brisbane">10 Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="246952" xmltv_id="ABC TV QLD">ABC TV QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407804" xmltv_id="9Go! Mackay">9Go! Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="413061" xmltv_id="SBS HD Tasmania">SBS HD Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="413062" xmltv_id="SBS HD NT">SBS HD NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391183" xmltv_id="9Gem Brisbane">9Gem Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="86162" xmltv_id="ABC TV Tasmania">ABC TV Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="390741" xmltv_id="ABC Kids/ABC Family NT">ABC Kids/ABC Family NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="390740" xmltv_id="ABC Kids/ABC Family TAS">ABC Kids/ABC Family TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="86169" xmltv_id="Channel Nine Darwin">Channel Nine Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="413281" xmltv_id="9Go! TAS">9Go! TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="85459" xmltv_id="10 Sydney">10 Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="96115" xmltv_id="Channel Nine Perth">Channel Nine Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411737" xmltv_id="7TWO Tas">7TWO Tas</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="410801" xmltv_id="7TWO Perth">7TWO Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="410800" xmltv_id="7TWO Brisbane">7TWO Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="410799" xmltv_id="7TWO Melbourne">7TWO Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="394041" xmltv_id="9Gem Darwin">9Gem Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="407805" xmltv_id="9Go! VIC">9Go! VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="391960" xmltv_id="7mate Prime Victoria">7mate Prime Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251820" xmltv_id="9 VIC">9 VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251821" xmltv_id="9 Mildura">9 Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251823" xmltv_id="7HD SA">7HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251825" xmltv_id="9 WA">9 WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="249724" xmltv_id="9 TAS">9 TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="412512" xmltv_id="7TWO HD NSW">7TWO HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="410798" xmltv_id="7TWO Sydney">7TWO Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="403767" xmltv_id="10 Peach Comedy Melbourne">10 Peach Comedy Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="284794" xmltv_id="ABC Kids/ABC Family SA">ABC Kids/ABC Family SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="284795" xmltv_id="ABC Kids/ABC Family WA">ABC Kids/ABC Family WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="284791" xmltv_id="ABC Kids/ABC Family NSW">ABC Kids/ABC Family NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="284792" xmltv_id="ABC Kids/ABC Family VIC">ABC Kids/ABC Family VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="284793" xmltv_id="ABC Kids/ABC Family QLD">ABC Kids/ABC Family QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="264617" xmltv_id="SBS Tasmania">SBS Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411325" xmltv_id="ABC Entertains WA">ABC Entertains WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411320" xmltv_id="ABC Entertains Qld">ABC Entertains Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="18891" xmltv_id="Channel Seven Sydney">Channel Seven Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="272971" xmltv_id="10 Peach Comedy South East SA">10 Peach Comedy South East SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="85832" xmltv_id="Channel Seven Adelaide">Channel Seven Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="286937" xmltv_id="7HD Gold Coast">7HD Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="275039" xmltv_id="10 SA">10 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="92783" xmltv_id="Channel Seven Brisbane">Channel Seven Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251839" xmltv_id="10 VIC">10 VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251838" xmltv_id="7HD Victoria, Regional">7HD Victoria, Regional</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289726" xmltv_id="10 Northern NSW">10 Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251836" xmltv_id="9 Griffith">9 Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251835" xmltv_id="Seven SA">Seven SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289725" xmltv_id="10 Wagga Wagga">10 Wagga Wagga</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289722" xmltv_id="7HD Southern, Canberra">7HD Southern, Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289723" xmltv_id="7HD Southern, Wagga Wagga">7HD Southern, Wagga Wagga</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="251831" xmltv_id="SBS Sydney">SBS Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289721" xmltv_id="7HD Northern, Newcastle">7HD Northern, Newcastle</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="289727" xmltv_id="10 Gold Coast">10 Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="268822" xmltv_id="7HD Griffith">7HD Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388568" xmltv_id="7mate Perth">7mate Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="92843" xmltv_id="ABC TV Victoria">ABC TV Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411321" xmltv_id="ABC Entertains SA">ABC Entertains SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="411323" xmltv_id="ABC Entertains Tas">ABC Entertains Tas</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388566" xmltv_id="7mate Brisbane">7mate Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="388567" xmltv_id="7mate Adelaide">7mate Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="390716" xmltv_id="ABC Jazz Sydney">ABC Jazz Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="415671" xmltv_id="WTV">WTV</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="416647" xmltv_id="10 BOLD Drama NT">10 BOLD Drama NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="390715" xmltv_id="Double J Sydney">Double J Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="394044" xmltv_id="7mate TAS">7mate TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="394033" xmltv_id="SBS Radio 1 NSW">SBS Radio 1 NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="394034" xmltv_id="SBS Radio 2 NSW">SBS Radio 2 NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417903" xmltv_id="SBS Radio 1 Vic">SBS Radio 1 Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417904" xmltv_id="SBS Radio 2 Vic">SBS Radio 2 Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417936" xmltv_id="SBS Radio 2 WA">SBS Radio 2 WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417937" xmltv_id="SBS Radio 2 SA">SBS Radio 2 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417932" xmltv_id="SBS Radio 2 Qld">SBS Radio 2 Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417933" xmltv_id="SBS Radio 2 NT">SBS Radio 2 NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417930" xmltv_id="SBS Radio 1 SA">SBS Radio 1 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417931" xmltv_id="SBS Radio 1 Tas">SBS Radio 1 Tas</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417929" xmltv_id="SBS Radio 1 WA">SBS Radio 1 WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417928" xmltv_id="SBS Radio 1 NT">SBS Radio 1 NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417938" xmltv_id="SBS Radio 2 Tas">SBS Radio 2 Tas</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="417927" xmltv_id="SBS Radio 1 Qld">SBS Radio 1 Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="420314" xmltv_id="9Go! Darwin">9Go! Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="420676" xmltv_id="9 SA">9 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="421319" xmltv_id="NBN 9GO! NSW">NBN 9GO! NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="421322" xmltv_id="9Gem QLD">9Gem QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="421323" xmltv_id="9Gem VIC">9Gem VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="421320" xmltv_id="NBN 9GO! Queensland">NBN 9GO! Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="421321" xmltv_id="9Gem NSW">9Gem NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="421643" xmltv_id="10 Peach Comedy Griffith">10 Peach Comedy Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422289" xmltv_id="10 BOLD Drama VIC">10 BOLD Drama VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422293" xmltv_id="10 Peach Comedy SA">10 Peach Comedy SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422291" xmltv_id="10 BOLD Drama QLD">10 BOLD Drama QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422290" xmltv_id="10 Peach Comedy Northern NSW">10 Peach Comedy Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422431" xmltv_id="10 Peach Comedy Gold Coast">10 Peach Comedy Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422428" xmltv_id="10 BOLD Drama NSW">10 BOLD Drama NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422432" xmltv_id="10 BOLD Drama NSW">10 BOLD Drama NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422292" xmltv_id="10 BOLD Drama TAS">10 BOLD Drama TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="403766" xmltv_id="10 Peach Comedy Adelaide">10 Peach Comedy Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="403765" xmltv_id="10 Peach Comedy Brisbane">10 Peach Comedy Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="403768" xmltv_id="10 Peach Comedy Perth">10 Peach Comedy Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="403769" xmltv_id="10 Peach Comedy Sydney">10 Peach Comedy Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422857" xmltv_id="44Adelaide">44Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="424003" xmltv_id="10HD WA">10HD WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="425019" xmltv_id="9 Albury">9 Albury</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="425342" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="422296" xmltv_id="10 Peach Comedy Darwin">10 Peach Comedy Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426600" xmltv_id="10 Peach Comedy QLD">10 Peach Comedy QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426603" xmltv_id="10 BOLD Drama Central Qld">10 BOLD Drama Central Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426593" xmltv_id="7mate QLD">7mate QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426595" xmltv_id="Imparja Go! Qld">Imparja Go! Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426597" xmltv_id="Imparja GEM Qld">Imparja GEM Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426599" xmltv_id="10 Central QLD">10 Central QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426591" xmltv_id="7TWO HD Central Qld">7TWO HD Central Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426811" xmltv_id="7mate WA">7mate WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="426810" xmltv_id="7TWO WA">7TWO WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428123" xmltv_id="10 BOLD Drama WA">10 BOLD Drama WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428122" xmltv_id="10 Peach Comedy WA">10 Peach Comedy WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428147" xmltv_id="9Go! WA">9Go! WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428146" xmltv_id="9Gem WA">9Gem WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428254" xmltv_id="10 Shepparton">10 Shepparton</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428688" xmltv_id="ABC Kids/ABC Family ACT">ABC Kids/ABC Family ACT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="428862" xmltv_id="10 BOLD Drama Central">10 BOLD Drama Central</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429040" xmltv_id="9Gem SA">9Gem SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429038" xmltv_id="7mate SA">7mate SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429039" xmltv_id="7TWO SA">7TWO SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429042" xmltv_id="10 BOLD Drama SA">10 BOLD Drama SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429041" xmltv_id="9Go! SA">9Go! SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429036" xmltv_id="7TWO SA">7TWO SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429037" xmltv_id="10 BOLD Drama South East SA">10 BOLD Drama South East SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429035" xmltv_id="7mate SA">7mate SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429032" xmltv_id="9Go! Adelaide">9Go! Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429034" xmltv_id="10HD South East SA">10HD South East SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429033" xmltv_id="9Gem Adelaide">9Gem Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429416" xmltv_id="10 BOLD Drama Griffith">10 BOLD Drama Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="429410" xmltv_id="10HD Griffith">10HD Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430014" xmltv_id="7mate NSW">7mate NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430263" xmltv_id="7TWO Griffith">7TWO Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430557" xmltv_id="7TWO HD QLD">7TWO HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430637" xmltv_id="TVSN NSW">TVSN NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430651" xmltv_id="TVSN WA">TVSN WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430652" xmltv_id="TVSN QLD">TVSN QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430653" xmltv_id="TVSN SA">TVSN SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430654" xmltv_id="TVSN VIC">TVSN VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430839" xmltv_id="10HD Mildura">10HD Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430840" xmltv_id="10 BOLD Drama Mildura">10 BOLD Drama Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430903" xmltv_id="Imparja GEM NSW">Imparja GEM NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430904" xmltv_id="Imparja Go! NSW">Imparja Go! NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430923" xmltv_id="NITV SA">NITV SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430926" xmltv_id="NITV WA">NITV WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430924" xmltv_id="NITV QLD">NITV QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430922" xmltv_id="NITV NSW">NITV NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430925" xmltv_id="NITV VIC">NITV VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430948" xmltv_id="7TWO Central">7TWO Central</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430949" xmltv_id="7mate Central">7mate Central</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430950" xmltv_id="10 Central">10 Central</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="430960" xmltv_id="10 Peach Comedy Central">10 Peach Comedy Central</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431029" xmltv_id="NITV TAS">NITV TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431030" xmltv_id="NITV NT">NITV NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431091" xmltv_id="WIN GOLD TAS">WIN GOLD TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431090" xmltv_id="WIN GOLD VIC">WIN GOLD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431089" xmltv_id="WIN GOLD NSW">WIN GOLD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431092" xmltv_id="WIN GOLD QLD">WIN GOLD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431099" xmltv_id="ishoptv QLD">ishoptv QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431095" xmltv_id="Sky News Regional NSW">Sky News Regional NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431097" xmltv_id="Sky News Regional VIC">Sky News Regional VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431096" xmltv_id="Sky News Regional QLD">Sky News Regional QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431084" xmltv_id="SBS Radio 3 SA">SBS Radio 3 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431085" xmltv_id="SBS Radio 3 Tas">SBS Radio 3 Tas</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431087" xmltv_id="SBS Radio 3 WA">SBS Radio 3 WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431083" xmltv_id="SBS Radio 3 Qld">SBS Radio 3 Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431081" xmltv_id="SBS Radio 3 NSW">SBS Radio 3 NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431086" xmltv_id="SBS Radio 3 Vic">SBS Radio 3 Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431082" xmltv_id="SBS Radio 3 NT">SBS Radio 3 NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431136" xmltv_id="gecko NSW">gecko NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431143" xmltv_id="gecko SA">gecko SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431141" xmltv_id="gecko VIC">gecko VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431144" xmltv_id="gecko WA">gecko WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431142" xmltv_id="gecko QLD">gecko QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431149" xmltv_id="TVSN TAS">TVSN TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431194" xmltv_id="Aspire SA">Aspire SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431195" xmltv_id="Aspire TAS">Aspire TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431202" xmltv_id="Extra 2 SA">Extra 2 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431208" xmltv_id="RACING.COM NSW">RACING.COM NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431209" xmltv_id="RACING.COM VIC">RACING.COM VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431211" xmltv_id="RACING.COM SA">RACING.COM SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431210" xmltv_id="RACING.COM QLD">RACING.COM QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431212" xmltv_id="RACING.COM WA">RACING.COM WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431226" xmltv_id="Extra 2 WA">Extra 2 WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431263" xmltv_id="9Go! South East SA">9Go! South East SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431261" xmltv_id="9Gem South East SA">9Gem South East SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="11277" xmltv_id="Extra 2 channels with no EPG provided">Extra 2 channels with no EPG provided</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431371" xmltv_id="Education TV">Education TV</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431372" xmltv_id="TVNT">TVNT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431369" xmltv_id="Aboriginal TV">Aboriginal TV</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431367" xmltv_id="WIN Gold SA">WIN Gold SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431370" xmltv_id="Tourism TV">Tourism TV</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431477" xmltv_id="RACING.COM NT">RACING.COM NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431478" xmltv_id="RACING.COM TAS">RACING.COM TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431495" xmltv_id="SBS Food SA">SBS Food SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431496" xmltv_id="SBS Food NT">SBS Food NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431491" xmltv_id="SBS Food NSW">SBS Food NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431493" xmltv_id="SBS Food WA">SBS Food WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431494" xmltv_id="SBS Food QLD">SBS Food QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431497" xmltv_id="SBS Food TAS">SBS Food TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431492" xmltv_id="SBS Food VIC">SBS Food VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431509" xmltv_id="9HD Darwin">9HD Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431508" xmltv_id="9HD Gold Coast">9HD Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431503" xmltv_id="9HD Sydney">9HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431507" xmltv_id="9HD Perth">9HD Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431506" xmltv_id="9HD Brisbane">9HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431505" xmltv_id="9HD Melbourne">9HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431504" xmltv_id="9HD Adelaide">9HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431510" xmltv_id="9Life Sydney">9Life Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431511" xmltv_id="9Life Melbourne">9Life Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431512" xmltv_id="9Life Brisbane">9Life Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431514" xmltv_id="9Life Adelaide">9Life Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431515" xmltv_id="9Life Perth">9Life Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431543" xmltv_id="7flix SA">7flix SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431542" xmltv_id="7flix Brisbane">7flix Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431541" xmltv_id="7flix NSW">7flix NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431546" xmltv_id="7flix QLD">7flix QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431545" xmltv_id="7flix WA">7flix WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431544" xmltv_id="7flix VIC">7flix VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431561" xmltv_id="10 HD Adelaide">10 HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431563" xmltv_id="10 HD Melbourne">10 HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431562" xmltv_id="10 HD Brisbane">10 HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431565" xmltv_id="10 HD Sydney">10 HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431564" xmltv_id="10 HD Perth">10 HD Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431557" xmltv_id="NBN 9HD Gold Coast">NBN 9HD Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431558" xmltv_id="NBN 9HD NSW">NBN 9HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431559" xmltv_id="NBN 9Life NSW">NBN 9Life NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431560" xmltv_id="NBN 9Life Gold Coast">NBN 9Life Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431553" xmltv_id="ABC NEWS ACT">ABC NEWS ACT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431572" xmltv_id="9HD Wagga">9HD Wagga</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431573" xmltv_id="9HD Mackay">9HD Mackay</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431576" xmltv_id="9HD WA">9HD WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431574" xmltv_id="9HD TAS">9HD TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431575" xmltv_id="9HD VIC">9HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431568" xmltv_id="9HD Riverland">9HD Riverland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431610" xmltv_id="7flix Gold Coast">7flix Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431613" xmltv_id="7HD Adelaide">7HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431612" xmltv_id="7HD Brisbane">7HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431611" xmltv_id="7HD Sydney">7HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431614" xmltv_id="7HD Melbourne">7HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431619" xmltv_id="7HD Perth">7HD Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431667" xmltv_id="Nickelodeon NSW">Nickelodeon NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431665" xmltv_id="10 BOLD Drama Gold Coast">10 BOLD Drama Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431662" xmltv_id="10HD QLD">10HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431663" xmltv_id="10HD VIC">10HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431668" xmltv_id="Nickelodeon QLD">Nickelodeon QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431669" xmltv_id="Nickelodeon VIC">Nickelodeon VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431664" xmltv_id="10HD NSW">10HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431674" xmltv_id="10HD TAS">10HD TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431666" xmltv_id="Channel Seven Queensland, Gold Coast">Channel Seven Queensland, Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431688" xmltv_id="WIN GOLD SA">WIN GOLD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431689" xmltv_id="WIN TVSN QLD">WIN TVSN QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431703" xmltv_id="10HD Gold Coast">10HD Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431702" xmltv_id="10HD Northern NSW">10HD Northern NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431738" xmltv_id="ABC TV HD Victoria">ABC TV HD Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431739" xmltv_id="ABC TV HD Western Australia">ABC TV HD Western Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431732" xmltv_id="ABC TV HD ACT">ABC TV HD ACT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431733" xmltv_id="ABC TV HD NSW">ABC TV HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431734" xmltv_id="ABC TV HD NT">ABC TV HD NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431735" xmltv_id="ABC TV HD Queensland">ABC TV HD Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431736" xmltv_id="ABC TV HD South Australia">ABC TV HD South Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431737" xmltv_id="ABC TV HD Tasmania">ABC TV HD Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431747" xmltv_id="Southern Cross TVSN NT">Southern Cross TVSN NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431748" xmltv_id="Southern Cross TVSN SA">Southern Cross TVSN SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="11769" xmltv_id="YESSHOP no longer broadcasting">YESSHOP no longer broadcasting</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431764" xmltv_id="7HD TAS">7HD TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431770" xmltv_id="SBS Arabic24 WA">SBS Arabic24 WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431771" xmltv_id="SBS Arabic24 SA">SBS Arabic24 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431773" xmltv_id="SBS Arabic24 Victoria">SBS Arabic24 Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431769" xmltv_id="SBS Arabic24 NT">SBS Arabic24 NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431768" xmltv_id="SBS Arabic24 Qld">SBS Arabic24 Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431767" xmltv_id="SBS Arabic24 NSW">SBS Arabic24 NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431774" xmltv_id="SBS Arabic24 Tasmania">SBS Arabic24 Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431775" xmltv_id="SBS VICELAND HD NSW">SBS VICELAND HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431776" xmltv_id="SBS VICELAND HD Qld">SBS VICELAND HD Qld</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431777" xmltv_id="SBS VICELAND HD Vic">SBS VICELAND HD Vic</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431783" xmltv_id="SBS VICELAND HD NT">SBS VICELAND HD NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431781" xmltv_id="SBS VICELAND HD SA">SBS VICELAND HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431780" xmltv_id="SBS VICELAND HD Tas">SBS VICELAND HD Tas</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431782" xmltv_id="SBS VICELAND HD WA">SBS VICELAND HD WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431784" xmltv_id="9Life Darwin">9Life Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431818" xmltv_id="7flix VIC">7flix VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431817" xmltv_id="7flix NSW">7flix NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431816" xmltv_id="7flix QLD">7flix QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431866" xmltv_id="SBN Queensland">SBN Queensland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431867" xmltv_id="SBN NSW">SBN NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431868" xmltv_id="SBN Victoria">SBN Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431869" xmltv_id="SBN Tasmania">SBN Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431870" xmltv_id="SBN South Australia">SBN South Australia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431865" xmltv_id="SBN NT">SBN NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431882" xmltv_id="7HD Victoria, Regional">7HD Victoria, Regional</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431880" xmltv_id="7HD Victoria, Albury">7HD Victoria, Albury</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431881" xmltv_id="7HD Victoria, Gippsland">7HD Victoria, Gippsland</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431872" xmltv_id="7HD Northern, Lismore/Coffs Harbour">7HD Northern, Lismore/Coffs Harbour</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431879" xmltv_id="7HD Southern, Wollongong">7HD Southern, Wollongong</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431878" xmltv_id="7HD Southern, Wagga Wagga">7HD Southern, Wagga Wagga</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431877" xmltv_id="7HD Southern, South Coast">7HD Southern, South Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431876" xmltv_id="7HD Southern, Orange">7HD Southern, Orange</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431875" xmltv_id="7HD Southern, Canberra">7HD Southern, Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431873" xmltv_id="7HD Northern, Newcastle">7HD Northern, Newcastle</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431871" xmltv_id="7HD Gold Coast">7HD Gold Coast</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431874" xmltv_id="7HD Northern, Tamworth/Taree/Port Macquarie">7HD Northern, Tamworth/Taree/Port Macquarie</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431932" xmltv_id="SBS Chill">SBS Chill</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431933" xmltv_id="SBS South Asian">SBS South Asian</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431934" xmltv_id="SBS PopAsia">SBS PopAsia</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431952" xmltv_id="Sky News Regional">Sky News Regional</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431959" xmltv_id="9Life QLD">9Life QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431945" xmltv_id="9Life NSW">9Life NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431967" xmltv_id="9Life VIC">9Life VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431977" xmltv_id="9Life SA">9Life SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431974" xmltv_id="9Life TAS">9Life TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431980" xmltv_id="9Life WA">9Life WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431991" xmltv_id="Nickelodeon TAS">Nickelodeon TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="431992" xmltv_id="9Life SA">9Life SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432003" xmltv_id="7mate HD Melbourne">7mate HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432007" xmltv_id="7mate HD Perth">7mate HD Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432006" xmltv_id="7mate HD Adelaide">7mate HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432005" xmltv_id="7mate HD Brisbane">7mate HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432004" xmltv_id="7mate HD Sydney">7mate HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432019" xmltv_id="7HD NT">7HD NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432038" xmltv_id="SBS World Movies Victoria">SBS World Movies Victoria</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432039" xmltv_id="SBS World Movies WA">SBS World Movies WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432036" xmltv_id="SBS World Movies SA">SBS World Movies SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432037" xmltv_id="SBS World Movies Tasmania">SBS World Movies Tasmania</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432034" xmltv_id="SBS World Movies Darwin">SBS World Movies Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432035" xmltv_id="SBS World Movies QLD">SBS World Movies QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432033" xmltv_id="SBS World Movies NSW">SBS World Movies NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432049" xmltv_id="9Gem HD Brisbane">9Gem HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432050" xmltv_id="9Gem HD Darwin">9Gem HD Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432051" xmltv_id="9Gem HD Adelaide">9Gem HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432052" xmltv_id="9Gem HD Perth">9Gem HD Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432048" xmltv_id="9Gem HD Melbourne">9Gem HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432047" xmltv_id="9Gem HD Sydney">9Gem HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="12201" xmltv_id="VICELAND SD has been replaced by SBS World Movies">VICELAND SD has been replaced by SBS World Movies</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432058" xmltv_id="9HD QLD">9HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432055" xmltv_id="9 NSW">9 NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432056" xmltv_id="9HD NSW">9HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432057" xmltv_id="9HD Griffith">9HD Griffith</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432059" xmltv_id="9Go! NSW">9Go! NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432060" xmltv_id="9Go! NSW">9Go! NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432061" xmltv_id="9Go! QLD">9Go! QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432070" xmltv_id="NBN 9GEM Gold Coast HD">NBN 9GEM Gold Coast HD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432069" xmltv_id="NBN 9GEM NSW HD">NBN 9GEM NSW HD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432098" xmltv_id="ABC Classic Darwin">ABC Classic Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432099" xmltv_id="ABC Classic Canberra">ABC Classic Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432094" xmltv_id="ABC Classic Brisbane">ABC Classic Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432095" xmltv_id="ABC Classic Adelaide">ABC Classic Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432096" xmltv_id="ABC Classic Perth">ABC Classic Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432097" xmltv_id="ABC Classic Hobart">ABC Classic Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432093" xmltv_id="ABC Classic Melbourne">ABC Classic Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432116" xmltv_id="ABC RN Adelaide">ABC RN Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432149" xmltv_id="ABC News Radio">ABC News Radio</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432133" xmltv_id="triple j Unearthed Darwin">triple j Unearthed Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432132" xmltv_id="triple j Unearthed Hobart">triple j Unearthed Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432131" xmltv_id="triple j Unearthed Perth">triple j Unearthed Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432130" xmltv_id="triple j Unearthed Adelaide">triple j Unearthed Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432134" xmltv_id="triple j Unearthed Canberra">triple j Unearthed Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432083" xmltv_id="ABC RN Sydney">ABC RN Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432082" xmltv_id="ABC Kids Listen Sydney">ABC Kids Listen Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432081" xmltv_id="ABC Country Sydney">ABC Country Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432080" xmltv_id="ABC Classic Sydney">ABC Classic Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432119" xmltv_id="ABC RN Darwin">ABC RN Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432085" xmltv_id="triple j Unearthed Sydney">triple j Unearthed Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432084" xmltv_id="triple j Sydney">triple j Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432108" xmltv_id="ABC Kids Listen Brisbane">ABC Kids Listen Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432109" xmltv_id="ABC Kids Listen Adelaide">ABC Kids Listen Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432102" xmltv_id="ABC Country Adelaide">ABC Country Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432100" xmltv_id="ABC Country Melbourne">ABC Country Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432104" xmltv_id="ABC Country Hobart">ABC Country Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432105" xmltv_id="ABC Country Darwin">ABC Country Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432111" xmltv_id="ABC Kids Listen Hobart">ABC Kids Listen Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432118" xmltv_id="ABC RN Hobart">ABC RN Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432110" xmltv_id="ABC Kids Listen Perth">ABC Kids Listen Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432113" xmltv_id="ABC Kids Listen Canberra">ABC Kids Listen Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432112" xmltv_id="ABC Kids Listen Darwin">ABC Kids Listen Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432115" xmltv_id="ABC RN Brisbane">ABC RN Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432114" xmltv_id="ABC RN Melbourne">ABC RN Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432117" xmltv_id="ABC RN Perth">ABC RN Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432103" xmltv_id="ABC Country Perth">ABC Country Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432101" xmltv_id="ABC Country Brisbane">ABC Country Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432106" xmltv_id="ABC Country Canberra">ABC Country Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432124" xmltv_id="triple j Perth">triple j Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432125" xmltv_id="triple j Hobart">triple j Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432126" xmltv_id="triple j Darwin">triple j Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432127" xmltv_id="triple j Canberra">triple j Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432120" xmltv_id="ABC RN Canberra">ABC RN Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432121" xmltv_id="triple j Melbourne">triple j Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432122" xmltv_id="triple j Brisbane">triple j Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432123" xmltv_id="triple j Adelaide">triple j Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432128" xmltv_id="triple j Unearthed Melbourne">triple j Unearthed Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432129" xmltv_id="triple j Unearthed Brisbane">triple j Unearthed Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432107" xmltv_id="ABC Kids Listen Melbourne">ABC Kids Listen Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432090" xmltv_id="ABC Darwin">ABC Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432091" xmltv_id="ABC Canberra">ABC Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432092" xmltv_id="ABC Brisbane">ABC Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432148" xmltv_id="Double J Canberra">Double J Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432079" xmltv_id="ABC Sydney">ABC Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432146" xmltv_id="Double J Hobart">Double J Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432147" xmltv_id="Double J Darwin">Double J Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432144" xmltv_id="Double J Adelaide">Double J Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432145" xmltv_id="Double J Perth">Double J Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432142" xmltv_id="Double J Melbourne">Double J Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432143" xmltv_id="Double J Brisbane">Double J Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432140" xmltv_id="ABC Jazz Darwin">ABC Jazz Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432141" xmltv_id="ABC Jazz Canberra">ABC Jazz Canberra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432137" xmltv_id="ABC Jazz Adelaide">ABC Jazz Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432136" xmltv_id="ABC Jazz Brisbane">ABC Jazz Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432135" xmltv_id="ABC Jazz Melbourne">ABC Jazz Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432139" xmltv_id="ABC Jazz Hobart">ABC Jazz Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432138" xmltv_id="ABC Jazz Perth">ABC Jazz Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432087" xmltv_id="ABC Perth">ABC Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432086" xmltv_id="ABC Adelaide">ABC Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432089" xmltv_id="ABC Hobart">ABC Hobart</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432088" xmltv_id="ABC Melbourne">ABC Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432210" xmltv_id="10HD SA">10HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432211" xmltv_id="Seven SA">Seven SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432216" xmltv_id="10HD SA">10HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432214" xmltv_id="9HD SA">9HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432215" xmltv_id="10 SA">10 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432201" xmltv_id="9 SA">9 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432203" xmltv_id="10 SA">10 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432202" xmltv_id="9HD SA">9HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432205" xmltv_id="Seven SA">Seven SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432204" xmltv_id="10HD SA">10HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432207" xmltv_id="9 SA">9 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432206" xmltv_id="7HD SA">7HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432209" xmltv_id="10 SA">10 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432208" xmltv_id="9HD SA">9HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432212" xmltv_id="7HD SA">7HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432213" xmltv_id="9 SA">9 SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432199" xmltv_id="Seven SA">Seven SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432198" xmltv_id="10HD DDT">10HD DDT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432200" xmltv_id="7HD SA">7HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432219" xmltv_id="9Rush Sydney">9Rush Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432221" xmltv_id="9Rush Brisbane">9Rush Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432220" xmltv_id="9Rush Adelaide">9Rush Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432225" xmltv_id="9Rush Perth">9Rush Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432224" xmltv_id="9Rush Melbourne">9Rush Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432231" xmltv_id="9HD Mildura">9HD Mildura</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432230" xmltv_id="9HD Albury">9HD Albury</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432255" xmltv_id="7mate HD QLD">7mate HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432257" xmltv_id="Nickelodeon Melbourne">Nickelodeon Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432259" xmltv_id="Nickelodeon Adelaide">Nickelodeon Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432256" xmltv_id="Nickelodeon Sydney">Nickelodeon Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432260" xmltv_id="Nickelodeon Perth">Nickelodeon Perth</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432258" xmltv_id="Nickelodeon Brisbane">Nickelodeon Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432262" xmltv_id="NBN Extra">NBN Extra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432261" xmltv_id="Extra">Extra</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432305" xmltv_id="9Life Broken Hill">9Life Broken Hill</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432323" xmltv_id="Sky News Regional SA">Sky News Regional SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432415" xmltv_id="SBS World Watch NSW">SBS World Watch NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432419" xmltv_id="SBS World Watch SA">SBS World Watch SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432416" xmltv_id="SBS World Watch NT">SBS World Watch NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432421" xmltv_id="SBS World Watch QLD">SBS World Watch QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432418" xmltv_id="SBS World Watch TAS">SBS World Watch TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432417" xmltv_id="SBS World Watch VIC">SBS World Watch VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432420" xmltv_id="SBS World Watch WA">SBS World Watch WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432427" xmltv_id="7mate HD VIC">7mate HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432426" xmltv_id="7mate HD NSW">7mate HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432452" xmltv_id="7Bravo QLD">7Bravo QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432454" xmltv_id="7Bravo SA">7Bravo SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432455" xmltv_id="7Bravo WA">7Bravo WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432451" xmltv_id="7Bravo VIC">7Bravo VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432448" xmltv_id="7Bravo NSW">7Bravo NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432630" xmltv_id="NITV HD NSW">NITV HD NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432631" xmltv_id="NITV HD QLD">NITV HD QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432632" xmltv_id="NITV HD SA">NITV HD SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432633" xmltv_id="NITV HD VIC">NITV HD VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432634" xmltv_id="NITV HD WA">NITV HD WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432635" xmltv_id="NITV HD NT">NITV HD NT</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432636" xmltv_id="NITV HD TAS">NITV HD TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432669" xmltv_id="9Go! HD WA">9Go! HD WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432670" xmltv_id="9Go! HD Sydney">9Go! HD Sydney</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432671" xmltv_id="9Go! HD Melbourne">9Go! HD Melbourne</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432672" xmltv_id="9Go! HD Brisbane">9Go! HD Brisbane</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432673" xmltv_id="9Go! HD Adelaide">9Go! HD Adelaide</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432674" xmltv_id="9Go! HD Darwin">9Go! HD Darwin</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432675" xmltv_id="you.tv NSW">you.tv NSW</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432676" xmltv_id="you.tv VIC">you.tv VIC</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432677" xmltv_id="you.tv QLD">you.tv QLD</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432678" xmltv_id="you.tv WA">you.tv WA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432679" xmltv_id="you.tv SA">you.tv SA</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432680" xmltv_id="you.tv TAS">you.tv TAS</channel>
+    <channel update="i" site="fetchtv.com.au" site_id="432683" xmltv_id="you.tv NT">you.tv NT</channel>
+  </channels>
+</site>
