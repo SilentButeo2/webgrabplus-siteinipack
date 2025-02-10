@@ -1,92 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.2.0 -- Jan van Straaten" site="vidio.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.8 -- Jan van Straaten" site="vidio.com">
   <channels>
-    <channel update="i" site="vidio.com" site_id="204-sctv" xmltv_id="SCTV">SCTV</channel>
-    <channel update="i" site="vidio.com" site_id="205-indosiar" xmltv_id="Indosiar">Indosiar</channel>
-    <channel update="i" site="vidio.com" site_id="206-moji" xmltv_id="Moji">Moji</channel>
-    <channel update="i" site="vidio.com" site_id="7464-ajwa-tv" xmltv_id="AJWA TV">AJWA TV</channel>
-    <channel update="i" site="vidio.com" site_id="733-trans-tv" xmltv_id="TRANS TV">TRANS TV</channel>
-    <channel update="i" site="vidio.com" site_id="734-trans7" xmltv_id="Trans7">Trans7</channel>
-    <channel update="i" site="vidio.com" site_id="782-antv" xmltv_id="ANTV">ANTV</channel>
-    <channel update="i" site="vidio.com" site_id="783-tvone" xmltv_id="TVOne">TVOne</channel>
-    <channel update="i" site="vidio.com" site_id="777-metro-tv" xmltv_id="Metro TV">Metro TV</channel>
-    <channel update="i" site="vidio.com" site_id="874-kompas-tv" xmltv_id="Kompas TV">Kompas TV</channel>
-    <channel update="i" site="vidio.com" site_id="1561-rtv" xmltv_id="RTV">RTV</channel>
-    <channel update="i" site="vidio.com" site_id="6441-tvri" xmltv_id="TVRI">TVRI</channel>
-    <channel update="i" site="vidio.com" site_id="875-net-tv" xmltv_id="NET TV">NET TV</channel>
-    <channel update="i" site="vidio.com" site_id="5415-jaktv" xmltv_id="Jaktv">Jaktv</channel>
-    <channel update="i" site="vidio.com" site_id="9713-jtv" xmltv_id="JTV">JTV</channel>
-    <channel update="i" site="vidio.com" site_id="9714-jpm-tv" xmltv_id="JPM TV">JPM TV</channel>
-    <channel update="i" site="vidio.com" site_id="6482-daai-tv" xmltv_id="DAAI TV">DAAI TV</channel>
-    <channel update="i" site="vidio.com" site_id="7432-nusantara-tv" xmltv_id="Nusantara TV">Nusantara TV</channel>
-    <channel update="i" site="vidio.com" site_id="8815-metro-globe-network" xmltv_id="Metro Globe Network">Metro Globe Network</channel>
-    <channel update="i" site="vidio.com" site_id="12607-tawaf-tv" xmltv_id="Tawaf TV">Tawaf TV</channel>
-    <channel update="i" site="vidio.com" site_id="6165-btv" xmltv_id="BTV">BTV</channel>
-    <channel update="i" site="vidio.com" site_id="6685-champions-tv-1" xmltv_id="CTV 1">CTV 1</channel>
-    <channel update="i" site="vidio.com" site_id="6299-bein-1" xmltv_id="Bein 1">Bein 1</channel>
-    <channel update="i" site="vidio.com" site_id="6317-bein-3" xmltv_id="Bein 3">Bein 3</channel>
-    <channel update="i" site="vidio.com" site_id="6786-champions-tv-3" xmltv_id="CTV 3">CTV 3</channel>
-    <channel update="i" site="vidio.com" site_id="6717-nba-tv" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="vidio.com" site_id="6686-champions-tv-2" xmltv_id="CTV 2">CTV 2</channel>
-    <channel update="i" site="vidio.com" site_id="9183-champions-tv-6" xmltv_id="CTV 6">CTV 6</channel>
-    <channel update="i" site="vidio.com" site_id="9353-premier-league-tv" xmltv_id="Premier League TV">Premier League TV</channel>
-    <channel update="i" site="vidio.com" site_id="7916-liverpool-tv" xmltv_id="Liverpool TV">Liverpool TV</channel>
-    <channel update="i" site="vidio.com" site_id="9430-world-cup-1" xmltv_id="World Cup 1">World Cup 1</channel>
-    <channel update="i" site="vidio.com" site_id="9431-world-cup-2" xmltv_id="World Cup 2">World Cup 2</channel>
-    <channel update="i" site="vidio.com" site_id="6362-tvn" xmltv_id="TVN">TVN</channel>
-    <channel update="i" site="vidio.com" site_id="7619-musica" xmltv_id="MUSICA">MUSICA</channel>
-    <channel update="i" site="vidio.com" site_id="6399-zee-bioskop" xmltv_id="Zee Bioskop">Zee Bioskop</channel>
-    <channel update="i" site="vidio.com" site_id="6504-fashion-tv-midnight-secrets" xmltv_id="Fashion TV Midnight Secrets">Fashion TV Midnight Secrets</channel>
-    <channel update="i" site="vidio.com" site_id="8121-rock-action" xmltv_id="Rock Action">Rock Action</channel>
-    <channel update="i" site="vidio.com" site_id="8241-rans-channel" xmltv_id="RANS Channel">RANS Channel</channel>
-    <channel update="i" site="vidio.com" site_id="6511-fashion-tv-global" xmltv_id="Fashion TV - Global">Fashion TV - Global</channel>
-    <channel update="i" site="vidio.com" site_id="10975-elshinta-tv" xmltv_id="Elshinta TV">Elshinta TV</channel>
-    <channel update="i" site="vidio.com" site_id="8120-rock-entertainment" xmltv_id="ROCK Entertainment">ROCK Entertainment</channel>
-    <channel update="i" site="vidio.com" site_id="6784-arirang" xmltv_id="Arirang">Arirang</channel>
-    <channel update="i" site="vidio.com" site_id="6507-fashiontv-l-original" xmltv_id="FashionTV L’Original">FashionTV L’Original</channel>
-    <channel update="i" site="vidio.com" site_id="7230-magna-tv" xmltv_id="Magna TV">Magna TV</channel>
-    <channel update="i" site="vidio.com" site_id="6410-aljazeera" xmltv_id="Aljazeera">Aljazeera</channel>
-    <channel update="i" site="vidio.com" site_id="5075-dw-english" xmltv_id="DW English">DW English</channel>
-    <channel update="i" site="vidio.com" site_id="7150-abc-australia" xmltv_id="ABC Australia">ABC Australia</channel>
-    <channel update="i" site="vidio.com" site_id="7968-nhk-world-japan" xmltv_id="NHK World Japan">NHK World Japan</channel>
-    <channel update="i" site="vidio.com" site_id="6411-news-asia" xmltv_id="News Asia">News Asia</channel>
-    <channel update="i" site="vidio.com" site_id="8237-mentari-tv" xmltv_id="Mentari TV">Mentari TV</channel>
-    <channel update="i" site="vidio.com" site_id="6533-zoomoo" xmltv_id="Zoomoo">Zoomoo</channel>
-    <channel update="i" site="vidio.com" site_id="7052-hip-hip-horee" xmltv_id="Hip Hip Horee!">Hip Hip Horee!</channel>
-    <channel update="i" site="vidio.com" site_id="6397-horee" xmltv_id="Horee">Horee</channel>
-    <channel update="i" site="vidio.com" site_id="6852-makkah-tv" xmltv_id="Makkah TV">Makkah TV</channel>
-    <channel update="i" site="vidio.com" site_id="6853-reformed-21-tv" xmltv_id="Reformed 21 TV">Reformed 21 TV</channel>
-    <channel update="i" site="vidio.com" site_id="6898-u-channel-tv" xmltv_id="U-Channel TV">U-Channel TV</channel>
-    <channel update="i" site="vidio.com" site_id="7004-prambors-on-air" xmltv_id="Prambors On Air">Prambors On Air</channel>
-    <channel update="i" site="vidio.com" site_id="7092-delta-fm" xmltv_id="Delta FM">Delta FM</channel>
-    <channel update="i" site="vidio.com" site_id="7057-i-radio" xmltv_id="i-Radio">i-Radio</channel>
-    <channel update="i" site="vidio.com" site_id="7443-gen-fm-jakarta" xmltv_id="Gen FM Jakarta">Gen FM Jakarta</channel>
-    <channel update="i" site="vidio.com" site_id="7166-elshinta-90-fm" xmltv_id="Elshinta 90 FM">Elshinta 90 FM</channel>
-    <channel update="i" site="vidio.com" site_id="7445-kis-fm" xmltv_id="Kis FM">Kis FM</channel>
-    <channel update="i" site="vidio.com" site_id="7449-jak-fm" xmltv_id="Jak FM">Jak FM</channel>
-    <channel update="i" site="vidio.com" site_id="7053-hard-rock-fm" xmltv_id="Hard Rock FM">Hard Rock FM</channel>
-    <channel update="i" site="vidio.com" site_id="7184-ardan-radio" xmltv_id="Ardan Radio">Ardan Radio</channel>
-    <channel update="i" site="vidio.com" site_id="7091-bahana-fm" xmltv_id="Bahana FM">Bahana FM</channel>
-    <channel update="i" site="vidio.com" site_id="7130-female-fm" xmltv_id="Female FM">Female FM</channel>
-    <channel update="i" site="vidio.com" site_id="12237-sonora-radio" xmltv_id="Sonora Radio">Sonora Radio</channel>
-    <channel update="i" site="vidio.com" site_id="7448-hot-fm" xmltv_id="Hot FM">Hot FM</channel>
-    <channel update="i" site="vidio.com" site_id="7242-dahlia-fm" xmltv_id="Dahlia FM">Dahlia FM</channel>
-    <channel update="i" site="vidio.com" site_id="7248-swaragama-fm-jogja" xmltv_id="SWARAGAMA FM Jogja !">SWARAGAMA FM Jogja !</channel>
-    <channel update="i" site="vidio.com" site_id="7447-mustang-fm" xmltv_id="Mustang FM">Mustang FM</channel>
-    <channel update="i" site="vidio.com" site_id="7054-brava-radio" xmltv_id="Brava Radio">Brava Radio</channel>
-    <channel update="i" site="vidio.com" site_id="7684-rama-fm" xmltv_id="Rama FM">Rama FM</channel>
-    <channel update="i" site="vidio.com" site_id="7169-elgangga" xmltv_id="ELGANGGA">ELGANGGA</channel>
-    <channel update="i" site="vidio.com" site_id="7055-trax" xmltv_id="TRAX">TRAX</channel>
-    <channel update="i" site="vidio.com" site_id="7284-gajahmada" xmltv_id="GAJAHMADA">GAJAHMADA</channel>
-    <channel update="i" site="vidio.com" site_id="7446-gen-fm-surabaya" xmltv_id="Gen FM Surabaya">Gen FM Surabaya</channel>
-    <channel update="i" site="vidio.com" site_id="12238-motion-radio" xmltv_id="Motion Radio">Motion Radio</channel>
-    <channel update="i" site="vidio.com" site_id="7281-imelda-fm" xmltv_id="Imelda FM">Imelda FM</channel>
-    <channel update="i" site="vidio.com" site_id="8638-nagaswara-radiotemen" xmltv_id="NAGASWARA RADIOTEMEN">NAGASWARA RADIOTEMEN</channel>
-    <channel update="i" site="vidio.com" site_id="7685-paramuda-fm" xmltv_id="Paramuda FM">Paramuda FM</channel>
-    <channel update="i" site="vidio.com" site_id="7297-radio-cakra" xmltv_id="Radio Cakra">Radio Cakra</channel>
-    <channel update="i" site="vidio.com" site_id="12239-smart-fm" xmltv_id="Smart FM">Smart FM</channel>
-    <channel update="i" site="vidio.com" site_id="7056-cosmopolitan-radio" xmltv_id="Cosmopolitan Radio">Cosmopolitan Radio</channel>
-    <channel update="i" site="vidio.com" site_id="9106-classy-103-4-fm" xmltv_id="CLASSY 103.4 FM">CLASSY 103.4 FM</channel>
-    <channel update="i" site="vidio.com" site_id="7218-sushi-radio" xmltv_id="Sushi Radio">Sushi Radio</channel>
+    <channel update="i" site="vidio.com" site_id="204204/4e9f5c.png" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="vidio.com" site_id="205205/54ab19.png" xmltv_id="Indosiar">Indosiar</channel>
+    <channel update="i" site="vidio.com" site_id="733733/ecaa60.png" xmltv_id="TRANS TV">TRANS TV</channel>
+    <channel update="i" site="vidio.com" site_id="734734/131514.png" xmltv_id="Trans7">Trans7</channel>
+    <channel update="i" site="vidio.com" site_id="206206/1823dc.png" xmltv_id="Moji">Moji</channel>
+    <channel update="i" site="vidio.com" site_id="777777/ea8483.png" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="vidio.com" site_id="874874/042ca3.png" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel update="i" site="vidio.com" site_id="15611561/665aea.png" xmltv_id="RTV">RTV</channel>
+    <channel update="i" site="vidio.com" site_id="875875/cfcc85.png" xmltv_id="NET TV">NET TV</channel>
+    <channel update="i" site="vidio.com" site_id="61656165/8c950f.png" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="vidio.com" site_id="62996299/d74f54.png" xmltv_id="Bein 1">Bein 1</channel>
+    <channel update="i" site="vidio.com" site_id="63176317/4a8762.png" xmltv_id="Bein 3">Bein 3</channel>
+    <channel update="i" site="vidio.com" site_id="66856685/a2ed39.png" xmltv_id="Champions TV 1">Champions TV 1</channel>
+    <channel update="i" site="vidio.com" site_id="782782/e1af8b.png" xmltv_id="ANTV">ANTV</channel>
+    <channel update="i" site="vidio.com" site_id="783783/07750c.png" xmltv_id="TVOne">TVOne</channel>
+    <channel update="i" site="vidio.com" site_id="63626362/dcd434.png" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="vidio.com" site_id="74647464/e69965.png" xmltv_id="AJWA TV">AJWA TV</channel>
+    <channel update="i" site="vidio.com" site_id="82378237/18585d.png" xmltv_id="Mentari TV">Mentari TV</channel>
+    <channel update="i" site="vidio.com" site_id="63976397/d422cd.png" xmltv_id="Horee">Horee</channel>
+    <channel update="i" site="vidio.com" site_id="1819018190/541269.png" xmltv_id="Champions Golf 2">Champions Golf 2</channel>
+    <channel update="i" site="vidio.com" site_id="64416441/528cc9.png" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="vidio.com" site_id="68526852/1047bc.png" xmltv_id="Makkah TV">Makkah TV</channel>
+    <channel update="i" site="vidio.com" site_id="1818918189/8180b2.png" xmltv_id="Champions Golf 1">Champions Golf 1</channel>
+    <channel update="i" site="vidio.com" site_id="1787517875/afb4ca.png" xmltv_id="Bein 2">Bein 2</channel>
+    <channel update="i" site="vidio.com" site_id="67866786/d2ebc5.png" xmltv_id="Champions TV 3">Champions TV 3</channel>
+    <channel update="i" site="vidio.com" site_id="1816218162/b4bea2.png" xmltv_id="Garuda TV">Garuda TV</channel>
+    <channel update="i" site="vidio.com" site_id="1810518105/25d569.png" xmltv_id="GGS TV">GGS TV</channel>
+    <channel update="i" site="vidio.com" site_id="81218121/e9e2b9.png" xmltv_id="Rock Action">Rock Action</channel>
+    <channel update="i" site="vidio.com" site_id="66866686/14270d.png" xmltv_id="Champions TV 2">Champions TV 2</channel>
+    <channel update="i" site="vidio.com" site_id="67176717/790cc9.png" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="vidio.com" site_id="74327432/bfecbc.png" xmltv_id="Nusantara TV">Nusantara TV</channel>
+    <channel update="i" site="vidio.com" site_id="97139713/a11faf.png" xmltv_id="JTV">JTV</channel>
+    <channel update="i" site="vidio.com" site_id="91829182/13b733.png" xmltv_id="Champions TV 5">Champions TV 5</channel>
+    <channel update="i" site="vidio.com" site_id="71507150/2de77e.png" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel update="i" site="vidio.com" site_id="54155415/802b76.png" xmltv_id="Jaktv">Jaktv</channel>
+    <channel update="i" site="vidio.com" site_id="70527052/63032e.png" xmltv_id="Hip Hip Horee!">Hip Hip Horee!</channel>
+    <channel update="i" site="vidio.com" site_id="1713917139/e5207b.png" xmltv_id="SPOTV">SPOTV</channel>
+    <channel update="i" site="vidio.com" site_id="64116411/e600b8.jpg" xmltv_id="News Asia">News Asia</channel>
+    <channel update="i" site="vidio.com" site_id="64106410/6027db.png" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="vidio.com" site_id="64826482/e83fcf.png" xmltv_id="DAAI TV">DAAI TV</channel>
   </channels>
 </site>
