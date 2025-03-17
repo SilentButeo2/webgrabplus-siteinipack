@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.6 -- Jan van Straaten" site="telekom.mk">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.1 -- Jan van Straaten" site="telekom.mk">
   <channels>
     <channel update="i" site="telekom.mk" site_id="4516" xmltv_id=":24 HD">:24 HD</channel>
     <channel update="i" site="telekom.mk" site_id="4532" xmltv_id=":ŠPORT HD">:ŠPORT HD</channel>
     <channel update="i" site="telekom.mk" site_id="4595" xmltv_id=":ŠPORT HD - LIVE">:ŠPORT HD - LIVE</channel>
+    <channel update="i" site="telekom.mk" site_id="4621" xmltv_id="AMC HD">AMC HD</channel>
     <channel update="i" site="telekom.mk" site_id="4324" xmltv_id="AMC HD">AMC HD</channel>
     <channel update="i" site="telekom.mk" site_id="4478" xmltv_id="ARD">ARD</channel>
     <channel update="i" site="telekom.mk" site_id="4138" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
@@ -63,6 +64,7 @@
     <channel update="i" site="telekom.mk" site_id="4011" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
     <channel update="i" site="telekom.mk" site_id="4142" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
     <channel update="i" site="telekom.mk" site_id="4465" xmltv_id="Extreme sports">Extreme sports</channel>
+    <channel update="i" site="telekom.mk" site_id="4622" xmltv_id="FILM+ HD">FILM+ HD</channel>
     <channel update="i" site="telekom.mk" site_id="4325" xmltv_id="FILM+ HD">FILM+ HD</channel>
     <channel update="i" site="telekom.mk" site_id="4546" xmltv_id="FILM+ HU HD">FILM+ HU HD</channel>
     <channel update="i" site="telekom.mk" site_id="4323" xmltv_id="FREEDOM">FREEDOM</channel>
@@ -94,9 +96,11 @@
     <channel update="i" site="telekom.mk" site_id="4237" xmltv_id="JOJ Cinema HD">JOJ Cinema HD</channel>
     <channel update="i" site="telekom.mk" site_id="4070" xmltv_id="JOJ HD">JOJ HD</channel>
     <channel update="i" site="telekom.mk" site_id="4584" xmltv_id="JOJ Svet HD">JOJ Svet HD</channel>
+    <channel update="i" site="telekom.mk" site_id="4623" xmltv_id="JOJ ŠPORT 2 HD">JOJ ŠPORT 2 HD</channel>
     <channel update="i" site="telekom.mk" site_id="4556" xmltv_id="JOJ ŠPORT HD">JOJ ŠPORT HD</channel>
     <channel update="i" site="telekom.mk" site_id="4099" xmltv_id="Jednotka HD">Jednotka HD</channel>
     <channel update="i" site="telekom.mk" site_id="4014" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="telekom.mk" site_id="4624" xmltv_id="Jojko HD">Jojko HD</channel>
     <channel update="i" site="telekom.mk" site_id="4570" xmltv_id="Kino Barrandov HD">Kino Barrandov HD</channel>
     <channel update="i" site="telekom.mk" site_id="4259" xmltv_id="LEO TV">LEO TV</channel>
     <channel update="i" site="telekom.mk" site_id="4507" xmltv_id="LaLa TV HD">LaLa TV HD</channel>
@@ -107,9 +111,6 @@
     <channel update="i" site="telekom.mk" site_id="4545" xmltv_id="M2 HD">M2 HD</channel>
     <channel update="i" site="telekom.mk" site_id="4306" xmltv_id="M4 sport HD">M4 sport HD</channel>
     <channel update="i" site="telekom.mk" site_id="4540" xmltv_id="M5 HD">M5 HD</channel>
-    <channel update="i" site="telekom.mk" site_id="222015" xmltv_id="MAGIO FITNES">MAGIO FITNES</channel>
-    <channel update="i" site="telekom.mk" site_id="222008" xmltv_id="MAGIO KOMÉDIE">MAGIO KOMÉDIE</channel>
-    <channel update="i" site="telekom.mk" site_id="222003" xmltv_id="MAGIO KONCERTY">MAGIO KONCERTY</channel>
     <channel update="i" site="telekom.mk" site_id="222009" xmltv_id="MAGIO SVET">MAGIO SVET</channel>
     <channel update="i" site="telekom.mk" site_id="4585" xmltv_id="MEN.TV">MEN.TV</channel>
     <channel update="i" site="telekom.mk" site_id="22" xmltv_id="MTV">MTV</channel>
@@ -171,7 +172,7 @@
     <channel update="i" site="telekom.mk" site_id="4165" xmltv_id="Senzi">Senzi</channel>
     <channel update="i" site="telekom.mk" site_id="4229" xmltv_id="Sláger TV HU">Sláger TV HU</channel>
     <channel update="i" site="telekom.mk" site_id="4250" xmltv_id="Sorozat+">Sorozat+</channel>
-    <channel update="i" site="telekom.mk" site_id="35" xmltv_id="Spektrum HD">Spektrum HD</channel>
+    <channel update="i" site="telekom.mk" site_id="4620" xmltv_id="Spektrum HD">Spektrum HD</channel>
     <channel update="i" site="telekom.mk" site_id="4587" xmltv_id="Spektrum Home HD">Spektrum Home HD</channel>
     <channel update="i" site="telekom.mk" site_id="4230" xmltv_id="Sport1 HD">Sport1 HD</channel>
     <channel update="i" site="telekom.mk" site_id="4143" xmltv_id="Sport2 HD">Sport2 HD</channel>
@@ -207,7 +208,6 @@
     <channel update="i" site="telekom.mk" site_id="118" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
     <channel update="i" site="telekom.mk" site_id="4316" xmltv_id="Travel XP HD">Travel XP HD</channel>
     <channel update="i" site="telekom.mk" site_id="4614" xmltv_id="True Amateurs HD">True Amateurs HD</channel>
-    <channel update="i" site="telekom.mk" site_id="4234" xmltv_id="Ťuki TV HD">Ťuki TV HD</channel>
     <channel update="i" site="telekom.mk" site_id="4177" xmltv_id="Viasat 3">Viasat 3</channel>
     <channel update="i" site="telekom.mk" site_id="4193" xmltv_id="Viasat 6">Viasat 6</channel>
     <channel update="i" site="telekom.mk" site_id="4501" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
