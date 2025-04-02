@@ -1,138 +1,117 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.3.0 -- Jan van Straaten" site="starhubtvplus.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" site="starhubtvplus.com">
   <channels>
-    <channel update="i" site="starhubtvplus.com" site_id="101" xmltv_id="Preview Channel">Preview Channel</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="102" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="103" xmltv_id="Channel 8 HD">Channel 8 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="104" xmltv_id="Suria HD">Suria HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="105" xmltv_id="Vasantham HD">Vasantham HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="106" xmltv_id="Channel NewsAsia HD">Channel NewsAsia HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="107" xmltv_id="Channel U HD">Channel U HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="111" xmltv_id="Hub E City HD">Hub E City HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="115" xmltv_id="Citra Entertainment">Citra Entertainment</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="116" xmltv_id="Karisma">Karisma</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="118" xmltv_id="Astro Warna HD">Astro Warna HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="123" xmltv_id="Hub Sensasi HD">Hub Sensasi HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="124" xmltv_id="ONE (Malay)">ONE (Malay)</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="125" xmltv_id="Zee TV">Zee TV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="127" xmltv_id="Sony Entertainment Television">Sony Entertainment Television</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="128" xmltv_id="COLORS">COLORS</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="130" xmltv_id="Zee Cinema">Zee Cinema</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="131" xmltv_id="SONY MAX">SONY MAX</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="132" xmltv_id="COLORS Tamil HD">COLORS Tamil HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="133" xmltv_id="Sun TV">Sun TV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="134" xmltv_id="Sun Music">Sun Music</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="135" xmltv_id="Vijay TV">Vijay TV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="136" xmltv_id="Vannathirai">Vannathirai</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="137" xmltv_id="Zee Thirai">Zee Thirai</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="138" xmltv_id="Zee Tamil HD">Zee Tamil HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="139" xmltv_id="Asianet">Asianet</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="140" xmltv_id="Asianet Movies">Asianet Movies</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="141" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="143" xmltv_id="ANC">ANC</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="144" xmltv_id="The Filipino Channel HD">The Filipino Channel HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="145" xmltv_id="Cinema One Global">Cinema One Global</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="152" xmltv_id="TV5MONDE HD">TV5MONDE HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="153" xmltv_id="DW (Deutsch)">DW (Deutsch)</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="158" xmltv_id="ADITHYA TV">ADITHYA TV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="159" xmltv_id="KTV HD">KTV HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="201" xmltv_id="Hub Sports 1 HD">Hub Sports 1 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="202" xmltv_id="Hub Sports 2 HD">Hub Sports 2 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="203" xmltv_id="Hub Sports 3 HD">Hub Sports 3 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="204" xmltv_id="Hub Sports 4 HD">Hub Sports 4 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="205" xmltv_id="Hub Sports 5 HD">Hub Sports 5 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="207" xmltv_id="Premier Sports">Premier Sports</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="209" xmltv_id="SPOTV">SPOTV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="210" xmltv_id="SPOTV2">SPOTV2</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="211" xmltv_id="beIN SPORTS 2 HD">beIN SPORTS 2 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="213" xmltv_id="beIN SPORTS HD">beIN SPORTS HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="214" xmltv_id="beIN Sports 3">beIN Sports 3</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="215" xmltv_id="beIN Sports 4 HD">beIN Sports 4 HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="216" xmltv_id="beIN Sports 5">beIN Sports 5</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="221" xmltv_id="HubPremier 1">HubPremier 1</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="222" xmltv_id="Hub Premier 2 (HD)">Hub Premier 2 (HD)</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="223" xmltv_id="Hub Premier 3">Hub Premier 3</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="224" xmltv_id="Hub Premier 4">Hub Premier 4</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="225" xmltv_id="Hub Premier 5">Hub Premier 5</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="226" xmltv_id="Hub Premier 6">Hub Premier 6</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="227" xmltv_id="Hub Premier 7">Hub Premier 7</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="228" xmltv_id="Hub Premier 8">Hub Premier 8</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="229" xmltv_id="Hub Premier 9">Hub Premier 9</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="230" xmltv_id="Hub Premier 10">Hub Premier 10</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="231" xmltv_id="Hub Premier 11">Hub Premier 11</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="235" xmltv_id="MOLA Sports">MOLA Sports</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="236" xmltv_id="MOLA Golf">MOLA Golf</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="241" xmltv_id="FIGHT SPORTS HD">FIGHT SPORTS HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="303" xmltv_id="Cbeebies HD">Cbeebies HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="304" xmltv_id="Nick Jr HD">Nick Jr HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="307" xmltv_id="DreamWorks Channel HD">DreamWorks Channel HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="314" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="316" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="317" xmltv_id="Boomerang HD">Boomerang HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="401" xmltv_id="HISTORY HD">HISTORY HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="403" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="407" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="422" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="427" xmltv_id="Travelxp HD">Travelxp HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="432" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="437" xmltv_id="HGTV">HGTV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="443" xmltv_id="FashionTV HD">FashionTV HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="447" xmltv_id="ABC Australia HD">ABC Australia HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="509" xmltv_id="Blue Ant Entertainment HD">Blue Ant Entertainment HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="511" xmltv_id="AXN HD">AXN HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="512" xmltv_id="HITS MOVIES HD">HITS MOVIES HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="514" xmltv_id="Lifetime HD">Lifetime HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="519" xmltv_id="Hits HD">Hits HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="532" xmltv_id="Animax HD">Animax HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="601" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="603" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="604" xmltv_id="HBO Family HD">HBO Family HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="605" xmltv_id="HBO Hits HD">HBO Hits HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="611" xmltv_id="Cinemax HD">Cinemax HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="620" xmltv_id="Paramount Network">Paramount Network</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="701" xmltv_id="BBC World News HD">BBC World News HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="702" xmltv_id="Fox News Channel HD">Fox News Channel HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="703" xmltv_id="Sky News HD">Sky News HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="704" xmltv_id="Euronews HD">Euronews HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="707" xmltv_id="CNBC HD">CNBC HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="708" xmltv_id="Bloomberg Television HD">Bloomberg Television HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="709" xmltv_id="Bloomberg Quicktake">Bloomberg Quicktake</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="711" xmltv_id="CNN HD">CNN HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="720" xmltv_id="SEA Today">SEA Today</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="722" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="724" xmltv_id="France24">France24</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="801" xmltv_id="CCTV-4">CCTV-4</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="805" xmltv_id="Phoenix Chinese Channel HD">Phoenix Chinese Channel HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="806" xmltv_id="Phoenix InfoNews Channel HD">Phoenix InfoNews Channel HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="808" xmltv_id="TVBS-NEWS">TVBS-NEWS</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="811" xmltv_id="NHK World Premium HD">NHK World Premium HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="812" xmltv_id="NHK WORLD - JAPAN HD">NHK WORLD - JAPAN HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="814" xmltv_id="GEM HD">GEM HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="815" xmltv_id="KBS World HD">KBS World HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="817" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="820" xmltv_id="ETTV ASIA HD">ETTV ASIA HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="823" xmltv_id="ONE HD">ONE HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="824" xmltv_id="tvN HD">tvN HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="825" xmltv_id="Hub E City HD">Hub E City HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="827" xmltv_id="CTI TV HD">CTI TV HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="828" xmltv_id="TVBS Asia">TVBS Asia</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="832" xmltv_id="Dragon TV">Dragon TV</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="838" xmltv_id="TVB Jade HD">TVB Jade HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="855" xmltv_id="Hub VVDrama HD">Hub VVDrama HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="859" xmltv_id="TVB Xing He HD">TVB Xing He HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="868" xmltv_id="Celestial Movies HD">Celestial Movies HD</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="869" xmltv_id="CCM">CCM</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="921" xmltv_id="TestChannel921">TestChannel921</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="922" xmltv_id="TestChannel922">TestChannel922</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="923" xmltv_id="TestChannel923">TestChannel923</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="924" xmltv_id="TestChannel924">TestChannel924</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="988" xmltv_id="Test channel 988">Test channel 988</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="989" xmltv_id="Test channel 989">Test channel 989</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="993" xmltv_id="TestChannel 993">TestChannel 993</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="994" xmltv_id="TestChannel1">TestChannel1</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="995" xmltv_id="TestChannel995">TestChannel995</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="996" xmltv_id="TestChannel996">TestChannel996</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="997" xmltv_id="TestChannel2">TestChannel2</channel>
-    <channel update="i" site="starhubtvplus.com" site_id="998" xmltv_id="Channel_Test">Channel_Test</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0ff8e512-acb2-4703-b6bf-4368d0845fef" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="cb80faa0-ad72-4bcb-a777-434464325c5f" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="e0483b3c-33fe-442e-b0bd-8747f6f04f6e" xmltv_id="Zee Thirai">Zee Thirai</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="051b7938-b79f-4fd2-80d3-ebf3ebcea931" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="ca306145-694d-41c8-9f34-c2ce62eb06e9" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="a253b74a-ab9d-4545-9cdd-d81e2d9a056d" xmltv_id="FashionTV HD">FashionTV HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="4c25cb31-4a19-4d5b-9926-a51a8b289ae5" xmltv_id="Arirang TV HD">Arirang TV HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="eb856acf-437e-470f-9161-eabd52e3de02" xmltv_id="Fox News Channel">Fox News Channel</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="3d4b11b5-c883-44ae-921b-4d7e07fe852f" xmltv_id="Phoenix Chinese Channel HD">Phoenix Chinese Channel HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="1c94dd39-657c-428c-959a-e646f7da99cc" xmltv_id="Hub Premier 3">Hub Premier 3</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="b4554ec6-37d5-4936-943d-229e9df528e8" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="a258cd7c-b4d2-4e45-b050-1e30a9519ef9" xmltv_id="FIGHT SPORTS HD">FIGHT SPORTS HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="39a2d989-f51d-45de-b4e3-90cc58aa54f4" xmltv_id="ETTV ASIA HD">ETTV ASIA HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="ded93a12-883b-4ee0-9eaf-d137ebfe2da9" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="047b3a4a-5094-4802-82d4-b3863b6e2cdf" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="09e8b069-9fce-4a8d-b0cd-2bf77a8a71ba" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="32897913-6eff-45db-90e9-948b56bddbb6" xmltv_id="COLORS Tamil HD">COLORS Tamil HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="e1b53e0d-f371-4918-8cbd-6e99a4d79c76" xmltv_id="TVBS Asia">TVBS Asia</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="219cc587-57ab-4b55-baf3-03810f46deeb" xmltv_id="Cbeebies HD">Cbeebies HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="249f5236-ca5d-416d-98b2-7e6961f1bccd" xmltv_id="beIN Sports 3">beIN Sports 3</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="9fbf2a7c-878f-4659-91c3-0b20db468d91" xmltv_id="Sun Music">Sun Music</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="8339731a-4928-4ff0-bf9d-9202ae59aea7" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="2eb726de-6d6a-4af6-a1a7-08805cf783f9" xmltv_id="KTV HD">KTV HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="6fb02848-2b74-4803-9661-ab4ff642764b" xmltv_id="beIN Sports 2 HD">beIN Sports 2 HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="8a0cfe88-6627-49e8-8eed-a2f73e609b5d" xmltv_id="TVB Xing He">TVB Xing He</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="4c802d42-f7e6-40cf-b424-3aab3f5f9761" xmltv_id="Vannathirai">Vannathirai</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="50b86b7f-084e-4ea1-8610-22e86c733c1c" xmltv_id="Cinema One Global">Cinema One Global</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="347fa620-e966-423c-8d46-98469f0fc974" xmltv_id="Hub Sports 2 HD">Hub Sports 2 HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="a16319f5-416e-4bc7-9ee0-42c7c3911f98" xmltv_id="The Filipino Channel HD">The Filipino Channel HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="6f186614-28de-416a-b8a6-02fa5c579aa7" xmltv_id="Hub Premier 2 (HD)">Hub Premier 2 (HD)</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="38df8124-1bcd-49b6-abb3-ee230a1f40d2" xmltv_id="Hub Sports 5 HD">Hub Sports 5 HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="89ca2356-f022-4bc6-9ef4-be30d427988f" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0bde83aa-c1b1-40c0-934d-e0f541808ade" xmltv_id="ONE HD">ONE HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="2a2b35a1-fbc2-44f0-8234-136fd6429b68" xmltv_id="Sun TV">Sun TV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="aebb3170-e2ec-42cd-ae26-af914bf34045" xmltv_id="Zee Tamil">Zee Tamil</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="832a00f8-8c73-4e52-85d8-2bc475574d70" xmltv_id="Hub Premier 6">Hub Premier 6</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="5711b532-844b-441d-841a-18bdb1ef1094" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="9394fd45-230a-40cc-b19b-e1ba30972c04" xmltv_id="Karisma">Karisma</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="cbce770a-b029-425b-ac2e-7fb9b8d5510f" xmltv_id="Bloomberg Originals">Bloomberg Originals</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="753b50fe-262e-48da-9b5e-3fd9894ff531" xmltv_id="Hub Sports 4 HD">Hub Sports 4 HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="37494f1f-0748-4150-bfbc-eb24b0bf1a34" xmltv_id="DW English HD">DW English HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="7c9126e4-f92c-42d6-a381-3ba640da04b9" xmltv_id="Preview Channel">Preview Channel</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="d440ee6e-6f9a-4d78-b37b-5be89051145a" xmltv_id="Phoenix InfoNews Channel HD">Phoenix InfoNews Channel HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="6ffaeb9f-2388-4f27-bd04-a71dba7c55a9" xmltv_id="Kalaignar TV">Kalaignar TV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f25d2d07-0303-4c95-be02-e9569d6c4f54" xmltv_id="HITS MOVIES HD">HITS MOVIES HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="3c85588c-262b-43de-b9c3-0f0fd51466d9" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="58ac6ca4-f46d-4220-9185-ce3be0c707fb" xmltv_id="SEA Today">SEA Today</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="753cf54a-a4a2-4723-8709-c8ce14ec8254" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="3d125b3f-26ea-4f0c-acb5-774b2f478352" xmltv_id="NHK World Premium HD">NHK World Premium HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="dea58cb4-eba4-4d53-a1c4-ff8e501e2adf" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="c873d8db-2f77-4482-8074-b1d477455e91" xmltv_id="Nickelodeon Asia HD">Nickelodeon Asia HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="4ff7b357-9338-41a3-b7be-ede530555279" xmltv_id="Hub Sports 3 HD">Hub Sports 3 HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="64864046-76a0-4de0-a65b-53fea57ee6bd" xmltv_id="France24">France24</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f946f3d4-96c3-4e0f-924d-edac62433fd2" xmltv_id="Bloomberg Television HD">Bloomberg Television HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="5f52f2b3-e45a-40a5-bcf3-2dd75a5543f8" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f8b64a5d-438f-47e7-b516-2a902d7bc21d" xmltv_id="Citra Entertainment">Citra Entertainment</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="c7fec37a-8cbe-4b56-84e2-1428c82910a4" xmltv_id="Vijay TV HD">Vijay TV HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="385da56a-d445-4711-a6a0-6a3a80daa9a8" xmltv_id="Asianet">Asianet</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="57100d1f-5351-475e-bfef-bd9ae5793684" xmltv_id="Animax HD">Animax HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="ee4fe8fa-b213-4dd7-8ccf-541065bb8d12" xmltv_id="Astro Sensasi HD">Astro Sensasi HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="e90f7070-37bc-431d-ae30-137a5ec5e8e4" xmltv_id="SPOTV">SPOTV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="52a80589-3613-4021-bcf6-6abb1c80bff4" xmltv_id="KBS World HD">KBS World HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="3f4bb488-1eae-4b02-8d13-04931b021e09" xmltv_id="TestChannel 996">TestChannel 996</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f948f494-b2bd-4b92-8752-878938966e49" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="d5fa461f-bbfc-4706-9b72-9ea67c946394" xmltv_id="HBO Hits HD">HBO Hits HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="b6752f04-c904-43d8-befb-7d3b20efe98c" xmltv_id="Hub Premier 4">Hub Premier 4</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0629c0f2-b352-4b01-93aa-f37c91b07866" xmltv_id="CTI TV HD">CTI TV HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="d2bac03e-7024-48be-83b2-d56cc3852a7c" xmltv_id="CCM">CCM</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="792aa2b5-cb06-45b9-bf37-e919c27c097e" xmltv_id="Hub VVDrama">Hub VVDrama</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="ca5c1396-7135-426f-baf3-23e9eaef335e" xmltv_id="ROCK Entertainment">ROCK Entertainment</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f4658135-f4b4-4185-be9a-2ff976b54a8f" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="cc214bae-ddf2-4c17-84e2-7690fe4e65db" xmltv_id="Hub Sports 6">Hub Sports 6</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="ea2a19ac-da50-4e86-8083-d8938112641f" xmltv_id="TVBS-NEWS">TVBS-NEWS</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="824bd5da-016e-4e10-9c8e-2c33fbc179d4" xmltv_id="DreamWorks Channel HD">DreamWorks Channel HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="972d712f-9b8c-405c-9f32-12ed82a0cfcf" xmltv_id="Test 998">Test 998</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0ef9316c-9b57-42fb-80d2-49297d7a7bac" xmltv_id="HBO Signature HD">HBO Signature HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="7104a837-e593-43ab-80db-0ac707d86302" xmltv_id="TestChannel 995">TestChannel 995</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="173fc873-1c01-4782-b0ee-f322fe23ef33" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0c28c445-abad-467d-9559-211174718745" xmltv_id="TV5MONDE HD">TV5MONDE HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="b5c3d45b-e2c9-462b-bcf1-06a149d68f25" xmltv_id="Hub Sports 1  HD">Hub Sports 1  HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0a9604e3-35dc-4c90-a9e4-39ea7f39c9d6" xmltv_id="SONY MAX">SONY MAX</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="36453e0d-85cc-4ee7-816c-2e147541cecf" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="9f3a21bb-b934-4147-bfb9-888057ec0657" xmltv_id="beIN Sports HD">beIN Sports HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f2f7a291-3447-4807-95f0-8cc270608be0" xmltv_id="Hub Premier 8">Hub Premier 8</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="53115456-8c87-474d-9154-8f4f88a080d2" xmltv_id="Hub Premier 5">Hub Premier 5</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="12f8f777-7671-486d-a26b-5727cd9a5ff9" xmltv_id="TestChannel2">TestChannel2</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="7b781d20-7138-4ffb-bd9d-6b12e473043b" xmltv_id="NHK WORLD - JAPAN HD">NHK WORLD - JAPAN HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0526b076-2618-4d65-a255-b29b5a343d40" xmltv_id="ONE (Malay)">ONE (Malay)</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="c170ab01-3fe1-453e-850f-815b29931ff7" xmltv_id="COLORS">COLORS</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="1312f58d-752b-4d8a-879e-33a43de2d941" xmltv_id="BBC World News HD">BBC World News HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="6bdd83c0-d833-42a0-896c-8a94fbb35f73" xmltv_id="Premier Sports">Premier Sports</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="5cee1079-1bb5-4054-ae02-0322144a248b" xmltv_id="Hub Premier 1">Hub Premier 1</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="afde6766-acb5-4c69-b147-dd8b98dea9d2" xmltv_id="Hits HD">Hits HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="d66e833d-4c36-4989-83f7-777e7773d4bd" xmltv_id="Sony Entertainment Television">Sony Entertainment Television</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="64da91df-f088-48ae-9994-99a846e0c1f8" xmltv_id="ABC Australia HD">ABC Australia HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="aeac111e-e284-41d9-b6b5-ae13f6dbe67b" xmltv_id="Asianet Movies">Asianet Movies</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="1419f892-2abd-4717-a9e9-b2299fee00f5" xmltv_id="Astro Warna HD">Astro Warna HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0e9c2522-9489-43d9-ba57-cc8750937972" xmltv_id="SPOTV2">SPOTV2</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="69303210-3157-4dd2-b923-809c5ce2371a" xmltv_id="Dragon TV">Dragon TV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="f2c840ad-38ec-46d1-9b7b-b4d534da3c88" xmltv_id="Travelxp HD">Travelxp HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="0e9b041d-8880-4b3d-8f6f-3863358c7eff" xmltv_id="ADITHYA TV">ADITHYA TV</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="aa5a523d-562b-499b-b04b-1d75fbbc88f5" xmltv_id="Hub E City HD">Hub E City HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="b8b921c8-3798-40b7-aab9-cb2eca3a5159" xmltv_id="Celestial Movies HD">Celestial Movies HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="8a1f4f2d-29a7-4914-9214-40131ecb8d69" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="dddf00c0-b347-472d-bc30-d44fd837cde2" xmltv_id="HBO Family HD">HBO Family HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="38251a1a-9368-410c-9dc5-ab806d74420f" xmltv_id="TVB Jade HD">TVB Jade HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="29d2b788-ae5c-4307-8ac8-dd0c5911ea38" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="d298c58f-9710-4a8d-b802-d799cb064aff" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="3181b9a2-f8f4-489c-b8fd-d19f923c6f62" xmltv_id="Hub E City HD">Hub E City HD</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="89e17d62-770b-48a6-b56c-3fb59672565a" xmltv_id="TestChannel1">TestChannel1</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="e2ae3508-e262-4046-abbf-bfbdfc3ef898" xmltv_id="TestChannel 993">TestChannel 993</channel>
+    <channel update="i" site="starhubtvplus.com" site_id="3ee93af3-4d05-4a60-98c1-2f9b28da88cd" xmltv_id="Hub Premier 7">Hub Premier 7</channel>
   </channels>
 </site>
