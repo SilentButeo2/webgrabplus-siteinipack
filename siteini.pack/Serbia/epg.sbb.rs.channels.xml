@@ -1,323 +1,283 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="epg.sbb.rs">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" site="epg.sbb.rs">
   <channels>
-    <channel update="i" site="epg.sbb.rs" site_id="1##/2020/05/28/12/46/08/n1hd_logo_16_9_light_480x270_c4b992f9_f8e1_4755_815c_329a1e28651a.png" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="678##/2023/01/04/09/40/08/light_480x270.png" xmltv_id="NOVA S HD">NOVA S HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="185##/2020/05/28/13/01/01/sbbinfokanal_logo_16_9_light_288x162_f4fe54e9_d8ad_4837_b306_b205294ca26b.png" xmltv_id="SBB Info kanal">SBB Info kanal</channel>
     <channel update="i" site="epg.sbb.rs" site_id="665##/2020/05/28/12/58/23/rts1hd_logo_16_9_light_300x168_b2682e22_8c5a_4e11_b47c_42f23bb548fd.png" xmltv_id="RTS 1 HD">RTS 1 HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="666##/2020/05/28/12/58/34/rts2hd_logo_16_9_light_160x90_ab3fa695_08e2_4e1e_a507_6f1fda651658.png" xmltv_id="RTS 2 HD">RTS 2 HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="14##/2020/05/28/12/59/00/rtv1_logo_16_9_light_480x270_f1296e13_775b_465e_b36f_b56b286520a7.png" xmltv_id="RTV 1 (SR)">RTV 1 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="737##/2023/09/11/18/00/53/light_480x270.png" xmltv_id="Prva HD (SR)">Prva HD (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="726##/2020/05/28/12/52/07/pinkhd_logo_16_9_light_160x90_c70275aa_6e11_4926_91a2_83b7f4d64b9d.png" xmltv_id="Pink HD">Pink HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="738##/2020/05/28/12/27/19/b92_logo_16_9_light_160x90_3f38d84c_f095_49db_b048_0a1f474f25ac.png" xmltv_id="B92">B92</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="5##/2020/12/14/12/00/53/xl_happytv_eon_480x270px.png" xmltv_id="Happy">Happy</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="737##/2020/05/28/12/55/58/prva_logo_16_9_light_300x168_ffbf2a3c_2d26_47ac_95bd_51014ee61680.png" xmltv_id="Prva HD (SR)">Prva HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="738##/2020/05/28/12/27/19/b92_logo_16_9_light_160x90_3f38d84c_f095_49db_b048_0a1f474f25ac.png" xmltv_id="B92 (RS)">B92 (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="5##/2020/12/14/12/00/53/xl_happytv_eon_480x270px.png" xmltv_id="Happy (RS)">Happy (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="678##/2023/01/04/09/40/08/light_480x270.png" xmltv_id="NOVA S HD (RS)">NOVA S HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1918##/2025/03/31/13/09/33/xl_light_480x270.png" xmltv_id="Kurir TV (RS)">Kurir TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1##/2020/05/28/12/46/08/n1hd_logo_16_9_light_480x270_c4b992f9_f8e1_4755_815c_329a1e28651a.png" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1912##/2025/03/31/13/05/55/xl_light_480x270.png" xmltv_id="Informer TV (RS)">Informer TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1914##/2025/03/31/13/07/29/xl_light_480x270.png" xmltv_id="K1 (RS)">K1 (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1939##/2025/04/02/09/55/37/xl_untitled.png" xmltv_id="Tanjug (RS)">Tanjug (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1919##/2025/03/31/13/10/07/xl_light_480x270.png" xmltv_id="NewsMax Balkans (RS)">NewsMax Balkans (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="19##/2021/02/17/14/22/43/xl_light_480x270.png" xmltv_id="Vesti HD (Pink 3 info)">Vesti HD (Pink 3 info)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="15##/2020/05/28/12/59/05/rtv2_logo_16_9_light_288x162_6988e784_e466_427b_8ffb_fe9ba0ad4c22.png" xmltv_id="RTV 2 (SR)">RTV 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1890##/2025/04/03/10/54/16/xl_light_480x270.png" xmltv_id="Blic TV HD (RS)">Blic TV HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1911##/2025/03/27/16/43/30/xl_untitled.png" xmltv_id="EuroNews Serbia (RS)">EuroNews Serbia (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="657##/2020/06/15/15/27/17/xl_aljazeera_480x270.png" xmltv_id="Al Jazeera Balkans HD (BIH)">Al Jazeera Balkans HD (BIH)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1903##/2025/03/31/13/00/11/xl_light_480x270.png" xmltv_id="Bloomberg Adria (RS)">Bloomberg Adria (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1112##/2024/01/15/14/49/03/light_480x270.png" xmltv_id="Insajder TV (SR)">Insajder TV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="747##/2022/11/18/09/40/05/xl_light_480x270.png" xmltv_id="RTL HR HD (BIH)">RTL HR HD (BIH)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="746##/2023/01/04/09/57/17/light_160x90.png" xmltv_id="Nova HR HD (BIH)">Nova HR HD (BIH)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="13##/2021/07/01/09/33/37/xl_light_480x270.png" xmltv_id="RTS 3 HD">RTS 3 HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1930##/2025/03/31/13/15/41/xl_light_480x270.png" xmltv_id="Superstar TV (RS)">Superstar TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1928##/2025/03/31/13/14/43/xl_light_480x270.png" xmltv_id="Superstar TV 2 (RS)">Superstar TV 2 (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1929##/2025/03/31/13/15/10/xl_light_480x270.png" xmltv_id="Superstar TV 3 (RS)">Superstar TV 3 (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="56##/2023/10/01/07/45/34/light_480x270.png" xmltv_id="STAR HD (INT)">STAR HD (INT)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="57##/2023/10/01/07/48/50/light_480x270.png" xmltv_id="STAR Life HD (INT)">STAR Life HD (INT)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="58##/2023/10/01/07/52/07/light_480x270.png" xmltv_id="STAR Crime HD (INT)">STAR Crime HD (INT)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="59##/2023/10/01/07/54/19/light_480x270.png" xmltv_id="STAR Movies HD (INT)">STAR Movies HD (INT)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="43##/2020/05/28/12/33/21/diva_logo_16_9_light_384x216_3cbbc3b1_fc74_4114_ae65_1c6d19f2eb52.png" xmltv_id="Diva">Diva</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1321##/2022/10/20/14/13/23/light_160x90.png" xmltv_id="Nova Max">Nova Max</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1322##/2022/10/20/14/30/10/light_480x270.png" xmltv_id="Nova Series">Nova Series</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="888##/2020/09/22/16/06/12/xl_light_480x270.png" xmltv_id="Shoppster TV (RS)">Shoppster TV (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="8##/2020/05/28/12/30/21/cinemaniahd_logo_16_9_light_288x162_4ea51485_a757_4335_900d_517635ff0948.png" xmltv_id="Cinemania HD">Cinemania HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="9##/2020/05/28/12/37/49/grand_logo_16_9_light_384x216_c01ccb45_7c76_4d7e_bee7_150831f3ec7f.png" xmltv_id="Grand (SR)">Grand (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="10##/2020/05/28/12/41/30/idjtvhd_logo_16_9_light_288x162_62943ec9_70b7_429c_967d_ea14e5e622bd.png" xmltv_id="IDJTV HD">IDJTV HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="667##/2020/06/01/12/47/32/xl_light_480x270.png" xmltv_id="Brainz HD">Brainz HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1331##/2023/01/19/09/22/50/light_480x270.png" xmltv_id="Insta TV">Insta TV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="25##/2020/05/28/12/49/40/palmaplus_logo_16_9_light_384x216_87ff65e1_129c_4028_822b_76aa52c1f073.png" xmltv_id="Palma plus">Palma plus</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1112##/2021/12/14/10/50/44/xl_light_480x270.png" xmltv_id="Insajder TV">Insajder TV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="666##/2020/05/28/12/58/34/rts2hd_logo_16_9_light_160x90_ab3fa695_08e2_4e1e_a507_6f1fda651658.png" xmltv_id="RTS 2 HD">RTS 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="13##/2021/07/01/09/33/37/xl_light_480x270.png" xmltv_id="RTS 3 HD">RTS 3 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="14##/2020/05/28/12/59/00/rtv1_logo_16_9_light_480x270_f1296e13_775b_465e_b36f_b56b286520a7.png" xmltv_id="RTV 1">RTV 1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="15##/2020/05/28/12/59/05/rtv2_logo_16_9_light_288x162_6988e784_e466_427b_8ffb_fe9ba0ad4c22.png" xmltv_id="RTV 2">RTV 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="16##/2022/11/16/14/38/21/light_480x270.png" xmltv_id="RED TV (Pink 2 HD)">RED TV (Pink 2 HD)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="19##/2021/02/17/14/22/43/xl_light_480x270.png" xmltv_id="Vesti HD (Pink 3 info)">Vesti HD (Pink 3 info)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="20##/2020/05/28/13/05/19/studiob_logo_16_9_light_384x216_ce9854e1_02b8_4499_98c2_0c5885e46f74.png" xmltv_id="Studio B">Studio B</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="21##/2022/11/16/14/39/49/light_288x162.png" xmltv_id="Naša TV (Beograd)">Naša TV (Beograd)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="24##/2020/05/28/12/42/52/kcn1_logo_16_9_light_480x270_20537750_5bde_4952_a400_52b432c6f745.png" xmltv_id="K::CN 1">K::CN 1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="935##/2022/04/19/17/03/01/xl_light_480x270.png" xmltv_id="TV Super Sat">TV Super Sat</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1113##/2021/12/14/13/13/10/xl_light_480x270.png" xmltv_id="B1 HD">B1 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1340##/2022/11/10/13/49/36/light_480x270.png" xmltv_id="TV Info 24">TV Info 24</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="743##/2020/05/28/12/40/22/hrt1hd_logo_16_9_light_300x168_14bc03da_146f_4c9e_8b26_fdb803bdffb8.png" xmltv_id="HRT 1 HD">HRT 1 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="744##/2020/05/28/12/40/32/hrt2hd_logo_16_9_light_384x216_547598f4_7d51_477f_9696_9797fe08f19b.png" xmltv_id="HRT 2 HD">HRT 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="746##/2023/01/04/09/57/17/light_160x90.png" xmltv_id="Nova HR HD">Nova HR HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="29##/2020/05/28/12/57/44/rtlcroworld_logo_16_9_light_288x162_ef0fe51a_cfa6_4b74_93f6_3e70a02ff304.png" xmltv_id="RTL Croatia World">RTL Croatia World</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="747##/2022/11/18/09/40/05/xl_light_480x270.png" xmltv_id="RTL HR HD">RTL HR HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="448##/2020/05/28/12/46/02/n1hd_logo_16_9_light_300x168_39ffaf86_a28a_481b_a18f_cedc2f5e1ef6.png" xmltv_id="N1 HD (HR)">N1 HD (HR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="640##/2023/01/04/09/58/40/light_384x216.png" xmltv_id="Nova BH HD">Nova BH HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="199##/2020/05/28/12/45/57/n1hd_logo_16_9_light_300x168_5eff2034_6882_492d_b72f_4a8a75753856.png" xmltv_id="N1 HD (BH)">N1 HD (BH)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="35##/2020/05/28/12/48/44/okanal_logo_16_9_light_384x216_aecfcc13_978b_4b0d_a946_d1ae17de7a44.png" xmltv_id="O Kanal">O Kanal</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="639##/2023/01/04/09/36/15/light_288x162.png" xmltv_id="Nova M HD">Nova M HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="453##/2020/05/28/13/10/37/tvvijesti_logo_16_9_light_160x90_fbf46171_98b5_4e65_933b_4e069b6d49b1.png" xmltv_id="TV Vijesti">TV Vijesti</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="37##/2022/09/14/15/22/09/light_480x270.png" xmltv_id="RTCG Sat">RTCG Sat</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1114##/2021/12/14/15/32/24/xl_light_480x270.png" xmltv_id="Nova Television HD (BG)">Nova Television HD (BG)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="56##/2020/05/28/12/36/15/foxhd_logo_16_9_light_300x168_349fd1ae_315c_4405_a200_a673781aa608.png" xmltv_id="FOX HD (INT)">FOX HD (INT)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="57##/2020/05/28/12/36/36/foxlifehd_logo_16_9_light_384x216_e4729226_54c8_43d2_96c5_c52d0dc317df.png" xmltv_id="FOX Life HD (INT)">FOX Life HD (INT)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="58##/2020/05/28/12/36/05/foxcrimehd_logo_16_9_light_300x168_408a152d_8455_4ea1_a68d_7316684d8214.png" xmltv_id="FOX Crime HD (INT)">FOX Crime HD (INT)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="59##/2022/11/24/16/50/05/light_480x270.png" xmltv_id="FOX Movies HD (INT)">FOX Movies HD (INT)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="563##/2020/05/28/12/33/56/epicdramahd_logo_16_9_light_288x162_a438b934_05e4_44b9_9a29_f64e879e84cb.png" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="42##/2020/05/28/12/26/55/axn_logo_16_9_light_300x168_8a1f955d_a9fc_411d_9e75_82f76b0e4251.png" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="43##/2020/05/28/12/33/21/diva_logo_16_9_light_384x216_3cbbc3b1_fc74_4114_ae65_1c6d19f2eb52.png" xmltv_id="Diva">Diva</channel>
     <channel update="i" site="epg.sbb.rs" site_id="44##/2021/12/15/16/56/30/xl_light_480x270.png" xmltv_id="TV1000">TV1000</channel>
     <channel update="i" site="epg.sbb.rs" site_id="45##/2020/05/28/12/25/09/amchd_logo_16_9_light_480x270_fbd90cbc_b556_49e9_8fec_94f4fc654db9.png" xmltv_id="AMC HD (INT)">AMC HD (INT)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="988##/2021/04/23/14/05/25/xl_light_480x270.png" xmltv_id="Pickbox HD (RS)">Pickbox HD (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="47##/2020/05/28/12/51/36/pinkfamily_logo_16_9_light_300x168_d3b225b6_3bed_4f96_bdd4_59d5e8fb7bda.png" xmltv_id="Pink Family">Pink Family</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="175##/2020/05/28/12/50/42/pinkaction_logo_16_9_light_480x270_590cb1e6_8593_45a3_b99d_bf37288d49df.png" xmltv_id="Pink Action">Pink Action</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="580##/2021/06/03/16/26/30/xl_light_480x270.png" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="48##/2021/06/01/00/31/56/xl_light_480x270.png" xmltv_id="CineStar TV 1 HD (SR)">CineStar TV 1 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="49##/2021/06/03/16/26/50/xl_light_480x270.png" xmltv_id="CineStar TV Fantasy HD">CineStar TV Fantasy HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="50##/2021/06/01/00/33/45/xl_light_480x270.png" xmltv_id="CineStar TV Action HD (RS)">CineStar TV Action HD (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="51##/2021/06/03/16/24/55/xl_light_480x270.png" xmltv_id="CineStar TV Premiere 1 HD">CineStar TV Premiere 1 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="52##/2021/06/03/16/25/22/xl_light_480x270.png" xmltv_id="CineStar TV Premiere 2 HD">CineStar TV Premiere 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="773##/2021/06/03/16/25/55/xl_light_480x270.png" xmltv_id="CineStar TV 2 HD">CineStar TV 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="581##/2020/05/28/12/54/27/pinkwestern_logo_16_9_light_300x168_bfca2834_dc04_434c_8c24_8835f918652a.png" xmltv_id="Pink Western">Pink Western</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="55##/2020/05/28/12/27/01/axnspin_logo_16_9_light_288x162_25ffd8c0_1ff5_4e09_a4e8_28c5cabcb3db.png" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="563##/2020/05/28/12/33/56/epicdramahd_logo_16_9_light_288x162_a438b934_05e4_44b9_9a29_f64e879e84cb.png" xmltv_id="Epic Drama HD (SR)">Epic Drama HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1481##/2023/07/28/12/38/29/xl_light_480x270.png" xmltv_id="FilmBox Premium HD (SR)">FilmBox Premium HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1480##/2023/07/28/12/39/21/xl_light_480x270.png" xmltv_id="FilmBox Extra HD (SR)">FilmBox Extra HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="8##/2020/05/28/12/30/21/cinemaniahd_logo_16_9_light_288x162_4ea51485_a757_4335_900d_517635ff0948.png" xmltv_id="Cinemania HD">Cinemania HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="51##/2023/11/20/13/55/28/xl_light_480x270.png" xmltv_id="CineStar TV Premiere 1 HD (SR)">CineStar TV Premiere 1 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="52##/2023/11/20/13/57/32/xl_light_480x270.png" xmltv_id="CineStar TV Premiere 2 HD (SR)">CineStar TV Premiere 2 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="48##/2023/11/20/13/49/48/light_160x90.png" xmltv_id="CineStar TV 1 HD (SR)">CineStar TV 1 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="773##/2023/11/20/14/02/12/xl_light_480x270.png" xmltv_id="CineStar TV 2 HD (SR)">CineStar TV 2 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="50##/2023/11/20/13/54/32/xl_light_480x270.png" xmltv_id="CineStar TV Action HD (SR)">CineStar TV Action HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="49##/2023/11/20/13/51/20/xl_light_480x270.png" xmltv_id="CineStar TV Fantasy HD (SR)">CineStar TV Fantasy HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="580##/2023/11/20/13/59/23/xl_light_480x270.png" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="988##/2021/04/23/14/05/25/xl_light_480x270.png" xmltv_id="Pickbox HD (SR)">Pickbox HD (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="577##/2023/01/17/11/48/59/light_480x270.png" xmltv_id="Russian Kino">Russian Kino</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="576##/2021/06/25/12/49/33/xl_light_480x270.png" xmltv_id="SCI FI HD">SCI FI HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="7##/2020/05/28/12/56/08/prvaplus_logo_16_9_light_300x168_0e7641ec_924c_43f5_b100_6656673ad53a.png" xmltv_id="Prva plus">Prva plus</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="560##/2020/05/28/12/56/14/prvaworld_logo_16_9_light_160x90_39a1e8f5_eeb5_4306_8cb1_efa6bac00727.png" xmltv_id="Prva World">Prva World</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="559##/2020/05/28/12/56/04/prvakick_logo_16_9_light_384x216_d3e72c15_3e64_40b7_8f45_e64f7896a9f1.png" xmltv_id="Prva Kick">Prva Kick</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="60##/2020/05/28/12/39/08/hbohd_logo_16_9_light_160x90_b7d50849_51a3_41e1_9ff7_34e0f7c1c33a.png" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="61##/2020/05/28/12/38/45/hbo2hd_logo_16_9_light_300x168_2ebcc208_24a0_4ea8_927d_44d6b0c39985.png" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="62##/2021/11/30/13/00/13/xl_light_480x270.png" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="576##/2021/06/25/12/49/33/xl_light_480x270.png" xmltv_id="SCI FI HD (SR)">SCI FI HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="65##/2021/06/25/12/50/57/xl_light_480x270.png" xmltv_id="SHORTSTV HD (SR)">SHORTSTV HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1917##/2025/03/31/13/08/57/xl_light_480x270.png" xmltv_id="Klasik (RS)">Klasik (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1921##/2025/03/31/13/11/14/xl_light_480x270.png" xmltv_id="RTS Drama (RS)">RTS Drama (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="7##/2023/09/11/18/08/31/light_480x270.png" xmltv_id="Prva plus (SR)">Prva plus (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="559##/2023/09/11/18/06/03/light_480x270.png" xmltv_id="Prva Kick (SR)">Prva Kick (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="560##/2023/09/11/18/03/27/light_480x270.png" xmltv_id="Prva World (SR)">Prva World (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="810##/2020/05/28/12/53/27/pinkpremium_logo_16_9_light_480x270_048de39d_57dd_4e93_9a81_685083f61198.png" xmltv_id="Pink Premium HD">Pink Premium HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="690##/2020/05/28/12/54/38/pinkwcinema_logo_16_9_light_480x270_e8346766_5faa_47ea_afd9_c69777996372.png" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="704##/2020/05/28/12/50/57/pinkclassic_logo_16_9_light_384x216_caee1c6f_c7e6_49db_a8be_1b129e9bf0bc.png" xmltv_id="Pink Classic">Pink Classic</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="173##/2020/05/28/12/52/50/pinkmovies_logo_16_9_light_480x270_b7f150dd_4414_48f7_b898_25f0735ba0ea.png" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="47##/2020/05/28/12/51/36/pinkfamily_logo_16_9_light_300x168_d3b225b6_3bed_4f96_bdd4_59d5e8fb7bda.png" xmltv_id="Pink Family">Pink Family</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="568##/2021/12/06/09/15/18/xl_light_480x270.png" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="566##/2020/05/28/12/53/38/pinkromance_logo_16_9_light_300x168_f181acad_a5bc_47f3_9448_57bf2d2e8d62.png" xmltv_id="Pink Romance">Pink Romance</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="174##/2020/05/28/12/51/48/pinkfilm_logo_16_9_light_288x162_91dd6e6a_9635_4c87_9f72_d4653ed5eb21.png" xmltv_id="Pink Film (SR)">Pink Film (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="694##/2020/05/28/12/53/50/pinkserije_logo_16_9_light_480x270_76a0b4c5_5bf2_46f7_abd9_e39b09e3b271.png" xmltv_id="Pink Serije (SR)">Pink Serije (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="175##/2020/05/28/12/50/42/pinkaction_logo_16_9_light_480x270_590cb1e6_8593_45a3_b99d_bf37288d49df.png" xmltv_id="Pink Action">Pink Action</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="567##/2020/05/28/12/54/22/pinkthriller_logo_16_9_light_384x216_cddd4f2e_9fe8_4c15_8e3e_6018028873b8.png" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="581##/2020/05/28/12/54/27/pinkwestern_logo_16_9_light_300x168_bfca2834_dc04_434c_8c24_8835f918652a.png" xmltv_id="Pink Western">Pink Western</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="584##/2020/05/28/12/53/45/pinkscifi_logo_16_9_light_300x168_5d647e24_beb2_4133_a968_b72710ca7e6e.png" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="659##/2020/05/28/12/51/11/pinkcrimem_logo_16_9_light_288x162_2f86278b_3c62_4105_be51_9287f7978360.png" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="582##/2020/05/28/12/52/23/pinkhorror_logo_16_9_light_300x168_f62505c6_e705_45f2_a174_e25c55847c9d.png" xmltv_id="Pink Horror">Pink Horror</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="583##/2021/12/07/10/46/48/xl_light_480x270.png" xmltv_id="Pink Soap">Pink Soap</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="60##/2020/05/28/12/39/08/hbohd_logo_16_9_light_160x90_b7d50849_51a3_41e1_9ff7_34e0f7c1c33a.png" xmltv_id="HBO HD (SR)">HBO HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="61##/2020/05/28/12/38/45/hbo2hd_logo_16_9_light_300x168_2ebcc208_24a0_4ea8_927d_44d6b0c39985.png" xmltv_id="HBO 2 HD (SR)">HBO 2 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="62##/2021/11/30/13/00/13/xl_light_480x270.png" xmltv_id="HBO 3 HD (SR)">HBO 3 HD (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="63##/2020/05/28/12/30/45/cinemaxhd_logo_16_9_light_160x90_8435b044_5656_468c_99c0_20ff527f8ab5.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
     <channel update="i" site="epg.sbb.rs" site_id="64##/2020/05/28/12/30/38/cinemax2hd_logo_16_9_light_480x270_493ae2eb_ab92_4934_96f7_ec5ff6055295.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="65##/2021/06/25/12/50/57/xl_light_480x270.png" xmltv_id="SHORTSTV HD">SHORTSTV HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="728##/2020/05/28/12/48/11/novasporthd_logo_16_9_light_288x162_8838218a_5a41_4636_bae4_30c9e199d2c9.png" xmltv_id="Nova Sport HD">Nova Sport HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="66##/2020/05/28/13/02/26/sk1hd_logo_16_9_light_300x168_a47a625f_ea4d_4cff_bceb_6922ba2a9847.png" xmltv_id="SK 1 HD (SR)">SK 1 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="67##/2020/05/28/13/02/52/sk2hd_logo_16_9_light_480x270_de1e130a_cfd2_4bed_95cb_1ef378958126.png" xmltv_id="SK 2 HD (SR)">SK 2 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="68##/2020/05/28/13/03/09/sk3hd_logo_16_9_light_160x90_3c16cfd0_678e_485b_99ac_db8f12716810.png" xmltv_id="SK 3 HD (SR)">SK 3 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="69##/2020/08/25/01/23/41/xl_light_480x270.png" xmltv_id="SK 4 HD (SR)">SK 4 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="70##/2022/05/20/10/08/09/xl_light_480x270.png" xmltv_id="SK 5 HD (SR)">SK 5 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="71##/2022/08/30/10/13/02/xl_index.png" xmltv_id="SK 6 HD (SR)">SK 6 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="74##/2022/08/30/10/14/32/xl_index.png" xmltv_id="SK 7 HD (SR)">SK 7 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="75##/2022/08/30/10/21/16/xl_index.png" xmltv_id="SK 8 HD (SR)">SK 8 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="76##/2022/08/30/10/27/44/xl_index.png" xmltv_id="SK 9 HD (SR)">SK 9 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="77##/2022/08/30/10/33/05/xl_index.png" xmltv_id="SK 10 HD (SR)">SK 10 HD (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="941##/2021/03/04/13/52/34/xl_light.png" xmltv_id="SK 4K IPTV">SK 4K IPTV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="18##/2020/05/28/13/04/23/skhd_logo_16_9_light_160x90_14f6cb27_ade9_4013_a133_3d9e5655a920.png" xmltv_id="SK HD">SK HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="73##/2020/05/28/13/04/17/skgolfhd_logo_16_9_light_160x90_21e37f21_1f81_493b_be9b_3014fe186230.png" xmltv_id="SK Golf HD">SK Golf HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="72##/2022/01/26/16/24/13/xl_light_480x270.png" xmltv_id="SK Fight">SK Fight</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="84##/2022/01/31/16/34/47/xl_light_480x270.png" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="85##/2022/01/31/16/35/25/xl_light_480x270.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1910##/2025/04/04/20/43/51/xl_light_480x270.png" xmltv_id="Arena Sport 1X2 HD (RS)">Arena Sport 1X2 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1891##/2025/04/04/20/34/50/xl_light_480x270.png" xmltv_id="Arena Sport 1 HD (RS)">Arena Sport 1 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1892##/2025/04/04/20/35/29/xl_light_480x270.png" xmltv_id="Arena Sport 2 HD (RS)">Arena Sport 2 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1893##/2025/04/04/20/36/12/xl_light_480x270.png" xmltv_id="Arena Sport 3 HD (RS)">Arena Sport 3 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1894##/2025/04/04/20/36/51/xl_light_480x270.png" xmltv_id="Arena Sport 4 HD (RS)">Arena Sport 4 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1895##/2025/04/04/20/37/29/xl_light_480x270.png" xmltv_id="Arena Sport 5 HD (RS)">Arena Sport 5 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1896##/2025/04/04/20/38/21/xl_light_480x270.png" xmltv_id="Arena Sport 6 HD (RS)">Arena Sport 6 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1897##/2025/04/04/20/38/57/xl_light_480x270.png" xmltv_id="Arena Sport 7 HD (RS)">Arena Sport 7 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1899##/2025/04/04/20/39/36/xl_light_480x270.png" xmltv_id="Arena Sport 8 HD (RS)">Arena Sport 8 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1901##/2025/04/04/20/40/15/xl_light_480x270.png" xmltv_id="Arena Sport 9 HD (RS)">Arena Sport 9 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1902##/2025/04/04/20/40/56/xl_light_480x270.png" xmltv_id="Arena Sport 10 HD (RS)">Arena Sport 10 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1887##/2025/04/04/20/32/26/xl_light_480x270.png" xmltv_id="Arena Premium 1 HD (RS)">Arena Premium 1 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1888##/2025/04/04/20/33/27/xl_light_480x270.png" xmltv_id="Arena Premium 2 HD (RS)">Arena Premium 2 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1889##/2025/04/04/20/34/08/xl_light_480x270.png" xmltv_id="Arena Premium 3 HD (RS)">Arena Premium 3 HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1905##/2025/04/04/20/41/46/xl_light_480x270.png" xmltv_id="Arena Fight HD (RS)">Arena Fight HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1913##/2025/03/31/13/06/56/xl_light_480x270.png" xmltv_id="Premier League TV HD (RS)">Premier League TV HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1916##/2025/03/31/13/08/29/xl_light_480x270.png" xmltv_id="NBA TV HD (RS)">NBA TV HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="84##/2022/01/31/16/34/47/xl_light_480x270.png" xmltv_id="Eurosport 1 HD (SR)">Eurosport 1 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="85##/2022/01/31/16/35/25/xl_light_480x270.png" xmltv_id="Eurosport 2 HD (SR)">Eurosport 2 HD (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1082##/2021/06/23/13/47/35/xl_light_480x270.png" xmltv_id="Eurosport 4K IPTV">Eurosport 4K IPTV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="687##/2020/05/28/13/04/07/skesports_logo_16_9_light_160x90_492b1e3e_4559_43a3_b57f_0e487743b401.png" xmltv_id="SK Esports">SK Esports</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="81##/2021/06/29/12/36/05/xl_light_480x270.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="82##/2021/06/25/12/43/53/xl_light_480x270.png" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="561##/2020/05/28/12/50/02/pikaboohd_logo_16_9_light_300x168_0a541f40_5a25_4857_982c_32a2d00c85ee.png" xmltv_id="Pikaboo HD">Pikaboo HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="87##/2021/08/02/11/04/04/xl_light_480x270.png" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="88##/2020/05/28/12/47/20/nickelodeon_logo_16_9_light_160x90_1ac5384e_c1f7_43ed_9502_935dda779316.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="572##/2020/05/28/13/12/04/vavoomhd_logo_16_9_light_300x168_62669c9e_7e19_4f33_aa14_906b721efc59.png" xmltv_id="Vavoom HD">Vavoom HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="81##/2021/06/29/12/36/05/xl_light_480x270.png" xmltv_id="Extreme Sports (SR)">Extreme Sports (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="82##/2023/09/15/09/50/56/light_160x90.png" xmltv_id="Motorvision+ HD (SR)">Motorvision+ HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1672##/2024/07/30/12/25/14/xl_light_480x270.png" xmltv_id="Fast&amp;Fun Box HD (SR)">Fast&amp;Fun Box HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1909##/2025/04/04/20/43/05/xl_light_480x270.png" xmltv_id="Arena Esport HD (RS)">Arena Esport HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="88##/2023/08/24/10/02/18/light_480x270.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="94##/2024/02/27/13/31/21/xl_light_480x270.png" xmltv_id="Nick Jr. (SR)">Nick Jr. (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="90##/2022/11/16/11/41/21/xl_light_480x270.png" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="91##/2020/05/28/12/29/45/cartoonnetwork_logo_16_9_light_384x216_c972070f_3676_46e1_8a23_10c826b0b029.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="92##/2020/05/28/12/52/28/pinkkids_logo_16_9_light_480x270_28171a4b_31e6_42a7_a542_c4588ad41cd0.png" xmltv_id="Pink Kids">Pink Kids</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="741##/2023/01/18/15/51/39/light_300x168.png" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="93##/2023/03/20/09/37/46/light_480x270.png" xmltv_id="Cartoonito /Boomerang">Cartoonito /Boomerang</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="94##/2017/07/21/15/54/05/nick_jr_160x90.png" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="95##/2020/05/28/12/47/30/nickelodeonhd_logo_16_9_light_384x216_a75709aa_d93e_44d5_9d42_cdbb393782bd.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="46##/2020/07/14/11/02/12/xl_light_480x270.png" xmltv_id="Nicktoons (SR)">Nicktoons (SR)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="987##/2021/04/22/13/25/37/xl_light_480x270.png" xmltv_id="IDJKids HD (RS)">IDJKids HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="741##/2024/06/14/15/46/14/xl_download_1_.png" xmltv_id="Disney Junior (SR)">Disney Junior (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="96##/2020/06/30/10/34/58/xl_light_480x270.png" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="289##/2021/06/25/12/40/23/xl_light_480x270.png" xmltv_id="Jim Jam">Jim Jam</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1119##/2023/02/08/11/26/28/light_480x270.png" xmltv_id="Da Vinci HD (RS)">Da Vinci HD (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="107##/2020/05/28/12/46/47/natgeohd_logo_16_9_light_384x216_3793b7e6_902d_4879_a6e7_9d9369d65346.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="776##/2020/05/28/12/32/32/discoveryhd_logo_16_9_light_384x216_ec5d8e4c_3937_41bb_809a_7127272859af.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="99##/2023/03/30/13/52/24/light_480x270.png" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="730##/2022/01/19/11/11/29/xl_light_480x270.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="101##/2020/05/28/12/43/37/loviribolov_logo_16_9_light_384x216_0be73ccb_add0_46fd_b424_6103a5055a71.png" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="17##/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="732##/2022/01/19/11/15/31/xl_light_480x270.png" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1084##/2021/07/29/13/53/09/xl_index_l.png" xmltv_id="Planet Earth HD (RS)">Planet Earth HD (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="731##/2022/04/18/15/47/01/light_480x270.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="117##/2020/10/02/14/54/21/xl_light_480x270.png" xmltv_id="ID Xtra HD">ID Xtra HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="111##/2022/11/16/11/56/11/xl_light_480x270.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="112##/2020/05/28/12/27/51/bbcearthhd_logo_16_9_light_160x90_c431d9f9_e142_43a9_b2a7_edf265f8df50.png" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="289##/2021/06/25/12/40/23/xl_light_480x270.png" xmltv_id="Jim Jam (SR)">Jim Jam (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="87##/2021/08/02/11/04/04/xl_light_480x270.png" xmltv_id="Minimax (SR)">Minimax (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="95##/2023/08/24/10/04/36/light_480x270.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="46##/2024/05/20/09/30/52/xl_light_480x270.png" xmltv_id="Nicktoons (SR)">Nicktoons (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="93##/2023/03/20/09/37/46/light_480x270.png" xmltv_id="Cartoonito /Boomerang (SR)">Cartoonito /Boomerang (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1752##/2025/01/13/13/51/01/xl_cartoon_light.png" xmltv_id="Cartoon Network HD (SR)">Cartoon Network HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1907##/2025/03/31/13/02/39/xl_light_480x270.png" xmltv_id="Dexy TV (RS)">Dexy TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1915##/2025/03/31/13/07/58/xl_light_480x270.png" xmltv_id="Kazbuka (RS)">Kazbuka (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="92##/2020/05/28/12/52/28/pinkkids_logo_16_9_light_480x270_28171a4b_31e6_42a7_a542_c4588ad41cd0.png" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="691##/2020/05/28/12/54/17/pinksuperkids_logo_16_9_light_480x270_c3fb5e44_42f6_4e32_b7ac_7c1f4b48409a.png" xmltv_id="Pink super kids">Pink super kids</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="987##/2021/04/22/13/25/37/xl_light_480x270.png" xmltv_id="IDJKids HD (SR)">IDJKids HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="561##/2020/05/28/12/50/02/pikaboohd_logo_16_9_light_300x168_0a541f40_5a25_4857_982c_32a2d00c85ee.png" xmltv_id="Pikaboo HD (SR)">Pikaboo HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1119##/2023/02/08/11/26/28/light_480x270.png" xmltv_id="Da Vinci HD (SR)">Da Vinci HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="99##/2023/03/30/13/52/24/light_480x270.png" xmltv_id="History HD (SR)">History HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="731##/2022/04/18/15/47/01/light_480x270.png" xmltv_id="Viasat History HD (SR)">Viasat History HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="107##/2020/05/28/12/46/47/natgeohd_logo_16_9_light_384x216_3793b7e6_902d_4879_a6e7_9d9369d65346.png" xmltv_id="National Geographic HD (SR)">National Geographic HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="111##/2022/11/16/11/56/11/xl_light_480x270.png" xmltv_id="Nat Geo Wild HD (SR)">Nat Geo Wild HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="112##/2023/09/18/09/58/37/light_288x162.png" xmltv_id="BBC Earth HD (SR)">BBC Earth HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="17##/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" xmltv_id="Animal Planet HD (SR)">Animal Planet HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="776##/2020/05/28/12/32/32/discoveryhd_logo_16_9_light_384x216_ec5d8e4c_3937_41bb_809a_7127272859af.png" xmltv_id="Discovery Channel HD (SR)">Discovery Channel HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="732##/2022/01/19/11/15/31/xl_light_480x270.png" xmltv_id="Viasat Nature HD (SR)">Viasat Nature HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="730##/2022/01/19/11/11/29/xl_light_480x270.png" xmltv_id="Viasat Explore HD (SR)">Viasat Explore HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1898##/2025/03/31/12/57/58/xl_light_480x270.png" xmltv_id="Balkan Trip (RS)">Balkan Trip (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="667##/2020/06/01/12/47/32/xl_light_480x270.png" xmltv_id="Brainz HD (SR)">Brainz HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="101##/2020/05/28/12/43/37/loviribolov_logo_16_9_light_384x216_0be73ccb_add0_46fd_b424_6103a5055a71.png" xmltv_id="Lov i Ribolov (SR)">Lov i Ribolov (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1924##/2025/03/31/13/12/41/xl_light_480x270.png" xmltv_id="RTS Nauka (RS)">RTS Nauka (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1925##/2025/03/31/13/13/10/xl_light_480x270.png" xmltv_id="RTS Poletarac (RS)">RTS Poletarac (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1926##/2025/03/31/13/13/42/xl_light_480x270.png" xmltv_id="RTS Trezor (RS)">RTS Trezor (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1927##/2025/03/31/13/14/09/xl_light_480x270.png" xmltv_id="RTS Život (RS)">RTS Život (RS)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="115##/2023/06/01/11/20/11/light_480x270.png" xmltv_id="History 2 HD">History 2 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="116##/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="118##/2022/09/05/10/10/35/light_300x168.png" xmltv_id="24Kitchen HD (INT)">24Kitchen HD (INT)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="940##/2021/03/30/15/50/09/xl_light_480x270.png" xmltv_id="TLC HD (RS)">TLC HD (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="120##/2020/05/28/12/33/52/e_logo_16_9_light_160x90_ce3c5c00_c592_4cf5_b757_3da6e891ef94.png" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="121##/2021/07/01/09/31/16/xl_light_480x270.png" xmltv_id="FTV TV HD">FTV TV HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="285##/2020/05/28/13/07/14/travel_logo_16_9_light_160x90_930526fe_c92c_416f_aad6_92743ba89692.png" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="774##/2020/05/28/12/40/07/hgtv_logo_16_9_light_160x90_87604951_165b_455c_bf31_fb0f22642886.png" xmltv_id="Home and Garden TV">Home and Garden TV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="123##/2023/06/30/16/14/18/light_480x270.png" xmltv_id="Woman HD">Woman HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="124##/2023/06/30/16/16/39/light_480x270.png" xmltv_id="Dr.Fit HD">Dr.Fit HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="116##/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png" xmltv_id="Crime &amp; Investigation (SR)">Crime &amp; Investigation (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="117##/2020/10/02/14/54/21/xl_light_480x270.png" xmltv_id="ID Xtra HD">ID Xtra HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1933##/2025/03/31/15/19/42/xl_untitled.png" xmltv_id="Viasat True Crime HD (RS)">Viasat True Crime HD (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1908##/2025/03/31/13/03/11/xl_light_480x270.png" xmltv_id="DOX TV (RS)">DOX TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="695##/2020/05/28/12/53/12/pinkpedia_logo_16_9_light_384x216_2d3ab4b2_3d60_49d6_a4f7_0cbe5baf52c2.png" xmltv_id="Pink Pedia">Pink Pedia</channel>
     <channel update="i" site="epg.sbb.rs" site_id="125##/2020/05/28/13/07/19/travelhd_logo_16_9_light_160x90_980599ee_821f_4941_a59f_d57f6ffcdfec.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="127##/2020/05/28/13/07/04/tracesporthd_logo_16_9_light_160x90_d79e4dc5_5d36_4a2a_9a71_79e64f9c7cbd.png" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1323##/2022/10/20/14/33/21/light_480x270.png" xmltv_id="Grand Nostalgija">Grand Nostalgija</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="129##/2020/05/28/12/37/55/grand2_logo_16_9_light_160x90_29d88bd2_1da3_4b0a_ae91_6d435742f492.png" xmltv_id="Grand narodna televizija 2">Grand narodna televizija 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="324##/2020/05/28/12/42/56/kcnmusic2_logo_16_9_light_384x216_b4eac4aa_ce5b_449c_a6ec_ec2a851d62eb.png" xmltv_id="K::CN Music 2">K::CN Music 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="444##/2020/05/28/12/43/03/kcnsvet3_logo_16_9_light_160x90_73338ad3_99db_40bf_95d3_d8e8cd1d3fd1.png" xmltv_id="K::CN Svet +3 (W2)">K::CN Svet +3 (W2)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="130##/2020/05/28/12/52/55/pinkmusic_logo_16_9_light_480x270_a7b164a5_a626_49c9_86f1_832af67f9885.png" xmltv_id="Pink Music">Pink Music</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1028##/2021/05/26/14/50/19/xl_cmc_l.png" xmltv_id="CMC HD">CMC HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="133##/2020/05/28/12/45/07/mtv_logo_16_9_light_160x90_91007228_7fe3_4c6d_9ded_8114eab6cf2b.png" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="134##/2021/08/02/11/37/40/xl_light_480x270.png" xmltv_id="MTV 00s (VH1 Europe)">MTV 00s (VH1 Europe)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="135##/2022/12/08/05/16/52/light_160x90.png" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1067##/2021/05/28/14/18/56/xl_light_480x270.png" xmltv_id="Nick Music (RS)">Nick Music (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="136##/2022/11/16/11/50/58/xl_light_480x270.png" xmltv_id="MTV 90s (MTV Rocks)">MTV 90s (MTV Rocks)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="137##/2021/09/20/12/13/14/xl_light_480x270.png" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="138##/2021/09/20/12/12/44/xl_light_480x270.png" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="139##/2020/10/05/09/24/05/xl_light_480x270.png" xmltv_id="MTV 80s (VH1 Classic)">MTV 80s (VH1 Classic)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="981##/2023/03/21/14/06/06/light_288x162.png" xmltv_id="Mezzo Live">Mezzo Live</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="141##/2022/04/18/15/33/07/light_288x162.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="142##/2020/05/28/12/41/08/iconcertshd_logo_16_9_light_160x90_262cc904_199c_47e0_8a18_189c67c70d44.png" xmltv_id="iConcerts HD">iConcerts HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="143##/2020/05/28/12/32/01/cnn_logo_16_9_light_288x162_8ccabe02_4380_4493_be26_900a301c51f3.png" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="144##/2023/04/03/10/04/47/light_480x270.png" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="145##/2020/08/25/01/19/15/xl_light_480x270.png" xmltv_id="Russia Today HD">Russia Today HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="146##/2023/02/10/14/39/50/light_300x168.png" xmltv_id="Euronews HD">Euronews HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="147##/2020/05/28/12/28/34/bloomberg_logo_16_9_light_300x168_e2d67c18_61fd_4014_a843_d463b17da4df.png" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="657##/2020/06/15/15/27/17/xl_aljazeera_480x270.png" xmltv_id="Al Jazeera Balkans HD">Al Jazeera Balkans HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="314##/2020/05/28/12/30/08/cgtn_logo_16_9_light_480x270_249ed7d7_3f4f_496d_a11a_78eea499c178.png" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="149##/2020/05/28/12/30/03/cctv4_logo_16_9_light_480x270_e7199173_2c9d_4110_8961_d33f48434dd2.png" xmltv_id="CCTV 4">CCTV 4</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="150##/2020/05/28/12/56/27/raiuno_logo_16_9_light_160x90_42199795_4085_471a_be4f_d3812fae9dce.png" xmltv_id="Rai Uno">Rai Uno</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1083##/2021/06/30/10/57/53/xl_index_l.png" xmltv_id="Mediaset Italia (RS)">Mediaset Italia (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1476##/2023/05/23/15/48/18/xl_light_480x270.png" xmltv_id="Dom Kino SD">Dom Kino SD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1132##/2022/11/02/08/26/45/light_300x168.png" xmltv_id="FREEДOM">FREEДOM</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1133##/2023/01/18/15/53/13/light_480x270.png" xmltv_id="1+1 International">1+1 International</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="153##/2021/12/08/12/31/45/xl_light_480x270.png" xmltv_id="RTL (DE)">RTL (DE)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="154##/2020/05/28/12/32/21/deutschewelle_logo_16_9_light_384x216_96c27a86_b83b_431e_a6c4_74e2a46ec511.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="155##/2023/03/06/14/52/24/light_480x270.png" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="316##/2020/05/28/12/37/11/france24_logo_16_9_light_300x168_a1cf8974_60b2_427b_9041_cde831ac0507.png" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="156##/2022/11/24/16/44/25/light_480x270.png" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="157##/2021/03/09/01/08/55/xl_light.png" xmltv_id="Duna World HD (RS)">Duna World HD (RS)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="203##/2020/05/28/12/43/42/m1_logo_16_9_light_300x168_e3f2ff85_f5a9_4492_b8ce_3156ecc9c389.png" xmltv_id="M1">M1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="204##/2020/05/28/12/43/47/m2_logo_16_9_light_160x90_a79cdc45_f96b_488f_9b9f_cfbf332f2047.png" xmltv_id="M2">M2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="205##/2020/05/28/12/43/51/m5_logo_16_9_light_384x216_b4025542_7c0e_4ba9_9811_c2a7b90b94c1.png" xmltv_id="M5">M5</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="982##/2021/06/25/12/41/58/xl_light_480x270.png" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="674##/2023/03/06/15/08/57/light_480x270.png" xmltv_id="Romania International">Romania International</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="158##/2023/03/30/15/23/08/light_480x270.png" xmltv_id="TV Most">TV Most</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="159##/2020/05/28/12/48/26/novosadskatv_logo_16_9_light_480x270_eb4cebad_573a_4dfe_b7e7_c72d2e28d9f1.png" xmltv_id="Novosadska TV">Novosadska TV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="160##/2021/06/25/12/41/13/xl_light_480x270.png" xmltv_id="Kanal 9">Kanal 9</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="161##/2020/05/28/12/59/16/rtvdelta_logo_16_9_light_480x270_306f9f63_4b91_4ee1_af39_a45d47050fdf.png" xmltv_id="RTV Delta">RTV Delta</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="118##/2022/09/05/10/10/35/light_300x168.png" xmltv_id="24Kitchen HD (SR)">24Kitchen HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1738##/2024/12/17/08/51/59/xl_light_480x270.png" xmltv_id="Kitchen TV (SR)">Kitchen TV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="698##/2020/05/28/12/52/40/pinkkuvar_logo_16_9_light_160x90_862a09c0_a1f4_455f_8a3b_30dabaed0d04.png" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="940##/2021/03/30/15/50/09/xl_light_480x270.png" xmltv_id="TLC HD (SR)">TLC HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="120##/2020/05/28/12/33/52/e_logo_16_9_light_160x90_ce3c5c00_c592_4cf5_b757_3da6e891ef94.png" xmltv_id="E! Entertainment (SR)">E! Entertainment (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="127##/2020/05/28/13/07/04/tracesporthd_logo_16_9_light_160x90_d79e4dc5_5d36_4a2a_9a71_79e64f9c7cbd.png" xmltv_id="Trace Sport Stars HD (SR)">Trace Sport Stars HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="774##/2020/05/28/12/40/07/hgtv_logo_16_9_light_160x90_87604951_165b_455c_bf31_fb0f22642886.png" xmltv_id="Home and Garden TV">Home and Garden TV</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="29##/2020/05/28/12/57/44/rtlcroworld_logo_16_9_light_288x162_ef0fe51a_cfa6_4b74_93f6_3e70a02ff304.png" xmltv_id="RTL Croatia World">RTL Croatia World</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="121##/2021/07/01/09/31/16/xl_light_480x270.png" xmltv_id="FTV TV HD (SR)">FTV TV HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="692##/2020/05/28/12/54/10/pinkstyle_logo_16_9_light_300x168_9f6c0b34_1d6a_4424_88f5_7bffb9d8fd98.png" xmltv_id="Pink Style">Pink Style</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="703##/2020/05/28/12/51/41/pinkfashion_logo_16_9_light_384x216_539b19b7_2566_453f_8a41_76c4cf846ea3.png" xmltv_id="Pink Fashion (SR)">Pink Fashion (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1586##/2024/02/26/10/58/24/xl_light_480x270.png" xmltv_id="Yachting TV (SR)">Yachting TV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1331##/2024/07/29/09/44/33/xl_light_480x270.png" xmltv_id="Narodna TV (SR)">Narodna TV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="16##/2022/11/16/14/38/21/light_480x270.png" xmltv_id="RED TV (Pink 2 HD)">RED TV (Pink 2 HD)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="364##/2020/05/28/12/53/32/pinkreality_logo_16_9_light_288x162_2fe77073_67f6_4876_af64_b58df52e43bd.png" xmltv_id="Pink Reality (SR)">Pink Reality (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="178##/2020/05/28/12/53/17/pinkplus_logo_16_9_light_300x168_034a4177_f865_44af_87f9_3ce0a386e72e.png" xmltv_id="Pink Plus (SR)">Pink Plus (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="363##/2020/05/28/12/54/33/pinkworld_logo_16_9_light_288x162_e7c27395_60d6_4b9d_8577_e08eb52e3c06.png" xmltv_id="Pink World (SR)">Pink World (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="733##/2024/09/09/13/26/24/xl_light_480x270.png" xmltv_id="Zadruga Live 1 (SR)">Zadruga Live 1 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="734##/2024/09/09/13/29/28/xl_light_480x270.png" xmltv_id="Zadruga Live 2 (SR)">Zadruga Live 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="735##/2024/09/09/13/30/12/xl_light_480x270.png" xmltv_id="Zadruga Live 3 (SR)">Zadruga Live 3 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="736##/2024/09/09/13/31/06/xl_light_480x270.png" xmltv_id="Zadruga Live 4 (SR)">Zadruga Live 4 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="706##/2020/05/28/12/38/05/haha_logo_16_9_light_480x270_60099ad8_0928_44f2_87e1_139e24f7b834.png" xmltv_id="Ha ha">Ha ha</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="705##/2020/05/28/12/43/30/lol_logo_16_9_light_384x216_366cbb06_6dd4_4243_80b4_3a06e3cf406c.png" xmltv_id="Lol">Lol</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="362##/2020/05/28/12/54/44/pinkzabava_logo_16_9_light_160x90_6137ed3a_e95d_4125_8447_26b25efe8a4f.png" xmltv_id="Pink Zabava (SR)">Pink Zabava (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="162##/2020/05/28/12/43/20/ktvzrenjanin_logo_16_9_light_300x168_5d09d268_32d3_4e3a_a0f8_3e6590fef807.png" xmltv_id="KTV Zrenjanin">KTV Zrenjanin</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="163##/2020/05/28/13/06/35/k23_logo_16_9_light_288x162_badeb37c_5cc5_4538_b424_91f67b110f9c.png" xmltv_id="Televizija K23">Televizija K23</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="164##/2023/01/17/11/44/47/light_480x270.png" xmltv_id="Pannon RTV">Pannon RTV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="676##/2021/06/25/12/54/33/xl_light_480x270.png" xmltv_id="TV Subotica SD">TV Subotica SD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="161##/2024/07/31/11/21/44/xl_light_480x270.png" xmltv_id="Sremska TV">Sremska TV</channel>
     <channel update="i" site="epg.sbb.rs" site_id="673##/2021/06/25/12/53/51/xl_light_480x270.png" xmltv_id="TV Santos">TV Santos</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="983##/2021/04/08/11/17/14/xl_light_480x270.png" xmltv_id="TV Sombor (TV Sreca)">TV Sombor (TV Sreca)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="164##/2023/01/17/11/44/47/light_480x270.png" xmltv_id="Pannon RTV">Pannon RTV</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="163##/2020/05/28/13/06/35/k23_logo_16_9_light_288x162_badeb37c_5cc5_4538_b424_91f67b110f9c.png" xmltv_id="Televizija K23">Televizija K23</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="159##/2020/05/28/12/48/26/novosadskatv_logo_16_9_light_480x270_eb4cebad_573a_4dfe_b7e7_c72d2e28d9f1.png" xmltv_id="Novosadska TV">Novosadska TV</channel>
     <channel update="i" site="epg.sbb.rs" site_id="722##/2020/05/28/12/59/44/rtvpancevo_logo_16_9_light_300x168_0c7ef58b_867a_4ef4_a4b3_dd06ee08a162.png" xmltv_id="RTV Pančevo">RTV Pančevo</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="169##/2020/05/28/13/00/47/sattv_logo_16_9_light_480x270_fe2fefb5_63d7_4905_869c_b7d7e3b096d2.png" xmltv_id="Sat TV">Sat TV</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="171##/2020/05/28/13/07/54/tvbelleamie_logo_16_9_light_300x168_6a5a65c8_348d_4e74_abac_2373b24ac3d3.png" xmltv_id="TV Belle Amie">TV Belle Amie</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="25##/2020/05/28/12/49/40/palmaplus_logo_16_9_light_384x216_87ff65e1_129c_4028_822b_76aa52c1f073.png" xmltv_id="Palma plus (SR)">Palma plus (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="721##/2020/05/28/13/10/57/tvzonaplus_logo_16_9_light_160x90_10f681a1_b591_4e9f_8e13_c97456ced0b0.png" xmltv_id="TV Zona Plus">TV Zona Plus</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1900##/2025/03/31/12/59/34/xl_light_480x270.png" xmltv_id="Agro TV Serbia (RS)">Agro TV Serbia (RS)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="168##/2022/01/26/16/31/10/xl_light_480x270.png" xmltv_id="Televizija V5">Televizija V5</channel>
     <channel update="i" site="epg.sbb.rs" site_id="984##/2021/04/06/15/11/01/xl_light_480x270.png" xmltv_id="VA Plus (TV Valjevo Plus)">VA Plus (TV Valjevo Plus)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="169##/2020/05/28/13/00/47/sattv_logo_16_9_light_480x270_fe2fefb5_63d7_4905_869c_b7d7e3b096d2.png" xmltv_id="Sat TV">Sat TV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="939##/2023/01/17/11/45/42/light_480x270.png" xmltv_id="TV Šabac">TV Šabac</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="20##/2020/05/28/13/05/19/studiob_logo_16_9_light_384x216_ce9854e1_02b8_4499_98c2_0c5885e46f74.png" xmltv_id="Studio B">Studio B</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="939##/2023/12/28/09/38/35/light_480x270.png" xmltv_id="TV  AS">TV  AS</channel>
     <channel update="i" site="epg.sbb.rs" site_id="718##/2020/05/28/13/08/52/tvkragujevac_logo_16_9_light_160x90_e0431b79_348f_469c_8ce0_032989639828.png" xmltv_id="TV Kragujevac">TV Kragujevac</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1099##/2021/10/04/11/22/41/xl_light_480x270.png" xmltv_id="TV Kruševac">TV Kruševac</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1100##/2023/01/17/11/42/39/light_480x270.png" xmltv_id="TV Jefimija">TV Jefimija</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1101##/2021/10/04/11/30/26/xl_light_480x270.png" xmltv_id="Televizija Plus">Televizija Plus</channel>
     <channel update="i" site="epg.sbb.rs" site_id="719##/2021/06/25/12/52/10/xl_light_480x270.png" xmltv_id="TV 5 Užice">TV 5 Užice</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="171##/2020/05/28/13/07/54/tvbelleamie_logo_16_9_light_300x168_6a5a65c8_348d_4e74_abac_2373b24ac3d3.png" xmltv_id="TV Belle Amie">TV Belle Amie</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="938##/2021/02/23/11/39/40/xl_light_480x270.png" xmltv_id="Niška televizija">Niška televizija</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="721##/2020/05/28/13/10/57/tvzonaplus_logo_16_9_light_160x90_10f681a1_b591_4e9f_8e13_c97456ced0b0.png" xmltv_id="TV Zona Plus">TV Zona Plus</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1339##/2023/01/17/11/41/21/light_480x270.png" xmltv_id="Moja TV">Moja TV</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="158##/2023/03/30/15/23/08/light_480x270.png" xmltv_id="TV Most">TV Most</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="160##/2021/06/25/12/41/13/xl_light_480x270.png" xmltv_id="Kanal 9">Kanal 9</channel>
     <channel update="i" site="epg.sbb.rs" site_id="878##/2020/08/28/10/12/54/xl_light_480x270.png" xmltv_id="TV Melos (RS)">TV Melos (RS)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1153##/2022/06/09/16/53/53/light_300x168.png" xmltv_id="TV Trstenik">TV Trstenik</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="725##/2021/06/25/12/52/44/xl_light_480x270.png" xmltv_id="TV Leskovac">TV Leskovac</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1637##/2024/05/30/15/09/54/xl_light_480x270.png" xmltv_id="TV Vrnjacka Banja (RS)">TV Vrnjacka Banja (RS)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="720##/2020/05/28/13/08/40/tvk1_logo_16_9_light_480x270_e753857c_ed1a_450a_9962_588c86dd7cfc.png" xmltv_id="TV K-1">TV K-1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="170##/2021/06/25/12/47/30/xl_light_480x270.png" xmltv_id="Regionalna TV">Regionalna TV</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="725##/2021/06/25/12/52/44/xl_light_480x270.png" xmltv_id="TV Leskovac">TV Leskovac</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="170##/2021/06/25/12/47/30/xl_light_480x270.png" xmltv_id="RTV Novi Pazar">RTV Novi Pazar</channel>
     <channel update="i" site="epg.sbb.rs" site_id="1152##/2022/06/27/15/36/47/xl_light_480x270.png" xmltv_id="Sandzak TV">Sandzak TV</channel>
     <channel update="i" site="epg.sbb.rs" site_id="172##/2020/05/28/13/05/00/soskanalplus_logo_16_9_light_288x162_d7506d46_e46b_4947_a833_6e47e0f745b0.png" xmltv_id="SOS Kanal Plus">SOS Kanal Plus</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="173##/2020/05/28/12/52/50/pinkmovies_logo_16_9_light_480x270_b7f150dd_4414_48f7_b898_25f0735ba0ea.png" xmltv_id="Pink Movies">Pink Movies</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="174##/2020/05/28/12/51/48/pinkfilm_logo_16_9_light_288x162_91dd6e6a_9635_4c87_9f72_d4653ed5eb21.png" xmltv_id="Pink Film">Pink Film</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="582##/2020/05/28/12/52/23/pinkhorror_logo_16_9_light_300x168_f62505c6_e705_45f2_a174_e25c55847c9d.png" xmltv_id="Pink Horror">Pink Horror</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="810##/2020/05/28/12/53/27/pinkpremium_logo_16_9_light_480x270_048de39d_57dd_4e93_9a81_685083f61198.png" xmltv_id="Pink Premium HD">Pink Premium HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="567##/2020/05/28/12/54/22/pinkthriller_logo_16_9_light_384x216_cddd4f2e_9fe8_4c15_8e3e_6018028873b8.png" xmltv_id="Pink Thriller">Pink Thriller</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="568##/2021/12/06/09/15/18/xl_light_480x270.png" xmltv_id="Pink Comedy">Pink Comedy</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="566##/2020/05/28/12/53/38/pinkromance_logo_16_9_light_300x168_f181acad_a5bc_47f3_9448_57bf2d2e8d62.png" xmltv_id="Pink Romance">Pink Romance</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="694##/2020/05/28/12/53/50/pinkserije_logo_16_9_light_480x270_76a0b4c5_5bf2_46f7_abd9_e39b09e3b271.png" xmltv_id="Pink Serije">Pink Serije</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="583##/2021/12/07/10/46/48/xl_light_480x270.png" xmltv_id="Pink Soap">Pink Soap</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="584##/2020/05/28/12/53/45/pinkscifi_logo_16_9_light_300x168_5d647e24_beb2_4133_a968_b72710ca7e6e.png" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="659##/2020/05/28/12/51/11/pinkcrimem_logo_16_9_light_288x162_2f86278b_3c62_4105_be51_9287f7978360.png" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="690##/2020/05/28/12/54/38/pinkwcinema_logo_16_9_light_480x270_e8346766_5faa_47ea_afd9_c69777996372.png" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="704##/2020/05/28/12/50/57/pinkclassic_logo_16_9_light_384x216_caee1c6f_c7e6_49db_a8be_1b129e9bf0bc.png" xmltv_id="Pink Classic">Pink Classic</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="364##/2020/05/28/12/53/32/pinkreality_logo_16_9_light_288x162_2fe77073_67f6_4876_af64_b58df52e43bd.png" xmltv_id="Pink Reality">Pink Reality</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="176##/2020/05/28/12/51/29/pinkextra_logo_16_9_light_300x168_c99f14e8_82f0_44a6_8176_c4cfadbd4414.png" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="178##/2020/05/28/12/53/17/pinkplus_logo_16_9_light_300x168_034a4177_f865_44af_87f9_3ce0a386e72e.png" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="362##/2020/05/28/12/54/44/pinkzabava_logo_16_9_light_160x90_6137ed3a_e95d_4125_8447_26b25efe8a4f.png" xmltv_id="Pink Zabava">Pink Zabava</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="363##/2020/05/28/12/54/33/pinkworld_logo_16_9_light_288x162_e7c27395_60d6_4b9d_8577_e08eb52e3c06.png" xmltv_id="Pink World">Pink World</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="693##/2021/12/06/09/25/54/xl_light_480x270.png" xmltv_id="Pink Show">Pink Show</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="692##/2020/05/28/12/54/10/pinkstyle_logo_16_9_light_300x168_9f6c0b34_1d6a_4424_88f5_7bffb9d8fd98.png" xmltv_id="Pink Style">Pink Style</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="703##/2020/05/28/12/51/41/pinkfashion_logo_16_9_light_384x216_539b19b7_2566_453f_8a41_76c4cf846ea3.png" xmltv_id="Pink Fashion">Pink Fashion</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="698##/2020/05/28/12/52/40/pinkkuvar_logo_16_9_light_160x90_862a09c0_a1f4_455f_8a3b_30dabaed0d04.png" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="706##/2020/05/28/12/38/05/haha_logo_16_9_light_480x270_60099ad8_0928_44f2_87e1_139e24f7b834.png" xmltv_id="Ha ha">Ha ha</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="705##/2020/05/28/12/43/30/lol_logo_16_9_light_384x216_366cbb06_6dd4_4243_80b4_3a06e3cf406c.png" xmltv_id="Lol">Lol</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="365##/2023/03/31/16/05/25/light_480x270.png" xmltv_id="Bravo Music">Bravo Music</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="24##/2020/05/28/12/42/52/kcn1_logo_16_9_light_480x270_20537750_5bde_4952_a400_52b432c6f745.png" xmltv_id="K::CN 1">K::CN 1</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="444##/2020/05/28/12/43/03/kcnsvet3_logo_16_9_light_160x90_73338ad3_99db_40bf_95d3_d8e8cd1d3fd1.png" xmltv_id="K::CN Svet +3 (W2)">K::CN Svet +3 (W2)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1920##/2025/03/31/13/10/38/xl_light_480x270.png" xmltv_id="OBN (RS)">OBN (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1906##/2025/03/31/13/02/00/xl_light_480x270.png" xmltv_id="BN TV (RS)">BN TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1904##/2025/03/31/13/01/03/xl_light_480x270.png" xmltv_id="BN 2 (RS)">BN 2 (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="743##/2020/05/28/12/40/22/hrt1hd_logo_16_9_light_300x168_14bc03da_146f_4c9e_8b26_fdb803bdffb8.png" xmltv_id="HRT 1 HD (SR)">HRT 1 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="744##/2020/05/28/12/40/32/hrt2hd_logo_16_9_light_384x216_547598f4_7d51_477f_9696_9797fe08f19b.png" xmltv_id="HRT 2 HD (SR)">HRT 2 HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="448##/2020/05/28/12/46/02/n1hd_logo_16_9_light_300x168_39ffaf86_a28a_481b_a18f_cedc2f5e1ef6.png" xmltv_id="N1 HD (HR)/(SR)">N1 HD (HR)/(SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="640##/2023/01/04/09/58/40/light_384x216.png" xmltv_id="Nova BH HD (SR)">Nova BH HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="199##/2020/05/28/12/45/57/n1hd_logo_16_9_light_300x168_5eff2034_6882_492d_b72f_4a8a75753856.png" xmltv_id="N1 HD (BH)/(SR)">N1 HD (BH)/(SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="35##/2020/05/28/12/48/44/okanal_logo_16_9_light_384x216_aecfcc13_978b_4b0d_a946_d1ae17de7a44.png" xmltv_id="O Kanal (SR)">O Kanal (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="639##/2023/01/04/09/36/15/light_288x162.png" xmltv_id="Nova M HD (SR)">Nova M HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="453##/2020/05/28/13/10/37/tvvijesti_logo_16_9_light_160x90_fbf46171_98b5_4e65_933b_4e069b6d49b1.png" xmltv_id="TV Vijesti HD (SR)">TV Vijesti HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1158##/2022/07/19/09/20/37/light_384x216.png" xmltv_id="TV e (CG)/(SR)">TV e (CG)/(SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="37##/2024/04/23/15/15/53/xl_light_480x270.png" xmltv_id="TVMNE (RTCG Sat (SR))">TVMNE (RTCG Sat (SR))</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1114##/2021/12/14/15/32/24/xl_light_480x270.png" xmltv_id="Nova Television HD (BG)">Nova Television HD (BG)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="143##/2020/05/28/12/32/01/cnn_logo_16_9_light_288x162_8ccabe02_4380_4493_be26_900a301c51f3.png" xmltv_id="CNN (SR)">CNN (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="144##/2023/04/03/10/04/47/light_480x270.png" xmltv_id="BBC News (SR)">BBC News (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1674##/2024/07/31/16/48/41/xl_sky_light.png" xmltv_id="Sky News (SR)">Sky News (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="146##/2023/02/10/14/39/50/light_300x168.png" xmltv_id="Euronews HD (SR)">Euronews HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="147##/2020/05/28/12/28/34/bloomberg_logo_16_9_light_300x168_e2d67c18_61fd_4014_a843_d463b17da4df.png" xmltv_id="Bloomberg (SR)">Bloomberg (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1651##/2024/06/25/13/41/27/xl_downloadlight_ict.png" xmltv_id="ICT Business (SR)">ICT Business (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="314##/2020/05/28/12/30/08/cgtn_logo_16_9_light_480x270_249ed7d7_3f4f_496d_a11a_78eea499c178.png" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="149##/2020/05/28/12/30/03/cctv4_logo_16_9_light_480x270_e7199173_2c9d_4110_8961_d33f48434dd2.png" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="150##/2020/05/28/12/56/27/raiuno_logo_16_9_light_160x90_42199795_4085_471a_be4f_d3812fae9dce.png" xmltv_id="Rai Uno (SR)">Rai Uno (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1083##/2021/06/30/10/57/53/xl_index_l.png" xmltv_id="Mediaset Italia (SR)">Mediaset Italia (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1516##/2023/11/07/13/46/52/light_480x270.png" xmltv_id="Current Time (srb)">Current Time (srb)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1132##/2022/11/02/08/26/45/light_300x168.png" xmltv_id="FREEДOM (SR)">FREEДOM (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1133##/2023/01/18/15/53/13/light_480x270.png" xmltv_id="1+1 International (SR)">1+1 International (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="153##/2021/12/08/12/31/45/xl_light_480x270.png" xmltv_id="RTL (DE) /(SR)">RTL (DE) /(SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="154##/2020/05/28/12/32/21/deutschewelle_logo_16_9_light_384x216_96c27a86_b83b_431e_a6c4_74e2a46ec511.png" xmltv_id="Deutsche Welle (SR)">Deutsche Welle (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="155##/2023/03/06/14/52/24/light_480x270.png" xmltv_id="TVE (SR)">TVE (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="316##/2024/05/27/11/49/05/xl_light_480x270.png" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="156##/2022/11/24/16/44/25/light_480x270.png" xmltv_id="TV5 Monde (SR)">TV5 Monde (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="157##/2021/03/09/01/08/55/xl_light.png" xmltv_id="Duna World HD (SR)">Duna World HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="203##/2020/05/28/12/43/42/m1_logo_16_9_light_300x168_e3f2ff85_f5a9_4492_b8ce_3156ecc9c389.png" xmltv_id="M1 (SR)">M1 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="204##/2020/05/28/12/43/47/m2_logo_16_9_light_160x90_a79cdc45_f96b_488f_9b9f_cfbf332f2047.png" xmltv_id="M2 (SR)">M2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="205##/2020/05/28/12/43/51/m5_logo_16_9_light_384x216_b4025542_7c0e_4ba9_9811_c2a7b90b94c1.png" xmltv_id="M5 (SR)">M5 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="982##/2021/06/25/12/41/58/xl_light_480x270.png" xmltv_id="M4 Sport HD (SR)">M4 Sport HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="674##/2023/03/06/15/08/57/light_480x270.png" xmltv_id="Romania International">Romania International</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="181##/2020/05/28/12/33/48/dusk_logo_16_9_light_384x216_09f2ef78_8dc9_4f47_b1be_9697d9400ee5.png" xmltv_id="Dusk! (SR)">Dusk! (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="179##/2024/02/01/09/48/46/xl_light_480x270.png" xmltv_id="Private TV (SR)">Private TV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1652##/2024/06/26/11/00/00/xl_light_480x270.png" xmltv_id="Brazzers TV Europe (SR)">Brazzers TV Europe (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="184##/2022/11/16/11/49/02/xl_light_480x270.png" xmltv_id="Hustler HD (SR)">Hustler HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="182##/2020/05/28/12/40/52/hustler_logo_16_9_light_160x90_6eb1aeff_b2dd_4890_8a06_1e1f6ab2b694.png" xmltv_id="Hustler (SR)">Hustler (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1655##/2024/06/26/11/11/04/xl_light_480x270.png" xmltv_id="RedLight (SR)">RedLight (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1654##/2024/06/26/11/06/51/xl_light_480x270.png" xmltv_id="Blue Hustler (SR)">Blue Hustler (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1653##/2024/06/26/10/58/30/xl_light_480x270.png" xmltv_id="Reality Kings HD (SR)">Reality Kings HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="133##/2020/05/28/12/45/07/mtv_logo_16_9_light_160x90_91007228_7fe3_4c6d_9ded_8114eab6cf2b.png" xmltv_id="MTV (SR)">MTV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="134##/2021/08/02/11/37/40/xl_light_480x270.png" xmltv_id="MTV 00s (VH1 Europe) (SR)">MTV 00s (VH1 Europe) (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="136##/2022/11/16/11/50/58/xl_light_480x270.png" xmltv_id="MTV 90s (MTV Rocks) (SR)">MTV 90s (MTV Rocks) (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="10##/2020/05/28/12/41/30/idjtvhd_logo_16_9_light_288x162_62943ec9_70b7_429c_967d_ea14e5e622bd.png" xmltv_id="IDJTV HD">IDJTV HD</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="135##/2022/12/08/05/16/52/light_160x90.png" xmltv_id="Trace Urban HD (SR)">Trace Urban HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1067##/2021/05/28/14/18/56/xl_light_480x270.png" xmltv_id="Nick Music (RS)">Nick Music (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="137##/2021/09/20/12/13/14/xl_light_480x270.png" xmltv_id="MTV Hits (SR)">MTV Hits (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="138##/2021/09/20/12/12/44/xl_light_480x270.png" xmltv_id="Club MTV (SR)">Club MTV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="139##/2020/10/05/09/24/05/xl_light_480x270.png" xmltv_id="MTV 80s (VH1 Classic) (SR)">MTV 80s (VH1 Classic) (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1736##/2024/12/17/08/53/22/xl_light_480x270.png" xmltv_id="Marquee TV (SR)">Marquee TV (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1923##/2025/03/31/13/12/10/xl_light_480x270.png" xmltv_id="RTS Muzika (RS)">RTS Muzika (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="141##/2022/04/18/15/33/07/light_288x162.png" xmltv_id="MTV Live HD (SR)">MTV Live HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="142##/2020/05/28/12/41/08/iconcertshd_logo_16_9_light_160x90_262cc904_199c_47e0_8a18_189c67c70d44.png" xmltv_id="iConcerts HD (SR)">iConcerts HD (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1931##/2025/03/31/13/16/07/xl_light_480x270.png" xmltv_id="Toxic TV (RS)">Toxic TV (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="696##/2020/05/28/12/53/05/pinknroll_logo_16_9_light_300x168_2712d98a_c6e3_45f0_83fe_693774607df9.png" xmltv_id="Pink n roll (SR)">Pink n roll (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1922##/2025/03/31/13/11/42/xl_light_480x270.png" xmltv_id="RTS Kolo (RS)">RTS Kolo (RS)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="9##/2020/05/28/12/37/49/grand_logo_16_9_light_384x216_c01ccb45_7c76_4d7e_bee7_150831f3ec7f.png" xmltv_id="Grand (SR)">Grand (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="129##/2020/05/28/12/37/55/grand2_logo_16_9_light_160x90_29d88bd2_1da3_4b0a_ae91_6d435742f492.png" xmltv_id="Grand narodna televizija 2 (SR)">Grand narodna televizija 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1323##/2022/10/20/14/33/21/light_480x270.png" xmltv_id="Grand Nostalgija (SR)">Grand Nostalgija (SR)</channel>
     <channel update="i" site="epg.sbb.rs" site_id="361##/2020/05/28/12/51/55/pinkfolk_logo_16_9_light_288x162_b43b6f5a_a60c_48ee_a76e_8a27438d8444.png" xmltv_id="Pink Folk">Pink Folk</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="702##/2020/05/28/12/52/01/pinkfolk2_logo_16_9_light_480x270_97ec8929_3573_4d2f_bfd4_033216fbada5.png" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="697##/2020/05/28/12/53/00/pinkmusic2_logo_16_9_light_288x162_7aacd57a_4986_48be_9025_3c52efb6d10d.png" xmltv_id="Pink Music 2">Pink Music 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="701##/2020/05/28/12/52/13/pinkhits_logo_16_9_light_300x168_4eb134dc_095a_41a2_92f0_cda9acde599e.png" xmltv_id="Pink Hits">Pink Hits</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="700##/2020/05/28/12/52/18/pinkhits2_logo_16_9_light_480x270_7efc2dd8_b01b_4463_af45_2ff702ecca6c.png" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="696##/2020/05/28/12/53/05/pinknroll_logo_16_9_light_300x168_2712d98a_c6e3_45f0_83fe_693774607df9.png" xmltv_id="Pink n roll">Pink n roll</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="699##/2022/01/10/13/52/56/xl_light_480x270.png" xmltv_id="Pink Koncert">Pink Koncert</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="707##/2020/05/28/12/31/38/cityplay_logo_16_9_light_300x168_abb20df1_629d_49b2_8a2a_e7711e3f4aaf.png" xmltv_id="City Play">City Play</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="691##/2020/05/28/12/54/17/pinksuperkids_logo_16_9_light_480x270_c3fb5e44_42f6_4e32_b7ac_7c1f4b48409a.png" xmltv_id="Pink super kids">Pink super kids</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="695##/2020/05/28/12/53/12/pinkpedia_logo_16_9_light_384x216_2d3ab4b2_3d60_49d6_a4f7_0cbe5baf52c2.png" xmltv_id="Pink Pedia">Pink Pedia</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="733##/2022/11/18/09/32/19/xl_light_480x270.png" xmltv_id="Zadruga Live 1">Zadruga Live 1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="734##/2022/11/18/09/33/46/xl_light_480x270.png" xmltv_id="Zadruga Live 2">Zadruga Live 2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="735##/2022/11/18/09/35/05/xl_light_480x270.png" xmltv_id="Zadruga Live 3">Zadruga Live 3</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="736##/2022/11/18/09/36/17/xl_light_480x270.png" xmltv_id="Zadruga Live 4">Zadruga Live 4</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="179##/2020/05/28/12/55/37/privatetv_logo_16_9_light_480x270_0ae09992_d759_4ec8_878e_6d3213743470.png" xmltv_id="Private TV">Private TV</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="857##/2022/11/16/11/46/55/xl_light_480x270.png" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="181##/2020/05/28/12/33/48/dusk_logo_16_9_light_384x216_09f2ef78_8dc9_4f47_b1be_9697d9400ee5.png" xmltv_id="Dusk!">Dusk!</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="182##/2020/05/28/12/40/52/hustler_logo_16_9_light_160x90_6eb1aeff_b2dd_4890_8a06_1e1f6ab2b694.png" xmltv_id="Hustler">Hustler</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="183##/2022/11/16/11/45/39/xl_light_480x270.png" xmltv_id="Dorcel HD">Dorcel HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="184##/2022/11/16/11/49/02/xl_light_480x270.png" xmltv_id="Hustler HD">Hustler HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="856##/2022/10/25/15/49/01/light_300x168.png" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="185##/2020/05/28/13/01/01/sbbinfokanal_logo_16_9_light_288x162_f4fe54e9_d8ad_4837_b306_b205294ca26b.png" xmltv_id="SBB Info kanal">SBB Info kanal</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="207##/2022/11/16/15/13/12/light_480x270.png" xmltv_id="Radio S1">Radio S1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="208##/2020/05/28/13/36/10/radiojat_logo_16_9_light_480x270_5ada6e74_f56c_4312_b3c6_36fbe2cc3de7.png" xmltv_id="Radio JAT">Radio JAT</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="209##/2020/05/28/13/37/42/radionaxi_logo_16_9_light_288x162_162a4bad_4a10_4cfb_b2de_67709bbcf9b4.png" xmltv_id="Radio Naxi">Radio Naxi</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="645##/2020/05/28/13/31/53/hitmusicfm_logo_16_9_light_300x168_2f4534e1_2fb0_47ae_b029_bbb151da9199.png" xmltv_id="Hit Music FM">Hit Music FM</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="680##/2023/01/17/11/40/04/light_480x270.png" xmltv_id="Radio Novosti">Radio Novosti</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1115##/2021/12/14/15/42/14/xl_light_480x270.png" xmltv_id="Bum Bum Radio">Bum Bum Radio</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="210##/2022/11/16/15/14/34/light_480x270.png" xmltv_id="Radio S3">Radio S3</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="211##/2020/05/28/13/38/54/radiopink_logo_16_9_light_288x162_7e881c86_9dcd_43e5_9bc3_9dded75a42c6.png" xmltv_id="Radio Pink">Radio Pink</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="212##/2020/10/13/10/36/34/l_light_480x270.png" xmltv_id="RED Radio">RED Radio</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="213##/2020/05/28/13/41/20/radiostudiob_logo_16_9_light_300x168_bf77f179_543d_4629_85a7_1d0bf35d79aa.png" xmltv_id="Radio Studio B">Radio Studio B</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="214##/2020/05/28/13/38/10/radions1_logo_16_9_light_160x90_8db10583_14b7_4566_b6df_4975418ff02b.png" xmltv_id="Radio NS 1">Radio NS 1</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="215##/2022/11/16/10/55/08/xl_light_480x270.png" xmltv_id="Radio S2">Radio S2</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="216##/2022/11/16/15/15/36/light_480x270.png" xmltv_id="Radio S4">Radio S4</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="217##/2020/05/28/13/41/43/radiotdi_logo_16_9_light_384x216_2a06b467_405d_478e_864c_b6143c7a86d2.png" xmltv_id="Radio TDI">Radio TDI</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="218##/2021/12/07/13/41/04/xl_light_480x270.png" xmltv_id="Play Radio">Play Radio</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="219##/2020/05/28/13/33/41/radioasfm_logo_16_9_light_480x270_5f862aff_930b_48a8_823b_8851fd07a469.png" xmltv_id="Radio AS FM">Radio AS FM</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="570##/2020/05/28/13/41/48/radiotopfm_logo_16_9_light_480x270_1f2426fe_090f_4861_8c3f_5a5b7200d50f.png" xmltv_id="Radio TOP FM">Radio TOP FM</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="1328##/2022/10/25/10/41/26/light_288x162.png" xmltv_id="WTF Radio">WTF Radio</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="220##/2020/05/28/13/42/35/rockradio_logo_16_9_light_384x216_1a8439bb_6374_46a4_b123_d5a1c045af07.png" xmltv_id="Rock radio">Rock radio</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="221##/2020/05/28/13/36/21/radiokarolina_logo_16_9_light_288x162_b384439c_b4ab_476e_8738_7e8dfa9841b0.png" xmltv_id="Radio Karolina">Radio Karolina</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="571##/2020/05/28/13/37/59/radionostalgie_logo_16_9_light_288x162_ee4eb465_898e_4b33_88a2_f94968b7451c.png" xmltv_id="Radio Nostalgie">Radio Nostalgie</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="222##/2022/11/16/14/43/25/light_480x270.png" xmltv_id="Radio S Kids">Radio S Kids</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="223##/2020/05/28/13/43/16/balkanretro_logo_16_9_light_384x216_e5f2fd0b_eb77_4fd8_9421_fa8ecda51425.png" xmltv_id="Stingray Music Balkan Retro Hits">Stingray Music Balkan Retro Hits</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="224##/2020/05/28/13/45/51/totalhitsbalkan_logo_16_9_light_384x216_8a1028f7_7076_40e2_8d54_b1c795d8d63e.png" xmltv_id="Stingray Music Total Hits Balkan">Stingray Music Total Hits Balkan</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="225##/2020/05/28/13/43/11/balkanmusic_logo_16_9_light_288x162_a8eb7bd8_97ef_45b6_bf35_cbd0d69d434e.png" xmltv_id="Stingray Music Balkan Music / Gipsy">Stingray Music Balkan Music / Gipsy</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="226##/2020/05/28/13/42/46/60s_logo_16_9_light_384x216_dc139225_eec4_4d09_b429_8fef5e8fb38c.png" xmltv_id="Stingray Music 60s">Stingray Music 60s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="227##/2020/05/28/13/45/42/soho70s_logo_16_9_light_288x162_c42de2b3_f37e_4b38_a847_84880902a7da.png" xmltv_id="Stingray Music Soho ’70s">Stingray Music Soho ’70s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="228##/2020/05/28/13/42/51/80s_logo_16_9_light_480x270_b233f495_0793_4259_afe6_247feb4aa213.png" xmltv_id="Stingray Music 80s">Stingray Music 80s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="229##/2020/05/28/13/42/55/90s_logo_16_9_light_160x90_3f9f2356_996f_4882_bc8c_de32192ec5bd.png" xmltv_id="Stingray Music 90s">Stingray Music 90s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="230##/2020/05/28/13/42/40/2000s_logo_16_9_light_300x168_51f465dc_b901_42e7_aecf_b027bb5c68e3.png" xmltv_id="Stingray Music 2000s">Stingray Music 2000s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="231##/2020/05/28/13/45/07/revival60s70s_logo_16_9_light_384x216_045e2c63_8d74_42e7_ac81_10de2127732c.png" xmltv_id="Stingray Music Revival 60s-70s">Stingray Music Revival 60s-70s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="232##/2020/05/28/13/45/12/rewind80s90s_logo_16_9_light_384x216_e6e2cfbc_483d_49ee_8f40_82d2032966bd.png" xmltv_id="Stingray Music Rewind 80s-90s">Stingray Music Rewind 80s-90s</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="233##/2020/05/28/13/45/32/rocknroll_logo_16_9_light_480x270_dbf5c1c2_f2b5_42cd_9f75_a2470a76f8a4.png" xmltv_id="Stingray Music Rock’n’Roll">Stingray Music Rock’n’Roll</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="234##/2020/05/28/13/43/00/alldayparty_logo_16_9_light_300x168_b0dd4e4d_42c4_44ed_9003_ba65ed090458.png" xmltv_id="Stingray Music All Day Party">Stingray Music All Day Party</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="235##/2020/05/28/13/44/17/drive_logo_16_9_light_480x270_6efe595e_71ea_4acd_9e1e_43c98dbe244a.png" xmltv_id="Stingray Music Drive">Stingray Music Drive</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="236##/2020/05/28/13/44/23/freedom_logo_16_9_light_480x270_b2b79b17_6829_45ce_bf08_0826e2d69e35.png" xmltv_id="Stingray Music Freedom">Stingray Music Freedom</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="237##/2020/05/28/13/45/37/silklovesongs_logo_16_9_light_288x162_7cff1dd2_d5e2_4232_8d2e_6842bee6c95b.png" xmltv_id="Stingray Music Silk (Love Songs)">Stingray Music Silk (Love Songs)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="238##/2020/05/28/13/45/56/totalhitsuk_logo_16_9_light_384x216_641ac527_6371_4f8c_8768_e664b6709b8a.png" xmltv_id="Stingray Music Total Hits UK">Stingray Music Total Hits UK</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="239##/2020/05/28/13/43/21/bassbreaksbeats_logo_16_9_light_288x162_d5408a40_800a_43fa_8cab_5ff5894f16a0.png" xmltv_id="Stingray Music Bass Breaks and Beats">Stingray Music Bass Breaks and Beats</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="240##/2020/05/28/13/43/30/chillout_logo_16_9_light_288x162_b2194cf9_565f_40cb_94ff_bcef5c4a587c.png" xmltv_id="Stingray Music Chillout">Stingray Music Chillout</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="241##/2020/05/28/13/43/35/classicrnbsoul_logo_16_9_light_384x216_7746a235_d4a2_4f89_9ced_f4634b0b95b3.png" xmltv_id="Stingray Music Classic R’n’B and Soul">Stingray Music Classic R’n’B and Soul</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="242##/2020/05/28/13/44/06/dancefloor_logo_16_9_light_300x168_cac1304c_87d3_4456_944b_2540af56521b.png" xmltv_id="Stingray Music Dancefloor Fillers">Stingray Music Dancefloor Fillers</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="243##/2020/05/28/13/44/32/groovediscofunk_logo_16_9_light_384x216_14b9f9a6_2bb1_4626_84bf_252efa413643.png" xmltv_id="Stingray Music Groove (Disco &amp; Funk)">Stingray Music Groove (Disco &amp; Funk)</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="244##/2020/05/28/13/44/41/hiphop_logo_16_9_light_300x168_e2af4a65_0d59_4694_aca1_c3517d407b85.png" xmltv_id="Stingray Music Hip Hop">Stingray Music Hip Hop</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="245##/2020/05/28/13/45/28/rockofages_logo_16_9_light_288x162_b71fb20c_f9fe_4c8c_8270_05757a499288.png" xmltv_id="Stingray Music Rock of Ages">Stingray Music Rock of Ages</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="246##/2020/05/28/13/44/37/headbangers_logo_16_9_light_480x270_b82f368b_7201_4124_a9c0_626347dc1caa.png" xmltv_id="Stingray Music Headbangers">Stingray Music Headbangers</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="247##/2020/05/28/13/45/22/rockanthems_logo_16_9_light_288x162_f847d4e1_9dd0_4b47_8859_3bdd0498fc07.png" xmltv_id="Stingray Music Rock Anthems">Stingray Music Rock Anthems</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="248##/2021/11/01/23/40/37/xl_light_480x270.png" xmltv_id="Stingray Music Alternative">Stingray Music Alternative</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="249##/2021/11/01/23/43/09/xl_light_480x270.png" xmltv_id="Stingray Music Hip-Hop/R&amp;B UK">Stingray Music Hip-Hop/R&amp;B UK</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="250##/2020/05/28/13/43/56/cooljazz_logo_16_9_light_480x270_9c4b279d_8aa5_40b5_8fbb_04d29a7e234d.png" xmltv_id="Stingray Music Cool Jazz">Stingray Music Cool Jazz</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="251##/2020/05/28/13/44/57/jazzclassics_logo_16_9_light_300x168_5b935361_2164_4369_82f2_42453feb6c4e.png" xmltv_id="Stingray Music Jazz Classics">Stingray Music Jazz Classics</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="252##/2020/05/28/13/45/46/thespa_logo_16_9_light_160x90_24cfa8e4_9898_4382_bc3a_434c64edd8b5.png" xmltv_id="Stingray Music The Spa">Stingray Music The Spa</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="253##/2020/05/28/13/44/47/jammin_logo_16_9_light_480x270_b3c89328_ca8a_4f25_a12d_7123176a6edb.png" xmltv_id="Stingray Music Jammin’">Stingray Music Jammin’</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="254##/2020/05/28/13/43/52/cocktaillounge_logo_16_9_light_288x162_2d71c6fe_8dc4_4c66_92b6_b187229600d1.png" xmltv_id="Stingray Music Cocktail Lounge">Stingray Music Cocktail Lounge</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="255##/2020/05/28/13/44/12/deepblues_logo_16_9_light_300x168_0ff4deff_db7c_4b8f_830f_8a0eae309e60.png" xmltv_id="Stingray Music Deep Blues">Stingray Music Deep Blues</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="256##/2020/05/28/13/43/41/classicalcalm_logo_16_9_light_160x90_98a5e8dc_4556_4722_97ff_11a57cd31b13.png" xmltv_id="Stingray Music Classical Calm">Stingray Music Classical Calm</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="257##/2020/05/28/13/43/47/classicalgreats_logo_16_9_light_160x90_3bfeae87_ac27_49c0_a8da_82846433ede4.png" xmltv_id="Stingray Music Classical Greats">Stingray Music Classical Greats</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="258##/2020/05/28/13/45/03/lavitaebella_logo_16_9_light_480x270_24574410_d714_4d26_8b19_0fcb9ce770e0.png" xmltv_id="Stingray Music La Vita e Bella">Stingray Music La Vita e Bella</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="259##/2021/11/01/23/37/43/xl_light_480x270.png" xmltv_id="Stingray Music Specials">Stingray Music Specials</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="260##/2020/05/28/13/43/26/chansons_logo_16_9_light_480x270_49130154_b1f1_4071_b31c_0bb204b8b3ba.png" xmltv_id="Stingray Music Chansons">Stingray Music Chansons</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="261##/2020/05/28/13/44/01/country_logo_16_9_light_480x270_0781fe09_51fd_4afa_a079_0a298d5c1cec.png" xmltv_id="Stingray Music Country">Stingray Music Country</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="262##/2021/10/05/12/12/08/xl_light_480x270.png" xmltv_id="Stingray Music Greek Music">Stingray Music Greek Music</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="263##/2020/05/28/13/46/02/turkmuzigi_logo_16_9_light_480x270_bfbddf13_f02c_488c_ba14_fad524d33723.png" xmltv_id="Stingray Music Türk Müzigi">Stingray Music Türk Müzigi</channel>
-    <channel update="i" site="epg.sbb.rs" site_id="264##/2020/05/28/13/46/12/worldcarnival_logo_16_9_light_384x216_292d4f20_463d_4faa_9402_18dce5ea3bdd.png" xmltv_id="Stingray Music World Carnival">Stingray Music World Carnival</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="176##/2020/05/28/12/51/29/pinkextra_logo_16_9_light_300x168_c99f14e8_82f0_44a6_8176_c4cfadbd4414.png" xmltv_id="Pink Extra (SR)">Pink Extra (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="693##/2021/12/06/09/25/54/xl_light_480x270.png" xmltv_id="Pink Show (SR)">Pink Show (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="324##/2020/05/28/12/42/56/kcnmusic2_logo_16_9_light_384x216_b4eac4aa_ce5b_449c_a6ec_ec2a851d62eb.png" xmltv_id="K::CN Music 2 (SR)">K::CN Music 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="1028##/2021/05/26/14/50/19/xl_cmc_l.png" xmltv_id="CMC HD (HR)">CMC HD (HR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="702##/2020/05/28/12/52/01/pinkfolk2_logo_16_9_light_480x270_97ec8929_3573_4d2f_bfd4_033216fbada5.png" xmltv_id="Pink Folk 2 (SR)">Pink Folk 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="701##/2020/05/28/12/52/13/pinkhits_logo_16_9_light_300x168_4eb134dc_095a_41a2_92f0_cda9acde599e.png" xmltv_id="Pink Hits (SR)">Pink Hits (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="700##/2020/05/28/12/52/18/pinkhits2_logo_16_9_light_480x270_7efc2dd8_b01b_4463_af45_2ff702ecca6c.png" xmltv_id="Pink Hits 2 (SR)">Pink Hits 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="365##/2023/03/31/16/05/25/light_480x270.png" xmltv_id="Bravo Music (SR)">Bravo Music (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="707##/2020/05/28/12/31/38/cityplay_logo_16_9_light_300x168_abb20df1_629d_49b2_8a2a_e7711e3f4aaf.png" xmltv_id="City Play (SR)">City Play (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="130##/2020/05/28/12/52/55/pinkmusic_logo_16_9_light_480x270_a7b164a5_a626_49c9_86f1_832af67f9885.png" xmltv_id="Pink Music (SR)">Pink Music (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="697##/2020/05/28/12/53/00/pinkmusic2_logo_16_9_light_288x162_7aacd57a_4986_48be_9025_3c52efb6d10d.png" xmltv_id="Pink Music 2 (SR)">Pink Music 2 (SR)</channel>
+    <channel update="i" site="epg.sbb.rs" site_id="699##/2022/01/10/13/52/56/xl_light_480x270.png" xmltv_id="Pink Koncert (SR)">Pink Koncert (SR)</channel>
   </channels>
 </site>
