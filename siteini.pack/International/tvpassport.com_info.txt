@@ -13,7 +13,8 @@ Result in tvpassport.com.channels.c1.xml
 
 step 2:
 use a provider line from the file created above
-    <channel update="i" site="tvpassport.com" site_id="2381D?lineupname=DirecTV+-+National%2C+NY+" xmltv_id="DirecTV - National, NY">DirecTV - National, NY</channel>
+    <channel update="i" site="tvpassport.com" site_id="10001##36212D?lineupname=DirecTV+-+New+York%2C+NY+" xmltv_id="DirecTV - New York, NY">DirecTV - New York, NY</channel>
+
 
 use <update>c2</update>
 run
