@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.5.0 -- Jan van Straaten" site="digea.gr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" site="digea.gr">
   <channels>
     <channel update="i" site="digea.gr" site_id="3100##new/logo-alpha-tv.png" xmltv_id="ALPHA">ALPHA</channel>
     <channel update="i" site="digea.gr" site_id="3200##new/logo-skai.jpg" xmltv_id="SKAI">SKAI</channel>
@@ -8,7 +8,7 @@
     <channel update="i" site="digea.gr" site_id="3500##new/logo-star.jpg" xmltv_id="STAR">STAR</channel>
     <channel update="i" site="digea.gr" site_id="3600##new/logo-mega.jpg" xmltv_id="MEGA">MEGA</channel>
     <channel update="i" site="digea.gr" site_id="3700##new/logo-makedonia-tv.png" xmltv_id="ΜΑΚΕΔΟΝΙΑ ΤV">ΜΑΚΕΔΟΝΙΑ ΤV</channel>
-    <channel update="i" site="digea.gr" site_id="4020##new/logo-delta-fv.png" xmltv_id="ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ">ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ</channel>
+    <channel update="i" site="digea.gr" site_id="4020##new/logo-delta-tv.png" xmltv_id="ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ">ΔΕΛΤΑ ΤΗΛΕΟΡΑΣΗ</channel>
     <channel update="i" site="digea.gr" site_id="4030##new/logo-diktyo.jpg" xmltv_id="ΔΙΚΤΥΟ TV">ΔΙΚΤΥΟ TV</channel>
     <channel update="i" site="digea.gr" site_id="4040##new/logo-ena.jpg" xmltv_id="ENA CHANNEL">ENA CHANNEL</channel>
     <channel update="i" site="digea.gr" site_id="4050##new/logo-epiloges.png" xmltv_id="ΕΠΙΛΟΓΕΣ">ΕΠΙΛΟΓΕΣ</channel>
@@ -19,18 +19,16 @@
     <channel update="i" site="digea.gr" site_id="4100##new/logo-next-tv.jpg" xmltv_id="NEXT TV">NEXT TV</channel>
     <channel update="i" site="digea.gr" site_id="4110##new/logo-smile-thraki.png" xmltv_id="SMILE (Θράκης)">SMILE (Θράκης)</channel>
     <channel update="i" site="digea.gr" site_id="4120##new/logo-star-voreiou-ellados.png" xmltv_id="STAR ΒOΡΕΙΟΥ ΕΛΛΑΔΟΣ">STAR ΒOΡΕΙΟΥ ΕΛΛΑΔΟΣ</channel>
-    <channel update="i" site="digea.gr" site_id="4130##new/logo-tv-rodopi.jpg" xmltv_id="ΤV ΡΟΔΟΠΗ">ΤV ΡΟΔΟΠΗ</channel>
     <channel update="i" site="digea.gr" site_id="4170##new/logo-lydia.jpg" xmltv_id="ΛΥΔΙΑ">ΛΥΔΙΑ</channel>
     <channel update="i" site="digea.gr" site_id="4240##new/logo-vergina.jpg" xmltv_id="ΒΕΡΓΙΝΑ">ΒΕΡΓΙΝΑ</channel>
-    <channel update="i" site="digea.gr" site_id="4250##new/logo-atlas.jpg" xmltv_id="ATLAS TELEVISION">ATLAS TELEVISION</channel>
     <channel update="i" site="digea.gr" site_id="4260##new/logo-dion.jpg" xmltv_id="DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας">DION ΤΗΛΕΟΡΑΣΗ Κεντρικής Μακεδονίας</channel>
     <channel update="i" site="digea.gr" site_id="4270##new/logo-eurotv.jpg" xmltv_id="EURO TV">EURO TV</channel>
-    <channel update="i" site="digea.gr" site_id="4280##new/logo-europe1.png" xmltv_id="EUROPE 1">EUROPE 1</channel>
     <channel update="i" site="digea.gr" site_id="4290##new/logo-gnomi-tv.jpg" xmltv_id="GNOMI TV">GNOMI TV</channel>
     <channel update="i" site="digea.gr" site_id="4300##new/logo-tv100.jpg" xmltv_id="TV100 ΘΕΣΣΑΛΟΝΙΚΗ">TV100 ΘΕΣΣΑΛΟΝΙΚΗ</channel>
     <channel update="i" site="digea.gr" site_id="4360##new/logo-a-epsilon.png" xmltv_id="AE CHANNEL Thessaloniki">AE CHANNEL Thessaloniki</channel>
     <channel update="i" site="digea.gr" site_id="4370##new/nickelodeon-id-4370.png" xmltv_id="NICKELODEON+">NICKELODEON+</channel>
     <channel update="i" site="digea.gr" site_id="4380##new/logo-4e.jpg" xmltv_id="4E">4E</channel>
+    <channel update="i" site="digea.gr" site_id="4440##new/logo-ilektra.png" xmltv_id="ΗΛΕΚΤΡΑ">ΗΛΕΚΤΡΑ</channel>
     <channel update="i" site="digea.gr" site_id="4450##new/logo-lyxnos.jpg" xmltv_id="ΛΥΧΝΟΣ">ΛΥΧΝΟΣ</channel>
     <channel update="i" site="digea.gr" site_id="4460##new/logo-mesogeios.jpg" xmltv_id="ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ">ΜΕΣΟΓΕΙΟΣ ΤΗΛΕΟΡΑΣΗ</channel>
     <channel update="i" site="digea.gr" site_id="4470##new/logo-opt-television.jpg" xmltv_id="ΟΡΤ TELEVISION">ΟΡΤ TELEVISION</channel>
@@ -38,8 +36,6 @@
     <channel update="i" site="digea.gr" site_id="4510##new/logo-best.png" xmltv_id="BEST">BEST</channel>
     <channel update="i" site="digea.gr" site_id="4520##new/logo-ionian.png" xmltv_id="IONIAN">IONIAN</channel>
     <channel update="i" site="digea.gr" site_id="4530##new/logo-lepanto.png" xmltv_id="LEPANTO ΤΗΛΕΟΡΑΣΗ">LEPANTO ΤΗΛΕΟΡΑΣΗ</channel>
-    <channel update="i" site="digea.gr" site_id="4540##new/logo-patra-tv.jpg" xmltv_id="Patra tv">Patra tv</channel>
-    <channel update="i" site="digea.gr" site_id="4550##new/logo-rtp-kentro.png" xmltv_id="RTP ΚΕΝΤΡΟ">RTP ΚΕΝΤΡΟ</channel>
     <channel update="i" site="digea.gr" site_id="4560##new/logo-super.jpg" xmltv_id="SUPER">SUPER</channel>
     <channel update="i" site="digea.gr" site_id="4670##new/logo-thessalia.png" xmltv_id="ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ">ΘΕΣΣΑΛΙΑ ΤΗΛΕΟΡΑΣΗ</channel>
     <channel update="i" site="digea.gr" site_id="4680##new/logo-astra.png" xmltv_id="ASTRA TV">ASTRA TV</channel>
