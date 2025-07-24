@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" site="sat.tv">
+  <channels>
+    <channel update="i" site="sat.tv" site_id="71##1##1" xmltv_id="Abu Dhabi HD">Abu Dhabi HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2" xmltv_id="Emarat HD">Emarat HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##3" xmltv_id="Dubai HD">Dubai HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##4" xmltv_id="Nat Geo Abu Dhabi HD">Nat Geo Abu Dhabi HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##5" xmltv_id="MBC 1">MBC 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##6" xmltv_id="MBC 2">MBC 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##7" xmltv_id="MBC 4">MBC 4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##8" xmltv_id="MBC Drama">MBC Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##9" xmltv_id="MBC Action">MBC Action</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##10" xmltv_id="MBC Bollywood">MBC Bollywood</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##11" xmltv_id="MBC Masr HD">MBC Masr HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##12" xmltv_id="Sama Dubai HD">Sama Dubai HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##13" xmltv_id="Dubai One HD">Dubai One HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##14" xmltv_id="Rotana Khalijia">Rotana Khalijia</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##15" xmltv_id="Rotana Cinema KSA">Rotana Cinema KSA</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##16" xmltv_id="Rotana Cinema Egypt">Rotana Cinema Egypt</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##17" xmltv_id="Rotana Classic">Rotana Classic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##18" xmltv_id="Rotana Drama">Rotana Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##20" xmltv_id="Al Arabiya HD">Al Arabiya HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##21" xmltv_id="Al Hadath">Al Hadath</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##22" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##23" xmltv_id="Saudi Al Ekhbariya HD">Saudi Al Ekhbariya HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##25" xmltv_id="BBC Arabic">BBC Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##26" xmltv_id="Extra News HD">Extra News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##27" xmltv_id="RT Arabic HD">RT Arabic HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##28" xmltv_id="CGTN Arabic">CGTN Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##29" xmltv_id="France 24 Arabic">France 24 Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##30" xmltv_id="B4U Plus">B4U Plus</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##31" xmltv_id="Zee Aflam">Zee Aflam</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##32" xmltv_id="Zee Alwan">Zee Alwan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##33" xmltv_id="Al Aan TV">Al Aan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##34" xmltv_id="LBC">LBC</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##36" xmltv_id="CBC">CBC</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##37" xmltv_id="Sudan TV">Sudan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##38" xmltv_id="On Drama">On Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##39" xmltv_id="Kuwait TV 1 HD">Kuwait TV 1 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##41" xmltv_id="Nile Cinema">Nile Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##42" xmltv_id="Jordan TV HD">Jordan TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##43" xmltv_id="MBC Masr 2 HD">MBC Masr 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##44" xmltv_id="Roya TV HD">Roya TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##45" xmltv_id="Sada El Balad">Sada El Balad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##46" xmltv_id="DMC">DMC</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##47" xmltv_id="Sharjah HD">Sharjah HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##48" xmltv_id="SBC HD">SBC HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##49" xmltv_id="Saudi HD">Saudi HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##50" xmltv_id="AD Sports 1 HD">AD Sports 1 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##51" xmltv_id="AD Sports 2 HD">AD Sports 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##52" xmltv_id="Yas TV HD">Yas TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##53" xmltv_id="Dubai Sports 1 HD">Dubai Sports 1 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##54" xmltv_id="Dubai Sports 2">Dubai Sports 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##55" xmltv_id="Dubai Racing 1 HD">Dubai Racing 1 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##56" xmltv_id="Dubai Racing 2">Dubai Racing 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##57" xmltv_id="Sharjah Sports HD">Sharjah Sports HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##58" xmltv_id="KSA sports 1">KSA sports 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##59" xmltv_id="KSA sports 2 HD">KSA sports 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##60" xmltv_id="Sharjah Quran TV">Sharjah Quran TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##62" xmltv_id="Saudi Quran TV HD">Saudi Quran TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##63" xmltv_id="Saudi Sunna TV HD">Saudi Sunna TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##65" xmltv_id="Al Resala">Al Resala</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##66" xmltv_id="Al Majd">Al Majd</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##67" xmltv_id="Al Majd Holy Quran">Al Majd Holy Quran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##68" xmltv_id="Makkah TV">Makkah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##70" xmltv_id="MBC 3">MBC 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##71" xmltv_id="Majid Kids TV HD">Majid Kids TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##72" xmltv_id="CN Arabic">CN Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##73" xmltv_id="Space Toon">Space Toon</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##80" xmltv_id="Rotana Music">Rotana Music</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##81" xmltv_id="Rotana Clip">Rotana Clip</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##82" xmltv_id="Mazzika">Mazzika</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##83" xmltv_id="Chada TV">Chada TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##90" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##91" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##92" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##93" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##95" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##109" xmltv_id="MBC Masr Drama HD">MBC Masr Drama HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##110" xmltv_id="MBC Iraq HD">MBC Iraq HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##125" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##126" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##127" xmltv_id="CNB">CNB</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##130" xmltv_id="Al Oula">Al Oula</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##131" xmltv_id="Al Thanya">Al Thanya</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##132" xmltv_id="Al Masriyah">Al Masriyah</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##135" xmltv_id="Al Shams TV">Al Shams TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##136" xmltv_id="Al Hayah HD">Al Hayah HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##137" xmltv_id="Al Hayah 2">Al Hayah 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##138" xmltv_id="Al Kahera Wal Nas">Al Kahera Wal Nas</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##139" xmltv_id="Al Kahera Wal Nas 2">Al Kahera Wal Nas 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##140" xmltv_id="Al Nahar TV">Al Nahar TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##142" xmltv_id="On E HD">On E HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##143" xmltv_id="El Mehwar HD">El Mehwar HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##144" xmltv_id="Nile Life">Nile Life</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##146" xmltv_id="Sada El Balad 2">Sada El Balad 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##147" xmltv_id="Ten">Ten</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##148" xmltv_id="Egyptian TV HD">Egyptian TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##149" xmltv_id="Al Kahera 3">Al Kahera 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##150" xmltv_id="Al Kanal 4">Al Kanal 4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##151" xmltv_id="Al Askandria 5">Al Askandria 5</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##152" xmltv_id="Al Delta 6">Al Delta 6</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##153" xmltv_id="Al Saeed 7">Al Saeed 7</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##154" xmltv_id="Teba 8">Teba 8</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##155" xmltv_id="Extra live">Extra live</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##156" xmltv_id="Al Ghad">Al Ghad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##176" xmltv_id="Fujairah HD">Fujairah HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##182" xmltv_id="Saudi Thikrayat">Saudi Thikrayat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##183" xmltv_id="Saudia Alaan TV">Saudia Alaan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##190" xmltv_id="Bahrain TV HD">Bahrain TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##191" xmltv_id="Bahrain International">Bahrain International</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##192" xmltv_id="Al Rai TV">Al Rai TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##194" xmltv_id="Kuwait TV 2 HD">Kuwait TV 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##195" xmltv_id="Kuwait Al Akhbar">Kuwait Al Akhbar</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##196" xmltv_id="Oman TV HD">Oman TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##197" xmltv_id="Oman TV Mubasher HD">Oman TV Mubasher HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##198" xmltv_id="Al Rayyan HD">Al Rayyan HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##199" xmltv_id="Qatar TV HD">Qatar TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##200" xmltv_id="Qatar 2 HD">Qatar 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##201" xmltv_id="Yemen TV">Yemen TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##202" xmltv_id="Aden TV">Aden TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##203" xmltv_id="Yemen Shabab">Yemen Shabab</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##204" xmltv_id="Reef AlYemen">Reef AlYemen</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##210" xmltv_id="Al Aoula">Al Aoula</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##211" xmltv_id="2M Monde">2M Monde</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##220" xmltv_id="Canal Algerie">Canal Algerie</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##221" xmltv_id="Algérie 4">Algérie 4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##222" xmltv_id="Algérie 6 HD">Algérie 6 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##223" xmltv_id="Echorouk TV HD">Echorouk TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##224" xmltv_id="One TV">One TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##225" xmltv_id="Berbère TV">Berbère TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##227" xmltv_id="Al Djazair N°1">Al Djazair N°1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##230" xmltv_id="Tunisia Nat 1">Tunisia Nat 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##231" xmltv_id="Tunisia Nat 2">Tunisia Nat 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##234" xmltv_id="EL FadjrDrama DZ HD">EL FadjrDrama DZ HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##235" xmltv_id="Essalam TV">Essalam TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##240" xmltv_id="Zaytoona">Zaytoona</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##251" xmltv_id="Amman TV HD">Amman TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##252" xmltv_id="Al Mamlaka TV HD">Al Mamlaka TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##260" xmltv_id="Iraq Edu 1">Iraq Edu 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##261" xmltv_id="Iraq Edu 2">Iraq Edu 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##262" xmltv_id="Iraq Edu 3">Iraq Edu 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##263" xmltv_id="Iraq Edu 4">Iraq Edu 4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##264" xmltv_id="Iraq Edu 5">Iraq Edu 5</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##265" xmltv_id="Iraq Edu 6">Iraq Edu 6</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##266" xmltv_id="Iraq Edu 7">Iraq Edu 7</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##270" xmltv_id="Al Iraqiya HD">Al Iraqiya HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##271" xmltv_id="Al Sharqiya TV HD">Al Sharqiya TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##272" xmltv_id="Al Sumaria TV">Al Sumaria TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##273" xmltv_id="Al Rasheed TV HD">Al Rasheed TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##274" xmltv_id="Iraq Al Hadath">Iraq Al Hadath</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##275" xmltv_id="Iraq 24 HD">Iraq 24 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##276" xmltv_id="Karbala TV HD">Karbala TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##277" xmltv_id="Al Forat">Al Forat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##278" xmltv_id="Iraq Now">Iraq Now</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##279" xmltv_id="Alawla">Alawla</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##280" xmltv_id="Al Iraqiya Kurd">Al Iraqiya Kurd</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##281" xmltv_id="Kurdistan TV">Kurdistan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##282" xmltv_id="">
+    </channel>
+    <channel update="i" site="sat.tv" site_id="71##1##283" xmltv_id="KurdMax HD">KurdMax HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##284" xmltv_id="Kurdsat">Kurdsat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##286" xmltv_id="Rûdaw TV HD">Rûdaw TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##287" xmltv_id="Speda HD">Speda HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##288" xmltv_id="Zagros">Zagros</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##294" xmltv_id="One America News Network">One America News Network</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##295" xmltv_id="Al Iraqiya Turkuman">Al Iraqiya Turkuman</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##296" xmltv_id="Iraqia Syriac">Iraqia Syriac</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##297" xmltv_id="China Arab TV">China Arab TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##312" xmltv_id="Zee Alwan Egypt">Zee Alwan Egypt</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##316" xmltv_id="Mix bel Araby TV">Mix bel Araby TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##317" xmltv_id="Hala London HD">Hala London HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##318" xmltv_id="Cima">Cima</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##320" xmltv_id="Wedotv Big Stories">Wedotv Big Stories</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##321" xmltv_id="AWE">AWE</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##328" xmltv_id="Dijlah Zaman">Dijlah Zaman</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##330" xmltv_id="Al Hayah Mosalsalat">Al Hayah Mosalsalat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##333" xmltv_id="Nile Comedy">Nile Comedy</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##334" xmltv_id="Nile Drama">Nile Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##335" xmltv_id="Nile Family">Nile Family</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##336" xmltv_id="Al Nahar Drama">Al Nahar Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##337" xmltv_id="CBC Drama">CBC Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##338" xmltv_id="DMC Drama">DMC Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##339" xmltv_id="Sada El Balad Drama">Sada El Balad Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##342" xmltv_id="Al Rayyan Al Qadeem HD">Al Rayyan Al Qadeem HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##343" xmltv_id="Panorama Drama">Panorama Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##344" xmltv_id="Panorama Drama 2">Panorama Drama 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##345" xmltv_id="Panorama Film">Panorama Film</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##350" xmltv_id="Beirut Aflam">Beirut Aflam</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##351" xmltv_id="Beirut Alyoom">Beirut Alyoom</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##352" xmltv_id="Beirut Cinema">Beirut Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##353" xmltv_id="Beirut Drama">Beirut Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##357" xmltv_id="Maspero Zaman">Maspero Zaman</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##361" xmltv_id="El Omda Drama">El Omda Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##362" xmltv_id="El Omda Hekayat Film">El Omda Hekayat Film</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##364" xmltv_id="El Omda Al yom">El Omda Al yom</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##366" xmltv_id="Elasema welanas">Elasema welanas</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##367" xmltv_id="Alking Drama TV">Alking Drama TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##370" xmltv_id="Fox Movies">Fox Movies</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##371" xmltv_id="One Movies">One Movies</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##372" xmltv_id="Al Shasha Cinema">Al Shasha Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##373" xmltv_id="Al Shasha Musalsalat">Al Shasha Musalsalat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##374" xmltv_id="Al Shasha Hekayat">Al Shasha Hekayat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##375" xmltv_id="Al Shasha Drama">Al Shasha Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##376" xmltv_id="Al Shasha Film">Al Shasha Film</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##377" xmltv_id="Al Shasha Alwan">Al Shasha Alwan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##378" xmltv_id="Al Dawaar">Al Dawaar</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##380" xmltv_id="AlSukariya Drama">AlSukariya Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##381" xmltv_id="Sukariya Cinema">Sukariya Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##382" xmltv_id="Sukariya Hekayat">Sukariya Hekayat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##383" xmltv_id="Sukariya Zaman">Sukariya Zaman</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##384" xmltv_id="Sukariya Classic">Sukariya Classic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##387" xmltv_id="Elzaeem Cinema">Elzaeem Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##388" xmltv_id="Elzaeem Drama">Elzaeem Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##390" xmltv_id="Dolly Drama">Dolly Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##391" xmltv_id="Dolly Mosalsalat">Dolly Mosalsalat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##392" xmltv_id="Dolly Alyoom">Dolly Alyoom</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##393" xmltv_id="Dolly Cinema">Dolly Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##394" xmltv_id="Dolly Movies">Dolly Movies</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##396" xmltv_id="Alfa Cinema">Alfa Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##397" xmltv_id="Alfa Drama">Alfa Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##398" xmltv_id="Alfa Hekayat">Alfa Hekayat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##400" xmltv_id="Cairo Plus Cinema">Cairo Plus Cinema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##401" xmltv_id="Cairo Plus Drama">Cairo Plus Drama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##402" xmltv_id="Cairo Plus Alyom">Cairo Plus Alyom</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##410" xmltv_id="M Classic">M Classic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##431" xmltv_id="iFilm Arabic">iFilm Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##454" xmltv_id="Star 1">Star 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##455" xmltv_id="Star 2">Star 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##468" xmltv_id="Al Dafrah HD">Al Dafrah HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##477" xmltv_id="Mix One">Mix One</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##479" xmltv_id="Mix">Mix</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##482" xmltv_id="Oscar TV">Oscar TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##495" xmltv_id="A TV Kurd HD">A TV Kurd HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##500" xmltv_id="CBC Sofra">CBC Sofra</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##501" xmltv_id="Panorama Food">Panorama Food</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##512" xmltv_id="Samira HD">Samira HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##515" xmltv_id="Zahra TV">Zahra TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##523" xmltv_id="Al Araby 2 HD">Al Araby 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##551" xmltv_id="Baynounah TV HD">Baynounah TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##552" xmltv_id="Asharq Documentary HD">Asharq Documentary HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##553" xmltv_id="Al Jazeera Documentary HD">Al Jazeera Documentary HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##554" xmltv_id="Palestine Edu HD">Palestine Edu HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##555" xmltv_id="Nile Education">Nile Education</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##556" xmltv_id="Nile Culture">Nile Culture</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##557" xmltv_id="Asharq Discovery HD">Asharq Discovery HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##560" xmltv_id="AlThaqafeya HD">AlThaqafeya HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##561" xmltv_id="Algérie 7">Algérie 7</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##562" xmltv_id="Algérie 8 HD">Algérie 8 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##563" xmltv_id="Oman TV Culture HD">Oman TV Culture HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##565" xmltv_id="Yemen Documentary">Yemen Documentary</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##566" xmltv_id="Yemen Education">Yemen Education</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##567" xmltv_id="Sheba TV">Sheba TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##568" xmltv_id="Al Wathaeqya">Al Wathaeqya</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##569" xmltv_id="Marina HD">Marina HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##578" xmltv_id="Kaifa TV">Kaifa TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##580" xmltv_id="Lebda TV">Lebda TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##590" xmltv_id="NRT 2 HD">NRT 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##600" xmltv_id="beIN Sports HD">beIN Sports HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##601" xmltv_id="beIN Sports News HD">beIN Sports News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##605" xmltv_id="Palestine Sport">Palestine Sport</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##606" xmltv_id="Jordan Sport HD">Jordan Sport HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##622" xmltv_id="KSA Sports 3 HD">KSA Sports 3 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##625" xmltv_id="Kuwait Sport HD">Kuwait Sport HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##626" xmltv_id="Kuwait TV Sport Plus HD">Kuwait TV Sport Plus HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##628" xmltv_id="Oman TV Sport HD">Oman TV Sport HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##630" xmltv_id="On Time Sports HD">On Time Sports HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##631" xmltv_id="On Time Sport 2 HD">On Time Sport 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##632" xmltv_id="Nile Sport">Nile Sport</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##633" xmltv_id="Al Ahly TV HD">Al Ahly TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##634" xmltv_id="Zamalek TV">Zamalek TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##635" xmltv_id="Hogan TV">Hogan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##636" xmltv_id="Yalla Mosar3a">Yalla Mosar3a</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##637" xmltv_id="Libya Sport">Libya Sport</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##638" xmltv_id="Libya Sport 2 HD">Libya Sport 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##640" xmltv_id="Alkass One HD">Alkass One HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##641" xmltv_id="Alkass Two HD">Alkass Two HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##642" xmltv_id="Alkass Three">Alkass Three</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##643" xmltv_id="Alkass Four">Alkass Four</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##645" xmltv_id="Al Iraqiya Sport HD">Al Iraqiya Sport HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##650" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##651" xmltv_id="World Poker Tour">World Poker Tour</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##652" xmltv_id="Cricket Gold">Cricket Gold</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##653" xmltv_id="Bare Knuckle">Bare Knuckle</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##654" xmltv_id="World Fishing Network">World Fishing Network</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##655" xmltv_id="MVMT Movement of Culture">MVMT Movement of Culture</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##656" xmltv_id="Sports First">Sports First</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##701" xmltv_id="Asharq News HD">Asharq News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##703" xmltv_id="Al Arabiya Business">Al Arabiya Business</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##704" xmltv_id="Al Mashhad">Al Mashhad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##708" xmltv_id="Al Shaoub TV">Al Shaoub TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##710" xmltv_id="Al Jazeera HD">Al Jazeera HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##711" xmltv_id="Al Jazeera Mobasher HD">Al Jazeera Mobasher HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##712" xmltv_id="Al Jazeera Mobasher 2 HD">Al Jazeera Mobasher 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##714" xmltv_id="Al Araby HD">Al Araby HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##715" xmltv_id="CNBC Arabiya">CNBC Arabiya</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##716" xmltv_id="DW Arabia HD">DW Arabia HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##722" xmltv_id="Palestine Live HD">Palestine Live HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##723" xmltv_id="falestinona TV">falestinona TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##725" xmltv_id="Al Mayadeen TV">Al Mayadeen TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##730" xmltv_id="Al Iraqiya News HD">Al Iraqiya News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##731" xmltv_id="Al sharqiya News HD">Al sharqiya News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##732" xmltv_id="Al Rabiaa HD">Al Rabiaa HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##733" xmltv_id="Al Masar TV HD">Al Masar TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##734" xmltv_id="Al Janoub">Al Janoub</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##735" xmltv_id="Al Anwar TV 2">Al Anwar TV 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##736" xmltv_id="Al Mawqef">Al Mawqef</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##742" xmltv_id="M24 TV">M24 TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##745" xmltv_id="Albarlemania al Mauritania TV">Albarlemania al Mauritania TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##750" xmltv_id="Algérie 3 HD">Algérie 3 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##751" xmltv_id="Echorouk News">Echorouk News</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##752" xmltv_id="Ennahar TV">Ennahar TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##753" xmltv_id="Bilad">Bilad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##754" xmltv_id="El Hayat TV">El Hayat TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##756" xmltv_id="Al 24 News">Al 24 News</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##761" xmltv_id="Nile News">Nile News</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##769" xmltv_id="Halab Today TV">Halab Today TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##770" xmltv_id="Yemen Today TV">Yemen Today TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##771" xmltv_id="Al Saeedah">Al Saeedah</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##772" xmltv_id="Almasirah TV">Almasirah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##773" xmltv_id="Almasirah TV Mubasher">Almasirah TV Mubasher</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##774" xmltv_id="Suhail TV">Suhail TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##775" xmltv_id="Al Sahat TV">Al Sahat TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##800" xmltv_id="Al Hurra TV HD">Al Hurra TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##802" xmltv_id="Anewz">Anewz</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##805" xmltv_id="TRT Arabiya">TRT Arabiya</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##806" xmltv_id="I24 News Arabic">I24 News Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##807" xmltv_id="Al Qahera News">Al Qahera News</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##810" xmltv_id="Al Baghdadia Now">Al Baghdadia Now</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##811" xmltv_id="Al Yoom">Al Yoom</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##812" xmltv_id="Alghadeer TV">Alghadeer TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##813" xmltv_id="Al Sharq TV">Al Sharq TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##815" xmltv_id="I News HD">I News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##816" xmltv_id="Kirkuk TV">Kirkuk TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##819" xmltv_id="Afaq TV">Afaq TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##820" xmltv_id="Al Anbar">Al Anbar</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##822" xmltv_id="Al Fallujah TV">Al Fallujah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##824" xmltv_id="Al Hiwar TV HD">Al Hiwar TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##828" xmltv_id="Al Sabah">Al Sabah</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##831" xmltv_id="AlHadath Alyoum">AlHadath Alyoum</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##838" xmltv_id="Iraq Future TV">Iraq Future TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##839" xmltv_id="Libya Al Ahrar HD">Libya Al Ahrar HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##841" xmltv_id="Libya Alhadath HD">Libya Alhadath HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##842" xmltv_id="Libya Alrasmia Channel">Libya Alrasmia Channel</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##843" xmltv_id="Libya Al Hedaya">Libya Al Hedaya</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##844" xmltv_id="Libya Alwathaiqia TV">Libya Alwathaiqia TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##845" xmltv_id="Febraury TV">Febraury TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##846" xmltv_id="LuaLua TV HD">LuaLua TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##847" xmltv_id="Mekameleen">Mekameleen</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##848" xmltv_id="Misr Al Zeraeey">Misr Al Zeraeey</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##849" xmltv_id="Palestine HD">Palestine HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##850" xmltv_id="Palestine Today">Palestine Today</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##851" xmltv_id="Salahalddin TV">Salahalddin TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##852" xmltv_id="Palestine News">Palestine News</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##860" xmltv_id="Gali Kurdistan HD">Gali Kurdistan HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##862" xmltv_id="Kurdsat News HD">Kurdsat News HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##863" xmltv_id="TRT Kurdî">TRT Kurdî</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##864" xmltv_id="NRT HD">NRT HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##865" xmltv_id="Payam TV">Payam TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##866" xmltv_id="Rojava TV HD">Rojava TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##867" xmltv_id="Ronahε TV">Ronahε TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##868" xmltv_id="KNN HD">KNN HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##880" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##886" xmltv_id="Nile TV">Nile TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##887" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##888" xmltv_id="Wion HD">Wion HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##889" xmltv_id="Press TV HD">Press TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##890" xmltv_id="Arirang World">Arirang World</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##904" xmltv_id="Karameesh">Karameesh</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##909" xmltv_id="Noursat kids">Noursat kids</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##910" xmltv_id="Toyor Aljanah TV">Toyor Aljanah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##911" xmltv_id="Kidsy TV">Kidsy TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##920" xmltv_id="Atfal &amp; Mawaheb">Atfal &amp; Mawaheb</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##922" xmltv_id="HodHod TV">HodHod TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##924" xmltv_id="Koogi TV">Koogi TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##925" xmltv_id="Shehab TV HD">Shehab TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##926" xmltv_id="Taha">Taha</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##927" xmltv_id="Sat-7 Kids">Sat-7 Kids</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##928" xmltv_id="Cookies TV">Cookies TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##932" xmltv_id="Algerian 4kids">Algerian 4kids</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##941" xmltv_id="Zarok TV">Zarok TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##963" xmltv_id="Free TV">Free TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##964" xmltv_id="Nogoum FM TV">Nogoum FM TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##965" xmltv_id="Mawal">Mawal</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##982" xmltv_id="El Moled">El Moled</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##983" xmltv_id="Falastini TV">Falastini TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##984" xmltv_id="Music Iraq">Music Iraq</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##991" xmltv_id="Med Muzîk">Med Muzîk</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##992" xmltv_id="Neu TV">Neu TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1007" xmltv_id="Al Quds Today TV">Al Quds Today TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1008" xmltv_id="Huda TV">Huda TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1011" xmltv_id="Algérie 5">Algérie 5</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1015" xmltv_id="Al Najaf Al Ashraf TV">Al Najaf Al Ashraf TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1017" xmltv_id="Daewa TV">Daewa TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1021" xmltv_id="Haq TV">Haq TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1022" xmltv_id="Al Ahvaz TV">Al Ahvaz TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1023" xmltv_id="Als3yda Madeeh">Als3yda Madeeh</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1024" xmltv_id="Libya Ifta TV">Libya Ifta TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1025" xmltv_id="Al Rahma">Al Rahma</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1040" xmltv_id="Al Nas">Al Nas</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1041" xmltv_id="Madrasetna 1">Madrasetna 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1042" xmltv_id="Madrasetna 2">Madrasetna 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1043" xmltv_id="Madrasetna 3">Madrasetna 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1045" xmltv_id="Al Ayyam TV">Al Ayyam TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1047" xmltv_id="Al Eman">Al Eman</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1048" xmltv_id="Al Ma'aly">Al Ma'aly</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1049" xmltv_id="Al Madeeh">Al Madeeh</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1050" xmltv_id="Al Nada TV">Al Nada TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1051" xmltv_id="Misr Quran Kareem">Misr Quran Kareem</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1052" xmltv_id="Aden Almustakillah HD">Aden Almustakillah HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1055" xmltv_id="Alfath TV">Alfath TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1056" xmltv_id="Alistiqama TV">Alistiqama TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1057" xmltv_id="Al Nahar Noor">Al Nahar Noor</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1071" xmltv_id="Shamalia TV">Shamalia TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1074" xmltv_id="Thaqalayn TV">Thaqalayn TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1077" xmltv_id="Zad TV">Zad TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1090" xmltv_id="NRT 4">NRT 4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1091" xmltv_id="Bangawaz TV">Bangawaz TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1100" xmltv_id="Al Anwar TV">Al Anwar TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1101" xmltv_id="Imam Ali Shrine TV">Imam Ali Shrine TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1102" xmltv_id="Al Salam TV">Al Salam TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1104" xmltv_id="MarjaeyatTV 2 HD">MarjaeyatTV 2 HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1110" xmltv_id="Asil TV">Asil TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1113" xmltv_id="Roghayah TV">Roghayah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1114" xmltv_id="Al Sayedah TV">Al Sayedah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1115" xmltv_id="Kuwaitawi TV">Kuwaitawi TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1116" xmltv_id="Al Hijaz TV">Al Hijaz TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1120" xmltv_id="Al Qamar TV">Al Qamar TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1121" xmltv_id="Imam Hussein TV 2">Imam Hussein TV 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1122" xmltv_id="Al Aqila TV">Al Aqila TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1123" xmltv_id="Ahadu TV">Ahadu TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1126" xmltv_id="Al Mahdi TV">Al Mahdi TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1128" xmltv_id="Alshaaer TV">Alshaaer TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1132" xmltv_id="Dua Channel">Dua Channel</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1136" xmltv_id="Saout Alaqila">Saout Alaqila</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1190" xmltv_id="Amozhgary TV">Amozhgary TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1200" xmltv_id="CTV">CTV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1201" xmltv_id="Aghapy TV">Aghapy TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1202" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1203" xmltv_id="Noursat TV">Noursat TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1204" xmltv_id="Noursat Al Chabab">Noursat Al Chabab</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1205" xmltv_id="Al Kalema">Al Kalema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1206" xmltv_id="Nour Koddass">Nour Koddass</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1207" xmltv_id="Nour Mariam TV">Nour Mariam TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1211" xmltv_id="Al Hayat">Al Hayat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1212" xmltv_id="Al Horreya TV">Al Horreya TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1213" xmltv_id="Alkarma TV Middle East 1">Alkarma TV Middle East 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1214" xmltv_id="Alkarma Praise">Alkarma Praise</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1215" xmltv_id="Al Karma NewGen">Al Karma NewGen</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1218" xmltv_id="Almagd TV">Almagd TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1219" xmltv_id="C Sat">C Sat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1220" xmltv_id="Logos TV">Logos TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1224" xmltv_id="Sat-7 Arabic">Sat-7 Arabic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1225" xmltv_id="SBN">SBN</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1226" xmltv_id="Suboro TV">Suboro TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1227" xmltv_id="The Kingdom Sat">The Kingdom Sat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1231" xmltv_id="Angel TV Arabia">Angel TV Arabia</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1301" xmltv_id="Misr AlBalad">Misr AlBalad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1302" xmltv_id="Al Assema">Al Assema</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1303" xmltv_id="Home TV">Home TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1304" xmltv_id="West Elbalad Zaman">West Elbalad Zaman</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1310" xmltv_id="Ajman TV HD">Ajman TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1312" xmltv_id="Sharqiya from Kalba HD">Sharqiya from Kalba HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1320" xmltv_id="Bahia TV">Bahia TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1330" xmltv_id="Al Haqeqa Al Dawliah (Fact Int'l)">Al Haqeqa Al Dawliah (Fact Int'l)</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1332" xmltv_id="Al Iman TV">Al Iman TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1336" xmltv_id="Awdeh HD">Awdeh HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1337" xmltv_id="Hebron Sat">Hebron Sat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1338" xmltv_id="Musawa HD">Musawa HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1339" xmltv_id="Syria TV HD">Syria TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1340" xmltv_id="Syria One TV">Syria One TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1344" xmltv_id="Wasat TV HD">Wasat TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1345" xmltv_id="New Libya">New Libya</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1346" xmltv_id="Libya Government">Libya Government</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1351" xmltv_id="Khartoum TV">Khartoum TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1354" xmltv_id="Alzrga">Alzrga</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1355" xmltv_id="Sudan Basic Edu TV">Sudan Basic Edu TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1356" xmltv_id="Tayba TV">Tayba TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1360" xmltv_id="Al Kawthar TV">Al Kawthar TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1361" xmltv_id="Al Maaref TV">Al Maaref TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1362" xmltv_id="Al Dawla TV">Al Dawla TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1370" xmltv_id="Al Naeem TV">Al Naeem TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1371" xmltv_id="1 Baghdad">1 Baghdad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1372" xmltv_id="Kalimat TV">Kalimat TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1373" xmltv_id="UTV Iraq">UTV Iraq</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1374" xmltv_id="Hawa Baghdad">Hawa Baghdad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1375" xmltv_id="Baghdad TV">Baghdad TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1380" xmltv_id="Ava TV">Ava TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1381" xmltv_id="Çira TV">Çira TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1382" xmltv_id="Jin TV HD">Jin TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1383" xmltv_id="Stêrk TV HD">Stêrk TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1384" xmltv_id="Türkmeneli TV HD">Türkmeneli TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1385" xmltv_id="Waar HD">Waar HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1386" xmltv_id="Sahar Kurdi">Sahar Kurdi</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1395" xmltv_id="Télé Tchad">Télé Tchad</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1511" xmltv_id="OSN TV">OSN TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1512" xmltv_id="iKA TV">iKA TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1520" xmltv_id="Al Eshraq TV">Al Eshraq TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1521" xmltv_id="Altaleaa TV">Altaleaa TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1523" xmltv_id="Adala TV HD">Adala TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1527" xmltv_id="Al Etejah HD">Al Etejah HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1528" xmltv_id="Al Haqiqa">Al Haqiqa</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1529" xmltv_id="Al Hawyah">Al Hawyah</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1530" xmltv_id="Al Ittihad TV">Al Ittihad TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1532" xmltv_id="MTA 3">MTA 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1538" xmltv_id="Al Ons TV">Al Ons TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1539" xmltv_id="Al Qanat 9">Al Qanat 9</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1541" xmltv_id="Al Sahraa TV">Al Sahraa TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1544" xmltv_id="Al Tanasuh TV">Al Tanasuh TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1545" xmltv_id="Al Waqie">Al Waqie</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1546" xmltv_id="Al Wousta TV HD">Al Wousta TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1547" xmltv_id="Alahad TV HD">Alahad TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1551" xmltv_id="Alerth Alnabawi">Alerth Alnabawi</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1556" xmltv_id="Allahdhah TV">Allahdhah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1558" xmltv_id="Almustakillah TV">Almustakillah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1561" xmltv_id="Altaghier TV HD">Altaghier TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1566" xmltv_id="Azhari TV">Azhari TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1567" xmltv_id="Belqees TV">Belqees TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1568" xmltv_id="Bin Othaimeen">Bin Othaimeen</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1573" xmltv_id="Jannah TV">Jannah TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1574" xmltv_id="Libya Ly">Libya Ly</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1575" xmltv_id="Libya Future TV HD">Libya Future TV HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1579" xmltv_id="Nabaa TV">Nabaa TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1580" xmltv_id="Oyoun Al Watan TV">Oyoun Al Watan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1582" xmltv_id="Salam HD">Salam HD</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1586" xmltv_id="Watan TV">Watan TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1587" xmltv_id="Aryen TV">Aryen TV</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1604" xmltv_id="Jordan sama">Jordan sama</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##1607" xmltv_id="Manu Chat">Manu Chat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2000" xmltv_id="Sat.tv">Sat.tv</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2002" xmltv_id="CHAINE 1">CHAINE 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2003" xmltv_id="Al Arabiya FM">Al Arabiya FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2004" xmltv_id="OFM">OFM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2005" xmltv_id="Qatar Radio">Qatar Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2006" xmltv_id="Qatar QBS Radio">Qatar QBS Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2007" xmltv_id="Sharjah Radio">Sharjah Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2010" xmltv_id="Radio Sawt El Shaab">Radio Sawt El Shaab</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2011" xmltv_id="Al Bachaeer Radio">Al Bachaeer Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2012" xmltv_id="Kuwait Radio 1">Kuwait Radio 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2013" xmltv_id="Kuwait Radio 2">Kuwait Radio 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2014" xmltv_id="Emarat FM">Emarat FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2016" xmltv_id="Hayat FM">Hayat FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2017" xmltv_id="Riyadh FM Split">Riyadh FM Split</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2018" xmltv_id="Loud FM">Loud FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2020" xmltv_id="Al Amal">Al Amal</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2021" xmltv_id="Mega FM">Mega FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2022" xmltv_id="Radio Jeunesse">Radio Jeunesse</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2023" xmltv_id="Saudi Radio 1">Saudi Radio 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2024" xmltv_id="Saudi Radio 2">Saudi Radio 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2025" xmltv_id="Al Menia">Al Menia</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2026" xmltv_id="Yemen Radio">Yemen Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2027" xmltv_id="Sout AL Arab">Sout AL Arab</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2028" xmltv_id="AL Sharg Al Awsat">AL Sharg Al Awsat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2029" xmltv_id="AL Kahera Al Kobra">AL Kahera Al Kobra</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2030" xmltv_id="Al Shabab W Al Reyadah">Al Shabab W Al Reyadah</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2031" xmltv_id="Educational Channel">Educational Channel</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2032" xmltv_id="Wadi Al-Neil &amp; Palestine">Wadi Al-Neil &amp; Palestine</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2033" xmltv_id="Matrouh">Matrouh</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2034" xmltv_id="North Sinai">North Sinai</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2035" xmltv_id="South Sinai">South Sinai</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2036" xmltv_id="Palestine Radio">Palestine Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2038" xmltv_id="DRN Radio">DRN Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2040" xmltv_id="Jordan Radio">Jordan Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2041" xmltv_id="Oman General Radio">Oman General Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2042" xmltv_id="Oman Shabab Radio">Oman Shabab Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2044" xmltv_id="Riyad Radio">Riyad Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2045" xmltv_id="Jedda Radio">Jedda Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2046" xmltv_id="Fujairah FM">Fujairah FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2047" xmltv_id="European Radio">European Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2048" xmltv_id="CHAINE 2">CHAINE 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2049" xmltv_id="CHAINE 3">CHAINE 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2050" xmltv_id="Medi1Radio Afrique">Medi1Radio Afrique</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2051" xmltv_id="Hola Qatar">Hola Qatar</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2052" xmltv_id="Kadak">Kadak</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2053" xmltv_id="Radio Internationale">Radio Internationale</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2054" xmltv_id="Al Bernameg Al Aam">Al Bernameg Al Aam</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2056" xmltv_id="Sawt Al-alam">Sawt Al-alam</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2057" xmltv_id="Qatar Urdu Radio">Qatar Urdu Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2058" xmltv_id="Al Bernameg Al Oropi">Al Bernameg Al Oropi</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2059" xmltv_id="Pulse95 SHJ">Pulse95 SHJ</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2060" xmltv_id="VOA IRAQ">VOA IRAQ</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2061" xmltv_id="BBC E">BBC E</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2062" xmltv_id="BBC Horn of Africa">BBC Horn of Africa</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2064" xmltv_id="Rotana FM KSA">Rotana FM KSA</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2065" xmltv_id="Qatar Oryx Radio">Qatar Oryx Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2066" xmltv_id="AL RASHEED RADIO">AL RASHEED RADIO</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2067" xmltv_id="Khozama Radio">Khozama Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2070" xmltv_id="Ekhbaria">Ekhbaria</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2071" xmltv_id="Radio Masr">Radio Masr</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2072" xmltv_id="Radio Culture">Radio Culture</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2073" xmltv_id="Maspero FM &amp; Thakafy">Maspero FM &amp; Thakafy</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2078" xmltv_id="Voice Of Palestine">Voice Of Palestine</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2079" xmltv_id="Radio 21 September">Radio 21 September</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2090" xmltv_id="MBC FM">MBC FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2091" xmltv_id="Kuwait FM">Kuwait FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2092" xmltv_id="Rotana Tarab Jordan">Rotana Tarab Jordan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2093" xmltv_id="Zamen FM">Zamen FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2095" xmltv_id="Rotana Radio Jordan">Rotana Radio Jordan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2096" xmltv_id="Radio Fann Jordan">Radio Fann Jordan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2097" xmltv_id="Radio Hits">Radio Hits</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2098" xmltv_id="Nagham FM">Nagham FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2099" xmltv_id="Sha3by FM">Sha3by FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2100" xmltv_id="Sout Al Rayyan">Sout Al Rayyan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2101" xmltv_id="WATAR SHJ">WATAR SHJ</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2102" xmltv_id="Sumer FM">Sumer FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2103" xmltv_id="AL-Bernameg AL-moussekey">AL-Bernameg AL-moussekey</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2104" xmltv_id="Al Aghani">Al Aghani</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2105" xmltv_id="Radio 9090">Radio 9090</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2106" xmltv_id="Bakous Alexandaria">Bakous Alexandaria</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2107" xmltv_id="Aswan">Aswan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2108" xmltv_id="ALWadi ALGaded">ALWadi ALGaded</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2109" xmltv_id="Kuwait Classical">Kuwait Classical</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2110" xmltv_id="Kuwait Shaabyia">Kuwait Shaabyia</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2111" xmltv_id="Sout Alkhaleej 2">Sout Alkhaleej 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2112" xmltv_id="Sout Alkhaleej 3">Sout Alkhaleej 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2113" xmltv_id="Sout Alkhaleej 4">Sout Alkhaleej 4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2114" xmltv_id="Nogoum FM">Nogoum FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2115" xmltv_id="Sout Alkhaleej Europe">Sout Alkhaleej Europe</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2116" xmltv_id="Calssic">Calssic</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2118" xmltv_id="Oman Classic Radio">Oman Classic Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2119" xmltv_id="Ifrikya FM">Ifrikya FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2120" xmltv_id="Kuwait Easy">Kuwait Easy</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2121" xmltv_id="Sawtoman Radio">Sawtoman Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2122" xmltv_id="Nile FM">Nile FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2123" xmltv_id="Radio 1">Radio 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2124" xmltv_id="Radio 2">Radio 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2125" xmltv_id="Kuwait Super">Kuwait Super</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2126" xmltv_id="TCHAD Radio">TCHAD Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2150" xmltv_id="Kuwait Holy Quran">Kuwait Holy Quran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2151" xmltv_id="Houna alazm">Houna alazm</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2152" xmltv_id="Zayed Quran">Zayed Quran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2153" xmltv_id="Holly Quran">Holly Quran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2154" xmltv_id="Al Quran Al Karem">Al Quran Al Karem</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2155" xmltv_id="Radio Coran">Radio Coran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2156" xmltv_id="Quran Kareem Jordan">Quran Kareem Jordan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2157" xmltv_id="Nedaa El Islam">Nedaa El Islam</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2158" xmltv_id="Radio Talavat">Radio Talavat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2159" xmltv_id="Imam Ali Radio">Imam Ali Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2160" xmltv_id="Quran Kareem">Quran Kareem</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2161" xmltv_id="Oman HolyQuran Radio">Oman HolyQuran Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2162" xmltv_id="Al Kafeel">Al Kafeel</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2163" xmltv_id="Qatar R Quran">Qatar R Quran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2165" xmltv_id="Sharjah Quran">Sharjah Quran</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2166" xmltv_id="Qatar R Quran 2">Qatar R Quran 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2167" xmltv_id="Sout Al Islam Doha">Sout Al Islam Doha</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2168" xmltv_id="Palestine Quraan">Palestine Quraan</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2169" xmltv_id="Palestine Quran 2">Palestine Quran 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2170" xmltv_id="Nablus Radio">Nablus Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2171" xmltv_id="Athan Tulkarem">Athan Tulkarem</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2172" xmltv_id="Al Kawther">Al Kawther</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2174" xmltv_id="TWR ARABIC">TWR ARABIC</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2175" xmltv_id="PraiseLive Global">PraiseLive Global</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2177" xmltv_id="Better Life Radio">Better Life Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2190" xmltv_id="Radio Salam">Radio Salam</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2191" xmltv_id="Mowagahat-1">Mowagahat-1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2192" xmltv_id="RDK">RDK</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2193" xmltv_id="Mowajahat">Mowajahat</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2194" xmltv_id="French">French</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2195" xmltv_id="Pishto">Pishto</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2196" xmltv_id="Bengali">Bengali</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2197" xmltv_id="Mowagahat-2">Mowagahat-2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2198" xmltv_id="Canal Radio">Canal Radio</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2199" xmltv_id="Rojava FM">Rojava FM</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2200" xmltv_id="Mowagahat-8">Mowagahat-8</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2203" xmltv_id="ADM R3">ADM R3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2204" xmltv_id="ADM R4">ADM R4</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2206" xmltv_id="DW A2">DW A2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2207" xmltv_id="DW05">DW05</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2208" xmltv_id="ERI Radio 1">ERI Radio 1</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2209" xmltv_id="ERI Radio 2">ERI Radio 2</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2210" xmltv_id="ERI Radio 3">ERI Radio 3</channel>
+    <channel update="i" site="sat.tv" site_id="71##1##2211" xmltv_id="ERI Radio 4">ERI Radio 4</channel>
+  </channels>
+</site>
