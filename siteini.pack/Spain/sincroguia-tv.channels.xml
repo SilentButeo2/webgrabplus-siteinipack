@@ -1,165 +1,196 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="sincroguia.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.4.0.0 -- Jan van Straaten" site="sincroguia-tv">
   <channels>
-    <channel update="i" site="sincroguia-tv" site_id="la-1" xmltv_id="La 1">La 1</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-2" xmltv_id="La 2">La 2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cuatro" xmltv_id="Cuatro">Cuatro</channel>
-    <channel update="i" site="sincroguia-tv" site_id="telecinco" xmltv_id="Telecinco">Telecinco</channel>
-    <channel update="i" site="sincroguia-tv" site_id="lasexta" xmltv_id="laSexta">laSexta</channel>
-    <channel update="i" site="sincroguia-tv" site_id="teledeporte" xmltv_id="Teledeporte">Teledeporte</channel>
-    <channel update="i" site="sincroguia-tv" site_id="clan-tve" xmltv_id="Clan TVE">Clan TVE</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-24-horas" xmltv_id="Canal 24 horas">Canal 24 horas</channel>
-    <channel update="i" site="sincroguia-tv" site_id="nova" xmltv_id="Nova">Nova</channel>
-    <channel update="i" site="sincroguia-tv" site_id="neox" xmltv_id="Neox">Neox</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mega" xmltv_id="Mega">Mega</channel>
-    <channel update="i" site="sincroguia-tv" site_id="fdf-telecinco" xmltv_id="FDF Telecinco">FDF Telecinco</channel>
-    <channel update="i" site="sincroguia-tv" site_id="energy" xmltv_id="Energy">Energy</channel>
-    <channel update="i" site="sincroguia-tv" site_id="divinity" xmltv_id="Divinity">Divinity</channel>
-    <channel update="i" site="sincroguia-tv" site_id="boing" xmltv_id="Boing">Boing</channel>
-    <channel update="i" site="sincroguia-tv" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="sincroguia-tv" site_id="el-toro-tv" xmltv_id="El Toro TV">El Toro TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
-    <channel update="i" site="sincroguia-tv" site_id="trece" xmltv_id="TRECE">TRECE</channel>
-    <channel update="i" site="sincroguia-tv" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-1-madrid" xmltv_id="La 1 Madrid">La 1 Madrid</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-2-madrid" xmltv_id="La 2 Madrid">La 2 Madrid</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-1-catalunya" xmltv_id="La 1 Catalunya">La 1 Catalunya</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-2-catalunya" xmltv_id="La 2 Catalunya">La 2 Catalunya</channel>
-    <channel update="i" site="sincroguia-tv" site_id="telemadrid" xmltv_id="Telemadrid">Telemadrid</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-otra" xmltv_id="La Otra">La Otra</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tv3" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="sincroguia-tv" site_id="sx3-33" xmltv_id="SX3-33">SX3-33</channel>
-    <channel update="i" site="sincroguia-tv" site_id="3-24" xmltv_id="3/24">3/24</channel>
-    <channel update="i" site="sincroguia-tv" site_id="esport-3" xmltv_id="Esport 3">Esport 3</channel>
-    <channel update="i" site="sincroguia-tv" site_id="8tv" xmltv_id="8tv">8tv</channel>
-    <channel update="i" site="sincroguia-tv" site_id="ib3" xmltv_id="IB3">IB3</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-sur" xmltv_id="Canal Sur">Canal Sur</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-sur-2" xmltv_id="Canal Sur 2">Canal Sur 2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tvg" xmltv_id="TVG">TVG</channel>
-    <channel update="i" site="sincroguia-tv" site_id="etb-1" xmltv_id="ETB 1">ETB 1</channel>
-    <channel update="i" site="sincroguia-tv" site_id="etb-2" xmltv_id="ETB 2">ETB 2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="etb-3" xmltv_id="ETB 3">ETB 3</channel>
-    <channel update="i" site="sincroguia-tv" site_id="televisioncanaria" xmltv_id="TelevisiónCanaria">TelevisiónCanaria</channel>
-    <channel update="i" site="sincroguia-tv" site_id="castilla-la-mancha-media" xmltv_id="Castilla-La Mancha Media">Castilla-La Mancha Media</channel>
-    <channel update="i" site="sincroguia-tv" site_id="aragon-television" xmltv_id="Aragón Televisión">Aragón Televisión</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tpa" xmltv_id="TPA">TPA</channel>
-    <channel update="i" site="sincroguia-tv" site_id="7-region-de-murcia" xmltv_id="7 Región de Murcia">7 Región de Murcia</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-extremadura-tv" xmltv_id="Canal Extremadura TV">Canal Extremadura TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-7" xmltv_id="La 7">La 7</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-8" xmltv_id="La 8">La 8</channel>
-    <channel update="i" site="sincroguia-tv" site_id="navarra-television" xmltv_id="Navarra Televisión">Navarra Televisión</channel>
-    <channel update="i" site="sincroguia-tv" site_id="a-punt" xmltv_id="À Punt">À Punt</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tvg2" xmltv_id="tvG2">tvG2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="be-mad" xmltv_id="Be Mad">Be Mad</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tmv-valencia" xmltv_id="TMV Valencia">TMV Valencia</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-7-televalencia" xmltv_id="Canal 7 Televalencia">Canal 7 Televalencia</channel>
-    <channel update="i" site="sincroguia-tv" site_id="onda-algeciras-tv" xmltv_id="Onda Algeciras TV">Onda Algeciras TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-estrenos" xmltv_id="Movistar Estrenos">Movistar Estrenos</channel>
-    <channel update="i" site="sincroguia-tv" site_id="m-drama" xmltv_id="M. Drama">M. Drama</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-comedia" xmltv_id="Movistar Comedia">Movistar Comedia</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-accion" xmltv_id="Movistar Acción">Movistar Acción</channel>
-    <channel update="i" site="sincroguia-tv" site_id="amc" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tcm" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="sincroguia-tv" site_id="hollywood" xmltv_id="Hollywood">Hollywood</channel>
-    <channel update="i" site="sincroguia-tv" site_id="extreme-teuve" xmltv_id="Extreme Teuve">Extreme Teuve</channel>
-    <channel update="i" site="sincroguia-tv" site_id="somos" xmltv_id="Somos">Somos</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-cine-espanol" xmltv_id="Movistar Cine Español">Movistar Cine Español</channel>
-    <channel update="i" site="sincroguia-tv" site_id="sundance-tv" xmltv_id="Sundance TV">Sundance TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="0" xmltv_id="#0">#0</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-series-2" xmltv_id="Movistar Series 2">Movistar Series 2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-series" xmltv_id="Movistar Series">Movistar Series</channel>
-    <channel update="i" site="sincroguia-tv" site_id="fox" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="sincroguia-tv" site_id="axn" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="sincroguia-tv" site_id="comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
-    <channel update="i" site="sincroguia-tv" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tnt" xmltv_id="TNT">TNT</channel>
-    <channel update="i" site="sincroguia-tv" site_id="calle-13" xmltv_id="Calle 13">Calle 13</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-clasicos" xmltv_id="Movistar Clásicos">Movistar Clásicos</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cosmo" xmltv_id="COSMO">COSMO</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-cocina" xmltv_id="Canal Cocina">Canal Cocina</channel>
-    <channel update="i" site="sincroguia-tv" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
-    <channel update="i" site="sincroguia-tv" site_id="decasa" xmltv_id="Decasa">Decasa</channel>
-    <channel update="i" site="sincroguia-tv" site_id="dark" xmltv_id="Dark">Dark</channel>
-    <channel update="i" site="sincroguia-tv" site_id="crimen-investigacion" xmltv_id="Crimen &amp; Investigación">Crimen &amp; Investigación</channel>
-    <channel update="i" site="sincroguia-tv" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="sincroguia-tv" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="baraa-tv" xmltv_id="Barça TV">Barça TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="baraa-tv-cataluna" xmltv_id="Barça TV Cataluña">Barça TV Cataluña</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-liga-de-campeones" xmltv_id="Movistar Liga de Campeones">Movistar Liga de Campeones</channel>
-    <channel update="i" site="sincroguia-tv" site_id="real-madrid-tv" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-deportes-1" xmltv_id="Movistar Deportes 1">Movistar Deportes 1</channel>
-    <channel update="i" site="sincroguia-tv" site_id="vamos" xmltv_id="#Vamos">#Vamos</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-golf" xmltv_id="Movistar Golf">Movistar Golf</channel>
-    <channel update="i" site="sincroguia-tv" site_id="toros-tv" xmltv_id="Toros TV">Toros TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="dazn-f1" xmltv_id="DAZN F1">DAZN F1</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-estrenos-2" xmltv_id="Movistar Estrenos 2">Movistar Estrenos 2</channel>
-    <channel update="i" site="sincroguia-tv" site_id="el-garage-tv" xmltv_id="El Garage TV">El Garage TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="odisea" xmltv_id="Odisea">Odisea</channel>
-    <channel update="i" site="sincroguia-tv" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-historia" xmltv_id="Canal HISTORIA">Canal HISTORIA</channel>
-    <channel update="i" site="sincroguia-tv" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-fest" xmltv_id="Movistar Fest">Movistar Fest</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cazavision" xmltv_id="Cazavisión">Cazavisión</channel>
-    <channel update="i" site="sincroguia-tv" site_id="caza-y-pesca" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
-    <channel update="i" site="sincroguia-tv" site_id="national-geographic-wild-hd" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
-    <channel update="i" site="sincroguia-tv" site_id="blaze" xmltv_id="BLAZE">BLAZE</channel>
-    <channel update="i" site="sincroguia-tv" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="sincroguia-tv" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="sincroguia-tv" site_id="babytv" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="nick-junior" xmltv_id="Nick Junior">Nick Junior</channel>
-    <channel update="i" site="sincroguia-tv" site_id="enfamilia" xmltv_id="EnFamilia">EnFamilia</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mtv-espana" xmltv_id="MTV España">MTV España</channel>
-    <channel update="i" site="sincroguia-tv" site_id="vh1" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="sincroguia-tv" site_id="sol-musica" xmltv_id="Sol Música">Sol Música</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="sincroguia-tv" site_id="club-mtv-international" xmltv_id="Club MTV International">Club MTV International</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mezzo-espanol" xmltv_id="Mezzo Español">Mezzo Español</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mtv-live" xmltv_id="MTV Live">MTV Live</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="sincroguia-tv" site_id="mezzo-live-hd-espanol" xmltv_id="Mezzo Live HD Español">Mezzo Live HD Español</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tv3cat" xmltv_id="TV3CAT">TV3CAT</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-sur-andalucia" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tvg-europa" xmltv_id="TVG Europa">TVG Europa</channel>
-    <channel update="i" site="sincroguia-tv" site_id="etb-sat" xmltv_id="ETB Sat">ETB Sat</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cnn-internacional" xmltv_id="CNN Internacional">CNN Internacional</channel>
-    <channel update="i" site="sincroguia-tv" site_id="bbc-world" xmltv_id="BBC World">BBC World</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cnbc-europe" xmltv_id="CNBC Europe">CNBC Europe</channel>
-    <channel update="i" site="sincroguia-tv" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="sincroguia-tv" site_id="al-jazeera-english" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
-    <channel update="i" site="sincroguia-tv" site_id="fox-news" xmltv_id="Fox News">Fox News</channel>
-    <channel update="i" site="sincroguia-tv" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="sincroguia-tv" site_id="ten" xmltv_id="TEN">TEN</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tv5-monde" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-de-las-estrellas-europa" xmltv_id="Canal de las Estrellas Europa">Canal de las Estrellas Europa</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cubavision-internacional" xmltv_id="Cubavisión Internacional">Cubavisión Internacional</channel>
-    <channel update="i" site="sincroguia-tv" site_id="nuestra-tele" xmltv_id="Nuestra Tele">Nuestra Tele</channel>
-    <channel update="i" site="sincroguia-tv" site_id="caracol-tv" xmltv_id="Caracol TV">Caracol TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="telefe-internacional" xmltv_id="Telefé Internacional">Telefé Internacional</channel>
-    <channel update="i" site="sincroguia-tv" site_id="telesur" xmltv_id="teleSUR">teleSUR</channel>
-    <channel update="i" site="sincroguia-tv" site_id="cgtn-espanol" xmltv_id="CGTN Español">CGTN Español</channel>
-    <channel update="i" site="sincroguia-tv" site_id="dkiss" xmltv_id="DKISS">DKISS</channel>
-    <channel update="i" site="sincroguia-tv" site_id="gol" xmltv_id="Gol">Gol</channel>
-    <channel update="i" site="sincroguia-tv" site_id="pro-tv-internacional" xmltv_id="Pro TV Internacional">Pro TV Internacional</channel>
-    <channel update="i" site="sincroguia-tv" site_id="france-24" xmltv_id="France 24">France 24</channel>
-    <channel update="i" site="sincroguia-tv" site_id="aragon-tv-int" xmltv_id="Aragón TV INT.">Aragón TV INT.</channel>
-    <channel update="i" site="sincroguia-tv" site_id="beteve" xmltv_id="betevé">betevé</channel>
-    <channel update="i" site="sincroguia-tv" site_id="andalucia-television" xmltv_id="Andalucía Televisión">Andalucía Televisión</channel>
-    <channel update="i" site="sincroguia-tv" site_id="atreseries" xmltv_id="Atreseries">Atreseries</channel>
-    <channel update="i" site="sincroguia-tv" site_id="canal-parlamento" xmltv_id="Canal Parlamento">Canal Parlamento</channel>
-    <channel update="i" site="sincroguia-tv" site_id="ewtn" xmltv_id="EWTN">EWTN</channel>
-    <channel update="i" site="sincroguia-tv" site_id="iberalia" xmltv_id="Iberalia">Iberalia</channel>
-    <channel update="i" site="sincroguia-tv" site_id="playboy-tv" xmltv_id="Playboy TV">Playboy TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="etb-4" xmltv_id="ETB 4">ETB 4</channel>
-    <channel update="i" site="sincroguia-tv" site_id="upv-tv" xmltv_id="UPV TV">UPV TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="la-ocho-mediterraneo" xmltv_id="La Ocho mediterráneo">La Ocho mediterráneo</channel>
-    <channel update="i" site="sincroguia-tv" site_id="movistar-laliga" xmltv_id="Movistar LaLiga">Movistar LaLiga</channel>
-    <channel update="i" site="sincroguia-tv" site_id="tele-elx" xmltv_id="Tele Elx">Tele Elx</channel>
-    <channel update="i" site="sincroguia-tv" site_id="informacion-tv" xmltv_id="Información TV">Información TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="levante-tv" xmltv_id="Levante TV">Levante TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="8madrid-tv" xmltv_id="8Madrid TV">8Madrid TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="escapa-tv" xmltv_id="Escapa TV">Escapa TV</channel>
-    <channel update="i" site="sincroguia-tv" site_id="bom-cine" xmltv_id="BOM Cine">BOM Cine</channel>
+    <channel update="i" site="sincroguia-tv" site_id="3##l/a/1/xla1.jpg.pagespeed.ic.Bc2wc9wgMi.jpg" xmltv_id="La 1">La 1</channel>
+    <channel update="i" site="sincroguia-tv" site_id="4##l/a/2/xla2.jpg.pagespeed.ic.et9HiUrHjQ.jpg" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="2##a/n/t/xantena-3.jpg.pagespeed.ic.eOJ_tE-RUv.jpg" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="496##c/u/a/xcuatro.jpg.pagespeed.ic.kZ2-FSHeBu.jpg" xmltv_id="Cuatro">Cuatro</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1##m/g/r/xtelecinco.jpg.pagespeed.ic.kdjra0JEo_.jpg" xmltv_id="Telecinco">Telecinco</channel>
+    <channel update="i" site="sincroguia-tv" site_id="510##c/0/k/xlasexta.jpg.pagespeed.ic.-w7zHD97Og.jpg" xmltv_id="laSexta">laSexta</channel>
+    <channel update="i" site="sincroguia-tv" site_id="883##v/5/n/xatresseries.jpg.pagespeed.ic.pf6ilnHj9C.jpg" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="sincroguia-tv" site_id="841##m/e/g/xmega.jpg.pagespeed.ic.9vTaa2QUct.jpg" xmltv_id="Mega">Mega</channel>
+    <channel update="i" site="sincroguia-tv" site_id="508##n/e/o/xneox.jpg.pagespeed.ic.KliYXkzjPm.jpg" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="sincroguia-tv" site_id="509##n/o/v/xnova.jpg.pagespeed.ic.Oux3G-Z0h-.jpg" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="sincroguia-tv" site_id="709##e/n/e/xenergy.jpg.pagespeed.ic.eeJMZlylzp.jpg" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="sincroguia-tv" site_id="506##f/d/f/xfdf.jpg.pagespeed.ic.SDkOkafnDv.jpg" xmltv_id="FDF Telecinco">FDF Telecinco</channel>
+    <channel update="i" site="sincroguia-tv" site_id="890##b/e/-/xbe-mad.jpg.pagespeed.ic.fRhUJj-sN4.jpg" xmltv_id="Be Mad">Be Mad</channel>
+    <channel update="i" site="sincroguia-tv" site_id="697##d/i/v/xdivinity.jpg.pagespeed.ic.8uaoka9PQp.jpg" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="sincroguia-tv" site_id="665##b/o/i/xboing.jpg.pagespeed.ic.3JxHFW6VNu.jpg" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="sincroguia-tv" site_id="8##2/4/h/x24h.jpg.pagespeed.ic.FG5hR62-Z1.jpg" xmltv_id="Canal 24 horas">Canal 24 horas</channel>
+    <channel update="i" site="sincroguia-tv" site_id="505##c/l/a/xclan.jpg.pagespeed.ic.C4PFDEH_0h.jpg" xmltv_id="Clan TVE">Clan TVE</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9##t/e/l/xteledeporte.jpg.pagespeed.ic.sxWZEXkQag.jpg" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="sincroguia-tv" site_id="892##d/k/i/xdkiss.jpg.pagespeed.ic.1OR9Ew1fdZ.jpg" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="sincroguia-tv" site_id="475##d/m/a/xdmax.jpg.pagespeed.ic.Q0X0foMVzO.jpg" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="sincroguia-tv" site_id="889##t/e/n/xten.jpg.pagespeed.ic.aulrBJGMCg.jpg" xmltv_id="TEN">TEN</channel>
+    <channel update="i" site="sincroguia-tv" site_id="716##p/a/r/xparamount-channel.jpg.pagespeed.ic.BFvVxKouLU.jpg" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="sincroguia-tv" site_id="897##1/b/q/xgol-play.jpg.pagespeed.ic._Ubw0eZ5q-.jpg" xmltv_id="GOL PLAY">GOL PLAY</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9447##l/s/y/xsquirrel.jpg.pagespeed.ic.6oX4Qxwv6_.jpg" xmltv_id="Squirrel">Squirrel</channel>
+    <channel update="i" site="sincroguia-tv" site_id="689##t/r/e/xtrece.jpg.pagespeed.ic.Q8aTVqany4.jpg" xmltv_id="TRECE">TRECE</channel>
+    <channel update="i" site="sincroguia-tv" site_id="158##r/e/a/xrealmadrid-tv.jpg.pagespeed.ic.JY796-0k76.jpg" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="18##l/a/1/la1-2.jpg" xmltv_id="La 1 Catalunya">La 1 Catalunya</channel>
+    <channel update="i" site="sincroguia-tv" site_id="14##6/x/f/tvecanarias-1-y-2.jpg" xmltv_id="La 1 Canarias">La 1 Canarias</channel>
+    <channel update="i" site="sincroguia-tv" site_id="280##l/a/2/la2-2.jpg" xmltv_id="La 2 Catalunya">La 2 Catalunya</channel>
+    <channel update="i" site="sincroguia-tv" site_id="288##y/x/r/tvecanarias-1-y-2.jpg" xmltv_id="La 2 Canarias">La 2 Canarias</channel>
+    <channel update="i" site="sincroguia-tv" site_id="635##x/o/v/24h-cat.jpg" xmltv_id="Canal 24 horas Cataluña">Canal 24 horas Cataluña</channel>
+    <channel update="i" site="sincroguia-tv" site_id="38##t/e/l/telemadrid.jpg" xmltv_id="Telemadrid">Telemadrid</channel>
+    <channel update="i" site="sincroguia-tv" site_id="39##l/a/o/xlaotra.jpg.pagespeed.ic.WQQeUXSDvb.jpg" xmltv_id="La Otra">La Otra</channel>
+    <channel update="i" site="sincroguia-tv" site_id="43##t/v/3/tv3.jpg" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="541##s/u/p/super333.jpg" xmltv_id="SX3-33">SX3-33</channel>
+    <channel update="i" site="sincroguia-tv" site_id="449##3/2/4/324.jpg" xmltv_id="3/24">3/24</channel>
+    <channel update="i" site="sincroguia-tv" site_id="672##e/s/p/xesports3.jpg.pagespeed.ic.FsMiaBo7Aw.jpg" xmltv_id="Esport 3">Esport 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="33##e/t/b/etb1.jpg" xmltv_id="ETB 1">ETB 1</channel>
+    <channel update="i" site="sincroguia-tv" site_id="34##e/t/b/etb2.jpg" xmltv_id="ETB 2">ETB 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="795##e/t/b/etb3.jpg" xmltv_id="ETB 3">ETB 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="781##e/t/b/xetb4.jpg.pagespeed.ic.uvjnPLYZ4C.jpg" xmltv_id="ETB 4">ETB 4</channel>
+    <channel update="i" site="sincroguia-tv" site_id="30##c/a/n/xcanalsur.jpg.pagespeed.ic.SEnFsMsmHV.jpg" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="sincroguia-tv" site_id="831##a/n/d/xandalucia-television.jpg.pagespeed.ic.Gmkt5IWYLD.jpg" xmltv_id="Andalucía Televisión">Andalucía Televisión</channel>
+    <channel update="i" site="sincroguia-tv" site_id="41##t/e/l/television-canaria.jpg" xmltv_id="TelevisiónCanaria">TelevisiónCanaria</channel>
+    <channel update="i" site="sincroguia-tv" site_id="36##t/e/l/televison-de-galicia.jpg" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="sincroguia-tv" site_id="779##t/v/g/tvgalicia2.jpg" xmltv_id="tvG2">tvG2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="519##i/b/3/ib3.jpg" xmltv_id="IB3">IB3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="522##a/r/a/xaragontv.jpg.pagespeed.ic.uNie0aYbQk.jpg" xmltv_id="Aragón Televisión">Aragón Televisión</channel>
+    <channel update="i" site="sincroguia-tv" site_id="582##c/a/n/canal-extremadura.jpg" xmltv_id="Canal Extremadura TV">Canal Extremadura TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="296##c/m/m/cmmtv.jpg" xmltv_id="Castilla-La Mancha Media">Castilla-La Mancha Media</channel>
+    <channel update="i" site="sincroguia-tv" site_id="551##i/s/c/la-7.jpg" xmltv_id="7 Región de Murcia">7 Región de Murcia</channel>
+    <channel update="i" site="sincroguia-tv" site_id="754##w/y/a/xpopulat-tv-region-murcia.jpg.pagespeed.ic.4cDkIqh8pr.jpg" xmltv_id="Popular TV Región de Murcia">Popular TV Región de Murcia</channel>
+    <channel update="i" site="sincroguia-tv" site_id="997##a/-/p/a-punt.jpg" xmltv_id="À Punt">À Punt</channel>
+    <channel update="i" site="sincroguia-tv" site_id="832##" xmltv_id="La Ocho mediterráneo">La Ocho mediterráneo</channel>
+    <channel update="i" site="sincroguia-tv" site_id="324##c/y/l/xcyltv.jpg.pagespeed.ic.oTMKrDC3Ag.jpg" xmltv_id="La 7">La 7</channel>
+    <channel update="i" site="sincroguia-tv" site_id="643##l/a/8/xla8.jpg.pagespeed.ic.FBsBUfrkQm.jpg" xmltv_id="La 8">La 8</channel>
+    <channel update="i" site="sincroguia-tv" site_id="521##t/p/a/xtpa.jpg.pagespeed.ic.1axGPShBSg.jpg" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="sincroguia-tv" site_id="771##n/a/v/navara-television.jpg" xmltv_id="Navarra Televisión">Navarra Televisión</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1167##r/5/e/xla-7.jpg.pagespeed.ic.3RarWccZfj.jpg" xmltv_id="La 7 Rioja">La 7 Rioja</channel>
+    <channel update="i" site="sincroguia-tv" site_id="202##f/o/x/fox.jpg" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="sincroguia-tv" site_id="63##a/x/n/axn.jpg" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="sincroguia-tv" site_id="512##6/m/y/axn.jpg" xmltv_id="AXN Movies">AXN Movies</channel>
+    <channel update="i" site="sincroguia-tv" site_id="64##c/a/l/cale13.jpg" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="sincroguia-tv" site_id="520##s/y/f/syfy.jpg" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="sincroguia-tv" site_id="59##t/c/m/xtcm.jpg.pagespeed.ic.Hca8DWbbaF.jpg" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="sincroguia-tv" site_id="577##t/n/t/tnt.jpg" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="493##c/e/n/central-comedy.jpg" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="sincroguia-tv" site_id="186##m/s/8/cosmo1.jpg" xmltv_id="COSMO">COSMO</channel>
+    <channel update="i" site="sincroguia-tv" site_id="61##c/a/n/canal-hollywood.jpg" xmltv_id="Hollywood">Hollywood</channel>
+    <channel update="i" site="sincroguia-tv" site_id="481##a/m/c/amc.jpg" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="sincroguia-tv" site_id="699##s/u/n/sundancetv.jpg" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="68##x/t/r/xxtrm.jpg.pagespeed.ic.RsdexTm9cr.jpg" xmltv_id="XTRM">XTRM</channel>
+    <channel update="i" site="sincroguia-tv" site_id="501##s/o/m/xsomos.jpg.pagespeed.ic.3yK3UhtxWZ.jpg" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9393##m/f/w/sky-showtime.jpg" xmltv_id="SkyShowtime">SkyShowtime</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9431##h/0/o/max-avances.jpg" xmltv_id="HBO Max Avances">HBO Max Avances</channel>
+    <channel update="i" site="sincroguia-tv" site_id="920##d/a/r/dark.jpg" xmltv_id="Dark">Dark</channel>
+    <channel update="i" site="sincroguia-tv" site_id="688##w/t/u/xdark-dorcel.jpg.pagespeed.ic.oH5qwGz1RS.jpg" xmltv_id="Dark/Dorcel">Dark/Dorcel</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9369##x/i/h/originales-por-m.jpg" xmltv_id="Originales por M+">Originales por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9370##n/b/f/cinepormovistar.jpg" xmltv_id="Estrenos por M+">Estrenos por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9450##f/8/d/hits.jpg" xmltv_id="Hits Por M+">Hits Por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="847##m/o/v/movistar-accion.jpg" xmltv_id="Acción por M+">Acción por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="385##m/o/v/movistar-cine-espanol.jpg" xmltv_id="Cine Español por M+">Cine Español por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1231##x/7/d/movistar-clasicos.jpg" xmltv_id="Clásicos por M+">Clásicos por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="848##m/o/v/movistar-comedia.jpg" xmltv_id="Comedia por M+">Comedia por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="849##m/o/v/movistar-drama.jpg" xmltv_id="Drama por M+">Drama por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9375##z/8/9/indie-por-m.jpg" xmltv_id="Indie por M+">Indie por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1082##t/x/1/movistar-la-liga.jpg" xmltv_id="M+ LALIGA TV">M+ LALIGA TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1085##" xmltv_id="M+ LALIGA TV 2">M+ LALIGA TV 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1086##" xmltv_id="M+ LALIGA TV 3">M+ LALIGA TV 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1087##4/d/1/laligatv4.jpg" xmltv_id="M+ LALIGA TV 4">M+ LALIGA TV 4</channel>
+    <channel update="i" site="sincroguia-tv" site_id="896##5/k/r/laliga-tv.jpg" xmltv_id="LaLiga TV">LaLiga TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="901##r/8/d/la-liga-tv-br2.jpg" xmltv_id="LALIGA TV BAR 2">LALIGA TV BAR 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="903##8/a/f/laligatvbar.jpg" xmltv_id="LALIGA TV BAR 3">LALIGA TV BAR 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="904##" xmltv_id="LLALIGA TV BAR 4">LLALIGA TV BAR 4</channel>
+    <channel update="i" site="sincroguia-tv" site_id="905##4/t/g/laligatvbar.jpg" xmltv_id="LALIGA TV BAR 5">LALIGA TV BAR 5</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9386##g/z/6/laliga.jpg" xmltv_id="LaLiga+">LaLiga+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1278##b/g/j/laliga-hypermotion.jpg" xmltv_id="LaLiga TV Hypermotion">LaLiga TV Hypermotion</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1280##s/l/f/laliga-hypermotion.jpg" xmltv_id="LaLiga TV Hypermotion 2">LaLiga TV Hypermotion 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1281##p/f/5/laliga-hypermotion.jpg" xmltv_id="LaLiga TV Hypermotion 3">LaLiga TV Hypermotion 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1015##m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.LoxEGegwWe.jpg" xmltv_id="Movistar Liga de Campeones">Movistar Liga de Campeones</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1019##p/4/u/liga-de-campeones2.jpg" xmltv_id="Movistar Liga de Campeones 2">Movistar Liga de Campeones 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1025##w/2/0/liga-de-campeones3.jpg" xmltv_id="Movistar Liga de Campeones 3">Movistar Liga de Campeones 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1026##p/o/u/liga-de-campeones4.jpg" xmltv_id="Movistar Liga de Campeones 4">Movistar Liga de Campeones 4</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1274##4/w/a/dazn-laliga.jpg" xmltv_id="DAZN LaLiga">DAZN LaLiga</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1273##l/g/1/daznlaliga2.jpg" xmltv_id="DAZN LaLiga 2">DAZN LaLiga 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1161##e/q/k/dazn1.jpg" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1162##g/8/t/dazn2.jpg" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1168##7/9/t/dazn3.jpg" xmltv_id="DAZN 3">DAZN 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1169##m/w/t/dazn4.jpg" xmltv_id="DAZN 4">DAZN 4</channel>
+    <channel update="i" site="sincroguia-tv" site_id="798##s/u/n/daznf1.jpg" xmltv_id="DAZN F1">DAZN F1</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1259##e/k/x/dazn1bar.jpg" xmltv_id="DAZN 1 Bar">DAZN 1 Bar</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1260##z/j/j/dazn2bar.jpg" xmltv_id="DAZN 2 Bar">DAZN 2 Bar</channel>
+    <channel update="i" site="sincroguia-tv" site_id="377##m/o/v/movistar-deportes1.jpg" xmltv_id="Movistar Deportes 1">Movistar Deportes 1</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1059##q/j/r/movistar-deportes-2.jpg" xmltv_id="Movistar Deportes 2">Movistar Deportes 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1060##j/5/i/movistar-deportes-3.jpg" xmltv_id="Movistar Deportes 3">Movistar Deportes 3</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9438##8/a/k/m-copa-del-rey.jpg" xmltv_id="M+ Copa del Rey">M+ Copa del Rey</channel>
+    <channel update="i" site="sincroguia-tv" site_id="333##m/o/v/movistar-golf.jpg" xmltv_id="Movistar Golf">Movistar Golf</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1332##n/1/s/golf2-por-m.jpg" xmltv_id="Movistar Golf 2">Movistar Golf 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1039##m/o/v/movistar-vamos.jpg" xmltv_id="#Vamos">#Vamos</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1263##d/t/1/ellas-v-por-m.jpg" xmltv_id="Ellas #V por M+">Ellas #V por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="154##e/u/r/eurosport1.jpg" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="sincroguia-tv" site_id="491##e/u/r/eurosports2.jpg" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="786##g/a/r/xgaragetv.jpg.pagespeed.ic.qE8Iiwddov.jpg" xmltv_id="El Garage TV">El Garage TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9372##r/s/9/documentalespormovistar.jpg" xmltv_id="Documentales por M+">Documentales por M+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="148##h/i/s/xhistoria.jpg.pagespeed.ic.B1mE7ORxJa.jpg" xmltv_id="Canal HISTORIA">Canal HISTORIA</channel>
+    <channel update="i" site="sincroguia-tv" site_id="146##p/w/3/discovery.jpg" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="sincroguia-tv" site_id="151##n/a/t/national-geographic.jpg" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="sincroguia-tv" site_id="681##" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1331##" xmltv_id="¡Buenviaje!">¡Buenviaje!</channel>
+    <channel update="i" site="sincroguia-tv" site_id="135##o/d/i/odisea.jpg" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="sincroguia-tv" site_id="492##a/e/j/ae.jpg" xmltv_id="AMC Break">AMC Break</channel>
+    <channel update="i" site="sincroguia-tv" site_id="691##c/r/i/crimeninvestigacion.jpg" xmltv_id="Crimen &amp; Investigación">Crimen &amp; Investigación</channel>
+    <channel update="i" site="sincroguia-tv" site_id="183##c/a/n/canal-cocina.jpg" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="sincroguia-tv" site_id="386##c/a/z/caza-pesca.jpg" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
+    <channel update="i" site="sincroguia-tv" site_id="572##d/c/a/dcasa.jpg" xmltv_id="Decasa">Decasa</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1044##g/h/2/xescapatv.jpg.pagespeed.ic.MQfhminn-k.jpg" xmltv_id="Escapa TV">Escapa TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="656##c/a/z/cazavision.jpg" xmltv_id="Cazavisión">Cazavisión</channel>
+    <channel update="i" site="sincroguia-tv" site_id="654##a/r/r/iberalia-go.jpg" xmltv_id="Iberalia">Iberalia</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9371##3/6/6/programacion-moviestar-plus.jpg" xmltv_id="Movistar Plus+">Movistar Plus+</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9387##q/q/0/movistar-plus-2.jpg" xmltv_id="Movistar Plus+ 2">Movistar Plus+ 2</channel>
+    <channel update="i" site="sincroguia-tv" site_id="159##m/t/v/mtv.jpg" xmltv_id="MTV España">MTV España</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1160##e/c/p/amc-selekt.jpg" xmltv_id="Amc Selekt">Amc Selekt</channel>
+    <channel update="i" site="sincroguia-tv" site_id="292##d/i/s/disney-jumior.jpg" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="sincroguia-tv" site_id="200##n/i/k/nikelodeon.jpg" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="sincroguia-tv" site_id="687##n/i/c/nickjr.jpg" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1159##q/t/w/dreamworks.jpg" xmltv_id="DreamWorks">DreamWorks</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9465##" xmltv_id="VinTV">VinTV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="573##b/a/b/babytv.jpg" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="469##x/7/b/xclub-mtv.jpg.pagespeed.ic.uxcQ2GeFXv.jpg" xmltv_id="Club MTV International">Club MTV International</channel>
+    <channel update="i" site="sincroguia-tv" site_id="705##5/4/z/xmtv-80.jpg.pagespeed.ic.crq1-abo6x.jpg" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="sincroguia-tv" site_id="160##j/h/q/xmtv-90.jpg.pagespeed.ic.ZAc8Z_JzMs.jpg" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="sincroguia-tv" site_id="165##v/h/1/vh1.jpg" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="sincroguia-tv" site_id="161##m/t/v/xmtv-hits.jpg.pagespeed.ic.oE7z0Jk8Bv.jpg" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="sincroguia-tv" site_id="702##m/t/v/mtv-live.jpg" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1122##h/e/g/mezzo.jpg" xmltv_id="Mezzo Español">Mezzo Español</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1123##p/z/w/mezzo-live.jpg" xmltv_id="Mezzo Live Español">Mezzo Live Español</channel>
+    <channel update="i" site="sincroguia-tv" site_id="40##l/3/j/telemadrid-int.jpg" xmltv_id="Telemadrid Internacional">Telemadrid Internacional</channel>
+    <channel update="i" site="sincroguia-tv" site_id="47##t/v/3/tv3-cat.jpg" xmltv_id="TV3CAT">TV3CAT</channel>
+    <channel update="i" site="sincroguia-tv" site_id="37##t/e/l/televison-de-galicia-1.jpg" xmltv_id="TVG Europa">TVG Europa</channel>
+    <channel update="i" site="sincroguia-tv" site_id="617##a/r/a/aragon-internacional.jpg" xmltv_id="Aragón TV INT.">Aragón TV INT.</channel>
+    <channel update="i" site="sincroguia-tv" site_id="851##a/z/3/canal-extremadura.jpg" xmltv_id="Canal Extremadura SAT">Canal Extremadura SAT</channel>
+    <channel update="i" site="sincroguia-tv" site_id="32##c/a/n/xcanal-sur-andalucia.jpg.pagespeed.ic._nrw2O5uwx.jpg" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel update="i" site="sincroguia-tv" site_id="35##e/t/b/etbsat.jpg" xmltv_id="EITB Basque">EITB Basque</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1100##2/j/c/ib3.jpg" xmltv_id="IB3 Global">IB3 Global</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9429##3/a/7/xcyltv-global.jpg.pagespeed.ic.Ujj9DmxDWF.jpg" xmltv_id="CyLTV Global">CyLTV Global</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9427##r/p/k/a-punt.jpg" xmltv_id="À Punt Internet">À Punt Internet</channel>
+    <channel update="i" site="sincroguia-tv" site_id="208##b/b/c/bbc.jpg" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="sincroguia-tv" site_id="203##c/n/n/cnn.jpg" xmltv_id="CNN Internacional">CNN Internacional</channel>
+    <channel update="i" site="sincroguia-tv" site_id="204##c/n/b/cnbc.jpg" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="sincroguia-tv" site_id="539##a/l/j/aljazeera.jpg" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="sincroguia-tv" site_id="547##j/u/o/france24.jpg" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="sincroguia-tv" site_id="209##y/o/g/tv5-mondu.jpg" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="sincroguia-tv" site_id="139##e/u/r/euronews.jpg" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="sincroguia-tv" site_id="196##b/l/o/bloomberg.jpg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="sincroguia-tv" site_id="589##l/a/s/xlas-estrellas.jpg.pagespeed.ic.Ts1S54E2vY.jpg" xmltv_id="Canal de las Estrellas Europa">Canal de las Estrellas Europa</channel>
+    <channel update="i" site="sincroguia-tv" site_id="614##t/e/l/telesur.jpg" xmltv_id="teleSUR">teleSUR</channel>
+    <channel update="i" site="sincroguia-tv" site_id="613##n/u/e/nuestra-tele.jpg" xmltv_id="Nuestra Tele">Nuestra Tele</channel>
+    <channel update="i" site="sincroguia-tv" site_id="567##c/u/b/xcubavision.jpg.pagespeed.ic.avtpcRawHS.jpg" xmltv_id="Cubavisión Internacional">Cubavisión Internacional</channel>
+    <channel update="i" site="sincroguia-tv" site_id="570##p/o/r/por-tv.jpg" xmltv_id="Pro TV Internacional">Pro TV Internacional</channel>
+    <channel update="i" site="sincroguia-tv" site_id="619##c/g/t/xcgtn-esp.jpg.pagespeed.ic.D2GFeLnjRX.jpg" xmltv_id="CGTN Español">CGTN Español</channel>
+    <channel update="i" site="sincroguia-tv" site_id="190##e/w/t/xewtn.jpg.pagespeed.ic._BzBilBpoo.jpg" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="sincroguia-tv" site_id="192##p/l/a/playboy.jpg" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="242##b/e/t/xbeteve.jpg.pagespeed.ic.Uvm95mlBgP.jpg" xmltv_id="betevé">betevé</channel>
+    <channel update="i" site="sincroguia-tv" site_id="1003##z/b/w/xbomcine.jpg.pagespeed.ic.q5Zmq2hpMP.jpg" xmltv_id="BOM Cine">BOM Cine</channel>
+    <channel update="i" site="sincroguia-tv" site_id="996##l/e/v/xlevante-tv.jpg.pagespeed.ic.Ozrm6oLMDm.jpg" xmltv_id="Levante TV">Levante TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="753##o/n/d/xonda-algeciras.jpg.pagespeed.ic.KPhvjJTQlG.jpg" xmltv_id="Onda Algeciras TV">Onda Algeciras TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="316##t/e/l/xteleelx.jpg.pagespeed.ic.AEI57qU8wk.jpg" xmltv_id="Tele Elx">Tele Elx</channel>
+    <channel update="i" site="sincroguia-tv" site_id="751##7/-/t/x7-televalencia.jpg.pagespeed.ic.tgLrIa49KG.jpg" xmltv_id="Canal 7 Televalencia">Canal 7 Televalencia</channel>
+    <channel update="i" site="sincroguia-tv" site_id="516##7/d/p/xlogo-t-el-toro-tv.png.pagespeed.ic.faLlWsrweg.png" xmltv_id="El Toro TV">El Toro TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="995##i/n/f/xinformacion-tv.jpg.pagespeed.ic.K-UK8UCkgs.jpg" xmltv_id="Información TV">Información TV</channel>
+    <channel update="i" site="sincroguia-tv" site_id="9470##k/a/6/xlogoveo7.png.pagespeed.ic.J-Flwts03x.png" xmltv_id="Veo7">Veo7</channel>
   </channels>
 </site>
