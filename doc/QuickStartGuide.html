@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Quick Start</title>
+
+<style>
+
+body {   
+	height: 100%; 
+   margin: 0 auto;
+   padding: 0;
+   font-family: Verdana,Tahoma;
+}
+
+
+h1 {
+	color: #FFFFFF;
+	font-style: italic;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #005a8c;
+	text-decoration: underline;
+}
+
+#body-outer
+{
+	background-color: #dae7ee;
+   display: table;
+   height: 100%;
+   margin: 0 auto;
+   overflow: hidden;
+   position: relative;
+   width: 1000px;
+}
+
+#header
+{
+	background-color: #005a8c;
+	margin: 0 auto;
+	overflow: hidden;
+   position: relative;
+	height: 100px;
+}
+
+#body
+{
+	margin: 20px;
+}
+</style>
+
+</head>
+<body>
+
+<div id="body-outer">
+
+<div id="header">
+<h1>WebGrab+Plus Quick start guide</h1>
+</div>
+<div id="body">
+<h2>What is WebGrab+Plus</h2>
+<p>
+WebGrab+Plus, frequently simply refered to as WG++, is a generic webgrab tool that can grab tv listings from websites and create a xmltv file for it. This xmltv file can be fed to a PVR/EPG system to visualize the tv listing.</br>
+Because WebGrab+Plus itself is generic, it will need to know how to grab a specific website. This info is packed into SiteIni files.
+For every supported tvguide-website, such a file will exist. See the <a href="http://webgrabplus.com/epg-channels">EPG channels page</a> for all available SiteIni's. </br>Most tvguide-website's have multiple tv channels. To know what channels are available for a specific SiteIni (website), you can look into the accompanying .channels.xml file. This file contains a list of channels that can be used. All those files can be found in the siteini.pack folder.</br>
+</p>
+<p>A list of all features can be found <a href="http://webgrabplus.com/features">on our website</a></p>
+
+<h2>Installation</h2>
+<p>The program will run on the most platforms (windows, linux, osx, rasp pi) . To install it on any specific platform follow these <a href="http://webgrabplus.com/documentation/installation">installation instructions </a>
+<p>Currently WebGrab+Plus is only a command line tool. An additional GUI (Graphic User Interface), the 'ConfigMaker', is available thanks to user shax. Download it from <a href="http://webgrabplus.com/content/configmaker-tool-multiple-configurations">here</a> or <a href="https://github.com/shaxxx/EPGUtils/releases">here</a></p>
+
+<h2>License</h2>
+<p>
+The program will run without a license with limited performance and only with un-encrypted siteini's. To use its full capabilities a donator status is needed which requires a small donation of 5€ /year (2024). To get that, <a href="http://webgrabplus.com/user/register">register</a> on the website and donate using the <a href="http://webgrabplus.com/content/support-us">Donate/support us</a> button. See also <a href="http://webgrabplus.com/faq#faq_4766">How can I donate to get a donator_license ?</a> and other related <a href="http://webgrabplus.com/faq">FAQ's.</a> </p>
+<p>On top of the standard donator status, the capabilities can be extended with a custom license and/or custom SiteIni. See <a href="http://webgrabplus.com/faq#faq_4768">I want more channels or more siteini's or more than 2 computers to run WG++</a></p>
+
+
+<h2>How to use</h2>
+
+<ol>
+<li>Find the config file (WebGrab++.config.xml) and open it with a simple text editor.</li>
+<li>If you have a donator status (see above, License), complete the &lt;license&gt; line with username, registered email and license password.</li>
+<li>Locate the dummy &lt;channel&gt; line at the end of the file</li>
+<li>Now look inside the siteini.pack folder and find the channels you want to grab (inside the .channels.xml files)</li>
+<li>Replace the dummy &lt;channel&gt; line with the channel(s) you want to grab</li>
+<li>Run WebGrab+Plus</li>
+<li>You should get a xmltv file called guide.xml file with the tv listings of your channels</li>
+<li>For more information about the configuration file, see <a href="http://webgrabplus.com/documentation/configuration/webgrabconfigxml">on our website</a></li>
+<li>To feed the generate xmltv file into you EPG/PVR system you can follow <a href="http://www.webgrabplus.com/documentation/interact-your-pvr-software">examples on our site</a></li>
+</ol>
+
+<h2>Update the SiteIni.Pack</h2>
+<p>To update the SiteIni.Pack folder to get the newest revisions and additions : </br></br>
+-- For windows users .. run SiteIni.Pack.Update.exe, located in the WebGrab+Plus installation folder  e.g. "C:\Program Files (x86)\WebGrab+Plus\bin\SiteIni.Pack.Update.exe"</br>
+-- For Linux and OSX .. run SiteIni.Pack.Update.sh, located in the home subfolder .WG++\bin or .WG++\bin.net</p>
+
+<h2>Usefull links:</h2>
+<p>
+<a href="http://webgrabplus.com">Homepage</a><br/>
+<a href="http://webgrabplus.com/documentation">Online documentation</a><br/>
+<a href="http://webgrabplus.com/forum">Online forum</a><br/>
+<a href="http://webgrabplus.com/faq">Online FAQ</a><br/>
+</p>
+
+</div>
+</div>
+
+</body>
+</html>
+

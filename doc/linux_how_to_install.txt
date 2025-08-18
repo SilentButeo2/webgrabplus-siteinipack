@@ -1,0 +1,75 @@
+-----------------------------------
+  WG++ installer info (WG++ version 3 and higher)
+-----------------------------------
+
+
+-----------------------------------
+  installation info V3 only
+-----------------------------------
+
+1. download WebGrabPlus_V3.3_install.tar.gz and save it in your home folder
+cd ~
+wget http://webgrabplus.com/sites/default/files/download/SW/V3.3.0/WebGrabPlus_V3.3_install.tar.gz
+
+2. Then install it
+cd ~
+tar -zxvf WebGrabPlus_V3.3_install.tar.gz
+Check your mono version -- required version 6.12.0.182 or higher, complete variant
+cd ~
+mono -V 
+response should be something like this :
+Mono JIT compiler version 6.12.0.182 (tarball Tue Jun 14 22:35:00 UTC 2022)
+Upgrade if needed 
+sudo apt-get install mono-complete
+Complete the installation 
+cd ~/.wg++
+./install.sh
+
+3. Configure 
+cd ~/.wg++
+Use the text editor you prefer or nano
+nano WebGrab++.config.xml
+Follow the instruction on http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+
+4. Run WG++
+cd ~/.wg++
+./run.sh
+
+-----------------------------------
+  installation info V5 and higher
+-----------------------------------
+
+1. download WebGrabPlus_V5.2_install.tar.gz and save it in your home folder
+cd ~
+wget http://webgrabplus.com/sites/default/files/download/SW/V5.2.0/WebGrabPlus_V5.1_install.tar.gz
+
+2. This version needs DOTNET 8
+Check if you have DOTNET 
+cd ~
+dotnet --version
+If there is response like 8.0.. you're OK 
+Else install or upgrade
+sudo apt-get update
+sudo apt-get install -y dotnet-sdk-8.0
+
+3. Install wg++ 
+cd ~
+tar -zxvf WebGrabPlus_V5.2_install.tar.gz
+
+4. Configure 
+cd ~/.wg++
+Use the text editor you prefer or nano
+nano WebGrab++.config.xml
+Follow the instruction on http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+
+5. run WG++
+cd ~/.wg++
+./run.net.sh
+
+-------------------------------------
+
+Good luck .. enjoy !!
+
+
+
+
