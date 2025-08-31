@@ -1,94 +1,106 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.1.3 -- Jan van Straaten" site="telkku.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.4.0.1 -- Jan van Straaten" site="telkku.com">
   <channels>
-    <channel update="i" site="telkku.com" site_id="yle-tv1" xmltv_id="Yle TV1">Yle TV1</channel>
-    <channel update="i" site="telkku.com" site_id="yle-tv2" xmltv_id="Yle TV2">Yle TV2</channel>
-    <channel update="i" site="telkku.com" site_id="mtv3" xmltv_id="MTV3">MTV3</channel>
-    <channel update="i" site="telkku.com" site_id="nelonen" xmltv_id="Nelonen">Nelonen</channel>
-    <channel update="i" site="telkku.com" site_id="yle-teema-fem" xmltv_id="Yle Teema Fem">Yle Teema Fem</channel>
-    <channel update="i" site="telkku.com" site_id="sub" xmltv_id="Sub">Sub</channel>
-    <channel update="i" site="telkku.com" site_id="tv5" xmltv_id="TV5">TV5</channel>
-    <channel update="i" site="telkku.com" site_id="liv" xmltv_id="Liv">Liv</channel>
-    <channel update="i" site="telkku.com" site_id="jim" xmltv_id="Jim">Jim</channel>
-    <channel update="i" site="telkku.com" site_id="kutonen" xmltv_id="Kutonen">Kutonen</channel>
-    <channel update="i" site="telkku.com" site_id="tlc-finland" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="telkku.com" site_id="fox" xmltv_id="Fox">Fox</channel>
-    <channel update="i" site="telkku.com" site_id="ava" xmltv_id="Ava">Ava</channel>
-    <channel update="i" site="telkku.com" site_id="hero" xmltv_id="Hero">Hero</channel>
-    <channel update="i" site="telkku.com" site_id="alfatv" xmltv_id="AlfaTV">AlfaTV</channel>
-    <channel update="i" site="telkku.com" site_id="frii" xmltv_id="Frii">Frii</channel>
-    <channel update="i" site="telkku.com" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="telkku.com" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-max" xmltv_id="C More Max">C More Max</channel>
-    <channel update="i" site="telkku.com" site_id="cmore-max-2" xmltv_id="C More Max 2">C More Max 2</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-sport-1" xmltv_id="C More Sport 1">C More Sport 1</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-sport-2" xmltv_id="C More Sport 2">C More Sport 2</channel>
-    <channel update="i" site="telkku.com" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="telkku.com" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-golf" xmltv_id="V sport GOLF">V sport GOLF</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-hockey" xmltv_id="V sport HOCKEY">V sport HOCKEY</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-urheilu-hd" xmltv_id="V sport URHEILU">V sport URHEILU</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-sport" xmltv_id="V sport">V sport</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-fotboll-hd" xmltv_id="V sport FOOTBALL">V sport FOOTBALL</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-jalkapallo-hd" xmltv_id="V sport JALKAPALLO">V sport JALKAPALLO</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-jaakiekko-hd" xmltv_id="V sport JÄÄKIEKKO">V sport JÄÄKIEKKO</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-sport-premium-hd" xmltv_id="V sport PREMIUM">V sport PREMIUM</channel>
-    <channel update="i" site="telkku.com" site_id="extreme-sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="telkku.com" site_id="cmore-first" xmltv_id="C More First">C More First</channel>
-    <channel update="i" site="telkku.com" site_id="cmore-hits" xmltv_id="C More Hits">C More Hits</channel>
-    <channel update="i" site="telkku.com" site_id="cmore-stars" xmltv_id="C More Stars">C More Stars</channel>
-    <channel update="i" site="telkku.com" site_id="cmore-series" xmltv_id="C More Series">C More Series</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-film" xmltv_id="V film PREMIERE">V film PREMIERE</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-film-action" xmltv_id="V film ACTION">V film ACTION</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-film-family" xmltv_id="V film FAMILY">V film FAMILY</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-film-hits" xmltv_id="V film HITS">V film HITS</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-juniori" xmltv_id="C More Juniori">C More Juniori</channel>
-    <channel update="i" site="telkku.com" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="telkku.com" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="telkku.com" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="telkku.com" site_id="nick-jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="telkku.com" site_id="sf-kanalen" xmltv_id="SF-kanalen">SF-kanalen</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-ultra-hd" xmltv_id="V sport ULTRA HD">V sport ULTRA HD</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
-    <channel update="i" site="telkku.com" site_id="viasat-nature-crime" xmltv_id="Viasat Nature/Crime">Viasat Nature/Crime</channel>
-    <channel update="i" site="telkku.com" site_id="nat-geo-wild-scandinavia" xmltv_id="Nat Geo Wild Scandinavia">Nat Geo Wild Scandinavia</channel>
-    <channel update="i" site="telkku.com" site_id="cnn" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="telkku.com" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="telkku.com" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="telkku.com" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="telkku.com" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
-    <channel update="i" site="telkku.com" site_id="history-channel" xmltv_id="The History Channel">The History Channel</channel>
-    <channel update="i" site="telkku.com" site_id="h2" xmltv_id="H2">H2</channel>
-    <channel update="i" site="telkku.com" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
-    <channel update="i" site="telkku.com" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
-    <channel update="i" site="telkku.com" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-finland" xmltv_id="MTV Finland">MTV Finland</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-dance" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="telkku.com" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="telkku.com" site_id="vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel update="i" site="telkku.com" site_id="iconcerts" xmltv_id="iConcerts">iConcerts</channel>
-    <channel update="i" site="telkku.com" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="telkku.com" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
-    <channel update="i" site="telkku.com" site_id="bloomberg-tv" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
-    <channel update="i" site="telkku.com" site_id="cnbc" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="telkku.com" site_id="sky-news" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="telkku.com" site_id="euronews" xmltv_id="EuroNews">EuroNews</channel>
-    <channel update="i" site="telkku.com" site_id="deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="telkku.com" site_id="svt-1" xmltv_id="SVT 1">SVT 1</channel>
-    <channel update="i" site="telkku.com" site_id="svt-2" xmltv_id="SVT 2">SVT 2</channel>
-    <channel update="i" site="telkku.com" site_id="tv3" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="telkku.com" site_id="tv4" xmltv_id="TV4">TV4</channel>
-    <channel update="i" site="telkku.com" site_id="kanal5" xmltv_id="Kanal5">Kanal5</channel>
-    <channel update="i" site="telkku.com" site_id="tv6" xmltv_id="TV6">TV6</channel>
-    <channel update="i" site="telkku.com" site_id="svt24" xmltv_id="SVT24">SVT24</channel>
-    <channel update="i" site="telkku.com" site_id="barnkanalen" xmltv_id="Barnkanalen">Barnkanalen</channel>
-    <channel update="i" site="telkku.com" site_id="tv-finland" xmltv_id="TV Finland">TV Finland</channel>
-    <channel update="i" site="telkku.com" site_id="tv7" xmltv_id="TV7">TV7</channel>
-    <channel update="i" site="telkku.com" site_id="himlen-tv7" xmltv_id="Himlen TV7">Himlen TV7</channel>
-    <channel update="i" site="telkku.com" site_id="rtl" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="telkku.com" site_id="viron-etv" xmltv_id="Viron ETV">Viron ETV</channel>
-    <channel update="i" site="telkku.com" site_id="tv5-monde" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="telkku.com" site_id="bbc-brit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="telkku.com" site_id="391" xmltv_id="YLE TV1">YLE TV1</channel>
+    <channel update="i" site="telkku.com" site_id="392" xmltv_id="YLE TV2">YLE TV2</channel>
+    <channel update="i" site="telkku.com" site_id="559" xmltv_id="MTV3">MTV3</channel>
+    <channel update="i" site="telkku.com" site_id="616" xmltv_id="Nelonen">Nelonen</channel>
+    <channel update="i" site="telkku.com" site_id="621" xmltv_id="JIM">JIM</channel>
+    <channel update="i" site="telkku.com" site_id="560" xmltv_id="MTV Sub">MTV Sub</channel>
+    <channel update="i" site="telkku.com" site_id="619" xmltv_id="Liv">Liv</channel>
+    <channel update="i" site="telkku.com" site_id="393" xmltv_id="Kutonen">Kutonen</channel>
+    <channel update="i" site="telkku.com" site_id="554" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="telkku.com" site_id="557" xmltv_id="Star Channel">Star Channel</channel>
+    <channel update="i" site="telkku.com" site_id="620" xmltv_id="Hero">Hero</channel>
+    <channel update="i" site="telkku.com" site_id="555" xmltv_id="Frii">Frii</channel>
+    <channel update="i" site="telkku.com" site_id="553" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="telkku.com" site_id="7996" xmltv_id="Eveo">Eveo</channel>
+    <channel update="i" site="telkku.com" site_id="556" xmltv_id="TV 5">TV 5</channel>
+    <channel update="i" site="telkku.com" site_id="570" xmltv_id="Yle Teema Fem">Yle Teema Fem</channel>
+    <channel update="i" site="telkku.com" site_id="561" xmltv_id="MTV Ava">MTV Ava</channel>
+    <channel update="i" site="telkku.com" site_id="582" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="telkku.com" site_id="583" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="telkku.com" site_id="624" xmltv_id="MTV Max">MTV Max</channel>
+    <channel update="i" site="telkku.com" site_id="622" xmltv_id="MTV Urheilu">MTV Urheilu</channel>
+    <channel update="i" site="telkku.com" site_id="623" xmltv_id="MTV Urheilu 2">MTV Urheilu 2</channel>
+    <channel update="i" site="telkku.com" site_id="8981" xmltv_id="MTV Urheilu 3">MTV Urheilu 3</channel>
+    <channel update="i" site="telkku.com" site_id="698" xmltv_id="MTV Liiga 1">MTV Liiga 1</channel>
+    <channel update="i" site="telkku.com" site_id="699" xmltv_id="MTV Liiga 2">MTV Liiga 2</channel>
+    <channel update="i" site="telkku.com" site_id="700" xmltv_id="MTV Liiga 3">MTV Liiga 3</channel>
+    <channel update="i" site="telkku.com" site_id="701" xmltv_id="MTV Liiga 4">MTV Liiga 4</channel>
+    <channel update="i" site="telkku.com" site_id="703" xmltv_id="MTV Liiga 5">MTV Liiga 5</channel>
+    <channel update="i" site="telkku.com" site_id="704" xmltv_id="MTV Liiga 6">MTV Liiga 6</channel>
+    <channel update="i" site="telkku.com" site_id="705" xmltv_id="MTV Liiga 7">MTV Liiga 7</channel>
+    <channel update="i" site="telkku.com" site_id="706" xmltv_id="MTV Liiga UHD">MTV Liiga UHD</channel>
+    <channel update="i" site="telkku.com" site_id="440" xmltv_id="V Sport Golf">V Sport Golf</channel>
+    <channel update="i" site="telkku.com" site_id="445" xmltv_id="V Sport Vinter">V Sport Vinter</channel>
+    <channel update="i" site="telkku.com" site_id="444" xmltv_id="V Sport +">V Sport +</channel>
+    <channel update="i" site="telkku.com" site_id="625" xmltv_id="V Sport 1">V Sport 1</channel>
+    <channel update="i" site="telkku.com" site_id="548" xmltv_id="V Sport Football">V Sport Football</channel>
+    <channel update="i" site="telkku.com" site_id="442" xmltv_id="V Sport 1 Suomi">V Sport 1 Suomi</channel>
+    <channel update="i" site="telkku.com" site_id="443" xmltv_id="V Sport 2">V Sport 2</channel>
+    <channel update="i" site="telkku.com" site_id="626" xmltv_id="V Sport Premium">V Sport Premium</channel>
+    <channel update="i" site="telkku.com" site_id="629" xmltv_id="V Sport Live 1">V Sport Live 1</channel>
+    <channel update="i" site="telkku.com" site_id="630" xmltv_id="V Sport Live 2">V Sport Live 2</channel>
+    <channel update="i" site="telkku.com" site_id="631" xmltv_id="V Sport Live 3">V Sport Live 3</channel>
+    <channel update="i" site="telkku.com" site_id="632" xmltv_id="V Sport Live 4">V Sport Live 4</channel>
+    <channel update="i" site="telkku.com" site_id="633" xmltv_id="V Sport Live 5">V Sport Live 5</channel>
+    <channel update="i" site="telkku.com" site_id="176" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="telkku.com" site_id="587" xmltv_id="TotoTV">TotoTV</channel>
+    <channel update="i" site="telkku.com" site_id="628" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
+    <channel update="i" site="telkku.com" site_id="379" xmltv_id="MTV Aitio">MTV Aitio</channel>
+    <channel update="i" site="telkku.com" site_id="382" xmltv_id="MTV Viihde">MTV Viihde</channel>
+    <channel update="i" site="telkku.com" site_id="439" xmltv_id="V Film Premiere">V Film Premiere</channel>
+    <channel update="i" site="telkku.com" site_id="435" xmltv_id="V Film Action">V Film Action</channel>
+    <channel update="i" site="telkku.com" site_id="436" xmltv_id="V Film Family">V Film Family</channel>
+    <channel update="i" site="telkku.com" site_id="438" xmltv_id="V Film Hits">V Film Hits</channel>
+    <channel update="i" site="telkku.com" site_id="167" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="telkku.com" site_id="385" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="telkku.com" site_id="551" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="telkku.com" site_id="222" xmltv_id="SVT Barn">SVT Barn</channel>
+    <channel update="i" site="telkku.com" site_id="638" xmltv_id="MTV Juniori">MTV Juniori</channel>
+    <channel update="i" site="telkku.com" site_id="168" xmltv_id="Cartoonito Nordic">Cartoonito Nordic</channel>
+    <channel update="i" site="telkku.com" site_id="581" xmltv_id="SF-kanalen">SF-kanalen</channel>
+    <channel update="i" site="telkku.com" site_id="584" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="telkku.com" site_id="441" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="telkku.com" site_id="652" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="telkku.com" site_id="437" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="telkku.com" site_id="378" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="telkku.com" site_id="384" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="telkku.com" site_id="172" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="telkku.com" site_id="207" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="telkku.com" site_id="388" xmltv_id="History">History</channel>
+    <channel update="i" site="telkku.com" site_id="390" xmltv_id="History 2">History 2</channel>
+    <channel update="i" site="telkku.com" site_id="198" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="telkku.com" site_id="8" xmltv_id="BBC Earth Nordics">BBC Earth Nordics</channel>
+    <channel update="i" site="telkku.com" site_id="709" xmltv_id="FashionTV International">FashionTV International</channel>
+    <channel update="i" site="telkku.com" site_id="178" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="telkku.com" site_id="617" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="telkku.com" site_id="67" xmltv_id="Club MTV International">Club MTV International</channel>
+    <channel update="i" site="telkku.com" site_id="228" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="telkku.com" site_id="38" xmltv_id="Iconcerts">Iconcerts</channel>
+    <channel update="i" site="telkku.com" site_id="111" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="telkku.com" site_id="2" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="telkku.com" site_id="19" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="telkku.com" site_id="86" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="telkku.com" site_id="58" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="telkku.com" site_id="21" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="telkku.com" site_id="340" xmltv_id="Sky News International">Sky News International</channel>
+    <channel update="i" site="telkku.com" site_id="6" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="telkku.com" site_id="418" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="telkku.com" site_id="4" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="telkku.com" site_id="82" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="telkku.com" site_id="341" xmltv_id="Kanal 5">Kanal 5</channel>
+    <channel update="i" site="telkku.com" site_id="350" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="telkku.com" site_id="5" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="telkku.com" site_id="352" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="telkku.com" site_id="508" xmltv_id="SVT 24">SVT 24</channel>
+    <channel update="i" site="telkku.com" site_id="3421" xmltv_id="TV Finland">TV Finland</channel>
+    <channel update="i" site="telkku.com" site_id="627" xmltv_id="TV7">TV7</channel>
+    <channel update="i" site="telkku.com" site_id="3336" xmltv_id="Himlen TV7">Himlen TV7</channel>
+    <channel update="i" site="telkku.com" site_id="43" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="telkku.com" site_id="516" xmltv_id="ETV 1">ETV 1</channel>
+    <channel update="i" site="telkku.com" site_id="212" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="telkku.com" site_id="7827" xmltv_id="BBC Nordic">BBC Nordic</channel>
   </channels>
 </site>
