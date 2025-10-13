@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.10 -- Jan van Straaten" site="a1.hr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="a1.hr">
   <channels>
     <channel update="i" site="a1.hr" site_id="2##HRT1.png" xmltv_id="HTV1 HD">HTV1 HD</channel>
     <channel update="i" site="a1.hr" site_id="3##HRT2.png" xmltv_id="HTV2 HD">HTV2 HD</channel>
@@ -19,7 +19,7 @@
     <channel update="i" site="a1.hr" site_id="678##Discovery black.png" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="a1.hr" site_id="632##bbc_earth.png" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="a1.hr" site_id="639##kitchen_tv.png" xmltv_id="Kitchen TV">Kitchen TV</channel>
-    <channel update="i" site="a1.hr" site_id="272##/images/dummy-slika.png" xmltv_id="Kanal mjeseca">Kanal mjeseca</channel>
+    <channel update="i" site="a1.hr" site_id="272##dummy-slika.png" xmltv_id="Kanal mjeseca">Kanal mjeseca</channel>
     <channel update="i" site="a1.hr" site_id="50##CineStar1.png" xmltv_id="CineStar TV 1">CineStar TV 1</channel>
     <channel update="i" site="a1.hr" site_id="51##CineStar_Action.png" xmltv_id="CineStar TV Action and Thriller">CineStar TV Action and Thriller</channel>
     <channel update="i" site="a1.hr" site_id="53##Fox HD.png" xmltv_id="STAR Channel">STAR Channel</channel>
@@ -27,7 +27,7 @@
     <channel update="i" site="a1.hr" site_id="63##fox_crime.png" xmltv_id="STAR Crime">STAR Crime</channel>
     <channel update="i" site="a1.hr" site_id="455##disney_fox_logo_140x67_20230915_movies_crno.png" xmltv_id="STAR Movies">STAR Movies</channel>
     <channel update="i" site="a1.hr" site_id="52##DIVA.png" xmltv_id="DIVA">DIVA</channel>
-    <channel update="i" site="a1.hr" site_id="55##Viasat TV1000.png" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="a1.hr" site_id="55##Viasat TV1000.png" xmltv_id="Viasat Kino">Viasat Kino</channel>
     <channel update="i" site="a1.hr" site_id="79##BBC First.png" xmltv_id="BBC First">BBC First</channel>
     <channel update="i" site="a1.hr" site_id="116##Epic Drama.png" xmltv_id="Epic Drama">Epic Drama</channel>
     <channel update="i" site="a1.hr" site_id="19##amc HD.png" xmltv_id="AMC HD">AMC HD</channel>
@@ -77,6 +77,7 @@
     <channel update="i" site="a1.hr" site_id="34##Game Toon.png" xmltv_id="Gametoon HD">Gametoon HD</channel>
     <channel update="i" site="a1.hr" site_id="631##arena_esport.png" xmltv_id="Arena Esport">Arena Esport</channel>
     <channel update="i" site="a1.hr" site_id="605##game_hub.jpg" xmltv_id="GameHub">GameHub</channel>
+    <channel update="i" site="a1.hr" site_id="148##Duck TV.png" xmltv_id="Shift TV">Shift TV</channel>
     <channel update="i" site="a1.hr" site_id="112##National_Geographic.png" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="a1.hr" site_id="117##National_Geographic_Wild.png" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
     <channel update="i" site="a1.hr" site_id="38##Doku TV.png" xmltv_id="Doku TV HD">Doku TV HD</channel>
@@ -103,9 +104,8 @@
     <channel update="i" site="a1.hr" site_id="143##Baby TV.png" xmltv_id="Baby TV">Baby TV</channel>
     <channel update="i" site="a1.hr" site_id="144##jim_jam.png" xmltv_id="bravo! KIDS">bravo! KIDS</channel>
     <channel update="i" site="a1.hr" site_id="141##ric.png" xmltv_id="RiC">RiC</channel>
-    <channel update="i" site="a1.hr" site_id="148##Duck TV.png" xmltv_id="Duck TV">Duck TV</channel>
-    <channel update="i" site="a1.hr" site_id="139##Da Vinci.png" xmltv_id="Da Vinci">Da Vinci</channel>
     <channel update="i" site="a1.hr" site_id="145##TiJi.png" xmltv_id="TIJI">TIJI</channel>
+    <channel update="i" site="a1.hr" site_id="139##Da Vinci.png" xmltv_id="Da Vinci">Da Vinci</channel>
     <channel update="i" site="a1.hr" site_id="602##nicktoons.png" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="a1.hr" site_id="142##Toon_kids.png" xmltv_id="Toon Kids">Toon Kids</channel>
     <channel update="i" site="a1.hr" site_id="673##Disney_channel.png" xmltv_id="Disney Channel">Disney Channel</channel>
@@ -125,8 +125,8 @@
     <channel update="i" site="a1.hr" site_id="171##toxic_tv.png" xmltv_id="Toxic TV">Toxic TV</channel>
     <channel update="i" site="a1.hr" site_id="634##toxic_tv_rap.png" xmltv_id="Toxic Rap">Toxic Rap</channel>
     <channel update="i" site="a1.hr" site_id="177##DM Sat.png" xmltv_id="DM SAT">DM SAT</channel>
-    <channel update="i" site="a1.hr" site_id="46##Balkanika Music Television.png" xmltv_id="Balkanika TV HD">Balkanika TV HD</channel>
     <channel update="i" site="a1.hr" site_id="47##Narodni TV.png" xmltv_id="bravo! TV HD">bravo! TV HD</channel>
+    <channel update="i" site="a1.hr" site_id="46##Balkanika Music Television.png" xmltv_id="Balkanika TV HD">Balkanika TV HD</channel>
     <channel update="i" site="a1.hr" site_id="166##VH1 Classic.png" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="a1.hr" site_id="162##MTV Hits.png" xmltv_id="MTV Hits International">MTV Hits International</channel>
     <channel update="i" site="a1.hr" site_id="163##dorcel_tv.png" xmltv_id="Club MTV">Club MTV</channel>
@@ -172,8 +172,8 @@
     <channel update="i" site="a1.hr" site_id="209##Z1.png" xmltv_id="Z1">Z1</channel>
     <channel update="i" site="a1.hr" site_id="210##Mreza Zagreb.png" xmltv_id="MrezaZG">MrezaZG</channel>
     <channel update="i" site="a1.hr" site_id="211##TV Zapad.png" xmltv_id="TV Zapad">TV Zapad</channel>
-    <channel update="i" site="a1.hr" site_id="228##trend_tv.png" xmltv_id="Trend TV">Trend TV</channel>
     <channel update="i" site="a1.hr" site_id="212##TV Jadran.png" xmltv_id="TV Jadran">TV Jadran</channel>
+    <channel update="i" site="a1.hr" site_id="228##trend_tv.png" xmltv_id="Trend TV">Trend TV</channel>
     <channel update="i" site="a1.hr" site_id="214##TVD-LOGO-140.png" xmltv_id="Televizija Dalmacija">Televizija Dalmacija</channel>
     <channel update="i" site="a1.hr" site_id="233##Diadora.png" xmltv_id="Diadora TV">Diadora TV</channel>
     <channel update="i" site="a1.hr" site_id="232##Libertas TV.png" xmltv_id="Libertas TV">Libertas TV</channel>
