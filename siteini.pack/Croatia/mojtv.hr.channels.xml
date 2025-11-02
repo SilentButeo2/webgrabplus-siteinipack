@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.8 -- Jan van Straaten" site="mojtv.hr">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="mojtv.hr">
   <channels>
+    <channel update="i" site="mojtv.hr" site_id="525/mrt1" xmltv_id="MRT1">MRT1</channel>
     <channel update="i" site="mojtv.hr" site_id="526/mrt2" xmltv_id="MRT2">MRT2</channel>
     <channel update="i" site="mojtv.hr" site_id="527/sobraniski-kanal" xmltv_id="Sobraniski Kanal">Sobraniski Kanal</channel>
     <channel update="i" site="mojtv.hr" site_id="1/htv1" xmltv_id="HTV1">HTV1</channel>
@@ -59,7 +60,6 @@
     <channel update="i" site="mojtv.hr" site_id="599/cinestar-tv-fantasy" xmltv_id="Cinestar TV Fantasy">Cinestar TV Fantasy</channel>
     <channel update="i" site="mojtv.hr" site_id="361/cinestar-tv-premiere-1" xmltv_id="Cinestar TV Premiere 1">Cinestar TV Premiere 1</channel>
     <channel update="i" site="mojtv.hr" site_id="362/cinestar-tv-premiere-2" xmltv_id="Cinestar TV Premiere 2">Cinestar TV Premiere 2</channel>
-    <channel update="i" site="mojtv.hr" site_id="613/eurochannel" xmltv_id="Eurochannel">Eurochannel</channel>
     <channel update="i" site="mojtv.hr" site_id="514/hbo3" xmltv_id="HBO3">HBO3</channel>
     <channel update="i" site="mojtv.hr" site_id="136/cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
     <channel update="i" site="mojtv.hr" site_id="105/cinemax" xmltv_id="Cinemax">Cinemax</channel>
@@ -75,23 +75,18 @@
     <channel update="i" site="mojtv.hr" site_id="40/diva" xmltv_id="Diva">Diva</channel>
     <channel update="i" site="mojtv.hr" site_id="184/klasik-tv" xmltv_id="Klasik TV">Klasik TV</channel>
     <channel update="i" site="mojtv.hr" site_id="647/pickbox-tv" xmltv_id="Pickbox TV">Pickbox TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="528/axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
     <channel update="i" site="mojtv.hr" site_id="457/rtl-passion" xmltv_id="RTL Passion">RTL Passion</channel>
     <channel update="i" site="mojtv.hr" site_id="458/rtl-crime" xmltv_id="RTL Crime">RTL Crime</channel>
-    <channel update="i" site="mojtv.hr" site_id="528/axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
     <channel update="i" site="mojtv.hr" site_id="125/tcmcartoon" xmltv_id="TCM/Cartoon">TCM/Cartoon</channel>
     <channel update="i" site="mojtv.hr" site_id="112/axn" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="mojtv.hr" site_id="44/bbc-entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
     <channel update="i" site="mojtv.hr" site_id="119/scifi-channel" xmltv_id="Sci-Fi Channel">Sci-Fi Channel</channel>
     <channel update="i" site="mojtv.hr" site_id="356/m1-film" xmltv_id="M1 FILM">M1 FILM</channel>
     <channel update="i" site="mojtv.hr" site_id="529/amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="mojtv.hr" site_id="495/filmbox-plus" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
     <channel update="i" site="mojtv.hr" site_id="496/filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
     <channel update="i" site="mojtv.hr" site_id="497/arthouse" xmltv_id="Arthouse">Arthouse</channel>
-    <channel update="i" site="mojtv.hr" site_id="668/mg-movie-generation" xmltv_id="MG Movie Generation">MG Movie Generation</channel>
     <channel update="i" site="mojtv.hr" site_id="678/bbc-first" xmltv_id="BBC First">BBC First</channel>
-    <channel update="i" site="mojtv.hr" site_id="681/tdc" xmltv_id="TDC">TDC</channel>
-    <channel update="i" site="mojtv.hr" site_id="353/nova-family" xmltv_id="Nova Family">Nova Family</channel>
-    <channel update="i" site="mojtv.hr" site_id="354/nova-cinema" xmltv_id="Nova Cinema">Nova Cinema</channel>
     <channel update="i" site="mojtv.hr" site_id="151/national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
     <channel update="i" site="mojtv.hr" site_id="189/ng-wild-hd" xmltv_id="NG Wild HD">NG Wild HD</channel>
     <channel update="i" site="mojtv.hr" site_id="243/history-channel-hd" xmltv_id="History Channel HD">History Channel HD</channel>
@@ -208,10 +203,10 @@
     <channel update="i" site="mojtv.hr" site_id="311/ginx" xmltv_id="GINX">GINX</channel>
     <channel update="i" site="mojtv.hr" site_id="318/fine-living-network" xmltv_id="Fine Living Network">Fine Living Network</channel>
     <channel update="i" site="mojtv.hr" site_id="283/bn-2" xmltv_id="BN 2">BN 2</channel>
-    <channel update="i" site="mojtv.hr" site_id="355/tv-k3" xmltv_id="TV K3">TV K3</channel>
     <channel update="i" site="mojtv.hr" site_id="393/nova-m" xmltv_id="Nova M">Nova M</channel>
     <channel update="i" site="mojtv.hr" site_id="358/cinema-tv" xmltv_id="Cinema TV">Cinema TV</channel>
     <channel update="i" site="mojtv.hr" site_id="342/facetv" xmltv_id="Face.TV">Face.TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="355/tv-k3" xmltv_id="TV K3">TV K3</channel>
     <channel update="i" site="mojtv.hr" site_id="123/tv-tk-tuzla" xmltv_id="TV TK Tuzla">TV TK Tuzla</channel>
     <channel update="i" site="mojtv.hr" site_id="39/atv" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="mojtv.hr" site_id="28/nova-bh" xmltv_id="Nova BH">Nova BH</channel>
@@ -224,8 +219,8 @@
     <channel update="i" site="mojtv.hr" site_id="217/o-kanal" xmltv_id="O Kanal">O Kanal</channel>
     <channel update="i" site="mojtv.hr" site_id="669/pink-bh" xmltv_id="Pink BH">Pink BH</channel>
     <channel update="i" site="mojtv.hr" site_id="670/pink-m" xmltv_id="Pink M">Pink M</channel>
-    <channel update="i" site="mojtv.hr" site_id="667/otv-valentino" xmltv_id="OTV Valentino">OTV Valentino</channel>
     <channel update="i" site="mojtv.hr" site_id="672/tropik-tv" xmltv_id="Tropik TV">Tropik TV</channel>
+    <channel update="i" site="mojtv.hr" site_id="667/otv-valentino" xmltv_id="OTV Valentino">OTV Valentino</channel>
     <channel update="i" site="mojtv.hr" site_id="19/tv-slovenija-1" xmltv_id="TV Slovenija 1">TV Slovenija 1</channel>
     <channel update="i" site="mojtv.hr" site_id="20/tv-slovenija-2" xmltv_id="TV Slovenija 2">TV Slovenija 2</channel>
     <channel update="i" site="mojtv.hr" site_id="221/tv-slovenija-3" xmltv_id="TV Slovenija 3">TV Slovenija 3</channel>
