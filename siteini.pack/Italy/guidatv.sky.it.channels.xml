@@ -1,68 +1,59 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.3 -- Jan van Straaten" site="guidatv.sky.it">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="guidatv.sky.it">
   <channels>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9115" xmltv_id="Sky Uno  108">Sky Uno  108</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9114" xmltv_id="Sky Uno +1  109">Sky Uno +1  109</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9095" xmltv_id="Sky Atlantic  110">Sky Atlantic  110</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8453" xmltv_id="Sky Atlantic +1  111">Sky Atlantic +1  111</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11244" xmltv_id="Sky Serie  112">Sky Serie  112</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11247" xmltv_id="Sky Serie +1  113">Sky Serie +1  113</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11246" xmltv_id="Sky Investigation  114">Sky Investigation  114</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11238" xmltv_id="Sky Investigation +1 HD  115">Sky Investigation +1 HD  115</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_8336" xmltv_id="Sky Crime  119">Sky Crime  119</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8473" xmltv_id="Sky Arte  120">Sky Arte  120</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11276" xmltv_id="Sky Arte +1  121">Sky Arte +1  121</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11239" xmltv_id="Sky Documentaries  122">Sky Documentaries  122</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11240" xmltv_id="Sky Documentaries +1  123">Sky Documentaries +1  123</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11242" xmltv_id="Sky Nature  124">Sky Nature  124</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11239" xmltv_id="Sky Documentaries  120">Sky Documentaries  120</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11240" xmltv_id="Sky Documentaries +1 HD  121">Sky Documentaries +1 HD  121</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11889" xmltv_id="Sky Adventure  121">Sky Adventure  121</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11242" xmltv_id="Sky Nature  122">Sky Nature  122</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_8473" xmltv_id="Sky Arte  123">Sky Arte  123</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11437" xmltv_id="Sky Classica  124">Sky Classica  124</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_8195" xmltv_id="TV8 HD  125">TV8 HD  125</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_318" xmltv_id="Comedy Central  129">Comedy Central  129</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_8353" xmltv_id="Comedy +1  130">Comedy +1  130</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9195" xmltv_id="MTV HD  131">MTV HD  131</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11054" xmltv_id="MTV Music  132">MTV Music  132</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11055" xmltv_id="Gambero Rosso HD  133">Gambero Rosso HD  133</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11437" xmltv_id="Classica HD  136">Classica HD  136</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9753" xmltv_id="NOVE HD  149">NOVE HD  149</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10458" xmltv_id="20Mediaset HD  151">20Mediaset HD  151</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_8133" xmltv_id="cielo  156">cielo  156</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_7588" xmltv_id="TV2000 HD  157">TV2000 HD  157</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11342" xmltv_id="27Twentyseven HD  158">27Twentyseven HD  158</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10466" xmltv_id="La 5 HD  159">La 5 HD  159</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8173" xmltv_id="Real Time HD  160">Real Time HD  160</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10465" xmltv_id="Mediaset Extra HD  163">Mediaset Extra HD  163</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8131" xmltv_id="GIALLO HD  167">GIALLO HD  167</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10468" xmltv_id="TOPcrime HD  168">TOPcrime HD  168</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8933" xmltv_id="DMAX HD  170">DMAX HD  170</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10469" xmltv_id="Mediaset Italia2 HD  175">Mediaset Italia2 HD  175</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11262" xmltv_id="Explorer HD Channel  176">Explorer HD Channel  176</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9094" xmltv_id="Sky Sport24  200">Sky Sport24  200</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9097" xmltv_id="Sky Sport Uno  201">Sky Sport Uno  201</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11346" xmltv_id="Sky Sport Uno  201">Sky Sport Uno  201</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9113" xmltv_id="Sky Sport Calcio  202">Sky Sport Calcio  202</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11237" xmltv_id="Sky Sport Tennis  203">Sky Sport Tennis  203</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_7507" xmltv_id="Sky Sport Arena  204">Sky Sport Arena  204</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9093" xmltv_id="Sky Sport Arena  204">Sky Sport Arena  204</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9103" xmltv_id="Sky Sport Max  205">Sky Sport Max  205</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_10254" xmltv_id="Sky Sport Golf  206">Sky Sport Golf  206</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_7507" xmltv_id="Sky Sport Arena  204">Sky Sport Arena  204</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9116" xmltv_id="Sky Sport Basket  205">Sky Sport Basket  205</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9103" xmltv_id="Sky Sport Max  206">Sky Sport Max  206</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9096" xmltv_id="Sky Sport F1  207">Sky Sport F1  207</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9102" xmltv_id="Sky Sport MotoGP  208">Sky Sport MotoGP  208</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8753" xmltv_id="Sky Sport NBA  209">Sky Sport NBA  209</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9116" xmltv_id="Sky Sport NBA  209">Sky Sport NBA  209</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9057" xmltv_id="Eurosport 1  210">Eurosport 1  210</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9060" xmltv_id="Eurosport 2  211">Eurosport 2  211</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_10254" xmltv_id="Sky Sport Golf  209">Sky Sport Golf  209</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11910" xmltv_id="Sky Sport Legend  210">Sky Sport Legend  210</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11909" xmltv_id="Sky Sport Mix  211">Sky Sport Mix  211</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6000" xmltv_id="SuperTennis HD  212">SuperTennis HD  212</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10013" xmltv_id="Sky Sport 4K  213">Sky Sport 4K  213</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11402" xmltv_id="DAZN 1  214">DAZN 1  214</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11401" xmltv_id="DAZN 2  215">DAZN 2  215</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11403" xmltv_id="DAZN3  216">DAZN3  216</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11405" xmltv_id="DAZN4  217">DAZN4  217</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11404" xmltv_id="DAZN5  218">DAZN5  218</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11849" xmltv_id="DAZN3  216">DAZN3  216</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11850" xmltv_id="DAZN4  217">DAZN4  217</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_8293" xmltv_id="EQUtv  220">EQUtv  220</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6611" xmltv_id="Horse TV HD  221">Horse TV HD  221</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11278" xmltv_id="BIKE  222">BIKE  222</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_807" xmltv_id="RAI Sport   227">RAI Sport   227</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_7587" xmltv_id="ACI Sport Tv  228">ACI Sport Tv  228</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_7587" xmltv_id="Sport TV  228">Sport TV  228</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9513" xmltv_id="Milan TV  230">Milan TV  230</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9893" xmltv_id="Inter TV  232">Inter TV  232</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_7527" xmltv_id="Lazio Style HD  233">Lazio Style HD  233</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_520" xmltv_id="CACCIA e Pesca  235">CACCIA e Pesca  235</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6220" xmltv_id="Caccia e PESCA  236">Caccia e PESCA  236</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11497" xmltv_id="Sky Sport  251">Sky Sport  251</channel>
@@ -78,7 +69,7 @@
     <channel update="i" site="guidatv.sky.it" site_id="DTH_617" xmltv_id="Sky Calcio 11  261">Sky Calcio 11  261</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9044" xmltv_id="Sky Cinema Uno  301">Sky Cinema Uno  301</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9034" xmltv_id="Sky Cinema Due  302">Sky Cinema Due  302</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9047" xmltv_id="Hunger Games Collection  303">Hunger Games Collection  303</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9047" xmltv_id="Transformers Collection  303">Transformers Collection  303</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9042" xmltv_id="Sky Cinema Family  304">Sky Cinema Family  304</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9050" xmltv_id="Sky Cinema Action  305">Sky Cinema Action  305</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10515" xmltv_id="Sky Cinema Suspense  306">Sky Cinema Suspense  306</channel>
@@ -90,30 +81,24 @@
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10467" xmltv_id="Iris HD  325">Iris HD  325</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10893" xmltv_id="Cine34 HD  327">Cine34 HD  327</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_7767" xmltv_id="Sky Arte  400">Sky Arte  400</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11277" xmltv_id="Sky Arte +1  401">Sky Arte +1  401</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11241" xmltv_id="Sky Documentaries  402">Sky Documentaries  402</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11243" xmltv_id="Sky Documentaries +1  403">Sky Documentaries +1  403</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11243" xmltv_id="Sky Documentaries +1 HD  403">Sky Documentaries +1 HD  403</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11245" xmltv_id="Sky Nature  404">Sky Nature  404</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9059" xmltv_id="Discovery  405">Discovery  405</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_331" xmltv_id="Discovery +1  406">Discovery +1  406</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11890" xmltv_id="Sky Adventure  407">Sky Adventure  407</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9101" xmltv_id="History  411">History  411</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_123" xmltv_id="History +1  412">History +1  412</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11216" xmltv_id="Sky Crime  414">Sky Crime  414</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9099" xmltv_id="Gambero Rosso HD  415">Gambero Rosso HD  415</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10470" xmltv_id="Focus HD  416">Focus HD  416</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_10534" xmltv_id="Food Network HD  417">Food Network HD  417</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_11154" xmltv_id="HGTV HD  418">HGTV HD  418</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_8130" xmltv_id="Motor Trend HD  419">Motor Trend HD  419</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6626" xmltv_id="QVC  475">QVC  475</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_810" xmltv_id="Fashion TV  489">Fashion TV  489</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_9117" xmltv_id="Sky TG24  100">Sky TG24  100</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_11712" xmltv_id="VALUE 24 TV  490">VALUE 24 TV  490</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9653" xmltv_id="Sky TG24  100">Sky TG24  100</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_9117" xmltv_id="Sky TG24  500">Sky TG24  500</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_321" xmltv_id="Sky Meteo24  502">Sky Meteo24  502</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6510" xmltv_id="TG24PrimoPiano  503">TG24PrimoPiano  503</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_308" xmltv_id="Class CNBC  507">Class CNBC  507</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_895" xmltv_id="Rai News 24  508">Rai News 24  508</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10473" xmltv_id="TgCom24 HD  509">TgCom24 HD  509</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_6481" xmltv_id="TG NORBA 24  510">TG NORBA 24  510</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_10615" xmltv_id="Emilia Romagna 24  518">Emilia Romagna 24  518</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9013" xmltv_id="TRM h24  519">TRM h24  519</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6861" xmltv_id="San Marino RTV  520">San Marino RTV  520</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_801" xmltv_id="Euronews  521">Euronews  521</channel>
@@ -131,17 +116,15 @@
     <channel update="i" site="guidatv.sky.it" site_id="DTH_460" xmltv_id="DeAKids  601">DeAKids  601</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_364" xmltv_id="DeAKids +1  602">DeAKids +1  602</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_461" xmltv_id="Nick Jr  603">Nick Jr  603</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_6701" xmltv_id="Nick Jr +1  604">Nick Jr +1  604</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_6701" xmltv_id="Nick Jr. +1  604">Nick Jr. +1  604</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_320" xmltv_id="Nickelodeon  605">Nickelodeon  605</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6140" xmltv_id="Nickelodeon +1  606">Nickelodeon +1  606</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9693" xmltv_id="Cartoon Network  607">Cartoon Network  607</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_476" xmltv_id="Cartoon +1  608">Cartoon +1  608</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_476" xmltv_id="CN Lego days  608">CN Lego days  608</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_472" xmltv_id="Boomerang  609">Boomerang  609</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_479" xmltv_id="Boomerang +1  610">Boomerang +1  610</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_7427" xmltv_id="DeAJunior  623">DeAJunior  623</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6460" xmltv_id="Super!  625">Super!  625</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_6240" xmltv_id="K2  626">K2  626</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_6610" xmltv_id="-frisbee-  627">-frisbee-  627</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6628" xmltv_id="Boing  5040">Boing  5040</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6629" xmltv_id="Rai Gulp  5042">Rai Gulp  5042</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6609" xmltv_id="Rai Yoyo  5043">Rai Yoyo  5043</channel>
@@ -151,7 +134,7 @@
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10993" xmltv_id="Radio Monte Carlo  716">Radio Monte Carlo  716</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_11344" xmltv_id="Virgin Radio  717">Virgin Radio  717</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_9833" xmltv_id="Radio Italia TV HD  725">Radio Italia TV HD  725</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_10033" xmltv_id="Radio Italia Trend Tv HD  726">Radio Italia Trend Tv HD  726</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_10033" xmltv_id="Radio Italia Live  726">Radio Italia Live  726</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_8213" xmltv_id="RADIONORBA TV  730">RADIONORBA TV  730</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6885" xmltv_id="RTL 102.5 HD  736">RTL 102.5 HD  736</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_10616" xmltv_id="RADIOFRECCIA HD  738">RADIOFRECCIA HD  738</channel>
@@ -166,25 +149,18 @@
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6607" xmltv_id="Rai 5  5023">Rai 5  5023</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6608" xmltv_id="Rai Movie  5024">Rai Movie  5024</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6623" xmltv_id="Rai Premium  5025">Rai Premium  5025</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTH_6624" xmltv_id="LA7D  5029">LA7D  5029</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTH_6624" xmltv_id="LA7CINEMA  5029">LA7CINEMA  5029</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTH_6630" xmltv_id="Rai Storia  5054">Rai Storia  5054</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8327" xmltv_id="TV8 HD  5008">TV8 HD  5008</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_8328" xmltv_id="NOVE  5009">NOVE  5009</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8773" xmltv_id="Cielo DTT  5026">Cielo DTT  5026</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_9234" xmltv_id="GIALLO  5038">GIALLO  5038</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8317" xmltv_id="Rai Sport 1 DTT  5057">Rai Sport 1 DTT  5057</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8322" xmltv_id="SuperTennis DTT  5064">SuperTennis DTT  5064</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_8323" xmltv_id="Real Time  5031">Real Time  5031</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8321" xmltv_id="QVC  5032">QVC  5032</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_9233" xmltv_id="DMAX  5052">DMAX  5052</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_9237" xmltv_id="Motor Trend  5056">Motor Trend  5056</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_10473" xmltv_id="TgCom24 HD  509">TgCom24 HD  509</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_9313" xmltv_id="Sky TG24 DTT 2  5050">Sky TG24 DTT 2  5050</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_6628" xmltv_id="Boing  5040">Boing  5040</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_8318" xmltv_id="K2  5041">K2  5041</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_6629" xmltv_id="Rai Gulp  5042">Rai Gulp  5042</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_6609" xmltv_id="Rai Yoyo  5043">Rai Yoyo  5043</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_8316" xmltv_id="-frisbee-  5044">-frisbee-  5044</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8132" xmltv_id="CARTOONITO DTT  5046">CARTOONITO DTT  5046</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8314" xmltv_id="Super!  5047">Super!  5047</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_462" xmltv_id="Deejay TV  714">Deejay TV  714</channel>
@@ -202,53 +178,43 @@
     <channel update="i" site="guidatv.sky.it" site_id="DTT_6608" xmltv_id="Rai Movie  5024">Rai Movie  5024</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_6623" xmltv_id="Rai Premium  5025">Rai Premium  5025</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_8325" xmltv_id="TV2000 DTT  5028">TV2000 DTT  5028</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="DTT_6624" xmltv_id="LA7D  5029">LA7D  5029</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="DTT_6624" xmltv_id="LA7CINEMA  5029">LA7CINEMA  5029</channel>
     <channel update="i" site="guidatv.sky.it" site_id="DTT_6630" xmltv_id="Rai Storia  5054">Rai Storia  5054</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9115" xmltv_id="Sky Uno  108">Sky Uno  108</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9114" xmltv_id="Sky Uno +1  109">Sky Uno +1  109</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9095" xmltv_id="Sky Atlantic  110">Sky Atlantic  110</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8453" xmltv_id="Sky Atlantic +1  111">Sky Atlantic +1  111</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11244" xmltv_id="Sky Serie  112">Sky Serie  112</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11247" xmltv_id="Sky Serie +1  113">Sky Serie +1  113</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11246" xmltv_id="Sky Investigation  114">Sky Investigation  114</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11238" xmltv_id="Sky Investigation +1 HD  115">Sky Investigation +1 HD  115</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_8336" xmltv_id="Sky Crime  119">Sky Crime  119</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8473" xmltv_id="Sky Arte  120">Sky Arte  120</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11276" xmltv_id="Sky Arte +1  121">Sky Arte +1  121</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11239" xmltv_id="Sky Documentaries  122">Sky Documentaries  122</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11240" xmltv_id="Sky Documentaries +1  123">Sky Documentaries +1  123</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11242" xmltv_id="Sky Nature  124">Sky Nature  124</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11239" xmltv_id="Sky Documentaries  120">Sky Documentaries  120</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11889" xmltv_id="Sky Adventure  121">Sky Adventure  121</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11240" xmltv_id="Sky Documentaries +1 HD  121">Sky Documentaries +1 HD  121</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11242" xmltv_id="Sky Nature  122">Sky Nature  122</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8473" xmltv_id="Sky Arte  123">Sky Arte  123</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11437" xmltv_id="Sky Classica  124">Sky Classica  124</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_8195" xmltv_id="TV8 HD  125">TV8 HD  125</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_318" xmltv_id="Comedy Central  129">Comedy Central  129</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_8353" xmltv_id="Comedy +1  130">Comedy +1  130</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9195" xmltv_id="MTV HD  131">MTV HD  131</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11054" xmltv_id="MTV Music  132">MTV Music  132</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11055" xmltv_id="Gambero Rosso HD  133">Gambero Rosso HD  133</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11437" xmltv_id="Classica HD  136">Classica HD  136</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9753" xmltv_id="NOVE HD  149">NOVE HD  149</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10458" xmltv_id="20Mediaset HD  151">20Mediaset HD  151</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_8133" xmltv_id="cielo  156">cielo  156</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11342" xmltv_id="27Twentyseven HD  158">27Twentyseven HD  158</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10466" xmltv_id="La 5 HD  159">La 5 HD  159</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8173" xmltv_id="Real Time HD  160">Real Time HD  160</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10465" xmltv_id="Mediaset Extra HD  163">Mediaset Extra HD  163</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8131" xmltv_id="GIALLO HD  167">GIALLO HD  167</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10468" xmltv_id="TOPcrime HD  168">TOPcrime HD  168</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8933" xmltv_id="DMAX HD  170">DMAX HD  170</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10469" xmltv_id="Mediaset Italia2 HD  175">Mediaset Italia2 HD  175</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9113" xmltv_id="Sky Sport Calcio  202">Sky Sport Calcio  202</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11237" xmltv_id="Sky Sport Tennis  203">Sky Sport Tennis  203</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_7507" xmltv_id="Sky Sport Arena  204">Sky Sport Arena  204</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9103" xmltv_id="Sky Sport Max  205">Sky Sport Max  205</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_10254" xmltv_id="Sky Sport Golf  206">Sky Sport Golf  206</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9116" xmltv_id="Sky Sport Basket  205">Sky Sport Basket  205</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9103" xmltv_id="Sky Sport Max  206">Sky Sport Max  206</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9096" xmltv_id="Sky Sport F1  207">Sky Sport F1  207</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8753" xmltv_id="Sky Sport NBA  209">Sky Sport NBA  209</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9116" xmltv_id="Sky Sport NBA  209">Sky Sport NBA  209</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9057" xmltv_id="Eurosport 1  210">Eurosport 1  210</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9060" xmltv_id="Eurosport 2  211">Eurosport 2  211</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_10254" xmltv_id="Sky Sport Golf  209">Sky Sport Golf  209</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11910" xmltv_id="Sky Sport Legend  210">Sky Sport Legend  210</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11909" xmltv_id="Sky Sport Mix  211">Sky Sport Mix  211</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6000" xmltv_id="SuperTennis HD  212">SuperTennis HD  212</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11406" xmltv_id="DAZN 1  214">DAZN 1  214</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11407" xmltv_id="DAZN2 DTT  215">DAZN2 DTT  215</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11497" xmltv_id="Sky Sport  251">Sky Sport  251</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11496" xmltv_id="Sky Sport  252">Sky Sport  252</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11494" xmltv_id="Sky Sport  253">Sky Sport  253</channel>
@@ -262,7 +228,7 @@
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_617" xmltv_id="Sky Calcio 11  261">Sky Calcio 11  261</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9044" xmltv_id="Sky Cinema Uno  301">Sky Cinema Uno  301</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9034" xmltv_id="Sky Cinema Due  302">Sky Cinema Due  302</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9047" xmltv_id="Hunger Games Collection  303">Hunger Games Collection  303</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9047" xmltv_id="Transformers Collection  303">Transformers Collection  303</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9042" xmltv_id="Sky Cinema Family  304">Sky Cinema Family  304</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9050" xmltv_id="Sky Cinema Action  305">Sky Cinema Action  305</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10515" xmltv_id="Sky Cinema Suspense  306">Sky Cinema Suspense  306</channel>
@@ -274,22 +240,18 @@
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10467" xmltv_id="Iris HD  325">Iris HD  325</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10893" xmltv_id="Cine34 HD  327">Cine34 HD  327</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_7767" xmltv_id="Sky Arte  400">Sky Arte  400</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11277" xmltv_id="Sky Arte +1  401">Sky Arte +1  401</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11241" xmltv_id="Sky Documentaries  402">Sky Documentaries  402</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11243" xmltv_id="Sky Documentaries +1  403">Sky Documentaries +1  403</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11243" xmltv_id="Sky Documentaries +1 HD  403">Sky Documentaries +1 HD  403</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11245" xmltv_id="Sky Nature  404">Sky Nature  404</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9059" xmltv_id="Discovery  405">Discovery  405</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_331" xmltv_id="Discovery +1  406">Discovery +1  406</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11890" xmltv_id="Sky Adventure  407">Sky Adventure  407</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9101" xmltv_id="History  411">History  411</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_123" xmltv_id="History +1  412">History +1  412</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_11216" xmltv_id="Sky Crime  414">Sky Crime  414</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9099" xmltv_id="Gambero Rosso HD  415">Gambero Rosso HD  415</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10470" xmltv_id="Focus HD  416">Focus HD  416</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_10534" xmltv_id="Food Network HD  417">Food Network HD  417</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11154" xmltv_id="HGTV HD  418">HGTV HD  418</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_8130" xmltv_id="Motor Trend HD  419">Motor Trend HD  419</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6626" xmltv_id="QVC  475">QVC  475</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9117" xmltv_id="Sky TG24  100">Sky TG24  100</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_11712" xmltv_id="VALUE 24 TV  490">VALUE 24 TV  490</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9653" xmltv_id="Sky TG24  100">Sky TG24  100</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_9117" xmltv_id="Sky TG24  500">Sky TG24  500</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_321" xmltv_id="Sky Meteo24  502">Sky Meteo24  502</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6510" xmltv_id="TG24PrimoPiano  503">TG24PrimoPiano  503</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_308" xmltv_id="Class CNBC  507">Class CNBC  507</channel>
@@ -302,17 +264,15 @@
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_460" xmltv_id="DeAKids  601">DeAKids  601</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_364" xmltv_id="DeAKids +1  602">DeAKids +1  602</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_461" xmltv_id="Nick Jr  603">Nick Jr  603</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_6701" xmltv_id="Nick Jr +1  604">Nick Jr +1  604</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_6701" xmltv_id="Nick Jr. +1  604">Nick Jr. +1  604</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_320" xmltv_id="Nickelodeon  605">Nickelodeon  605</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6140" xmltv_id="Nickelodeon +1  606">Nickelodeon +1  606</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9693" xmltv_id="Cartoon Network  607">Cartoon Network  607</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_476" xmltv_id="Cartoon +1  608">Cartoon +1  608</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_476" xmltv_id="CN Lego days  608">CN Lego days  608</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_472" xmltv_id="Boomerang  609">Boomerang  609</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_479" xmltv_id="Boomerang +1  610">Boomerang +1  610</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_7427" xmltv_id="DeAJunior  623">DeAJunior  623</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6460" xmltv_id="Super!  625">Super!  625</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_6240" xmltv_id="K2  626">K2  626</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_6610" xmltv_id="-frisbee-  627">-frisbee-  627</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6628" xmltv_id="Boing  5040">Boing  5040</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6629" xmltv_id="Rai Gulp  5042">Rai Gulp  5042</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6609" xmltv_id="Rai Yoyo  5043">Rai Yoyo  5043</channel>
@@ -321,7 +281,7 @@
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_462" xmltv_id="Deejay TV  714">Deejay TV  714</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10993" xmltv_id="Radio Monte Carlo  716">Radio Monte Carlo  716</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_9833" xmltv_id="Radio Italia TV HD  725">Radio Italia TV HD  725</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_10033" xmltv_id="Radio Italia Trend Tv HD  726">Radio Italia Trend Tv HD  726</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_10033" xmltv_id="Radio Italia Live  726">Radio Italia Live  726</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6885" xmltv_id="RTL 102.5 HD  736">RTL 102.5 HD  736</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_10616" xmltv_id="RADIOFRECCIA HD  738">RADIOFRECCIA HD  738</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_899" xmltv_id="Rai 1 HD  101">Rai 1 HD  101</channel>
@@ -335,7 +295,7 @@
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6607" xmltv_id="Rai 5  5023">Rai 5  5023</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6608" xmltv_id="Rai Movie  5024">Rai Movie  5024</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6623" xmltv_id="Rai Premium  5025">Rai Premium  5025</channel>
-    <channel update="i" site="guidatv.sky.it" site_id="Fibra_6624" xmltv_id="LA7D  5029">LA7D  5029</channel>
+    <channel update="i" site="guidatv.sky.it" site_id="Fibra_6624" xmltv_id="LA7CINEMA  5029">LA7CINEMA  5029</channel>
     <channel update="i" site="guidatv.sky.it" site_id="Fibra_6630" xmltv_id="Rai Storia  5054">Rai Storia  5054</channel>
   </channels>
 </site>
