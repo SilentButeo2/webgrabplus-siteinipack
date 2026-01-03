@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" site="neo.si">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="neo.si">
   <channels>
     <channel update="i" site="neo.si" site_id="tv-slo-1" xmltv_id="TV SLO 1">TV SLO 1</channel>
     <channel update="i" site="neo.si" site_id="tv-slo-2" xmltv_id="TV SLO 2">TV SLO 2</channel>
@@ -13,6 +13,7 @@
     <channel update="i" site="neo.si" site_id="gold-tv" xmltv_id="Gold TV">Gold TV</channel>
     <channel update="i" site="neo.si" site_id="veseljak-golica" xmltv_id="Veseljak Golica">Veseljak Golica</channel>
     <channel update="i" site="neo.si" site_id="arena-tv" xmltv_id="Arena TV">Arena TV</channel>
+    <channel update="i" site="neo.si" site_id="harmonik-tv" xmltv_id="Harmonik TV">Harmonik TV</channel>
     <channel update="i" site="neo.si" site_id="aktual-tv" xmltv_id="AKTUAL TV">AKTUAL TV</channel>
     <channel update="i" site="neo.si" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="neo.si" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
@@ -29,12 +30,11 @@
     <channel update="i" site="neo.si" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="neo.si" site_id="history-channel" xmltv_id="History Channel">History Channel</channel>
     <channel update="i" site="neo.si" site_id="h2" xmltv_id="H2">H2</channel>
-    <channel update="i" site="neo.si" site_id="da-vinci-learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="neo.si" site_id="da-vinci" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
     <channel update="i" site="neo.si" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
     <channel update="i" site="neo.si" site_id="viasat-true-crime" xmltv_id="Viasat True Crime">Viasat True Crime</channel>
     <channel update="i" site="neo.si" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="neo.si" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
-    <channel update="i" site="neo.si" site_id="curiosity-channel" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
     <channel update="i" site="neo.si" site_id="balkan-trip" xmltv_id="Balkan trip">Balkan trip</channel>
     <channel update="i" site="neo.si" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="neo.si" site_id="cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
@@ -42,16 +42,16 @@
     <channel update="i" site="neo.si" site_id="star-life" xmltv_id="STAR Life">STAR Life</channel>
     <channel update="i" site="neo.si" site_id="star-crime" xmltv_id="STAR Crime">STAR Crime</channel>
     <channel update="i" site="neo.si" site_id="star-movies" xmltv_id="STAR Movies">STAR Movies</channel>
-    <channel update="i" site="neo.si" site_id="pickbox-tv" xmltv_id="Pickbox TV">Pickbox TV</channel>
-    <channel update="i" site="neo.si" site_id="tv-1000" xmltv_id="TV 1000">TV 1000</channel>
+    <channel update="i" site="neo.si" site_id="pickbox-1" xmltv_id="Pickbox 1">Pickbox 1</channel>
+    <channel update="i" site="neo.si" site_id="viasat-kino" xmltv_id="Viasat Kino">Viasat Kino</channel>
     <channel update="i" site="neo.si" site_id="kino" xmltv_id="Kino">Kino</channel>
     <channel update="i" site="neo.si" site_id="brio" xmltv_id="Brio">Brio</channel>
-    <channel update="i" site="neo.si" site_id="cinestar-tv-1" xmltv_id="Cinestar TV 1">Cinestar TV 1</channel>
-    <channel update="i" site="neo.si" site_id="cinestar-tv-2" xmltv_id="Cinestar TV 2">Cinestar TV 2</channel>
-    <channel update="i" site="neo.si" site_id="cinestar-tv-action-&amp;-thriller" xmltv_id="CineStar TV Action &amp; Thriller">CineStar TV Action &amp; Thriller</channel>
+    <channel update="i" site="neo.si" site_id="cinestar-1" xmltv_id="Cinestar 1">Cinestar 1</channel>
+    <channel update="i" site="neo.si" site_id="cinestar-2" xmltv_id="Cinestar 2">Cinestar 2</channel>
+    <channel update="i" site="neo.si" site_id="cinestar-action-&amp;-thriller" xmltv_id="CineStar Action &amp; Thriller">CineStar Action &amp; Thriller</channel>
     <channel update="i" site="neo.si" site_id="cinestar-fantasy" xmltv_id="Cinestar Fantasy">Cinestar Fantasy</channel>
-    <channel update="i" site="neo.si" site_id="cinestar-tv-premiere-1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
-    <channel update="i" site="neo.si" site_id="cinestar-tv-premiere-2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+    <channel update="i" site="neo.si" site_id="cinestar-premiere-1" xmltv_id="CineStar Premiere 1">CineStar Premiere 1</channel>
+    <channel update="i" site="neo.si" site_id="cinestar-premiere-2" xmltv_id="CineStar Premiere 2">CineStar Premiere 2</channel>
     <channel update="i" site="neo.si" site_id="bbc-first" xmltv_id="BBC First">BBC First</channel>
     <channel update="i" site="neo.si" site_id="klasik" xmltv_id="Klasik">Klasik</channel>
     <channel update="i" site="neo.si" site_id="amc" xmltv_id="AMC">AMC</channel>
@@ -72,6 +72,7 @@
     <channel update="i" site="neo.si" site_id="fashion-hd" xmltv_id="Fashion HD">Fashion HD</channel>
     <channel update="i" site="neo.si" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="neo.si" site_id="fashiontv-4k" xmltv_id="FashionTV 4K">FashionTV 4K</channel>
+    <channel update="i" site="neo.si" site_id="fashion-secrets" xmltv_id="Fashion Secrets">Fashion Secrets</channel>
     <channel update="i" site="neo.si" site_id="arte" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="neo.si" site_id="rtl" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="neo.si" site_id="rtl-ii" xmltv_id="RTL II">RTL II</channel>
@@ -98,6 +99,7 @@
     <channel update="i" site="neo.si" site_id="fashionbox" xmltv_id="FashionBox">FashionBox</channel>
     <channel update="i" site="neo.si" site_id="fast-and-funbox" xmltv_id="Fast and FunBox">Fast and FunBox</channel>
     <channel update="i" site="neo.si" site_id="funbox" xmltv_id="FunBox 4K">FunBox 4K</channel>
+    <channel update="i" site="neo.si" site_id="hype-tv" xmltv_id="Hype TV">Hype TV</channel>
     <channel update="i" site="neo.si" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
     <channel update="i" site="neo.si" site_id="oto" xmltv_id="OTO">OTO</channel>
     <channel update="i" site="neo.si" site_id="baby-tv" xmltv_id="Baby TV">Baby TV</channel>
@@ -133,16 +135,10 @@
     <channel update="i" site="neo.si" site_id="pink-folk-2" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
     <channel update="i" site="neo.si" site_id="pink-koncert" xmltv_id="Pink Koncert">Pink Koncert</channel>
     <channel update="i" site="neo.si" site_id="pink'n'roll" xmltv_id="Pink’n’Roll">Pink’n’Roll</channel>
-    <channel update="i" site="neo.si" site_id="mtv-hd" xmltv_id="MTV HD">MTV HD</channel>
-    <channel update="i" site="neo.si" site_id="mtv-00s" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel update="i" site="neo.si" site_id="cmc" xmltv_id="CMC">CMC</channel>
     <channel update="i" site="neo.si" site_id="klape-i-tambure-tv" xmltv_id="Klape i tambure TV">Klape i tambure TV</channel>
     <channel update="i" site="neo.si" site_id="jugoton" xmltv_id="Jugoton">Jugoton</channel>
-    <channel update="i" site="neo.si" site_id="club-mtv" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="neo.si" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="neo.si" site_id="trace-urban" xmltv_id="Trace Urban">Trace Urban</channel>
-    <channel update="i" site="neo.si" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="neo.si" site_id="mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="neo.si" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="neo.si" site_id="pink-music" xmltv_id="Pink Music">Pink Music</channel>
     <channel update="i" site="neo.si" site_id="dm-sat" xmltv_id="DM SAT">DM SAT</channel>
@@ -157,6 +153,18 @@
     <channel update="i" site="neo.si" site_id="prva-tv" xmltv_id="PRVA TV">PRVA TV</channel>
     <channel update="i" site="neo.si" site_id="best-tv" xmltv_id="BEST TV">BEST TV</channel>
     <channel update="i" site="neo.si" site_id="360-tunebox" xmltv_id="360 TuneBox">360 TuneBox</channel>
+    <channel update="i" site="neo.si" site_id="muzzik-mix" xmltv_id="Muzzik Mix">Muzzik Mix</channel>
+    <channel update="i" site="neo.si" site_id="muzzik" xmltv_id="Muzzik">Muzzik</channel>
+    <channel update="i" site="neo.si" site_id="pop-star" xmltv_id="Pop Star">Pop Star</channel>
+    <channel update="i" site="neo.si" site_id="r&amp;r" xmltv_id="R&amp;R">R&amp;R</channel>
+    <channel update="i" site="neo.si" site_id="flashback" xmltv_id="FlashBack">FlashBack</channel>
+    <channel update="i" site="neo.si" site_id="jeka" xmltv_id="Jeka">Jeka</channel>
+    <channel update="i" site="neo.si" site_id="zz-tv" xmltv_id="ZZ TV">ZZ TV</channel>
+    <channel update="i" site="neo.si" site_id="wwm" xmltv_id="WWM">WWM</channel>
+    <channel update="i" site="neo.si" site_id="restart" xmltv_id="Restart">Restart</channel>
+    <channel update="i" site="neo.si" site_id="electro" xmltv_id="Electro">Electro</channel>
+    <channel update="i" site="neo.si" site_id="myuzzik" xmltv_id="Myuzzik">Myuzzik</channel>
+    <channel update="i" site="neo.si" site_id="radio-1-tv" xmltv_id="Radio 1 TV">Radio 1 TV</channel>
     <channel update="i" site="neo.si" site_id="tv8" xmltv_id="Tv8">Tv8</channel>
     <channel update="i" site="neo.si" site_id="net-tv" xmltv_id="NET TV">NET TV</channel>
     <channel update="i" site="neo.si" site_id="vas-kanal" xmltv_id="Vaš kanal">Vaš kanal</channel>
@@ -167,7 +175,7 @@
     <channel update="i" site="neo.si" site_id="vtv" xmltv_id="VTV">VTV</channel>
     <channel update="i" site="neo.si" site_id="bk-tv" xmltv_id="BK TV">BK TV</channel>
     <channel update="i" site="neo.si" site_id="tv-celje" xmltv_id="TV Celje">TV Celje</channel>
-    <channel update="i" site="neo.si" site_id="kanal-10-/-idea-tv" xmltv_id="Kanal 10 / Idea TV">Kanal 10 / Idea TV</channel>
+    <channel update="i" site="neo.si" site_id="kanal-10---idea-tv" xmltv_id="Kanal 10 - Idea TV">Kanal 10 - Idea TV</channel>
     <channel update="i" site="neo.si" site_id="tv-galeja-hd" xmltv_id="TV Galeja HD">TV Galeja HD</channel>
     <channel update="i" site="neo.si" site_id="exodus-tv" xmltv_id="Exodus TV">Exodus TV</channel>
     <channel update="i" site="neo.si" site_id="megafon-tv-hd" xmltv_id="Megafon TV HD">Megafon TV HD</channel>
@@ -175,7 +183,6 @@
     <channel update="i" site="neo.si" site_id="zdrava-tv" xmltv_id="Zdrava TV">Zdrava TV</channel>
     <channel update="i" site="neo.si" site_id="atm-tv-kranjska-gora-hd" xmltv_id="ATM TV Kranjska Gora HD">ATM TV Kranjska Gora HD</channel>
     <channel update="i" site="neo.si" site_id="tv-srk-11" xmltv_id="TV SRK-11">TV SRK-11</channel>
-    <channel update="i" site="neo.si" site_id="gea-tv" xmltv_id="Gea TV">Gea TV</channel>
     <channel update="i" site="neo.si" site_id="tv-nakupi-hd" xmltv_id="TV nakupi HD">TV nakupi HD</channel>
     <channel update="i" site="neo.si" site_id="ljubljana-tv-hd" xmltv_id="Ljubljana TV HD">Ljubljana TV HD</channel>
     <channel update="i" site="neo.si" site_id="r-kanal+" xmltv_id="R Kanal+">R Kanal+</channel>
@@ -201,9 +208,7 @@
     <channel update="i" site="neo.si" site_id="rt-srbija-hd" xmltv_id="RT Srbija HD">RT Srbija HD</channel>
     <channel update="i" site="neo.si" site_id="mne" xmltv_id="MNE">MNE</channel>
     <channel update="i" site="neo.si" site_id="rtk" xmltv_id="RTK">RTK</channel>
-    <channel update="i" site="neo.si" site_id="al-jazeera-balkans" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
     <channel update="i" site="neo.si" site_id="hayat" xmltv_id="Hayat">Hayat</channel>
-    <channel update="i" site="neo.si" site_id="elta-tv" xmltv_id="ELTA TV">ELTA TV</channel>
     <channel update="i" site="neo.si" site_id="bn-tv-2" xmltv_id="BN TV 2">BN TV 2</channel>
     <channel update="i" site="neo.si" site_id="cnn" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="neo.si" site_id="bbc-news" xmltv_id="BBC News">BBC News</channel>
@@ -227,6 +232,7 @@
     <channel update="i" site="neo.si" site_id="karousel" xmltv_id="Karousel">Karousel</channel>
     <channel update="i" site="neo.si" site_id="tnt-music" xmltv_id="TNT Music">TNT Music</channel>
     <channel update="i" site="neo.si" site_id="duna-hd" xmltv_id="Duna HD">Duna HD</channel>
+    <channel update="i" site="neo.si" site_id="tgcom24" xmltv_id="TGCOM24">TGCOM24</channel>
     <channel update="i" site="neo.si" site_id="cartoonito-italija" xmltv_id="Cartoonito Italija">Cartoonito Italija</channel>
     <channel update="i" site="neo.si" site_id="rai-yoyo" xmltv_id="Rai YoYo">Rai YoYo</channel>
     <channel update="i" site="neo.si" site_id="rai-movie" xmltv_id="Rai Movie">Rai Movie</channel>
@@ -235,7 +241,6 @@
     <channel update="i" site="neo.si" site_id="ictbusiness-tv" xmltv_id="ICTbusiness TV">ICTbusiness TV</channel>
     <channel update="i" site="neo.si" site_id="m1-hd" xmltv_id="M1 HD">M1 HD</channel>
     <channel update="i" site="neo.si" site_id="m4-sport-hd" xmltv_id="M4 Sport HD">M4 Sport HD</channel>
-    <channel update="i" site="neo.si" site_id="rai-3-bis" xmltv_id="RAI 3 BIS">RAI 3 BIS</channel>
     <channel update="i" site="neo.si" site_id="rtl-2-hrvaska" xmltv_id="RTL 2 Hrvaška">RTL 2 Hrvaška</channel>
     <channel update="i" site="neo.si" site_id="rtl-hrvaska" xmltv_id="RTL Hrvaška">RTL Hrvaška</channel>
     <channel update="i" site="neo.si" site_id="rtl-living" xmltv_id="RTL Living">RTL Living</channel>
@@ -247,11 +252,9 @@
     <channel update="i" site="neo.si" site_id="tring-vizion+" xmltv_id="Tring Vizion+">Tring Vizion+</channel>
     <channel update="i" site="neo.si" site_id="tv-prva-max" xmltv_id="TV Prva Max">TV Prva Max</channel>
     <channel update="i" site="neo.si" site_id="tv-prva-world" xmltv_id="TV Prva World">TV Prva World</channel>
-    <channel update="i" site="neo.si" site_id="ftv" xmltv_id="FTV">FTV</channel>
     <channel update="i" site="neo.si" site_id="ntv-ic-kakanj" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
     <channel update="i" site="neo.si" site_id="folk-plus" xmltv_id="Folk Plus">Folk Plus</channel>
     <channel update="i" site="neo.si" site_id="rtrs" xmltv_id="RTRS">RTRS</channel>
-    <channel update="i" site="neo.si" site_id="o-kanal" xmltv_id="O Kanal">O Kanal</channel>
     <channel update="i" site="neo.si" site_id="tv-sarajevo" xmltv_id="TV Sarajevo">TV Sarajevo</channel>
     <channel update="i" site="neo.si" site_id="zdrava-televizija" xmltv_id="Zdrava Televizija">Zdrava Televizija</channel>
     <channel update="i" site="neo.si" site_id="tv-prva-files" xmltv_id="TV Prva Files">TV Prva Files</channel>
@@ -286,7 +289,7 @@
     <channel update="i" site="neo.si" site_id="tv-duga-novi-sad" xmltv_id="TV Duga Novi sad">TV Duga Novi sad</channel>
     <channel update="i" site="neo.si" site_id="kcn-3-(svet+)" xmltv_id="KCN 3 (svet+)">KCN 3 (svet+)</channel>
     <channel update="i" site="neo.si" site_id="bht1" xmltv_id="BHT1">BHT1</channel>
-    <channel update="i" site="neo.si" site_id="elta-hd" xmltv_id="ELTA HD">ELTA HD</channel>
+    <channel update="i" site="neo.si" site_id="rtv-tk" xmltv_id="RTV TK">RTV TK</channel>
     <channel update="i" site="neo.si" site_id="hema" xmltv_id="Hema">Hema</channel>
     <channel update="i" site="neo.si" site_id="living-hd" xmltv_id="Living HD">Living HD</channel>
     <channel update="i" site="neo.si" site_id="rtcg-2" xmltv_id="RTCG 2">RTCG 2</channel>
@@ -296,10 +299,16 @@
     <channel update="i" site="neo.si" site_id="otv-music" xmltv_id="OTV music">OTV music</channel>
     <channel update="i" site="neo.si" site_id="non-stop" xmltv_id="NON Stop">NON Stop</channel>
     <channel update="i" site="neo.si" site_id="hit-tv" xmltv_id="Hit TV">Hit TV</channel>
+    <channel update="i" site="neo.si" site_id="rtv-cazin" xmltv_id="RTV Cazin">RTV Cazin</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-pride" xmltv_id="Dajmedol Pride">Dajmedol Pride</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-fantazije" xmltv_id="Dajmedol Fantazije">Dajmedol Fantazije</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-ekstrem-plus" xmltv_id="Dajmedol Ekstrem Plus">Dajmedol Ekstrem Plus</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-pohotnice" xmltv_id="Dajmedol Pohotnice">Dajmedol Pohotnice</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-mature" xmltv_id="Dajmedol Mature">Dajmedol Mature</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-fetis" xmltv_id="Dajmedol Fetiš">Dajmedol Fetiš</channel>
+    <channel update="i" site="neo.si" site_id="dajmedol-4k" xmltv_id="Dajmedol 4K">Dajmedol 4K</channel>
     <channel update="i" site="neo.si" site_id="extasy-4k-platinum" xmltv_id="Extasy 4K Platinum">Extasy 4K Platinum</channel>
-    <channel update="i" site="neo.si" site_id="glam-hd" xmltv_id="Glam HD">Glam HD</channel>
-    <channel update="i" site="neo.si" site_id="foxy-dolls-hd" xmltv_id="Foxy Dolls HD">Foxy Dolls HD</channel>
-    <channel update="i" site="neo.si" site_id="extrem" xmltv_id="Extrem">Extrem</channel>
+    <channel update="i" site="neo.si" site_id="extreme" xmltv_id="Extreme">Extreme</channel>
     <channel update="i" site="neo.si" site_id="hot-pleasure" xmltv_id="Hot Pleasure">Hot Pleasure</channel>
     <channel update="i" site="neo.si" site_id="balkan-erotic" xmltv_id="Balkan Erotic">Balkan Erotic</channel>
     <channel update="i" site="neo.si" site_id="playboy-tv" xmltv_id="Playboy TV">Playboy TV</channel>
@@ -315,21 +324,14 @@
     <channel update="i" site="neo.si" site_id="vivid-red-hd" xmltv_id="Vivid Red HD">Vivid Red HD</channel>
     <channel update="i" site="neo.si" site_id="pinko-club" xmltv_id="Pinko club">Pinko club</channel>
     <channel update="i" site="neo.si" site_id="vivid-touch" xmltv_id="Vivid Touch">Vivid Touch</channel>
-    <channel update="i" site="neo.si" site_id="gasscore-hd" xmltv_id="Gasscore HD">Gasscore HD</channel>
-    <channel update="i" site="neo.si" site_id="purple-pills-hd" xmltv_id="Purple pills HD">Purple pills HD</channel>
     <channel update="i" site="neo.si" site_id="sexation" xmltv_id="Sexation">Sexation</channel>
+    <channel update="i" site="neo.si" site_id="vixen" xmltv_id="Vixen">Vixen</channel>
     <channel update="i" site="neo.si" site_id="reality-kings-tv" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
     <channel update="i" site="neo.si" site_id="hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
     <channel update="i" site="neo.si" site_id="hot-xxl" xmltv_id="Hot XXL">Hot XXL</channel>
     <channel update="i" site="neo.si" site_id="passion-xxx-hd" xmltv_id="Passion XXX HD">Passion XXX HD</channel>
     <channel update="i" site="neo.si" site_id="erox" xmltv_id="Erox">Erox</channel>
     <channel update="i" site="neo.si" site_id="eroxxx" xmltv_id="Eroxxx">Eroxxx</channel>
-    <channel update="i" site="neo.si" site_id="devils-home-hd" xmltv_id="Devils Home HD">Devils Home HD</channel>
-    <channel update="i" site="neo.si" site_id="capable-hole-hd" xmltv_id="Capable Hole HD">Capable Hole HD</channel>
-    <channel update="i" site="neo.si" site_id="boob-hd" xmltv_id="BooB HD">BooB HD</channel>
-    <channel update="i" site="neo.si" site_id="angels-hd" xmltv_id="Angels HD">Angels HD</channel>
-    <channel update="i" site="neo.si" site_id="mixxx-hd" xmltv_id="MIXXX HD">MIXXX HD</channel>
-    <channel update="i" site="neo.si" site_id="xxxtazy-hd" xmltv_id="XXXTAZY HD">XXXTAZY HD</channel>
     <channel update="i" site="neo.si" site_id="radio-capris-80's" xmltv_id="Radio Capris 80’S">Radio Capris 80’S</channel>
     <channel update="i" site="neo.si" site_id="radio-capris-90's-dance" xmltv_id="Radio Capris 90’S Dance">Radio Capris 90’S Dance</channel>
     <channel update="i" site="neo.si" site_id="radio-capris-90's-pop" xmltv_id="Radio Capris 90’S Pop">Radio Capris 90’S Pop</channel>
@@ -340,6 +342,7 @@
     <channel update="i" site="neo.si" site_id="radio-primorski-val" xmltv_id="Radio Primorski val">Radio Primorski val</channel>
     <channel update="i" site="neo.si" site_id="radio-brezice-eu" xmltv_id="Radio Brežice EU">Radio Brežice EU</channel>
     <channel update="i" site="neo.si" site_id="radio-zica" xmltv_id="Radio Žica">Radio Žica</channel>
+    <channel update="i" site="neo.si" site_id="juboks-radio" xmltv_id="Juboks Radio">Juboks Radio</channel>
     <channel update="i" site="neo.si" site_id="radio-mars" xmltv_id="Radio Marš">Radio Marš</channel>
     <channel update="i" site="neo.si" site_id="radio-prvi" xmltv_id="Radio Prvi">Radio Prvi</channel>
     <channel update="i" site="neo.si" site_id="val-202" xmltv_id="Val 202">Val 202</channel>
@@ -393,12 +396,25 @@
     <channel update="i" site="neo.si" site_id="morska-obala" xmltv_id="Morska obala">Morska obala</channel>
     <channel update="i" site="neo.si" site_id="tropski-podvodni-svet" xmltv_id="Tropski podvodni svet">Tropski podvodni svet</channel>
     <channel update="i" site="neo.si" site_id="kamin" xmltv_id="Kamin">Kamin</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-obala" xmltv_id="Radio Aktual Obala">Radio Aktual Obala</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-nostalgija" xmltv_id="Radio Aktual Nostalgija">Radio Aktual Nostalgija</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-galama" xmltv_id="Radio Aktual Galama">Radio Aktual Galama</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-dalmacija" xmltv_id="Radio Aktual Dalmacija">Radio Aktual Dalmacija</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-romantika" xmltv_id="Radio Aktual Romantika">Radio Aktual Romantika</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-kum" xmltv_id="Radio Aktual Kum">Radio Aktual Kum</channel>
+    <channel update="i" site="neo.si" site_id="radio-aktual-d" xmltv_id="Radio Aktual D">Radio Aktual D</channel>
     <channel update="i" site="neo.si" site_id="toti-radio" xmltv_id="Toti Radio">Toti Radio</channel>
     <channel update="i" site="neo.si" site_id="radio-enter" xmltv_id="Radio Enter">Radio Enter</channel>
     <channel update="i" site="neo.si" site_id="radio-fantasy" xmltv_id="Radio Fantasy">Radio Fantasy</channel>
-    <channel update="i" site="neo.si" site_id="radio-bob" xmltv_id="Radio BOB">Radio BOB</channel>
+    <channel update="i" site="neo.si" site_id="radio-1-rock" xmltv_id="Radio 1 Rock">Radio 1 Rock</channel>
     <channel update="i" site="neo.si" site_id="radio-terminal" xmltv_id="Radio Terminal">Radio Terminal</channel>
     <channel update="i" site="neo.si" site_id="capris-number-1's" xmltv_id="Capris NUMBER 1’s">Capris NUMBER 1’s</channel>
+    <channel update="i" site="neo.si" site_id="radio-capris-club" xmltv_id="Radio Capris Club">Radio Capris Club</channel>
+    <channel update="i" site="neo.si" site_id="radio-capris-cafe" xmltv_id="Radio Capris Cafe">Radio Capris Cafe</channel>
+    <channel update="i" site="neo.si" site_id="radio-capris-ibiza" xmltv_id="Radio Capris Ibiza">Radio Capris Ibiza</channel>
+    <channel update="i" site="neo.si" site_id="frajer-radio" xmltv_id="Frajer Radio">Frajer Radio</channel>
+    <channel update="i" site="neo.si" site_id="koroski-radio" xmltv_id="Koroški radio">Koroški radio</channel>
+    <channel update="i" site="neo.si" site_id="radio-slovenske-gorice" xmltv_id="Radio Slovenske gorice">Radio Slovenske gorice</channel>
     <channel update="i" site="neo.si" site_id="veseli-december" xmltv_id="Veseli december">Veseli december</channel>
   </channels>
 </site>
