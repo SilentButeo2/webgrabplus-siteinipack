@@ -1,20 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.14 -- Jan van Straaten" site="sportsnet.ca">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="sportsnet.ca">
   <channels>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-12" xmltv_id="SN PLUS 12">SN PLUS 12</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-ontario" xmltv_id="SN ONTARIO">SN ONTARIO</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-03" xmltv_id="SN PLUS 03">SN PLUS 03</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-01" xmltv_id="SN PLUS 01">SN PLUS 01</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-02" xmltv_id="SN PLUS 02">SN PLUS 02</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-world" xmltv_id="SN WORLD">SN WORLD</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-one" xmltv_id="SN ONE">SN ONE</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-17" xmltv_id="SN PLUS 17">SN PLUS 17</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-360" xmltv_id="SN 360">SN 360</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-13" xmltv_id="SN PLUS 13">SN PLUS 13</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-14" xmltv_id="SN PLUS 14">SN PLUS 14</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-18" xmltv_id="SN PLUS 18">SN PLUS 18</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-15" xmltv_id="SN PLUS 15">SN PLUS 15</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-16" xmltv_id="SN PLUS 16">SN PLUS 16</channel>
-    <channel update="i" site="sportsnet.ca" site_id="sn-plus-19" xmltv_id="SN PLUS 19">SN PLUS 19</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-east" xmltv_id="SNEHD">SNEHD</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-ontario" xmltv_id="SNOHD">SNOHD</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-west" xmltv_id="SNWHD">SNWHD</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-pacific" xmltv_id="SNPHD">SNPHD</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-one" xmltv_id="SN1HD">SN1HD</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-360" xmltv_id="SN360H">SN360H</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-world" xmltv_id="SNWLH">SNWLH</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-network" xmltv_id="WWEHD">WWEHD</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-01" xmltv_id="SNPLUS1">SNPLUS1</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-02" xmltv_id="SNPLUS2">SNPLUS2</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-03" xmltv_id="SNPLUS3">SNPLUS3</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-04" xmltv_id="SNPLUS4">SNPLUS4</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-05" xmltv_id="SNPLUS5">SNPLUS5</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-06" xmltv_id="SNPLUS6">SNPLUS6</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-07" xmltv_id="SNPLUS7">SNPLUS7</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-08" xmltv_id="SNPLUS8">SNPLUS8</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-09" xmltv_id="SNPLUS9">SNPLUS9</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-10" xmltv_id="SNPLUS10">SNPLUS10</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-11" xmltv_id="SNPLUS11">SNPLUS11</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-12" xmltv_id="SNPLUS12">SNPLUS12</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-13" xmltv_id="SNPLUS13">SNPLUS13</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-14" xmltv_id="SNPLUS14">SNPLUS14</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-15" xmltv_id="SNPLUS15">SNPLUS15</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-16" xmltv_id="SNPLUS16">SNPLUS16</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-17" xmltv_id="SNPLUS17">SNPLUS17</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-18" xmltv_id="SNPLUS18">SNPLUS18</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-19" xmltv_id="SNPLUS19">SNPLUS19</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-20" xmltv_id="SNPLUS20">SNPLUS20</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-21" xmltv_id="SNPLUS21">SNPLUS21</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-22" xmltv_id="SNPLUS22">SNPLUS22</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-23" xmltv_id="SNPLUS23">SNPLUS23</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-24" xmltv_id="SNPLUS24">SNPLUS24</channel>
+    <channel update="i" site="sportsnet.ca" site_id="sn-plus-25" xmltv_id="SNPLUS25">SNPLUS25</channel>
   </channels>
 </site>
