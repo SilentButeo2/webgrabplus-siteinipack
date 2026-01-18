@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="sat.tv">
+  <channels>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1" xmltv_id="أبو ظبي تي في">أبو ظبي تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2" xmltv_id="الامارات">الامارات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##3" xmltv_id="دبي تي في">دبي تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##4" xmltv_id="ناشيونال جيوغرافك">ناشيونال جيوغرافك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##5" xmltv_id="ام بي سي 1">ام بي سي 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##6" xmltv_id="ام بي سي 2">ام بي سي 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##7" xmltv_id="ام بي سي 4">ام بي سي 4</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##8" xmltv_id="ام بي سي دراما">ام بي سي دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##9" xmltv_id="ام بي سي اكشن">ام بي سي اكشن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##10" xmltv_id="ام بي سي بوليوود">ام بي سي بوليوود</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##11" xmltv_id="ام بي سي مصر">ام بي سي مصر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##12" xmltv_id="سما دبي">سما دبي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##13" xmltv_id="دبي وان">دبي وان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##14" xmltv_id="روتانا خليجية">روتانا خليجية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##15" xmltv_id="روتانا سينما السعودية">روتانا سينما السعودية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##16" xmltv_id="روتانا سينما مصر">روتانا سينما مصر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##17" xmltv_id="روتانا كلاسيك">روتانا كلاسيك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##18" xmltv_id="روتانا دراما">روتانا دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##20" xmltv_id="العربية">العربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##21" xmltv_id="الحدث">الحدث</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##22" xmltv_id="سكاي نيوز عربية">سكاي نيوز عربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##23" xmltv_id="السعودية الإخبارية">السعودية الإخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##25" xmltv_id="بي بي سي عربي">بي بي سي عربي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##26" xmltv_id="اكسترا نيوز">اكسترا نيوز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##27" xmltv_id="روسيا اليوم - العربي">روسيا اليوم - العربي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##28" xmltv_id="الصين العربية">الصين العربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##29" xmltv_id="فرانس 24 عربي">فرانس 24 عربي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##30" xmltv_id="بي فور يو بلس">بي فور يو بلس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##31" xmltv_id="زي أفلام">زي أفلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##32" xmltv_id="زي ألوان">زي ألوان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##34" xmltv_id="ال بي سي اللبنانية">ال بي سي اللبنانية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##36" xmltv_id="سي بي سي">سي بي سي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##37" xmltv_id="السودان تي في">السودان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##38" xmltv_id="اون دراما">اون دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##39" xmltv_id="دولة الكويت - الأولى">دولة الكويت - الأولى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##41" xmltv_id="نايل سينما">نايل سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##42" xmltv_id="الأردني تي في">الأردني تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##43" xmltv_id="ام بي سي مصر 2">ام بي سي مصر 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##44" xmltv_id="رؤيا تي في">رؤيا تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##45" xmltv_id="صدى البلد">صدى البلد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##46" xmltv_id="دي ام سي">دي ام سي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##47" xmltv_id="الشارقة تي في">الشارقة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##48" xmltv_id="اس بي سي">اس بي سي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##49" xmltv_id="السعودية">السعودية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##50" xmltv_id="أبو ظبي الرياضية 1">أبو ظبي الرياضية 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##51" xmltv_id="أبو ظبي الرياضية 2">أبو ظبي الرياضية 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##52" xmltv_id="ياس تي في">ياس تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##53" xmltv_id="دبي الرياضية 1">دبي الرياضية 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##54" xmltv_id="دبي الرياضية 2">دبي الرياضية 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##55" xmltv_id="دبي ريسينج 1">دبي ريسينج 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##56" xmltv_id="دبي ريسينج 2">دبي ريسينج 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##57" xmltv_id="الشارقة الرياضية">الشارقة الرياضية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##58" xmltv_id="قناة الرياضية السعودية ١">قناة الرياضية السعودية ١</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##59" xmltv_id="قناة الرياضية السعودية ٢">قناة الرياضية السعودية ٢</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##60" xmltv_id="القرآن الشارقة">القرآن الشارقة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##62" xmltv_id="السعودية القرآن الكريم">السعودية القرآن الكريم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##63" xmltv_id="السعودية السنة النبوية">السعودية السنة النبوية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##65" xmltv_id="الرسالة">الرسالة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##66" xmltv_id="المجد">المجد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##67" xmltv_id="المجد للقرآن الكريم">المجد للقرآن الكريم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##68" xmltv_id="مكه تي في">مكه تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##70" xmltv_id="ام بي سي 3">ام بي سي 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##71" xmltv_id="ماجد للأطفال">ماجد للأطفال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##72" xmltv_id="كارتون نتورك">كارتون نتورك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##73" xmltv_id="سبيس تون">سبيس تون</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##80" xmltv_id="روتانا موسيقى">روتانا موسيقى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##81" xmltv_id="روتانا كليب">روتانا كليب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##82" xmltv_id="مزيكا">مزيكا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##83" xmltv_id="شدى">شدى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##90" xmltv_id="بي بي سي  انجليزي">بي بي سي  انجليزي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##91" xmltv_id="سي ان ان">سي ان ان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##92" xmltv_id="فرانس 24 انجليزي">فرانس 24 انجليزي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##93" xmltv_id="ان ايتش كي الدولي (اليابان)">ان ايتش كي الدولي (اليابان)</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##95" xmltv_id="الصين الدولية تي في">الصين الدولية تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##109" xmltv_id="ام بي سي مصر دراما">ام بي سي مصر دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##110" xmltv_id="ام بي سي العراق">ام بي سي العراق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##115" xmltv_id="سبأ">سبأ</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##125" xmltv_id="تي في 5 المغرب">تي في 5 المغرب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##126" xmltv_id="كي بي أس العالمية">كي بي أس العالمية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##130" xmltv_id="المصرية الأولى">المصرية الأولى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##131" xmltv_id="المصرية الثانية">المصرية الثانية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##132" xmltv_id="المصرية">المصرية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##135" xmltv_id="الشمس تي في">الشمس تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##136" xmltv_id="الحياة">الحياة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##137" xmltv_id="2 الحياة">2 الحياة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##138" xmltv_id="القاهرة والناس">القاهرة والناس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##139" xmltv_id="2 القاهرة والناس">2 القاهرة والناس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##140" xmltv_id="النهار">النهار</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##142" xmltv_id="اون إي">اون إي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##143" xmltv_id="المحور تي في">المحور تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##144" xmltv_id="نايل لايف">نايل لايف</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##146" xmltv_id="صدى البلد 2">صدى البلد 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##147" xmltv_id="تين">تين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##148" xmltv_id="المصري تي في">المصري تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##149" xmltv_id="3 القاهرة">3 القاهرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##150" xmltv_id="4 القنال">4 القنال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##151" xmltv_id="5 الإسكندرية">5 الإسكندرية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##152" xmltv_id="6 الدلتا">6 الدلتا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##153" xmltv_id="الصعيد 7">الصعيد 7</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##154" xmltv_id="8 طابا">8 طابا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##155" xmltv_id="اكسترا لايف">اكسترا لايف</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##156" xmltv_id="الغد">الغد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##176" xmltv_id="الفجيرة">الفجيرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##182" xmltv_id="قناة ذكريات">قناة ذكريات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##183" xmltv_id="السعودية_الآن">السعودية_الآن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##190" xmltv_id="البحرين تي في">البحرين تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##191" xmltv_id="البحرين الدولية">البحرين الدولية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##192" xmltv_id="الراي">الراي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##194" xmltv_id="دولة الكويت - الثانية">دولة الكويت - الثانية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##195" xmltv_id="قناة الكويت اخبارية">قناة الكويت اخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##196" xmltv_id="عُمان تي في">عُمان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##197" xmltv_id="عُمان مباشر">عُمان مباشر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##198" xmltv_id="الريان">الريان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##199" xmltv_id="قطر تي في">قطر تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##200" xmltv_id="قطر 2">قطر 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##201" xmltv_id="اليمن تي في">اليمن تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##202" xmltv_id="عدن">عدن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##203" xmltv_id="يمن شباب">يمن شباب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##204" xmltv_id="ريف اليمن">ريف اليمن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##210" xmltv_id="الاولى">الاولى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##211" xmltv_id="2ام مغربية">2ام مغربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##220" xmltv_id="الجزائر تي في">الجزائر تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##221" xmltv_id="الجزائرية الرابعة">الجزائرية الرابعة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##222" xmltv_id="الجزائرية السادسة">الجزائرية السادسة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##223" xmltv_id="الشروق">الشروق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##224" xmltv_id="وان">وان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##227" xmltv_id="الجزائر رقم 1">الجزائر رقم 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##230" xmltv_id="الوطنية (تونس تي في ١)">الوطنية (تونس تي في ١)</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##231" xmltv_id="تونس 2۔">تونس 2۔</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##234" xmltv_id="الفجر دراما تي في">الفجر دراما تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##235" xmltv_id="السلام تي في">السلام تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##240" xmltv_id="الزيتونة تي في">الزيتونة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##251" xmltv_id="عمان تي في">عمان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##252" xmltv_id="المملكة تي في">المملكة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##255" xmltv_id="الكوفية">الكوفية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##256" xmltv_id="مساواة">مساواة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##260" xmltv_id="العراق التربوية">العراق التربوية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##261" xmltv_id="العراق التربوية للأطفال">العراق التربوية للأطفال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##262" xmltv_id="العراقية التربوية للمتوسط">العراقية التربوية للمتوسط</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##263" xmltv_id="العراقية التربوية للمهني">العراقية التربوية للمهني</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##264" xmltv_id="العراقية التربوية المشتركة">العراقية التربوية المشتركة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##265" xmltv_id="العراقية التربوية محو الامية">العراقية التربوية محو الامية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##266" xmltv_id="العراقية التربوية المتميزين">العراقية التربوية المتميزين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##269" xmltv_id="الدجلة">الدجلة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##270" xmltv_id="العراقية">العراقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##271" xmltv_id="الشرقية">الشرقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##272" xmltv_id="السومرية">السومرية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##273" xmltv_id="الرشيد">الرشيد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##275" xmltv_id="عراق أل حدث">عراق أل حدث</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##276" xmltv_id="عراق 24">عراق 24</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##277" xmltv_id="كربلاء">كربلاء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##278" xmltv_id="الفرات">الفرات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##279" xmltv_id="العراق الان">العراق الان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##280" xmltv_id="الاولى العراقية">الاولى العراقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##281" xmltv_id="العراقية كورد">العراقية كورد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##282" xmltv_id="كوردستان تي في">كوردستان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##283" xmltv_id="">
+    </channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##284" xmltv_id="كورد ماكس">كورد ماكس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##285" xmltv_id="كردسات">كردسات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##286" xmltv_id="روداو تي في">روداو تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##287" xmltv_id="سبيده تي في">سبيده تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##288" xmltv_id="زاكروس">زاكروس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##294" xmltv_id="ون أمريكا نيوز نيتورك">ون أمريكا نيوز نيتورك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##295" xmltv_id="العراقية توركمان">العراقية توركمان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##296" xmltv_id="العراقية السريانية">العراقية السريانية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##297" xmltv_id="الصينية العربية">الصينية العربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##307" xmltv_id="زي ألوان هصر">زي ألوان هصر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##310" xmltv_id="بيواتش">بيواتش</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##312" xmltv_id="ويدو تي في حكايات كبيرة">ويدو تي في حكايات كبيرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##316" xmltv_id="ميكس بالعربي تي في">ميكس بالعربي تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##318" xmltv_id="سيما">سيما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##328" xmltv_id="دجلة  زمان">دجلة  زمان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##330" xmltv_id="الحياة مسلسلات">الحياة مسلسلات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##333" xmltv_id="نايل كوميدي">نايل كوميدي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##334" xmltv_id="نايل دراما">نايل دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##335" xmltv_id="نايل فاملي">نايل فاملي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##336" xmltv_id="النهار دراما">النهار دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##337" xmltv_id="سي بي سي دراما">سي بي سي دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##338" xmltv_id="دي ام سي دراما">دي ام سي دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##339" xmltv_id="صدى البلد دراما">صدى البلد دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##342" xmltv_id="الريان القديم">الريان القديم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##343" xmltv_id="بانوراما دراما">بانوراما دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##344" xmltv_id="2 بانوراما دراما">2 بانوراما دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##345" xmltv_id="بانوراما فيلم">بانوراما فيلم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##350" xmltv_id="بيروت أفلام">بيروت أفلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##351" xmltv_id="بيروت اليوم">بيروت اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##352" xmltv_id="بيروت  سينما">بيروت  سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##353" xmltv_id="قناة بيروت دراما">قناة بيروت دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##357" xmltv_id="ماسبيرو زمان">ماسبيرو زمان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##361" xmltv_id="العمدة دراما">العمدة دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##362" xmltv_id="العمدة دحكايات">العمدة دحكايات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##363" xmltv_id="العمدة اليوم">العمدة اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##366" xmltv_id="العاصمة والناس">العاصمة والناس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##367" xmltv_id="الكينغ دراما">الكينغ دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##370" xmltv_id="فوكس موفي">فوكس موفي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##371" xmltv_id="1 موفي">1 موفي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##372" xmltv_id="One Drama">One Drama</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##373" xmltv_id="الشاشه سنما">الشاشه سنما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##374" xmltv_id="الشاشة مسلسلات">الشاشة مسلسلات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##375" xmltv_id="الشاشة حكايات">الشاشة حكايات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##376" xmltv_id="الشاشة دراما">الشاشة دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##377" xmltv_id="Al Shasha Film">Al Shasha Film</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##378" xmltv_id="الشاشة ألوان">الشاشة ألوان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##379" xmltv_id="الدوار">الدوار</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##380" xmltv_id="السكرية دراما">السكرية دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##381" xmltv_id="السكرية سينما">السكرية سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##382" xmltv_id="السكرية حكايات">السكرية حكايات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##383" xmltv_id="السكرية زمان">السكرية زمان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##384" xmltv_id="السكرية كلاسيك">السكرية كلاسيك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##387" xmltv_id="الزعيم سينما">الزعيم سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##388" xmltv_id="الزعيم دراما">الزعيم دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##390" xmltv_id="دوللي دراما">دوللي دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##391" xmltv_id="دوللي مسلسلات">دوللي مسلسلات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##392" xmltv_id="دوللي اليوم">دوللي اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##393" xmltv_id="دوللي سينما">دوللي سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##394" xmltv_id="دوللي أفلام">دوللي أفلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##396" xmltv_id="ألفا سينما">ألفا سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##397" xmltv_id="ألفا دراما">ألفا دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##398" xmltv_id="ألفا حكايات">ألفا حكايات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##400" xmltv_id="كايرو بلس سينما">كايرو بلس سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##401" xmltv_id="كايرو بلس دراما">كايرو بلس دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##402" xmltv_id="كايرو بلص  اليوم">كايرو بلص  اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##410" xmltv_id="ام كلاسيك">ام كلاسيك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##415" xmltv_id="قناة تلعب اليوم">قناة تلعب اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##416" xmltv_id="قناة مسرحية دراما">قناة مسرحية دراما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##417" xmltv_id="قناة تلعب سينما">قناة تلعب سينما</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##418" xmltv_id="قناة تلعب حكايات">قناة تلعب حكايات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##419" xmltv_id="قناة تلعب أفلام">قناة تلعب أفلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##431" xmltv_id="آي فيلم عربي">آي فيلم عربي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##468" xmltv_id="الظفرة تي في">الظفرة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##477" xmltv_id="ميكس 1">ميكس 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##479" xmltv_id="ميكس">ميكس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##500" xmltv_id="سي بي سي سفرة">سي بي سي سفرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##501" xmltv_id="بانوراما فوود">بانوراما فوود</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##510" xmltv_id="ورلد فاشن تشانل">ورلد فاشن تشانل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##512" xmltv_id="سميرة">سميرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##515" xmltv_id="زهرة تي في">زهرة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##523" xmltv_id="العربي 2">العربي 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##551" xmltv_id="بينونة تي في">بينونة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##552" xmltv_id="وثائقيات الشرق">وثائقيات الشرق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##553" xmltv_id="الجزيرة الوثائقية">الجزيرة الوثائقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##554" xmltv_id="فلسطين التعليمية">فلسطين التعليمية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##556" xmltv_id="النيل الثقافية تي في">النيل الثقافية تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##557" xmltv_id="الشرق ديسكفري">الشرق ديسكفري</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##560" xmltv_id="الثقافية">الثقافية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##561" xmltv_id="الجزائرية السابعة">الجزائرية السابعة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##562" xmltv_id="الجزائرية الثامنة">الجزائرية الثامنة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##563" xmltv_id="عُمان الثقافية">عُمان الثقافية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##564" xmltv_id="الوثائقية">الوثائقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##565" xmltv_id="اليمن الوثائقية">اليمن الوثائقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##566" xmltv_id="كربلاء الوثائقية">كربلاء الوثائقية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##567" xmltv_id="اليمن التعليمية">اليمن التعليمية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##568" xmltv_id="سبأ">سبأ</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##569" xmltv_id="مارينا">مارينا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##578" xmltv_id="كيف الفضائية تي في">كيف الفضائية تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##590" xmltv_id="ان ار تي 2">ان ار تي 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##600" xmltv_id="بي ان سبورت">بي ان سبورت</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##601" xmltv_id="بي ان سبورت الإنجليزية">بي ان سبورت الإنجليزية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##605" xmltv_id="فلسطين الرياضية">فلسطين الرياضية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##606" xmltv_id="الأردن الرياضية">الأردن الرياضية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##622" xmltv_id="الرياضية السعودية  ٣ -">الرياضية السعودية  ٣ -</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##625" xmltv_id="الثالثة الرياضية ۔ الكويت">الثالثة الرياضية ۔ الكويت</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##626" xmltv_id="الكويت الرياضية بلس">الكويت الرياضية بلس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##628" xmltv_id="عُمان الرياضية">عُمان الرياضية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##630" xmltv_id="اون تايم سبورتس">اون تايم سبورتس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##631" xmltv_id="اون تايم سبورتس  2">اون تايم سبورتس  2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##632" xmltv_id="نايل سبورت تي في">نايل سبورت تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##633" xmltv_id="الأهلي">الأهلي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##634" xmltv_id="الزمالك">الزمالك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##635" xmltv_id="هوجان">هوجان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##636" xmltv_id="يلا مصارعة">يلا مصارعة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##637" xmltv_id="ليبيا الرياضية 1">ليبيا الرياضية 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##638" xmltv_id="ليبيا الرياضية 2">ليبيا الرياضية 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##640" xmltv_id="الكاس 1">الكاس 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##641" xmltv_id="الكاس 2">الكاس 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##642" xmltv_id="الكاس 3">الكاس 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##643" xmltv_id="الكاس 4">الكاس 4</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##645" xmltv_id="العراقية الرياضية">العراقية الرياضية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##650" xmltv_id="أوتدور تشانل">أوتدور تشانل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##651" xmltv_id="ورلد بوكر تور">ورلد بوكر تور</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##652" xmltv_id="كريكيت غولد">كريكيت غولد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##653" xmltv_id="بير ناكل فغطنج شامبونشب">بير ناكل فغطنج شامبونشب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##654" xmltv_id="ورلد فيشينج نتورك">ورلد فيشينج نتورك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##655" xmltv_id="إم في إم تي موفمنت أوف كلتشر">إم في إم تي موفمنت أوف كلتشر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##656" xmltv_id="سبورتس فيرست">سبورتس فيرست</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##657" xmltv_id="أيوازات">أيوازات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##658" xmltv_id="وايلد تي في">وايلد تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##661" xmltv_id="الهدف تي في">الهدف تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##701" xmltv_id="الشرق للأخبار">الشرق للأخبار</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##703" xmltv_id="العربية بزنس">العربية بزنس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##704" xmltv_id="المشهد">المشهد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##710" xmltv_id="الجزيرة">الجزيرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##711" xmltv_id="الجزيرة مباشر">الجزيرة مباشر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##712" xmltv_id="الجزيرة مباشر مصر">الجزيرة مباشر مصر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##714" xmltv_id="العربي">العربي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##715" xmltv_id="سي إن بي سي عربية">سي إن بي سي عربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##716" xmltv_id="دي دبليو عربية">دي دبليو عربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##722" xmltv_id="فلسطين مباشر">فلسطين مباشر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##723" xmltv_id="فلسطيننا">فلسطيننا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##725" xmltv_id="الميادين">الميادين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##726" xmltv_id="الميادين بلاس">الميادين بلاس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##730" xmltv_id="العراقية الإخبارية">العراقية الإخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##731" xmltv_id="الشرقية للأخبار">الشرقية للأخبار</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##732" xmltv_id="الرابعة هي العراق">الرابعة هي العراق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##733" xmltv_id="المسار">المسار</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##734" xmltv_id="الجنوب تي في">الجنوب تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##735" xmltv_id="الأنوار 2">الأنوار 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##736" xmltv_id="الموقف">الموقف</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##742" xmltv_id="أم 24 المغربية">أم 24 المغربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##745" xmltv_id="البرلمانية الموريطانية تي في">البرلمانية الموريطانية تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##750" xmltv_id="الجزائرية الثالثة">الجزائرية الثالثة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##751" xmltv_id="الشروق الإخبارية">الشروق الإخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##752" xmltv_id="النهار تي في">النهار تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##753" xmltv_id="بلاد">بلاد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##756" xmltv_id="الجزائرية الدولية تي في">الجزائرية الدولية تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##761" xmltv_id="النيل تي في">النيل تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##769" xmltv_id="حلب اليوم">حلب اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##770" xmltv_id="اليمن اليوم">اليمن اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##771" xmltv_id="السعيدة">السعيدة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##772" xmltv_id="المسيرة">المسيرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##773" xmltv_id="المسيرة المباشر">المسيرة المباشر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##774" xmltv_id="سهيل">سهيل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##775" xmltv_id="السحات">السحات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##802" xmltv_id="أ نيوز">أ نيوز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##805" xmltv_id="تي آر تي العربية (تركيا)">تي آر تي العربية (تركيا)</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##807" xmltv_id="القاهرة الإخبارية">القاهرة الإخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##810" xmltv_id="البغدادية الآن">البغدادية الآن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##812" xmltv_id="الغدير">الغدير</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##813" xmltv_id="الشرق تي في">الشرق تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##815" xmltv_id="اي نيوز">اي نيوز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##816" xmltv_id="كركوك تي في">كركوك تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##819" xmltv_id="افاق">افاق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##820" xmltv_id="الانبار تي في">الانبار تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##822" xmltv_id="الفلوجة">الفلوجة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##824" xmltv_id="الحوار تي في">الحوار تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##828" xmltv_id="الصباح">الصباح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##831" xmltv_id="الحدث اليوم">الحدث اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##838" xmltv_id="عراق المستقبل">عراق المستقبل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##839" xmltv_id="ليبيا الأحرار">ليبيا الأحرار</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##840" xmltv_id="الجماهرية">الجماهرية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##841" xmltv_id="ليبيا الحدث">ليبيا الحدث</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##842" xmltv_id="ليبيا الرسمية">ليبيا الرسمية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##843" xmltv_id="الهداية ليبيا">الهداية ليبيا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##846" xmltv_id="اللؤلؤة">اللؤلؤة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##847" xmltv_id="مكملين">مكملين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##848" xmltv_id="مصر الزراعية">مصر الزراعية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##849" xmltv_id="فلسطين تي في">فلسطين تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##850" xmltv_id="فلسطين اليوم">فلسطين اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##851" xmltv_id="صلاح الدين">صلاح الدين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##852" xmltv_id="قناة  فلسطين الاخبارية">قناة  فلسطين الاخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##860" xmltv_id="قالي كردستان تي في">قالي كردستان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##861" xmltv_id="Channel 8">Channel 8</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##862" xmltv_id="كردسات نيوز">كردسات نيوز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##863" xmltv_id="تي آر تي الكوردية - تركيا">تي آر تي الكوردية - تركيا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##864" xmltv_id="ان ار تي">ان ار تي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##865" xmltv_id="به يام">به يام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##866" xmltv_id="روجافا">روجافا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##867" xmltv_id="روناهي">روناهي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##880" xmltv_id="الجزيرة الإنجليزية">الجزيرة الإنجليزية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##886" xmltv_id="نايل تي في">نايل تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##887" xmltv_id="تي آر تي الدولي (تركيا)">تي آر تي الدولي (تركيا)</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##889" xmltv_id="بريس تي في">بريس تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##890" xmltv_id="أريرانج وورلد تي في">أريرانج وورلد تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##904" xmltv_id="كراميش">كراميش</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##910" xmltv_id="طيور الجنة">طيور الجنة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##911" xmltv_id="كيدزي تي في">كيدزي تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##920" xmltv_id="اطفال و مواهب">اطفال و مواهب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##922" xmltv_id="هدهد تي في">هدهد تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##924" xmltv_id="كوجي للأطفال">كوجي للأطفال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##925" xmltv_id="شهاب">شهاب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##926" xmltv_id="طه">طه</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##927" xmltv_id="سات 7 للأطفال">سات 7 للأطفال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##928" xmltv_id="كوكيز تي في">كوكيز تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##932" xmltv_id="فور كيدز">فور كيدز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##941" xmltv_id="زاروك تي في">زاروك تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##964" xmltv_id="نجوم اف ام">نجوم اف ام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##982" xmltv_id="المولد">المولد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##983" xmltv_id="فلسطيني">فلسطيني</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##984" xmltv_id="موسيقى العراق">موسيقى العراق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##991" xmltv_id="ميد موسيقى">ميد موسيقى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1007" xmltv_id="القدس اليوم">القدس اليوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1008" xmltv_id="هدى تي في">هدى تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1011" xmltv_id="الجزائرية الخامسة">الجزائرية الخامسة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1015" xmltv_id="النجف الأشرف">النجف الأشرف</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1017" xmltv_id="الدعوة تي في">الدعوة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1021" xmltv_id="حق">حق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1022" xmltv_id="الأهواز تي في">الأهواز تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1023" xmltv_id="الصعايده مديح">الصعايده مديح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1024" xmltv_id="دار الإفتاء الليبية">دار الإفتاء الليبية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1025" xmltv_id="الرحمة">الرحمة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1040" xmltv_id="الناس">الناس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1041" xmltv_id="مدرستنا 1">مدرستنا 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1042" xmltv_id="مدرستنا 2">مدرستنا 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1043" xmltv_id="مدرستنا 3">مدرستنا 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1045" xmltv_id="الأيام">الأيام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1049" xmltv_id="المديح">المديح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1050" xmltv_id="الندى تي في">الندى تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1051" xmltv_id="مصر قرآن كريم تي في">مصر قرآن كريم تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1052" xmltv_id="عدن المستقيلة">عدن المستقيلة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1055" xmltv_id="الفتح">الفتح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1056" xmltv_id="الاستقامة">الاستقامة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1057" xmltv_id="النهار نور">النهار نور</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1071" xmltv_id="شمالية">شمالية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1074" xmltv_id="الثقلين">الثقلين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1077" xmltv_id="زاد">زاد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1091" xmltv_id="بنكه واز">بنكه واز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1100" xmltv_id="الانوار تي في">الانوار تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1101" xmltv_id="العتبة العلوية المقدسة">العتبة العلوية المقدسة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1102" xmltv_id="السلام">السلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1104" xmltv_id="2المرجعية تيفي">2المرجعية تيفي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1110" xmltv_id="أَصيل">أَصيل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1120" xmltv_id="القمر">القمر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1121" xmltv_id="امام حسين 2">امام حسين 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1122" xmltv_id="العقيلة">العقيلة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1123" xmltv_id="الأحد">الأحد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1126" xmltv_id="المهدي">المهدي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1128" xmltv_id="الشعائر">الشعائر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1132" xmltv_id="قناة الدعاء">قناة الدعاء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1136" xmltv_id="صوت العقيلة">صوت العقيلة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1190" xmltv_id="ئامۆژگاری">ئامۆژگاری</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1200" xmltv_id="CTV">CTV</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1201" xmltv_id="اغابي">اغابي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1202" xmltv_id="كاي تي او  (كوريا)">كاي تي او  (كوريا)</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1203" xmltv_id="نورسات">نورسات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1204" xmltv_id="نورسات الشباب">نورسات الشباب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1205" xmltv_id="الكلمة">الكلمة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1206" xmltv_id="نور القداس">نور القداس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1207" xmltv_id="نور مريم">نور مريم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1208" xmltv_id="نور الشرق">نور الشرق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1212" xmltv_id="الحورية">الحورية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1213" xmltv_id="الكرمة الشرق الاوسط 1">الكرمة الشرق الاوسط 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1214" xmltv_id="الكرمة تسبيح">الكرمة تسبيح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1215" xmltv_id="الكرمة الجيل جديد">الكرمة الجيل جديد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1218" xmltv_id="قناة المجد">قناة المجد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1219" xmltv_id="سي سات">سي سات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1220" xmltv_id="لوجوس">لوجوس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1224" xmltv_id="سات - 7">سات - 7</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1225" xmltv_id="SBN تيفي">SBN تيفي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1226" xmltv_id="سوبورو">سوبورو</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1227" xmltv_id="قناة الملكوت سات">قناة الملكوت سات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1231" xmltv_id="قناة أنجل  العربية">قناة أنجل  العربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1301" xmltv_id="مصر البلد">مصر البلد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1303" xmltv_id="تي في المنزل">تي في المنزل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1304" xmltv_id="وسط البلد زمان">وسط البلد زمان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1310" xmltv_id="عجمان تي في">عجمان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1312" xmltv_id="الشرقية من كلباء">الشرقية من كلباء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1320" xmltv_id="باهية">باهية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1325" xmltv_id="الحقيقة الدولية">الحقيقة الدولية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1328" xmltv_id="عودة">عودة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1329" xmltv_id="خليل الرحمان">خليل الرحمان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1330" xmltv_id="سوريا">سوريا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1331" xmltv_id="الثانية">الثانية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1332" xmltv_id="سوريا واحد">سوريا واحد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1333" xmltv_id="أنا سوري">أنا سوري</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1334" xmltv_id="برايم تي في">برايم تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1335" xmltv_id="مسك تي في">مسك تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1336" xmltv_id="الإيمان تي في">الإيمان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1337" xmltv_id="سوريا نيوز">سوريا نيوز</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1338" xmltv_id="العالم سوريا">العالم سوريا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1339" xmltv_id="اليوم تي في">اليوم تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1340" xmltv_id="ال تي في">ال تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1347" xmltv_id="وسط">وسط</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1348" xmltv_id="ليبيا الجديدة">ليبيا الجديدة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1349" xmltv_id="الحكومة الليبية">الحكومة الليبية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1351" xmltv_id="الخرطوم">الخرطوم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1354" xmltv_id="الزرقاء">الزرقاء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1355" xmltv_id="السودان تعليم الأساسي">السودان تعليم الأساسي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1356" xmltv_id="طيبة تي في">طيبة تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1360" xmltv_id="الكوثر تي في">الكوثر تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1361" xmltv_id="المعارف">المعارف</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1362" xmltv_id="الدولة الفضائية تي في">الدولة الفضائية تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1370" xmltv_id="النعيم">النعيم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1371" xmltv_id="1 بغداد">1 بغداد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1373" xmltv_id="يو تي في عراق">يو تي في عراق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1374" xmltv_id="هوى بغداد">هوى بغداد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1375" xmltv_id="بغداد">بغداد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1380" xmltv_id="أفا للترفية">أفا للترفية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1381" xmltv_id="سيرة">سيرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1382" xmltv_id="تي في جين">تي في جين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1383" xmltv_id="سترايك">سترايك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1384" xmltv_id="التركمانية">التركمانية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1385" xmltv_id="وار تي في">وار تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1386" xmltv_id="سحر كوردي">سحر كوردي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1395" xmltv_id="تشاد تي في">تشاد تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1511" xmltv_id="او اس ان تي في">او اس ان تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1512" xmltv_id="iKA TV">iKA TV</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1520" xmltv_id="الاشراق">الاشراق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1521" xmltv_id="الطليعة">الطليعة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1523" xmltv_id="العدالة">العدالة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1529" xmltv_id="الهواية">الهواية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1530" xmltv_id="الاتحاد">الاتحاد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1532" xmltv_id="ام تي اي 3">ام تي اي 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1538" xmltv_id="الأنس">الأنس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1539" xmltv_id="القناة 9">القناة 9</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1541" xmltv_id="الصحراء">الصحراء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1544" xmltv_id="التناصح">التناصح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1545" xmltv_id="الواقع">الواقع</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1546" xmltv_id="الوسطى">الوسطى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1547" xmltv_id="العهد تي في">العهد تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1551" xmltv_id="الارث النبوي  تي في">الارث النبوي  تي في</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1556" xmltv_id="اللحظة">اللحظة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1558" xmltv_id="المستقلة">المستقلة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1561" xmltv_id="التغيير">التغيير</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1566" xmltv_id="ازهري">ازهري</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1567" xmltv_id="بلقيس">بلقيس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1568" xmltv_id="ابن العثيمين">ابن العثيمين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1574" xmltv_id="ليبيا لي">ليبيا لي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1575" xmltv_id="ليبيا المستقبل">ليبيا المستقبل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1579" xmltv_id="النبأ">النبأ</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1580" xmltv_id="عيون الوطن">عيون الوطن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1586" xmltv_id="الوطن">الوطن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1587" xmltv_id="عرين">عرين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1604" xmltv_id="سما الاردن">سما الاردن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1607" xmltv_id="مانيو شات">مانيو شات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##1999" xmltv_id="eTa - Demo CabSat">eTa - Demo CabSat</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2000" xmltv_id="سات في للمساعدة">سات في للمساعدة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2002" xmltv_id="القناة 1">القناة 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2003" xmltv_id="العربية إف إم">العربية إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2004" xmltv_id="أو إف إم">أو إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2005" xmltv_id="إذاعة قطر">إذاعة قطر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2006" xmltv_id="إذاعة قطر كيو بي إس">إذاعة قطر كيو بي إس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2007" xmltv_id="إذاعة الشارقة">إذاعة الشارقة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2010" xmltv_id="إذاعة صوت الشعب">إذاعة صوت الشعب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2011" xmltv_id="راديو البشائر">راديو البشائر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2012" xmltv_id="إذاعة الكويت 1">إذاعة الكويت 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2013" xmltv_id="إذاعة الكويت 2">إذاعة الكويت 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2014" xmltv_id="إمارات إف إم">إمارات إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2016" xmltv_id="حياة اف ام">حياة اف ام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2017" xmltv_id="الرياض إف إم">الرياض إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2018" xmltv_id="لاود إف إم">لاود إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2020" xmltv_id="إذاعة الأمل">إذاعة الأمل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2021" xmltv_id="ميجا إف إم">ميجا إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2022" xmltv_id="إذاعة الشباب">إذاعة الشباب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2023" xmltv_id="إذاعة السعودية 1">إذاعة السعودية 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2024" xmltv_id="إذاعة السعودية 2">إذاعة السعودية 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2025" xmltv_id="المنيا">المنيا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2026" xmltv_id="إذاعة اليمن">إذاعة اليمن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2027" xmltv_id="صوت العرب">صوت العرب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2028" xmltv_id="الشرق الأوسط">الشرق الأوسط</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2029" xmltv_id="القاهرة الكبرى">القاهرة الكبرى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2030" xmltv_id="الشباب والرياضة">الشباب والرياضة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2031" xmltv_id="القناة التعليمية">القناة التعليمية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2032" xmltv_id="وادي النيل وفلسطين">وادي النيل وفلسطين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2033" xmltv_id="مطروح">مطروح</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2034" xmltv_id="شمال سيناء">شمال سيناء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2035" xmltv_id="جنوب سيناء">جنوب سيناء</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2036" xmltv_id="راديو فلسطين">راديو فلسطين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2038" xmltv_id="إذاعة دي آر إن">إذاعة دي آر إن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2040" xmltv_id="إذاعة الأردن">إذاعة الأردن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2041" xmltv_id="إذاعة عمان العامة">إذاعة عمان العامة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2042" xmltv_id="إذاعة عمان شباب">إذاعة عمان شباب</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2044" xmltv_id="إذاعة الرياض">إذاعة الرياض</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2045" xmltv_id="راديو جدة">راديو جدة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2046" xmltv_id="إذاعة الفجيرة">إذاعة الفجيرة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2047" xmltv_id="إذاعة أوروبية">إذاعة أوروبية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2048" xmltv_id="القناة 2">القناة 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2049" xmltv_id="القناة 3">القناة 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2050" xmltv_id="ميدي1 راديو أفريقيا">ميدي1 راديو أفريقيا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2051" xmltv_id="هولا قطر">هولا قطر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2052" xmltv_id="كاداك">كاداك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2053" xmltv_id="الإذاعة الدولية">الإذاعة الدولية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2054" xmltv_id="البرنامج العام">البرنامج العام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2056" xmltv_id="صوت العالم">صوت العالم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2057" xmltv_id="إذاعة قطر اردو">إذاعة قطر اردو</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2058" xmltv_id="البرنامج الأوروبي">البرنامج الأوروبي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2059" xmltv_id="بالس 95 الشارقة">بالس 95 الشارقة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2060" xmltv_id="صوت أمريكا العراق">صوت أمريكا العراق</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2061" xmltv_id="بي بي سي (E)">بي بي سي (E)</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2062" xmltv_id="بي بي سي إفريقيا">بي بي سي إفريقيا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2064" xmltv_id="روتانا إف إم السعودية">روتانا إف إم السعودية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2065" xmltv_id="إذاعة قطر الأوريكس">إذاعة قطر الأوريكس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2066" xmltv_id="الرشيد الفضائية">الرشيد الفضائية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2067" xmltv_id="إذاعة خزامى">إذاعة خزامى</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2070" xmltv_id="إخبارية">إخبارية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2071" xmltv_id="راديو مصر">راديو مصر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2072" xmltv_id="إذاعة الثقافة">إذاعة الثقافة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2073" xmltv_id="ماسبيرو إف إم وثقافي">ماسبيرو إف إم وثقافي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2078" xmltv_id="صوت فلسطين">صوت فلسطين</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2079" xmltv_id="إذاعة 21 شتنبر">إذاعة 21 شتنبر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2090" xmltv_id="إم بي سي إف إم">إم بي سي إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2091" xmltv_id="الكويت إف إم">الكويت إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2092" xmltv_id="روتانا طرب الأردن">روتانا طرب الأردن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2093" xmltv_id="زمن إف إم">زمن إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2095" xmltv_id="إذاعة روتانا الأردن">إذاعة روتانا الأردن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2096" xmltv_id="إذاعة فن الأردن">إذاعة فن الأردن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2097" xmltv_id="راديو الأغاني">راديو الأغاني</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2098" xmltv_id="نغم إف إم">نغم إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2099" xmltv_id="شعبي إف إم">شعبي إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2100" xmltv_id="صوت الريان">صوت الريان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2101" xmltv_id="وتر الشارقة">وتر الشارقة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2102" xmltv_id="سومر اف ام">سومر اف ام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2103" xmltv_id="البرنامج الموسيقي">البرنامج الموسيقي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2104" xmltv_id="الأغاني">الأغاني</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2105" xmltv_id="إل راديو 9090">إل راديو 9090</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2106" xmltv_id="بكوس الإسكندرية">بكوس الإسكندرية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2107" xmltv_id="أسوان">أسوان</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2108" xmltv_id="الوادي الجديد">الوادي الجديد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2109" xmltv_id="الكويت الكلاسيكية">الكويت الكلاسيكية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2110" xmltv_id="الكويت الشعبية">الكويت الشعبية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2111" xmltv_id="صوت الخليج 2">صوت الخليج 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2112" xmltv_id="صوت الخليج 3">صوت الخليج 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2113" xmltv_id="صوت الخليج 4">صوت الخليج 4</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2114" xmltv_id="نجوم إف إم">نجوم إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2115" xmltv_id="صصوت الخليج أوروبا">صصوت الخليج أوروبا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2116" xmltv_id="كلاسيك">كلاسيك</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2118" xmltv_id="إذاعة عمان الكلاسيكية">إذاعة عمان الكلاسيكية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2119" xmltv_id="إفريقيا إف إم">إفريقيا إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2120" xmltv_id="الكويت إيزي">الكويت إيزي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2121" xmltv_id="صوت عمان راديو">صوت عمان راديو</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2122" xmltv_id="نايل إف إم">نايل إف إم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2123" xmltv_id="الراديو 1">الراديو 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2124" xmltv_id="الراديو 2">الراديو 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2125" xmltv_id="الكويت سوبر">الكويت سوبر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2126" xmltv_id="إذاعة تشاد">إذاعة تشاد</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2150" xmltv_id="القرآن الكريم الكويت">القرآن الكريم الكويت</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2151" xmltv_id="هنا العزم">هنا العزم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2152" xmltv_id="زايد القرآن">زايد القرآن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2153" xmltv_id="القرآن الكريم">القرآن الكريم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2155" xmltv_id="إذاعة القرآن">إذاعة القرآن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2156" xmltv_id="القرآن الكريم الأردن">القرآن الكريم الأردن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2157" xmltv_id="نداء الإسلام">نداء الإسلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2158" xmltv_id="راديو التلاوات">راديو التلاوات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2159" xmltv_id="راديو الإمام علي">راديو الإمام علي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2161" xmltv_id="إذاعة عمان للقرآن الكريم">إذاعة عمان للقرآن الكريم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2162" xmltv_id="الكافيل">الكافيل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2163" xmltv_id="إذاعة قطر للقرآن">إذاعة قطر للقرآن</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2166" xmltv_id="إذاعة قطر للقرآن 2">إذاعة قطر للقرآن 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2167" xmltv_id="صوت الإسلام الدوحة">صوت الإسلام الدوحة</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2168" xmltv_id="فلسطين للقرآن الكريم">فلسطين للقرآن الكريم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2169" xmltv_id="فلسطين للقرآن الكريم 2">فلسطين للقرآن الكريم 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2170" xmltv_id="إذاعة نابلس">إذاعة نابلس</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2171" xmltv_id="أَذَان طولكرم">أَذَان طولكرم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2172" xmltv_id="الكوثر">الكوثر</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2174" xmltv_id="إذاعة حول العالم">إذاعة حول العالم</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2175" xmltv_id="بريزلايف غلوبال">بريزلايف غلوبال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2176" xmltv_id="راديو مريم بالعربية">راديو مريم بالعربية</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2177" xmltv_id="راديو حياة أفضل">راديو حياة أفضل</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2190" xmltv_id="راديو سلام">راديو سلام</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2191" xmltv_id="مواجهات 1">مواجهات 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2192" xmltv_id="آر دي كيه">آر دي كيه</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2193" xmltv_id="مواجهات">مواجهات</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2194" xmltv_id="فرنسي">فرنسي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2195" xmltv_id="بشتو">بشتو</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2196" xmltv_id="بنغالي">بنغالي</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2197" xmltv_id="مواجهات 2">مواجهات 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2198" xmltv_id="راديو كانال">راديو كانال</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2199" xmltv_id="روجافا">روجافا</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2200" xmltv_id="مواجهات 8">مواجهات 8</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2203" xmltv_id="إيه دي إم 3">إيه دي إم 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2204" xmltv_id="إيه دي إم 4">إيه دي إم 4</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2206" xmltv_id="DW A2">DW A2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2207" xmltv_id="DW05">DW05</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2208" xmltv_id="ERI Radio 1">ERI Radio 1</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2209" xmltv_id="ERI Radio 2">ERI Radio 2</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2210" xmltv_id="ERI Radio 3">ERI Radio 3</channel>
+    <channel update="i" site="sat.tv" site_id="ar##71##1##2211" xmltv_id="ERI Radio 4">ERI Radio 4</channel>
+  </channels>
+</site>
