@@ -1,334 +1,253 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" site="telemach.ba">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="telemach.ba">
   <channels>
-    <channel update="i" site="epg.telemach.ba" site_id="199##/2020/05/28/12/45/57/n1hd_logo_16_9_light_288x162_84fb0b9b_7959_4b02_b428_e5089d65f066.png" xmltv_id="N1 HD (BH)">N1 HD (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="198##/2020/05/28/12/28/13/bht1_logo_16_9_light_300x168_c923bc2b_5be1_4b2b_86df_e9f22390c4d6.png" xmltv_id="BHT 1">BHT 1</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="465##/2020/05/28/12/28/18/bht1_logo_16_9_light_300x168_4285defd_158a_40f6_8fc7_d40f9a57d129.png" xmltv_id="BHT 1 HD">BHT 1 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="31##/2020/05/28/12/58/08/rtrs_logo_16_9_light_300x168_0f7af37e_5f68_4117_9213_0edfc34cb7a3.png" xmltv_id="RTRS">RTRS</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="640##/2020/05/28/12/47/40/novabhhd_logo_16_9_light_384x216_cf9b7373_25fd_4f3b_8be6_b2b79c49bdba.png" xmltv_id="Nova BH HD">Nova BH HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="678##/2020/05/28/12/48/05/novashd_logo_16_9_light_288x162_25133ac9_c7d1_4131_a2e3_82dd5f8a11ab.png" xmltv_id="NOVA S HD">NOVA S HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="534##/2020/05/28/12/38/16/hayat_logo_16_9_light_300x168_12ddd84f_a2ad_436a_8372_8292f2c0a3ff.png" xmltv_id="Hayat">Hayat</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="748##/2020/05/28/12/48/49/okanalhd_logo_16_9_light_300x168_dbd768b7_6e9d_4c07_b680_1778340135a3.png" xmltv_id="O Kanal HD">O Kanal HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="471##/2020/05/28/12/34/53/facehd_logo_16_9_light_480x270_35e017c9_1433_4133_98c7_2fc369435ade.png" xmltv_id="Face HD">Face HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="657##/2020/06/15/15/27/18/stb_fhd_aljazeera_480x270.png" xmltv_id="Al Jazeera Balkans HD">Al Jazeera Balkans HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="655##/2020/05/28/13/10/02/tvsarajevohd_logo_16_9_light_300x168_48f06e8a_00ca_44b6_80c3_53bf7972761a.png" xmltv_id="TV Sarajevo HD (BH)">TV Sarajevo HD (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="197##/2020/06/19/14/46/34/stb_fhd_alfatv_480x270_bijela.png" xmltv_id="Alfa (Sarajevo)">Alfa (Sarajevo)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="30##/2020/05/28/12/48/54/obn_logo_16_9_light_300x168_537e29e9_def5_48d8_b5d2_84f3d9f57cf4.png" xmltv_id="OBN">OBN</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="449##/2020/05/28/12/28/40/bn_logo_16_9_light_300x168_f4a353f9_43e8_43f8_afde_bf6cf857154b.png" xmltv_id="BN">BN</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="469##/2020/05/28/13/00/28/rtvhb_logo_16_9_light_480x270_b18663c1_d810_415c_b3bc_6b20e662dee9.png" xmltv_id="RTVHB">RTVHB</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="743##/2020/05/28/12/40/23/hrt1hd_logo_16_9_light_384x216_f4502f59_d860_4a3f_972c_3f6f6b981936.png" xmltv_id="HRT 1 HD">HRT 1 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="744##/2020/05/28/12/40/32/hrt2hd_logo_16_9_light_480x270_c7e25ba1_470f_4f47_b8b4_726aeaf54e2f.png" xmltv_id="HRT 2 HD">HRT 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="393##/2020/05/28/12/40/37/hrt3_logo_16_9_light_300x168_d6d94124_563c_4966_955f_e9fa5f4f9928.png" xmltv_id="HRT 3">HRT 3</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="394##/2020/05/28/12/40/41/hrt4_logo_16_9_light_300x168_b51d653a_aa5b_4cad_b201_459db15db7fa.png" xmltv_id="HRT 4">HRT 4</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="587##/2020/05/28/12/50/51/pinkbh_logo_16_9_light_300x168_539a4bd4_d4d0_4bcf_af70_5e9558388773.png" xmltv_id="Pink BH">Pink BH</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="746##/2020/05/28/12/47/55/novahrhd_logo_16_9_light_288x162_a0152b99_f047_4665_88c4_d961cb0d0052.png" xmltv_id="Nova HR HD">Nova HR HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="747##/2020/05/28/12/57/48/rtlhd_logo_16_9_light_300x168_7dc0cd46_8962_47d1_b4b1_9bb6ad673180.png" xmltv_id="RTL HR HD">RTL HR HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="745##/2020/05/28/12/57/38/rtl2hd_logo_16_9_light_300x168_dec1a558_094d_46fb_a15a_4bbfd08fe941.png" xmltv_id="RTL 2 HR HD">RTL 2 HR HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="737##/2020/05/28/12/55/58/prva_logo_16_9_light_300x168_ffbf2a3c_2d26_47ac_95bd_51014ee61680.png" xmltv_id="Prva (SR)">Prva (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="7##/2020/05/28/12/56/08/prvaplus_logo_16_9_light_300x168_0e7641ec_924c_43f5_b100_6656673ad53a.png" xmltv_id="Prva plus">Prva plus</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="4##/2020/05/28/12/27/11/b92_logo_16_9_light_300x168_4be3895a_d025_47ac_afbb_ab3339a6f75a.png" xmltv_id="B92">B92</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="468##/2020/05/28/13/10/43/tvvogosca_logo_16_9_light_300x168_59b0a188_9f57_4771_9f60_60c72632a784.png" xmltv_id="TV Vogošća">TV Vogošća</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="656##/2020/05/28/13/00/10/rtvzenicahd_logo_16_9_light_160x90_76370d61_1f9b_483c_aaa3_8e50fda7e4c2.png" xmltv_id="RTV Zenica HD">RTV Zenica HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="475##/2020/05/28/12/42/19/kanal6_logo_16_9_light_300x168_03589156_8bba_40af_9566_293878c616f5.png" xmltv_id="Kanal 6">Kanal 6</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="474##/2020/05/28/12/40/48/htvoscarc_logo_16_9_light_480x270_0c170cbb_0ff4_4214_a697_13a2ed897447.png" xmltv_id="HTV Oscar C">HTV Oscar C</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="32##/2020/05/28/12/24/58/atv_logo_16_9_light_300x168_318afebe_1659_4bc3_8b72_875fc19ae90f.png" xmltv_id="Alternativna TV">Alternativna TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="470##/2020/05/28/12/49/20/osm_logo_16_9_light_300x168_41f78cb2_d8fa_4545_8761_a7ca946d5fea.png" xmltv_id="OSM">OSM</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="541##/2020/06/19/14/54/42/stb_fhd_posavina_480x270_crna_i_bijela.png" xmltv_id="Posavina TV">Posavina TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="483##/2020/05/28/12/31/45/citytv_logo_16_9_light_160x90_db6195c2_e4a4_4742_a8e4_a6f9e57bc354.png" xmltv_id="City TV">City TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="476##/2020/05/28/12/48/38/ntvickakanj_logo_16_9_light_300x168_cf4b8be7_eb13_4708_8cc5_3cca163be037.png" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="486##/2020/05/28/12/45/30/mtvigman_logo_16_9_light_300x168_b6d36dab_0961_432c_a9e1_8af5c2f7ebde.png" xmltv_id="MTV Igman">MTV Igman</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="552##/2020/05/28/13/11/17/tv5_logo_16_9_light_300x168_149096d8_7c7b_4956_a6d5_a8d95569e3b2.png" xmltv_id="TV5 (BH)">TV5 (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="489##/2020/05/28/12/43/26/laudatotv_logo_16_9_light_300x168_9c0a51d7_90bd_42e4_8a92_8b15659ebb0d.png" xmltv_id="Laudato TV">Laudato TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="482##/2020/05/28/12/59/34/rtvhit_logo_16_9_light_300x168_2e2a81e8_a786_43a2_a12f_b045895f01a4.png" xmltv_id="RTV HIT">RTV HIT</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="481##/2020/06/04/14/19/39/stb_fhd_tk_480x270.png" xmltv_id="RTV TK">RTV TK</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="651##/2020/05/28/12/59/54/rtvsana_logo_16_9_light_300x168_2e79ac20_4a79_4c21_bc17_bd715abf9afa.png" xmltv_id="RTV Sana">RTV Sana</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="480##/2020/05/28/13/08/15/tvbugojno_logo_16_9_light_480x270_be0e0a7d_54b9_421c_b378_70a7e7330d8e.png" xmltv_id="TV Bugojno">TV Bugojno</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="478##/2020/05/28/13/08/34/tvjasmin_logo_16_9_light_300x168_05844a97_41e1_4a92_86bd_f756805c2a9d.png" xmltv_id="TV Jasmin">TV Jasmin</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="200##/2020/05/28/13/06/29/tvhema_logo_16_9_light_300x168_18d14892_6bd0_4a4b_9088_fd64e0ea7a57.png" xmltv_id="Televizija Hema">Televizija Hema</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="484##/2020/05/28/12/59/38/rtvjablanica_logo_16_9_light_480x270_2947aeb9_7265_4db6_a4cb_83e0f9bb0f18.png" xmltv_id="RTV Jablanica">RTV Jablanica</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="485##/2020/05/28/13/09/08/tvlukavac_logo_16_9_light_300x168_dd6a05e2_88dd_47b5_90cb_4cec5bc5b8d6.png" xmltv_id="TV Lukavac">TV Lukavac</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="479##/2020/05/28/17/22/51/stb_fhd_visoko_480x270.png" xmltv_id="RTV Visoko">RTV Visoko</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="33##/2020/05/28/12/35/02/federalnatv_logo_16_9_light_288x162_9daeac34_d024_4427_b698_d5d631711030.png" xmltv_id="Federalna TV">Federalna TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="853##/2020/04/24/11/01/47/bir_stb_fhd_300x168.png" xmltv_id="RTV BIR HD">RTV BIR HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="37##/2020/05/28/12/57/13/rtcgsat_logo_16_9_light_384x216_67757446_d1fd_4de4_8098_40d442fd16b5.png" xmltv_id="RTCG Sat">RTCG Sat</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="265##/2020/05/28/13/04/38/slo1_logo_16_9_light_288x162_b8470a73_c7dc_4925_8b63_4c4455582fe1.png" xmltv_id="SLO 1">SLO 1</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="492##/2020/05/28/13/13/49/z1_logo_16_9_light_300x168_6243b304_94ee_457b_aa8b_68614c3efb84.png" xmltv_id="Z1">Z1</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="399##/2020/05/28/12/57/59/rtlliving_logo_16_9_light_300x168_94199ad1_98fa_42fc_9cbf_55a58f7b15f7.png" xmltv_id="RTL Living">RTL Living</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="448##/2020/05/28/12/46/02/n1hd_logo_16_9_light_384x216_f0fa5312_10be_4645_9b31_005cadb32a1f.png" xmltv_id="N1 HD (HR)">N1 HD (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="178##/2020/05/28/12/53/17/pinkplus_logo_16_9_light_300x168_034a4177_f865_44af_87f9_3ce0a386e72e.png" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="176##/2020/05/28/12/51/30/pinkextra_logo_16_9_light_288x162_fec6861e_c22c_490f_af95_452662d7916b.png" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="24##/2020/05/28/12/42/52/kcn1_logo_16_9_light_300x168_8b68a5a9_09d8_46b7_a8ad_88ba2901460c.png" xmltv_id="K::CN 1">K::CN 1</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="1##/2020/05/28/12/46/08/n1hd_logo_16_9_light_300x168_7a6e98f8_8c0a_48ac_966e_cd8a4523e494.png" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="560##/2020/05/28/12/56/14/prvaworld_logo_16_9_light_480x270_58bcdaff_0dee_4a52_a59d_3e5894811d20.png" xmltv_id="Prva World">Prva World</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="559##/2020/05/28/12/56/04/prvakick_logo_16_9_light_300x168_c7fef99d_d458_45f8_8e85_9b77e95a4806.png" xmltv_id="Prva Kick">Prva Kick</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="855##/2020/06/18/10/34/39/stb_fhd_original_light.png" xmltv_id="Happy TMBA">Happy TMBA</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="667##/2020/06/01/12/47/33/stb_fhd_light_480x270.png" xmltv_id="Brainz HD">Brainz HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="653##/2020/05/28/12/58/13/rtrsplus_logo_16_9_light_300x168_5553ec92_b297_47c8_a4f0_cbea98ba0982.png" xmltv_id="RTRS Plus">RTRS Plus</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="299##/2020/05/28/12/38/35/hayatplus_logo_16_9_light_480x270_b70ba7bb_7eb8_4daa_9dc6_b773fa8a478e.png" xmltv_id="Hayat Plus">Hayat Plus</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="402##/2020/05/28/12/49/30/otvvalentino_logo_16_9_light_300x168_a578ce4b_3dc5_43be_b7c8_de99b447c8a7.png" xmltv_id="OTV Valentino">OTV Valentino</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="675##/2020/05/28/12/41/37/izvornatv_logo_16_9_light_160x90_e6d94dea_a5a8_4f84_a048_0e4cfefe6ee8.png" xmltv_id="Izvorna TV">Izvorna TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="850##/2020/05/28/13/00/22/rtv7_logo_16_9_light_300x168_c5c57547_f234_4fe5_b0bf_93d54c189b35.png" xmltv_id="RTV7">RTV7</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="56##/2020/05/28/12/36/15/foxhd_logo_16_9_light_480x270_9068954c_2281_4880_adc2_e755413a288f.png" xmltv_id="FOX HD (INT)">FOX HD (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="39##/2020/05/28/12/36/25/foxlife_logo_16_9_light_384x216_756cde61_9fde_49e9_8575_8cfb37b6cbf7.png" xmltv_id="FOX Life (INT)">FOX Life (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="40##/2020/05/28/12/35/56/foxcrime_logo_16_9_light_160x90_f7febe09_21d4_4477_9479_8e66531f6724.png" xmltv_id="FOX Crime (INT)">FOX Crime (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="59##/2020/05/28/12/36/55/foxmovieshd_logo_16_9_light_384x216_9dd4b796_c23f_4d28_813f_753a04139037.png" xmltv_id="FOX Movies HD (INT)">FOX Movies HD (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="283##/2020/05/28/12/30/50/cinestartv_logo_16_9_light_300x168_a87d9d91_9a25_4d68_93fb_12da440db4c9.png" xmltv_id="CineStar TV (HR)">CineStar TV (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="462##/2020/05/28/12/31/15/cinestaraction_logo_16_9_light_300x168_bd399961_1da9_464d_af5b_9d08746957d7.png" xmltv_id="CineStar TV Action (HR)">CineStar TV Action (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="49##/2020/05/28/12/31/25/csfantasyhd_logo_16_9_light_300x168_b4c2e620_f591_45bd_9976_8301a2a1e1d0.png" xmltv_id="CineStar TV Fantasy HD">CineStar TV Fantasy HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="44##/2020/05/28/13/11/03/tv1000_logo_16_9_light_300x168_f740a6d0_29bc_47e9_8b84_0207209478fa.png" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="42##/2020/05/28/12/26/55/axn_logo_16_9_light_300x168_8a1f955d_a9fc_411d_9e75_82f76b0e4251.png" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="43##/2020/05/28/12/33/21/diva_logo_16_9_light_300x168_769221f3_b773_4a99_b0b5_ff649cfdc31e.png" xmltv_id="Diva">Diva</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="493##/2020/05/28/12/30/18/cinematv_logo_16_9_light_160x90_f837368a_4762_44c2_8ac9_155a32223f11.png" xmltv_id="Cinema TV">Cinema TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="55##/2020/05/28/12/27/01/axnspin_logo_16_9_light_300x168_791fa595_c8a8_4319_a001_29acc25822e3.png" xmltv_id="AXN Spin">AXN Spin</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="580##/2020/05/28/12/31/20/cscomedyhd_logo_16_9_light_300x168_e962f944_3a54_40bf_9cb7_0aa05a876f36.png" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="773##/2020/05/28/12/31/00/cinestartv2hd_logo_16_9_light_300x168_df617743_69af_4ad9_a173_bc1612b08b58.png" xmltv_id="CineStar TV 2 HD">CineStar TV 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="581##/2020/05/28/12/54/28/pinkwestern_logo_16_9_light_384x216_2f75fa3b_e34a_4a81_beb3_4d6d41bca085.png" xmltv_id="Pink Western">Pink Western</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="175##/2020/05/28/12/50/44/pinkaction_logo_16_9_light_160x90_964c0e0a_685d_4c5c_9f00_f58cb8218ee8.png" xmltv_id="Pink Action">Pink Action</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="45##/2020/05/28/12/25/10/amchd_logo_16_9_light_300x168_ae9ae42a_1fa2_4114_b5bd_c86b0c4a5e0c.png" xmltv_id="AMC HD (INT)">AMC HD (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="576##/2020/05/28/13/01/11/scifihd_logo_16_9_light_300x168_887bc069_23d0_4eff_b0f5_b83050150658.png" xmltv_id="SCI FI HD">SCI FI HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="561##/2020/05/28/12/50/02/pikaboohd_logo_16_9_light_300x168_0a541f40_5a25_4857_982c_32a2d00c85ee.png" xmltv_id="Pikaboo HD">Pikaboo HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="572##/2020/05/28/13/12/05/vavoomhd_logo_16_9_light_288x162_c611d5bd_1b39_46c2_a815_d989dfbf150e.png" xmltv_id="Vavoom HD">Vavoom HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="870##/2020/07/14/10/31/27/stb_fhd_light_480x270.png" xmltv_id="Nicktoons (HR)">Nicktoons (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="87##/2020/05/28/12/44/23/minimax_logo_16_9_light_300x168_eb0adf83_c05f_4a4f_be3c_542aeed5af75.png" xmltv_id="Minimax">Minimax</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="574##/2020/05/28/12/47/25/nickelodeon_logo_16_9_light_480x270_d7bf9582_294a_476d_9850_f60730c36ae0.png" xmltv_id="Nickelodeon (HR)">Nickelodeon (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="491##/2020/05/28/12/57/54/rtlkockica_logo_16_9_light_300x168_96d21474_42a7_43c3_aaac_df319542bbcd.png" xmltv_id="RTL Kockica">RTL Kockica</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="741##/2020/05/28/12/33/12/disneyjunior_logo_16_9_light_300x168_c43fe7bc_68a6_40b1_9562_cf5bfd25b378.png" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="90##/2020/05/28/12/33/07/disney_logo_16_9_light_300x168_2f38c0b8_394d_4baf_8472_00c4698ff423.png" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="91##/2020/05/28/12/29/46/cartoonnetwork_logo_16_9_light_300x168_2f3249fb_a507_4d8d_9ffd_51618d94f380.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="494##/2020/05/28/12/38/40/hayatovci_logo_16_9_light_300x168_1be3674d_47ab_4d71_a3d6_1645f8f2fdf5.png" xmltv_id="Hayatovci">Hayatovci</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="306##/2020/05/28/13/05/35/superrtl_logo_16_9_light_300x168_99b71701_f0e3_49cc_9a3e_e318129e278b.png" xmltv_id="Super RTL">Super RTL</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="96##/2020/06/30/10/34/59/stb_fhd_light_480x270.png" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="93##/2020/05/28/12/29/13/boomerang_logo_16_9_light_300x168_7b8f54f3_911a_4b4f_be85_f1d823280ed1.png" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="289##/2020/05/28/12/41/56/jimjam_logo_16_9_light_160x90_c14aa4d4_79c6_4341_96a1_44901c734281.png" xmltv_id="Jim Jam">Jim Jam</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="94##/2017/09/01/15/09/46/stb_fhd_nick_jr_480x270.png" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="92##/2020/05/28/12/52/29/pinkkids_logo_16_9_light_300x168_f505233e_8256_47c8_8f62_a46ded83f543.png" xmltv_id="Pink Kids">Pink Kids</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="776##/2020/05/28/12/32/32/discoveryhd_logo_16_9_light_160x90_69cd749b_41db_460d_8f23_43e77e2bbe9a.png" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="102##/2020/05/28/12/25/14/animalplanet_logo_16_9_light_300x168_159d95e4_c935_4db8_b330_1b601f46513a.png" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="107##/2020/05/28/12/46/47/natgeohd_logo_16_9_light_300x168_ffe8bd1b_9122_4408_ba72_31aa0b0efef7.png" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="730##/2020/05/28/13/12/24/viasatexplore_logo_16_9_light_288x162_8d12b48f_7e73_4790_8a34_cd22650ffa9e.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="731##/2020/05/28/13/12/56/viasathistory_logo_16_9_light_300x168_ae804b61_b154_4381_888b_c687b9f147df.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="103##/2020/05/28/13/13/02/viasatnature_logo_16_9_light_480x270_cd6b0428_36e1_4656_86dd_33bf9aeaa66a.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="118##/2020/05/28/12/24/09/24kitchenhd_logo_16_9_light_384x216_227e7f30_4a1e_42fb_bee4_616f68d4d443.png" xmltv_id="24Kitchen HD (INT)">24Kitchen HD (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="99##/2020/05/28/12/39/57/historyhd_logo_16_9_light_300x168_2ad543a5_84ea_41a2_91c2_26967c99086c.png" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="106##/2020/05/28/12/29/53/cbsreality_logo_16_9_light_300x168_e4cca907_c09b_4a28_b4e6_0a07357a8d56.png" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="285##/2020/05/28/13/07/15/travel_logo_16_9_light_300x168_99253f53_53a3_459d_a3d8_cf03f9e0d739.png" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="119##/2020/05/28/13/06/53/tlc_logo_16_9_light_300x168_e376fe5d_5561_4ec2_a1e9_af8357b944a0.png" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="319##/2020/05/28/12/37/21/ftv_logo_16_9_light_300x168_6ec91de3_2dbf_40f5_988d_84a57753baf0.png" xmltv_id="FTV TV">FTV TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="101##/2020/05/28/12/43/38/loviribolov_logo_16_9_light_480x270_343354d8_2aa9_4b13_9e0f_f38263e15bcb.png" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="105##/2020/05/28/12/41/13/id_logo_16_9_light_300x168_0e650a41_360b_4019_8672_9f981bff8193.png" xmltv_id="ID">ID</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="111##/2020/06/03/15/34/42/stb_fhd_nat_geo_light.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="116##/2020/05/28/12/32/11/crimeinvest_logo_16_9_light_300x168_b8c78aee_fe16_4c17_b5f5_beb8ecedbbcb.png" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="120##/2020/05/28/12/33/52/e_logo_16_9_light_384x216_dc41c2ad_d2e8_42db_b0ea_95fc38989268.png" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="774##/2020/05/28/12/40/07/hgtv_logo_16_9_light_384x216_f779c24c_3563_4690_b775_e504e6c5d523.png" xmltv_id="Home and Garden TV">Home and Garden TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="127##/2020/05/28/13/07/05/tracesporthd_logo_16_9_light_384x216_8d5a44ed_822c_4bb2_8e98_1ca6fcc71454.png" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="113##/2020/05/28/12/49/35/outdoorchannel_logo_16_9_light_300x168_477e43b5_dcd7_41c4_8689_0fd568d71030.png" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="728##/2020/05/28/12/48/11/novasporthd_logo_16_9_light_300x168_0d218240_3380_4302_a548_c1ee8a4f5e9d.png" xmltv_id="Nova Sport HD">Nova Sport HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="557##/2020/05/28/13/02/04/sk1hd_logo_16_9_light_300x168_c2f1f63b_ef1e_49da_b170_8afe7d352613.png" xmltv_id="SK 1 HD (BIH)">SK 1 HD (BIH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="67##/2020/05/28/13/02/52/sk2hd_logo_16_9_light_300x168_a61943d9_d225_4b1d_bbc0_9bded065f14a.png" xmltv_id="SK 2 HD (SR)">SK 2 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="68##/2020/05/28/13/03/09/sk3hd_logo_16_9_light_480x270_3a14d7bd_735c_4956_98d9_0c5d774722cb.png" xmltv_id="SK 3 HD (SR)">SK 3 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="69##/2020/08/25/01/23/42/stb_fhd_light_480x270.png" xmltv_id="SK 4 HD (SR)">SK 4 HD (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="70##/2020/05/28/13/03/36/sk5_logo_16_9_light_300x168_815bfce6_b26e_4055_af10_4777b5f3d0c8.png" xmltv_id="SK 5 (SR)">SK 5 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="71##/2020/05/28/13/03/47/sk6_logo_16_9_light_480x270_c9b4b700_626c_4ca2_88e0_f259cf69e4da.png" xmltv_id="SK 6 (SR)">SK 6 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="74##/2020/05/28/13/03/51/sk7_logo_16_9_light_300x168_11b97c14_f0f8_4693_a342_8da3c85c19ec.png" xmltv_id="SK 7 (SR)">SK 7 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="75##/2020/05/28/13/03/57/sk8_logo_16_9_light_300x168_95fffd1c_4aff_4513_9401_99c26c77dd8f.png" xmltv_id="SK 8 (SR)">SK 8 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="76##/2020/05/28/13/04/02/sk9_logo_16_9_light_480x270_7db9be00_032e_4c14_972a_c937c7b60027.png" xmltv_id="SK 9 (SR)">SK 9 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="77##/2020/05/28/13/02/32/sk10_logo_16_9_light_300x168_d63b0fc4_2ad3_431b_9d61_b0ce5557e00e.png" xmltv_id="SK 10 (SR)">SK 10 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="456##/2020/05/28/13/01/53/sk1_logo_16_9_light_300x168_a0816f0e_ab28_4332_b6ed_13414d7ffcc2.png" xmltv_id="SK 1 (HR)">SK 1 (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="644##/2020/05/28/13/03/25/sk4k_logo_16_9_light_300x168_fba8ff41_8c27_40f3_8cf8_4592e138b169.png" xmltv_id="SK 4K">SK 4K</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="18##/2020/05/28/13/04/24/skhd_logo_16_9_light_384x216_ef398fbd_c782_4add_b829_743034402833.png" xmltv_id="SK HD">SK HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="73##/2020/05/28/13/04/18/skgolfhd_logo_16_9_light_384x216_02a5b9fd_54a5_40de_b836_a4f48abcf878.png" xmltv_id="SK Golf HD">SK Golf HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="72##/2020/05/28/12/35/07/fightchannel_logo_16_9_light_300x168_e982c7f8_05d8_4ee8_9efa_961c98e4e36b.png" xmltv_id="Fight Channel">Fight Channel</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="687##/2020/05/28/13/04/07/skesports_logo_16_9_light_480x270_846f9fc3_5098_4e24_ab4a_2295e566e7f5.png" xmltv_id="SK Esports">SK Esports</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="498##/2020/05/28/12/25/29/arenasport1_logo_16_9_light_300x168_9487ab40_2091_4f83_84f1_d9ce0267e0ef.png" xmltv_id="Arena Sport 1 (BH)">Arena Sport 1 (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="499##/2020/05/28/12/25/34/arenasport1hr_logo_16_9_light_480x270_570def18_18ea_4f54_bc3f_d681679c9ed0.png" xmltv_id="Arena Sport 1 (HR)">Arena Sport 1 (HR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="500##/2020/05/28/12/25/38/arenasport1sr_logo_16_9_light_480x270_896dbd6b_ebdf_402c_85bb_261a3ab4dbd0.png" xmltv_id="Arena Sport 1 (SR)">Arena Sport 1 (SR)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="501##/2020/05/28/12/25/48/arenasport2_logo_16_9_light_480x270_bde1ca54_db65_417e_bd56_016af0a43256.png" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="502##/2020/05/28/12/25/59/arenasport3_logo_16_9_light_480x270_9b4e0bc1_d083_438c_87f0_ae812f817053.png" xmltv_id="Arena Sport 3">Arena Sport 3</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="503##/2020/05/28/12/26/10/arenasport4_logo_16_9_light_480x270_54d3e403_b0a2_49d2_be21_d8b7e081d260.png" xmltv_id="Arena Sport 4">Arena Sport 4</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="84##/2020/05/28/12/34/22/eurosport1hd_logo_16_9_light_300x168_51cafe3e_703b_4a96_b58b_153bcba02c44.png" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="85##/2020/05/28/12/34/37/eurosport2hd_logo_16_9_light_300x168_d3a6d13e_e7cf_4e87_85d4_33521e1950cd.png" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="81##/2020/05/28/12/34/48/extremesports_logo_16_9_light_480x270_57b2ac28_b15f_42aa_8556_f1ad95d94401.png" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="82##/2020/05/28/12/44/29/motorvisiontv_logo_16_9_light_300x168_18413388_d6ea_4633_b60a_50981e93a09d.png" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="278##/2020/05/28/12/37/45/grand_logo_16_9_light_300x168_ed0c29fd_7be5_4334_b960_f15c72e9e2cf.png" xmltv_id="Grand International">Grand International</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="129##/2020/05/28/12/37/55/grand2_logo_16_9_light_480x270_cb409b55_4b49_43ae_9752_0214ec48abd7.png" xmltv_id="Grand narodna televizija 2">Grand narodna televizija 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="10##/2020/05/28/12/41/32/idjtvhd_logo_16_9_light_300x168_cb88fba8_72e7_49ad_895e_fbd328599175.png" xmltv_id="IDJTV HD">IDJTV HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="132##/2020/05/28/12/33/26/dmsat_logo_16_9_light_300x168_f3bc50f6_e5bc_4da1_ac45_55c82c9eac2d.png" xmltv_id="DM Sat">DM Sat</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="131##/2020/05/28/12/31/52/cmc_logo_16_9_light_300x168_2662c373_529e_4ace_86b4_45a330c5390d.png" xmltv_id="CMC">CMC</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="201##/2020/08/10/15/55/54/stb_fhd_bnmusic_transparent.png" xmltv_id="BN Music HD">BN Music HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="130##/2020/05/28/12/52/56/pinkmusic_logo_16_9_light_300x168_4c01fc16_074a_4e0f_aeb2_9d7e81c5932e.png" xmltv_id="Pink Music">Pink Music</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="324##/2020/05/28/12/42/57/kcnmusic2_logo_16_9_light_300x168_31520246_e304_4b79_a7ce_88c8f8fa4512.png" xmltv_id="K::CN Music 2">K::CN Music 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="495##/2020/05/28/12/38/20/hayatfolk_logo_16_9_light_300x168_e81a685a_5cd6_4de9_b729_b42fd61e55ee.png" xmltv_id="Hayat Folk">Hayat Folk</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="496##/2020/05/28/12/38/30/hayatmusic_logo_16_9_light_384x216_90b929b1_87d1_4fcf_b520_0c10b6de94d4.png" xmltv_id="Hayat Music">Hayat Music</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="134##/2020/05/28/13/12/19/vh1europe_logo_16_9_light_384x216_8d16c52d_2b99_4fbd_8243_7841f2bbf458.png" xmltv_id="VH1 Europe">VH1 Europe</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="133##/2020/05/28/12/45/07/mtv_logo_16_9_light_300x168_e6727670_63e6_4b5f_bd24_a083284d989b.png" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="444##/2020/05/28/12/43/04/kcnsvet3_logo_16_9_light_300x168_a9141487_cecc_4acb_a431_34933d65a262.png" xmltv_id="K::CN Svet +3 (W2)">K::CN Svet +3 (W2)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="409##/2020/05/28/12/27/41/balkanika_logo_16_9_light_160x90_08caf2b6_b8c6_43ad_b093_2277cb1d8c36.png" xmltv_id="Balkanika">Balkanika</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="139##/2020/05/28/13/12/14/vh1classic_logo_16_9_light_300x168_e1445c22_27df_4ee2_8226_bb9f8fc903f0.png" xmltv_id="VH1 Classic">VH1 Classic</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="138##/2020/06/01/00/09/01/stb_fhd_light_480x270.png" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="137##/2020/05/28/12/45/24/mtvhits_logo_16_9_light_300x168_ddaeca9d_73f9_4b9a_acd0_a29708193573.png" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="136##/2020/05/28/12/45/46/mtvrocks_logo_16_9_light_300x168_a84fa348_b9f0_4e18_a2ac_7d41b988bf91.png" xmltv_id="MTV Rocks">MTV Rocks</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="140##/2020/05/28/12/44/12/mezzo_logo_16_9_light_300x168_d24cf9dc_a2c3_41ba_a9f2_c8407c727f57.png" xmltv_id="Mezzo">Mezzo</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="654##/2020/05/28/13/01/26/sevdahtv_logo_16_9_light_300x168_49a61a02_a013_4add_b70c_c937b7e04b52.png" xmltv_id="Sevdah TV">Sevdah TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="153##/2020/05/28/12/57/17/rtl_logo_16_9_light_300x168_41b721ed_c3cb_41b8_b037_3914a9469713.png" xmltv_id="RTL (DE)">RTL (DE)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="304##/2020/05/28/12/55/43/pro7_logo_16_9_light_300x168_7a041790_a663_43a5_9be1_5e06b9a731cc.png" xmltv_id="Pro7">Pro7</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="313##/2020/05/28/13/13/24/vox_logo_16_9_light_480x270_f1675eb2_91ed_4e70_9012_baa9bee9ff30.png" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="143##/2020/05/28/12/32/02/cnn_logo_16_9_light_300x168_bac72eb1_1545_4242_9434_95ecdb2844bf.png" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="144##/2020/05/28/12/28/02/bbcworldnews_logo_16_9_light_384x216_d86fe92f_1997_4409_8ec5_8100bbb77318.png" xmltv_id="BBC World News">BBC World News</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="147##/2020/05/28/12/28/34/bloomberg_logo_16_9_light_300x168_e2d67c18_61fd_4014_a843_d463b17da4df.png" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="150##/2020/05/28/12/56/28/raiuno_logo_16_9_light_300x168_4288e5a3_6939_49bf_9e8a_d8c947327a02.png" xmltv_id="Rai Uno">Rai Uno</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="156##/2020/05/28/13/11/23/tv5monde_logo_16_9_light_480x270_4d9a4bfb_4de7_4462_9353_48d10929750e.png" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="461##/2020/05/28/13/07/23/trtavaz_logo_16_9_light_300x168_310d06a2_d76c_43f7_8574_4b3e17bbc31e.png" xmltv_id="TRT Avaz">TRT Avaz</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="146##/2020/05/28/12/34/12/euronews_logo_16_9_light_300x168_f26ea4b5_4305_4a43_8c44_0fdbd568197f.png" xmltv_id="EuroNews">EuroNews</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="145##/2020/08/25/01/19/17/stb_fhd_light_480x270.png" xmltv_id="Russia Today HD">Russia Today HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="154##/2020/05/28/12/32/23/deutschewelle_logo_16_9_light_480x270_eb3f852b_fc4f_4d64_8c61_c4ed639a381f.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="305##/2020/07/06/15/08/26/stb_fhd_rtl_2_480x270_light.png" xmltv_id="RTL 2 (DE)">RTL 2 (DE)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="658##/2020/05/28/12/48/32/ntv_logo_16_9_light_300x168_ede2e827_e75b_4582_9eae_fe38aef0571b.png" xmltv_id="NTV">NTV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="183##/2020/05/28/12/33/33/dorcelhd_logo_16_9_light_300x168_3e21f8b3_d4a4_4130_85cd_72cc4aa9a6f6.png" xmltv_id="Dorcel HD">Dorcel HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="182##/2020/05/28/12/40/58/hustler_logo_16_9_light_288x162_56a2b091_19c4_4b7b_acf1_ba4650bb7892.png" xmltv_id="Hustler">Hustler</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="180##/2020/05/28/12/29/30/brazzerstv_logo_16_9_light_300x168_5981bb4b_766c_47f5_a093_e7d5c622d3cc.png" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="181##/2020/05/28/12/33/48/dusk_logo_16_9_light_480x270_22e34817_bd8f_4d70_9db5_248f8a3d48d9.png" xmltv_id="Dusk!">Dusk!</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="497##/2020/05/28/12/55/12/playboytv_logo_16_9_light_160x90_eced08e0_11f0_4267_85b8_f4ba05b17273.png" xmltv_id="Playboy TV">Playboy TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="179##/2020/05/28/12/55/38/privatetv_logo_16_9_light_288x162_e6993320_09e5_4979_bb19_ca6b5f1d24dc.png" xmltv_id="Private TV">Private TV</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="466##/2020/05/28/12/38/25/hayathd_logo_16_9_light_384x216_6d8af44f_d151_4ae2_9eba_ab426044ba0e.png" xmltv_id="Hayat HD">Hayat HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="57##/2020/05/28/12/36/36/foxlifehd_logo_16_9_light_288x162_ea517c07_c0d3_41a6_a5ed_27837890b5f3.png" xmltv_id="FOX Life HD (INT)">FOX Life HD (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="58##/2020/05/28/12/36/06/foxcrimehd_logo_16_9_light_384x216_f43cb74c_7168_4dd5_91bd_a92b7e4e1f50.png" xmltv_id="FOX Crime HD (INT)">FOX Crime HD (INT)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="65##/2020/05/28/13/01/38/shortstvhd_logo_16_9_light_300x168_78b10848_2416_4ab4_9e6b_6888ba5300c6.png" xmltv_id="SHORTSTV HD">SHORTSTV HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="563##/2020/05/28/12/33/57/epicdramahd_logo_16_9_light_300x168_fb7171f1_2287_4b08_855e_e79dfe206372.png" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="646##/2020/05/28/12/25/44/arenasport1hd_logo_16_9_light_384x216_d0c41616_fd94_42cf_8d51_ae699ed27004.png" xmltv_id="Arena Sport 1 HD (BH)">Arena Sport 1 HD (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="647##/2020/05/28/12/25/54/arenasport2hd_logo_16_9_light_300x168_03326bb1_668f_4d34_a1f9_2b85b9e7c5b2.png" xmltv_id="Arena Sport 2 HD (BH)">Arena Sport 2 HD (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="648##/2020/05/28/12/26/05/arenasport3hd_logo_16_9_light_288x162_e1d993ec_d6a5_45c9_9ca0_ccb44660cc27.png" xmltv_id="Arena Sport 3 HD (BH)">Arena Sport 3 HD (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="649##/2020/05/28/12/26/15/arenasport4hd_logo_16_9_light_384x216_1870b8a8_2650_48c7_b4b5_c85711514841.png" xmltv_id="Arena Sport 4 HD (BH)">Arena Sport 4 HD (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="95##/2020/05/28/12/47/30/nickelodeonhd_logo_16_9_light_480x270_8900dfab_1cfd_4ead_a767_b0c77e6179b2.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="17##/2020/05/28/12/25/18/animalplanethd_logo_16_9_light_300x168_ed56718c_6caa_4aa7_8275_19b4ebee5aa3.png" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="112##/2020/05/28/12/27/51/bbcearthhd_logo_16_9_light_384x216_258f7b89_80e2_498c_90a9_a471c0f9e009.png" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="115##/2020/05/28/12/39/51/history2hd_logo_16_9_light_300x168_ef65cbaa_efad_40f8_93fb_14f89c2a2d36.png" xmltv_id="History 2 HD">History 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="125##/2020/05/28/13/07/19/travelhd_logo_16_9_light_480x270_dc75cbc3_8e50_4a35_9ee7_0fa355c4a66e.png" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="121##/2020/05/28/12/37/25/ftvhd_logo_16_9_light_300x168_b6e36c70_918c_4ce0_a875_9a9b5d849387.png" xmltv_id="FTV TV HD">FTV TV HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="128##/2020/05/28/12/56/19/qyouhd_logo_16_9_light_300x168_3f1568ae_1c76_46b9_ad9c_af572295d9ff.png" xmltv_id="Qyou HD">Qyou HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="141##/2020/05/28/12/45/35/mtvlivehd_logo_16_9_light_300x168_dd9453e3_c599_47e5_9523_a06c799f006d.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="135##/2020/05/28/13/07/10/traceurbanhd_logo_16_9_light_160x90_63490666_ef3e_47bc_bef3_78279eee0a4e.png" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="142##/2020/05/28/12/41/08/iconcertshd_logo_16_9_light_300x168_acc2cfcd_1857_4ea0_b7fd_732ffcf5d436.png" xmltv_id="iConcerts HD">iConcerts HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="184##/2020/05/28/12/41/03/hustlerhd_logo_16_9_light_480x270_238aa3bc_227c_4ffd_b3fd_842d986e432b.png" xmltv_id="Hustler HD">Hustler HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="60##/2020/05/28/12/39/08/hbohd_logo_16_9_light_480x270_85d859af_033c_4b30_8337_c51106744bd5.png" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="61##/2020/05/28/12/38/45/hbo2hd_logo_16_9_light_300x168_2ebcc208_24a0_4ea8_927d_44d6b0c39985.png" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="62##/2020/05/28/12/38/58/hbo3hd_logo_16_9_light_300x168_c75583d1_945a_482e_821b_e8080194d278.png" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="63##/2020/05/28/12/30/46/cinemaxhd_logo_16_9_light_300x168_6957055e_4470_4505_8d40_dc00c2b5d28d.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="64##/2020/05/28/12/30/38/cinemax2hd_logo_16_9_light_480x270_493ae2eb_ab92_4934_96f7_ec5ff6055295.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="51##/2020/05/28/12/31/29/cspremiere1hd_logo_16_9_light_300x168_09a9cd60_fb56_4e77_ade8_7b536c11d452.png" xmltv_id="CineStar TV Premiere 1 HD">CineStar TV Premiere 1 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="52##/2020/05/28/12/31/34/cspremiere2hd_logo_16_9_light_300x168_4b8aa8b7_1c75_4e16_8118_cae4991c5261.png" xmltv_id="CineStar TV Premiere 2 HD">CineStar TV Premiere 2 HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="568##/2020/05/28/12/51/04/pinkcomedy_logo_16_9_light_300x168_e2aa0c72_8c3e_400a_aa22_d80ba9bfb453.png" xmltv_id="Pink Comedy">Pink Comedy</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="566##/2020/05/28/12/53/38/pinkromance_logo_16_9_light_300x168_f181acad_a5bc_47f3_9448_57bf2d2e8d62.png" xmltv_id="Pink Romance">Pink Romance</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="690##/2020/05/28/12/54/39/pinkwcinema_logo_16_9_light_160x90_d9000a9d_f91c_4616_8d7a_c540e7b5b97d.png" xmltv_id="Pink World Cinema">Pink World Cinema</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="704##/2020/05/28/12/50/58/pinkclassic_logo_16_9_light_300x168_99be7c5b_7c65_4316_a868_c4d416013ec0.png" xmltv_id="Pink Classic">Pink Classic</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="694##/2020/05/28/12/53/50/pinkserije_logo_16_9_light_384x216_3098ca8b_29f4_41ec_9e0e_04354ae89dbb.png" xmltv_id="Pink Serije">Pink Serije</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="810##/2020/05/28/12/53/28/pinkpremium_logo_16_9_light_300x168_c2a711f0_fbe7_4410_8d9a_47bfb1be857a.png" xmltv_id="Pink Premium HD">Pink Premium HD</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="173##/2020/05/28/12/52/51/pinkmovies_logo_16_9_light_384x216_58595f10_de99_4e9c_8eff_8debe22381a2.png" xmltv_id="Pink Movies">Pink Movies</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="174##/2020/05/28/12/51/49/pinkfilm_logo_16_9_light_384x216_4e14d7c8_ce72_471a_9898_f0a91f547d39.png" xmltv_id="Pink Film">Pink Film</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="567##/2020/05/28/12/54/23/pinkthriller_logo_16_9_light_300x168_e0604b83_83c0_4c28_bbc1_b8f876178c40.png" xmltv_id="Pink Thriller">Pink Thriller</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="659##/2020/05/28/12/51/12/pinkcrimem_logo_16_9_light_300x168_4e018b8f_059b_4c30_833d_7e7b623b19b2.png" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="583##/2020/05/28/12/54/01/pinksoap_logo_16_9_light_300x168_d296fca0_453f_4a0e_8539_3300281703d7.png" xmltv_id="Pink Soap">Pink Soap</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="584##/2020/05/28/12/53/45/pinkscifi_logo_16_9_light_300x168_5d647e24_beb2_4133_a968_b72710ca7e6e.png" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="582##/2020/05/28/12/52/24/pinkhorror_logo_16_9_light_288x162_7cd41a9b_78d1_4f7a_bb8c_cfd2ad7473fc.png" xmltv_id="Pink Horror">Pink Horror</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="47##/2020/05/28/12/51/37/pinkfamily_logo_16_9_light_480x270_e309199d_f074_4225_838c_2530e572d2ff.png" xmltv_id="Pink Family">Pink Family</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="695##/2020/05/28/12/53/12/pinkpedia_logo_16_9_light_300x168_098ca68f_0c32_4f1e_8a75_a83488def4c8.png" xmltv_id="Pink Pedia">Pink Pedia</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="691##/2020/05/28/12/54/18/pinksuperkids_logo_16_9_light_300x168_18aef9bd_5387_4fda_994a_2cf766975eec.png" xmltv_id="Pink super kids">Pink super kids</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="362##/2020/05/28/12/54/45/pinkzabava_logo_16_9_light_288x162_35f4627d_d339_446f_9c2f_f3039262e19a.png" xmltv_id="Pink Zabava">Pink Zabava</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="363##/2020/05/28/12/54/34/pinkworld_logo_16_9_light_480x270_3ad3c4db_f43c_43ab_901b_4cca1a964472.png" xmltv_id="Pink World">Pink World</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="364##/2020/05/28/12/53/33/pinkreality_logo_16_9_light_300x168_74bc031e_2e63_447f_8cba_99d98aa92c05.png" xmltv_id="Pink Reality">Pink Reality</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="693##/2020/05/28/12/53/55/pinkshow_logo_16_9_light_480x270_1289f61d_4658_469e_a251_021ed2331b57.png" xmltv_id="Pink Show">Pink Show</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="692##/2020/05/28/12/54/10/pinkstyle_logo_16_9_light_300x168_9f6c0b34_1d6a_4424_88f5_7bffb9d8fd98.png" xmltv_id="Pink Style">Pink Style</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="703##/2020/05/28/12/51/42/pinkfashion_logo_16_9_light_480x270_ba8c535e_c592_43f1_a76f_b7394de3d5a6.png" xmltv_id="Pink Fashion">Pink Fashion</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="698##/2020/05/28/12/52/41/pinkkuvar_logo_16_9_light_480x270_cd01190f_88e1_4914_a247_e9998148a694.png" xmltv_id="Pink Kuvar">Pink Kuvar</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="706##/2020/05/28/12/38/06/haha_logo_16_9_light_160x90_3423def2_2e53_4ac5_b35c_1c3cc08b2cd9.png" xmltv_id="Ha ha">Ha ha</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="705##/2020/05/28/12/43/30/lol_logo_16_9_light_300x168_238dd032_6edf_414c_8057_8d577830df5b.png" xmltv_id="Lol">Lol</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="365##/2020/05/28/12/29/26/bravomusic_logo_16_9_light_300x168_d456f4af_c5b9_457d_a073_8b69c13b96bf.png" xmltv_id="Bravo Music">Bravo Music</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="361##/2020/05/28/12/51/56/pinkfolk_logo_16_9_light_384x216_2c55ee70_dbd1_44a3_a8c5_43ee1d932386.png" xmltv_id="Pink Folk">Pink Folk</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="702##/2020/05/28/12/52/02/pinkfolk2_logo_16_9_light_288x162_cb8281ee_60ef_4221_b74c_0e2da14fc46e.png" xmltv_id="Pink Folk 2">Pink Folk 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="697##/2020/05/28/12/53/00/pinkmusic2_logo_16_9_light_384x216_61f87a05_c4bf_47b9_853c_299253a09743.png" xmltv_id="Pink Music 2">Pink Music 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="701##/2020/05/28/12/52/13/pinkhits_logo_16_9_light_160x90_902cdd72_4186_4c9a_8128_6a8d2ec702a6.png" xmltv_id="Pink Hits">Pink Hits</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="700##/2020/05/28/12/52/19/pinkhits2_logo_16_9_light_160x90_1ca8a2ab_301d_4826_aad7_173279183aea.png" xmltv_id="Pink Hits 2">Pink Hits 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="696##/2020/05/28/12/53/06/pinknroll_logo_16_9_light_480x270_fba060fd_4bbc_4f87_87a3_b0caabb9bd2d.png" xmltv_id="Pink n roll">Pink n roll</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="699##/2020/05/28/12/52/35/pinkkoncert_logo_16_9_light_300x168_500e4275_ed45_43c6_abe0_fdb8d1bcfba5.png" xmltv_id="Pink Koncert">Pink Koncert</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="707##/2020/05/28/12/31/38/cityplay_logo_16_9_light_300x168_abb20df1_629d_49b2_8a2a_e7711e3f4aaf.png" xmltv_id="City Play">City Play</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="733##/2020/05/28/13/13/54/zadrugalive1_logo_16_9_light_384x216_30750014_bd82_49e3_863c_2f3f6cf1af98.png" xmltv_id="Zadruga Live 1">Zadruga Live 1</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="734##/2020/05/28/13/13/58/zadrugalive2_logo_16_9_light_288x162_9b9d88fd_3340_4400_933c_1a436c2f6b4e.png" xmltv_id="Zadruga Live 2">Zadruga Live 2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="735##/2020/05/28/13/14/03/zadrugalive3_logo_16_9_light_160x90_c11c3430_fb0d_466d_b9ef_00ee2c831c92.png" xmltv_id="Zadruga Live 3">Zadruga Live 3</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="736##/2020/05/28/13/14/08/zadrugalive4_logo_16_9_light_300x168_6de9c9af_b7ef_490f_9faf_14dab5b8e724.png" xmltv_id="Zadruga Live 4">Zadruga Live 4</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="504##/2020/05/28/13/06/08/telemachinfo_logo_16_9_light_300x168_151ad861_2a79_4ff7_8046_04e28d15ee22.png" xmltv_id="Telemach Info kanal (BH)">Telemach Info kanal (BH)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="510##/2020/05/28/13/34/04/radiobht1_logo_16_9_light_160x90_474a6b54_00b2_408e_b995_9847625b7325.png" xmltv_id="Radio BHT 1">Radio BHT 1</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="511##/2020/05/28/13/35/39/radiofbih_logo_16_9_light_160x90_e1da9944_5a8d_4764_9465_f10ac2902b1d.png" xmltv_id="Radio FBIH">Radio FBIH</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="512##/2020/05/28/13/39/36/radiortrs_logo_16_9_light_300x168_cfa370c9_fc87_4296_b22d_f4e06ab47a48.png" xmltv_id="Radio RTRS">Radio RTRS</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="515##/2020/05/28/13/40/15/radiosa_logo_16_9_light_384x216_d278f182_346f_41c6_8c46_c2c0171ac90a.png" xmltv_id="Radio SA">Radio SA</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="507##/2020/06/04/15/19/24/stb_fhd_radio_m_480x270.png" xmltv_id="Music Radio M">Music Radio M</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="508##/2020/05/28/13/36/17/radiokalman_logo_16_9_light_384x216_dbd5c9a5_f714_4ae4_9210_e8ef7bd5c79a.png" xmltv_id="Radio Kalman">Radio Kalman</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="509##/2020/05/28/13/41/09/radiostarigra_logo_16_9_light_288x162_012c6be5_b119_4b2d_aa2a_4719e2ce7e39.png" xmltv_id="Radio Stari Grad">Radio Stari Grad</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="531##/2020/05/28/13/33/31/radioantena_logo_16_9_light_160x90_0016545e_2764_44f3_ae05_6603c86fd683.png" xmltv_id="Radio Antena (Sarajevo)">Radio Antena (Sarajevo)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="513##/2020/05/28/13/33/03/radio8_logo_16_9_light_160x90_ec287640_9a42_4cf8_9cf1_87d2c4457acd.png" xmltv_id="Radio 8">Radio 8</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="532##/2020/05/28/13/37/21/radiomix_logo_16_9_light_300x168_dbf859f8_f58a_46e0_a96c_90b59b43b136.png" xmltv_id="Radio Mix">Radio Mix</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="521##/2020/05/28/13/33/49/radioask_logo_16_9_light_300x168_6023274a_fa1b_4553_bbf9_03f87094636c.png" xmltv_id="Radio ASK">Radio ASK</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="516##/2020/05/28/13/37/48/radiones_logo_16_9_light_300x168_de1e2025_0586_4690_874f_62bb1eba2658.png" xmltv_id="Radio NES">Radio NES</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="525##/2020/05/28/13/42/20/radiozenica_logo_16_9_light_160x90_051a50a5_8b83_43ef_a9c1_3a961e8c214f.png" xmltv_id="Radio Zenica">Radio Zenica</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="526##/2020/05/28/13/42/25/radiozenit_logo_16_9_light_384x216_ea5f0628_52f0_4f8a_9d12_a6ddc96b7bdc.png" xmltv_id="Radio Zenit">Radio Zenit</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="514##/2020/05/28/13/38/43/radiootvorena_logo_16_9_light_300x168_0b0f8117_cada_4b47_aef8_29da9f13777a.png" xmltv_id="Radio Otvorena Mreža">Radio Otvorena Mreža</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="522##/2020/05/28/13/35/22/radiodobrevib_logo_16_9_light_300x168_a91df3a5_b05e_4812_bbfb_08d4b446aa2b.png" xmltv_id="Radio Dobre Vibracije">Radio Dobre Vibracije</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="518##/2020/05/28/13/36/26/radiokiss_logo_16_9_light_300x168_fe81e0da_dbef_4283_97c0_e04ca4255fa2.png" xmltv_id="Radio Kiss">Radio Kiss</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="520##/2020/05/28/13/34/08/radiobir_logo_16_9_light_300x168_78ae032c_a9f5_453c_ad69_0d8bc90ce05f.png" xmltv_id="Radio BIR">Radio BIR</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="432##/2020/05/28/13/37/11/radiomir_logo_16_9_light_288x162_5a5fb5d3_0f29_41ee_ad98_81f33678ceb7.png" xmltv_id="Radio Mir">Radio Mir</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="433##/2020/05/28/13/36/53/radiomarija_logo_16_9_light_300x168_e52fce04_9c2a_4dca_aa8f_27f8674bca32.png" xmltv_id="Radio Marija">Radio Marija</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="428##/2020/05/28/13/35/55/radiohrt1_logo_16_9_light_300x168_7da346f6_11db_4583_89f4_7537b1a97c6f.png" xmltv_id="Radio HRT 1 (W2)">Radio HRT 1 (W2)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="429##/2020/05/28/13/36/00/radiohrt2_logo_16_9_light_300x168_e56e60e8_d1ca_411b_a868_1bd7b5bf6ab8.png" xmltv_id="Radio HRT 2 (W2)">Radio HRT 2 (W2)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="530##/2020/05/28/13/33/37/radioantenazg_logo_16_9_light_300x168_278b62e4_3d82_46d7_90ed_d8dc53ac06a3.png" xmltv_id="Radio Antena (Zagreb)">Radio Antena (Zagreb)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="527##/2020/05/28/13/35/16/radiodalmacija_logo_16_9_light_300x168_14a3ab75_8bbc_4582_9479_2fc0c0f9a2b0.png" xmltv_id="Radio Dalmacija">Radio Dalmacija</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="529##/2020/05/28/13/38/48/radiootvoreni_logo_16_9_light_300x168_d8545373_6ea5_49bc_b534_779c425d8a5b.png" xmltv_id="Radio Otvoreni">Radio Otvoreni</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="218##/2020/05/28/13/32/28/playradio_logo_16_9_light_300x168_d5e1cfa8_26ac_4206_8c9d_2c03b3259afa.png" xmltv_id="Play Radio">Play Radio</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="215##/2020/05/28/13/39/59/radios2_logo_16_9_light_480x270_ccac6b5c_ffed_40ff_822c_cb97406ea637.png" xmltv_id="Radio S2">Radio S2</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="213##/2020/05/28/13/41/21/radiostudiob_logo_16_9_light_160x90_8c99124e_a889_49e0_a62e_f35ed0bf515b.png" xmltv_id="Radio Studio B">Radio Studio B</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="417##/2020/05/28/13/40/36/prvi_logo_16_9_light_300x168_7bbf8f1c_513e_4e37_9737_bea9717ac24d.png" xmltv_id="Radio Slovenija 1 - PRVI">Radio Slovenija 1 - PRVI</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="661##/2020/05/28/13/34/18/radiobreza_logo_16_9_light_300x168_35cd15f2_95d1_49fb_a970_3079edaeb617.png" xmltv_id="Radio Breza">Radio Breza</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="662##/2020/05/28/13/38/16/radioobican_logo_16_9_light_300x168_97bebd0f_f36b_4502_85ec_763e1f34df0a.png" xmltv_id="Radio Obican">Radio Obican</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="209##/2020/05/28/13/37/43/radionaxi_logo_16_9_light_300x168_8d26b790_b991_4b3b_bf53_1127dbbee1b7.png" xmltv_id="Radio Naxi">Radio Naxi</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="660##/2020/05/28/13/37/37/radionarodni_logo_16_9_light_300x168_07fdc71c_bc5d_44ab_927d_a3ab685e918a.png" xmltv_id="Radio Narodni">Radio Narodni</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="224##/2020/05/28/13/45/52/totalhitsbalkan_logo_16_9_light_300x168_5414e8dd_fd4c_42a0_9320_925272fc9ebe.png" xmltv_id="Stingray Music Total Hits Balkan">Stingray Music Total Hits Balkan</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="223##/2020/05/28/13/43/17/balkanretro_logo_16_9_light_300x168_3158ee8c_c1f3_490a_a921_6031cbb2ef22.png" xmltv_id="Stingray Music Balkan Retro Hits">Stingray Music Balkan Retro Hits</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="226##/2020/05/28/13/42/46/60s_logo_16_9_light_300x168_11598f14_070d_4f54_81a4_f88d6437bd61.png" xmltv_id="Stingray Music 60s">Stingray Music 60s</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="227##/2020/05/28/13/45/42/soho70s_logo_16_9_light_480x270_1e280441_450d_4a34_b021_9108d1594203.png" xmltv_id="Stingray Music Soho '70s">Stingray Music Soho '70s</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="228##/2020/05/28/13/42/51/80s_logo_16_9_light_300x168_96f0db5e_a7bb_410b_aeb8_e5fae0acdddb.png" xmltv_id="Stingray Music 80s">Stingray Music 80s</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="229##/2020/05/28/13/42/56/90s_logo_16_9_light_480x270_dee39f8c_375a_4e33_9318_3cac3940c186.png" xmltv_id="Stingray Music 90s">Stingray Music 90s</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="230##/2020/05/28/13/42/40/2000s_logo_16_9_light_300x168_51f465dc_b901_42e7_aecf_b027bb5c68e3.png" xmltv_id="Stingray Music 2000s">Stingray Music 2000s</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="231##/2020/05/28/13/45/07/revival60s70s_logo_16_9_light_300x168_972999c4_987b_4421_aa6a_0075e4e47676.png" xmltv_id="Stingray Music Revival 60s-70s ">Stingray Music Revival 60s-70s </channel>
-    <channel update="i" site="epg.telemach.ba" site_id="232##/2020/05/28/13/45/12/rewind80s90s_logo_16_9_light_300x168_c84768a3_a1c4_492f_bc5b_8890a5cb214f.png" xmltv_id="Stingray Music Rewind 80s-90s">Stingray Music Rewind 80s-90s</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="238##/2020/05/28/13/45/57/totalhitsuk_logo_16_9_light_300x168_2b03bb69_2397_4833_8d5c_90536befc9f0.png" xmltv_id="Stingray Music Total Hits UK">Stingray Music Total Hits UK</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="237##/2020/05/28/13/45/38/silklovesongs_logo_16_9_light_480x270_a3b857dc_3ab9_43eb_94e1_97b9c3e97edd.png" xmltv_id="Stingray Music Silk (Love Songs)">Stingray Music Silk (Love Songs)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="249##/2020/05/28/13/46/08/urban_logo_16_9_light_300x168_65fb55cd_cf85_4968_bc3f_90cdaa06b118.png" xmltv_id="Stingray Music Urban">Stingray Music Urban</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="236##/2020/05/28/13/44/24/freedom_logo_16_9_light_300x168_a525bcbc_481d_44e6_a682_cf8d8829789e.png" xmltv_id="Stingray Music Freedom">Stingray Music Freedom</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="235##/2020/05/28/13/44/18/drive_logo_16_9_light_300x168_d84c91ad_071e_4964_8222_9d483e7f9d9d.png" xmltv_id="Stingray Music Drive">Stingray Music Drive</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="234##/2020/05/28/13/43/00/alldayparty_logo_16_9_light_384x216_02aa995c_3bd5_42af_909f_4be3c94278f7.png" xmltv_id="Stingray Music All Day Party">Stingray Music All Day Party</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="243##/2020/05/28/13/44/32/groovediscofunk_logo_16_9_light_300x168_0a9c24fe_8eb3_4f09_bfa4_26d046f5dc6b.png" xmltv_id="Stingray Music Groove (Disco &amp; Funk)">Stingray Music Groove (Disco &amp; Funk)</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="242##/2020/05/28/13/44/06/dancefloor_logo_16_9_light_300x168_cac1304c_87d3_4456_944b_2540af56521b.png" xmltv_id="Stingray Music Dancefloor Fillers">Stingray Music Dancefloor Fillers</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="244##/2020/05/28/13/44/42/hiphop_logo_16_9_light_160x90_f41cb403_a50f_4e38_ab5c_d3aee29517ef.png" xmltv_id="Stingray Music Hip Hop">Stingray Music Hip Hop</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="233##/2020/05/28/13/45/33/rocknroll_logo_16_9_light_300x168_10217183_4d82_4d2f_97c9_61ad33d630f8.png" xmltv_id="Stingray Music Rock'n'Roll">Stingray Music Rock'n'Roll</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="247##/2020/05/28/13/45/22/rockanthems_logo_16_9_light_300x168_f19ecad0_4943_4b2f_9a38_d9f3518e6cfe.png" xmltv_id="Stingray Music Rock Anthems">Stingray Music Rock Anthems</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="248##/2020/05/28/13/45/17/rockalternative_logo_16_9_light_384x216_3a64ec9b_1a3e_4658_b101_c12bbe2b1ca3.png" xmltv_id="Stingray Music Rock Alternative">Stingray Music Rock Alternative</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="245##/2020/05/28/13/45/28/rockofages_logo_16_9_light_300x168_2b50f308_2006_4260_ad63_53b230f0bcb8.png" xmltv_id="Stingray Music Rock of Ages">Stingray Music Rock of Ages</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="246##/2020/05/28/13/44/37/headbangers_logo_16_9_light_300x168_cb15b7a7_d541_45ae_8da3_08cc33f0bafe.png" xmltv_id="Stingray Music Headbangers">Stingray Music Headbangers</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="261##/2020/05/28/13/44/01/country_logo_16_9_light_300x168_68d47d3e_9b95_49ba_b553_ba62c0cfd19f.png" xmltv_id="Stingray Music Country">Stingray Music Country</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="239##/2020/05/28/13/43/22/bassbreaksbeats_logo_16_9_light_300x168_43a29dca_55b7_4157_8d58_1194ca021e85.png" xmltv_id="Stingray Music Bass Breaks and Beats">Stingray Music Bass Breaks and Beats</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="241##/2020/05/28/13/43/35/classicrnbsoul_logo_16_9_light_300x168_2de3f8c9_7fc0_4ad8_a96f_0320d3d299dd.png" xmltv_id="Stingray Music Classic R'n'B and Soul">Stingray Music Classic R'n'B and Soul</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="255##/2020/05/28/13/44/12/deepblues_logo_16_9_light_300x168_0ff4deff_db7c_4b8f_830f_8a0eae309e60.png" xmltv_id="Stingray Music Deep Blues">Stingray Music Deep Blues</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="250##/2020/05/28/13/43/57/cooljazz_logo_16_9_light_300x168_a9fef769_297a_4401_84c2_0535fad0a6f9.png" xmltv_id="Stingray Music Cool Jazz">Stingray Music Cool Jazz</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="251##/2020/05/28/13/44/58/jazzclassics_logo_16_9_light_480x270_3c40667e_5c91_48c7_9186_2178cd19b79f.png" xmltv_id="Stingray Music Jazz Classics">Stingray Music Jazz Classics</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="260##/2020/05/28/13/43/26/chansons_logo_16_9_light_300x168_1e73c078_44fa_4327_863b_2ae4d8b48e9e.png" xmltv_id="Stingray Music Chansons">Stingray Music Chansons</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="259##/2020/05/28/13/44/28/girlpower_logo_16_9_light_480x270_89f0e18a_c58f_4f8b_b34b_219e58f16f98.png" xmltv_id="Stingray Music Girl Power!">Stingray Music Girl Power!</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="258##/2020/05/28/13/45/03/lavitaebella_logo_16_9_light_384x216_cd8e9362_6bfb_4254_b302_d676cbfb9bf1.png" xmltv_id="Stingray Music La Vita è Bella">Stingray Music La Vita è Bella</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="263##/2020/05/28/13/46/02/turkmuzigi_logo_16_9_light_300x168_f40f30a8_f317_4dbb_aaa7_4693cb466834.png" xmltv_id="Stingray Music Türk Müzigi">Stingray Music Türk Müzigi</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="262##/2020/05/28/13/43/06/arabiannights_logo_16_9_light_384x216_d1f8dffd_f186_4bc7_a8b6_ffa36401809c.png" xmltv_id="Stingray Music Arabian Nights">Stingray Music Arabian Nights</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="225##/2020/05/28/13/43/11/balkanmusic_logo_16_9_light_160x90_c713daa3_9e6b_4aa6_9453_94c10e08d152.png" xmltv_id="Stingray Music Balkan Music / Gipsy">Stingray Music Balkan Music / Gipsy</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="264##/2020/05/28/13/46/13/worldcarnival_logo_16_9_light_300x168_13e5b417_6abd_4a10_9584_574098490bcd.png" xmltv_id="Stingray Music World Carnival">Stingray Music World Carnival</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="256##/2020/05/28/13/43/41/classicalcalm_logo_16_9_light_300x168_6c7f051f_3a24_4c5f_ae24_60e90fb177f6.png" xmltv_id="Stingray Music Classical Calm">Stingray Music Classical Calm</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="257##/2020/05/28/13/43/47/classicalgreats_logo_16_9_light_300x168_e40df30e_3f49_4d1a_8c0d_687a6f51d039.png" xmltv_id="Stingray Music Classical Greats">Stingray Music Classical Greats</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="253##/2020/05/28/13/44/47/jammin_logo_16_9_light_300x168_dac8bcc5_b487_4773_82a5_e34dcc9692ab.png" xmltv_id="Stingray Music Jammin'">Stingray Music Jammin'</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="254##/2020/05/28/13/43/52/cocktaillounge_logo_16_9_light_300x168_dce35a7a_b1b5_43a5_bb74_51f639878c92.png" xmltv_id="Stingray Music Cocktail Lounge">Stingray Music Cocktail Lounge</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="240##/2020/05/28/13/43/31/chillout_logo_16_9_light_300x168_1f38521e_85e6_4566_b03a_48ea33afb889.png" xmltv_id="Stingray Music Chillout">Stingray Music Chillout</channel>
-    <channel update="i" site="epg.telemach.ba" site_id="252##/2020/05/28/13/45/47/thespa_logo_16_9_light_300x168_f1fdb11c_4969_46a6_a5c8_90ba779fd921.png" xmltv_id="Stingray Music The Spa">Stingray Music The Spa</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="199##/d9138754/2020/05/28/939d5b24-3524-494f-8b0f-b8f7f2c280d9_xl.png" xmltv_id="N1 HD (BH)/(BIH)">N1 HD (BH)/(BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="465##/d9138754/2024/06/24/a245cba7-c760-4bea-92e6-5cc538e9b263_xl.png" xmltv_id="BHT 1 HD">BHT 1 HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="33##/d9138754/2020/12/31/6244ccf8-981c-4988-9d8b-e28ddb544c53_xl.png" xmltv_id="Federalna TV">Federalna TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="31##/d9138754/2020/05/28/e2702cf0-7259-44e6-b510-1a908734b716_xl.png" xmltv_id="RTRS">RTRS</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="640##/d9138754/2023/01/04/fc262e9a-b5eb-46bd-8562-37aa9a46816a_xl.png" xmltv_id="Nova BH HD (BIH)">Nova BH HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="466##/d9138754/2020/05/28/f7d401ef-8cbd-4217-87cb-0edcc3ed4034_xl.png" xmltv_id="Hayat HD">Hayat HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="748##/d9138754/2020/05/28/23d28769-d2eb-4caa-b9e4-6b6179063e26_xl.png" xmltv_id="O Kanal HD">O Kanal HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="471##/d9138754/2020/05/28/0fd22520-2751-468b-ad46-a911eb8a3430_xl.png" xmltv_id="Face HD">Face HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="655##/d9138754/2020/05/28/23dc589f-958e-42d3-8023-b34a1da6ca51_xl.png" xmltv_id="TV Sarajevo HD (BH)">TV Sarajevo HD (BH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="197##/d9138754/2022/04/19/dd8bd7e1-a149-46db-8166-3c16f3e9f354_xl.png" xmltv_id="Alfa (Sarajevo)">Alfa (Sarajevo)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="30##/d9138754/2020/05/28/c3c2b974-994e-4b4b-bd32-b40d9026b94a_xl.png" xmltv_id="OBN (BIH)">OBN (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="587##/d9138754/2020/05/28/6515dbd6-b73d-435f-ba7e-a7ad9070b0a0_xl.png" xmltv_id="Pink BH">Pink BH</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="469##/d9138754/2020/05/28/26baf579-6642-482f-a0fa-f5556bfc0111_xl.png" xmltv_id="RTVHB HD">RTVHB HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1607##/d9138754/2024/03/21/d98e2793-158e-4735-8a24-e16e94605966_xl.png" xmltv_id="N1 HD (HR)/(BIH)">N1 HD (HR)/(BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="746##/d9138754/2023/01/04/f5665134-2cb9-4ec3-9d5a-81ada8fcdb0b_xl.png" xmltv_id="Nova HR HD (BIH)">Nova HR HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1881##/d9138754/2025/03/26/115ddeb5-1f4d-4d03-bd70-1093f48cb7ed_xl.png" xmltv_id="HRT 1 HD (BIH)">HRT 1 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1882##/d9138754/2025/03/26/bffbd836-a0e9-461c-b520-b340a314d20e_xl.png" xmltv_id="HRT 2 HD (BIH)">HRT 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1512##/d9138754/2023/11/01/9862743d-0d58-4c75-8360-5efb5a4c3ddc_xl.png" xmltv_id="HRT 3 HD (BIH)">HRT 3 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1513##/d9138754/2023/11/02/f752cfe9-64c5-4e3a-b1e4-34739e026b5c_xl.png" xmltv_id="HRT 4 HD (BIH)">HRT 4 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="747##/d9138754/2022/11/18/444ab0f9-2cf6-4c00-85d5-14ec4cf5658d_xl.png" xmltv_id="RTL HR HD (BIH)">RTL HR HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="745##/d9138754/2020/05/28/f2910864-1027-465b-8fd1-7868b607ea4d_xl.png" xmltv_id="RTL 2 HR HD (BIH)">RTL 2 HR HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1493##/d9138754/2023/10/12/f394d00b-dfff-45c0-bfef-45b8752a1535_xl.png" xmltv_id="RTL Living HD (BIH)">RTL Living HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1608##/d9138754/2024/03/21/7f1aa5ee-e205-4b9e-9657-86242ec688e5_xl.png" xmltv_id="N1 HD (RS)/(BIH)">N1 HD (RS)/(BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1698##/d9138754/2024/09/23/03205205-17a4-4daa-a79b-a63bb80d9e6d_xl.png" xmltv_id="Nova S HD (BIH)">Nova S HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1740##/d9138754/2024/12/17/cc856eb7-b55a-4460-9788-06ae20007b6f_xl.png" xmltv_id="Kitchen TV (BIH)">Kitchen TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1585##/d9138754/2024/02/09/bb73eac2-d615-465d-a92b-bbbfb7158180_xl.png" xmltv_id="Prva (BIH)">Prva (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1584##/d9138754/2024/02/09/d6aa7cb9-e2b9-4749-99de-8ff5509861b3_xl.png" xmltv_id="Prva Plus (BIH)">Prva Plus (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1582##/d9138754/2024/02/08/ef84a8a1-7e5c-4ea8-8cf9-3988f18c6509_xl.png" xmltv_id="Prva World (BIH)">Prva World (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1583##/d9138754/2024/02/08/8c0e9d05-d77d-40f8-920c-8547c912ca04_xl.png" xmltv_id="Prva Kick (BIH)">Prva Kick (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1615##/d9138754/2024/04/22/b7a2af6d-bbe7-4112-891f-9d47e8530fd9_xl.png" xmltv_id="B92 HD (BIH)">B92 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1595##/d9138754/2024/07/29/2c829420-b521-4366-ae48-09562b1b6c73_xl.png" xmltv_id="Narodna TV (BIH)">Narodna TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1697##/d9138754/2024/09/17/0ed2e763-9b84-4f7d-adfc-0daeca7a0b07_xl.png" xmltv_id="Brainz HD (BIH)">Brainz HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1617##/d9138754/2024/04/23/bb975300-20ee-4c64-964d-ce40b049ac51_xl.png" xmltv_id="K::CN 1 (BIH)">K::CN 1 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="198##/d9138754/2024/06/24/deb27632-ee70-4900-bb36-329af3a91171_xl.png" xmltv_id="BHT 1">BHT 1</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="299##/d9138754/2025/03/10/db0cfcc7-a9ed-4ff2-b31f-d391b632ae97_xl.png" xmltv_id="Hayat 2">Hayat 2</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1096##/d9138754/2021/09/29/5a52e973-8942-405c-8d7b-3aac01a60ab9_xl.png" xmltv_id="O Kanal Plus HD">O Kanal Plus HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="200##/d9138754/2021/06/29/a92b18b2-a1a3-41c7-bfef-143b3055af55_xl.png" xmltv_id="Televizija Hema">Televizija Hema</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="468##/d9138754/2021/02/12/e0f8a185-6d33-4f35-843b-b40010166399_xl.png" xmltv_id="TV Vogošća HD">TV Vogošća HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="449##/d9138754/2022/11/16/1e44881d-458f-4af3-be3e-c121a45169aa_xl.png" xmltv_id="BN HD (BIH)">BN HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="479##/d9138754/2020/05/28/e089c51b-6a14-4db1-936c-fd73f6dcfd06_xl.png" xmltv_id="RTV Visoko">RTV Visoko</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="476##/d9138754/2021/06/29/38eefe60-582e-4a85-aac4-3b8a30f85e19_xl.png" xmltv_id="NTV IC Kakanj">NTV IC Kakanj</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="656##/d9138754/2021/06/29/247db23e-5d3c-49ce-89ff-f107d5534388_xl.png" xmltv_id="RTV Zenica HD">RTV Zenica HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="475##/d9138754/2022/11/16/a882edf9-ea07-472f-9984-6c0ee898c462_xl.png" xmltv_id="Kanal 6">Kanal 6</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="480##/d9138754/2020/05/28/a4ff1d6c-572c-4957-8b1d-435446e47868_xl.png" xmltv_id="TV Bugojno HD">TV Bugojno HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="850##/d9138754/2023/01/13/1e282ce7-1025-4462-8fe3-2a84c5c0c6be_xl.png" xmltv_id="RTV7">RTV7</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="485##/d9138754/2022/04/19/e0c0fd02-89e7-4f52-8a19-8ca68f634881_xl.png" xmltv_id="TV Lukavac">TV Lukavac</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="481##/d9138754/2020/06/04/087dc5a5-8b4b-4e4a-a93b-ac3a03f3a4f4_xl.png" xmltv_id="RTV TK">RTV TK</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="482##/d9138754/2020/05/28/10e8b00d-bf4d-4dc0-9b00-050cb8ab70a7_xl.png" xmltv_id="RTV HIT">RTV HIT</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="675##/d9138754/2021/06/29/d022f559-e02e-4582-87f3-265f159aaba2_xl.png" xmltv_id="Izvorna TV">Izvorna TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="651##/d9138754/2020/05/28/b81edae0-c0a9-40b3-9f8b-73afa405d66c_xl.png" xmltv_id="RTV Sana">RTV Sana</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="483##/d9138754/2020/05/28/54214b80-cd9e-4b7d-872e-f47a83433be7_xl.png" xmltv_id="City TV HD">City TV HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="484##/d9138754/2023/12/20/41bf02bb-343b-400a-b57c-db7eeedffa33_xl.png" xmltv_id="RTV Jablanica HD">RTV Jablanica HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="541##/d9138754/2024/03/08/e2da5279-3dfe-4063-b4c6-1c2ac89756d3_xl.png" xmltv_id="Posavina TV">Posavina TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="653##/d9138754/2020/05/28/46cc11da-24d0-42f7-be5a-a0e5572e7aa7_xl.png" xmltv_id="RTRS Plus">RTRS Plus</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="32##/d9138754/2023/10/04/02d8a3cc-2c39-4e05-b629-81b14e444f8c_xl.png" xmltv_id="Alternativna TV">Alternativna TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="470##/d9138754/2025/10/06/f21ebb5d-00e9-450e-a940-9b17b6552d15_xl.png" xmltv_id="RTV IS (OSM)">RTV IS (OSM)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="853##/d9138754/2023/10/04/cf5797db-e616-40ee-8728-abb7cf29b737_xl.png" xmltv_id="RTV BIR HD">RTV BIR HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="486##/d9138754/2021/06/29/cfc97c27-4138-4cc1-bc21-c3e55aa79a5a_xl.png" xmltv_id="MTV Igman HD">MTV Igman HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="552##/d9138754/2021/06/29/c8621ebf-650d-410c-bbc5-6048859c068f_xl.png" xmltv_id="TV5 HD (BH)">TV5 HD (BH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="489##/d9138754/2021/06/29/4a21e7f9-aa10-4b3c-a83a-e32a04359bc6_xl.png" xmltv_id="Laudato TV">Laudato TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1337##/d9138754/2022/10/27/939838c4-15fe-42c5-9616-8de742d3e5f6_xl.png" xmltv_id="Maria Vision TV">Maria Vision TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1700##/d9138754/2024/10/18/15fcbdca-b540-4e44-b5ea-7784907c3488_xl.png" xmltv_id="SLO 1 HD (BIH)">SLO 1 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1642##/d9138754/2024/05/29/bb87624b-3b64-469b-a281-c52fc795baea_xl.png" xmltv_id="TVMNE (RTCG Sat (BIH))">TVMNE (RTCG Sat (BIH))</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1649##/d9138754/2024/06/12/c194a6cb-03bd-4113-814e-f3c483557d39_xl.png" xmltv_id="TV Vijesti HD (BIH)">TV Vijesti HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1524##/d9138754/2023/11/21/793d78b3-766c-49bb-9976-9d7dc0950fd5_xl.png" xmltv_id="RTV Novi Pazar (BIH)">RTV Novi Pazar (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1494##/d9138754/2023/10/12/5ffb4d9b-3376-4189-8288-dbc039ab8635_xl.png" xmltv_id="Nova Television HD (BIH)">Nova Television HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1834##/d9138754/2025/03/24/a6291217-9af4-46c6-8b34-0fcc1cfead00_xl.png" xmltv_id="STAR HD (BIH)">STAR HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1835##/d9138754/2025/03/24/2e4083d9-3b3f-47c8-a264-09529140ae16_xl.png" xmltv_id="STAR Life HD (BIH)">STAR Life HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1836##/d9138754/2025/03/24/2f91e7fc-5497-47d7-bac9-f76e02dc92a3_xl.png" xmltv_id="STAR Crime HD (BIH)">STAR Crime HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1837##/d9138754/2025/03/24/1211891c-0aea-45c9-b5a9-5d865d39eed7_xl.png" xmltv_id="STAR Movies HD (BIH)">STAR Movies HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1604##/d9138754/2024/03/20/6dcfc5aa-9f9f-48ec-a42a-70d92ef73142_xl.png" xmltv_id="Nova Series (BIH)">Nova Series (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1508##/d9138754/2023/10/26/3fa6b2aa-d64f-4d76-8fd5-36046e308dc1_xl.png" xmltv_id="FilmBox Premium HD (BIH)">FilmBox Premium HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1880##/d9138754/2025/03/26/d8076c13-4223-4dd2-80f1-57dc99241e03_xl.png" xmltv_id="Diva (BIH)">Diva (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="990##/d9138754/2025/12/01/6a3cf9c5_09ec_4c84_94c6_fdc6514f464b_stb_fhd.png" xmltv_id="Pickbox 1 (BIH)">Pickbox 1 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1831##/d9138754/2025/03/24/2721d3b2-fffe-4a46-9dc4-09ce94356bb9_xl.png" xmltv_id="AMC HD (BIH)">AMC HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1949##/d9138754/2025/05/05/4c22b45f-65c5-4455-aa21-86cc5ed53e27_xl.png" xmltv_id="Viasat Kino HD (BIH)">Viasat Kino HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1844##/d9138754/2025/03/25/4e6e3c7a-c092-40c9-9fd9-953edae91bf4_xl.png" xmltv_id="Epic Drama HD (BIH)">Epic Drama HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1514##/d9138754/2023/11/03/f8825857-62b0-4a0f-adab-fe644a283847_xl.png" xmltv_id="Kino TV HD (BIH)">Kino TV HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1522##/d9138754/2023/11/21/d7f0c040-9a78-456b-a43f-04b8a743d9c7_xl.png" xmltv_id="Cinemania HD (BIH)">Cinemania HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="493##/d9138754/2020/05/28/4e66434a-bcf1-4274-a00f-52eb3cf162c2_xl.png" xmltv_id="Cinema TV">Cinema TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="283##/d9138754/2023/11/20/7ec1e585-a5fd-4aac-96df-e1e22a6be204_xl.png" xmltv_id="CineStar 1 HD (BIH)">CineStar 1 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="777##/d9138754/2025/03/25/50c4c9ed-b092-415c-ba6a-1b69c86c30d3_xl.png" xmltv_id="Cinestar 2 HD (BIH)">Cinestar 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1845##/d9138754/2025/03/25/1a66555a-ed04-46b1-bb4c-495caa1eee8a_xl.png" xmltv_id="CineStar Fantasy HD (BIH)">CineStar Fantasy HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="462##/d9138754/2023/11/20/3fc9174c-5bfd-4a47-b9e2-ea65fd8a3a4a_xl.png" xmltv_id="CineStar Action HD (BIH)">CineStar Action HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1846##/d9138754/2025/03/25/1465a2e0-ef24-4cb6-ab9c-c75766e34a01_xl.png" xmltv_id="CineStar Comedy &amp; Family HD (BIH)">CineStar Comedy &amp; Family HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1833##/d9138754/2025/03/24/4bf5f72c-9819-4e26-9a63-2c9401fa0d21_xl.png" xmltv_id="CineStar Premiere 1 HD (BIH)">CineStar Premiere 1 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1832##/d9138754/2025/03/24/866619ac-842d-4e6a-a14b-b79a86ad8b20_xl.png" xmltv_id="CineStar Premiere 2 HD (BIH)">CineStar Premiere 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1840##/d9138754/2025/03/25/f046f551-beb6-4355-aeb0-c847fe5145bb_xl.png" xmltv_id="HBO HD (BIH)">HBO HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1841##/d9138754/2025/03/25/c11cc5db-cb95-4e5f-a3c3-a1daf9a0cf07_xl.png" xmltv_id="HBO 2 HD (BIH)">HBO 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1842##/d9138754/2025/03/25/fc71cd15-20e7-4fec-9647-681152f498f2_xl.png" xmltv_id="HBO 3 HD (BIH)">HBO 3 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1847##/d9138754/2025/03/25/7e483621-cb30-4003-af73-a69244cb5bdb_xl.png" xmltv_id="Cinemax HD (BIH)">Cinemax HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1848##/d9138754/2025/03/25/da6c9364-5bc6-4e93-be06-06e4355768b6_xl.png" xmltv_id="Cinemax 2 HD (BIH)">Cinemax 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1849##/d9138754/2025/03/25/ca00bfd8-be87-47c4-8588-f3555d67282e_xl.png" xmltv_id="SCI FI HD (BIH)">SCI FI HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1838##/d9138754/2025/03/24/e0a3bccd-c1e2-4c23-a151-8bf6a745ed57_xl.png" xmltv_id="Pink Western (BIH)">Pink Western (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1850##/d9138754/2025/03/25/a3fc3adf-0d6a-4608-8401-02368cdd2cff_xl.png" xmltv_id="Pink Action (BIH)">Pink Action (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="2078##/d9138754/2025/09/25/f08c62e2-e148-4a9b-9629-168f02a1d91e_xl.png" xmltv_id="FilmBox Stars HD (BIH)">FilmBox Stars HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1645##/d9138754/2024/05/30/0a094753-83c8-4eff-855c-fdfbedc8cb29_xl.png" xmltv_id="SHORTSTV HD (BIH)">SHORTSTV HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="557##/d9138754/2025/11/26/4628ce15-8968-4eb0-ae4b-ce8f300510e7_xl.png" xmltv_id="SK 1 (BIH)">SK 1 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="67##/d9138754/2025/11/26/d28de3e3-ece2-4cbd-8122-52bbadd6d8c5_xl.png" xmltv_id="SK 2 (SR/BIH)">SK 2 (SR/BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="68##/d9138754/2025/11/26/446006ba-e6c8-4d6a-a097-3d76064693ba_stb_fhd.png" xmltv_id="SK 3 (SR/BIH)">SK 3 (SR/BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="18##/d9138754/2025/11/26/d82917b6-e9ec-44a5-b221-6bdb7b6f40e0_l.png" xmltv_id="SK 4 (BIH)">SK 4 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1851##/d9138754/2025/11/26/84c72e9f-3d83-4cee-b2cd-c14ca7bc0168_m.png" xmltv_id="SK 5 (BIH)">SK 5 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1143##/d9138754/2025/11/26/271efde7-48bd-4c9d-b4aa-de7dea2449da_m.png" xmltv_id="SK 6 (BIH)">SK 6 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1500##/d9138754/2025/11/26/6aa5be20-39e0-4e22-9c57-cf0c36c37930_s.png" xmltv_id="SK 7 (BIH)">SK 7 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1501##/d9138754/2025/11/26/9920f5e2-a316-4fae-ac64-34164939968c_l.png" xmltv_id="SK 8 (BIH)">SK 8 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1502##/d9138754/2025/11/26/71d3b797-765e-4a44-8829-59d14de72f83_s.png" xmltv_id="SK 9 (BIH)">SK 9 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1498##/d9138754/2025/11/26/cebdbfc8-31b8-435c-9990-7563b3734d8c_stb_fhd.png" xmltv_id="SK 10 (BIH)">SK 10 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="69##/d9138754/2025/11/26/ae8f5a14-cff0-4554-8124-b54cd404bd70_s.png" xmltv_id="SK 11 (SR/BIH)">SK 11 (SR/BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1142##/d9138754/2025/11/26/8e7d6337-c981-45a3-96ac-ebc0601c852a_m.png" xmltv_id="SK 12 (BIH)">SK 12 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="73##/d9138754/2025/11/26/a2185f7d-b25f-49cb-a556-59258e59b025_xl.png" xmltv_id="SK Golf (BIH/SI)">SK Golf (BIH/SI)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1503##/d9138754/2023/10/16/bb68aeab-243b-4deb-9125-8337f4c7683c_xl.png" xmltv_id="SK Fight (BIH)">SK Fight (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="687##/d9138754/2020/05/28/bcefd2f6-290b-421c-a1a3-9ce6ebb5fa95_xl.png" xmltv_id="SK Esports (SI/BIH)">SK Esports (SI/BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1852##/d9138754/2025/03/25/a3db5707-c1ae-4d3e-b1d4-14506bd4ad4a_xl.png" xmltv_id="Eurosport 1 HD (BIH)">Eurosport 1 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1505##/d9138754/2023/10/26/bea78cba-602d-4ea1-a3ad-0bb41d66da5f_xl.png" xmltv_id="Eurosport 2 HD (BIH)">Eurosport 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="2052##/d9138754/2025/06/10/d1e22551-7a2c-401d-a0b7-aa3ad39bf71a_xl.png" xmltv_id="Eurosport 4K (BIH)">Eurosport 4K (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1338##/d9138754/2022/10/28/1638bfb8-a24a-4dd5-b7ef-4984831db30f_xl.png" xmltv_id="Shift TV HD (BIH)">Shift TV HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1635##/d9138754/2024/05/21/5b19ce2b-87d5-4c4c-a1d6-7912b6c868e3_xl.png" xmltv_id="Motorvision+ HD (BIH)">Motorvision+ HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="921##/d9138754/2020/10/26/de502258-28b5-41e4-966a-6465c917d722_xl.png" xmltv_id="Pikaboo HD (BIH)">Pikaboo HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1511##/d9138754/2023/11/01/ac6382bd-9bbd-44b0-a0e2-794eeeb82099_xl.png" xmltv_id="Minimax (BIH)">Minimax (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1495##/d9138754/2023/10/12/fe8f3f99-0c9f-49ad-959f-3219462d17fa_xl.png" xmltv_id="RTL Kockica HD (BIH)">RTL Kockica HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="574##/d9138754/2023/08/22/bf36f1d6-a4ad-4ca9-a9e1-e340e2b73aa0_xl.png" xmltv_id="Nickelodeon (BIH)">Nickelodeon (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1105##/d9138754/2021/11/17/35bd06d0-3adc-41dc-b03a-5d80a1435fa3_xl.png" xmltv_id="Cartoon Network (BIH)">Cartoon Network (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1853##/d9138754/2025/03/25/7691b400-efbc-4bf6-a6bc-d8c246ee9ce2_xl.png" xmltv_id="Disney Channel (BIH)">Disney Channel (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1120##/d9138754/2023/02/08/15a23577-3672-4923-93a0-0786caad3ae5_xl.png" xmltv_id="Da Vinci HD (BIH)">Da Vinci HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="922##/d9138754/2024/03/07/df72a36d-63a8-4917-a2ac-4db71191e32d_xl.png" xmltv_id="Nick Jr. (BIH)">Nick Jr. (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="870##/d9138754/2024/05/20/03c40e5b-dd01-4ce0-9038-c4e85f0e3872_xl.png" xmltv_id="Nicktoons (BIH)">Nicktoons (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1492##/d9138754/2024/06/03/889c2c54-b488-4cae-a477-00b535b2d8bb_xl.png" xmltv_id="Disney Junior (BIH)">Disney Junior (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1491##/d9138754/2023/10/12/8de4d50f-26c6-4093-984a-472f1ef3da04_xl.png" xmltv_id="Cartoonito (BIH)">Cartoonito (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1506##/d9138754/2023/10/26/c78d6cc8-95c0-4344-ba44-f76ea7cdf105_xl.png" xmltv_id="Nickelodeon HD (BIH)">Nickelodeon HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1102##/d9138754/2021/10/29/e4fa6bcc-e828-4639-ada9-a8adb8b2b525_xl.png" xmltv_id="IDJKids HD (BIH)">IDJKids HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1510##/d9138754/2023/10/27/cf00f6f5-ff38-4713-8eee-3c48c8c5b051_xl.png" xmltv_id="BabyTV  HD (BIH)">BabyTV  HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1667##/d9138754/2024/07/12/629d5bd3-afb0-4c9a-a31e-8b64f257f34c_xl.png" xmltv_id="Jim Jam (BIH)">Jim Jam (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="494##/d9138754/2024/02/24/c3eaefb9-7842-40ca-af23-b8795016e3e7_xl.png" xmltv_id="Hayatovci">Hayatovci</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1854##/d9138754/2025/03/25/cfc0285c-79ca-42f2-a802-b88a94729f32_xl.png" xmltv_id="Pink Kids (BIH)">Pink Kids (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1526##/d9138754/2023/12/13/54e1384e-6a4d-4f71-9985-e3634432bd96_xl.png" xmltv_id="Tropik TV">Tropik TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1855##/d9138754/2025/03/25/34395c91-ad36-4e10-80b6-f90675ca786c_xl.png" xmltv_id="National Geographic HD (BIH)">National Geographic HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1856##/d9138754/2025/03/25/b17246cb-526b-442f-b1fb-93c0cc006b91_xl.png" xmltv_id="Discovery Channel HD (BIH)">Discovery Channel HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1509##/d9138754/2023/10/26/e6ba73ec-4f16-4195-bd7e-671acc2d5c50_xl.png" xmltv_id="Doku TV HD (BIH)">Doku TV HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1857##/d9138754/2025/03/25/2e469c06-46b7-4af7-89e1-8ee82959fd9a_xl.png" xmltv_id="History HD (BIH)">History HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1858##/d9138754/2025/03/25/679b6141-7e2c-4f65-b6e8-a3ea1bdfd0b6_xl.png" xmltv_id="Viasat History HD (BIH)">Viasat History HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1859##/d9138754/2025/03/25/daf67789-7f96-4e5f-bc3d-6cf4fb83a251_xl.png" xmltv_id="History 2 HD (BIH)">History 2 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1860##/d9138754/2025/03/25/faf69156-9406-4012-873f-4ba43ebd0182_xl.png" xmltv_id="Lov i Ribolov (BIH)">Lov i Ribolov (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1861##/d9138754/2025/03/25/bf545575-1e5b-4821-ab17-6cbc08be266c_xl.png" xmltv_id="Viasat Explore HD (BIH)">Viasat Explore HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1830##/d9138754/2025/03/24/23e21ab9-5566-4c01-8a12-f7e4b3e380d7_xl.png" xmltv_id="Animal Planet HD (BIH)">Animal Planet HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1862##/d9138754/2025/03/25/f81589c0-5dcc-462f-95f4-ccb7598501bc_xl.png" xmltv_id="Viasat Nature HD (BIH)">Viasat Nature HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1863##/d9138754/2025/03/25/087deb9c-613c-4194-9e4f-d9bd1f2d16be_xl.png" xmltv_id="Nat Geo Wild HD (BIH)">Nat Geo Wild HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1640##/d9138754/2024/05/29/9c85054d-21b4-42dc-8971-5bcdb219ec46_xl.png" xmltv_id="BBC Earth HD (BIH)">BBC Earth HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1932##/d9138754/2025/03/28/b22fc1fc-cf3d-4d92-a5f4-44318ec6540f_xl.png" xmltv_id="Viasat True Crime HD (BIH) ">Viasat True Crime HD (BIH) </channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1864##/d9138754/2025/03/26/e2c876a1-1078-43cd-9477-b4b3ef746424_xl.png" xmltv_id="Crime &amp; Investigation (BIH)">Crime &amp; Investigation (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1478##/d9138754/2023/06/19/ddb5afad-3e96-4ef0-b46e-d6b44344641d_xl.png" xmltv_id="ID HD (BIH)">ID HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1942##/d9138754/2025/04/17/7bd79ea7-97d3-4c39-8209-a634e85b3299_xl.png" xmltv_id="24Kitchen HD (BIH)">24Kitchen HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1865##/d9138754/2025/03/26/d6088c62-3bcf-42bd-b896-c10149ee1323_xl.png" xmltv_id="Home and Garden TV (BIH)">Home and Garden TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1866##/d9138754/2025/03/26/38422235-a31e-4e7c-b2ff-bcd6bf19e24a_xl.png" xmltv_id="Travel Channel HD (BIH)">Travel Channel HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="119##/d9138754/2021/03/30/24fbc964-2891-4b9f-9ade-7ccd268b97fd_xl.png" xmltv_id="TLC HD (BIH)">TLC HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1867##/d9138754/2025/03/26/659fa472-9cbd-4bc9-955b-a6b7de894b89_xl.png" xmltv_id="E! Entertainment (BIH)">E! Entertainment (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1614##/d9138754/2024/04/22/1e7afebb-19b9-4a33-8332-de1412b67b53_xl.png" xmltv_id="FTV HD (BIH)">FTV HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1666##/d9138754/2024/07/11/eb533ff1-d548-49b3-b5a6-74173ee0caef_xl.png" xmltv_id="Trace Sport Stars HD (BIH)">Trace Sport Stars HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1598##/d9138754/2024/03/18/73e98776-7272-430c-814a-b53102e3a627_xl.png" xmltv_id="Pink Plus (BIH)">Pink Plus (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1619##/d9138754/2024/04/24/9d183611-4f50-4aee-a21a-1ff87c87891b_xl.png" xmltv_id="Pink Extra (BIH)">Pink Extra (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1587##/d9138754/2024/02/26/09345088-25a9-4537-a756-a48ff69ab1b6_xl.png" xmltv_id="Yachting TV (BIH)">Yachting TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1104##/d9138754/2021/11/17/592496f2-7306-41a3-ba3b-97409578ed54_xl.png" xmltv_id="Grand International HD (BIH)">Grand International HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1520##/d9138754/2023/11/08/75fcdb99-25a1-4389-b395-ac5890da6aa6_xl.png" xmltv_id="Grand narodna televizija 2 (BIH)">Grand narodna televizija 2 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1594##/d9138754/2024/03/15/7da047c6-f29a-4d1b-978a-ff7369453ac4_xl.png" xmltv_id="Grand Nostalgija (BIH)">Grand Nostalgija (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1496##/d9138754/2023/10/13/0e649b4e-d54a-4023-87f0-6f37154060f6_xl.png" xmltv_id="IDJTV HD (BIH)">IDJTV HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1523##/d9138754/2023/11/21/eabdbb31-47fa-4cc1-985e-352c6901f952_xl.png" xmltv_id="Bujrum TV (BIH)">Bujrum TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="654##/d9138754/2020/05/28/ca0b06bc-b9ec-4745-a423-4685f2d25d52_xl.png" xmltv_id="Sevdah TV">Sevdah TV</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="201##/d9138754/2024/12/30/ca9dd38a-8339-46b1-9fd0-84ebe9953b5b_xl.png" xmltv_id="BN Music HD (BIH)">BN Music HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="495##/d9138754/2024/02/24/3696600e-4caf-425d-924e-784f8d9a2a8d_xl.png" xmltv_id="Hayat Folk Box">Hayat Folk Box</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="496##/d9138754/2024/02/24/57463d17-dd98-44c0-adcb-e6f8208f52b9_xl.png" xmltv_id="Hayat Music Box">Hayat Music Box</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1097##/d9138754/2021/09/29/010c7914-d5b3-4b62-9c8b-45116bf93815_xl.png" xmltv_id="O Kanal Music HD">O Kanal Music HD</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1596##/d9138754/2024/03/15/6f13ea86-c9d2-4440-853f-f1f9af68d5eb_xl.png" xmltv_id="CMC HD (BIH)">CMC HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1597##/d9138754/2024/03/18/04fdc581-f624-4181-aee8-9eb1c3520b80_xl.png" xmltv_id="Pink Music (BIH)">Pink Music (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1593##/d9138754/2024/03/15/a2ad53ce-0e31-44c6-bb03-a24ba7f3b7c0_xl.png" xmltv_id="DM Sat (BIH)">DM Sat (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1634##/d9138754/2024/05/21/4ffb5923-da7d-45a4-8ba0-ef8c30ce8201_xl.png" xmltv_id="K::CN Music 2 (BIH)">K::CN Music 2 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1644##/d9138754/2024/05/30/f462c661-8080-4378-9c68-bf54a0fe962f_xl.png" xmltv_id="K::CN Svet+ 3 (BIH)">K::CN Svet+ 3 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="409##/d9138754/2020/05/28/ae3245a6-9539-4e28-9569-951e67e89aa2_xl.png" xmltv_id="Balkanika (BIH)">Balkanika (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1527##/d9138754/2023/12/14/e7fb9843-2048-4435-9566-313131388adc_xl.png" xmltv_id="MTV (BIH)">MTV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1633##/d9138754/2024/05/20/e6b92aa5-a82a-4661-84e9-f9c61f1b26ed_xl.png" xmltv_id="Trace Urban HD (BIH)">Trace Urban HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="2113##/d9138754/2025/12/18/5297ee32_9555_48a9_aa8f_99dfde4bb84b_stb_fhd.png" xmltv_id="Trace UK HD (BIH)">Trace UK HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="2112##/d9138754/2025/12/18/5577cd44_45ed_4820_bf30_9ae852611e3b_l.png" xmltv_id="Trace Latina HD (BIH)">Trace Latina HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="2114##/d9138754/2025/12/18/d30220b9_9f2d_4a22_a8b4_299e2fad1cca_l.png" xmltv_id="Trace Ngoma (BIH)">Trace Ngoma (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1650##/d9138754/2024/06/12/c6c6c588-7517-4574-9872-add4fe987578_xl.png" xmltv_id="iConcerts HD (BIH)">iConcerts HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1742##/d9138754/2024/12/17/17cf5c69-7a41-4c85-9f98-afc34a8a477c_xl.png" xmltv_id="Marquee TV (BIH)">Marquee TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1518##/d9138754/2023/11/07/5ae44b9f-bb49-4b71-9cba-f152895e5e58_xl.png" xmltv_id="CNN (BIH)">CNN (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1618##/d9138754/2024/04/24/983fe62c-3de0-4ac9-ba7a-3d2f48fd69e5_xl.png" xmltv_id="BBC News (BIH)">BBC News (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1664##/d9138754/2024/07/10/f255dc32-91d1-47f0-831e-f58fee0f1fdc_xl.png" xmltv_id="FREEДOM (BIH)">FREEДOM (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1673##/d9138754/2024/07/31/1b0e5a01-5a62-43c0-b010-6eba02d7151d_xl.png" xmltv_id="Sky News (BIH)">Sky News (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1668##/d9138754/2024/07/12/7c3c736d-735e-4e46-bfd6-0cbb2065bd32_xl.png" xmltv_id="1+1 International (BIH)">1+1 International (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1665##/d9138754/2024/07/10/c37237a8-7929-4bcf-a7ac-03d4b0671bd1_xl.png" xmltv_id="Euronews HD (BIH)">Euronews HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1648##/d9138754/2024/05/31/a803ff38-acce-4b6e-b997-6abc97202ae4_xl.png" xmltv_id="Bloomberg (BIH)">Bloomberg (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1641##/d9138754/2024/05/29/159732cf-2176-45d3-b3d3-4ca3f5d02eb2_xl.png" xmltv_id="Deutsche Welle (BIH)">Deutsche Welle (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1519##/d9138754/2023/11/07/cddecbd3-a0b9-444e-993f-a6d170895fd2_xl.png" xmltv_id="Current Time (BIH)">Current Time (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1591##/d9138754/2024/03/14/ba71f15f-3214-49ad-960d-760322a48e35_xl.png" xmltv_id="RTL DE (BIH)">RTL DE (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1592##/d9138754/2024/03/14/43f37e6e-4976-40e0-b6e5-ee7520a215db_xl.png" xmltv_id="RTL 2 DE (BIH)">RTL 2 DE (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1600##/d9138754/2024/03/18/a6d02163-d33c-4e1a-85e2-794967baa2e9_xl.png" xmltv_id="Pro7 (BIH)">Pro7 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1599##/d9138754/2024/03/18/4ae5e26f-cbd9-4977-a2e0-c217830bb3bd_xl.png" xmltv_id="VOX (BIH)">VOX (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="461##/d9138754/2020/05/28/f3d044bc-23d7-4cf1-844e-81c3d577bac3_xl.png" xmltv_id="TRT Avaz (BIH)">TRT Avaz (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1341##/d9138754/2022/11/17/68e673a4-b187-4d4f-a06b-eabb8c37f1f5_xl.png" xmltv_id="Al Jazeera Arabic (BIH)">Al Jazeera Arabic (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1606##/d9138754/2024/03/20/6c139986-5f5a-475a-8010-c1cc47fff9f9_xl.png" xmltv_id="Rai Uno (BIH)">Rai Uno (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1646##/d9138754/2024/05/31/870f0460-5e62-4d92-833b-ec2fac8abff6_xl.png" xmltv_id="France 24 HD (BIH)">France 24 HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1647##/d9138754/2026/01/23/50acd226_613a_4d32_abf6_ee3529b225f3_m.png" xmltv_id="TV5MONDE (BIH)">TV5MONDE (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1868##/d9138754/2025/03/26/daecf613-8cf2-438a-b8e7-6e6d1c912101_xl.png" xmltv_id="Pink Comedy (BIH)">Pink Comedy (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1869##/d9138754/2025/03/26/fc57b3ad-e0e1-44fa-bcf0-c8028bdf8b44_xl.png" xmltv_id="Pink Romance (BIH)">Pink Romance (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1477##/d9138754/2023/06/19/4cb3a841-b254-44a7-a330-b586b98b85e6_xl.png" xmltv_id="Pink Premium HD (BIH)">Pink Premium HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1870##/d9138754/2025/03/26/f8d0e640-2d47-4c9b-b2d0-196bd544f893_xl.png" xmltv_id="Pink Movies (BIH)">Pink Movies (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1620##/d9138754/2024/04/25/01c762b5-60d5-4617-8040-bd3342bb5a15_xl.png" xmltv_id="Pink Film (BiH)">Pink Film (BiH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1871##/d9138754/2025/03/26/d394365b-5824-4f27-9859-225514578595_xl.png" xmltv_id="Pink Thriller (BIH)">Pink Thriller (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1601##/d9138754/2024/03/19/625354fd-b196-43e0-bc0a-1252a2111115_xl.png" xmltv_id="Pink Crime &amp; Mystery (BIH)">Pink Crime &amp; Mystery (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1872##/d9138754/2025/03/26/4a7c9ddf-8eea-404b-abac-b5b3eb0530a1_xl.png" xmltv_id="Pink Soap (BIH)">Pink Soap (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1873##/d9138754/2025/03/26/1d926f42-2b83-45e9-bec6-ad6786431183_xl.png" xmltv_id="Pink Sci-Fi &amp; Fantasy (BIH)">Pink Sci-Fi &amp; Fantasy (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1874##/d9138754/2025/03/26/791cd57c-516e-4f6c-97f7-c7f7911d773c_xl.png" xmltv_id="Pink Horror (BIH)">Pink Horror (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1694##/d9138754/2024/09/17/a8314925-a5b8-40f5-8b90-6f1c0615ba7d_xl.png" xmltv_id="Pink World Cinema (BIH)">Pink World Cinema (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1638##/d9138754/2024/05/27/2684266b-4823-471e-a65a-991bf3d70897_xl.png" xmltv_id="Pink Classic (BIH)">Pink Classic (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1696##/d9138754/2024/09/17/d5399f4f-42c1-491d-95cf-b9d8c9641289_xl.png" xmltv_id="Pink Serije (BIH)">Pink Serije (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1695##/d9138754/2024/09/17/b73a2cd4-bfa2-400f-a876-67ed312ff20a_xl.png" xmltv_id="Pink Family (BIH)">Pink Family (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1616##/d9138754/2024/04/23/18eb2f92-d0b4-420e-8d20-a27dcb303f57_xl.png" xmltv_id="Pink Zabava (BIH)">Pink Zabava (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1621##/d9138754/2024/04/25/188ebee9-41ca-4ac3-9e00-fcae15bcb08a_xl.png" xmltv_id="Pink Reality (BIH)">Pink Reality (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1686##/d9138754/2024/09/16/0486d80d-cd91-49c3-82d1-5070ad67fc9a_xl.png" xmltv_id="Pink World (BIH)">Pink World (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1687##/d9138754/2024/09/16/3b703737-3130-4896-89c2-58715a1941d8_xl.png" xmltv_id="Pink Show (BIH)">Pink Show (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1875##/d9138754/2025/03/26/3d36711c-2ce3-4172-a2b0-e4e09c6c1e66_xl.png" xmltv_id="Pink Style (BIH)">Pink Style (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1691##/d9138754/2024/09/17/9f768f53-788b-48b0-a1c0-16e293b7576e_xl.png" xmltv_id="Pink Fashion (BIH)">Pink Fashion (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1839##/d9138754/2025/03/24/b3f80319-1e1a-4eea-91d7-825cb4edc830_xl.png" xmltv_id="Pink Kuvar (BIH)">Pink Kuvar (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1876##/d9138754/2025/03/26/7c258e62-e06e-41f6-8bb5-bba054751e07_xl.png" xmltv_id="Ha ha (BIH)">Ha ha (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1877##/d9138754/2025/03/26/060783a4-43f2-47e6-86d4-3ab6d156fe6a_xl.png" xmltv_id="Lol (BIH)">Lol (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1878##/d9138754/2025/03/26/f5074305-4eca-46b4-a617-2e956b0acda1_xl.png" xmltv_id="Pink Pedia (BIH)">Pink Pedia (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1879##/d9138754/2025/03/26/f66b14ed-a75c-4b5f-b186-7cd27d4db4f7_xl.png" xmltv_id="Pink super kids (BIH)">Pink super kids (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1636##/d9138754/2024/05/27/862e3ce3-6cfe-4d0a-b802-95f6e0d50559_xl.png" xmltv_id="Bravo Music (BIH)">Bravo Music (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1683##/d9138754/2024/09/13/1fb1f0a7-1f0c-426b-ad08-2561ccf9346e_xl.png" xmltv_id="Pink Folk (BIH)">Pink Folk (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1684##/d9138754/2024/09/13/dc26fb29-defb-43e3-bf70-1ddf8e2a772e_xl.png" xmltv_id="Pink Folk 2 (BIH)">Pink Folk 2 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1688##/d9138754/2024/09/16/bce3ffa6-f571-426d-8b89-2d406da3b8fd_xl.png" xmltv_id="Pink Music 2 (BIH)">Pink Music 2 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1689##/d9138754/2024/09/16/69e53953-3585-49fc-81be-09fb32fc92df_xl.png" xmltv_id="Pink Hits (BIH)">Pink Hits (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1690##/d9138754/2024/09/16/2dcaa1bf-29c0-434e-8841-8de277f8cf87_xl.png" xmltv_id="Pink Hits 2 (BIH)">Pink Hits 2 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1685##/d9138754/2024/09/16/eacdbb14-03e7-46b8-9b7b-3015da03ec99_xl.png" xmltv_id="Pink n roll (BIH)">Pink n roll (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1692##/d9138754/2024/09/17/afaecaee-6493-4995-81dc-a787c9317a1c_xl.png" xmltv_id="Pink Koncert (BIH)">Pink Koncert (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1693##/d9138754/2024/09/17/bb4b5d2c-5643-4a21-9d20-14c4c241f8cc_xl.png" xmltv_id="City Play (BIH)">City Play (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1623##/d9138754/2025/10/09/db3c7ba4-a2be-4532-b47b-c3f6eedc5a6a_xl.png" xmltv_id="Zadruga Live 1 (BIH)">Zadruga Live 1 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1624##/d9138754/2025/10/09/a57ee712-a44b-4dc9-a38a-ac424c9b7cc0_xl.png" xmltv_id="Zadruga Live 2 (BIH)">Zadruga Live 2 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1625##/d9138754/2025/10/09/d67e645a-763e-4718-b30d-fe2d5429ea8e_xl.png" xmltv_id="Zadruga Live 3 (BIH)">Zadruga Live 3 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1626##/d9138754/2025/10/09/fe25b2ea-ed8f-4e27-a652-930d5f8a7936_xl.png" xmltv_id="Zadruga Live 4 (BIH)">Zadruga Live 4 (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1631##/d9138754/2024/05/10/c36648f3-750b-46a1-8f76-2b6904525657_xl.png" xmltv_id="Private TV (BIH)">Private TV (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1658##/d9138754/2024/06/26/35a0d287-9616-462d-8449-48cbe87f6621_xl.png" xmltv_id="Brazzers TV Europe (BIH)">Brazzers TV Europe (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1630##/d9138754/2024/05/10/7523f82a-6a5f-4e19-ad09-dd7fe3a1fb7d_xl.png" xmltv_id="Dusk! (BIH)">Dusk! (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1629##/d9138754/2024/05/10/bb072d34-bd9f-48b5-bc4e-0c7fd24f27d7_xl.png" xmltv_id="Hustler (BIH)">Hustler (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1660##/d9138754/2024/06/27/3ff85e54-8bd8-4834-86a2-a91855d7258f_xl.png" xmltv_id="RedLight (BIH)">RedLight (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1628##/d9138754/2024/05/10/9f48c5f8-6d94-4972-be97-f37e30d19d7f_xl.png" xmltv_id="Hustler HD (BIH)">Hustler HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1659##/d9138754/2024/06/27/2a677c50-29bb-432b-a941-7b70956476aa_xl.png" xmltv_id="Blue Hustler (BIH)">Blue Hustler (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="1657##/d9138754/2024/06/26/c64cfef1-4652-4c67-9f01-6392cfbd70ff_xl.png" xmltv_id="Reality Kings HD (BIH)">Reality Kings HD (BIH)</channel>
+    <channel update="i" site="epg.telemach.ba" site_id="504##/d9138754/2020/05/28/3de87ee4-b7a1-43c6-9c37-49ccd88bd670_xl.png" xmltv_id="Telemach Info kanal (BH)">Telemach Info kanal (BH)</channel>
   </channels>
 </site>
