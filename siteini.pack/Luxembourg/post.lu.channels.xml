@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.4.0.1 -- Jan van Straaten" site="post.lu">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="post.lu">
   <channels>
     <channel update="i" site="post.lu" site_id="269695d0-8076-11e9-b5ca-f345a2ed0fbe" xmltv_id="Das Erste">Das Erste</channel>
     <channel update="i" site="post.lu" site_id="6e632550-8093-11e9-b5ca-f345a2ed0fbe" xmltv_id="ZDF">ZDF</channel>
@@ -63,6 +63,7 @@
     <channel update="i" site="post.lu" site_id="6d2d53f0-1449-11ef-aa8e-b96b202c1f1e" xmltv_id="Miersch TV">Miersch TV</channel>
     <channel update="i" site="post.lu" site_id="d50f3c70-848f-11ef-bbf9-db8743632692" xmltv_id="Pétange Info TV">Pétange Info TV</channel>
     <channel update="i" site="post.lu" site_id="733602c0-8096-11e9-b5ca-f345a2ed0fbe" xmltv_id="Nordliicht-UK">Nordliicht-UK</channel>
+    <channel update="i" site="post.lu" site_id="79d0f9e0-8e28-11f0-ac59-75a669390c9b" xmltv_id="Dikrich TV">Dikrich TV</channel>
     <channel update="i" site="post.lu" site_id="e8e46f10-2415-11eb-953f-eb0eedf1f375" xmltv_id="Post Event">Post Event</channel>
     <channel update="i" site="post.lu" site_id="d608aae0-b9dc-11ee-9b55-eb8b1ddb87be" xmltv_id="Post Channel of the Month">Post Channel of the Month</channel>
     <channel update="i" site="post.lu" site_id="d462b840-8096-11e9-b5ca-f345a2ed0fbe" xmltv_id="TF1">TF1</channel>
@@ -89,7 +90,7 @@
     <channel update="i" site="post.lu" site_id="0384a600-8098-11e9-b5ca-f345a2ed0fbe" xmltv_id="TV5 Monde FBS">TV5 Monde FBS</channel>
     <channel update="i" site="post.lu" site_id="1182f450-8098-11e9-b5ca-f345a2ed0fbe" xmltv_id="Moselle TV">Moselle TV</channel>
     <channel update="i" site="post.lu" site_id="2c2840d0-77f1-11e9-b5ca-f345a2ed0fbe" xmltv_id="AB3">AB3</channel>
-    <channel update="i" site="post.lu" site_id="3c77f930-77f1-11e9-b5ca-f345a2ed0fbe" xmltv_id="ABXPLORE">ABXPLORE</channel>
+    <channel update="i" site="post.lu" site_id="3c77f930-77f1-11e9-b5ca-f345a2ed0fbe" xmltv_id="ABX">ABX</channel>
     <channel update="i" site="post.lu" site_id="bdd3df00-1411-11ea-934c-4323fc36d546" xmltv_id="TVLux">TVLux</channel>
     <channel update="i" site="post.lu" site_id="763b50c0-35cd-11ed-b51f-f33d1bb9e65a" xmltv_id="RAI Italia">RAI Italia</channel>
     <channel update="i" site="post.lu" site_id="361ceb40-8098-11e9-b5ca-f345a2ed0fbe" xmltv_id="Rai 1">Rai 1</channel>
@@ -126,6 +127,8 @@
     <channel update="i" site="post.lu" site_id="c833a390-7641-11e9-b5ca-f345a2ed0fbe" xmltv_id="TVC News">TVC News</channel>
     <channel update="i" site="post.lu" site_id="2a70ea00-809b-11e9-b5ca-f345a2ed0fbe" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
     <channel update="i" site="post.lu" site_id="3683bc00-809b-11e9-b5ca-f345a2ed0fbe" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="post.lu" site_id="f81c6040-9eaf-11f0-a03f-17ec18fb7670" xmltv_id="Dim TV">Dim TV</channel>
+    <channel update="i" site="post.lu" site_id="7fa18590-9eb0-11f0-a03f-17ec18fb7670" xmltv_id="Freedom TV">Freedom TV</channel>
     <channel update="i" site="post.lu" site_id="8f035260-8d15-11e9-b2ae-334cebea47fb" xmltv_id="Be 1">Be 1</channel>
     <channel update="i" site="post.lu" site_id="d0a20720-8d15-11e9-b2ae-334cebea47fb" xmltv_id="Be 1+1">Be 1+1</channel>
     <channel update="i" site="post.lu" site_id="e49f8540-8d15-11e9-b2ae-334cebea47fb" xmltv_id="Be Séries">Be Séries</channel>
@@ -133,13 +136,15 @@
     <channel update="i" site="post.lu" site_id="66830410-8d16-11e9-b2ae-334cebea47fb" xmltv_id="VOO Sport World 1 ">VOO Sport World 1 </channel>
     <channel update="i" site="post.lu" site_id="78ee4970-8d16-11e9-b2ae-334cebea47fb" xmltv_id="VOO Sport World 2">VOO Sport World 2</channel>
     <channel update="i" site="post.lu" site_id="84c39d40-8d16-11e9-b2ae-334cebea47fb" xmltv_id="VOO Sport World 3">VOO Sport World 3</channel>
+    <channel update="i" site="post.lu" site_id="fc087890-b329-11f0-89b1-15a4e0f75fd2" xmltv_id="Play Sports 1">Play Sports 1</channel>
+    <channel update="i" site="post.lu" site_id="5e5fcb60-b32a-11f0-89b1-15a4e0f75fd2" xmltv_id="Play Sports 2">Play Sports 2</channel>
     <channel update="i" site="post.lu" site_id="b1125540-8db0-11e9-ac99-079f5aa46735" xmltv_id="DocuBox">DocuBox</channel>
     <channel update="i" site="post.lu" site_id="cd5c5c90-8d16-11e9-b2ae-334cebea47fb" xmltv_id="Fightbox">Fightbox</channel>
-    <channel update="i" site="post.lu" site_id="37fbfe80-7010-11e9-a762-3be38d7f533c" xmltv_id="FastandfunBox">FastandfunBox</channel>
-    <channel update="i" site="post.lu" site_id="6dfaf8f0-7011-11e9-a762-3be38d7f533c" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
-    <channel update="i" site="post.lu" site_id="0fdffad0-7012-11e9-a762-3be38d7f533c" xmltv_id="FashionBox">FashionBox</channel>
+    <channel update="i" site="post.lu" site_id="e18186f0-8d16-11e9-b2ae-334cebea47fb" xmltv_id="FastandfunBox">FastandfunBox</channel>
+    <channel update="i" site="post.lu" site_id="0bfee850-8d17-11e9-b2ae-334cebea47fb" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="post.lu" site_id="55690160-8d17-11e9-b2ae-334cebea47fb" xmltv_id="FashionBox">FashionBox</channel>
     <channel update="i" site="post.lu" site_id="eef09310-70c6-11e9-a762-3be38d7f533c" xmltv_id="Erox">Erox</channel>
-    <channel update="i" site="post.lu" site_id="8bb61900-7012-11e9-a762-3be38d7f533c" xmltv_id="Gametoon">Gametoon</channel>
+    <channel update="i" site="post.lu" site_id="7a2c2b30-8d17-11e9-b2ae-334cebea47fb" xmltv_id="Gametoon">Gametoon</channel>
     <channel update="i" site="post.lu" site_id="9bc3bce0-1c3a-11ec-8145-03bbc8fc81cf" xmltv_id="RMC Sport Access">RMC Sport Access</channel>
     <channel update="i" site="post.lu" site_id="18935640-1c3b-11ec-8145-03bbc8fc81cf" xmltv_id="RMC Sport 1">RMC Sport 1</channel>
     <channel update="i" site="post.lu" site_id="cdcfcc10-81d7-11e9-b43b-9d7b168e6372" xmltv_id="Sky One">Sky One</channel>
@@ -150,7 +155,7 @@
     <channel update="i" site="post.lu" site_id="461fa1e0-10a1-11ec-b223-bfea288fcea6" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
     <channel update="i" site="post.lu" site_id="6a549570-10a1-11ec-b223-bfea288fcea6" xmltv_id="Sky Nature">Sky Nature</channel>
     <channel update="i" site="post.lu" site_id="d43635d0-f628-11ec-b553-8f3707d45bfd" xmltv_id="Sky Showcase">Sky Showcase</channel>
-    <channel update="i" site="post.lu" site_id="83a12a80-81d7-11e9-b43b-9d7b168e6372" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="post.lu" site_id="83a12a80-81d7-11e9-b43b-9d7b168e6372" xmltv_id="Sky Sci-Fi">Sky Sci-Fi</channel>
     <channel update="i" site="post.lu" site_id="7233a610-81d7-11e9-b43b-9d7b168e6372" xmltv_id="13th Street">13th Street</channel>
     <channel update="i" site="post.lu" site_id="95bf3a40-81d7-11e9-b43b-9d7b168e6372" xmltv_id="Universal TV">Universal TV</channel>
     <channel update="i" site="post.lu" site_id="8c6c2480-81d7-11e9-b43b-9d7b168e6372" xmltv_id="Warner TV Serie">Warner TV Serie</channel>
@@ -207,15 +212,17 @@
     <channel update="i" site="post.lu" site_id="c906fca0-7000-11e9-915f-ab32be3854aa" xmltv_id="DUSK">DUSK</channel>
     <channel update="i" site="post.lu" site_id="0945da60-730e-11e9-8408-8db53eb23c3e" xmltv_id="Vivid TV Europe">Vivid TV Europe</channel>
     <channel update="i" site="post.lu" site_id="f74dcca0-7001-11e9-915f-ab32be3854aa" xmltv_id="DorcelTV">DorcelTV</channel>
-    <channel update="i" site="post.lu" site_id="dc3618f0-8d25-11e9-ac99-079f5aa46735" xmltv_id="OutTV">OutTV</channel>
+    <channel update="i" site="post.lu" site_id="bf597c90-8d25-11e9-ac99-079f5aa46735" xmltv_id="OutTV">OutTV</channel>
     <channel update="i" site="post.lu" site_id="266ea9e0-81d3-11e9-b43b-9d7b168e6372" xmltv_id="X-MO">X-MO</channel>
     <channel update="i" site="post.lu" site_id="7718b020-81d3-11e9-b43b-9d7b168e6372" xmltv_id="Pink-X">Pink-X</channel>
     <channel update="i" site="post.lu" site_id="8310d8c0-81d4-11e9-b43b-9d7b168e6372" xmltv_id="Man-X">Man-X</channel>
     <channel update="i" site="post.lu" site_id="b54a6a50-1551-11ec-b223-bfea288fcea6" xmltv_id="M6 Music">M6 Music</channel>
+    <channel update="i" site="post.lu" site_id="a2427410-9dde-11f0-a03f-17ec18fb7670" xmltv_id="eCLUTCH">eCLUTCH</channel>
     <channel update="i" site="post.lu" site_id="979a5700-977e-11eb-b8dc-7949c519f41d" xmltv_id="A Bola TV">A Bola TV</channel>
     <channel update="i" site="post.lu" site_id="4daf7530-977e-11eb-b8dc-7949c519f41d" xmltv_id="Porto Canal">Porto Canal</channel>
     <channel update="i" site="post.lu" site_id="d5b7a2a0-977d-11eb-b8dc-7949c519f41d" xmltv_id="Canal 11 International">Canal 11 International</channel>
     <channel update="i" site="post.lu" site_id="6640e8b0-2904-11eb-953f-eb0eedf1f375" xmltv_id="6ter">6ter</channel>
+    <channel update="i" site="post.lu" site_id="8dbfae70-9de0-11f0-a03f-17ec18fb7670" xmltv_id="INULTRA 4K">INULTRA 4K</channel>
     <channel update="i" site="post.lu" site_id="69f2b820-9e69-11e9-bccd-adfabb07232d" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
     <channel update="i" site="post.lu" site_id="6bf4dcd0-f340-11ee-9346-ed05077afe7b" xmltv_id="W-sport">W-sport</channel>
     <channel update="i" site="post.lu" site_id="0938f230-b0a9-11ea-9e00-5fef3c7887a0" xmltv_id="KinoweltTV">KinoweltTV</channel>
@@ -229,7 +236,7 @@
     <channel update="i" site="post.lu" site_id="93b440d0-17fd-11ea-934c-4323fc36d546" xmltv_id="ducktv plus">ducktv plus</channel>
     <channel update="i" site="post.lu" site_id="2aef0b00-062f-11ea-b78f-51cc59f3052a" xmltv_id="N1">N1</channel>
     <channel update="i" site="post.lu" site_id="71b0a360-3683-11ec-9c25-91f1005a0ace" xmltv_id="Benfica TV">Benfica TV</channel>
-    <channel update="i" site="post.lu" site_id="7b1fb420-836d-11e9-a0f7-b16899773165" xmltv_id="RTP3">RTP3</channel>
+    <channel update="i" site="post.lu" site_id="7b1fb420-836d-11e9-a0f7-b16899773165" xmltv_id=" RTP Notícias"> RTP Notícias</channel>
     <channel update="i" site="post.lu" site_id="fa2b61e0-89af-11e9-b2ae-334cebea47fb" xmltv_id="SIC Noticiás">SIC Noticiás</channel>
     <channel update="i" site="post.lu" site_id="d247e010-1436-11ef-aa8e-b96b202c1f1e" xmltv_id="CMTV">CMTV</channel>
     <channel update="i" site="post.lu" site_id="14f8dec0-3684-11ec-9c25-91f1005a0ace" xmltv_id="Sporting TV">Sporting TV</channel>
@@ -240,7 +247,6 @@
     <channel update="i" site="post.lu" site_id="e03f1b60-a92f-11e9-bccd-adfabb07232d" xmltv_id="DIZI">DIZI</channel>
     <channel update="i" site="post.lu" site_id="dddccf60-8dba-11e9-ac99-079f5aa46735" xmltv_id="Fix&amp;Foxi TV">Fix&amp;Foxi TV</channel>
     <channel update="i" site="post.lu" site_id="3b881a00-836d-11e9-a0f7-b16899773165" xmltv_id="Comedy Central VIVA">Comedy Central VIVA</channel>
-    <channel update="i" site="post.lu" site_id="5574e970-836d-11e9-a0f7-b16899773165" xmltv_id="Nickelodeon / Comedy Central +1">Nickelodeon / Comedy Central +1</channel>
     <channel update="i" site="post.lu" site_id="48026af0-836e-11e9-a0f7-b16899773165" xmltv_id="TV1000 Russkoe Kino">TV1000 Russkoe Kino</channel>
     <channel update="i" site="post.lu" site_id="5ab540a0-836e-11e9-a0f7-b16899773165" xmltv_id="Motorvision France">Motorvision France</channel>
     <channel update="i" site="post.lu" site_id="96d8f0d0-72f3-11e9-8408-8db53eb23c3e" xmltv_id="Motorvision Deutschland">Motorvision Deutschland</channel>
@@ -251,7 +257,6 @@
     <channel update="i" site="post.lu" site_id="eae06590-1ec4-11eb-953f-eb0eedf1f375" xmltv_id="Bergblick TV">Bergblick TV</channel>
     <channel update="i" site="post.lu" site_id="46b509d0-719b-11e9-a762-3be38d7f533c" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
     <channel update="i" site="post.lu" site_id="c2bfb010-719c-11e9-a762-3be38d7f533c" xmltv_id="Mezzo Live">Mezzo Live</channel>
-    <channel update="i" site="post.lu" site_id="fce936d0-719c-11e9-a762-3be38d7f533c" xmltv_id="MTV Live">MTV Live</channel>
     <channel update="i" site="post.lu" site_id="5524fb20-719a-11e9-a762-3be38d7f533c" xmltv_id="AXN Black">AXN Black</channel>
     <channel update="i" site="post.lu" site_id="375bfe70-77e6-11e9-b5ca-f345a2ed0fbe" xmltv_id="DMAX">DMAX</channel>
     <channel update="i" site="post.lu" site_id="29334c70-719e-11e9-a762-3be38d7f533c" xmltv_id="Romance TV">Romance TV</channel>
@@ -281,7 +286,7 @@
     <channel update="i" site="post.lu" site_id="14f95d10-8690-11e9-a0f7-b16899773165" xmltv_id="Mezzo FR">Mezzo FR</channel>
     <channel update="i" site="post.lu" site_id="81847220-786d-11e9-b5ca-f345a2ed0fbe" xmltv_id="RFM TV">RFM TV</channel>
     <channel update="i" site="post.lu" site_id="0a69cb80-77f1-11e9-b5ca-f345a2ed0fbe" xmltv_id="AB1">AB1</channel>
-    <channel update="i" site="post.lu" site_id="02704b00-8d29-11e9-ac99-079f5aa46735" xmltv_id="E! Entertainment FR + DE + GB">E! Entertainment FR + DE + GB</channel>
+    <channel update="i" site="post.lu" site_id="02704b00-8d29-11e9-ac99-079f5aa46735" xmltv_id="E! Entertainment FR + EN">E! Entertainment FR + EN</channel>
     <channel update="i" site="post.lu" site_id="a2937ff0-77f1-11e9-b5ca-f345a2ed0fbe" xmltv_id="Crime District">Crime District</channel>
     <channel update="i" site="post.lu" site_id="07db6a60-8695-11e9-a0f7-b16899773165" xmltv_id="MGG TV ">MGG TV </channel>
     <channel update="i" site="post.lu" site_id="c23e5780-77f1-11e9-b5ca-f345a2ed0fbe" xmltv_id="Mangas">Mangas</channel>
@@ -301,6 +306,8 @@
     <channel update="i" site="post.lu" site_id="a4620830-700b-11e9-a762-3be38d7f533c" xmltv_id="Eurochannel">Eurochannel</channel>
     <channel update="i" site="post.lu" site_id="f15eea50-701e-11e9-a762-3be38d7f533c" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="post.lu" site_id="0190a750-7007-11e9-a762-3be38d7f533c" xmltv_id="GINX Esports TV">GINX Esports TV</channel>
+    <channel update="i" site="post.lu" site_id="dde92820-9de2-11f0-a03f-17ec18fb7670" xmltv_id="CNN Portugal">CNN Portugal</channel>
+    <channel update="i" site="post.lu" site_id="5bf5a4d0-9d13-11f0-a03f-17ec18fb7670" xmltv_id="SIC International">SIC International</channel>
     <channel update="i" site="post.lu" site_id="09df3bc0-70bf-11e9-a762-3be38d7f533c" xmltv_id="Canal Q">Canal Q</channel>
     <channel update="i" site="post.lu" site_id="8fb97670-8d2a-11e9-ac99-079f5aa46735" xmltv_id="V+ TVI">V+ TVI</channel>
     <channel update="i" site="post.lu" site_id="495e5360-77e7-11e9-b5ca-f345a2ed0fbe" xmltv_id="Eurosport 1 Portugal">Eurosport 1 Portugal</channel>
