@@ -14,6 +14,9 @@
   <postprocess grab="y" run="n">rex</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 Edge/18.18362 Firefox/75.0</user-agent>
 
+  <!-- if using linux based OS and you get 403 errors please set user agent to:
+	 <user-agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0</user-agent>  
+   -->	
   <license wg-username="rollerbar" registered-email="rollerbar@gmail.com" password="123456">f</license>
   <!-- to update license: <license wg-username="rollerbar" registered-email="rollerbar@gmail.com" password="123456">f</license> -->	
 	
@@ -31,3 +34,4 @@
 	
  
 </settings>
+
