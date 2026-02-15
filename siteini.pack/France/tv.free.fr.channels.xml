@@ -1,0 +1,893 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="tv.free.fr">
+  <channels>
+    <channel update="i" site="tv.free.fr" site_id="1" xmltv_id="Canal 32">Canal 32</channel>
+    <channel update="i" site="tv.free.fr" site_id="2" xmltv_id="RTNC">RTNC</channel>
+    <channel update="i" site="tv.free.fr" site_id="3" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
+    <channel update="i" site="tv.free.fr" site_id="7" xmltv_id="Iqraa Int">Iqraa Int</channel>
+    <channel update="i" site="tv.free.fr" site_id="9" xmltv_id="SIC Noticias">SIC Noticias</channel>
+    <channel update="i" site="tv.free.fr" site_id="10" xmltv_id="TVI Internacional">TVI Internacional</channel>
+    <channel update="i" site="tv.free.fr" site_id="12" xmltv_id="A Bola TV">A Bola TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="13" xmltv_id="Porto Canal">Porto Canal</channel>
+    <channel update="i" site="tv.free.fr" site_id="14" xmltv_id="Baby TV (portugais)">Baby TV (portugais)</channel>
+    <channel update="i" site="tv.free.fr" site_id="16" xmltv_id="GONG">GONG</channel>
+    <channel update="i" site="tv.free.fr" site_id="18" xmltv_id="Hannibal TV">Hannibal TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="19" xmltv_id="i24 News">i24 News</channel>
+    <channel update="i" site="tv.free.fr" site_id="20" xmltv_id="Canal Q">Canal Q</channel>
+    <channel update="i" site="tv.free.fr" site_id="21" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="tv.free.fr" site_id="22" xmltv_id="OCS">OCS</channel>
+    <channel update="i" site="tv.free.fr" site_id="23" xmltv_id="Ciné+ frisson">Ciné+ frisson</channel>
+    <channel update="i" site="tv.free.fr" site_id="24" xmltv_id="Ciné+ émotion">Ciné+ émotion</channel>
+    <channel update="i" site="tv.free.fr" site_id="25" xmltv_id="CANAL+SERIES">CANAL+SERIES</channel>
+    <channel update="i" site="tv.free.fr" site_id="26" xmltv_id="V+ TVI">V+ TVI</channel>
+    <channel update="i" site="tv.free.fr" site_id="27" xmltv_id="Voyage">Voyage</channel>
+    <channel update="i" site="tv.free.fr" site_id="28" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tv.free.fr" site_id="29" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tv.free.fr" site_id="30" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="tv.free.fr" site_id="31" xmltv_id="Tébésud">Tébésud</channel>
+    <channel update="i" site="tv.free.fr" site_id="32" xmltv_id="Tébéo">Tébéo</channel>
+    <channel update="i" site="tv.free.fr" site_id="33" xmltv_id="BFM DICI Haute Provence">BFM DICI Haute Provence</channel>
+    <channel update="i" site="tv.free.fr" site_id="35" xmltv_id="SUD1ère">SUD1ère</channel>
+    <channel update="i" site="tv.free.fr" site_id="36" xmltv_id="Noursat">Noursat</channel>
+    <channel update="i" site="tv.free.fr" site_id="37" xmltv_id="Ennahar">Ennahar</channel>
+    <channel update="i" site="tv.free.fr" site_id="39" xmltv_id="Ikono">Ikono</channel>
+    <channel update="i" site="tv.free.fr" site_id="40" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="tv.free.fr" site_id="41" xmltv_id="Vivid TV">Vivid TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="44" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel update="i" site="tv.free.fr" site_id="45" xmltv_id="OCS Max">OCS Max</channel>
+    <channel update="i" site="tv.free.fr" site_id="46" xmltv_id="OCS City">OCS City</channel>
+    <channel update="i" site="tv.free.fr" site_id="47" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel update="i" site="tv.free.fr" site_id="48" xmltv_id="OCS Géants">OCS Géants</channel>
+    <channel update="i" site="tv.free.fr" site_id="49" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="50" xmltv_id="Penthouse Black">Penthouse Black</channel>
+    <channel update="i" site="tv.free.fr" site_id="51" xmltv_id="Télé Antilles">Télé Antilles</channel>
+    <channel update="i" site="tv.free.fr" site_id="52" xmltv_id="B-One TV">B-One TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="54" xmltv_id="Sen TV">Sen TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="55" xmltv_id="TVT">TVT</channel>
+    <channel update="i" site="tv.free.fr" site_id="56" xmltv_id="Welt">Welt</channel>
+    <channel update="i" site="tv.free.fr" site_id="57" xmltv_id="Al Erth Al Nabawi">Al Erth Al Nabawi</channel>
+    <channel update="i" site="tv.free.fr" site_id="58" xmltv_id="MBC Drama">MBC Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="59" xmltv_id="Al Arabiya News Channel">Al Arabiya News Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="61" xmltv_id="Rotana Comedy">Rotana Comedy</channel>
+    <channel update="i" site="tv.free.fr" site_id="62" xmltv_id="Rotana Drama">Rotana Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="65" xmltv_id="LBC Sat">LBC Sat</channel>
+    <channel update="i" site="tv.free.fr" site_id="66" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="67" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="tv.free.fr" site_id="68" xmltv_id="Atres Series">Atres Series</channel>
+    <channel update="i" site="tv.free.fr" site_id="70" xmltv_id="TV3 CAT">TV3 CAT</channel>
+    <channel update="i" site="tv.free.fr" site_id="71" xmltv_id="Galicia TV">Galicia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="73" xmltv_id="TVPI">TVPI</channel>
+    <channel update="i" site="tv.free.fr" site_id="74" xmltv_id="TL7">TL7</channel>
+    <channel update="i" site="tv.free.fr" site_id="78" xmltv_id="Mosaïque chaînes locales">Mosaïque chaînes locales</channel>
+    <channel update="i" site="tv.free.fr" site_id="79" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="tv.free.fr" site_id="81" xmltv_id="CTC">CTC</channel>
+    <channel update="i" site="tv.free.fr" site_id="82" xmltv_id="TNT Comedy">TNT Comedy</channel>
+    <channel update="i" site="tv.free.fr" site_id="83" xmltv_id="TV1000 Kino">TV1000 Kino</channel>
+    <channel update="i" site="tv.free.fr" site_id="84" xmltv_id="Télé Kréol">Télé Kréol</channel>
+    <channel update="i" site="tv.free.fr" site_id="86" xmltv_id="MBC Sat">MBC Sat</channel>
+    <channel update="i" site="tv.free.fr" site_id="87" xmltv_id="TVM">TVM</channel>
+    <channel update="i" site="tv.free.fr" site_id="88" xmltv_id="La Chaîne Normande">La Chaîne Normande</channel>
+    <channel update="i" site="tv.free.fr" site_id="89" xmltv_id="HLive">HLive</channel>
+    <channel update="i" site="tv.free.fr" site_id="90" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="tv.free.fr" site_id="92" xmltv_id="TNH">TNH</channel>
+    <channel update="i" site="tv.free.fr" site_id="93" xmltv_id="Azur TV">Azur TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="94" xmltv_id="Mandarin TV">Mandarin TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="95" xmltv_id="Samira TV">Samira TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="96" xmltv_id="El Hiwar Ettounsi">El Hiwar Ettounsi</channel>
+    <channel update="i" site="tv.free.fr" site_id="97" xmltv_id="Stingray Festival 4K">Stingray Festival 4K</channel>
+    <channel update="i" site="tv.free.fr" site_id="98" xmltv_id="BET">BET</channel>
+    <channel update="i" site="tv.free.fr" site_id="99" xmltv_id="TRACE Gospel">TRACE Gospel</channel>
+    <channel update="i" site="tv.free.fr" site_id="100" xmltv_id="TRACE Toca">TRACE Toca</channel>
+    <channel update="i" site="tv.free.fr" site_id="101" xmltv_id="Tamazight TV">Tamazight TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="102" xmltv_id="Canal Atlas">Canal Atlas</channel>
+    <channel update="i" site="tv.free.fr" site_id="103" xmltv_id="Stingray DJAZZ">Stingray DJAZZ</channel>
+    <channel update="i" site="tv.free.fr" site_id="104" xmltv_id="Daystar">Daystar</channel>
+    <channel update="i" site="tv.free.fr" site_id="105" xmltv_id="Al Magharibia">Al Magharibia</channel>
+    <channel update="i" site="tv.free.fr" site_id="106" xmltv_id="Antenne A">Antenne A</channel>
+    <channel update="i" site="tv.free.fr" site_id="107" xmltv_id="LCI">LCI</channel>
+    <channel update="i" site="tv.free.fr" site_id="108" xmltv_id="980">980</channel>
+    <channel update="i" site="tv.free.fr" site_id="109" xmltv_id="981">981</channel>
+    <channel update="i" site="tv.free.fr" site_id="110" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="111" xmltv_id="Kentron TV">Kentron TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="112" xmltv_id="Echorouk TV">Echorouk TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="114" xmltv_id="Aerostar">Aerostar</channel>
+    <channel update="i" site="tv.free.fr" site_id="115" xmltv_id="Warner TV Next">Warner TV Next</channel>
+    <channel update="i" site="tv.free.fr" site_id="116" xmltv_id="Numidia TV">Numidia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="117" xmltv_id="MATÉLÉ">MATÉLÉ</channel>
+    <channel update="i" site="tv.free.fr" site_id="119" xmltv_id="Paramount Network Décalé">Paramount Network Décalé</channel>
+    <channel update="i" site="tv.free.fr" site_id="120" xmltv_id="Panorama Cinema">Panorama Cinema</channel>
+    <channel update="i" site="tv.free.fr" site_id="121" xmltv_id="Panorama Drama">Panorama Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="124" xmltv_id="franceinfo">franceinfo</channel>
+    <channel update="i" site="tv.free.fr" site_id="125" xmltv_id="Angers TV">Angers TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="126" xmltv_id="Trace Naija">Trace Naija</channel>
+    <channel update="i" site="tv.free.fr" site_id="128" xmltv_id="Planète+">Planète+</channel>
+    <channel update="i" site="tv.free.fr" site_id="129" xmltv_id="TV Breizh">TV Breizh</channel>
+    <channel update="i" site="tv.free.fr" site_id="130" xmltv_id="Comédie+">Comédie+</channel>
+    <channel update="i" site="tv.free.fr" site_id="131" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    <channel update="i" site="tv.free.fr" site_id="132" xmltv_id="Tiji">Tiji</channel>
+    <channel update="i" site="tv.free.fr" site_id="133" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tv.free.fr" site_id="134" xmltv_id="Télétoon+1">Télétoon+1</channel>
+    <channel update="i" site="tv.free.fr" site_id="136" xmltv_id="OLPLAY">OLPLAY</channel>
+    <channel update="i" site="tv.free.fr" site_id="139" xmltv_id="Planète+ Crime">Planète+ Crime</channel>
+    <channel update="i" site="tv.free.fr" site_id="140" xmltv_id="Planète+ Aventure">Planète+ Aventure</channel>
+    <channel update="i" site="tv.free.fr" site_id="141" xmltv_id="Seasons">Seasons</channel>
+    <channel update="i" site="tv.free.fr" site_id="142" xmltv_id="La Chaîne Météo">La Chaîne Météo</channel>
+    <channel update="i" site="tv.free.fr" site_id="143" xmltv_id="Foot+">Foot+</channel>
+    <channel update="i" site="tv.free.fr" site_id="145" xmltv_id="Multisport+ 2">Multisport+ 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="150" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="151" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="153" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tv.free.fr" site_id="156" xmltv_id="Série Club">Série Club</channel>
+    <channel update="i" site="tv.free.fr" site_id="157" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="159" xmltv_id="Non Stop People">Non Stop People</channel>
+    <channel update="i" site="tv.free.fr" site_id="160" xmltv_id="J-One">J-One</channel>
+    <channel update="i" site="tv.free.fr" site_id="161" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tv.free.fr" site_id="162" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tv.free.fr" site_id="164" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="tv.free.fr" site_id="165" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="tv.free.fr" site_id="166" xmltv_id="Infosport+">Infosport+</channel>
+    <channel update="i" site="tv.free.fr" site_id="167" xmltv_id="Golf+">Golf+</channel>
+    <channel update="i" site="tv.free.fr" site_id="171" xmltv_id="Télé Bocal">Télé Bocal</channel>
+    <channel update="i" site="tv.free.fr" site_id="172" xmltv_id="Vice TV">Vice TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="174" xmltv_id="Nickelodeon +1">Nickelodeon +1</channel>
+    <channel update="i" site="tv.free.fr" site_id="175" xmltv_id="VTC 10">VTC 10</channel>
+    <channel update="i" site="tv.free.fr" site_id="176" xmltv_id="VTV1">VTV1</channel>
+    <channel update="i" site="tv.free.fr" site_id="177" xmltv_id="VTV3">VTV3</channel>
+    <channel update="i" site="tv.free.fr" site_id="178" xmltv_id="HTV9">HTV9</channel>
+    <channel update="i" site="tv.free.fr" site_id="179" xmltv_id="Al Rawda">Al Rawda</channel>
+    <channel update="i" site="tv.free.fr" site_id="181" xmltv_id="Majid">Majid</channel>
+    <channel update="i" site="tv.free.fr" site_id="182" xmltv_id="A+">A+</channel>
+    <channel update="i" site="tv.free.fr" site_id="184" xmltv_id="viàOccitanie Pays Catalan">viàOccitanie Pays Catalan</channel>
+    <channel update="i" site="tv.free.fr" site_id="242" xmltv_id="Star TVE HD">Star TVE HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="244" xmltv_id="Drive-in Movie Channel">Drive-in Movie Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="245" xmltv_id="Nina Novelas">Nina Novelas</channel>
+    <channel update="i" site="tv.free.fr" site_id="246" xmltv_id="Tahiti Nui">Tahiti Nui</channel>
+    <channel update="i" site="tv.free.fr" site_id="247" xmltv_id="Polar+">Polar+</channel>
+    <channel update="i" site="tv.free.fr" site_id="248" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="249" xmltv_id="Novelas TV">Novelas TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="251" xmltv_id="BFM Grand Littoral">BFM Grand Littoral</channel>
+    <channel update="i" site="tv.free.fr" site_id="252" xmltv_id="viàOccitanie Toulouse">viàOccitanie Toulouse</channel>
+    <channel update="i" site="tv.free.fr" site_id="253" xmltv_id="RT France">RT France</channel>
+    <channel update="i" site="tv.free.fr" site_id="254" xmltv_id="Generations TV">Generations TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="255" xmltv_id="Melody d’Afrique">Melody d’Afrique</channel>
+    <channel update="i" site="tv.free.fr" site_id="258" xmltv_id="MGG TV">MGG TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="259" xmltv_id="Europe 2 Pop TV">Europe 2 Pop TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="260" xmltv_id="Babes TV">Babes TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="261" xmltv_id="TF1 4K">TF1 4K</channel>
+    <channel update="i" site="tv.free.fr" site_id="262" xmltv_id="Ultra Nature 4K">Ultra Nature 4K</channel>
+    <channel update="i" site="tv.free.fr" site_id="263" xmltv_id="Crime District">Crime District</channel>
+    <channel update="i" site="tv.free.fr" site_id="264" xmltv_id="France 3 NoA">France 3 NoA</channel>
+    <channel update="i" site="tv.free.fr" site_id="265" xmltv_id="TF1 +1">TF1 +1</channel>
+    <channel update="i" site="tv.free.fr" site_id="266" xmltv_id="TMC +1">TMC +1</channel>
+    <channel update="i" site="tv.free.fr" site_id="267" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tv.free.fr" site_id="268" xmltv_id="Clique TV">Clique TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="269" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="270" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="271" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="tv.free.fr" site_id="272" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="tv.free.fr" site_id="273" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="tv.free.fr" site_id="274" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tv.free.fr" site_id="275" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="tv.free.fr" site_id="276" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="277" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tv.free.fr" site_id="279" xmltv_id="RTL9">RTL9</channel>
+    <channel update="i" site="tv.free.fr" site_id="280" xmltv_id="AB1">AB1</channel>
+    <channel update="i" site="tv.free.fr" site_id="281" xmltv_id="Equidia">Equidia</channel>
+    <channel update="i" site="tv.free.fr" site_id="282" xmltv_id="Paris Première">Paris Première</channel>
+    <channel update="i" site="tv.free.fr" site_id="289" xmltv_id="Game One">Game One</channel>
+    <channel update="i" site="tv.free.fr" site_id="290" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="291" xmltv_id="Automoto">Automoto</channel>
+    <channel update="i" site="tv.free.fr" site_id="292" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="tv.free.fr" site_id="293" xmltv_id="Beur TV">Beur TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="294" xmltv_id="La Chaîne Parlementaire">La Chaîne Parlementaire</channel>
+    <channel update="i" site="tv.free.fr" site_id="295" xmltv_id="Demain TV">Demain TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="296" xmltv_id="TRACE Urban">TRACE Urban</channel>
+    <channel update="i" site="tv.free.fr" site_id="300" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="tv.free.fr" site_id="301" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="tv.free.fr" site_id="302" xmltv_id="Mosaïque">Mosaïque</channel>
+    <channel update="i" site="tv.free.fr" site_id="303" xmltv_id="Histoire TV">Histoire TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="304" xmltv_id="Melody">Melody</channel>
+    <channel update="i" site="tv.free.fr" site_id="305" xmltv_id="France Ô">France Ô</channel>
+    <channel update="i" site="tv.free.fr" site_id="306" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="tv.free.fr" site_id="308" xmltv_id="Action">Action</channel>
+    <channel update="i" site="tv.free.fr" site_id="311" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="tv.free.fr" site_id="312" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="tv.free.fr" site_id="313" xmltv_id="Chasse &amp; Pêche">Chasse &amp; Pêche</channel>
+    <channel update="i" site="tv.free.fr" site_id="314" xmltv_id="Toute l’Histoire">Toute l’Histoire</channel>
+    <channel update="i" site="tv.free.fr" site_id="315" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="316" xmltv_id="Trek">Trek</channel>
+    <channel update="i" site="tv.free.fr" site_id="317" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="tv.free.fr" site_id="319" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="320" xmltv_id="Berbère TV">Berbère TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="321" xmltv_id="France 3 Paris Ile-de-France">France 3 Paris Ile-de-France</channel>
+    <channel update="i" site="tv.free.fr" site_id="328" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tv.free.fr" site_id="329" xmltv_id="Phoenix Chinese News and Entertainment">Phoenix Chinese News and Entertainment</channel>
+    <channel update="i" site="tv.free.fr" site_id="330" xmltv_id="BFM Lyon">BFM Lyon</channel>
+    <channel update="i" site="tv.free.fr" site_id="331" xmltv_id="TV7">TV7</channel>
+    <channel update="i" site="tv.free.fr" site_id="333" xmltv_id="Arte Allemand">Arte Allemand</channel>
+    <channel update="i" site="tv.free.fr" site_id="334" xmltv_id="2M Maroc">2M Maroc</channel>
+    <channel update="i" site="tv.free.fr" site_id="335" xmltv_id="Al Aoula International">Al Aoula International</channel>
+    <channel update="i" site="tv.free.fr" site_id="336" xmltv_id="TV2 Algérie">TV2 Algérie</channel>
+    <channel update="i" site="tv.free.fr" site_id="337" xmltv_id="Al Masriya">Al Masriya</channel>
+    <channel update="i" site="tv.free.fr" site_id="338" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="tv.free.fr" site_id="339" xmltv_id="Watania 1">Watania 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="340" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="tv.free.fr" site_id="341" xmltv_id="France 3 Bourgogne">France 3 Bourgogne</channel>
+    <channel update="i" site="tv.free.fr" site_id="342" xmltv_id="France 3 Alsace">France 3 Alsace</channel>
+    <channel update="i" site="tv.free.fr" site_id="344" xmltv_id="France 3 Alpes">France 3 Alpes</channel>
+    <channel update="i" site="tv.free.fr" site_id="345" xmltv_id="France 3 Aquitaine">France 3 Aquitaine</channel>
+    <channel update="i" site="tv.free.fr" site_id="346" xmltv_id="France 3 Auvergne">France 3 Auvergne</channel>
+    <channel update="i" site="tv.free.fr" site_id="347" xmltv_id="France 3 Bretagne">France 3 Bretagne</channel>
+    <channel update="i" site="tv.free.fr" site_id="348" xmltv_id="France 3 Centre">France 3 Centre</channel>
+    <channel update="i" site="tv.free.fr" site_id="349" xmltv_id="France 3 Champagne-Ardenne">France 3 Champagne-Ardenne</channel>
+    <channel update="i" site="tv.free.fr" site_id="350" xmltv_id="France 3 Corse Via Stella">France 3 Corse Via Stella</channel>
+    <channel update="i" site="tv.free.fr" site_id="351" xmltv_id="France 3 Côte-d’Azur">France 3 Côte-d’Azur</channel>
+    <channel update="i" site="tv.free.fr" site_id="352" xmltv_id="France 3 Franche-Comté">France 3 Franche-Comté</channel>
+    <channel update="i" site="tv.free.fr" site_id="353" xmltv_id="France 3 Languedoc-Roussillon">France 3 Languedoc-Roussillon</channel>
+    <channel update="i" site="tv.free.fr" site_id="354" xmltv_id="France 3 Limousin">France 3 Limousin</channel>
+    <channel update="i" site="tv.free.fr" site_id="355" xmltv_id="France 3 Lorraine">France 3 Lorraine</channel>
+    <channel update="i" site="tv.free.fr" site_id="356" xmltv_id="France 3 Midi Pyrénées">France 3 Midi Pyrénées</channel>
+    <channel update="i" site="tv.free.fr" site_id="357" xmltv_id="France 3 Nord Pas-de-Calais">France 3 Nord Pas-de-Calais</channel>
+    <channel update="i" site="tv.free.fr" site_id="358" xmltv_id="France 3 Haute-Normandie">France 3 Haute-Normandie</channel>
+    <channel update="i" site="tv.free.fr" site_id="359" xmltv_id="France 3 Basse-Normandie">France 3 Basse-Normandie</channel>
+    <channel update="i" site="tv.free.fr" site_id="360" xmltv_id="France 3 Pays de Loire">France 3 Pays de Loire</channel>
+    <channel update="i" site="tv.free.fr" site_id="361" xmltv_id="France 3 Picardie">France 3 Picardie</channel>
+    <channel update="i" site="tv.free.fr" site_id="362" xmltv_id="France 3 Poitou-Charentes">France 3 Poitou-Charentes</channel>
+    <channel update="i" site="tv.free.fr" site_id="363" xmltv_id="France 3 Provence-Alpes">France 3 Provence-Alpes</channel>
+    <channel update="i" site="tv.free.fr" site_id="364" xmltv_id="France 3 Rhône-Alpes">France 3 Rhône-Alpes</channel>
+    <channel update="i" site="tv.free.fr" site_id="365" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="tv.free.fr" site_id="366" xmltv_id="Canal 24 Horas">Canal 24 Horas</channel>
+    <channel update="i" site="tv.free.fr" site_id="368" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="tv.free.fr" site_id="371" xmltv_id="DW-TV">DW-TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="373" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="tv.free.fr" site_id="374" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel update="i" site="tv.free.fr" site_id="376" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="tv.free.fr" site_id="377" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="tv.free.fr" site_id="378" xmltv_id="8 Mont-Blanc">8 Mont-Blanc</channel>
+    <channel update="i" site="tv.free.fr" site_id="382" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="tv.free.fr" site_id="383" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.free.fr" site_id="386" xmltv_id="ART Aflam 1">ART Aflam 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="389" xmltv_id="Iqraa">Iqraa</channel>
+    <channel update="i" site="tv.free.fr" site_id="392" xmltv_id="MBC">MBC</channel>
+    <channel update="i" site="tv.free.fr" site_id="396" xmltv_id="Sky News International">Sky News International</channel>
+    <channel update="i" site="tv.free.fr" site_id="398" xmltv_id="Channel 1 Russia">Channel 1 Russia</channel>
+    <channel update="i" site="tv.free.fr" site_id="401" xmltv_id="Le Figaro TV Île-de-France">Le Figaro TV Île-de-France</channel>
+    <channel update="i" site="tv.free.fr" site_id="402" xmltv_id="Pink TV">Pink TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="403" xmltv_id="CANAL+">CANAL+</channel>
+    <channel update="i" site="tv.free.fr" site_id="404" xmltv_id="ÈRE TV">ÈRE TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="405" xmltv_id="TRT Int">TRT Int</channel>
+    <channel update="i" site="tv.free.fr" site_id="406" xmltv_id="Kanal 7 Avrupa">Kanal 7 Avrupa</channel>
+    <channel update="i" site="tv.free.fr" site_id="407" xmltv_id="ETB Basque">ETB Basque</channel>
+    <channel update="i" site="tv.free.fr" site_id="408" xmltv_id="C8">C8</channel>
+    <channel update="i" site="tv.free.fr" site_id="409" xmltv_id="W9">W9</channel>
+    <channel update="i" site="tv.free.fr" site_id="410" xmltv_id="TFX">TFX</channel>
+    <channel update="i" site="tv.free.fr" site_id="411" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel update="i" site="tv.free.fr" site_id="412" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="tv.free.fr" site_id="414" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="415" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="416" xmltv_id="1TV Armenia">1TV Armenia</channel>
+    <channel update="i" site="tv.free.fr" site_id="422" xmltv_id="RTPi">RTPi</channel>
+    <channel update="i" site="tv.free.fr" site_id="423" xmltv_id="Télénantes">Télénantes</channel>
+    <channel update="i" site="tv.free.fr" site_id="426" xmltv_id="Brazzers TV J-1">Brazzers TV J-1</channel>
+    <channel update="i" site="tv.free.fr" site_id="427" xmltv_id="Brazzers TV J-2">Brazzers TV J-2</channel>
+    <channel update="i" site="tv.free.fr" site_id="428" xmltv_id="Brazzers TV J-3">Brazzers TV J-3</channel>
+    <channel update="i" site="tv.free.fr" site_id="429" xmltv_id="BFM TV">BFM TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="433" xmltv_id="Téva">Téva</channel>
+    <channel update="i" site="tv.free.fr" site_id="436" xmltv_id="Ritmoson Latino">Ritmoson Latino</channel>
+    <channel update="i" site="tv.free.fr" site_id="437" xmltv_id="De pelicula">De pelicula</channel>
+    <channel update="i" site="tv.free.fr" site_id="438" xmltv_id="TL Novelas">TL Novelas</channel>
+    <channel update="i" site="tv.free.fr" site_id="439" xmltv_id="Las Estrellas">Las Estrellas</channel>
+    <channel update="i" site="tv.free.fr" site_id="440" xmltv_id="Telehit">Telehit</channel>
+    <channel update="i" site="tv.free.fr" site_id="441" xmltv_id="Jeem TV">Jeem TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="442" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="tv.free.fr" site_id="444" xmltv_id="Astro Center TV">Astro Center TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="445" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="446" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="tv.free.fr" site_id="448" xmltv_id="TéléGrenoble">TéléGrenoble</channel>
+    <channel update="i" site="tv.free.fr" site_id="451" xmltv_id="Mosaïque F3">Mosaïque F3</channel>
+    <channel update="i" site="tv.free.fr" site_id="454" xmltv_id="M6 Music">M6 Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="458" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="459" xmltv_id="Kanal 24">Kanal 24</channel>
+    <channel update="i" site="tv.free.fr" site_id="463" xmltv_id="RTV Pink Plus">RTV Pink Plus</channel>
+    <channel update="i" site="tv.free.fr" site_id="464" xmltv_id="RTV Pink Extra">RTV Pink Extra</channel>
+    <channel update="i" site="tv.free.fr" site_id="469" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="471" xmltv_id="TV5 Turkey">TV5 Turkey</channel>
+    <channel update="i" site="tv.free.fr" site_id="476" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="477" xmltv_id="Stingray IConcerts HD">Stingray IConcerts HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="481" xmltv_id="Luxe.TV">Luxe.TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="483" xmltv_id="Israel Plus">Israel Plus</channel>
+    <channel update="i" site="tv.free.fr" site_id="484" xmltv_id="Euro D">Euro D</channel>
+    <channel update="i" site="tv.free.fr" site_id="485" xmltv_id="Star TV">Star TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="486" xmltv_id="TRGT EU">TRGT EU</channel>
+    <channel update="i" site="tv.free.fr" site_id="488" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel update="i" site="tv.free.fr" site_id="490" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="tv.free.fr" site_id="491" xmltv_id="CCTV-3">CCTV-3</channel>
+    <channel update="i" site="tv.free.fr" site_id="492" xmltv_id="La Chaîne du Cinéma Chinois">La Chaîne du Cinéma Chinois</channel>
+    <channel update="i" site="tv.free.fr" site_id="493" xmltv_id="Beijing TV">Beijing TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="494" xmltv_id="Shanghai Dragon TV">Shanghai Dragon TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="495" xmltv_id="La Chaîne Internationale de Jiangsu">La Chaîne Internationale de Jiangsu</channel>
+    <channel update="i" site="tv.free.fr" site_id="496" xmltv_id="Hunan Satellite TV">Hunan Satellite TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="497" xmltv_id="Great Wall Elite">Great Wall Elite</channel>
+    <channel update="i" site="tv.free.fr" site_id="498" xmltv_id="Zhejiang Star TV">Zhejiang Star TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="499" xmltv_id="Greater Bay Area TV">Greater Bay Area TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="500" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tv.free.fr" site_id="501" xmltv_id="CGTN Français">CGTN Français</channel>
+    <channel update="i" site="tv.free.fr" site_id="502" xmltv_id="Phoenix Infonews">Phoenix Infonews</channel>
+    <channel update="i" site="tv.free.fr" site_id="505" xmltv_id="SIC Internacional">SIC Internacional</channel>
+    <channel update="i" site="tv.free.fr" site_id="510" xmltv_id="PowerTürk TV">PowerTürk TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="511" xmltv_id="TRT 1">TRT 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="514" xmltv_id="Val de Loire TV">Val de Loire TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="515" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="tv.free.fr" site_id="517" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="tv.free.fr" site_id="536" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="tv.free.fr" site_id="537" xmltv_id="M6">M6</channel>
+    <channel update="i" site="tv.free.fr" site_id="541" xmltv_id="Ginx">Ginx</channel>
+    <channel update="i" site="tv.free.fr" site_id="542" xmltv_id="NRJ Hits">NRJ Hits</channel>
+    <channel update="i" site="tv.free.fr" site_id="543" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="tv.free.fr" site_id="544" xmltv_id="MCM TOP">MCM TOP</channel>
+    <channel update="i" site="tv.free.fr" site_id="545" xmltv_id="RFM TV">RFM TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="549" xmltv_id="Ciné+ festival">Ciné+ festival</channel>
+    <channel update="i" site="tv.free.fr" site_id="550" xmltv_id="Ciné+ classic">Ciné+ classic</channel>
+    <channel update="i" site="tv.free.fr" site_id="552" xmltv_id="Télétoon">Télétoon</channel>
+    <channel update="i" site="tv.free.fr" site_id="553" xmltv_id="Piwi +">Piwi +</channel>
+    <channel update="i" site="tv.free.fr" site_id="556" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="557" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="tv.free.fr" site_id="558" xmltv_id="CStar">CStar</channel>
+    <channel update="i" site="tv.free.fr" site_id="559" xmltv_id="CNews">CNews</channel>
+    <channel update="i" site="tv.free.fr" site_id="561" xmltv_id="Man-X">Man-X</channel>
+    <channel update="i" site="tv.free.fr" site_id="562" xmltv_id="C Music">C Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="563" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
+    <channel update="i" site="tv.free.fr" site_id="564" xmltv_id="O’TV">O’TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="567" xmltv_id="LCP - Assemblée Nationale 24h/24">LCP - Assemblée Nationale 24h/24</channel>
+    <channel update="i" site="tv.free.fr" site_id="568" xmltv_id="20 Minutes TV">20 Minutes TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="569" xmltv_id="Public Sénat">Public Sénat</channel>
+    <channel update="i" site="tv.free.fr" site_id="573" xmltv_id="Ciné+ family">Ciné+ family</channel>
+    <channel update="i" site="tv.free.fr" site_id="577" xmltv_id="TV8 International">TV8 International</channel>
+    <channel update="i" site="tv.free.fr" site_id="579" xmltv_id="Geo TV">Geo TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="580" xmltv_id="Geo News">Geo News</channel>
+    <channel update="i" site="tv.free.fr" site_id="581" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="tv.free.fr" site_id="587" xmltv_id="Souvenirs from Earth">Souvenirs from Earth</channel>
+    <channel update="i" site="tv.free.fr" site_id="592" xmltv_id="Yemen TV">Yemen TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="594" xmltv_id="Kuwait TV">Kuwait TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="595" xmltv_id="Jordan Satellite Channel">Jordan Satellite Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="599" xmltv_id="TV Globo Internacional">TV Globo Internacional</channel>
+    <channel update="i" site="tv.free.fr" site_id="603" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="tv.free.fr" site_id="605" xmltv_id="Record Internacional">Record Internacional</channel>
+    <channel update="i" site="tv.free.fr" site_id="606" xmltv_id="Telesur">Telesur</channel>
+    <channel update="i" site="tv.free.fr" site_id="607" xmltv_id="MEDI1TV">MEDI1TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="610" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tv.free.fr" site_id="611" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="tv.free.fr" site_id="612" xmltv_id="France 24 Arab">France 24 Arab</channel>
+    <channel update="i" site="tv.free.fr" site_id="613" xmltv_id="CANAL+CINEMA(S)">CANAL+CINEMA(S)</channel>
+    <channel update="i" site="tv.free.fr" site_id="614" xmltv_id="CANAL+SPORT">CANAL+SPORT</channel>
+    <channel update="i" site="tv.free.fr" site_id="618" xmltv_id="Stingray IConcerts SD">Stingray IConcerts SD</channel>
+    <channel update="i" site="tv.free.fr" site_id="619" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="620" xmltv_id="Abu Dhabi TV">Abu Dhabi TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="621" xmltv_id="Baraem">Baraem</channel>
+    <channel update="i" site="tv.free.fr" site_id="622" xmltv_id="Armenia TV">Armenia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="623" xmltv_id="Shant TV">Shant TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="624" xmltv_id="BFM Alsace">BFM Alsace</channel>
+    <channel update="i" site="tv.free.fr" site_id="626" xmltv_id="Premiere Futebol Clube">Premiere Futebol Clube</channel>
+    <channel update="i" site="tv.free.fr" site_id="627" xmltv_id="Canal 31">Canal 31</channel>
+    <channel update="i" site="tv.free.fr" site_id="632" xmltv_id="KBS">KBS</channel>
+    <channel update="i" site="tv.free.fr" site_id="634" xmltv_id="MCS Extrême">MCS Extrême</channel>
+    <channel update="i" site="tv.free.fr" site_id="638" xmltv_id="Clubbing TV">Clubbing TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="640" xmltv_id="TRACE Caribbean">TRACE Caribbean</channel>
+    <channel update="i" site="tv.free.fr" site_id="641" xmltv_id="MyZen TV">MyZen TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="642" xmltv_id="Antenna 1">Antenna 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="643" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="644" xmltv_id="Vox Africa">Vox Africa</channel>
+    <channel update="i" site="tv.free.fr" site_id="645" xmltv_id="RTB">RTB</channel>
+    <channel update="i" site="tv.free.fr" site_id="652" xmltv_id="Canal 2 International">Canal 2 International</channel>
+    <channel update="i" site="tv.free.fr" site_id="653" xmltv_id="CRTV">CRTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="655" xmltv_id="Télé Congo">Télé Congo</channel>
+    <channel update="i" site="tv.free.fr" site_id="656" xmltv_id="ORTM">ORTM</channel>
+    <channel update="i" site="tv.free.fr" site_id="657" xmltv_id="2STV">2STV</channel>
+    <channel update="i" site="tv.free.fr" site_id="658" xmltv_id="RTS">RTS</channel>
+    <channel update="i" site="tv.free.fr" site_id="659" xmltv_id="Africable">Africable</channel>
+    <channel update="i" site="tv.free.fr" site_id="661" xmltv_id="Rossiya 24">Rossiya 24</channel>
+    <channel update="i" site="tv.free.fr" site_id="663" xmltv_id="TVN 24">TVN 24</channel>
+    <channel update="i" site="tv.free.fr" site_id="664" xmltv_id="iTVN">iTVN</channel>
+    <channel update="i" site="tv.free.fr" site_id="667" xmltv_id="TRT Cocuk">TRT Cocuk</channel>
+    <channel update="i" site="tv.free.fr" site_id="669" xmltv_id="Nollywood TV">Nollywood TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="676" xmltv_id="Al Majd Holy Quran">Al Majd Holy Quran</channel>
+    <channel update="i" site="tv.free.fr" site_id="677" xmltv_id="Al Majd Al Hadeeth Al Nabawy">Al Majd Al Hadeeth Al Nabawy</channel>
+    <channel update="i" site="tv.free.fr" site_id="678" xmltv_id="Al Majd Space Channel">Al Majd Space Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="679" xmltv_id="Bénin TV">Bénin TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="681" xmltv_id="NHK World-Japan">NHK World-Japan</channel>
+    <channel update="i" site="tv.free.fr" site_id="682" xmltv_id="GONG MAX">GONG MAX</channel>
+    <channel update="i" site="tv.free.fr" site_id="683" xmltv_id="JSTV 1">JSTV 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="684" xmltv_id="JSTV 2">JSTV 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="686" xmltv_id="Azhari TV">Azhari TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="689" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel update="i" site="tv.free.fr" site_id="690" xmltv_id="Utsav Bharat">Utsav Bharat</channel>
+    <channel update="i" site="tv.free.fr" site_id="692" xmltv_id="Utsav Plus">Utsav Plus</channel>
+    <channel update="i" site="tv.free.fr" site_id="693" xmltv_id="Utsav Gold">Utsav Gold</channel>
+    <channel update="i" site="tv.free.fr" site_id="694" xmltv_id="MyZen Nature">MyZen Nature</channel>
+    <channel update="i" site="tv.free.fr" site_id="695" xmltv_id="BFM Grand Lille">BFM Grand Lille</channel>
+    <channel update="i" site="tv.free.fr" site_id="698" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
+    <channel update="i" site="tv.free.fr" site_id="699" xmltv_id="Penthouse Reality TV">Penthouse Reality TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="701" xmltv_id="Wéo">Wéo</channel>
+    <channel update="i" site="tv.free.fr" site_id="702" xmltv_id="Equinoxe TV">Equinoxe TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="705" xmltv_id="MBOA TV">MBOA TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="706" xmltv_id="Euromed TV">Euromed TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="707" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel update="i" site="tv.free.fr" site_id="708" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel update="i" site="tv.free.fr" site_id="709" xmltv_id="Muzika Pervoyo">Muzika Pervoyo</channel>
+    <channel update="i" site="tv.free.fr" site_id="710" xmltv_id="Vremya">Vremya</channel>
+    <channel update="i" site="tv.free.fr" site_id="711" xmltv_id="Murr TV">Murr TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="712" xmltv_id="NBN">NBN</channel>
+    <channel update="i" site="tv.free.fr" site_id="713" xmltv_id="Future TV">Future TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="714" xmltv_id="Al Jadeed">Al Jadeed</channel>
+    <channel update="i" site="tv.free.fr" site_id="722" xmltv_id="TV78">TV78</channel>
+    <channel update="i" site="tv.free.fr" site_id="723" xmltv_id="Russia Today Español">Russia Today Español</channel>
+    <channel update="i" site="tv.free.fr" site_id="724" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="tv.free.fr" site_id="725" xmltv_id="Mezzo Live">Mezzo Live</channel>
+    <channel update="i" site="tv.free.fr" site_id="738" xmltv_id="Mazzika">Mazzika</channel>
+    <channel update="i" site="tv.free.fr" site_id="739" xmltv_id="Men’s Up TV">Men’s Up TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="741" xmltv_id="viàOccitanie Pays Gardois">viàOccitanie Pays Gardois</channel>
+    <channel update="i" site="tv.free.fr" site_id="745" xmltv_id="MBC Masr">MBC Masr</channel>
+    <channel update="i" site="tv.free.fr" site_id="749" xmltv_id="ORTC">ORTC</channel>
+    <channel update="i" site="tv.free.fr" site_id="750" xmltv_id="RTV Pink Film">RTV Pink Film</channel>
+    <channel update="i" site="tv.free.fr" site_id="751" xmltv_id="RTV Pink Music">RTV Pink Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="752" xmltv_id="Lucky Jack">Lucky Jack</channel>
+    <channel update="i" site="tv.free.fr" site_id="753" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="754" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="tv.free.fr" site_id="757" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="tv.free.fr" site_id="759" xmltv_id="Russian Al Yaum">Russian Al Yaum</channel>
+    <channel update="i" site="tv.free.fr" site_id="760" xmltv_id="Vosges TV">Vosges TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="762" xmltv_id="MBC 3">MBC 3</channel>
+    <channel update="i" site="tv.free.fr" site_id="764" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="765" xmltv_id="Museum TV">Museum TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="766" xmltv_id="Moselle TV">Moselle TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="767" xmltv_id="Arryadia">Arryadia</channel>
+    <channel update="i" site="tv.free.fr" site_id="768" xmltv_id="Record News">Record News</channel>
+    <channel update="i" site="tv.free.fr" site_id="771" xmltv_id="NTD Television">NTD Television</channel>
+    <channel update="i" site="tv.free.fr" site_id="772" xmltv_id="360">360</channel>
+    <channel update="i" site="tv.free.fr" site_id="773" xmltv_id="Ulusal Kanal">Ulusal Kanal</channel>
+    <channel update="i" site="tv.free.fr" site_id="774" xmltv_id="Gabon Télévision">Gabon Télévision</channel>
+    <channel update="i" site="tv.free.fr" site_id="775" xmltv_id="RTG">RTG</channel>
+    <channel update="i" site="tv.free.fr" site_id="777" xmltv_id="Karusel">Karusel</channel>
+    <channel update="i" site="tv.free.fr" site_id="778" xmltv_id="Rotana Cinema">Rotana Cinema</channel>
+    <channel update="i" site="tv.free.fr" site_id="780" xmltv_id="Al Resalah">Al Resalah</channel>
+    <channel update="i" site="tv.free.fr" site_id="781" xmltv_id="Rotana Clip">Rotana Clip</channel>
+    <channel update="i" site="tv.free.fr" site_id="782" xmltv_id="Rotana Music Channel">Rotana Music Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="783" xmltv_id="Rotana Classic">Rotana Classic</channel>
+    <channel update="i" site="tv.free.fr" site_id="785" xmltv_id="Canal 10 Guadeloupe">Canal 10 Guadeloupe</channel>
+    <channel update="i" site="tv.free.fr" site_id="786" xmltv_id="viàOccitanie Montpellier">viàOccitanie Montpellier</channel>
+    <channel update="i" site="tv.free.fr" site_id="791" xmltv_id="Berbère Jeunesse">Berbère Jeunesse</channel>
+    <channel update="i" site="tv.free.fr" site_id="792" xmltv_id="Berbère Music">Berbère Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="793" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="794" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel update="i" site="tv.free.fr" site_id="796" xmltv_id="RTI 1">RTI 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="798" xmltv_id="TV3 Algérie">TV3 Algérie</channel>
+    <channel update="i" site="tv.free.fr" site_id="799" xmltv_id="TV5 Algérie">TV5 Algérie</channel>
+    <channel update="i" site="tv.free.fr" site_id="800" xmltv_id="TV4 Algérie">TV4 Algérie</channel>
+    <channel update="i" site="tv.free.fr" site_id="801" xmltv_id="CGTN Documentaire">CGTN Documentaire</channel>
+    <channel update="i" site="tv.free.fr" site_id="802" xmltv_id="Euronews International">Euronews International</channel>
+    <channel update="i" site="tv.free.fr" site_id="803" xmltv_id="Maritima TV">Maritima TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="808" xmltv_id="Nessma">Nessma</channel>
+    <channel update="i" site="tv.free.fr" site_id="810" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="tv.free.fr" site_id="811" xmltv_id="TFM">TFM</channel>
+    <channel update="i" site="tv.free.fr" site_id="812" xmltv_id="Pro TV International">Pro TV International</channel>
+    <channel update="i" site="tv.free.fr" site_id="814" xmltv_id="TRACE Africa">TRACE Africa</channel>
+    <channel update="i" site="tv.free.fr" site_id="815" xmltv_id="TV Vendée">TV Vendée</channel>
+    <channel update="i" site="tv.free.fr" site_id="816" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
+    <channel update="i" site="tv.free.fr" site_id="817" xmltv_id="beIN SPORTS 1">beIN SPORTS 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="819" xmltv_id="Star Vijay">Star Vijay</channel>
+    <channel update="i" site="tv.free.fr" site_id="821" xmltv_id="beIN SPORTS 2">beIN SPORTS 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="822" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
+    <channel update="i" site="tv.free.fr" site_id="823" xmltv_id="beIN SPORTS MAX 4">beIN SPORTS MAX 4</channel>
+    <channel update="i" site="tv.free.fr" site_id="824" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel update="i" site="tv.free.fr" site_id="825" xmltv_id="beIN SPORTS MAX 6">beIN SPORTS MAX 6</channel>
+    <channel update="i" site="tv.free.fr" site_id="826" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel update="i" site="tv.free.fr" site_id="827" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
+    <channel update="i" site="tv.free.fr" site_id="828" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel update="i" site="tv.free.fr" site_id="829" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel update="i" site="tv.free.fr" site_id="830" xmltv_id="Game One +1">Game One +1</channel>
+    <channel update="i" site="tv.free.fr" site_id="832" xmltv_id="People 24">People 24</channel>
+    <channel update="i" site="tv.free.fr" site_id="835" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tv.free.fr" site_id="836" xmltv_id="RTL2">RTL2</channel>
+    <channel update="i" site="tv.free.fr" site_id="837" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="tv.free.fr" site_id="838" xmltv_id="RTL Nitro">RTL Nitro</channel>
+    <channel update="i" site="tv.free.fr" site_id="839" xmltv_id="Vox">Vox</channel>
+    <channel update="i" site="tv.free.fr" site_id="840" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="tv.free.fr" site_id="841" xmltv_id="Sat1">Sat1</channel>
+    <channel update="i" site="tv.free.fr" site_id="842" xmltv_id="NTV">NTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="843" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
+    <channel update="i" site="tv.free.fr" site_id="844" xmltv_id="L’Equipe">L’Equipe</channel>
+    <channel update="i" site="tv.free.fr" site_id="845" xmltv_id="6ter">6ter</channel>
+    <channel update="i" site="tv.free.fr" site_id="846" xmltv_id="RMC Story">RMC Story</channel>
+    <channel update="i" site="tv.free.fr" site_id="847" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel update="i" site="tv.free.fr" site_id="848" xmltv_id="RMC Life">RMC Life</channel>
+    <channel update="i" site="tv.free.fr" site_id="849" xmltv_id="Africa 24">Africa 24</channel>
+    <channel update="i" site="tv.free.fr" site_id="851" xmltv_id="PNC Food">PNC Food</channel>
+    <channel update="i" site="tv.free.fr" site_id="852" xmltv_id="BFM DICI Alpes du Sud">BFM DICI Alpes du Sud</channel>
+    <channel update="i" site="tv.free.fr" site_id="854" xmltv_id="Frissons Extremes">Frissons Extremes</channel>
+    <channel update="i" site="tv.free.fr" site_id="857" xmltv_id="Wéo Picardie">Wéo Picardie</channel>
+    <channel update="i" site="tv.free.fr" site_id="862" xmltv_id="Disneytek">Disneytek</channel>
+    <channel update="i" site="tv.free.fr" site_id="865" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="tv.free.fr" site_id="868" xmltv_id="Trace Latina">Trace Latina</channel>
+    <channel update="i" site="tv.free.fr" site_id="879" xmltv_id="BFM Paris Île-de-France">BFM Paris Île-de-France</channel>
+    <channel update="i" site="tv.free.fr" site_id="884" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="tv.free.fr" site_id="889" xmltv_id="Connaissances du monde">Connaissances du monde</channel>
+    <channel update="i" site="tv.free.fr" site_id="893" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="tv.free.fr" site_id="894" xmltv_id="Sport en France">Sport en France</channel>
+    <channel update="i" site="tv.free.fr" site_id="895" xmltv_id="Attessia TV">Attessia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="896" xmltv_id="Atres Cinema">Atres Cinema</channel>
+    <channel update="i" site="tv.free.fr" site_id="898" xmltv_id="El Djazairia">El Djazairia</channel>
+    <channel update="i" site="tv.free.fr" site_id="903" xmltv_id="Echorouk News">Echorouk News</channel>
+    <channel update="i" site="tv.free.fr" site_id="905" xmltv_id="Alaraby">Alaraby</channel>
+    <channel update="i" site="tv.free.fr" site_id="906" xmltv_id="Carthage +">Carthage +</channel>
+    <channel update="i" site="tv.free.fr" site_id="907" xmltv_id="ASTV">ASTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="913" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.free.fr" site_id="914" xmltv_id="Cherifla TV">Cherifla TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="919" xmltv_id="RT Doc">RT Doc</channel>
+    <channel update="i" site="tv.free.fr" site_id="922" xmltv_id="Olympia TV">Olympia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="923" xmltv_id="El Bilad">El Bilad</channel>
+    <channel update="i" site="tv.free.fr" site_id="926" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="tv.free.fr" site_id="927" xmltv_id="[adult swim] + Warner TV Next">[adult swim] + Warner TV Next</channel>
+    <channel update="i" site="tv.free.fr" site_id="929" xmltv_id="A la une Canal+">A la une Canal+</channel>
+    <channel update="i" site="tv.free.fr" site_id="930" xmltv_id="Nollywood TV Epic">Nollywood TV Epic</channel>
+    <channel update="i" site="tv.free.fr" site_id="932" xmltv_id="Gulli Bil Arabi">Gulli Bil Arabi</channel>
+    <channel update="i" site="tv.free.fr" site_id="934" xmltv_id="TV Pitchoun">TV Pitchoun</channel>
+    <channel update="i" site="tv.free.fr" site_id="938" xmltv_id="True Amateurs TV">True Amateurs TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="939" xmltv_id="Tech &amp; Co">Tech &amp; Co</channel>
+    <channel update="i" site="tv.free.fr" site_id="941" xmltv_id="Men TV">Men TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="942" xmltv_id="B Smart">B Smart</channel>
+    <channel update="i" site="tv.free.fr" site_id="943" xmltv_id="beIN Movies Turk">beIN Movies Turk</channel>
+    <channel update="i" site="tv.free.fr" site_id="944" xmltv_id="beIN Gurme">beIN Gurme</channel>
+    <channel update="i" site="tv.free.fr" site_id="945" xmltv_id="Haber Turk">Haber Turk</channel>
+    <channel update="i" site="tv.free.fr" site_id="946" xmltv_id="Cem TV">Cem TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="947" xmltv_id="Show Turk">Show Turk</channel>
+    <channel update="i" site="tv.free.fr" site_id="948" xmltv_id="A Spor">A Spor</channel>
+    <channel update="i" site="tv.free.fr" site_id="949" xmltv_id="MovieSmart Türk">MovieSmart Türk</channel>
+    <channel update="i" site="tv.free.fr" site_id="950" xmltv_id="Showmax">Showmax</channel>
+    <channel update="i" site="tv.free.fr" site_id="951" xmltv_id="Bloomberg HT">Bloomberg HT</channel>
+    <channel update="i" site="tv.free.fr" site_id="952" xmltv_id="Kanal D Drama">Kanal D Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="953" xmltv_id="TRT Belgesel">TRT Belgesel</channel>
+    <channel update="i" site="tv.free.fr" site_id="954" xmltv_id="BeIN Iz">BeIN Iz</channel>
+    <channel update="i" site="tv.free.fr" site_id="956" xmltv_id="Telefoot">Telefoot</channel>
+    <channel update="i" site="tv.free.fr" site_id="957" xmltv_id="Telefoot Stadium 1">Telefoot Stadium 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="959" xmltv_id="Telefoot Stadium 4">Telefoot Stadium 4</channel>
+    <channel update="i" site="tv.free.fr" site_id="961" xmltv_id="Telefoot 4K">Telefoot 4K</channel>
+    <channel update="i" site="tv.free.fr" site_id="962" xmltv_id="Telefoot Stadium 5">Telefoot Stadium 5</channel>
+    <channel update="i" site="tv.free.fr" site_id="964" xmltv_id="Telefoot Stadium 2">Telefoot Stadium 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="965" xmltv_id="Telefoot Stadium 8">Telefoot Stadium 8</channel>
+    <channel update="i" site="tv.free.fr" site_id="966" xmltv_id="Prime Video">Prime Video</channel>
+    <channel update="i" site="tv.free.fr" site_id="967" xmltv_id="Disney+">Disney+</channel>
+    <channel update="i" site="tv.free.fr" site_id="968" xmltv_id="Tele 1">Tele 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="969" xmltv_id="Culturebox">Culturebox</channel>
+    <channel update="i" site="tv.free.fr" site_id="970" xmltv_id="Al Anis">Al Anis</channel>
+    <channel update="i" site="tv.free.fr" site_id="971" xmltv_id="Al Majd Documentary">Al Majd Documentary</channel>
+    <channel update="i" site="tv.free.fr" site_id="972" xmltv_id="Top Santé TV">Top Santé TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="973" xmltv_id="Marmiton TV">Marmiton TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="974" xmltv_id="Maurienne TV">Maurienne TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="975" xmltv_id="BrutX">BrutX</channel>
+    <channel update="i" site="tv.free.fr" site_id="1016" xmltv_id="MBC 5">MBC 5</channel>
+    <channel update="i" site="tv.free.fr" site_id="1017" xmltv_id="Al Insen">Al Insen</channel>
+    <channel update="i" site="tv.free.fr" site_id="1018" xmltv_id="Bahia TV">Bahia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1019" xmltv_id="Al Nada">Al Nada</channel>
+    <channel update="i" site="tv.free.fr" site_id="1020" xmltv_id="Roya TV">Roya TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1021" xmltv_id="Asharq News">Asharq News</channel>
+    <channel update="i" site="tv.free.fr" site_id="1022" xmltv_id="Lana TV">Lana TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1023" xmltv_id="Al Nas">Al Nas</channel>
+    <channel update="i" site="tv.free.fr" site_id="1024" xmltv_id="ART Hekayat 1">ART Hekayat 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="1025" xmltv_id="Watania 2">Watania 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1026" xmltv_id="Sunu Yeuf">Sunu Yeuf</channel>
+    <channel update="i" site="tv.free.fr" site_id="1027" xmltv_id="CDirect">CDirect</channel>
+    <channel update="i" site="tv.free.fr" site_id="1028" xmltv_id="Al Mayadeen">Al Mayadeen</channel>
+    <channel update="i" site="tv.free.fr" site_id="1029" xmltv_id="MBC+ Drama">MBC+ Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="1031" xmltv_id="NCI">NCI</channel>
+    <channel update="i" site="tv.free.fr" site_id="1032" xmltv_id="Télé Liban">Télé Liban</channel>
+    <channel update="i" site="tv.free.fr" site_id="1033" xmltv_id="DMC Drama">DMC Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="1034" xmltv_id="Watania Djazairia">Watania Djazairia</channel>
+    <channel update="i" site="tv.free.fr" site_id="1035" xmltv_id="Al Rahma">Al Rahma</channel>
+    <channel update="i" site="tv.free.fr" site_id="1036" xmltv_id="Telesud">Telesud</channel>
+    <channel update="i" site="tv.free.fr" site_id="1037" xmltv_id="Dorcel TV Africa">Dorcel TV Africa</channel>
+    <channel update="i" site="tv.free.fr" site_id="1038" xmltv_id="One MTV Lebanon">One MTV Lebanon</channel>
+    <channel update="i" site="tv.free.fr" site_id="1039" xmltv_id="Telvza TV">Telvza TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1040" xmltv_id="M24 News">M24 News</channel>
+    <channel update="i" site="tv.free.fr" site_id="1041" xmltv_id="Auto Plus TV">Auto Plus TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1044" xmltv_id="Vixen TV">Vixen TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1045" xmltv_id="Shant Serial">Shant Serial</channel>
+    <channel update="i" site="tv.free.fr" site_id="1046" xmltv_id="Horse TV">Horse TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1047" xmltv_id="Shant Premium">Shant Premium</channel>
+    <channel update="i" site="tv.free.fr" site_id="1048" xmltv_id="Shant Kids">Shant Kids</channel>
+    <channel update="i" site="tv.free.fr" site_id="1049" xmltv_id="BFM Marseille Provence">BFM Marseille Provence</channel>
+    <channel update="i" site="tv.free.fr" site_id="1050" xmltv_id="BFM Nice Côte d’Azur">BFM Nice Côte d’Azur</channel>
+    <channel update="i" site="tv.free.fr" site_id="1051" xmltv_id="Wataa">Wataa</channel>
+    <channel update="i" site="tv.free.fr" site_id="1052" xmltv_id="BFM Toulon Var">BFM Toulon Var</channel>
+    <channel update="i" site="tv.free.fr" site_id="1053" xmltv_id="TéléPaese">TéléPaese</channel>
+    <channel update="i" site="tv.free.fr" site_id="1054" xmltv_id="Shant Music">Shant Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="1055" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1056" xmltv_id="Blackpills">Blackpills</channel>
+    <channel update="i" site="tv.free.fr" site_id="1057" xmltv_id="Mosfilm">Mosfilm</channel>
+    <channel update="i" site="tv.free.fr" site_id="1058" xmltv_id="ART Hekayat 2">ART Hekayat 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1059" xmltv_id="MBC Masr 2">MBC Masr 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1060" xmltv_id="Domashniy">Domashniy</channel>
+    <channel update="i" site="tv.free.fr" site_id="1061" xmltv_id="Tiji Russia">Tiji Russia</channel>
+    <channel update="i" site="tv.free.fr" site_id="1062" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel update="i" site="tv.free.fr" site_id="1063" xmltv_id="TV3 International">TV3 International</channel>
+    <channel update="i" site="tv.free.fr" site_id="1064" xmltv_id="Télé Maroc">Télé Maroc</channel>
+    <channel update="i" site="tv.free.fr" site_id="1065" xmltv_id="ON TV">ON TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1066" xmltv_id="Fix and Foxi">Fix and Foxi</channel>
+    <channel update="i" site="tv.free.fr" site_id="1067" xmltv_id="On Drama">On Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="1068" xmltv_id="La Chaîne 32">La Chaîne 32</channel>
+    <channel update="i" site="tv.free.fr" site_id="1069" xmltv_id="DMC">DMC</channel>
+    <channel update="i" site="tv.free.fr" site_id="1070" xmltv_id="Cheval TV">Cheval TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1071" xmltv_id="Bip TV">Bip TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1072" xmltv_id="All Flamenco">All Flamenco</channel>
+    <channel update="i" site="tv.free.fr" site_id="1073" xmltv_id="CTV">CTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1074" xmltv_id="Nour Al Koddas">Nour Al Koddas</channel>
+    <channel update="i" site="tv.free.fr" site_id="1075" xmltv_id="Sat 7 Arabic">Sat 7 Arabic</channel>
+    <channel update="i" site="tv.free.fr" site_id="1077" xmltv_id="Imearth">Imearth</channel>
+    <channel update="i" site="tv.free.fr" site_id="1078" xmltv_id="CANAL+DOCS">CANAL+DOCS</channel>
+    <channel update="i" site="tv.free.fr" site_id="1079" xmltv_id="CANAL+GRAND ECRAN">CANAL+GRAND ECRAN</channel>
+    <channel update="i" site="tv.free.fr" site_id="1080" xmltv_id="CANAL+kids">CANAL+kids</channel>
+    <channel update="i" site="tv.free.fr" site_id="1081" xmltv_id="Maison &amp; Travaux TV">Maison &amp; Travaux TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1082" xmltv_id="Sqool TV">Sqool TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1083" xmltv_id="B TV">B TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1084" xmltv_id="Helwa">Helwa</channel>
+    <channel update="i" site="tv.free.fr" site_id="1085" xmltv_id="Rotana Cinema+ FR">Rotana Cinema+ FR</channel>
+    <channel update="i" site="tv.free.fr" site_id="1086" xmltv_id="7ALimoges">7ALimoges</channel>
+    <channel update="i" site="tv.free.fr" site_id="1087" xmltv_id="Rotana HD+">Rotana HD+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1088" xmltv_id="Nickelodeon Ukraine">Nickelodeon Ukraine</channel>
+    <channel update="i" site="tv.free.fr" site_id="1089" xmltv_id="Attessia TV">Attessia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1090" xmltv_id="Rotana Kids">Rotana Kids</channel>
+    <channel update="i" site="tv.free.fr" site_id="1091" xmltv_id="Sharjah TV">Sharjah TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1092" xmltv_id="Rotana M+">Rotana M+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1093" xmltv_id="Rotana Aflam+">Rotana Aflam+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1094" xmltv_id="M6 4K">M6 4K</channel>
+    <channel update="i" site="tv.free.fr" site_id="1095" xmltv_id="Tele Pacific">Tele Pacific</channel>
+    <channel update="i" site="tv.free.fr" site_id="1096" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="tv.free.fr" site_id="1097" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1099" xmltv_id="Maboke TV">Maboke TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1100" xmltv_id="CANAL+FOOT">CANAL+FOOT</channel>
+    <channel update="i" site="tv.free.fr" site_id="1101" xmltv_id="CANAL+SPORT 360">CANAL+SPORT 360</channel>
+    <channel update="i" site="tv.free.fr" site_id="1102" xmltv_id="INULTRA">INULTRA</channel>
+    <channel update="i" site="tv.free.fr" site_id="1104" xmltv_id="NA TV">NA TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1105" xmltv_id="L’Esprit Sorcier TV">L’Esprit Sorcier TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1106" xmltv_id="Journal du Golf">Journal du Golf</channel>
+    <channel update="i" site="tv.free.fr" site_id="1107" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1108" xmltv_id="TeleMadrid">TeleMadrid</channel>
+    <channel update="i" site="tv.free.fr" site_id="1110" xmltv_id="Correio da Manhã">Correio da Manhã</channel>
+    <channel update="i" site="tv.free.fr" site_id="1111" xmltv_id="BFM Normandie">BFM Normandie</channel>
+    <channel update="i" site="tv.free.fr" site_id="1112" xmltv_id="TV Pitchoun+1">TV Pitchoun+1</channel>
+    <channel update="i" site="tv.free.fr" site_id="1113" xmltv_id="Pitchoun Kids Music">Pitchoun Kids Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="1114" xmltv_id="Dizi Arabe">Dizi Arabe</channel>
+    <channel update="i" site="tv.free.fr" site_id="1115" xmltv_id="MBC Iraq">MBC Iraq</channel>
+    <channel update="i" site="tv.free.fr" site_id="1116" xmltv_id="Syria TV">Syria TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1117" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+    <channel update="i" site="tv.free.fr" site_id="1118" xmltv_id="OCS Pulp">OCS Pulp</channel>
+    <channel update="i" site="tv.free.fr" site_id="1119" xmltv_id="Saudi Quran">Saudi Quran</channel>
+    <channel update="i" site="tv.free.fr" site_id="1120" xmltv_id="BBlack Africa">BBlack Africa</channel>
+    <channel update="i" site="tv.free.fr" site_id="1123" xmltv_id="BBlack Caribbean">BBlack Caribbean</channel>
+    <channel update="i" site="tv.free.fr" site_id="1124" xmltv_id="MyTV Caraïbes">MyTV Caraïbes</channel>
+    <channel update="i" site="tv.free.fr" site_id="1125" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1126" xmltv_id="Free Ciné">Free Ciné</channel>
+    <channel update="i" site="tv.free.fr" site_id="1127" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1128" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.free.fr" site_id="1129" xmltv_id="Kanaldude">Kanaldude</channel>
+    <channel update="i" site="tv.free.fr" site_id="1130" xmltv_id="LMTv Sarthe">LMTv Sarthe</channel>
+    <channel update="i" site="tv.free.fr" site_id="1131" xmltv_id="EroXXX">EroXXX</channel>
+    <channel update="i" site="tv.free.fr" site_id="1132" xmltv_id="360 TuneBox">360 TuneBox</channel>
+    <channel update="i" site="tv.free.fr" site_id="1133" xmltv_id="FightBox">FightBox</channel>
+    <channel update="i" site="tv.free.fr" site_id="1134" xmltv_id="DocuBox">DocuBox</channel>
+    <channel update="i" site="tv.free.fr" site_id="1135" xmltv_id="Discovery Investigation">Discovery Investigation</channel>
+    <channel update="i" site="tv.free.fr" site_id="1136" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.free.fr" site_id="1137" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+    <channel update="i" site="tv.free.fr" site_id="1138" xmltv_id="EroX">EroX</channel>
+    <channel update="i" site="tv.free.fr" site_id="1139" xmltv_id="Dizi">Dizi</channel>
+    <channel update="i" site="tv.free.fr" site_id="1140" xmltv_id="Puissance Télévision">Puissance Télévision</channel>
+    <channel update="i" site="tv.free.fr" site_id="1141" xmltv_id="Gametoon">Gametoon</channel>
+    <channel update="i" site="tv.free.fr" site_id="1142" xmltv_id="FastnFunBox">FastnFunBox</channel>
+    <channel update="i" site="tv.free.fr" site_id="1143" xmltv_id="Vibes TV">Vibes TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1144" xmltv_id="TRACE Ayiti">TRACE Ayiti</channel>
+    <channel update="i" site="tv.free.fr" site_id="1145" xmltv_id="TRACE Kitoko">TRACE Kitoko</channel>
+    <channel update="i" site="tv.free.fr" site_id="1146" xmltv_id="TRACE Vanilla">TRACE Vanilla</channel>
+    <channel update="i" site="tv.free.fr" site_id="1147" xmltv_id="TRACE Latina">TRACE Latina</channel>
+    <channel update="i" site="tv.free.fr" site_id="1148" xmltv_id="Madras FM TV">Madras FM TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1149" xmltv_id="TRACE Teranga">TRACE Teranga</channel>
+    <channel update="i" site="tv.free.fr" site_id="1150" xmltv_id="TGCOM24">TGCOM24</channel>
+    <channel update="i" site="tv.free.fr" site_id="1151" xmltv_id="LMTV">LMTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1152" xmltv_id="Cannes Lérins TV">Cannes Lérins TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1153" xmltv_id="Chada TV">Chada TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1154" xmltv_id="ETV Guadeloupe">ETV Guadeloupe</channel>
+    <channel update="i" site="tv.free.fr" site_id="1155" xmltv_id="Ivoire TV Music">Ivoire TV Music</channel>
+    <channel update="i" site="tv.free.fr" site_id="1157" xmltv_id="Trotters TV">Trotters TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1158" xmltv_id="TVMonaco">TVMonaco</channel>
+    <channel update="i" site="tv.free.fr" site_id="1159" xmltv_id="Mosaik Cristal">Mosaik Cristal</channel>
+    <channel update="i" site="tv.free.fr" site_id="1162" xmltv_id="Le Média TV">Le Média TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1163" xmltv_id="NHK World Premium">NHK World Premium</channel>
+    <channel update="i" site="tv.free.fr" site_id="1164" xmltv_id="CANAL+BOX OFFICE">CANAL+BOX OFFICE</channel>
+    <channel update="i" site="tv.free.fr" site_id="1165" xmltv_id="Alpe d’Huez TV">Alpe d’Huez TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1166" xmltv_id="W-Sport">W-Sport</channel>
+    <channel update="i" site="tv.free.fr" site_id="1167" xmltv_id="13ème Rue">13ème Rue</channel>
+    <channel update="i" site="tv.free.fr" site_id="1168" xmltv_id="A2">A2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1169" xmltv_id="DreamWorks">DreamWorks</channel>
+    <channel update="i" site="tv.free.fr" site_id="1170" xmltv_id="Fight Nation">Fight Nation</channel>
+    <channel update="i" site="tv.free.fr" site_id="1171" xmltv_id="Athlé TV">Athlé TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1173" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="tv.free.fr" site_id="1174" xmltv_id="E!">E!</channel>
+    <channel update="i" site="tv.free.fr" site_id="1200" xmltv_id="TV Tarn">TV Tarn</channel>
+    <channel update="i" site="tv.free.fr" site_id="1201" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="1202" xmltv_id="Private HD">Private HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="1203" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="1204" xmltv_id="CANAL+Ligue 1 Uber Eats">CANAL+Ligue 1 Uber Eats</channel>
+    <channel update="i" site="tv.free.fr" site_id="1205" xmltv_id="DAZN">DAZN</channel>
+    <channel update="i" site="tv.free.fr" site_id="1206" xmltv_id="Padel Time TV">Padel Time TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1207" xmltv_id="HBO Max">HBO Max</channel>
+    <channel update="i" site="tv.free.fr" site_id="1208" xmltv_id="Emotion’L+">Emotion’L+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1209" xmltv_id="Eurosport 7">Eurosport 7</channel>
+    <channel update="i" site="tv.free.fr" site_id="1210" xmltv_id="EVTV">EVTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1211" xmltv_id="Scream’IN+">Scream’IN+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1212" xmltv_id="France 2 UHD">France 2 UHD</channel>
+    <channel update="i" site="tv.free.fr" site_id="1213" xmltv_id="France 3 UHD">France 3 UHD</channel>
+    <channel update="i" site="tv.free.fr" site_id="1214" xmltv_id="Eurosport 8">Eurosport 8</channel>
+    <channel update="i" site="tv.free.fr" site_id="1215" xmltv_id="Eurosport 4">Eurosport 4</channel>
+    <channel update="i" site="tv.free.fr" site_id="1216" xmltv_id="Ciné Nanar+">Ciné Nanar+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1217" xmltv_id="Mandeka">Mandeka</channel>
+    <channel update="i" site="tv.free.fr" site_id="1218" xmltv_id="Fréquence Novelas+">Fréquence Novelas+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1219" xmltv_id="Kalac TV">Kalac TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1220" xmltv_id="Ciné Western+">Ciné Western+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1221" xmltv_id="Eurosport 6">Eurosport 6</channel>
+    <channel update="i" site="tv.free.fr" site_id="1222" xmltv_id="Eurosport 3">Eurosport 3</channel>
+    <channel update="i" site="tv.free.fr" site_id="1223" xmltv_id="Guinée Fé">Guinée Fé</channel>
+    <channel update="i" site="tv.free.fr" site_id="1224" xmltv_id="Pulaagu">Pulaagu</channel>
+    <channel update="i" site="tv.free.fr" site_id="1225" xmltv_id="Eurosport 9">Eurosport 9</channel>
+    <channel update="i" site="tv.free.fr" site_id="1226" xmltv_id="Eurosport 5">Eurosport 5</channel>
+    <channel update="i" site="tv.free.fr" site_id="1228" xmltv_id="France 2 UHD HDR">France 2 UHD HDR</channel>
+    <channel update="i" site="tv.free.fr" site_id="1229" xmltv_id="Espace TV">Espace TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1230" xmltv_id="Le Figaro TV">Le Figaro TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1231" xmltv_id="Free TV, la chaîne">Free TV, la chaîne</channel>
+    <channel update="i" site="tv.free.fr" site_id="1232" xmltv_id="BFM 2">BFM 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1238" xmltv_id="BFM 2">BFM 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1246" xmltv_id="France 24 Español">France 24 Español</channel>
+    <channel update="i" site="tv.free.fr" site_id="1248" xmltv_id="OHO - Reality Club">OHO - Reality Club</channel>
+    <channel update="i" site="tv.free.fr" site_id="1249" xmltv_id="A Haber">A Haber</channel>
+    <channel update="i" site="tv.free.fr" site_id="1250" xmltv_id="Freedom">Freedom</channel>
+    <channel update="i" site="tv.free.fr" site_id="1251" xmltv_id="Belarus Tomorrow">Belarus Tomorrow</channel>
+    <channel update="i" site="tv.free.fr" site_id="1252" xmltv_id="Kinomir">Kinomir</channel>
+    <channel update="i" site="tv.free.fr" site_id="1253" xmltv_id="Gordon Live">Gordon Live</channel>
+    <channel update="i" site="tv.free.fr" site_id="1254" xmltv_id="Svoboda News">Svoboda News</channel>
+    <channel update="i" site="tv.free.fr" site_id="1255" xmltv_id="EMCI TV">EMCI TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1256" xmltv_id="TeleBom/TeleDom">TeleBom/TeleDom</channel>
+    <channel update="i" site="tv.free.fr" site_id="1257" xmltv_id="Peretz">Peretz</channel>
+    <channel update="i" site="tv.free.fr" site_id="1258" xmltv_id="Lyon Capitale TV">Lyon Capitale TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1259" xmltv_id="Svoboda">Svoboda</channel>
+    <channel update="i" site="tv.free.fr" site_id="1260" xmltv_id="Ost/West24">Ost/West24</channel>
+    <channel update="i" site="tv.free.fr" site_id="1261" xmltv_id="TNT Russia">TNT Russia</channel>
+    <channel update="i" site="tv.free.fr" site_id="1262" xmltv_id="Detective TV">Detective TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1263" xmltv_id="Saudi TV">Saudi TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1264" xmltv_id="Sudan TV">Sudan TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1265" xmltv_id="TV Rain">TV Rain</channel>
+    <channel update="i" site="tv.free.fr" site_id="1266" xmltv_id="Shadowz">Shadowz</channel>
+    <channel update="i" site="tv.free.fr" site_id="1267" xmltv_id="Sunnah TV">Sunnah TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1268" xmltv_id="ILTV">ILTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1269" xmltv_id="Oman TV">Oman TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1270" xmltv_id="Al Watania TV">Al Watania TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1271" xmltv_id="Al Ekhbariya TV">Al Ekhbariya TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1272" xmltv_id="Fusion TV">Fusion TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1273" xmltv_id="DRTV">DRTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1274" xmltv_id="TPMP">TPMP</channel>
+    <channel update="i" site="tv.free.fr" site_id="1275" xmltv_id="Novegasy">Novegasy</channel>
+    <channel update="i" site="tv.free.fr" site_id="1276" xmltv_id="Family TV">Family TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1277" xmltv_id="HBO Max - L’actu">HBO Max - L’actu</channel>
+    <channel update="i" site="tv.free.fr" site_id="1278" xmltv_id="Continent E Int.">Continent E Int.</channel>
+    <channel update="i" site="tv.free.fr" site_id="1279" xmltv_id="eClutch Live">eClutch Live</channel>
+    <channel update="i" site="tv.free.fr" site_id="1280" xmltv_id="TV8 Moselle-Est">TV8 Moselle-Est</channel>
+    <channel update="i" site="tv.free.fr" site_id="1281" xmltv_id="RTVI">RTVI</channel>
+    <channel update="i" site="tv.free.fr" site_id="1282" xmltv_id="Zitata">Zitata</channel>
+    <channel update="i" site="tv.free.fr" site_id="1283" xmltv_id="Reflet TV">Reflet TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1284" xmltv_id="AfterFoot TV">AfterFoot TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1285" xmltv_id="Assadissa">Assadissa</channel>
+    <channel update="i" site="tv.free.fr" site_id="1286" xmltv_id="AL 24 News">AL 24 News</channel>
+    <channel update="i" site="tv.free.fr" site_id="1287" xmltv_id="Brionnais TV">Brionnais TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1288" xmltv_id="Athaqafia">Athaqafia</channel>
+    <channel update="i" site="tv.free.fr" site_id="1289" xmltv_id="FIBA 3X Festival">FIBA 3X Festival</channel>
+    <channel update="i" site="tv.free.fr" site_id="1290" xmltv_id="RMC Wow">RMC Wow</channel>
+    <channel update="i" site="tv.free.fr" site_id="1291" xmltv_id="RMC Mystère">RMC Mystère</channel>
+    <channel update="i" site="tv.free.fr" site_id="1292" xmltv_id="RMC Alerte Secours">RMC Alerte Secours</channel>
+    <channel update="i" site="tv.free.fr" site_id="1293" xmltv_id="RMC J’irai dormir chez vous">RMC J’irai dormir chez vous</channel>
+    <channel update="i" site="tv.free.fr" site_id="1294" xmltv_id="RMC Talk Info">RMC Talk Info</channel>
+    <channel update="i" site="tv.free.fr" site_id="1295" xmltv_id="RMC Mecanic">RMC Mecanic</channel>
+    <channel update="i" site="tv.free.fr" site_id="1296" xmltv_id="BFMTV Grands Reportages">BFMTV Grands Reportages</channel>
+    <channel update="i" site="tv.free.fr" site_id="1297" xmltv_id="After Foot TV">After Foot TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1298" xmltv_id="Application CANAL+">Application CANAL+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1299" xmltv_id="Netflix - L’actu">Netflix - L’actu</channel>
+    <channel update="i" site="tv.free.fr" site_id="1301" xmltv_id="Laâyoune TV">Laâyoune TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1302" xmltv_id="Museum 4K">Museum 4K</channel>
+    <channel update="i" site="tv.free.fr" site_id="1303" xmltv_id="L’Aktu Free">L’Aktu Free</channel>
+    <channel update="i" site="tv.free.fr" site_id="1304" xmltv_id="T18">T18</channel>
+    <channel update="i" site="tv.free.fr" site_id="1314" xmltv_id="Opsis TV">Opsis TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1315" xmltv_id="Daystar Español">Daystar Español</channel>
+    <channel update="i" site="tv.free.fr" site_id="1316" xmltv_id="Ligue 1+ 7">Ligue 1+ 7</channel>
+    <channel update="i" site="tv.free.fr" site_id="1317" xmltv_id="Ligue 1+ 3">Ligue 1+ 3</channel>
+    <channel update="i" site="tv.free.fr" site_id="1318" xmltv_id="Ligue 1+ 8">Ligue 1+ 8</channel>
+    <channel update="i" site="tv.free.fr" site_id="1319" xmltv_id="Dog &amp; Cat TV">Dog &amp; Cat TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1320" xmltv_id="KTV Guyane">KTV Guyane</channel>
+    <channel update="i" site="tv.free.fr" site_id="1321" xmltv_id="One TV">One TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1322" xmltv_id="Ligue 1+ 2">Ligue 1+ 2</channel>
+    <channel update="i" site="tv.free.fr" site_id="1323" xmltv_id="Ligue 1+ 10">Ligue 1+ 10</channel>
+    <channel update="i" site="tv.free.fr" site_id="1324" xmltv_id="Ligue 1+ 9">Ligue 1+ 9</channel>
+    <channel update="i" site="tv.free.fr" site_id="1325" xmltv_id="Ligue 1+ 5">Ligue 1+ 5</channel>
+    <channel update="i" site="tv.free.fr" site_id="1326" xmltv_id="Ligue 1+ 6">Ligue 1+ 6</channel>
+    <channel update="i" site="tv.free.fr" site_id="1327" xmltv_id="Ligue 1+">Ligue 1+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1328" xmltv_id="Ligue 1+ 4">Ligue 1+ 4</channel>
+    <channel update="i" site="tv.free.fr" site_id="1330" xmltv_id="INA Madelen">INA Madelen</channel>
+    <channel update="i" site="tv.free.fr" site_id="1331" xmltv_id="Sophia TV">Sophia TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1332" xmltv_id="DIM">DIM</channel>
+    <channel update="i" site="tv.free.fr" site_id="1333" xmltv_id="NOVO19">NOVO19</channel>
+    <channel update="i" site="tv.free.fr" site_id="1334" xmltv_id="Mieux TV">Mieux TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1335" xmltv_id="Lutte TV">Lutte TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1336" xmltv_id="TM1 TV">TM1 TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1337" xmltv_id="BIM TV">BIM TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1338" xmltv_id="Fight Nation">Fight Nation</channel>
+    <channel update="i" site="tv.free.fr" site_id="1339" xmltv_id="PSTV HD">PSTV HD</channel>
+    <channel update="i" site="tv.free.fr" site_id="1340" xmltv_id="Cap Terre">Cap Terre</channel>
+    <channel update="i" site="tv.free.fr" site_id="1341" xmltv_id="Voyages &amp; Saveurs">Voyages &amp; Saveurs</channel>
+    <channel update="i" site="tv.free.fr" site_id="1342" xmltv_id="Love Crime &amp; History">Love Crime &amp; History</channel>
+    <channel update="i" site="tv.free.fr" site_id="1343" xmltv_id="Homicide">Homicide</channel>
+    <channel update="i" site="tv.free.fr" site_id="1344" xmltv_id="Top Sci-Fi">Top Sci-Fi</channel>
+    <channel update="i" site="tv.free.fr" site_id="1345" xmltv_id="Enquêtes de Choc">Enquêtes de Choc</channel>
+    <channel update="i" site="tv.free.fr" site_id="1346" xmltv_id="Y’a que la vérité qui compte">Y’a que la vérité qui compte</channel>
+    <channel update="i" site="tv.free.fr" site_id="1347" xmltv_id="Allociné">Allociné</channel>
+    <channel update="i" site="tv.free.fr" site_id="1348" xmltv_id="Box Office Action">Box Office Action</channel>
+    <channel update="i" site="tv.free.fr" site_id="1349" xmltv_id="Box Office Drama">Box Office Drama</channel>
+    <channel update="i" site="tv.free.fr" site_id="1350" xmltv_id="Box Office Thriller">Box Office Thriller</channel>
+    <channel update="i" site="tv.free.fr" site_id="1351" xmltv_id="Epicurieux avec Jamy">Epicurieux avec Jamy</channel>
+    <channel update="i" site="tv.free.fr" site_id="1352" xmltv_id="Incroyables Fortunes">Incroyables Fortunes</channel>
+    <channel update="i" site="tv.free.fr" site_id="1353" xmltv_id="Mission Intervention">Mission Intervention</channel>
+    <channel update="i" site="tv.free.fr" site_id="1354" xmltv_id="Crime Enquêtes Faits Divers">Crime Enquêtes Faits Divers</channel>
+    <channel update="i" site="tv.free.fr" site_id="1355" xmltv_id="Zack Nani Foot">Zack Nani Foot</channel>
+    <channel update="i" site="tv.free.fr" site_id="1356" xmltv_id="Qui veut gagner des millions ?">Qui veut gagner des millions ?</channel>
+    <channel update="i" site="tv.free.fr" site_id="1357" xmltv_id="Le Meilleur d’Arthur">Le Meilleur d’Arthur</channel>
+    <channel update="i" site="tv.free.fr" site_id="1358" xmltv_id="Les Z’amours">Les Z’amours</channel>
+    <channel update="i" site="tv.free.fr" site_id="1359" xmltv_id="Les Anges">Les Anges</channel>
+    <channel update="i" site="tv.free.fr" site_id="1360" xmltv_id="Le meilleur de la tv réalité">Le meilleur de la tv réalité</channel>
+    <channel update="i" site="tv.free.fr" site_id="1361" xmltv_id="Les secrets de nos régions">Les secrets de nos régions</channel>
+    <channel update="i" site="tv.free.fr" site_id="1362" xmltv_id="Ça chauffe en cuisine">Ça chauffe en cuisine</channel>
+    <channel update="i" site="tv.free.fr" site_id="1363" xmltv_id="Familles en scène">Familles en scène</channel>
+    <channel update="i" site="tv.free.fr" site_id="1364" xmltv_id="Le meilleur des jeux tv">Le meilleur des jeux tv</channel>
+    <channel update="i" site="tv.free.fr" site_id="1365" xmltv_id="ShadowzTV">ShadowzTV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1366" xmltv_id="docs &amp; enquêtes by Society+">docs &amp; enquêtes by Society+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1367" xmltv_id="Pure Metal TV">Pure Metal TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1368" xmltv_id="Bang U">Bang U</channel>
+    <channel update="i" site="tv.free.fr" site_id="1369" xmltv_id="Silk Way">Silk Way</channel>
+    <channel update="i" site="tv.free.fr" site_id="1370" xmltv_id="NCA TV">NCA TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1371" xmltv_id="Desire TV">Desire TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1372" xmltv_id="Fashion TV Secrets">Fashion TV Secrets</channel>
+    <channel update="i" site="tv.free.fr" site_id="1373" xmltv_id="Films d’Action - Rakuten TV">Films d’Action - Rakuten TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1374" xmltv_id="Popcorn">Popcorn</channel>
+    <channel update="i" site="tv.free.fr" site_id="1375" xmltv_id="100% Comédie">100% Comédie</channel>
+    <channel update="i" site="tv.free.fr" site_id="1376" xmltv_id="Ciné Gay">Ciné Gay</channel>
+    <channel update="i" site="tv.free.fr" site_id="1377" xmltv_id="Europe 1">Europe 1</channel>
+    <channel update="i" site="tv.free.fr" site_id="1378" xmltv_id="Zouk TV">Zouk TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1379" xmltv_id="7 Info">7 Info</channel>
+    <channel update="i" site="tv.free.fr" site_id="1380" xmltv_id="Chrétiens TV">Chrétiens TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1381" xmltv_id="Newsmax">Newsmax</channel>
+    <channel update="i" site="tv.free.fr" site_id="1382" xmltv_id="CNews Prime">CNews Prime</channel>
+    <channel update="i" site="tv.free.fr" site_id="1383" xmltv_id="SIC Novelas">SIC Novelas</channel>
+    <channel update="i" site="tv.free.fr" site_id="1384" xmltv_id="Paramount+">Paramount+</channel>
+    <channel update="i" site="tv.free.fr" site_id="1385" xmltv_id="Top Films - Rakuten TV">Top Films - Rakuten TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1386" xmltv_id="Comédies - Rakuten TV">Comédies - Rakuten TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1387" xmltv_id="Films Romantiques - Rakuten TV">Films Romantiques - Rakuten TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1388" xmltv_id="Crime - Rakuten TV">Crime - Rakuten TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1389" xmltv_id="LingoToons">LingoToons</channel>
+    <channel update="i" site="tv.free.fr" site_id="1390" xmltv_id="Pickleball Now">Pickleball Now</channel>
+    <channel update="i" site="tv.free.fr" site_id="1391" xmltv_id="Zoom">Zoom</channel>
+    <channel update="i" site="tv.free.fr" site_id="1392" xmltv_id="TinyTeen">TinyTeen</channel>
+    <channel update="i" site="tv.free.fr" site_id="1393" xmltv_id="ET Now">ET Now</channel>
+    <channel update="i" site="tv.free.fr" site_id="1394" xmltv_id="Times Now Navbharat">Times Now Navbharat</channel>
+    <channel update="i" site="tv.free.fr" site_id="1395" xmltv_id="L’Aktu Cinéma">L’Aktu Cinéma</channel>
+    <channel update="i" site="tv.free.fr" site_id="1396" xmltv_id="Times Now">Times Now</channel>
+    <channel update="i" site="tv.free.fr" site_id="1397" xmltv_id="Langlab">Langlab</channel>
+    <channel update="i" site="tv.free.fr" site_id="1399" xmltv_id="Test MC">Test MC</channel>
+    <channel update="i" site="tv.free.fr" site_id="1404" xmltv_id="God TV">God TV</channel>
+    <channel update="i" site="tv.free.fr" site_id="1405" xmltv_id="Now News Global">Now News Global</channel>
+    <channel update="i" site="tv.free.fr" site_id="1406" xmltv_id="Now News Arabic">Now News Arabic</channel>
+    <channel update="i" site="tv.free.fr" site_id="1407" xmltv_id="Espreso">Espreso</channel>
+    <channel update="i" site="tv.free.fr" site_id="1415" xmltv_id="France 3 national">France 3 national</channel>
+  </channels>
+</site>
