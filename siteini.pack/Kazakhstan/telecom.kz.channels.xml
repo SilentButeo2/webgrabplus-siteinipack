@@ -1,82 +1,185 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="telecom.kz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="telecom.kz">
   <channels>
-    <channel update="i" site="telecom.kz" site_id="1" xmltv_id="КТК">КТК</channel>
-    <channel update="i" site="telecom.kz" site_id="2" xmltv_id="31 канал">31 канал</channel>
-    <channel update="i" site="telecom.kz" site_id="3" xmltv_id="НТК">НТК</channel>
-    <channel update="i" site="telecom.kz" site_id="6" xmltv_id="Седьмой канал">Седьмой канал</channel>
-    <channel update="i" site="telecom.kz" site_id="10" xmltv_id="Казахстан">Казахстан</channel>
-    <channel update="i" site="telecom.kz" site_id="11" xmltv_id="Хабар">Хабар</channel>
-    <channel update="i" site="telecom.kz" site_id="12" xmltv_id="Первый канал Евразия">Первый канал Евразия</channel>
-    <channel update="i" site="telecom.kz" site_id="13" xmltv_id="24.KZ">24.KZ</channel>
-    <channel update="i" site="telecom.kz" site_id="14" xmltv_id="Бiлiм жене Мадениет">Бiлiм жене Мадениет</channel>
-    <channel update="i" site="telecom.kz" site_id="15" xmltv_id="Kazakh TV">Kazakh TV</channel>
-    <channel update="i" site="telecom.kz" site_id="16" xmltv_id="ОҢ-ТВ">ОҢ-ТВ</channel>
-    <channel update="i" site="telecom.kz" site_id="17" xmltv_id="СТВ">СТВ</channel>
-    <channel update="i" site="telecom.kz" site_id="18" xmltv_id="7 Kazakhstan">7 Kazakhstan</channel>
-    <channel update="i" site="telecom.kz" site_id="23" xmltv_id="Астана">Астана</channel>
-    <channel update="i" site="telecom.kz" site_id="24" xmltv_id="Алматы">Алматы</channel>
-    <channel update="i" site="telecom.kz" site_id="25" xmltv_id="Асыл Арна">Асыл Арна</channel>
-    <channel update="i" site="telecom.kz" site_id="26" xmltv_id="Новое телевидение">Новое телевидение</channel>
-    <channel update="i" site="telecom.kz" site_id="70" xmltv_id="Нур ТВ">Нур ТВ</channel>
-    <channel update="i" site="telecom.kz" site_id="123" xmltv_id="TVK">TVK</channel>
-    <channel update="i" site="telecom.kz" site_id="124" xmltv_id="ТВ-Азия">ТВ-Азия</channel>
-    <channel update="i" site="telecom.kz" site_id="125" xmltv_id="Инфо канал">Инфо канал</channel>
-    <channel update="i" site="telecom.kz" site_id="147" xmltv_id="Место встречи">Место встречи</channel>
-    <channel update="i" site="telecom.kz" site_id="9" xmltv_id="KazSport">KazSport</channel>
-    <channel update="i" site="telecom.kz" site_id="66" xmltv_id="Сетанта Спорт Евразия">Сетанта Спорт Евразия</channel>
-    <channel update="i" site="telecom.kz" site_id="67" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="telecom.kz" site_id="68" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="telecom.kz" site_id="69" xmltv_id="Viasat Sport">Viasat Sport</channel>
-    <channel update="i" site="telecom.kz" site_id="101" xmltv_id="Extreme Sports">Extreme Sports</channel>
-    <channel update="i" site="telecom.kz" site_id="199" xmltv_id="БОКС ТВ">БОКС ТВ</channel>
-    <channel update="i" site="telecom.kz" site_id="41" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
-    <channel update="i" site="telecom.kz" site_id="42" xmltv_id="Иллюзион +">Иллюзион +</channel>
-    <channel update="i" site="telecom.kz" site_id="45" xmltv_id="TV1000 Русское кино">TV1000 Русское кино</channel>
-    <channel update="i" site="telecom.kz" site_id="47" xmltv_id="Sony Sci-Fi">Sony Sci-Fi</channel>
-    <channel update="i" site="telecom.kz" site_id="74" xmltv_id="Дом Кино">Дом Кино</channel>
-    <channel update="i" site="telecom.kz" site_id="75" xmltv_id="Amedia 1">Amedia 1</channel>
-    <channel update="i" site="telecom.kz" site_id="79" xmltv_id="Paramount Channel">Paramount Channel</channel>
-    <channel update="i" site="telecom.kz" site_id="195" xmltv_id="TV1000">TV1000</channel>
-    <channel update="i" site="telecom.kz" site_id="197" xmltv_id="TV1000 Action">TV1000 Action</channel>
-    <channel update="i" site="telecom.kz" site_id="19" xmltv_id="Балапан">Балапан</channel>
-    <channel update="i" site="telecom.kz" site_id="60" xmltv_id="Карусель">Карусель</channel>
-    <channel update="i" site="telecom.kz" site_id="61" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="telecom.kz" site_id="62" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="telecom.kz" site_id="73" xmltv_id="МУЛЬТ">МУЛЬТ</channel>
-    <channel update="i" site="telecom.kz" site_id="49" xmltv_id="Viasat Nature">Viasat Nature</channel>
-    <channel update="i" site="telecom.kz" site_id="50" xmltv_id="Viasat-History">Viasat-History</channel>
-    <channel update="i" site="telecom.kz" site_id="51" xmltv_id="24 Техно">24 Техно</channel>
-    <channel update="i" site="telecom.kz" site_id="52" xmltv_id="Viasat Explore">Viasat Explore</channel>
-    <channel update="i" site="telecom.kz" site_id="53" xmltv_id="Моя Планета">Моя Планета</channel>
-    <channel update="i" site="telecom.kz" site_id="54" xmltv_id="Travel+Adventure">Travel+Adventure</channel>
-    <channel update="i" site="telecom.kz" site_id="55" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="telecom.kz" site_id="56" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="telecom.kz" site_id="58" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
-    <channel update="i" site="telecom.kz" site_id="144" xmltv_id="ID Xtra">ID Xtra</channel>
-    <channel update="i" site="telecom.kz" site_id="165" xmltv_id="Время">Время</channel>
-    <channel update="i" site="telecom.kz" site_id="207" xmltv_id="World Business Channel">World Business Channel</channel>
-    <channel update="i" site="telecom.kz" site_id="20" xmltv_id="MuzZone">MuzZone</channel>
-    <channel update="i" site="telecom.kz" site_id="21" xmltv_id="Gakku TV">Gakku TV</channel>
-    <channel update="i" site="telecom.kz" site_id="22" xmltv_id="Hit-TV">Hit-TV</channel>
-    <channel update="i" site="telecom.kz" site_id="27" xmltv_id="MuzLife">MuzLife</channel>
-    <channel update="i" site="telecom.kz" site_id="64" xmltv_id="MTV Россия">MTV Россия</channel>
-    <channel update="i" site="telecom.kz" site_id="72" xmltv_id="Amedia 2">Amedia 2</channel>
-    <channel update="i" site="telecom.kz" site_id="28" xmltv_id="Мир">Мир</channel>
-    <channel update="i" site="telecom.kz" site_id="29" xmltv_id="Мир 24">Мир 24</channel>
-    <channel update="i" site="telecom.kz" site_id="36" xmltv_id="BBC-World">BBC-World</channel>
-    <channel update="i" site="telecom.kz" site_id="37" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="telecom.kz" site_id="38" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="telecom.kz" site_id="39" xmltv_id="Россия 24">Россия 24</channel>
-    <channel update="i" site="telecom.kz" site_id="30" xmltv_id="Первый канал">Первый канал</channel>
-    <channel update="i" site="telecom.kz" site_id="31" xmltv_id="Россия-РТР">Россия-РТР</channel>
-    <channel update="i" site="telecom.kz" site_id="32" xmltv_id="НТВ-МИР">НТВ-МИР</channel>
-    <channel update="i" site="telecom.kz" site_id="33" xmltv_id="РЕН">РЕН</channel>
-    <channel update="i" site="telecom.kz" site_id="40" xmltv_id="Россия К">Россия К</channel>
-    <channel update="i" site="telecom.kz" site_id="46" xmltv_id="SET">SET</channel>
-    <channel update="i" site="telecom.kz" site_id="57" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="telecom.kz" site_id="59" xmltv_id="ZEE TV">ZEE TV</channel>
-    <channel update="i" site="telecom.kz" site_id="63" xmltv_id="Paramount Comedy">Paramount Comedy</channel>
-    <channel update="i" site="telecom.kz" site_id="76" xmltv_id="СТС International">СТС International</channel>
+    <channel update="i" site="telecom.kz" site_id="000000204" xmltv_id="Музыка Первого">Музыка Первого</channel>
+    <channel update="i" site="telecom.kz" site_id="000004945" xmltv_id="Aqsham TV">Aqsham TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000000333" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="telecom.kz" site_id="000000014" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="telecom.kz" site_id="000007803" xmltv_id="Кинопремьера HD">Кинопремьера HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000198" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="telecom.kz" site_id="000000781" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="telecom.kz" site_id="000001404" xmltv_id="Тұран ТВ ">Тұран ТВ </channel>
+    <channel update="i" site="telecom.kz" site_id="000005193" xmltv_id="MyZen 4K">MyZen 4K</channel>
+    <channel update="i" site="telecom.kz" site_id="000000139" xmltv_id="KHL">KHL</channel>
+    <channel update="i" site="telecom.kz" site_id="000000058" xmltv_id="Иллюзион+ HD">Иллюзион+ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000205" xmltv_id="Время">Время</channel>
+    <channel update="i" site="telecom.kz" site_id="000001478" xmltv_id="Бобер">Бобер</channel>
+    <channel update="i" site="telecom.kz" site_id="000003240" xmltv_id="TRT AVAZ HD">TRT AVAZ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000272" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000002928" xmltv_id="О!">О!</channel>
+    <channel update="i" site="telecom.kz" site_id="000001052" xmltv_id="Отырар">Отырар</channel>
+    <channel update="i" site="telecom.kz" site_id="000005470" xmltv_id="Поехали!">Поехали!</channel>
+    <channel update="i" site="telecom.kz" site_id="000003251" xmltv_id="ONTUSTIK">ONTUSTIK</channel>
+    <channel update="i" site="telecom.kz" site_id="000001510" xmltv_id="Айғак">Айғак</channel>
+    <channel update="i" site="telecom.kz" site_id="000003689" xmltv_id="MMA-TV.COM HD">MMA-TV.COM HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000414" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000214" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001570" xmltv_id="ATYRAY">ATYRAY</channel>
+    <channel update="i" site="telecom.kz" site_id="000001450" xmltv_id="Дом кино">Дом кино</channel>
+    <channel update="i" site="telecom.kz" site_id="000000560" xmltv_id="Мир 24">Мир 24</channel>
+    <channel update="i" site="telecom.kz" site_id="000000079" xmltv_id="НТВ Мир">НТВ Мир</channel>
+    <channel update="i" site="telecom.kz" site_id="_" xmltv_id="Инфоканал">Инфоканал</channel>
+    <channel update="i" site="telecom.kz" site_id="000006235" xmltv_id="Caspian News">Caspian News</channel>
+    <channel update="i" site="telecom.kz" site_id="000001514" xmltv_id="РИКА-ТВ">РИКА-ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000000870" xmltv_id="viju+ Comedy HD">viju+ Comedy HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000004633" xmltv_id="Киносемья HD">Киносемья HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000003146" xmltv_id="SARYARQA">SARYARQA</channel>
+    <channel update="i" site="telecom.kz" site_id="000003244" xmltv_id="JAMBYL">JAMBYL</channel>
+    <channel update="i" site="telecom.kz" site_id="000003156" xmltv_id="Home 4K">Home 4K</channel>
+    <channel update="i" site="telecom.kz" site_id="000007627" xmltv_id="Мужское кино HD">Мужское кино HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000296" xmltv_id="viju+ Planet HD">viju+ Planet HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000003021" xmltv_id="KOKSE">KOKSE</channel>
+    <channel update="i" site="telecom.kz" site_id="000001521" xmltv_id="QOSTANAI">QOSTANAI</channel>
+    <channel update="i" site="telecom.kz" site_id="000001406" xmltv_id="Дом кино ПРЕМИУМ HD">Дом кино ПРЕМИУМ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007626" xmltv_id="Киносвидание HD">Киносвидание HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000003250" xmltv_id="SEMEI">SEMEI</channel>
+    <channel update="i" site="telecom.kz" site_id="000003604" xmltv_id="Ulytau">Ulytau</channel>
+    <channel update="i" site="telecom.kz" site_id="000000666" xmltv_id="ASTANA TV">ASTANA TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000000290" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000135" xmltv_id="viju+ Sport HD">viju+ Sport HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001689" xmltv_id="AQJAIYQ">AQJAIYQ</channel>
+    <channel update="i" site="telecom.kz" site_id="000003246" xmltv_id="QYZYLORDA">QYZYLORDA</channel>
+    <channel update="i" site="telecom.kz" site_id="000005449" xmltv_id="Кино Драма HD">Кино Драма HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000709" xmltv_id="Amedia Premium HD">Amedia Premium HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000078" xmltv_id="НСТВ">НСТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000000449" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="telecom.kz" site_id="000002936" xmltv_id="Той Думан">Той Думан</channel>
+    <channel update="i" site="telecom.kz" site_id="000000671" xmltv_id="Qazaqstan HD">Qazaqstan HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000208" xmltv_id="viju TV1000 аction  HD">viju TV1000 аction  HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000284" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel update="i" site="telecom.kz" site_id="000004534" xmltv_id="Победа">Победа</channel>
+    <channel update="i" site="telecom.kz" site_id="000006116" xmltv_id="Abai TV">Abai TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000003392" xmltv_id="Dorama HD">Dorama HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001822" xmltv_id="Инсайт ТВ 4К">Инсайт ТВ 4К</channel>
+    <channel update="i" site="telecom.kz" site_id="000001000" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000066" xmltv_id="Россия К">Россия К</channel>
+    <channel update="i" site="telecom.kz" site_id="000001213" xmltv_id="Hit TV">Hit TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000000659" xmltv_id="Седьмой канал">Седьмой канал</channel>
+    <channel update="i" site="telecom.kz" site_id="000000711" xmltv_id="KHL Prime">KHL Prime</channel>
+    <channel update="i" site="telecom.kz" site_id="000000418" xmltv_id="ТНВ-Планета">ТНВ-Планета</channel>
+    <channel update="i" site="telecom.kz" site_id="000002555" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="telecom.kz" site_id="000000661" xmltv_id="Хабар HD">Хабар HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000668" xmltv_id="Balapan">Balapan</channel>
+    <channel update="i" site="telecom.kz" site_id="000000021" xmltv_id="viju Explore HD">viju Explore HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001511" xmltv_id="Алау ТВ">Алау ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000004466" xmltv_id="Flix Snip HD">Flix Snip HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000812" xmltv_id="Россия РТР">Россия РТР</channel>
+    <channel update="i" site="telecom.kz" site_id="000000013" xmltv_id="FON MUSIC">FON MUSIC</channel>
+    <channel update="i" site="telecom.kz" site_id="000007630" xmltv_id="Наше Новое Кино HD">Наше Новое Кино HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001419" xmltv_id="Bollywood HD">Bollywood HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001495" xmltv_id="Amedia 1 HD">Amedia 1 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000815" xmltv_id="Авто 24 HD">Авто 24 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000869" xmltv_id="viju+ Megahit HD">viju+ Megahit HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000002247" xmltv_id="Мульт HD">Мульт HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000002649" xmltv_id="Setanta Qazaqstan HD">Setanta Qazaqstan HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000004499" xmltv_id="Setanta sports 2 HD">Setanta sports 2 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000004485" xmltv_id="Кинохит HD">Кинохит HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001458" xmltv_id="Жетысу HD">Жетысу HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000673" xmltv_id="НТК">НТК</channel>
+    <channel update="i" site="telecom.kz" site_id="000000291" xmltv_id="DW HD">DW HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000104" xmltv_id="Матч Планета">Матч Планета</channel>
+    <channel update="i" site="telecom.kz" site_id="000000868" xmltv_id="viju+ Premiere HD">viju+ Premiere HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000003247" xmltv_id="MANGYSTAY">MANGYSTAY</channel>
+    <channel update="i" site="telecom.kz" site_id="000000289" xmltv_id="Загородная жизнь HD">Загородная жизнь HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000950" xmltv_id="5 канал">5 канал</channel>
+    <channel update="i" site="telecom.kz" site_id="000000938" xmltv_id="24KZ HD">24KZ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000351" xmltv_id="Amedia 2">Amedia 2</channel>
+    <channel update="i" site="telecom.kz" site_id="000003248" xmltv_id="ERTIS">ERTIS</channel>
+    <channel update="i" site="telecom.kz" site_id="000005450" xmltv_id="Кино Сериал HD">Кино Сериал HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001662" xmltv_id="Amedia hit HD">Amedia hit HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000005885" xmltv_id="Museum 4K">Museum 4K</channel>
+    <channel update="i" site="telecom.kz" site_id="000002745" xmltv_id="Atameken Business HD">Atameken Business HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001380" xmltv_id="Новое Телевидение HD">Новое Телевидение HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007628" xmltv_id="Киномикс HD">Киномикс HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000206" xmltv_id="Телекафе">Телекафе</channel>
+    <channel update="i" site="telecom.kz" site_id="000002721" xmltv_id="Твое ТВ">Твое ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000000023" xmltv_id="viju TV1000 HD">viju TV1000 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000031" xmltv_id="Hollywood">Hollywood</channel>
+    <channel update="i" site="telecom.kz" site_id="000003249" xmltv_id="QYZYLJAR">QYZYLJAR</channel>
+    <channel update="i" site="telecom.kz" site_id="000001243" xmltv_id="Бокс ТВ">Бокс ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000000091" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="telecom.kz" site_id="000001227" xmltv_id="Первый канал. Всемирная Сеть">Первый канал. Всемирная Сеть</channel>
+    <channel update="i" site="telecom.kz" site_id="000000669" xmltv_id="Первый канал. Евразия">Первый канал. Евразия</channel>
+    <channel update="i" site="telecom.kz" site_id="000000008" xmltv_id="Техно 24">Техно 24</channel>
+    <channel update="i" site="telecom.kz" site_id="000000667" xmltv_id="Almaty">Almaty</channel>
+    <channel update="i" site="telecom.kz" site_id="000000239" xmltv_id="Синема">Синема</channel>
+    <channel update="i" site="telecom.kz" site_id="000000024" xmltv_id="viju TV1000 русское HD">viju TV1000 русское HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000022" xmltv_id="viju History HD">viju History HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000174" xmltv_id="Ti Ji">Ti Ji</channel>
+    <channel update="i" site="telecom.kz" site_id="000001049" xmltv_id="Моя Планета HD">Моя Планета HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007700" xmltv_id="Кинокомедия HD">Кинокомедия HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000006969" xmltv_id="Q Arena HD">Q Arena HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000286" xmltv_id="Мужской HD">Мужской HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000439" xmltv_id="Fashion&amp;LifeStyle HD">Fashion&amp;LifeStyle HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001571" xmltv_id="AQTOBE">AQTOBE</channel>
+    <channel update="i" site="telecom.kz" site_id="000001572" xmltv_id="ALTAI">ALTAI</channel>
+    <channel update="i" site="telecom.kz" site_id="000000210" xmltv_id="Шансон">Шансон</channel>
+    <channel update="i" site="telecom.kz" site_id="000007793" xmltv_id="Кухня HD">Кухня HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000360" xmltv_id="Беларусь 24 HD">Беларусь 24 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001513" xmltv_id="Ирбис ТВ">Ирбис ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000000672" xmltv_id="КТК HD">КТК HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000942" xmltv_id="Qazsport HD">Qazsport HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000665" xmltv_id="Setanta sports 1 HD">Setanta sports 1 HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007309" xmltv_id="QADAM TV">QADAM TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000005887" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007563" xmltv_id="Munara TV">Munara TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000006666" xmltv_id="Мосфильм. Золотая коллекция HD">Мосфильм. Золотая коллекция HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007676" xmltv_id="Ducktv HD">Ducktv HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007248" xmltv_id="Turkistan">Turkistan</channel>
+    <channel update="i" site="telecom.kz" site_id="000007701" xmltv_id="Киносерия HD">Киносерия HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007625" xmltv_id="Plan B HD">Plan B HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007816" xmltv_id="Большая пятница">Большая пятница</channel>
+    <channel update="i" site="telecom.kz" site_id="000007817" xmltv_id="Камеди Казахстан HD">Камеди Казахстан HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008062" xmltv_id="HAN-TV">HAN-TV</channel>
+    <channel update="i" site="telecom.kz" site_id="000008154" xmltv_id="Ассамблея ТВ">Ассамблея ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000007449" xmltv_id="QUADRO">QUADRO</channel>
+    <channel update="i" site="telecom.kz" site_id="000004606" xmltv_id="Travelxp4K">Travelxp4K</channel>
+    <channel update="i" site="telecom.kz" site_id="000007815" xmltv_id="Start Air HD">Start Air HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007818" xmltv_id="Start World HD">Start World HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000002706" xmltv_id="Fashion&amp;Style 4K">Fashion&amp;Style 4K</channel>
+    <channel update="i" site="telecom.kz" site_id="000000941" xmltv_id="Jibek Joly HD">Jibek Joly HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007615" xmltv_id="Q League HD">Q League HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000001659" xmltv_id="Живи! HD">Живи! HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000499" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008731" xmltv_id="Sport Plus Qazaqstan HD">Sport Plus Qazaqstan HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008762" xmltv_id="NickToons HD">NickToons HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000203" xmltv_id="Мультиландия HD">Мультиландия HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008551" xmltv_id="Лапки Live">Лапки Live</channel>
+    <channel update="i" site="telecom.kz" site_id="000004375" xmltv_id="viju+ Serial HD">viju+ Serial HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000102" xmltv_id="Русский Иллюзион HD">Русский Иллюзион HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008763" xmltv_id="Рыбалка и охота HD">Рыбалка и охота HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008848" xmltv_id="QFootball HD">QFootball HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000004585" xmltv_id="Ключ HD">Ключ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008934" xmltv_id="Көктем">Көктем</channel>
+    <channel update="i" site="telecom.kz" site_id="000008944" xmltv_id="SHOW KZ HD">SHOW KZ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008490" xmltv_id="КиноБоевик HD">КиноБоевик HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008491" xmltv_id="Премиум Кино HD">Премиум Кино HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008488" xmltv_id="Мировое Кино HD">Мировое Кино HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008489" xmltv_id="Семейное Кино HD">Семейное Кино HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008428" xmltv_id="CuriosityStream HD">CuriosityStream HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000026" xmltv_id="Extreme HD">Extreme HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000008814" xmltv_id="Epic HD">Epic HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000009271" xmltv_id="Домашний Очаг">Домашний Очаг</channel>
+    <channel update="i" site="telecom.kz" site_id="000003784" xmltv_id="Семейный Теле Сигнал">Семейный Теле Сигнал</channel>
+    <channel update="i" site="telecom.kz" site_id="000009270" xmltv_id="Развлекательное ТВ">Развлекательное ТВ</channel>
+    <channel update="i" site="telecom.kz" site_id="000009347" xmltv_id="Cartoon Classics Казахстан HD">Cartoon Classics Казахстан HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000663" xmltv_id="31 канал HD">31 канал HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000000025" xmltv_id="Euronews HD">Euronews HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000009415" xmltv_id="QONAEV MEDIA">QONAEV MEDIA</channel>
+    <channel update="i" site="telecom.kz" site_id="000007613" xmltv_id="Classic Music HD">Classic Music HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007784" xmltv_id="РОДНОЕ КИНО">РОДНОЕ КИНО</channel>
+    <channel update="i" site="telecom.kz" site_id="000007633" xmltv_id="ИНДИЙСКОЕ КИНО">ИНДИЙСКОЕ КИНО</channel>
+    <channel update="i" site="telecom.kz" site_id="000007781" xmltv_id="Точка РФ HD">Точка РФ HD</channel>
+    <channel update="i" site="telecom.kz" site_id="000007794" xmltv_id="КИНОУЖАС HD">КИНОУЖАС HD</channel>
   </channels>
 </site>
