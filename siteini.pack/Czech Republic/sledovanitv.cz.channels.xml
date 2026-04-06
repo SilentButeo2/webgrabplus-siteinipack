@@ -71,7 +71,9 @@
     <channel update="i" site="sledovanitv.cz" site_id="war" xmltv_id="CS History">CS History</channel>
     <channel update="i" site="sledovanitv.cz" site_id="amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="sledovanitv.cz" site_id="film_plus" xmltv_id="Film+">Film+</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="primacomedy" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="fast_epg_family" xmltv_id="SledovaniTV Family">SledovaniTV Family</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="fast_epg_comedy" xmltv_id="SledovaniTV Comedy">SledovaniTV Comedy</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="fast_epg_czsk" xmltv_id="SledovaniTV CZ/SK">SledovaniTV CZ/SK</channel>
     <channel update="i" site="sledovanitv.cz" site_id="travelxp" xmltv_id="Travelxp">Travelxp</channel>
     <channel update="i" site="sledovanitv.cz" site_id="love_nature" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
     <channel update="i" site="sledovanitv.cz" site_id="nat_geo_wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
@@ -114,8 +116,6 @@
     <channel update="i" site="sledovanitv.cz" site_id="mezzo_live" xmltv_id="Mezzo Live">Mezzo Live</channel>
     <channel update="i" site="sledovanitv.cz" site_id="i_concerts" xmltv_id="iConcerts">iConcerts</channel>
     <channel update="i" site="sledovanitv.cz" site_id="mtv" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="VH1" xmltv_id="MTV 00s">MTV 00s</channel>
     <channel update="i" site="sledovanitv.cz" site_id="slagr_premium" xmltv_id="Premium">Premium</channel>
     <channel update="i" site="sledovanitv.cz" site_id="slagr" xmltv_id="Šláger Originál">Šláger Originál</channel>
     <channel update="i" site="sledovanitv.cz" site_id="slagr2" xmltv_id="Šláger Muzika">Šláger Muzika</channel>
@@ -231,6 +231,8 @@
     <channel update="i" site="sledovanitv.cz" site_id="GTTV" xmltv_id="GTTV motošport">GTTV motošport</channel>
     <channel update="i" site="sledovanitv.cz" site_id="KVIFF_TV" xmltv_id="KVIFF.TV">KVIFF.TV</channel>
     <channel update="i" site="sledovanitv.cz" site_id="roma_tv" xmltv_id="Roma TV">Roma TV</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="joj_svet_cz" xmltv_id="JOJ Svět">JOJ Svět</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="ballcasterz" xmltv_id="Ballcasterz">Ballcasterz</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_cro_pohoda" xmltv_id="ČRo Pohoda">ČRo Pohoda</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_jih" xmltv_id="Rádio Jih">Rádio Jih</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_jihlava" xmltv_id="Rádio Jihlava">Rádio Jihlava</channel>
@@ -260,7 +262,7 @@
     <channel update="i" site="sledovanitv.cz" site_id="radio_ddur" xmltv_id="ČRo D-Dur">ČRo D-Dur</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_jazz" xmltv_id="ČRo Jazz">ČRo Jazz</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_dechovka" xmltv_id="Radio Dechovka">Radio Dechovka</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="radio_praha" xmltv_id="ČRo Radio Praha">ČRo Radio Praha</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="radio_praha" xmltv_id="ČRo Rádio Praha">ČRo Rádio Praha</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_junior" xmltv_id="ČRo Junior">ČRo Junior</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_slovensko" xmltv_id="Rádio Slovensko">Rádio Slovensko</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_regina_sk" xmltv_id="Rádio Regina Západ">Rádio Regina Západ</channel>
@@ -288,10 +290,10 @@
     <channel update="i" site="sledovanitv.cz" site_id="radio_ostrava" xmltv_id="ČRo Ostrava">ČRo Ostrava</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_pardubice" xmltv_id="ČRo Pardubice">ČRo Pardubice</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_plzen" xmltv_id="ČRo Plzeň">ČRo Plzeň</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="radio_region" xmltv_id="ČRo Region - Středočeský kraj">ČRo Region - Středočeský kraj</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="radio_vysocina" xmltv_id="ČRo Region - Vysočina">ČRo Region - Vysočina</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="radio_region" xmltv_id="ČRo Střední Čechy">ČRo Střední Čechy</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="radio_vysocina" xmltv_id="ČRo Vysočina">ČRo Vysočina</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_sever" xmltv_id="ČRo Sever">ČRo Sever</channel>
-    <channel update="i" site="sledovanitv.cz" site_id="radio_liberec" xmltv_id="ČRo Sever - Liberec">ČRo Sever - Liberec</channel>
+    <channel update="i" site="sledovanitv.cz" site_id="radio_liberec" xmltv_id="ČRo Liberec">ČRo Liberec</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_regina" xmltv_id="Rádio Praha">Rádio Praha</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radior" xmltv_id="RadioR">RadioR</channel>
     <channel update="i" site="sledovanitv.cz" site_id="radio_regina_bb" xmltv_id="Rádio Regina Stred">Rádio Regina Stred</channel>
