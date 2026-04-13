@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.3.0 -- Jan van Straaten" site="cogeco.ca">
+  <channels>
+    <channel update="i" site="cogeco.ca" site_id="8101/139396/1" xmltv_id="Video On Demand">Video On Demand</channel>
+    <channel update="i" site="cogeco.ca" site_id="671/139396/100" xmltv_id="Your TV Burlington">Your TV Burlington</channel>
+    <channel update="i" site="cogeco.ca" site_id="34/139396/103" xmltv_id="CBC (CBLT) Toronto, ON">CBC (CBLT) Toronto, ON</channel>
+    <channel update="i" site="cogeco.ca" site_id="2825/139396/105" xmltv_id="CITY Toronto, ON HD">CITY Toronto, ON HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="69/139396/106" xmltv_id="CTV (CKCO) Kitchener, ON">CTV (CKCO) Kitchener, ON</channel>
+    <channel update="i" site="cogeco.ca" site_id="2814/139396/110" xmltv_id="CTV (CFTO) Toronto, ON HD">CTV (CFTO) Toronto, ON HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="14229/139396/111" xmltv_id="CTV2 Barrie, ON (CKVR)">CTV2 Barrie, ON (CKVR)</channel>
+    <channel update="i" site="cogeco.ca" site_id="13808/139396/115" xmltv_id="Global (CIII-DT-41) Toronto HD">Global (CIII-DT-41) Toronto HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="43/139396/118" xmltv_id="CHCH Hamilton, ON">CHCH Hamilton, ON</channel>
+    <channel update="i" site="cogeco.ca" site_id="89/139396/119" xmltv_id="ABC (WKBW) Buffalo, NY">ABC (WKBW) Buffalo, NY</channel>
+    <channel update="i" site="cogeco.ca" site_id="7/139396/120" xmltv_id="ABC (WXYZ) Detroit, MI - Canada">ABC (WXYZ) Detroit, MI - Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="88/139396/123" xmltv_id="CBS (WIVB) Buffalo, NY">CBS (WIVB) Buffalo, NY</channel>
+    <channel update="i" site="cogeco.ca" site_id="128/139396/124" xmltv_id="CBS (WWJ) Detroit, MI">CBS (WWJ) Detroit, MI</channel>
+    <channel update="i" site="cogeco.ca" site_id="45/139396/127" xmltv_id="FOX (WUTV) Buffalo, NY">FOX (WUTV) Buffalo, NY</channel>
+    <channel update="i" site="cogeco.ca" site_id="54/139396/128" xmltv_id="FOX (WJBK) Detroit, MI">FOX (WJBK) Detroit, MI</channel>
+    <channel update="i" site="cogeco.ca" site_id="91/139396/130" xmltv_id="NBC (WGRZ) Buffalo, NY">NBC (WGRZ) Buffalo, NY</channel>
+    <channel update="i" site="cogeco.ca" site_id="21/139396/131" xmltv_id="NBC (WDIV) Detroit, MI">NBC (WDIV) Detroit, MI</channel>
+    <channel update="i" site="cogeco.ca" site_id="92/139396/133" xmltv_id="PBS (WNED) Buffalo, NY">PBS (WNED) Buffalo, NY</channel>
+    <channel update="i" site="cogeco.ca" site_id="4282/139396/135" xmltv_id="PBS (WTVS) Detroit, MI HD">PBS (WTVS) Detroit, MI HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="324/139396/137" xmltv_id="MNT (WNYO) Buffalo, NY">MNT (WNYO) Buffalo, NY</channel>
+    <channel update="i" site="cogeco.ca" site_id="200/139396/142" xmltv_id="CBC (CBNT) St-John's, NL">CBC (CBNT) St-John's, NL</channel>
+    <channel update="i" site="cogeco.ca" site_id="180/139396/143" xmltv_id="CBC (CBUT) Vancouver, BC">CBC (CBUT) Vancouver, BC</channel>
+    <channel update="i" site="cogeco.ca" site_id="187/139396/144" xmltv_id="CITY Vancouver, BC">CITY Vancouver, BC</channel>
+    <channel update="i" site="cogeco.ca" site_id="3316/139396/145" xmltv_id="CTV (CJCH) Halifax">CTV (CJCH) Halifax</channel>
+    <channel update="i" site="cogeco.ca" site_id="143/139396/146" xmltv_id="CTV (CKY) Winnipeg, MB">CTV (CKY) Winnipeg, MB</channel>
+    <channel update="i" site="cogeco.ca" site_id="185/139396/147" xmltv_id="CTV Vancouver, BC">CTV Vancouver, BC</channel>
+    <channel update="i" site="cogeco.ca" site_id="116/139396/148" xmltv_id="CTV2 Atlantic Region">CTV2 Atlantic Region</channel>
+    <channel update="i" site="cogeco.ca" site_id="33/139396/149" xmltv_id="Global (CITV) Edmonton, AB">Global (CITV) Edmonton, AB</channel>
+    <channel update="i" site="cogeco.ca" site_id="115/139396/150" xmltv_id="Global (CIHF) Dartmouth">Global (CIHF) Dartmouth</channel>
+    <channel update="i" site="cogeco.ca" site_id="31/139396/151" xmltv_id="Global BC">Global BC</channel>
+    <channel update="i" site="cogeco.ca" site_id="181/139396/152" xmltv_id="ABC (KOMO) Seattle, WA">ABC (KOMO) Seattle, WA</channel>
+    <channel update="i" site="cogeco.ca" site_id="184/139396/153" xmltv_id="CBS (KIRO) Seattle, WA">CBS (KIRO) Seattle, WA</channel>
+    <channel update="i" site="cogeco.ca" site_id="32824/139396/154" xmltv_id="FOX (KCPQ) Tacoma, WA">FOX (KCPQ) Tacoma, WA</channel>
+    <channel update="i" site="cogeco.ca" site_id="182/139396/155" xmltv_id="NBC (KING) Seattle, WA">NBC (KING) Seattle, WA</channel>
+    <channel update="i" site="cogeco.ca" site_id="190/139396/156" xmltv_id="PBS (KCTS) Seattle, WA">PBS (KCTS) Seattle, WA</channel>
+    <channel update="i" site="cogeco.ca" site_id="38270/139396/169" xmltv_id="Uvagut TV HD">Uvagut TV HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="37722/139396/170" xmltv_id="APTN Languages HD">APTN Languages HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3414/139396/172" xmltv_id="AMI-Audio - East">AMI-Audio - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="6056/139396/173" xmltv_id="AMI-tv East">AMI-tv East</channel>
+    <channel update="i" site="cogeco.ca" site_id="198/139396/174" xmltv_id="APTN - East">APTN - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="41/139396/175" xmltv_id="OMNI.1 Television">OMNI.1 Television</channel>
+    <channel update="i" site="cogeco.ca" site_id="613/139396/176" xmltv_id="OMNI.2">OMNI.2</channel>
+    <channel update="i" site="cogeco.ca" site_id="31930/139396/177" xmltv_id="OMNI East">OMNI East</channel>
+    <channel update="i" site="cogeco.ca" site_id="127/139396/178" xmltv_id="CPAC Ottawa">CPAC Ottawa</channel>
+    <channel update="i" site="cogeco.ca" site_id="417/139396/179" xmltv_id="Ontario Legislature">Ontario Legislature</channel>
+    <channel update="i" site="cogeco.ca" site_id="13887/139396/180" xmltv_id="TVO (CICA-DT) Toronto, ON">TVO (CICA-DT) Toronto, ON</channel>
+    <channel update="i" site="cogeco.ca" site_id="14114/139396/205" xmltv_id="France 24 English">France 24 English</channel>
+    <channel update="i" site="cogeco.ca" site_id="20046/139396/212" xmltv_id="Saisons Canada">Saisons Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="13784/139396/225" xmltv_id="Crime + Investigation Canada HD">Crime + Investigation Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="2848/139396/234" xmltv_id="Prise 2">Prise 2</channel>
+    <channel update="i" site="cogeco.ca" site_id="32125/139396/237" xmltv_id="Frissons TV">Frissons TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="35752/139396/238" xmltv_id="StudioCanal TV">StudioCanal TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="36570/139396/239" xmltv_id="M6 International HD">M6 International HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="74/139396/256" xmltv_id="CBC News Network">CBC News Network</channel>
+    <channel update="i" site="cogeco.ca" site_id="321/139396/257" xmltv_id="CP24 (CablePulse 24)">CP24 (CablePulse 24)</channel>
+    <channel update="i" site="cogeco.ca" site_id="416/139396/258" xmltv_id="CTV News Channel">CTV News Channel</channel>
+    <channel update="i" site="cogeco.ca" site_id="70/139396/259" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="cogeco.ca" site_id="6994/139396/260" xmltv_id="HLN HD">HLN HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3008/139396/261" xmltv_id="CNN International North America">CNN International North America</channel>
+    <channel update="i" site="cogeco.ca" site_id="3561/139396/262" xmltv_id="CNBC Canada">CNBC Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="1083/139396/263" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="cogeco.ca" site_id="8430/139396/264" xmltv_id="MS NOW HD">MS NOW HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10294/139396/265" xmltv_id="BBC News - North America HD">BBC News - North America HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="7810/139396/266" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="cogeco.ca" site_id="10043/139396/267" xmltv_id="BNN Bloomberg HD">BNN Bloomberg HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="419/139396/268" xmltv_id="Weather Network">Weather Network</channel>
+    <channel update="i" site="cogeco.ca" site_id="336/139396/300" xmltv_id="Sportsnet 360">Sportsnet 360</channel>
+    <channel update="i" site="cogeco.ca" site_id="19278/139396/301" xmltv_id="Sportsnet 4K">Sportsnet 4K</channel>
+    <channel update="i" site="cogeco.ca" site_id="332/139396/304" xmltv_id="Sportsnet (East) - Satellite\/Digital">Sportsnet (East) - Satellite\/Digital</channel>
+    <channel update="i" site="cogeco.ca" site_id="8249/139396/305" xmltv_id="Sportsnet One">Sportsnet One</channel>
+    <channel update="i" site="cogeco.ca" site_id="19279/139396/306" xmltv_id="Sportsnet One 4K">Sportsnet One 4K</channel>
+    <channel update="i" site="cogeco.ca" site_id="300/139396/308" xmltv_id="Sportsnet (Ontario) - Toronto area">Sportsnet (Ontario) - Toronto area</channel>
+    <channel update="i" site="cogeco.ca" site_id="253/139396/309" xmltv_id="Sportsnet (Pacific) - Satellite\/Digital">Sportsnet (Pacific) - Satellite\/Digital</channel>
+    <channel update="i" site="cogeco.ca" site_id="252/139396/310" xmltv_id="Sportsnet (West)">Sportsnet (West)</channel>
+    <channel update="i" site="cogeco.ca" site_id="4442/139396/311" xmltv_id="Sportsnet World">Sportsnet World</channel>
+    <channel update="i" site="cogeco.ca" site_id="11/139396/312" xmltv_id="TSN1">TSN1</channel>
+    <channel update="i" site="cogeco.ca" site_id="32779/139396/314" xmltv_id="TSN2 - No Habs HD">TSN2 - No Habs HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="13768/139396/315" xmltv_id="TSN3 HD">TSN3 HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="279/139396/316" xmltv_id="TSN4">TSN4</channel>
+    <channel update="i" site="cogeco.ca" site_id="31605/139396/318" xmltv_id="TSN 4K Leafs">TSN 4K Leafs</channel>
+    <channel update="i" site="cogeco.ca" site_id="13770/139396/321" xmltv_id="TSN5 HD">TSN5 HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="472/139396/400" xmltv_id="CTV Wild Canada">CTV Wild Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="3908/139396/401" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="16/139396/402" xmltv_id="USA Network (CAN)">USA Network (CAN)</channel>
+    <channel update="i" site="cogeco.ca" site_id="1188/139396/403" xmltv_id="CTV Nature Canada">CTV Nature Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="3887/139396/404" xmltv_id="CTV Speed HD">CTV Speed HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="462/139396/405" xmltv_id="Documentary Channel (Canada)">Documentary Channel (Canada)</channel>
+    <channel update="i" site="cogeco.ca" site_id="461/139396/406" xmltv_id="History 2 Canada">History 2 Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="164/139396/407" xmltv_id="History Canada East">History Canada East</channel>
+    <channel update="i" site="cogeco.ca" site_id="8458/139396/408" xmltv_id="Oxygen True Crime Canada HD">Oxygen True Crime Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3907/139396/409" xmltv_id="Love Nature">Love Nature</channel>
+    <channel update="i" site="cogeco.ca" site_id="11012/139396/410" xmltv_id="National Geographic Wild Canada HD">National Geographic Wild Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="475/139396/411" xmltv_id="National Geographic Canada">National Geographic Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="451/139396/412" xmltv_id="Crime + Investigation Canada">Crime + Investigation Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="3909/139396/413" xmltv_id="Smithsonian Channel Canada">Smithsonian Channel Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="10881/139396/414" xmltv_id="American Heroes Channel HD">American Heroes Channel HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3886/139396/417" xmltv_id="A&amp;E Canada HD">A&amp;E Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10771/139396/418" xmltv_id="CTV Comedy - East HD">CTV Comedy - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10772/139396/419" xmltv_id="CTV Comedy - West HD">CTV Comedy - West HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="8558/139396/421" xmltv_id="E! Canada HD">E! Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="11044/139396/422" xmltv_id="Lifetime TV - Canada HD">Lifetime TV - Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="9632/139396/423" xmltv_id="Slice HD">Slice HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="8793/139396/424" xmltv_id="Home Network HD">Home Network HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="6791/139396/425" xmltv_id="Cottage Life HD">Cottage Life HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="8389/139396/426" xmltv_id="Flavour Network HD">Flavour Network HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="11293/139396/427" xmltv_id="CTV Life HD">CTV Life HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="6779/139396/429" xmltv_id="TLC Canada HD">TLC Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="9631/139396/430" xmltv_id="T+E Totally Entertaining HD">T+E Totally Entertaining HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="4161/139396/433" xmltv_id="Showcase Canada HD">Showcase Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="9652/139396/434" xmltv_id="W (WTN) - East HD">W (WTN) - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="6797/139396/435" xmltv_id="CTV Drama HD">CTV Drama HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="607/139396/436" xmltv_id="Adult Swim - East">Adult Swim - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="11143/139396/437" xmltv_id="DTOUR">DTOUR</channel>
+    <channel update="i" site="cogeco.ca" site_id="10042/139396/438" xmltv_id="CTV Sci-Fi HD">CTV Sci-Fi HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="12598/139396/440" xmltv_id="AXS TV North America HD">AXS TV North America HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="6286/139396/441" xmltv_id="FOX (KNIN) Boise, ID HD">FOX (KNIN) Boise, ID HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="9396/139396/443" xmltv_id="Much Music HD">Much Music HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="2466/139396/444" xmltv_id="Makeful">Makeful</channel>
+    <channel update="i" site="cogeco.ca" site_id="3958/139396/446" xmltv_id="ONE TV HD">ONE TV HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="9309/139396/449" xmltv_id="OUTtv HD">OUTtv HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="7054/139396/450" xmltv_id="Game TV HD">Game TV HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="329/139396/452" xmltv_id="Game Show Network - East">Game Show Network - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="31607/139396/453" xmltv_id="Vision TV HD">Vision TV HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3906/139396/455" xmltv_id="BBC First HD">BBC First HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="8368/139396/456" xmltv_id="AMC - Canada HD">AMC - Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10027/139396/457" xmltv_id="FX Networks Canada HD">FX Networks Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="13401/139396/458" xmltv_id="FXX Canada HD">FXX Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="20016/139396/459" xmltv_id="Hollywood Suite 2010s+ HD">Hollywood Suite 2010s+ HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="20017/139396/460" xmltv_id="Hollywood Suite 70s+ HD">Hollywood Suite 70s+ HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="20018/139396/461" xmltv_id="Hollywood Suite 80s &amp; 90s HD">Hollywood Suite 80s &amp; 90s HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="20019/139396/462" xmltv_id="Hollywood Suite 2000s HD">Hollywood Suite 2000s HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="7807/139396/463" xmltv_id="MovieTime HD">MovieTime HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="33446/139396/464" xmltv_id="Deja View HD">Deja View HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="1149/139396/465" xmltv_id="Rewind">Rewind</channel>
+    <channel update="i" site="cogeco.ca" site_id="2115/139396/466" xmltv_id="Silver Screen Classics">Silver Screen Classics</channel>
+    <channel update="i" site="cogeco.ca" site_id="4230/139396/469" xmltv_id="HBO1 HD">HBO1 HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="2820/139396/470" xmltv_id="Crave1 - East HD">Crave1 - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="7139/139396/471" xmltv_id="Crave2 - East HD">Crave2 - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="7137/139396/472" xmltv_id="Crave3 - East HD">Crave3 - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10781/139396/473" xmltv_id="Crave4 HD">Crave4 HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3613/139396/474" xmltv_id="STARZ1 - East HD">STARZ1 - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10783/139396/475" xmltv_id="STARZ2 - East HD">STARZ2 - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10894/139396/476" xmltv_id="Super Channel Quest HD">Super Channel Quest HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="4833/139396/477" xmltv_id="Super Channel Fuse">Super Channel Fuse</channel>
+    <channel update="i" site="cogeco.ca" site_id="4834/139396/478" xmltv_id="Super Channel Heart &amp; Home">Super Channel Heart &amp; Home</channel>
+    <channel update="i" site="cogeco.ca" site_id="4835/139396/479" xmltv_id="Super Channel Vault">Super Channel Vault</channel>
+    <channel update="i" site="cogeco.ca" site_id="63/139396/482" xmltv_id="WPIX New York (SUPERSTATION)">WPIX New York (SUPERSTATION)</channel>
+    <channel update="i" site="cogeco.ca" site_id="90/139396/483" xmltv_id="KTLA Los Angeles, CA">KTLA Los Angeles, CA</channel>
+    <channel update="i" site="cogeco.ca" site_id="3662/139396/484" xmltv_id="WSBK (TV-38) Boston HD">WSBK (TV-38) Boston HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="31484/139396/488" xmltv_id="Pay Per View">Pay Per View</channel>
+    <channel update="i" site="cogeco.ca" site_id="1168/139396/494" xmltv_id="Exxxtasy TV">Exxxtasy TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="10712/139396/495" xmltv_id="Playboy HD">Playboy HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="32124/139396/497" xmltv_id="VIXEN HD">VIXEN HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="10984/139396/500" xmltv_id="Fight Network Canada HD">Fight Network Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="4500/139396/501" xmltv_id="Big Ten Network HD">Big Ten Network HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="14465/139396/504" xmltv_id="GAME+ HD">GAME+ HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="5488/139396/505" xmltv_id="Fox Sports Racing HD">Fox Sports Racing HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="9901/139396/506" xmltv_id="Golf Channel Canada HD">Golf Channel Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="2860/139396/507" xmltv_id="HPItv Canada">HPItv Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="19233/139396/508" xmltv_id="REV TV - Canada HD">REV TV - Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3601/139396/509" xmltv_id="NFL Network HD">NFL Network HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3615/139396/510" xmltv_id="NBA TV Canada TV HD">NBA TV Canada TV HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="6781/139396/511" xmltv_id="Wild TV HD">Wild TV HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="32992/139396/512" xmltv_id="Sportsman Channel Canada">Sportsman Channel Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="13247/139396/514" xmltv_id="beIN Sport Canada HD">beIN Sport Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="4099/139396/574" xmltv_id="NFL Sunday Ticket HD 1">NFL Sunday Ticket HD 1</channel>
+    <channel update="i" site="cogeco.ca" site_id="4100/139396/575" xmltv_id="NFL Sunday Ticket HD 2">NFL Sunday Ticket HD 2</channel>
+    <channel update="i" site="cogeco.ca" site_id="4101/139396/576" xmltv_id="NFL Sunday Ticket HD 3">NFL Sunday Ticket HD 3</channel>
+    <channel update="i" site="cogeco.ca" site_id="3617/139396/577" xmltv_id="NFL Sunday Ticket HD 4">NFL Sunday Ticket HD 4</channel>
+    <channel update="i" site="cogeco.ca" site_id="4103/139396/578" xmltv_id="NFL Sunday Ticket HD 5">NFL Sunday Ticket HD 5</channel>
+    <channel update="i" site="cogeco.ca" site_id="3619/139396/579" xmltv_id="NFL Sunday Ticket HD 6">NFL Sunday Ticket HD 6</channel>
+    <channel update="i" site="cogeco.ca" site_id="3620/139396/580" xmltv_id="NFL Sunday Ticket HD 7">NFL Sunday Ticket HD 7</channel>
+    <channel update="i" site="cogeco.ca" site_id="8445/139396/581" xmltv_id="NFL Sunday Ticket HD 8">NFL Sunday Ticket HD 8</channel>
+    <channel update="i" site="cogeco.ca" site_id="8446/139396/582" xmltv_id="NFL Sunday Ticket HD 9">NFL Sunday Ticket HD 9</channel>
+    <channel update="i" site="cogeco.ca" site_id="8447/139396/583" xmltv_id="NFL Sunday Ticket HD 10">NFL Sunday Ticket HD 10</channel>
+    <channel update="i" site="cogeco.ca" site_id="10691/139396/601" xmltv_id="Boomerang Canada HD">Boomerang Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="16683/139396/602" xmltv_id="Disney Channel Canada HD - East">Disney Channel Canada HD - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="10331/139396/608" xmltv_id="Cartoon Network Canada - East HD">Cartoon Network Canada - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="1020/139396/609" xmltv_id="Cartoon Network Canada - West">Cartoon Network Canada - West</channel>
+    <channel update="i" site="cogeco.ca" site_id="11285/139396/610" xmltv_id="Treehouse HD">Treehouse HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="8774/139396/611" xmltv_id="YTV (Youth Television) - East HD">YTV (Youth Television) - East HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="1021/139396/612" xmltv_id="YTV (Youth Television) - Pacific">YTV (Youth Television) - Pacific</channel>
+    <channel update="i" site="cogeco.ca" site_id="33926/139396/613" xmltv_id="Toon-A-Vision HD">Toon-A-Vision HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="11325/139396/625" xmltv_id="CMT Canada HD">CMT Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="35065/139396/627" xmltv_id="Stingray Country HD">Stingray Country HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="1162/139396/628" xmltv_id="Stingray Loud">Stingray Loud</channel>
+    <channel update="i" site="cogeco.ca" site_id="2116/139396/629" xmltv_id="Stingray: Retro">Stingray: Retro</channel>
+    <channel update="i" site="cogeco.ca" site_id="1161/139396/630" xmltv_id="Stingray: Vibe">Stingray: Vibe</channel>
+    <channel update="i" site="cogeco.ca" site_id="33595/139396/631" xmltv_id="Stingray Hits">Stingray Hits</channel>
+    <channel update="i" site="cogeco.ca" site_id="32619/139396/632" xmltv_id="Stingray Classica">Stingray Classica</channel>
+    <channel update="i" site="cogeco.ca" site_id="16122/139396/633" xmltv_id="Stingray: Naturescape HD">Stingray: Naturescape HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="34379/139396/635" xmltv_id="Stingray Festival 4K">Stingray Festival 4K</channel>
+    <channel update="i" site="cogeco.ca" site_id="33597/139396/636" xmltv_id="Stingray Now 4K">Stingray Now 4K</channel>
+    <channel update="i" site="cogeco.ca" site_id="33599/139396/637" xmltv_id="PalmarèsADISQ par Stingray">PalmarèsADISQ par Stingray</channel>
+    <channel update="i" site="cogeco.ca" site_id="12662/139396/641" xmltv_id="TSC HD">TSC HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="3431/139396/643" xmltv_id="Daystar Canada">Daystar Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="2469/139396/644" xmltv_id="Salt &amp; Light">Salt &amp; Light</channel>
+    <channel update="i" site="cogeco.ca" site_id="293/139396/645" xmltv_id="Yes TV (CITS) Burlington, ON">Yes TV (CITS) Burlington, ON</channel>
+    <channel update="i" site="cogeco.ca" site_id="619/139396/647" xmltv_id="EWTN Canada">EWTN Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="10540/139396/650" xmltv_id="Telelatino HD">Telelatino HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="6868/139396/651" xmltv_id="RAI Italia 1">RAI Italia 1</channel>
+    <channel update="i" site="cogeco.ca" site_id="8436/139396/652" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel update="i" site="cogeco.ca" site_id="3418/139396/653" xmltv_id="TGCOM24">TGCOM24</channel>
+    <channel update="i" site="cogeco.ca" site_id="19655/139396/654" xmltv_id="Telebimbi">Telebimbi</channel>
+    <channel update="i" site="cogeco.ca" site_id="3081/139396/655" xmltv_id="Cinelatino USA">Cinelatino USA</channel>
+    <channel update="i" site="cogeco.ca" site_id="1305/139396/656" xmltv_id="Univision - Eastern Feed">Univision - Eastern Feed</channel>
+    <channel update="i" site="cogeco.ca" site_id="9972/139396/657" xmltv_id="Tele Ninos">Tele Ninos</channel>
+    <channel update="i" site="cogeco.ca" site_id="2465/139396/658" xmltv_id="FPTV (Festival Portuguese TV)">FPTV (Festival Portuguese TV)</channel>
+    <channel update="i" site="cogeco.ca" site_id="412/139396/659" xmltv_id="Odyssey">Odyssey</channel>
+    <channel update="i" site="cogeco.ca" site_id="11057/139396/661" xmltv_id="German Kino Plus">German Kino Plus</channel>
+    <channel update="i" site="cogeco.ca" site_id="11058/139396/662" xmltv_id="Schlager TV">Schlager TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="31981/139396/664" xmltv_id="5 Kanal">5 Kanal</channel>
+    <channel update="i" site="cogeco.ca" site_id="39236/139396/665" xmltv_id="First National">First National</channel>
+    <channel update="i" site="cogeco.ca" site_id="32056/139396/669" xmltv_id="RTVi Canada">RTVi Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="11062/139396/670" xmltv_id="Current Time TV">Current Time TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="8624/139396/673" xmltv_id="Future TV International">Future TV International</channel>
+    <channel update="i" site="cogeco.ca" site_id="10468/139396/674" xmltv_id="Melody Aflam">Melody Aflam</channel>
+    <channel update="i" site="cogeco.ca" site_id="10465/139396/675" xmltv_id="Melody Drama">Melody Drama</channel>
+    <channel update="i" site="cogeco.ca" site_id="10471/139396/676" xmltv_id="Melody Hits">Melody Hits</channel>
+    <channel update="i" site="cogeco.ca" site_id="14214/139396/678" xmltv_id="SSTV (South-Asian Punjabi)">SSTV (South-Asian Punjabi)</channel>
+    <channel update="i" site="cogeco.ca" site_id="365/139396/679" xmltv_id="Talentvision">Talentvision</channel>
+    <channel update="i" site="cogeco.ca" site_id="2871/139396/680" xmltv_id="Fairchild TV 1 - East">Fairchild TV 1 - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="366/139396/681" xmltv_id="Fairchild TV 1 - Pacific">Fairchild TV 1 - Pacific</channel>
+    <channel update="i" site="cogeco.ca" site_id="10295/139396/682" xmltv_id="ATN - Aapka Colors">ATN - Aapka Colors</channel>
+    <channel update="i" site="cogeco.ca" site_id="17042/139396/683" xmltv_id="ATN - Life">ATN - Life</channel>
+    <channel update="i" site="cogeco.ca" site_id="32608/139396/684" xmltv_id="SET TV International">SET TV International</channel>
+    <channel update="i" site="cogeco.ca" site_id="8622/139396/685" xmltv_id="Aaj Tak">Aaj Tak</channel>
+    <channel update="i" site="cogeco.ca" site_id="2263/139396/686" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="cogeco.ca" site_id="13656/139396/687" xmltv_id="Zee TV Canada">Zee TV Canada</channel>
+    <channel update="i" site="cogeco.ca" site_id="2865/139396/688" xmltv_id="ATN - B4U Movies (Hindi)">ATN - B4U Movies (Hindi)</channel>
+    <channel update="i" site="cogeco.ca" site_id="2867/139396/689" xmltv_id="ATN - B4U Music">ATN - B4U Music</channel>
+    <channel update="i" site="cogeco.ca" site_id="6771/139396/690" xmltv_id="ATN - Set Max">ATN - Set Max</channel>
+    <channel update="i" site="cogeco.ca" site_id="11053/139396/692" xmltv_id="ATN - ABP News">ATN - ABP News</channel>
+    <channel update="i" site="cogeco.ca" site_id="2262/139396/693" xmltv_id="ATN - AASTHA">ATN - AASTHA</channel>
+    <channel update="i" site="cogeco.ca" site_id="11051/139396/694" xmltv_id="ATN - Food Food">ATN - Food Food</channel>
+    <channel update="i" site="cogeco.ca" site_id="11052/139396/695" xmltv_id="ATN - Movies">ATN - Movies</channel>
+    <channel update="i" site="cogeco.ca" site_id="13652/139396/696" xmltv_id="NDTV - 24x7">NDTV - 24x7</channel>
+    <channel update="i" site="cogeco.ca" site_id="8968/139396/697" xmltv_id="SAB TV (SONY)">SAB TV (SONY)</channel>
+    <channel update="i" site="cogeco.ca" site_id="10245/139396/698" xmltv_id="ATN - Times Now (English)">ATN - Times Now (English)</channel>
+    <channel update="i" site="cogeco.ca" site_id="10246/139396/699" xmltv_id="ATN - Zoom (Hindi)">ATN - Zoom (Hindi)</channel>
+    <channel update="i" site="cogeco.ca" site_id="3413/139396/700" xmltv_id="TV Asia">TV Asia</channel>
+    <channel update="i" site="cogeco.ca" site_id="4192/139396/701" xmltv_id="ATN Star Plus">ATN Star Plus</channel>
+    <channel update="i" site="cogeco.ca" site_id="8965/139396/702" xmltv_id="NDTV Good Times">NDTV Good Times</channel>
+    <channel update="i" site="cogeco.ca" site_id="2866/139396/703" xmltv_id="ATN - Punjabi">ATN - Punjabi</channel>
+    <channel update="i" site="cogeco.ca" site_id="17043/139396/704" xmltv_id="ATN - Punjabi Plus">ATN - Punjabi Plus</channel>
+    <channel update="i" site="cogeco.ca" site_id="6774/139396/705" xmltv_id="ATN - PM One">ATN - PM One</channel>
+    <channel update="i" site="cogeco.ca" site_id="4005/139396/706" xmltv_id="Jaya TV">Jaya TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="6777/139396/707" xmltv_id="ATN - Tamil Plus">ATN - Tamil Plus</channel>
+    <channel update="i" site="cogeco.ca" site_id="11060/139396/708" xmltv_id="Zee Tamil 'Zee Tamizh'">Zee Tamil 'Zee Tamizh'</channel>
+    <channel update="i" site="cogeco.ca" site_id="11055/139396/710" xmltv_id="Zee - HUM TV">Zee - HUM TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="4332/139396/711" xmltv_id="GEO TV">GEO TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="2260/139396/712" xmltv_id="ATN - Bangla">ATN - Bangla</channel>
+    <channel update="i" site="cogeco.ca" site_id="14215/139396/713" xmltv_id="ATN - SONY Aath">ATN - SONY Aath</channel>
+    <channel update="i" site="cogeco.ca" site_id="6639/139396/716" xmltv_id="Filipino TV">Filipino TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="7245/139396/717" xmltv_id="GMA Life TV">GMA Life TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="11059/139396/718" xmltv_id="GMA News">GMA News</channel>
+    <channel update="i" site="cogeco.ca" site_id="32171/139396/719" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="14/139396/802" xmltv_id="ICI (CBLFT) Toronto">ICI (CBLFT) Toronto</channel>
+    <channel update="i" site="cogeco.ca" site_id="106/139396/803" xmltv_id="TVA (CFTM) Montréal">TVA (CFTM) Montréal</channel>
+    <channel update="i" site="cogeco.ca" site_id="5/139396/804" xmltv_id="Noovo (CFGS) Gatineau, QC">Noovo (CFGS) Gatineau, QC</channel>
+    <channel update="i" site="cogeco.ca" site_id="1143/139396/806" xmltv_id="Tele-Quebec (CIVV) Chicoutimi">Tele-Quebec (CIVV) Chicoutimi</channel>
+    <channel update="i" site="cogeco.ca" site_id="23/139396/807" xmltv_id="TV5 International - East">TV5 International - East</channel>
+    <channel update="i" site="cogeco.ca" site_id="10/139396/808" xmltv_id="TFO - Chaine Francaise">TFO - Chaine Francaise</channel>
+    <channel update="i" site="cogeco.ca" site_id="427/139396/809" xmltv_id="Meteo-Media">Meteo-Media</channel>
+    <channel update="i" site="cogeco.ca" site_id="8/139396/812" xmltv_id="RDI (News)">RDI (News)</channel>
+    <channel update="i" site="cogeco.ca" site_id="432/139396/813" xmltv_id="LCN">LCN</channel>
+    <channel update="i" site="cogeco.ca" site_id="47/139396/816" xmltv_id="RDS (Réseau des sports)">RDS (Réseau des sports)</channel>
+    <channel update="i" site="cogeco.ca" site_id="3889/139396/818" xmltv_id="RDS Info">RDS Info</channel>
+    <channel update="i" site="cogeco.ca" site_id="9705/139396/820" xmltv_id="RDS 2">RDS 2</channel>
+    <channel update="i" site="cogeco.ca" site_id="9823/139396/821" xmltv_id="TVA Sports">TVA Sports</channel>
+    <channel update="i" site="cogeco.ca" site_id="13777/139396/822" xmltv_id="TVA Sports 2">TVA Sports 2</channel>
+    <channel update="i" site="cogeco.ca" site_id="108/139396/825" xmltv_id="Canal D">Canal D</channel>
+    <channel update="i" site="cogeco.ca" site_id="307/139396/826" xmltv_id="Canal Vie">Canal Vie</channel>
+    <channel update="i" site="cogeco.ca" site_id="5484/139396/827" xmltv_id="CASA">CASA</channel>
+    <channel update="i" site="cogeco.ca" site_id="9109/139396/828" xmltv_id="Témoin">Témoin</channel>
+    <channel update="i" site="cogeco.ca" site_id="7508/139396/829" xmltv_id="Zeste">Zeste</channel>
+    <channel update="i" site="cogeco.ca" site_id="343/139396/830" xmltv_id="Evasion">Evasion</channel>
+    <channel update="i" site="cogeco.ca" site_id="345/139396/831" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="cogeco.ca" site_id="10298/139396/832" xmltv_id="Explora">Explora</channel>
+    <channel update="i" site="cogeco.ca" site_id="1170/139396/833" xmltv_id="Planète+">Planète+</channel>
+    <channel update="i" site="cogeco.ca" site_id="459/139396/834" xmltv_id="ARTV">ARTV</channel>
+    <channel update="i" site="cogeco.ca" site_id="15259/139396/835" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="101/139396/838" xmltv_id="ELLE Fictions">ELLE Fictions</channel>
+    <channel update="i" site="cogeco.ca" site_id="306/139396/839" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="cogeco.ca" site_id="2033/139396/840" xmltv_id="Addik TV">Addik TV</channel>
+    <channel update="i" site="cogeco.ca" site_id="344/139396/842" xmltv_id="Z">Z</channel>
+    <channel update="i" site="cogeco.ca" site_id="2325/139396/843" xmltv_id="Cinépop">Cinépop</channel>
+    <channel update="i" site="cogeco.ca" site_id="341/139396/844" xmltv_id="Series +">Series +</channel>
+    <channel update="i" site="cogeco.ca" site_id="57/139396/845" xmltv_id="Super Ecran">Super Ecran</channel>
+    <channel update="i" site="cogeco.ca" site_id="362/139396/846" xmltv_id="Super Ecran 2">Super Ecran 2</channel>
+    <channel update="i" site="cogeco.ca" site_id="410/139396/847" xmltv_id="Super Ecran 3">Super Ecran 3</channel>
+    <channel update="i" site="cogeco.ca" site_id="411/139396/848" xmltv_id="Super Ecran 4">Super Ecran 4</channel>
+    <channel update="i" site="cogeco.ca" site_id="308/139396/850" xmltv_id="TéléTOON - français">TéléTOON - français</channel>
+    <channel update="i" site="cogeco.ca" site_id="13716/139396/854" xmltv_id="TV5 Unis">TV5 Unis</channel>
+    <channel update="i" site="cogeco.ca" site_id="13775/139396/855" xmltv_id="AMI-télé">AMI-télé</channel>
+    <channel update="i" site="cogeco.ca" site_id="429/139396/856" xmltv_id="CPAC (Francais)">CPAC (Francais)</channel>
+    <channel update="i" site="cogeco.ca" site_id="19233/139396/860" xmltv_id="REV TV - Canada HD">REV TV - Canada HD</channel>
+    <channel update="i" site="cogeco.ca" site_id="2770/139396/900" xmltv_id="Stingray: Adult Alternative">Stingray: Adult Alternative</channel>
+    <channel update="i" site="cogeco.ca" site_id="2786/139396/901" xmltv_id="Stingray: All Day Party!">Stingray: All Day Party!</channel>
+    <channel update="i" site="cogeco.ca" site_id="2808/139396/902" xmltv_id="Stingray: Around the World">Stingray: Around the World</channel>
+    <channel update="i" site="cogeco.ca" site_id="2772/139396/903" xmltv_id="Stingray: Baroque">Stingray: Baroque</channel>
+    <channel update="i" site="cogeco.ca" site_id="2775/139396/904" xmltv_id="Stingray: Chamber Music">Stingray: Chamber Music</channel>
+    <channel update="i" site="cogeco.ca" site_id="5979/139396/905" xmltv_id="Stingray: Classic Masters \/ Grands classiques">Stingray: Classic Masters \/ Grands classiques</channel>
+    <channel update="i" site="cogeco.ca" site_id="2779/139396/906" xmltv_id="Stingray: Country Classics">Stingray: Country Classics</channel>
+    <channel update="i" site="cogeco.ca" site_id="2780/139396/907" xmltv_id="Stingray: Dance Clubbin'">Stingray: Dance Clubbin'</channel>
+    <channel update="i" site="cogeco.ca" site_id="2886/139396/908" xmltv_id="Stingray: Easy Listening">Stingray: Easy Listening</channel>
+    <channel update="i" site="cogeco.ca" site_id="2769/139396/910" xmltv_id="Stingray: Flashback 70's">Stingray: Flashback 70's</channel>
+    <channel update="i" site="cogeco.ca" site_id="2782/139396/911" xmltv_id="Stingray: Folk Roots">Stingray: Folk Roots</channel>
+    <channel update="i" site="cogeco.ca" site_id="2784/139396/912" xmltv_id="Stingray: Franco Country">Stingray: Franco Country</channel>
+    <channel update="i" site="cogeco.ca" site_id="17046/139396/913" xmltv_id="Stingray: Franco Fêtes">Stingray: Franco Fêtes</channel>
+    <channel update="i" site="cogeco.ca" site_id="2902/139396/914" xmltv_id="Stingray: Franco Pop">Stingray: Franco Pop</channel>
+    <channel update="i" site="cogeco.ca" site_id="2901/139396/915" xmltv_id="Stingray: Franco Retro">Stingray: Franco Retro</channel>
+    <channel update="i" site="cogeco.ca" site_id="2824/139396/916" xmltv_id="Stingray: Hit List">Stingray: Hit List</channel>
+    <channel update="i" site="cogeco.ca" site_id="2897/139396/917" xmltv_id="Stingray: Holiday Favourites">Stingray: Holiday Favourites</channel>
+    <channel update="i" site="cogeco.ca" site_id="5953/139396/918" xmltv_id="Stingray: Hot Country">Stingray: Hot Country</channel>
+    <channel update="i" site="cogeco.ca" site_id="2787/139396/919" xmltv_id="Stingray: Jazz Masters \/ Géants du Jazz">Stingray: Jazz Masters \/ Géants du Jazz</channel>
+    <channel update="i" site="cogeco.ca" site_id="2788/139396/920" xmltv_id="Stingray: Jazz Now \/ Jazz d'aujourd'hui">Stingray: Jazz Now \/ Jazz d'aujourd'hui</channel>
+    <channel update="i" site="cogeco.ca" site_id="2800/139396/921" xmltv_id="Stingray: Jukebox Oldies">Stingray: Jukebox Oldies</channel>
+    <channel update="i" site="cogeco.ca" site_id="14196/139396/922" xmltv_id="Stingray: Kids Stuff">Stingray: Kids Stuff</channel>
+    <channel update="i" site="cogeco.ca" site_id="2789/139396/923" xmltv_id="Stingray: Mousses musique">Stingray: Mousses musique</channel>
+    <channel update="i" site="cogeco.ca" site_id="2791/139396/924" xmltv_id="Stingray: Nature">Stingray: Nature</channel>
+    <channel update="i" site="cogeco.ca" site_id="2792/139396/925" xmltv_id="Stingray: Nostalgie">Stingray: Nostalgie</channel>
+    <channel update="i" site="cogeco.ca" site_id="2794/139396/926" xmltv_id="Stingray: Pop Adult">Stingray: Pop Adult</channel>
+    <channel update="i" site="cogeco.ca" site_id="2795/139396/927" xmltv_id="Stingray: Popular Classical \/ Classique populaire">Stingray: Popular Classical \/ Classique populaire</channel>
+    <channel update="i" site="cogeco.ca" site_id="2804/139396/928" xmltv_id="Stingray: Remember the 80s">Stingray: Remember the 80s</channel>
+    <channel update="i" site="cogeco.ca" site_id="2797/139396/929" xmltv_id="Stingray: Riddim">Stingray: Riddim</channel>
+    <channel update="i" site="cogeco.ca" site_id="2799/139396/930" xmltv_id="Stingray: Rock">Stingray: Rock</channel>
+    <channel update="i" site="cogeco.ca" site_id="2885/139396/931" xmltv_id="Stingray: Alternative">Stingray: Alternative</channel>
+    <channel update="i" site="cogeco.ca" site_id="14232/139396/932" xmltv_id="Stingray: Smooth Jazz">Stingray: Smooth Jazz</channel>
+    <channel update="i" site="cogeco.ca" site_id="2802/139396/933" xmltv_id="Stingray: Souvenirs">Stingray: Souvenirs</channel>
+    <channel update="i" site="cogeco.ca" site_id="2893/139396/934" xmltv_id="Stingray: Swingin' Standards">Stingray: Swingin' Standards</channel>
+    <channel update="i" site="cogeco.ca" site_id="2774/139396/935" xmltv_id="Stingray: The Blues">Stingray: The Blues</channel>
+    <channel update="i" site="cogeco.ca" site_id="2771/139396/936" xmltv_id="Stingray: Chill Lounge">Stingray: Chill Lounge</channel>
+    <channel update="i" site="cogeco.ca" site_id="2899/139396/937" xmltv_id="Stingray: Christian Pop &amp; Rock">Stingray: Christian Pop &amp; Rock</channel>
+    <channel update="i" site="cogeco.ca" site_id="2895/139396/938" xmltv_id="Stingray: The Spa">Stingray: The Spa</channel>
+    <channel update="i" site="cogeco.ca" site_id="3429/139396/939" xmltv_id="Stingray: Le Palmarès">Stingray: Le Palmarès</channel>
+    <channel update="i" site="cogeco.ca" site_id="2889/139396/940" xmltv_id="Stingray: Hip-Hop\/R&amp;B">Stingray: Hip-Hop\/R&amp;B</channel>
+    <channel update="i" site="cogeco.ca" site_id="2785/139396/941" xmltv_id="Stingray: Classic Rock">Stingray: Classic Rock</channel>
+    <channel update="i" site="cogeco.ca" site_id="37202/139396/943" xmltv_id="TikTok Radio on Stingray">TikTok Radio on Stingray</channel>
+    <channel update="i" site="cogeco.ca" site_id="35666/139396/945" xmltv_id="CBLA CBC RADIO 99.1">CBLA CBC RADIO 99.1</channel>
+    <channel update="i" site="cogeco.ca" site_id="35723/139396/951" xmltv_id="CFMU FM MCMASTER RADIO 93.">CFMU FM MCMASTER RADIO 93.</channel>
+    <channel update="i" site="cogeco.ca" site_id="35665/139396/952" xmltv_id="CFMXFM Classic FM 96.3">CFMXFM Classic FM 96.3</channel>
+    <channel update="i" site="cogeco.ca" site_id="35667/139396/953" xmltv_id="CFNY The EDGE FM 102.1">CFNY The EDGE FM 102.1</channel>
+    <channel update="i" site="cogeco.ca" site_id="35668/139396/955" xmltv_id="CHFI FM 98.1">CHFI FM 98.1</channel>
+    <channel update="i" site="cogeco.ca" site_id="35669/139396/957" xmltv_id="CHUM FM 104.5">CHUM FM 104.5</channel>
+    <channel update="i" site="cogeco.ca" site_id="35670/139396/958" xmltv_id="CILQ FM Q107">CILQ FM Q107</channel>
+    <channel update="i" site="cogeco.ca" site_id="35671/139396/962" xmltv_id="CJBCFM Ontario">CJBCFM Ontario</channel>
+    <channel update="i" site="cogeco.ca" site_id="35673/139396/964" xmltv_id="CJRT JAZZ FM 91">CJRT JAZZ FM 91</channel>
+    <channel update="i" site="cogeco.ca" site_id="35674/139396/966" xmltv_id="CKFM VIRGIN RADIO 99.9">CKFM VIRGIN RADIO 99.9</channel>
+    <channel update="i" site="cogeco.ca" site_id="16939/139396/4431" xmltv_id="Super Sports Pak HD 10">Super Sports Pak HD 10</channel>
+    <channel update="i" site="cogeco.ca" site_id="16993/139396/4432" xmltv_id="Super Sports Pak HD 1">Super Sports Pak HD 1</channel>
+    <channel update="i" site="cogeco.ca" site_id="16994/139396/4433" xmltv_id="Super Sports Pak HD 2">Super Sports Pak HD 2</channel>
+    <channel update="i" site="cogeco.ca" site_id="16995/139396/4434" xmltv_id="Super Sports Pak HD 3">Super Sports Pak HD 3</channel>
+    <channel update="i" site="cogeco.ca" site_id="16996/139396/4435" xmltv_id="Super Sports Pak HD 4">Super Sports Pak HD 4</channel>
+    <channel update="i" site="cogeco.ca" site_id="16997/139396/4436" xmltv_id="Super Sports Pak HD 5">Super Sports Pak HD 5</channel>
+    <channel update="i" site="cogeco.ca" site_id="16998/139396/4437" xmltv_id="Super Sports Pak HD 6">Super Sports Pak HD 6</channel>
+    <channel update="i" site="cogeco.ca" site_id="16999/139396/4438" xmltv_id="Super Sports Pak HD 7">Super Sports Pak HD 7</channel>
+    <channel update="i" site="cogeco.ca" site_id="17000/139396/4439" xmltv_id="Super Sports Pak HD 8">Super Sports Pak HD 8</channel>
+    <channel update="i" site="cogeco.ca" site_id="17001/139396/4440" xmltv_id="Super Sports Pak HD 9">Super Sports Pak HD 9</channel>
+    <channel update="i" site="cogeco.ca" site_id="35524/139396/4441" xmltv_id="Super Sports Pak HD 41">Super Sports Pak HD 41</channel>
+    <channel update="i" site="cogeco.ca" site_id="35514/139396/4442" xmltv_id="Super Sports Pak HD 42">Super Sports Pak HD 42</channel>
+    <channel update="i" site="cogeco.ca" site_id="35515/139396/4443" xmltv_id="Super Sports Pak HD 43">Super Sports Pak HD 43</channel>
+    <channel update="i" site="cogeco.ca" site_id="35516/139396/4444" xmltv_id="Super Sports Pak HD 44">Super Sports Pak HD 44</channel>
+    <channel update="i" site="cogeco.ca" site_id="35526/139396/4445" xmltv_id="Super Sports Pak HD 26">Super Sports Pak HD 26</channel>
+    <channel update="i" site="cogeco.ca" site_id="35527/139396/4446" xmltv_id="Super Sports Pak HD 27">Super Sports Pak HD 27</channel>
+    <channel update="i" site="cogeco.ca" site_id="35528/139396/4447" xmltv_id="Super Sports Pak HD 28">Super Sports Pak HD 28</channel>
+    <channel update="i" site="cogeco.ca" site_id="35529/139396/4448" xmltv_id="Super Sports Pak HD 29">Super Sports Pak HD 29</channel>
+    <channel update="i" site="cogeco.ca" site_id="16990/139396/4450" xmltv_id="Super Sports Pak HD 22">Super Sports Pak HD 22</channel>
+    <channel update="i" site="cogeco.ca" site_id="16989/139396/4451" xmltv_id="Super Sports Pak HD 20">Super Sports Pak HD 20</channel>
+    <channel update="i" site="cogeco.ca" site_id="16989/139396/4452" xmltv_id="Super Sports Pak HD 20">Super Sports Pak HD 20</channel>
+    <channel update="i" site="cogeco.ca" site_id="17002/139396/4453" xmltv_id="Super Sports Pak HD 21">Super Sports Pak HD 21</channel>
+    <channel update="i" site="cogeco.ca" site_id="16980/139396/4454" xmltv_id="Super Sports Pak HD 11">Super Sports Pak HD 11</channel>
+    <channel update="i" site="cogeco.ca" site_id="16981/139396/4455" xmltv_id="Super Sports Pak HD 12">Super Sports Pak HD 12</channel>
+    <channel update="i" site="cogeco.ca" site_id="16982/139396/4456" xmltv_id="Super Sports Pak HD 13">Super Sports Pak HD 13</channel>
+    <channel update="i" site="cogeco.ca" site_id="16983/139396/4457" xmltv_id="Super Sports Pak HD 14">Super Sports Pak HD 14</channel>
+    <channel update="i" site="cogeco.ca" site_id="16984/139396/4458" xmltv_id="Super Sports Pak HD 15">Super Sports Pak HD 15</channel>
+    <channel update="i" site="cogeco.ca" site_id="16985/139396/4459" xmltv_id="Super Sports Pak HD 16">Super Sports Pak HD 16</channel>
+    <channel update="i" site="cogeco.ca" site_id="16986/139396/4460" xmltv_id="Super Sports Pak HD 17">Super Sports Pak HD 17</channel>
+    <channel update="i" site="cogeco.ca" site_id="16987/139396/4461" xmltv_id="Super Sports Pak HD 18">Super Sports Pak HD 18</channel>
+    <channel update="i" site="cogeco.ca" site_id="16988/139396/4462" xmltv_id="Super Sports Pak HD 19">Super Sports Pak HD 19</channel>
+    <channel update="i" site="cogeco.ca" site_id="35517/139396/4463" xmltv_id="Super Sports Pak HD 63">Super Sports Pak HD 63</channel>
+    <channel update="i" site="cogeco.ca" site_id="16991/139396/4464" xmltv_id="Super Sports Pak HD 23">Super Sports Pak HD 23</channel>
+    <channel update="i" site="cogeco.ca" site_id="16992/139396/4465" xmltv_id="Super Sports Pak HD 24">Super Sports Pak HD 24</channel>
+    <channel update="i" site="cogeco.ca" site_id="35518/139396/4466" xmltv_id="Super Sports Pak HD 66">Super Sports Pak HD 66</channel>
+    <channel update="i" site="cogeco.ca" site_id="35519/139396/4467" xmltv_id="Super Sports Pak HD 67">Super Sports Pak HD 67</channel>
+    <channel update="i" site="cogeco.ca" site_id="35520/139396/4468" xmltv_id="Super Sports Pak HD 68">Super Sports Pak HD 68</channel>
+    <channel update="i" site="cogeco.ca" site_id="35521/139396/4469" xmltv_id="Super Sports Pak HD 69">Super Sports Pak HD 69</channel>
+    <channel update="i" site="cogeco.ca" site_id="35522/139396/4470" xmltv_id="Super Sports Pak HD 70">Super Sports Pak HD 70</channel>
+    <channel update="i" site="cogeco.ca" site_id="35523/139396/4471" xmltv_id="Super Sports Pak HD 71">Super Sports Pak HD 71</channel>
+  </channels>
+</site>
