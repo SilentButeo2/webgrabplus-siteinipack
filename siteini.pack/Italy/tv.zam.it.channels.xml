@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.1 -- Jan van Straaten" site="tv.zam.it">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="tv.zam.it">
   <channels>
     <channel update="i" site="tv.zam.it" site_id="Rai-1" xmltv_id="Rai 1">Rai 1</channel>
     <channel update="i" site="tv.zam.it" site_id="Rai-2" xmltv_id="Rai 2">Rai 2</channel>
@@ -17,7 +17,7 @@
     <channel update="i" site="tv.zam.it" site_id="Rai-Movie" xmltv_id="Rai Movie">Rai Movie</channel>
     <channel update="i" site="tv.zam.it" site_id="Rai-premium" xmltv_id="Rai premium">Rai premium</channel>
     <channel update="i" site="tv.zam.it" site_id="Cielo" xmltv_id="Cielo">Cielo</channel>
-    <channel update="i" site="tv.zam.it" site_id="Paramount-channel" xmltv_id="Paramount channel">Paramount channel</channel>
+    <channel update="i" site="tv.zam.it" site_id="Twentyseven" xmltv_id="Twentyseven">Twentyseven</channel>
     <channel update="i" site="tv.zam.it" site_id="Tv-2000" xmltv_id="Tv 2000">Tv 2000</channel>
     <channel update="i" site="tv.zam.it" site_id="La7d" xmltv_id="La7d">La7d</channel>
     <channel update="i" site="tv.zam.it" site_id="La5" xmltv_id="La5">La5</channel>
@@ -25,6 +25,8 @@
     <channel update="i" site="tv.zam.it" site_id="Food-Network" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="tv.zam.it" site_id="Cine34" xmltv_id="Cine34">Cine34</channel>
     <channel update="i" site="tv.zam.it" site_id="Focus" xmltv_id="Focus">Focus</channel>
+    <channel update="i" site="tv.zam.it" site_id="RTL-102.5-TV" xmltv_id="RTL 102.5 TV">RTL 102.5 TV</channel>
+    <channel update="i" site="tv.zam.it" site_id="Warner-Tv" xmltv_id="Warner Tv">Warner Tv</channel>
     <channel update="i" site="tv.zam.it" site_id="Giallo" xmltv_id="Giallo">Giallo</channel>
     <channel update="i" site="tv.zam.it" site_id="Top-Crime" xmltv_id="Top Crime">Top Crime</channel>
     <channel update="i" site="tv.zam.it" site_id="Boing" xmltv_id="Boing">Boing</channel>
@@ -32,67 +34,90 @@
     <channel update="i" site="tv.zam.it" site_id="RaiGulp" xmltv_id="RaiGulp">RaiGulp</channel>
     <channel update="i" site="tv.zam.it" site_id="Rai-YoYo" xmltv_id="Rai YoYo">Rai YoYo</channel>
     <channel update="i" site="tv.zam.it" site_id="Frisbee" xmltv_id="Frisbee">Frisbee</channel>
+    <channel update="i" site="tv.zam.it" site_id="Boing-Plus" xmltv_id="Boing Plus">Boing Plus</channel>
     <channel update="i" site="tv.zam.it" site_id="Cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="tv.zam.it" site_id="Super!" xmltv_id="Super!">Super!</channel>
     <channel update="i" site="tv.zam.it" site_id="Rai-News" xmltv_id="Rai News">Rai News</channel>
-    <channel update="i" site="tv.zam.it" site_id="Spike-Tv" xmltv_id="Spike Tv">Spike Tv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Italia-2" xmltv_id="Italia 2">Italia 2</channel>
     <channel update="i" site="tv.zam.it" site_id="Dmax" xmltv_id="Dmax">Dmax</channel>
     <channel update="i" site="tv.zam.it" site_id="Rai-Storia" xmltv_id="Rai Storia">Rai Storia</channel>
     <channel update="i" site="tv.zam.it" site_id="Mediaset-Extra" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
+    <channel update="i" site="tv.zam.it" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tv.zam.it" site_id="Rai-Scuola" xmltv_id="Rai Scuola">Rai Scuola</channel>
     <channel update="i" site="tv.zam.it" site_id="Raisport" xmltv_id="Raisport">Raisport</channel>
     <channel update="i" site="tv.zam.it" site_id="Motor-Trend" xmltv_id="Motor Trend">Motor Trend</channel>
     <channel update="i" site="tv.zam.it" site_id="Sportitalia" xmltv_id="Sportitalia">Sportitalia</channel>
+    <channel update="i" site="tv.zam.it" site_id="Donna-Tv" xmltv_id="Donna Tv">Donna Tv</channel>
     <channel update="i" site="tv.zam.it" site_id="Super-Tennis" xmltv_id="Super Tennis">Super Tennis</channel>
     <channel update="i" site="tv.zam.it" site_id="Alma-Tv" xmltv_id="Alma Tv">Alma Tv</channel>
-    <channel update="i" site="tv.zam.it" site_id="Italia-2" xmltv_id="Italia 2">Italia 2</channel>
+    <channel update="i" site="tv.zam.it" site_id="Radio-Italia-Tv" xmltv_id="Radio Italia Tv">Radio Italia Tv</channel>
     <channel update="i" site="tv.zam.it" site_id="7-Gold" xmltv_id="7 Gold">7 Gold</channel>
-    <channel update="i" site="tv.zam.it" site_id="Rai-Scuola" xmltv_id="Rai Scuola">Rai Scuola</channel>
-    <channel update="i" site="tv.zam.it" site_id="Rsi-La-2" xmltv_id="Rsi La 2">Rsi La 2</channel>
+    <channel update="i" site="tv.zam.it" site_id="RadioFreccia" xmltv_id="RadioFreccia">RadioFreccia</channel>
     <channel update="i" site="tv.zam.it" site_id="Rsi-La-1" xmltv_id="Rsi La 1">Rsi La 1</channel>
-    <channel update="i" site="tv.zam.it" site_id="Premium-Action" xmltv_id="Premium Action">Premium Action</channel>
-    <channel update="i" site="tv.zam.it" site_id="Premium-Crime" xmltv_id="Premium Crime">Premium Crime</channel>
-    <channel update="i" site="tv.zam.it" site_id="Premium-Stories" xmltv_id="Premium Stories">Premium Stories</channel>
-    <channel update="i" site="tv.zam.it" site_id="Premium-Cinema-1" xmltv_id="Premium Cinema 1">Premium Cinema 1</channel>
-    <channel update="i" site="tv.zam.it" site_id="Premium-Cinema-2" xmltv_id="Premium Cinema 2">Premium Cinema 2</channel>
-    <channel update="i" site="tv.zam.it" site_id="Premium-Cinema-3" xmltv_id="Premium Cinema 3">Premium Cinema 3</channel>
-    <channel update="i" site="tv.zam.it" site_id="Eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="tv.zam.it" site_id="Eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Uno-HD" xmltv_id="Sky Uno HD">Sky Uno HD</channel>
+    <channel update="i" site="tv.zam.it" site_id="Rsi-La-2" xmltv_id="Rsi La 2">Rsi La 2</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Uno" xmltv_id="Sky Uno">Sky Uno</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Unopiu-1" xmltv_id="Sky Uno+1">Sky Uno+1</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Atlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
-    <channel update="i" site="tv.zam.it" site_id="Fox-HD" xmltv_id="Fox HD">Fox HD</channel>
-    <channel update="i" site="tv.zam.it" site_id="Fox-Crime" xmltv_id="Fox Crime">Fox Crime</channel>
-    <channel update="i" site="tv.zam.it" site_id="Crimepiu-Investigation" xmltv_id="Crime+Investigation">Crime+Investigation</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Serie" xmltv_id="Sky Serie">Sky Serie</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Collection" xmltv_id="Sky Collection">Sky Collection</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Investigation" xmltv_id="Sky Investigation">Sky Investigation</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Crime" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel update="i" site="tv.zam.it" site_id="History" xmltv_id="History">History</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Documentaries" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Arte" xmltv_id="Sky Arte">Sky Arte</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Documentariespiu-1" xmltv_id="Sky Documentaries+1">Sky Documentaries+1</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Nature" xmltv_id="Sky Nature">Sky Nature</channel>
     <channel update="i" site="tv.zam.it" site_id="Comedy-Central" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="tv.zam.it" site_id="Mtv" xmltv_id="Mtv">Mtv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Gambero-Rosso-HD" xmltv_id="Gambero Rosso HD">Gambero Rosso HD</channel>
     <channel update="i" site="tv.zam.it" site_id="Classica-Hd" xmltv_id="Classica Hd">Classica Hd</channel>
-    <channel update="i" site="tv.zam.it" site_id="LaEffe" xmltv_id="LaEffe">LaEffe</channel>
     <channel update="i" site="tv.zam.it" site_id="MS-Motor-TV" xmltv_id="MS Motor TV">MS Motor TV</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-24" xmltv_id="Sky Sport 24">Sky Sport 24</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Sport-1" xmltv_id="Sky Sport 1">Sky Sport 1</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Serie-A" xmltv_id="Sky Sport Serie A">Sky Sport Serie A</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Calcio" xmltv_id="Sky Sport Calcio">Sky Sport Calcio</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Football" xmltv_id="Sky Sport Football">Sky Sport Football</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Arena" xmltv_id="Sky Sport Arena">Sky Sport Arena</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Tennis" xmltv_id="Sky Sport Tennis">Sky Sport Tennis</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Action" xmltv_id="Sky Sport Action">Sky Sport Action</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Sport-F1" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Sport-Motogp" xmltv_id="Sky Sport Motogp">Sky Sport Motogp</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Sport-NBA" xmltv_id="Sky Sport NBA">Sky Sport NBA</channel>
+    <channel update="i" site="tv.zam.it" site_id="Horse-Tv" xmltv_id="Horse Tv">Horse Tv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Aci-Sport-Tv" xmltv_id="Aci Sport Tv">Aci Sport Tv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Milan-Tv" xmltv_id="Milan Tv">Milan Tv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Inter-Tv" xmltv_id="Inter Tv">Inter Tv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Caccia" xmltv_id="Caccia">Caccia</channel>
+    <channel update="i" site="tv.zam.it" site_id="Pesca" xmltv_id="Pesca">Pesca</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-1" xmltv_id="Sky Cinema 1">Sky Cinema 1</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Family" xmltv_id="Sky Family">Sky Family</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Romance" xmltv_id="Sky Romance">Sky Romance</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Comedy" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-Stories" xmltv_id="Sky Cinema Stories">Sky Cinema Stories</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-Family" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-Action" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-2" xmltv_id="Sky Cinema 2">Sky Cinema 2</channel>
-    <channel update="i" site="tv.zam.it" site_id="Sky-Primafila" xmltv_id="Sky Primafila">Sky Primafila</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-Suspense" xmltv_id="Sky Cinema Suspense">Sky Cinema Suspense</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Romance" xmltv_id="Sky Romance">Sky Romance</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-Drama" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Comedy" xmltv_id="Sky Comedy">Sky Comedy</channel>
+    <channel update="i" site="tv.zam.it" site_id="Sky-Cinema-Uno-24" xmltv_id="Sky Cinema Uno 24">Sky Cinema Uno 24</channel>
+    <channel update="i" site="tv.zam.it" site_id="Cartoon-Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tv.zam.it" site_id="Eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tv.zam.it" site_id="Eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tv.zam.it" site_id="Discovery-Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="tv.zam.it" site_id="National-Geographic-Channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
-    <channel update="i" site="tv.zam.it" site_id="Discovery-Science" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="tv.zam.it" site_id="History-Channel" xmltv_id="History Channel">History Channel</channel>
-    <channel update="i" site="tv.zam.it" site_id="Nat-Geo-Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="tv.zam.it" site_id="Gambero-Rosso-HD" xmltv_id="Gambero Rosso HD">Gambero Rosso HD</channel>
     <channel update="i" site="tv.zam.it" site_id="Sky-Tg24" xmltv_id="Sky Tg24">Sky Tg24</channel>
+    <channel update="i" site="tv.zam.it" site_id="Class-Cnbc" xmltv_id="Class Cnbc">Class Cnbc</channel>
+    <channel update="i" site="tv.zam.it" site_id="Bike-channel" xmltv_id="Bike channel">Bike channel</channel>
+    <channel update="i" site="tv.zam.it" site_id="San-Marino-RTV" xmltv_id="San Marino RTV">San Marino RTV</channel>
+    <channel update="i" site="tv.zam.it" site_id="Fox-News" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="tv.zam.it" site_id="Cnn" xmltv_id="Cnn">Cnn</channel>
+    <channel update="i" site="tv.zam.it" site_id="Fox-Business" xmltv_id="Fox Business">Fox Business</channel>
+    <channel update="i" site="tv.zam.it" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tv.zam.it" site_id="Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tv.zam.it" site_id="France24" xmltv_id="France24">France24</channel>
+    <channel update="i" site="tv.zam.it" site_id="Aljazeera" xmltv_id="Aljazeera">Aljazeera</channel>
     <channel update="i" site="tv.zam.it" site_id="Dea-Kids" xmltv_id="Dea Kids">Dea Kids</channel>
     <channel update="i" site="tv.zam.it" site_id="Nick-Junior" xmltv_id="Nick Junior">Nick Junior</channel>
     <channel update="i" site="tv.zam.it" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tv.zam.it" site_id="Cartoon-Networkpiu-1" xmltv_id="Cartoon Network+1">Cartoon Network+1</channel>
     <channel update="i" site="tv.zam.it" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.zam.it" site_id="Boomerangpiu-1" xmltv_id="Boomerang+1">Boomerang+1</channel>
     <channel update="i" site="tv.zam.it" site_id="Dea-Junior" xmltv_id="Dea Junior">Dea Junior</channel>
-    <channel update="i" site="tv.zam.it" site_id="Baby-Tv" xmltv_id="Baby Tv">Baby Tv</channel>
+    <channel update="i" site="tv.zam.it" site_id="Radio-Norba-Tv" xmltv_id="Radio Norba Tv">Radio Norba Tv</channel>
   </channels>
 </site>
