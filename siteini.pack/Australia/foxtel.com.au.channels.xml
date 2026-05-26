@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" site="foxtel.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" site="foxtel.com">
   <channels>
     <channel update="i" site="foxtel.com.au" site_id="24576_SKY##SKY/SKY" xmltv_id="ACT-Canberra  Sky News HD">ACT-Canberra  Sky News HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_F1S##F1H/F1S" xmltv_id="NSW-Sydney  Foxtel One HD">NSW-Sydney  Foxtel One HD</channel>
@@ -19,8 +19,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8336_DTA##DTA/DTA" xmltv_id="NSW-Sydney  TLC">NSW-Sydney  TLC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_FOD##FOD/FOD" xmltv_id="NSW-Sydney  LifeStyle Food HD">NSW-Sydney  LifeStyle Food HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_LHO##LHO/LHO" xmltv_id="NSW-Sydney  LifeStyle Home HD">NSW-Sydney  LifeStyle Home HD</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8336_UP2##UP2/UP2" xmltv_id="NSW-Sydney  More Crime HD">NSW-Sydney  More Crime HD</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8336_TRS##TRS/TRS" xmltv_id="NSW-Sydney  Murder, She Wrote">NSW-Sydney  Murder, She Wrote</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8336_TRS##TRS/TRS" xmltv_id="NSW-Sydney  Outlander">NSW-Sydney  Outlander</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_HST##HST/HST" xmltv_id="NSW-Sydney  Real History HD">NSW-Sydney  Real History HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_DIS##DIS/DIS" xmltv_id="NSW-Sydney  Discovery HD">NSW-Sydney  Discovery HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_CIN##CIN/CIN" xmltv_id="NSW-Sydney  Real Crime HD">NSW-Sydney  Real Crime HD</channel>
@@ -30,9 +29,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8336_BXS##BXS/BXS" xmltv_id="NSW-Sydney  BoxSet HD">NSW-Sydney  BoxSet HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_FHT##FHT/FHT" xmltv_id="NSW-Sydney  Fashion TV">NSW-Sydney  Fashion TV</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_SBN##FTA/SBN" xmltv_id="NSW-Sydney  SBS Viceland">NSW-Sydney  SBS Viceland</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8336_AUR##AUR/AUR" xmltv_id="NSW-Sydney  Aurora">NSW-Sydney  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_TVS##TVS/TVS" xmltv_id="NSW-Sydney  TVSN">NSW-Sydney  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8336_EXP##EXP/EXP" xmltv_id="NSW-Sydney  EXPO">NSW-Sydney  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8336_EXP##EXP/EXP" xmltv_id="NSW-Sydney  TVSN2">NSW-Sydney  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_ACC##ACC/ACC" xmltv_id="NSW-Sydney  GOOD">NSW-Sydney  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_DAS##DAS/DAS" xmltv_id="NSW-Sydney  Daystar">NSW-Sydney  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_SLT##SLT/SLT" xmltv_id="NSW-Sydney  SonLife">NSW-Sydney  SonLife</channel>
@@ -88,7 +86,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8336_SUK##SKY/SUK" xmltv_id="NSW-Sydney  Sky News UK HD">NSW-Sydney  Sky News UK HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_FNC##FNC/FNC" xmltv_id="NSW-Sydney  Fox News HD">NSW-Sydney  Fox News HD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_CNN##CNN/CNN" xmltv_id="NSW-Sydney  CNN">NSW-Sydney  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8336_MSN##MSN/MSN" xmltv_id="NSW-Sydney  MSNBC">NSW-Sydney  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8336_MSN##MSN/MSN" xmltv_id="NSW-Sydney  MS NOW">NSW-Sydney  MS NOW</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8336_NNN##NNN/NNN" xmltv_id="NSW-Sydney  NBC NEWS NOW">NSW-Sydney  NBC NEWS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_CNB##CNB/CNB" xmltv_id="NSW-Sydney  CNBC">NSW-Sydney  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_BLM##BLM/BLM" xmltv_id="NSW-Sydney  Bloomberg Television">NSW-Sydney  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8336_SWW##FTA/SWW" xmltv_id="NSW-Sydney  SBS Worldwatch">NSW-Sydney  SBS Worldwatch</channel>
@@ -135,9 +134,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8192_SBN##FTA/SBN" xmltv_id="NSW-Broken Hill  SBS Viceland">NSW-Broken Hill  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_NFN##FTA/NFN" xmltv_id="NSW-Broken Hill  SBS Food">NSW-Broken Hill  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_NIT##FTA/NIT" xmltv_id="NSW-Broken Hill  NITV">NSW-Broken Hill  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8192_AUR##AUR/AUR" xmltv_id="NSW-Broken Hill  Aurora">NSW-Broken Hill  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_TVS##TVS/TVS" xmltv_id="NSW-Broken Hill  TVSN">NSW-Broken Hill  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8192_EXP##EXP/EXP" xmltv_id="NSW-Broken Hill  EXPO">NSW-Broken Hill  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8192_EXP##EXP/EXP" xmltv_id="NSW-Broken Hill  TVSN2">NSW-Broken Hill  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_ACC##ACC/ACC" xmltv_id="NSW-Broken Hill  GOOD">NSW-Broken Hill  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_DAS##DAS/DAS" xmltv_id="NSW-Broken Hill  Daystar">NSW-Broken Hill  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_SLT##SLT/SLT" xmltv_id="NSW-Broken Hill  SonLife">NSW-Broken Hill  SonLife</channel>
@@ -163,7 +161,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8192_FXW##FXW/FXW" xmltv_id="NSW-Broken Hill  SKY Weather">NSW-Broken Hill  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_ASP##ASP/ASP" xmltv_id="NSW-Broken Hill  Sky News Extra">NSW-Broken Hill  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_CNN##CNN/CNN" xmltv_id="NSW-Broken Hill  CNN">NSW-Broken Hill  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8192_MSN##MSN/MSN" xmltv_id="NSW-Broken Hill  MSNBC">NSW-Broken Hill  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8192_MSN##MSN/MSN" xmltv_id="NSW-Broken Hill  MS NOW">NSW-Broken Hill  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_CNB##CNB/CNB" xmltv_id="NSW-Broken Hill  CNBC">NSW-Broken Hill  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_BLM##BLM/BLM" xmltv_id="NSW-Broken Hill  Bloomberg Television">NSW-Broken Hill  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8192_ANS##FTA/ANS" xmltv_id="NSW-Broken Hill  ABC News">NSW-Broken Hill  ABC News</channel>
@@ -231,9 +229,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8289_SBN##FTA/SBN" xmltv_id="NSW-Central Coast  SBS Viceland">NSW-Central Coast  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_NFN##FTA/NFN" xmltv_id="NSW-Central Coast  SBS Food">NSW-Central Coast  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_NIT##FTA/NIT" xmltv_id="NSW-Central Coast  NITV">NSW-Central Coast  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8289_AUR##AUR/AUR" xmltv_id="NSW-Central Coast  Aurora">NSW-Central Coast  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_TVS##TVS/TVS" xmltv_id="NSW-Central Coast  TVSN">NSW-Central Coast  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8289_EXP##EXP/EXP" xmltv_id="NSW-Central Coast  EXPO">NSW-Central Coast  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8289_EXP##EXP/EXP" xmltv_id="NSW-Central Coast  TVSN2">NSW-Central Coast  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_ACC##ACC/ACC" xmltv_id="NSW-Central Coast  GOOD">NSW-Central Coast  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_DAS##DAS/DAS" xmltv_id="NSW-Central Coast  Daystar">NSW-Central Coast  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_SLT##SLT/SLT" xmltv_id="NSW-Central Coast  SonLife">NSW-Central Coast  SonLife</channel>
@@ -259,7 +256,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8289_FXW##FXW/FXW" xmltv_id="NSW-Central Coast  SKY Weather">NSW-Central Coast  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_ASP##ASP/ASP" xmltv_id="NSW-Central Coast  Sky News Extra">NSW-Central Coast  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_CNN##CNN/CNN" xmltv_id="NSW-Central Coast  CNN">NSW-Central Coast  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8289_MSN##MSN/MSN" xmltv_id="NSW-Central Coast  MSNBC">NSW-Central Coast  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8289_MSN##MSN/MSN" xmltv_id="NSW-Central Coast  MS NOW">NSW-Central Coast  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_CNB##CNB/CNB" xmltv_id="NSW-Central Coast  CNBC">NSW-Central Coast  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_BLM##BLM/BLM" xmltv_id="NSW-Central Coast  Bloomberg Television">NSW-Central Coast  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8289_ANS##FTA/ANS" xmltv_id="NSW-Central Coast  ABC News">NSW-Central Coast  ABC News</channel>
@@ -323,9 +320,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8290_SBN##FTA/SBN" xmltv_id="NSW-Central Coast Gosford  SBS Viceland">NSW-Central Coast Gosford  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_NFN##FTA/NFN" xmltv_id="NSW-Central Coast Gosford  SBS Food">NSW-Central Coast Gosford  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_NIT##FTA/NIT" xmltv_id="NSW-Central Coast Gosford  NITV">NSW-Central Coast Gosford  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8290_AUR##AUR/AUR" xmltv_id="NSW-Central Coast Gosford  Aurora">NSW-Central Coast Gosford  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_TVS##TVS/TVS" xmltv_id="NSW-Central Coast Gosford  TVSN">NSW-Central Coast Gosford  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8290_EXP##EXP/EXP" xmltv_id="NSW-Central Coast Gosford  EXPO">NSW-Central Coast Gosford  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8290_EXP##EXP/EXP" xmltv_id="NSW-Central Coast Gosford  TVSN2">NSW-Central Coast Gosford  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_ACC##ACC/ACC" xmltv_id="NSW-Central Coast Gosford  GOOD">NSW-Central Coast Gosford  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_DAS##DAS/DAS" xmltv_id="NSW-Central Coast Gosford  Daystar">NSW-Central Coast Gosford  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_SLT##SLT/SLT" xmltv_id="NSW-Central Coast Gosford  SonLife">NSW-Central Coast Gosford  SonLife</channel>
@@ -351,7 +347,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8290_FXW##FXW/FXW" xmltv_id="NSW-Central Coast Gosford  SKY Weather">NSW-Central Coast Gosford  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_ASP##ASP/ASP" xmltv_id="NSW-Central Coast Gosford  Sky News Extra">NSW-Central Coast Gosford  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_CNN##CNN/CNN" xmltv_id="NSW-Central Coast Gosford  CNN">NSW-Central Coast Gosford  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8290_MSN##MSN/MSN" xmltv_id="NSW-Central Coast Gosford  MSNBC">NSW-Central Coast Gosford  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8290_MSN##MSN/MSN" xmltv_id="NSW-Central Coast Gosford  MS NOW">NSW-Central Coast Gosford  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_CNB##CNB/CNB" xmltv_id="NSW-Central Coast Gosford  CNBC">NSW-Central Coast Gosford  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_BLM##BLM/BLM" xmltv_id="NSW-Central Coast Gosford  Bloomberg Television">NSW-Central Coast Gosford  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8290_ANS##FTA/ANS" xmltv_id="NSW-Central Coast Gosford  ABC News">NSW-Central Coast Gosford  ABC News</channel>
@@ -400,9 +396,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8208_SBN##FTA/SBN" xmltv_id="NSW-Central Tablelands  SBS Viceland">NSW-Central Tablelands  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_NFN##FTA/NFN" xmltv_id="NSW-Central Tablelands  SBS Food">NSW-Central Tablelands  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_NIT##FTA/NIT" xmltv_id="NSW-Central Tablelands  NITV">NSW-Central Tablelands  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8208_AUR##AUR/AUR" xmltv_id="NSW-Central Tablelands  Aurora">NSW-Central Tablelands  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_TVS##TVS/TVS" xmltv_id="NSW-Central Tablelands  TVSN">NSW-Central Tablelands  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8208_EXP##EXP/EXP" xmltv_id="NSW-Central Tablelands  EXPO">NSW-Central Tablelands  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8208_EXP##EXP/EXP" xmltv_id="NSW-Central Tablelands  TVSN2">NSW-Central Tablelands  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_ACC##ACC/ACC" xmltv_id="NSW-Central Tablelands  GOOD">NSW-Central Tablelands  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_DAS##DAS/DAS" xmltv_id="NSW-Central Tablelands  Daystar">NSW-Central Tablelands  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_SLT##SLT/SLT" xmltv_id="NSW-Central Tablelands  SonLife">NSW-Central Tablelands  SonLife</channel>
@@ -428,7 +423,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8208_FXW##FXW/FXW" xmltv_id="NSW-Central Tablelands  SKY Weather">NSW-Central Tablelands  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_ASP##ASP/ASP" xmltv_id="NSW-Central Tablelands  Sky News Extra">NSW-Central Tablelands  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_CNN##CNN/CNN" xmltv_id="NSW-Central Tablelands  CNN">NSW-Central Tablelands  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8208_MSN##MSN/MSN" xmltv_id="NSW-Central Tablelands  MSNBC">NSW-Central Tablelands  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8208_MSN##MSN/MSN" xmltv_id="NSW-Central Tablelands  MS NOW">NSW-Central Tablelands  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_CNB##CNB/CNB" xmltv_id="NSW-Central Tablelands  CNBC">NSW-Central Tablelands  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_BLM##BLM/BLM" xmltv_id="NSW-Central Tablelands  Bloomberg Television">NSW-Central Tablelands  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8208_ANS##FTA/ANS" xmltv_id="NSW-Central Tablelands  ABC News">NSW-Central Tablelands  ABC News</channel>
@@ -478,9 +473,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8224_SBN##FTA/SBN" xmltv_id="NSW-Grafton Kempsey  SBS Viceland">NSW-Grafton Kempsey  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_NFN##FTA/NFN" xmltv_id="NSW-Grafton Kempsey  SBS Food">NSW-Grafton Kempsey  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_NIT##FTA/NIT" xmltv_id="NSW-Grafton Kempsey  NITV">NSW-Grafton Kempsey  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8224_AUR##AUR/AUR" xmltv_id="NSW-Grafton Kempsey  Aurora">NSW-Grafton Kempsey  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_TVS##TVS/TVS" xmltv_id="NSW-Grafton Kempsey  TVSN">NSW-Grafton Kempsey  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8224_EXP##EXP/EXP" xmltv_id="NSW-Grafton Kempsey  EXPO">NSW-Grafton Kempsey  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8224_EXP##EXP/EXP" xmltv_id="NSW-Grafton Kempsey  TVSN2">NSW-Grafton Kempsey  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_ACC##ACC/ACC" xmltv_id="NSW-Grafton Kempsey  GOOD">NSW-Grafton Kempsey  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_DAS##DAS/DAS" xmltv_id="NSW-Grafton Kempsey  Daystar">NSW-Grafton Kempsey  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_SLT##SLT/SLT" xmltv_id="NSW-Grafton Kempsey  SonLife">NSW-Grafton Kempsey  SonLife</channel>
@@ -506,7 +500,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8224_FXW##FXW/FXW" xmltv_id="NSW-Grafton Kempsey  SKY Weather">NSW-Grafton Kempsey  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_ASP##ASP/ASP" xmltv_id="NSW-Grafton Kempsey  Sky News Extra">NSW-Grafton Kempsey  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_CNN##CNN/CNN" xmltv_id="NSW-Grafton Kempsey  CNN">NSW-Grafton Kempsey  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8224_MSN##MSN/MSN" xmltv_id="NSW-Grafton Kempsey  MSNBC">NSW-Grafton Kempsey  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8224_MSN##MSN/MSN" xmltv_id="NSW-Grafton Kempsey  MS NOW">NSW-Grafton Kempsey  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_CNB##CNB/CNB" xmltv_id="NSW-Grafton Kempsey  CNBC">NSW-Grafton Kempsey  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_BLM##BLM/BLM" xmltv_id="NSW-Grafton Kempsey  Bloomberg Television">NSW-Grafton Kempsey  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8224_ANS##FTA/ANS" xmltv_id="NSW-Grafton Kempsey  ABC News">NSW-Grafton Kempsey  ABC News</channel>
@@ -555,9 +549,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8240_SBN##FTA/SBN" xmltv_id="NSW-Illawarra  SBS Viceland">NSW-Illawarra  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_NFN##FTA/NFN" xmltv_id="NSW-Illawarra  SBS Food">NSW-Illawarra  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_NIT##FTA/NIT" xmltv_id="NSW-Illawarra  NITV">NSW-Illawarra  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8240_AUR##AUR/AUR" xmltv_id="NSW-Illawarra  Aurora">NSW-Illawarra  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_TVS##TVS/TVS" xmltv_id="NSW-Illawarra  TVSN">NSW-Illawarra  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8240_EXP##EXP/EXP" xmltv_id="NSW-Illawarra  EXPO">NSW-Illawarra  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8240_EXP##EXP/EXP" xmltv_id="NSW-Illawarra  TVSN2">NSW-Illawarra  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_ACC##ACC/ACC" xmltv_id="NSW-Illawarra  GOOD">NSW-Illawarra  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_DAS##DAS/DAS" xmltv_id="NSW-Illawarra  Daystar">NSW-Illawarra  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_SLT##SLT/SLT" xmltv_id="NSW-Illawarra  SonLife">NSW-Illawarra  SonLife</channel>
@@ -583,7 +576,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8240_FXW##FXW/FXW" xmltv_id="NSW-Illawarra  SKY Weather">NSW-Illawarra  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_ASP##ASP/ASP" xmltv_id="NSW-Illawarra  Sky News Extra">NSW-Illawarra  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_CNN##CNN/CNN" xmltv_id="NSW-Illawarra  CNN">NSW-Illawarra  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8240_MSN##MSN/MSN" xmltv_id="NSW-Illawarra  MSNBC">NSW-Illawarra  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8240_MSN##MSN/MSN" xmltv_id="NSW-Illawarra  MS NOW">NSW-Illawarra  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_CNB##CNB/CNB" xmltv_id="NSW-Illawarra  CNBC">NSW-Illawarra  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_BLM##BLM/BLM" xmltv_id="NSW-Illawarra  Bloomberg Television">NSW-Illawarra  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8240_ANS##FTA/ANS" xmltv_id="NSW-Illawarra  ABC News">NSW-Illawarra  ABC News</channel>
@@ -633,9 +626,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8256_SBN##FTA/SBN" xmltv_id="NSW-Manning River  SBS Viceland">NSW-Manning River  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_NFN##FTA/NFN" xmltv_id="NSW-Manning River  SBS Food">NSW-Manning River  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_NIT##FTA/NIT" xmltv_id="NSW-Manning River  NITV">NSW-Manning River  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8256_AUR##AUR/AUR" xmltv_id="NSW-Manning River  Aurora">NSW-Manning River  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_TVS##TVS/TVS" xmltv_id="NSW-Manning River  TVSN">NSW-Manning River  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8256_EXP##EXP/EXP" xmltv_id="NSW-Manning River  EXPO">NSW-Manning River  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8256_EXP##EXP/EXP" xmltv_id="NSW-Manning River  TVSN2">NSW-Manning River  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_ACC##ACC/ACC" xmltv_id="NSW-Manning River  GOOD">NSW-Manning River  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_DAS##DAS/DAS" xmltv_id="NSW-Manning River  Daystar">NSW-Manning River  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_SLT##SLT/SLT" xmltv_id="NSW-Manning River  SonLife">NSW-Manning River  SonLife</channel>
@@ -661,7 +653,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8256_FXW##FXW/FXW" xmltv_id="NSW-Manning River  SKY Weather">NSW-Manning River  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_ASP##ASP/ASP" xmltv_id="NSW-Manning River  Sky News Extra">NSW-Manning River  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_CNN##CNN/CNN" xmltv_id="NSW-Manning River  CNN">NSW-Manning River  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8256_MSN##MSN/MSN" xmltv_id="NSW-Manning River  MSNBC">NSW-Manning River  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8256_MSN##MSN/MSN" xmltv_id="NSW-Manning River  MS NOW">NSW-Manning River  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_CNB##CNB/CNB" xmltv_id="NSW-Manning River  CNBC">NSW-Manning River  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_BLM##BLM/BLM" xmltv_id="NSW-Manning River  Bloomberg Television">NSW-Manning River  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8256_ANS##FTA/ANS" xmltv_id="NSW-Manning River  ABC News">NSW-Manning River  ABC News</channel>
@@ -711,9 +703,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8272_SBN##FTA/SBN" xmltv_id="NSW-Murrumbidgee Irrigation Area  SBS Viceland">NSW-Murrumbidgee Irrigation Area  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_NFN##FTA/NFN" xmltv_id="NSW-Murrumbidgee Irrigation Area  SBS Food">NSW-Murrumbidgee Irrigation Area  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_NIT##FTA/NIT" xmltv_id="NSW-Murrumbidgee Irrigation Area  NITV">NSW-Murrumbidgee Irrigation Area  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8272_AUR##AUR/AUR" xmltv_id="NSW-Murrumbidgee Irrigation Area  Aurora">NSW-Murrumbidgee Irrigation Area  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_TVS##TVS/TVS" xmltv_id="NSW-Murrumbidgee Irrigation Area  TVSN">NSW-Murrumbidgee Irrigation Area  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8272_EXP##EXP/EXP" xmltv_id="NSW-Murrumbidgee Irrigation Area  EXPO">NSW-Murrumbidgee Irrigation Area  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8272_EXP##EXP/EXP" xmltv_id="NSW-Murrumbidgee Irrigation Area  TVSN2">NSW-Murrumbidgee Irrigation Area  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_ACC##ACC/ACC" xmltv_id="NSW-Murrumbidgee Irrigation Area  GOOD">NSW-Murrumbidgee Irrigation Area  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_DAS##DAS/DAS" xmltv_id="NSW-Murrumbidgee Irrigation Area  Daystar">NSW-Murrumbidgee Irrigation Area  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_SLT##SLT/SLT" xmltv_id="NSW-Murrumbidgee Irrigation Area  SonLife">NSW-Murrumbidgee Irrigation Area  SonLife</channel>
@@ -739,7 +730,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8272_FXW##FXW/FXW" xmltv_id="NSW-Murrumbidgee Irrigation Area  SKY Weather">NSW-Murrumbidgee Irrigation Area  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_ASP##ASP/ASP" xmltv_id="NSW-Murrumbidgee Irrigation Area  Sky News Extra">NSW-Murrumbidgee Irrigation Area  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_CNN##CNN/CNN" xmltv_id="NSW-Murrumbidgee Irrigation Area  CNN">NSW-Murrumbidgee Irrigation Area  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8272_MSN##MSN/MSN" xmltv_id="NSW-Murrumbidgee Irrigation Area  MSNBC">NSW-Murrumbidgee Irrigation Area  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8272_MSN##MSN/MSN" xmltv_id="NSW-Murrumbidgee Irrigation Area  MS NOW">NSW-Murrumbidgee Irrigation Area  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_CNB##CNB/CNB" xmltv_id="NSW-Murrumbidgee Irrigation Area  CNBC">NSW-Murrumbidgee Irrigation Area  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_BLM##BLM/BLM" xmltv_id="NSW-Murrumbidgee Irrigation Area  Bloomberg Television">NSW-Murrumbidgee Irrigation Area  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8272_ANS##FTA/ANS" xmltv_id="NSW-Murrumbidgee Irrigation Area  ABC News">NSW-Murrumbidgee Irrigation Area  ABC News</channel>
@@ -789,9 +780,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8288_SBN##FTA/SBN" xmltv_id="NSW-Newcastle  SBS Viceland">NSW-Newcastle  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_NFN##FTA/NFN" xmltv_id="NSW-Newcastle  SBS Food">NSW-Newcastle  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_NIT##FTA/NIT" xmltv_id="NSW-Newcastle  NITV">NSW-Newcastle  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8288_AUR##AUR/AUR" xmltv_id="NSW-Newcastle  Aurora">NSW-Newcastle  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_TVS##TVS/TVS" xmltv_id="NSW-Newcastle  TVSN">NSW-Newcastle  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8288_EXP##EXP/EXP" xmltv_id="NSW-Newcastle  EXPO">NSW-Newcastle  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8288_EXP##EXP/EXP" xmltv_id="NSW-Newcastle  TVSN2">NSW-Newcastle  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_ACC##ACC/ACC" xmltv_id="NSW-Newcastle  GOOD">NSW-Newcastle  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_DAS##DAS/DAS" xmltv_id="NSW-Newcastle  Daystar">NSW-Newcastle  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_SLT##SLT/SLT" xmltv_id="NSW-Newcastle  SonLife">NSW-Newcastle  SonLife</channel>
@@ -817,7 +807,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8288_FXW##FXW/FXW" xmltv_id="NSW-Newcastle  SKY Weather">NSW-Newcastle  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_ASP##ASP/ASP" xmltv_id="NSW-Newcastle  Sky News Extra">NSW-Newcastle  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_CNN##CNN/CNN" xmltv_id="NSW-Newcastle  CNN">NSW-Newcastle  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8288_MSN##MSN/MSN" xmltv_id="NSW-Newcastle  MSNBC">NSW-Newcastle  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8288_MSN##MSN/MSN" xmltv_id="NSW-Newcastle  MS NOW">NSW-Newcastle  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_CNB##CNB/CNB" xmltv_id="NSW-Newcastle  CNBC">NSW-Newcastle  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_BLM##BLM/BLM" xmltv_id="NSW-Newcastle  Bloomberg Television">NSW-Newcastle  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8288_ANS##FTA/ANS" xmltv_id="NSW-Newcastle  ABC News">NSW-Newcastle  ABC News</channel>
@@ -867,9 +857,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8304_SBN##FTA/SBN" xmltv_id="NSW-Richmond Tweed  SBS Viceland">NSW-Richmond Tweed  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_NFN##FTA/NFN" xmltv_id="NSW-Richmond Tweed  SBS Food">NSW-Richmond Tweed  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_NIT##FTA/NIT" xmltv_id="NSW-Richmond Tweed  NITV">NSW-Richmond Tweed  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8304_AUR##AUR/AUR" xmltv_id="NSW-Richmond Tweed  Aurora">NSW-Richmond Tweed  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_TVS##TVS/TVS" xmltv_id="NSW-Richmond Tweed  TVSN">NSW-Richmond Tweed  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8304_EXP##EXP/EXP" xmltv_id="NSW-Richmond Tweed  EXPO">NSW-Richmond Tweed  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8304_EXP##EXP/EXP" xmltv_id="NSW-Richmond Tweed  TVSN2">NSW-Richmond Tweed  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_ACC##ACC/ACC" xmltv_id="NSW-Richmond Tweed  GOOD">NSW-Richmond Tweed  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_DAS##DAS/DAS" xmltv_id="NSW-Richmond Tweed  Daystar">NSW-Richmond Tweed  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_SLT##SLT/SLT" xmltv_id="NSW-Richmond Tweed  SonLife">NSW-Richmond Tweed  SonLife</channel>
@@ -895,7 +884,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8304_FXW##FXW/FXW" xmltv_id="NSW-Richmond Tweed  SKY Weather">NSW-Richmond Tweed  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_ASP##ASP/ASP" xmltv_id="NSW-Richmond Tweed  Sky News Extra">NSW-Richmond Tweed  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_CNN##CNN/CNN" xmltv_id="NSW-Richmond Tweed  CNN">NSW-Richmond Tweed  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8304_MSN##MSN/MSN" xmltv_id="NSW-Richmond Tweed  MSNBC">NSW-Richmond Tweed  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8304_MSN##MSN/MSN" xmltv_id="NSW-Richmond Tweed  MS NOW">NSW-Richmond Tweed  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_CNB##CNB/CNB" xmltv_id="NSW-Richmond Tweed  CNBC">NSW-Richmond Tweed  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_BLM##BLM/BLM" xmltv_id="NSW-Richmond Tweed  Bloomberg Television">NSW-Richmond Tweed  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8304_ANS##FTA/ANS" xmltv_id="NSW-Richmond Tweed  ABC News">NSW-Richmond Tweed  ABC News</channel>
@@ -944,9 +933,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8320_SBN##FTA/SBN" xmltv_id="NSW-SW Slopes E Riverina  SBS Viceland">NSW-SW Slopes E Riverina  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_NFN##FTA/NFN" xmltv_id="NSW-SW Slopes E Riverina  SBS Food">NSW-SW Slopes E Riverina  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_NIT##FTA/NIT" xmltv_id="NSW-SW Slopes E Riverina  NITV">NSW-SW Slopes E Riverina  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8320_AUR##AUR/AUR" xmltv_id="NSW-SW Slopes E Riverina  Aurora">NSW-SW Slopes E Riverina  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_TVS##TVS/TVS" xmltv_id="NSW-SW Slopes E Riverina  TVSN">NSW-SW Slopes E Riverina  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8320_EXP##EXP/EXP" xmltv_id="NSW-SW Slopes E Riverina  EXPO">NSW-SW Slopes E Riverina  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8320_EXP##EXP/EXP" xmltv_id="NSW-SW Slopes E Riverina  TVSN2">NSW-SW Slopes E Riverina  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_ACC##ACC/ACC" xmltv_id="NSW-SW Slopes E Riverina  GOOD">NSW-SW Slopes E Riverina  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_DAS##DAS/DAS" xmltv_id="NSW-SW Slopes E Riverina  Daystar">NSW-SW Slopes E Riverina  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_SLT##SLT/SLT" xmltv_id="NSW-SW Slopes E Riverina  SonLife">NSW-SW Slopes E Riverina  SonLife</channel>
@@ -972,7 +960,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8320_FXW##FXW/FXW" xmltv_id="NSW-SW Slopes E Riverina  SKY Weather">NSW-SW Slopes E Riverina  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_ASP##ASP/ASP" xmltv_id="NSW-SW Slopes E Riverina  Sky News Extra">NSW-SW Slopes E Riverina  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_CNN##CNN/CNN" xmltv_id="NSW-SW Slopes E Riverina  CNN">NSW-SW Slopes E Riverina  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8320_MSN##MSN/MSN" xmltv_id="NSW-SW Slopes E Riverina  MSNBC">NSW-SW Slopes E Riverina  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8320_MSN##MSN/MSN" xmltv_id="NSW-SW Slopes E Riverina  MS NOW">NSW-SW Slopes E Riverina  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_CNB##CNB/CNB" xmltv_id="NSW-SW Slopes E Riverina  CNBC">NSW-SW Slopes E Riverina  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_BLM##BLM/BLM" xmltv_id="NSW-SW Slopes E Riverina  Bloomberg Television">NSW-SW Slopes E Riverina  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8320_ANS##FTA/ANS" xmltv_id="NSW-SW Slopes E Riverina  ABC News">NSW-SW Slopes E Riverina  ABC News</channel>
@@ -1021,9 +1009,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8241_SBN##FTA/SBN" xmltv_id="NSW-South Coast  SBS Viceland">NSW-South Coast  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_NFN##FTA/NFN" xmltv_id="NSW-South Coast  SBS Food">NSW-South Coast  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_NIT##FTA/NIT" xmltv_id="NSW-South Coast  NITV">NSW-South Coast  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8241_AUR##AUR/AUR" xmltv_id="NSW-South Coast  Aurora">NSW-South Coast  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_TVS##TVS/TVS" xmltv_id="NSW-South Coast  TVSN">NSW-South Coast  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8241_EXP##EXP/EXP" xmltv_id="NSW-South Coast  EXPO">NSW-South Coast  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8241_EXP##EXP/EXP" xmltv_id="NSW-South Coast  TVSN2">NSW-South Coast  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_ACC##ACC/ACC" xmltv_id="NSW-South Coast  GOOD">NSW-South Coast  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_DAS##DAS/DAS" xmltv_id="NSW-South Coast  Daystar">NSW-South Coast  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_SLT##SLT/SLT" xmltv_id="NSW-South Coast  SonLife">NSW-South Coast  SonLife</channel>
@@ -1049,7 +1036,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8241_FXW##FXW/FXW" xmltv_id="NSW-South Coast  SKY Weather">NSW-South Coast  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_ASP##ASP/ASP" xmltv_id="NSW-South Coast  Sky News Extra">NSW-South Coast  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_CNN##CNN/CNN" xmltv_id="NSW-South Coast  CNN">NSW-South Coast  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8241_MSN##MSN/MSN" xmltv_id="NSW-South Coast  MSNBC">NSW-South Coast  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8241_MSN##MSN/MSN" xmltv_id="NSW-South Coast  MS NOW">NSW-South Coast  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_CNB##CNB/CNB" xmltv_id="NSW-South Coast  CNBC">NSW-South Coast  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_BLM##BLM/BLM" xmltv_id="NSW-South Coast  Bloomberg Television">NSW-South Coast  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8241_ANS##FTA/ANS" xmltv_id="NSW-South Coast  ABC News">NSW-South Coast  ABC News</channel>
@@ -1099,9 +1086,8 @@
     <channel update="i" site="foxtel.com.au" site_id="8352_SBN##FTA/SBN" xmltv_id="NSW-Upper Namoi  SBS Viceland">NSW-Upper Namoi  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_NFN##FTA/NFN" xmltv_id="NSW-Upper Namoi  SBS Food">NSW-Upper Namoi  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_NIT##FTA/NIT" xmltv_id="NSW-Upper Namoi  NITV">NSW-Upper Namoi  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8352_AUR##AUR/AUR" xmltv_id="NSW-Upper Namoi  Aurora">NSW-Upper Namoi  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_TVS##TVS/TVS" xmltv_id="NSW-Upper Namoi  TVSN">NSW-Upper Namoi  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8352_EXP##EXP/EXP" xmltv_id="NSW-Upper Namoi  EXPO">NSW-Upper Namoi  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8352_EXP##EXP/EXP" xmltv_id="NSW-Upper Namoi  TVSN2">NSW-Upper Namoi  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_ACC##ACC/ACC" xmltv_id="NSW-Upper Namoi  GOOD">NSW-Upper Namoi  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_DAS##DAS/DAS" xmltv_id="NSW-Upper Namoi  Daystar">NSW-Upper Namoi  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_SLT##SLT/SLT" xmltv_id="NSW-Upper Namoi  SonLife">NSW-Upper Namoi  SonLife</channel>
@@ -1127,7 +1113,7 @@
     <channel update="i" site="foxtel.com.au" site_id="8352_FXW##FXW/FXW" xmltv_id="NSW-Upper Namoi  SKY Weather">NSW-Upper Namoi  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_ASP##ASP/ASP" xmltv_id="NSW-Upper Namoi  Sky News Extra">NSW-Upper Namoi  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_CNN##CNN/CNN" xmltv_id="NSW-Upper Namoi  CNN">NSW-Upper Namoi  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="8352_MSN##MSN/MSN" xmltv_id="NSW-Upper Namoi  MSNBC">NSW-Upper Namoi  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="8352_MSN##MSN/MSN" xmltv_id="NSW-Upper Namoi  MS NOW">NSW-Upper Namoi  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_CNB##CNB/CNB" xmltv_id="NSW-Upper Namoi  CNBC">NSW-Upper Namoi  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_BLM##BLM/BLM" xmltv_id="NSW-Upper Namoi  Bloomberg Television">NSW-Upper Namoi  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="8352_ANS##FTA/ANS" xmltv_id="NSW-Upper Namoi  ABC News">NSW-Upper Namoi  ABC News</channel>
@@ -1175,9 +1161,8 @@
     <channel update="i" site="foxtel.com.au" site_id="32784_SBN##FTA/SBN" xmltv_id="NT-Darwin  SBS Viceland">NT-Darwin  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_NFN##FTA/NFN" xmltv_id="NT-Darwin  SBS Food">NT-Darwin  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_NIT##FTA/NIT" xmltv_id="NT-Darwin  NITV">NT-Darwin  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32784_AUR##AUR/AUR" xmltv_id="NT-Darwin  Aurora">NT-Darwin  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_TVS##TVS/TVS" xmltv_id="NT-Darwin  TVSN">NT-Darwin  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32784_EXP##EXP/EXP" xmltv_id="NT-Darwin  EXPO">NT-Darwin  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32784_EXP##EXP/EXP" xmltv_id="NT-Darwin  TVSN2">NT-Darwin  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_ACC##ACC/ACC" xmltv_id="NT-Darwin  GOOD">NT-Darwin  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_DAS##DAS/DAS" xmltv_id="NT-Darwin  Daystar">NT-Darwin  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_SLT##SLT/SLT" xmltv_id="NT-Darwin  SonLife">NT-Darwin  SonLife</channel>
@@ -1203,7 +1188,7 @@
     <channel update="i" site="foxtel.com.au" site_id="32784_FXW##FXW/FXW" xmltv_id="NT-Darwin  SKY Weather">NT-Darwin  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_ASP##ASP/ASP" xmltv_id="NT-Darwin  Sky News Extra">NT-Darwin  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_CNN##CNN/CNN" xmltv_id="NT-Darwin  CNN">NT-Darwin  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32784_MSN##MSN/MSN" xmltv_id="NT-Darwin  MSNBC">NT-Darwin  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32784_MSN##MSN/MSN" xmltv_id="NT-Darwin  MS NOW">NT-Darwin  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_CNB##CNB/CNB" xmltv_id="NT-Darwin  CNBC">NT-Darwin  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_BLM##BLM/BLM" xmltv_id="NT-Darwin  Bloomberg Television">NT-Darwin  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="32784_ANS##FTA/ANS" xmltv_id="NT-Darwin  ABC News">NT-Darwin  ABC News</channel>
@@ -1248,9 +1233,8 @@
     <channel update="i" site="foxtel.com.au" site_id="32768_SBN##FTA/SBN" xmltv_id="NT-Alice Springs  SBS Viceland">NT-Alice Springs  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_NFN##FTA/NFN" xmltv_id="NT-Alice Springs  SBS Food">NT-Alice Springs  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_NIT##FTA/NIT" xmltv_id="NT-Alice Springs  NITV">NT-Alice Springs  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32768_AUR##AUR/AUR" xmltv_id="NT-Alice Springs  Aurora">NT-Alice Springs  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_TVS##TVS/TVS" xmltv_id="NT-Alice Springs  TVSN">NT-Alice Springs  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32768_EXP##EXP/EXP" xmltv_id="NT-Alice Springs  EXPO">NT-Alice Springs  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32768_EXP##EXP/EXP" xmltv_id="NT-Alice Springs  TVSN2">NT-Alice Springs  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_ACC##ACC/ACC" xmltv_id="NT-Alice Springs  GOOD">NT-Alice Springs  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_DAS##DAS/DAS" xmltv_id="NT-Alice Springs  Daystar">NT-Alice Springs  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_SLT##SLT/SLT" xmltv_id="NT-Alice Springs  SonLife">NT-Alice Springs  SonLife</channel>
@@ -1276,7 +1260,7 @@
     <channel update="i" site="foxtel.com.au" site_id="32768_FXW##FXW/FXW" xmltv_id="NT-Alice Springs  SKY Weather">NT-Alice Springs  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_ASP##ASP/ASP" xmltv_id="NT-Alice Springs  Sky News Extra">NT-Alice Springs  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_CNN##CNN/CNN" xmltv_id="NT-Alice Springs  CNN">NT-Alice Springs  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32768_MSN##MSN/MSN" xmltv_id="NT-Alice Springs  MSNBC">NT-Alice Springs  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32768_MSN##MSN/MSN" xmltv_id="NT-Alice Springs  MS NOW">NT-Alice Springs  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_CNB##CNB/CNB" xmltv_id="NT-Alice Springs  CNBC">NT-Alice Springs  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_BLM##BLM/BLM" xmltv_id="NT-Alice Springs  Bloomberg Television">NT-Alice Springs  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="32768_ANS##FTA/ANS" xmltv_id="NT-Alice Springs  ABC News">NT-Alice Springs  ABC News</channel>
@@ -1312,9 +1296,8 @@
     <channel update="i" site="foxtel.com.au" site_id="32800_SBN##FTA/SBN" xmltv_id="NT-Katherine  SBS Viceland">NT-Katherine  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_NFN##FTA/NFN" xmltv_id="NT-Katherine  SBS Food">NT-Katherine  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_NIT##FTA/NIT" xmltv_id="NT-Katherine  NITV">NT-Katherine  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32800_AUR##AUR/AUR" xmltv_id="NT-Katherine  Aurora">NT-Katherine  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_TVS##TVS/TVS" xmltv_id="NT-Katherine  TVSN">NT-Katherine  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32800_EXP##EXP/EXP" xmltv_id="NT-Katherine  EXPO">NT-Katherine  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32800_EXP##EXP/EXP" xmltv_id="NT-Katherine  TVSN2">NT-Katherine  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_ACC##ACC/ACC" xmltv_id="NT-Katherine  GOOD">NT-Katherine  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_DAS##DAS/DAS" xmltv_id="NT-Katherine  Daystar">NT-Katherine  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_SLT##SLT/SLT" xmltv_id="NT-Katherine  SonLife">NT-Katherine  SonLife</channel>
@@ -1340,7 +1323,7 @@
     <channel update="i" site="foxtel.com.au" site_id="32800_FXW##FXW/FXW" xmltv_id="NT-Katherine  SKY Weather">NT-Katherine  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_ASP##ASP/ASP" xmltv_id="NT-Katherine  Sky News Extra">NT-Katherine  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_CNN##CNN/CNN" xmltv_id="NT-Katherine  CNN">NT-Katherine  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="32800_MSN##MSN/MSN" xmltv_id="NT-Katherine  MSNBC">NT-Katherine  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="32800_MSN##MSN/MSN" xmltv_id="NT-Katherine  MS NOW">NT-Katherine  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_CNB##CNB/CNB" xmltv_id="NT-Katherine  CNBC">NT-Katherine  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_BLM##BLM/BLM" xmltv_id="NT-Katherine  Bloomberg Television">NT-Katherine  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="32800_ANS##FTA/ANS" xmltv_id="NT-Katherine  ABC News">NT-Katherine  ABC News</channel>
@@ -1392,9 +1375,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16400_SBN##FTA/SBN" xmltv_id="QLD-Cairns  SBS Viceland">QLD-Cairns  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_NFN##FTA/NFN" xmltv_id="QLD-Cairns  SBS Food">QLD-Cairns  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_NIT##FTA/NIT" xmltv_id="QLD-Cairns  NITV">QLD-Cairns  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16400_AUR##AUR/AUR" xmltv_id="QLD-Cairns  Aurora">QLD-Cairns  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_TVS##TVS/TVS" xmltv_id="QLD-Cairns  TVSN">QLD-Cairns  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16400_EXP##EXP/EXP" xmltv_id="QLD-Cairns  EXPO">QLD-Cairns  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16400_EXP##EXP/EXP" xmltv_id="QLD-Cairns  TVSN2">QLD-Cairns  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_ACC##ACC/ACC" xmltv_id="QLD-Cairns  GOOD">QLD-Cairns  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_DAS##DAS/DAS" xmltv_id="QLD-Cairns  Daystar">QLD-Cairns  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_SLT##SLT/SLT" xmltv_id="QLD-Cairns  SonLife">QLD-Cairns  SonLife</channel>
@@ -1420,7 +1402,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16400_FXW##FXW/FXW" xmltv_id="QLD-Cairns  SKY Weather">QLD-Cairns  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_ASP##ASP/ASP" xmltv_id="QLD-Cairns  Sky News Extra">QLD-Cairns  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_CNN##CNN/CNN" xmltv_id="QLD-Cairns  CNN">QLD-Cairns  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16400_MSN##MSN/MSN" xmltv_id="QLD-Cairns  MSNBC">QLD-Cairns  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16400_MSN##MSN/MSN" xmltv_id="QLD-Cairns  MS NOW">QLD-Cairns  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_CNB##CNB/CNB" xmltv_id="QLD-Cairns  CNBC">QLD-Cairns  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_BLM##BLM/BLM" xmltv_id="QLD-Cairns  Bloomberg Television">QLD-Cairns  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16400_ANS##FTA/ANS" xmltv_id="QLD-Cairns  ABC News">QLD-Cairns  ABC News</channel>
@@ -1469,9 +1451,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16416_SBN##FTA/SBN" xmltv_id="QLD-Darling Downs  SBS Viceland">QLD-Darling Downs  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_NFN##FTA/NFN" xmltv_id="QLD-Darling Downs  SBS Food">QLD-Darling Downs  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_NIT##FTA/NIT" xmltv_id="QLD-Darling Downs  NITV">QLD-Darling Downs  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16416_AUR##AUR/AUR" xmltv_id="QLD-Darling Downs  Aurora">QLD-Darling Downs  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_TVS##TVS/TVS" xmltv_id="QLD-Darling Downs  TVSN">QLD-Darling Downs  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16416_EXP##EXP/EXP" xmltv_id="QLD-Darling Downs  EXPO">QLD-Darling Downs  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16416_EXP##EXP/EXP" xmltv_id="QLD-Darling Downs  TVSN2">QLD-Darling Downs  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_ACC##ACC/ACC" xmltv_id="QLD-Darling Downs  GOOD">QLD-Darling Downs  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_DAS##DAS/DAS" xmltv_id="QLD-Darling Downs  Daystar">QLD-Darling Downs  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_SLT##SLT/SLT" xmltv_id="QLD-Darling Downs  SonLife">QLD-Darling Downs  SonLife</channel>
@@ -1497,7 +1478,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16416_FXW##FXW/FXW" xmltv_id="QLD-Darling Downs  SKY Weather">QLD-Darling Downs  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_ASP##ASP/ASP" xmltv_id="QLD-Darling Downs  Sky News Extra">QLD-Darling Downs  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_CNN##CNN/CNN" xmltv_id="QLD-Darling Downs  CNN">QLD-Darling Downs  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16416_MSN##MSN/MSN" xmltv_id="QLD-Darling Downs  MSNBC">QLD-Darling Downs  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16416_MSN##MSN/MSN" xmltv_id="QLD-Darling Downs  MS NOW">QLD-Darling Downs  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_CNB##CNB/CNB" xmltv_id="QLD-Darling Downs  CNBC">QLD-Darling Downs  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_BLM##BLM/BLM" xmltv_id="QLD-Darling Downs  Bloomberg Television">QLD-Darling Downs  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16416_ANS##FTA/ANS" xmltv_id="QLD-Darling Downs  ABC News">QLD-Darling Downs  ABC News</channel>
@@ -1564,9 +1545,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16432_SBN##FTA/SBN" xmltv_id="QLD-Gold Coast  SBS Viceland">QLD-Gold Coast  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_NFN##FTA/NFN" xmltv_id="QLD-Gold Coast  SBS Food">QLD-Gold Coast  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_NIT##FTA/NIT" xmltv_id="QLD-Gold Coast  NITV">QLD-Gold Coast  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16432_AUR##AUR/AUR" xmltv_id="QLD-Gold Coast  Aurora">QLD-Gold Coast  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_TVS##TVS/TVS" xmltv_id="QLD-Gold Coast  TVSN">QLD-Gold Coast  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16432_EXP##EXP/EXP" xmltv_id="QLD-Gold Coast  EXPO">QLD-Gold Coast  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16432_EXP##EXP/EXP" xmltv_id="QLD-Gold Coast  TVSN2">QLD-Gold Coast  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_ACC##ACC/ACC" xmltv_id="QLD-Gold Coast  GOOD">QLD-Gold Coast  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_DAS##DAS/DAS" xmltv_id="QLD-Gold Coast  Daystar">QLD-Gold Coast  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_SLT##SLT/SLT" xmltv_id="QLD-Gold Coast  SonLife">QLD-Gold Coast  SonLife</channel>
@@ -1592,7 +1572,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16432_FXW##FXW/FXW" xmltv_id="QLD-Gold Coast  SKY Weather">QLD-Gold Coast  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_ASP##ASP/ASP" xmltv_id="QLD-Gold Coast  Sky News Extra">QLD-Gold Coast  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_CNN##CNN/CNN" xmltv_id="QLD-Gold Coast  CNN">QLD-Gold Coast  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16432_MSN##MSN/MSN" xmltv_id="QLD-Gold Coast  MSNBC">QLD-Gold Coast  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16432_MSN##MSN/MSN" xmltv_id="QLD-Gold Coast  MS NOW">QLD-Gold Coast  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_CNB##CNB/CNB" xmltv_id="QLD-Gold Coast  CNBC">QLD-Gold Coast  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_BLM##BLM/BLM" xmltv_id="QLD-Gold Coast  Bloomberg Television">QLD-Gold Coast  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16432_ANS##FTA/ANS" xmltv_id="QLD-Gold Coast  ABC News">QLD-Gold Coast  ABC News</channel>
@@ -1638,9 +1618,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16528_SBN##FTA/SBN" xmltv_id="QLD-MT Isa  SBS Viceland">QLD-MT Isa  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_NFN##FTA/NFN" xmltv_id="QLD-MT Isa  SBS Food">QLD-MT Isa  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_NIT##FTA/NIT" xmltv_id="QLD-MT Isa  NITV">QLD-MT Isa  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16528_AUR##AUR/AUR" xmltv_id="QLD-MT Isa  Aurora">QLD-MT Isa  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_TVS##TVS/TVS" xmltv_id="QLD-MT Isa  TVSN">QLD-MT Isa  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16528_EXP##EXP/EXP" xmltv_id="QLD-MT Isa  EXPO">QLD-MT Isa  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16528_EXP##EXP/EXP" xmltv_id="QLD-MT Isa  TVSN2">QLD-MT Isa  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_ACC##ACC/ACC" xmltv_id="QLD-MT Isa  GOOD">QLD-MT Isa  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_DAS##DAS/DAS" xmltv_id="QLD-MT Isa  Daystar">QLD-MT Isa  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_SLT##SLT/SLT" xmltv_id="QLD-MT Isa  SonLife">QLD-MT Isa  SonLife</channel>
@@ -1666,7 +1645,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16528_FXW##FXW/FXW" xmltv_id="QLD-MT Isa  SKY Weather">QLD-MT Isa  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_ASP##ASP/ASP" xmltv_id="QLD-MT Isa  Sky News Extra">QLD-MT Isa  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_CNN##CNN/CNN" xmltv_id="QLD-MT Isa  CNN">QLD-MT Isa  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16528_MSN##MSN/MSN" xmltv_id="QLD-MT Isa  MSNBC">QLD-MT Isa  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16528_MSN##MSN/MSN" xmltv_id="QLD-MT Isa  MS NOW">QLD-MT Isa  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_CNB##CNB/CNB" xmltv_id="QLD-MT Isa  CNBC">QLD-MT Isa  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_BLM##BLM/BLM" xmltv_id="QLD-MT Isa  Bloomberg Television">QLD-MT Isa  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16528_ANS##FTA/ANS" xmltv_id="QLD-MT Isa  ABC News">QLD-MT Isa  ABC News</channel>
@@ -1717,9 +1696,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16448_SBN##FTA/SBN" xmltv_id="QLD-Mackay  SBS Viceland">QLD-Mackay  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_NFN##FTA/NFN" xmltv_id="QLD-Mackay  SBS Food">QLD-Mackay  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_NIT##FTA/NIT" xmltv_id="QLD-Mackay  NITV">QLD-Mackay  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16448_AUR##AUR/AUR" xmltv_id="QLD-Mackay  Aurora">QLD-Mackay  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_TVS##TVS/TVS" xmltv_id="QLD-Mackay  TVSN">QLD-Mackay  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16448_EXP##EXP/EXP" xmltv_id="QLD-Mackay  EXPO">QLD-Mackay  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16448_EXP##EXP/EXP" xmltv_id="QLD-Mackay  TVSN2">QLD-Mackay  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_ACC##ACC/ACC" xmltv_id="QLD-Mackay  GOOD">QLD-Mackay  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_DAS##DAS/DAS" xmltv_id="QLD-Mackay  Daystar">QLD-Mackay  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_SLT##SLT/SLT" xmltv_id="QLD-Mackay  SonLife">QLD-Mackay  SonLife</channel>
@@ -1745,7 +1723,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16448_FXW##FXW/FXW" xmltv_id="QLD-Mackay  SKY Weather">QLD-Mackay  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_ASP##ASP/ASP" xmltv_id="QLD-Mackay  Sky News Extra">QLD-Mackay  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_CNN##CNN/CNN" xmltv_id="QLD-Mackay  CNN">QLD-Mackay  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16448_MSN##MSN/MSN" xmltv_id="QLD-Mackay  MSNBC">QLD-Mackay  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16448_MSN##MSN/MSN" xmltv_id="QLD-Mackay  MS NOW">QLD-Mackay  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_CNB##CNB/CNB" xmltv_id="QLD-Mackay  CNBC">QLD-Mackay  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_BLM##BLM/BLM" xmltv_id="QLD-Mackay  Bloomberg Television">QLD-Mackay  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16448_ANS##FTA/ANS" xmltv_id="QLD-Mackay  ABC News">QLD-Mackay  ABC News</channel>
@@ -1796,9 +1774,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16464_SBN##FTA/SBN" xmltv_id="QLD-Rockhampton  SBS Viceland">QLD-Rockhampton  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_NFN##FTA/NFN" xmltv_id="QLD-Rockhampton  SBS Food">QLD-Rockhampton  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_NIT##FTA/NIT" xmltv_id="QLD-Rockhampton  NITV">QLD-Rockhampton  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16464_AUR##AUR/AUR" xmltv_id="QLD-Rockhampton  Aurora">QLD-Rockhampton  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_TVS##TVS/TVS" xmltv_id="QLD-Rockhampton  TVSN">QLD-Rockhampton  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16464_EXP##EXP/EXP" xmltv_id="QLD-Rockhampton  EXPO">QLD-Rockhampton  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16464_EXP##EXP/EXP" xmltv_id="QLD-Rockhampton  TVSN2">QLD-Rockhampton  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_ACC##ACC/ACC" xmltv_id="QLD-Rockhampton  GOOD">QLD-Rockhampton  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_DAS##DAS/DAS" xmltv_id="QLD-Rockhampton  Daystar">QLD-Rockhampton  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_SLT##SLT/SLT" xmltv_id="QLD-Rockhampton  SonLife">QLD-Rockhampton  SonLife</channel>
@@ -1824,7 +1801,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16464_FXW##FXW/FXW" xmltv_id="QLD-Rockhampton  SKY Weather">QLD-Rockhampton  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_ASP##ASP/ASP" xmltv_id="QLD-Rockhampton  Sky News Extra">QLD-Rockhampton  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_CNN##CNN/CNN" xmltv_id="QLD-Rockhampton  CNN">QLD-Rockhampton  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16464_MSN##MSN/MSN" xmltv_id="QLD-Rockhampton  MSNBC">QLD-Rockhampton  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16464_MSN##MSN/MSN" xmltv_id="QLD-Rockhampton  MS NOW">QLD-Rockhampton  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_CNB##CNB/CNB" xmltv_id="QLD-Rockhampton  CNBC">QLD-Rockhampton  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_BLM##BLM/BLM" xmltv_id="QLD-Rockhampton  Bloomberg Television">QLD-Rockhampton  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16464_ANS##FTA/ANS" xmltv_id="QLD-Rockhampton  ABC News">QLD-Rockhampton  ABC News</channel>
@@ -1885,9 +1862,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16480_SBN##FTA/SBN" xmltv_id="QLD-Sunshine Coast  SBS Viceland">QLD-Sunshine Coast  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_NFN##FTA/NFN" xmltv_id="QLD-Sunshine Coast  SBS Food">QLD-Sunshine Coast  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_NIT##FTA/NIT" xmltv_id="QLD-Sunshine Coast  NITV">QLD-Sunshine Coast  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16480_AUR##AUR/AUR" xmltv_id="QLD-Sunshine Coast  Aurora">QLD-Sunshine Coast  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_TVS##TVS/TVS" xmltv_id="QLD-Sunshine Coast  TVSN">QLD-Sunshine Coast  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16480_EXP##EXP/EXP" xmltv_id="QLD-Sunshine Coast  EXPO">QLD-Sunshine Coast  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16480_EXP##EXP/EXP" xmltv_id="QLD-Sunshine Coast  TVSN2">QLD-Sunshine Coast  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_ACC##ACC/ACC" xmltv_id="QLD-Sunshine Coast  GOOD">QLD-Sunshine Coast  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_DAS##DAS/DAS" xmltv_id="QLD-Sunshine Coast  Daystar">QLD-Sunshine Coast  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_SLT##SLT/SLT" xmltv_id="QLD-Sunshine Coast  SonLife">QLD-Sunshine Coast  SonLife</channel>
@@ -1913,7 +1889,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16480_FXW##FXW/FXW" xmltv_id="QLD-Sunshine Coast  SKY Weather">QLD-Sunshine Coast  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_ASP##ASP/ASP" xmltv_id="QLD-Sunshine Coast  Sky News Extra">QLD-Sunshine Coast  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_CNN##CNN/CNN" xmltv_id="QLD-Sunshine Coast  CNN">QLD-Sunshine Coast  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16480_MSN##MSN/MSN" xmltv_id="QLD-Sunshine Coast  MSNBC">QLD-Sunshine Coast  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16480_MSN##MSN/MSN" xmltv_id="QLD-Sunshine Coast  MS NOW">QLD-Sunshine Coast  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_CNB##CNB/CNB" xmltv_id="QLD-Sunshine Coast  CNBC">QLD-Sunshine Coast  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_BLM##BLM/BLM" xmltv_id="QLD-Sunshine Coast  Bloomberg Television">QLD-Sunshine Coast  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16480_ANS##FTA/ANS" xmltv_id="QLD-Sunshine Coast  ABC News">QLD-Sunshine Coast  ABC News</channel>
@@ -1964,9 +1940,8 @@
     <channel update="i" site="foxtel.com.au" site_id="16512_SBN##FTA/SBN" xmltv_id="QLD-Wide Bay  SBS Viceland">QLD-Wide Bay  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_NFN##FTA/NFN" xmltv_id="QLD-Wide Bay  SBS Food">QLD-Wide Bay  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_NIT##FTA/NIT" xmltv_id="QLD-Wide Bay  NITV">QLD-Wide Bay  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16512_AUR##AUR/AUR" xmltv_id="QLD-Wide Bay  Aurora">QLD-Wide Bay  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_TVS##TVS/TVS" xmltv_id="QLD-Wide Bay  TVSN">QLD-Wide Bay  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16512_EXP##EXP/EXP" xmltv_id="QLD-Wide Bay  EXPO">QLD-Wide Bay  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16512_EXP##EXP/EXP" xmltv_id="QLD-Wide Bay  TVSN2">QLD-Wide Bay  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_ACC##ACC/ACC" xmltv_id="QLD-Wide Bay  GOOD">QLD-Wide Bay  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_DAS##DAS/DAS" xmltv_id="QLD-Wide Bay  Daystar">QLD-Wide Bay  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_SLT##SLT/SLT" xmltv_id="QLD-Wide Bay  SonLife">QLD-Wide Bay  SonLife</channel>
@@ -1992,7 +1967,7 @@
     <channel update="i" site="foxtel.com.au" site_id="16512_FXW##FXW/FXW" xmltv_id="QLD-Wide Bay  SKY Weather">QLD-Wide Bay  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_ASP##ASP/ASP" xmltv_id="QLD-Wide Bay  Sky News Extra">QLD-Wide Bay  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_CNN##CNN/CNN" xmltv_id="QLD-Wide Bay  CNN">QLD-Wide Bay  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="16512_MSN##MSN/MSN" xmltv_id="QLD-Wide Bay  MSNBC">QLD-Wide Bay  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="16512_MSN##MSN/MSN" xmltv_id="QLD-Wide Bay  MS NOW">QLD-Wide Bay  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_CNB##CNB/CNB" xmltv_id="QLD-Wide Bay  CNBC">QLD-Wide Bay  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_BLM##BLM/BLM" xmltv_id="QLD-Wide Bay  Bloomberg Television">QLD-Wide Bay  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="16512_ANS##FTA/ANS" xmltv_id="QLD-Wide Bay  ABC News">QLD-Wide Bay  ABC News</channel>
@@ -2039,9 +2014,8 @@
     <channel update="i" site="foxtel.com.au" site_id="20496_SBN##FTA/SBN" xmltv_id="SA-Port Lincoln  SBS Viceland">SA-Port Lincoln  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_NFN##FTA/NFN" xmltv_id="SA-Port Lincoln  SBS Food">SA-Port Lincoln  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_NIT##FTA/NIT" xmltv_id="SA-Port Lincoln  NITV">SA-Port Lincoln  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20496_AUR##AUR/AUR" xmltv_id="SA-Port Lincoln  Aurora">SA-Port Lincoln  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_TVS##TVS/TVS" xmltv_id="SA-Port Lincoln  TVSN">SA-Port Lincoln  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20496_EXP##EXP/EXP" xmltv_id="SA-Port Lincoln  EXPO">SA-Port Lincoln  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20496_EXP##EXP/EXP" xmltv_id="SA-Port Lincoln  TVSN2">SA-Port Lincoln  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_ACC##ACC/ACC" xmltv_id="SA-Port Lincoln  GOOD">SA-Port Lincoln  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_DAS##DAS/DAS" xmltv_id="SA-Port Lincoln  Daystar">SA-Port Lincoln  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_SLT##SLT/SLT" xmltv_id="SA-Port Lincoln  SonLife">SA-Port Lincoln  SonLife</channel>
@@ -2067,7 +2041,7 @@
     <channel update="i" site="foxtel.com.au" site_id="20496_FXW##FXW/FXW" xmltv_id="SA-Port Lincoln  SKY Weather">SA-Port Lincoln  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_ASP##ASP/ASP" xmltv_id="SA-Port Lincoln  Sky News Extra">SA-Port Lincoln  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_CNN##CNN/CNN" xmltv_id="SA-Port Lincoln  CNN">SA-Port Lincoln  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20496_MSN##MSN/MSN" xmltv_id="SA-Port Lincoln  MSNBC">SA-Port Lincoln  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20496_MSN##MSN/MSN" xmltv_id="SA-Port Lincoln  MS NOW">SA-Port Lincoln  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_CNB##CNB/CNB" xmltv_id="SA-Port Lincoln  CNBC">SA-Port Lincoln  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_BLM##BLM/BLM" xmltv_id="SA-Port Lincoln  Bloomberg Television">SA-Port Lincoln  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="20496_ANS##FTA/ANS" xmltv_id="SA-Port Lincoln  ABC News">SA-Port Lincoln  ABC News</channel>
@@ -2115,9 +2089,8 @@
     <channel update="i" site="foxtel.com.au" site_id="20512_SBN##FTA/SBN" xmltv_id="SA-Renmark Loxton  SBS Viceland">SA-Renmark Loxton  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_NFN##FTA/NFN" xmltv_id="SA-Renmark Loxton  SBS Food">SA-Renmark Loxton  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_NIT##FTA/NIT" xmltv_id="SA-Renmark Loxton  NITV">SA-Renmark Loxton  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20512_AUR##AUR/AUR" xmltv_id="SA-Renmark Loxton  Aurora">SA-Renmark Loxton  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_TVS##TVS/TVS" xmltv_id="SA-Renmark Loxton  TVSN">SA-Renmark Loxton  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20512_EXP##EXP/EXP" xmltv_id="SA-Renmark Loxton  EXPO">SA-Renmark Loxton  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20512_EXP##EXP/EXP" xmltv_id="SA-Renmark Loxton  TVSN2">SA-Renmark Loxton  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_ACC##ACC/ACC" xmltv_id="SA-Renmark Loxton  GOOD">SA-Renmark Loxton  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_DAS##DAS/DAS" xmltv_id="SA-Renmark Loxton  Daystar">SA-Renmark Loxton  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_SLT##SLT/SLT" xmltv_id="SA-Renmark Loxton  SonLife">SA-Renmark Loxton  SonLife</channel>
@@ -2143,7 +2116,7 @@
     <channel update="i" site="foxtel.com.au" site_id="20512_FXW##FXW/FXW" xmltv_id="SA-Renmark Loxton  SKY Weather">SA-Renmark Loxton  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_ASP##ASP/ASP" xmltv_id="SA-Renmark Loxton  Sky News Extra">SA-Renmark Loxton  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_CNN##CNN/CNN" xmltv_id="SA-Renmark Loxton  CNN">SA-Renmark Loxton  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20512_MSN##MSN/MSN" xmltv_id="SA-Renmark Loxton  MSNBC">SA-Renmark Loxton  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20512_MSN##MSN/MSN" xmltv_id="SA-Renmark Loxton  MS NOW">SA-Renmark Loxton  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_CNB##CNB/CNB" xmltv_id="SA-Renmark Loxton  CNBC">SA-Renmark Loxton  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_BLM##BLM/BLM" xmltv_id="SA-Renmark Loxton  Bloomberg Television">SA-Renmark Loxton  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="20512_ANS##FTA/ANS" xmltv_id="SA-Renmark Loxton  ABC News">SA-Renmark Loxton  ABC News</channel>
@@ -2191,9 +2164,8 @@
     <channel update="i" site="foxtel.com.au" site_id="20528_SBN##FTA/SBN" xmltv_id="SA-South East SA  SBS Viceland">SA-South East SA  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_NFN##FTA/NFN" xmltv_id="SA-South East SA  SBS Food">SA-South East SA  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_NIT##FTA/NIT" xmltv_id="SA-South East SA  NITV">SA-South East SA  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20528_AUR##AUR/AUR" xmltv_id="SA-South East SA  Aurora">SA-South East SA  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_TVS##TVS/TVS" xmltv_id="SA-South East SA  TVSN">SA-South East SA  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20528_EXP##EXP/EXP" xmltv_id="SA-South East SA  EXPO">SA-South East SA  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20528_EXP##EXP/EXP" xmltv_id="SA-South East SA  TVSN2">SA-South East SA  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_ACC##ACC/ACC" xmltv_id="SA-South East SA  GOOD">SA-South East SA  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_DAS##DAS/DAS" xmltv_id="SA-South East SA  Daystar">SA-South East SA  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_SLT##SLT/SLT" xmltv_id="SA-South East SA  SonLife">SA-South East SA  SonLife</channel>
@@ -2219,7 +2191,7 @@
     <channel update="i" site="foxtel.com.au" site_id="20528_FXW##FXW/FXW" xmltv_id="SA-South East SA  SKY Weather">SA-South East SA  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_ASP##ASP/ASP" xmltv_id="SA-South East SA  Sky News Extra">SA-South East SA  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_CNN##CNN/CNN" xmltv_id="SA-South East SA  CNN">SA-South East SA  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20528_MSN##MSN/MSN" xmltv_id="SA-South East SA  MSNBC">SA-South East SA  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20528_MSN##MSN/MSN" xmltv_id="SA-South East SA  MS NOW">SA-South East SA  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_CNB##CNB/CNB" xmltv_id="SA-South East SA  CNBC">SA-South East SA  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_BLM##BLM/BLM" xmltv_id="SA-South East SA  Bloomberg Television">SA-South East SA  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="20528_ANS##FTA/ANS" xmltv_id="SA-South East SA  ABC News">SA-South East SA  ABC News</channel>
@@ -2265,9 +2237,8 @@
     <channel update="i" site="foxtel.com.au" site_id="20544_SBN##FTA/SBN" xmltv_id="SA-Spencer Gulf  SBS Viceland">SA-Spencer Gulf  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_NFN##FTA/NFN" xmltv_id="SA-Spencer Gulf  SBS Food">SA-Spencer Gulf  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_NIT##FTA/NIT" xmltv_id="SA-Spencer Gulf  NITV">SA-Spencer Gulf  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20544_AUR##AUR/AUR" xmltv_id="SA-Spencer Gulf  Aurora">SA-Spencer Gulf  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_TVS##TVS/TVS" xmltv_id="SA-Spencer Gulf  TVSN">SA-Spencer Gulf  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20544_EXP##EXP/EXP" xmltv_id="SA-Spencer Gulf  EXPO">SA-Spencer Gulf  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20544_EXP##EXP/EXP" xmltv_id="SA-Spencer Gulf  TVSN2">SA-Spencer Gulf  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_ACC##ACC/ACC" xmltv_id="SA-Spencer Gulf  GOOD">SA-Spencer Gulf  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_DAS##DAS/DAS" xmltv_id="SA-Spencer Gulf  Daystar">SA-Spencer Gulf  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_SLT##SLT/SLT" xmltv_id="SA-Spencer Gulf  SonLife">SA-Spencer Gulf  SonLife</channel>
@@ -2293,7 +2264,7 @@
     <channel update="i" site="foxtel.com.au" site_id="20544_FXW##FXW/FXW" xmltv_id="SA-Spencer Gulf  SKY Weather">SA-Spencer Gulf  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_ASP##ASP/ASP" xmltv_id="SA-Spencer Gulf  Sky News Extra">SA-Spencer Gulf  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_CNN##CNN/CNN" xmltv_id="SA-Spencer Gulf  CNN">SA-Spencer Gulf  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="20544_MSN##MSN/MSN" xmltv_id="SA-Spencer Gulf  MSNBC">SA-Spencer Gulf  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="20544_MSN##MSN/MSN" xmltv_id="SA-Spencer Gulf  MS NOW">SA-Spencer Gulf  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_CNB##CNB/CNB" xmltv_id="SA-Spencer Gulf  CNBC">SA-Spencer Gulf  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_BLM##BLM/BLM" xmltv_id="SA-Spencer Gulf  Bloomberg Television">SA-Spencer Gulf  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="20544_ANS##FTA/ANS" xmltv_id="SA-Spencer Gulf  ABC News">SA-Spencer Gulf  ABC News</channel>
@@ -2341,9 +2312,8 @@
     <channel update="i" site="foxtel.com.au" site_id="28672_SBN##FTA/SBN" xmltv_id="TAS-Hobart  SBS Viceland">TAS-Hobart  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_NFN##FTA/NFN" xmltv_id="TAS-Hobart  SBS Food">TAS-Hobart  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_NIT##FTA/NIT" xmltv_id="TAS-Hobart  NITV">TAS-Hobart  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="28672_AUR##AUR/AUR" xmltv_id="TAS-Hobart  Aurora">TAS-Hobart  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_TVS##TVS/TVS" xmltv_id="TAS-Hobart  TVSN">TAS-Hobart  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="28672_EXP##EXP/EXP" xmltv_id="TAS-Hobart  EXPO">TAS-Hobart  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="28672_EXP##EXP/EXP" xmltv_id="TAS-Hobart  TVSN2">TAS-Hobart  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_ACC##ACC/ACC" xmltv_id="TAS-Hobart  GOOD">TAS-Hobart  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_DAS##DAS/DAS" xmltv_id="TAS-Hobart  Daystar">TAS-Hobart  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_SLT##SLT/SLT" xmltv_id="TAS-Hobart  SonLife">TAS-Hobart  SonLife</channel>
@@ -2369,7 +2339,7 @@
     <channel update="i" site="foxtel.com.au" site_id="28672_FXW##FXW/FXW" xmltv_id="TAS-Hobart  SKY Weather">TAS-Hobart  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_ASP##ASP/ASP" xmltv_id="TAS-Hobart  Sky News Extra">TAS-Hobart  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_CNN##CNN/CNN" xmltv_id="TAS-Hobart  CNN">TAS-Hobart  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="28672_MSN##MSN/MSN" xmltv_id="TAS-Hobart  MSNBC">TAS-Hobart  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="28672_MSN##MSN/MSN" xmltv_id="TAS-Hobart  MS NOW">TAS-Hobart  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_CNB##CNB/CNB" xmltv_id="TAS-Hobart  CNBC">TAS-Hobart  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_BLM##BLM/BLM" xmltv_id="TAS-Hobart  Bloomberg Television">TAS-Hobart  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="28672_ANS##FTA/ANS" xmltv_id="TAS-Hobart  ABC News">TAS-Hobart  ABC News</channel>
@@ -2417,9 +2387,8 @@
     <channel update="i" site="foxtel.com.au" site_id="28688_SBN##FTA/SBN" xmltv_id="TAS-NE Tasmania  SBS Viceland">TAS-NE Tasmania  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_NFN##FTA/NFN" xmltv_id="TAS-NE Tasmania  SBS Food">TAS-NE Tasmania  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_NIT##FTA/NIT" xmltv_id="TAS-NE Tasmania  NITV">TAS-NE Tasmania  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="28688_AUR##AUR/AUR" xmltv_id="TAS-NE Tasmania  Aurora">TAS-NE Tasmania  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_TVS##TVS/TVS" xmltv_id="TAS-NE Tasmania  TVSN">TAS-NE Tasmania  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="28688_EXP##EXP/EXP" xmltv_id="TAS-NE Tasmania  EXPO">TAS-NE Tasmania  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="28688_EXP##EXP/EXP" xmltv_id="TAS-NE Tasmania  TVSN2">TAS-NE Tasmania  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_ACC##ACC/ACC" xmltv_id="TAS-NE Tasmania  GOOD">TAS-NE Tasmania  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_DAS##DAS/DAS" xmltv_id="TAS-NE Tasmania  Daystar">TAS-NE Tasmania  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_SLT##SLT/SLT" xmltv_id="TAS-NE Tasmania  SonLife">TAS-NE Tasmania  SonLife</channel>
@@ -2445,7 +2414,7 @@
     <channel update="i" site="foxtel.com.au" site_id="28688_FXW##FXW/FXW" xmltv_id="TAS-NE Tasmania  SKY Weather">TAS-NE Tasmania  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_ASP##ASP/ASP" xmltv_id="TAS-NE Tasmania  Sky News Extra">TAS-NE Tasmania  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_CNN##CNN/CNN" xmltv_id="TAS-NE Tasmania  CNN">TAS-NE Tasmania  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="28688_MSN##MSN/MSN" xmltv_id="TAS-NE Tasmania  MSNBC">TAS-NE Tasmania  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="28688_MSN##MSN/MSN" xmltv_id="TAS-NE Tasmania  MS NOW">TAS-NE Tasmania  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_CNB##CNB/CNB" xmltv_id="TAS-NE Tasmania  CNBC">TAS-NE Tasmania  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_BLM##BLM/BLM" xmltv_id="TAS-NE Tasmania  Bloomberg Television">TAS-NE Tasmania  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="28688_ANS##FTA/ANS" xmltv_id="TAS-NE Tasmania  ABC News">TAS-NE Tasmania  ABC News</channel>
@@ -2495,9 +2464,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12288_SBN##FTA/SBN" xmltv_id="VIC-Ballarat  SBS Viceland">VIC-Ballarat  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_NFN##FTA/NFN" xmltv_id="VIC-Ballarat  SBS Food">VIC-Ballarat  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_NIT##FTA/NIT" xmltv_id="VIC-Ballarat  NITV">VIC-Ballarat  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12288_AUR##AUR/AUR" xmltv_id="VIC-Ballarat  Aurora">VIC-Ballarat  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_TVS##TVS/TVS" xmltv_id="VIC-Ballarat  TVSN">VIC-Ballarat  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12288_EXP##EXP/EXP" xmltv_id="VIC-Ballarat  EXPO">VIC-Ballarat  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12288_EXP##EXP/EXP" xmltv_id="VIC-Ballarat  TVSN2">VIC-Ballarat  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_ACC##ACC/ACC" xmltv_id="VIC-Ballarat  GOOD">VIC-Ballarat  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_DAS##DAS/DAS" xmltv_id="VIC-Ballarat  Daystar">VIC-Ballarat  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_SLT##SLT/SLT" xmltv_id="VIC-Ballarat  SonLife">VIC-Ballarat  SonLife</channel>
@@ -2523,7 +2491,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12288_FXW##FXW/FXW" xmltv_id="VIC-Ballarat  SKY Weather">VIC-Ballarat  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_ASP##ASP/ASP" xmltv_id="VIC-Ballarat  Sky News Extra">VIC-Ballarat  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_CNN##CNN/CNN" xmltv_id="VIC-Ballarat  CNN">VIC-Ballarat  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12288_MSN##MSN/MSN" xmltv_id="VIC-Ballarat  MSNBC">VIC-Ballarat  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12288_MSN##MSN/MSN" xmltv_id="VIC-Ballarat  MS NOW">VIC-Ballarat  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_CNB##CNB/CNB" xmltv_id="VIC-Ballarat  CNBC">VIC-Ballarat  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_BLM##BLM/BLM" xmltv_id="VIC-Ballarat  Bloomberg Television">VIC-Ballarat  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12288_ANS##FTA/ANS" xmltv_id="VIC-Ballarat  ABC News">VIC-Ballarat  ABC News</channel>
@@ -2572,9 +2540,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12304_SBN##FTA/SBN" xmltv_id="VIC-Bendigo  SBS Viceland">VIC-Bendigo  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_NFN##FTA/NFN" xmltv_id="VIC-Bendigo  SBS Food">VIC-Bendigo  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_NIT##FTA/NIT" xmltv_id="VIC-Bendigo  NITV">VIC-Bendigo  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12304_AUR##AUR/AUR" xmltv_id="VIC-Bendigo  Aurora">VIC-Bendigo  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_TVS##TVS/TVS" xmltv_id="VIC-Bendigo  TVSN">VIC-Bendigo  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12304_EXP##EXP/EXP" xmltv_id="VIC-Bendigo  EXPO">VIC-Bendigo  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12304_EXP##EXP/EXP" xmltv_id="VIC-Bendigo  TVSN2">VIC-Bendigo  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_ACC##ACC/ACC" xmltv_id="VIC-Bendigo  GOOD">VIC-Bendigo  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_DAS##DAS/DAS" xmltv_id="VIC-Bendigo  Daystar">VIC-Bendigo  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_SLT##SLT/SLT" xmltv_id="VIC-Bendigo  SonLife">VIC-Bendigo  SonLife</channel>
@@ -2600,7 +2567,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12304_FXW##FXW/FXW" xmltv_id="VIC-Bendigo  SKY Weather">VIC-Bendigo  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_ASP##ASP/ASP" xmltv_id="VIC-Bendigo  Sky News Extra">VIC-Bendigo  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_CNN##CNN/CNN" xmltv_id="VIC-Bendigo  CNN">VIC-Bendigo  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12304_MSN##MSN/MSN" xmltv_id="VIC-Bendigo  MSNBC">VIC-Bendigo  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12304_MSN##MSN/MSN" xmltv_id="VIC-Bendigo  MS NOW">VIC-Bendigo  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_CNB##CNB/CNB" xmltv_id="VIC-Bendigo  CNBC">VIC-Bendigo  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_BLM##BLM/BLM" xmltv_id="VIC-Bendigo  Bloomberg Television">VIC-Bendigo  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12304_ANS##FTA/ANS" xmltv_id="VIC-Bendigo  ABC News">VIC-Bendigo  ABC News</channel>
@@ -2649,9 +2616,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12320_SBN##FTA/SBN" xmltv_id="VIC-Goulburn Valley  SBS Viceland">VIC-Goulburn Valley  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_NFN##FTA/NFN" xmltv_id="VIC-Goulburn Valley  SBS Food">VIC-Goulburn Valley  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_NIT##FTA/NIT" xmltv_id="VIC-Goulburn Valley  NITV">VIC-Goulburn Valley  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12320_AUR##AUR/AUR" xmltv_id="VIC-Goulburn Valley  Aurora">VIC-Goulburn Valley  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_TVS##TVS/TVS" xmltv_id="VIC-Goulburn Valley  TVSN">VIC-Goulburn Valley  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12320_EXP##EXP/EXP" xmltv_id="VIC-Goulburn Valley  EXPO">VIC-Goulburn Valley  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12320_EXP##EXP/EXP" xmltv_id="VIC-Goulburn Valley  TVSN2">VIC-Goulburn Valley  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_ACC##ACC/ACC" xmltv_id="VIC-Goulburn Valley  GOOD">VIC-Goulburn Valley  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_DAS##DAS/DAS" xmltv_id="VIC-Goulburn Valley  Daystar">VIC-Goulburn Valley  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_SLT##SLT/SLT" xmltv_id="VIC-Goulburn Valley  SonLife">VIC-Goulburn Valley  SonLife</channel>
@@ -2677,7 +2643,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12320_FXW##FXW/FXW" xmltv_id="VIC-Goulburn Valley  SKY Weather">VIC-Goulburn Valley  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_ASP##ASP/ASP" xmltv_id="VIC-Goulburn Valley  Sky News Extra">VIC-Goulburn Valley  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_CNN##CNN/CNN" xmltv_id="VIC-Goulburn Valley  CNN">VIC-Goulburn Valley  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12320_MSN##MSN/MSN" xmltv_id="VIC-Goulburn Valley  MSNBC">VIC-Goulburn Valley  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12320_MSN##MSN/MSN" xmltv_id="VIC-Goulburn Valley  MS NOW">VIC-Goulburn Valley  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_CNB##CNB/CNB" xmltv_id="VIC-Goulburn Valley  CNBC">VIC-Goulburn Valley  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_BLM##BLM/BLM" xmltv_id="VIC-Goulburn Valley  Bloomberg Television">VIC-Goulburn Valley  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12320_ANS##FTA/ANS" xmltv_id="VIC-Goulburn Valley  ABC News">VIC-Goulburn Valley  ABC News</channel>
@@ -2726,9 +2692,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12336_SBN##FTA/SBN" xmltv_id="VIC-Latrobe Valley  SBS Viceland">VIC-Latrobe Valley  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_NFN##FTA/NFN" xmltv_id="VIC-Latrobe Valley  SBS Food">VIC-Latrobe Valley  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_NIT##FTA/NIT" xmltv_id="VIC-Latrobe Valley  NITV">VIC-Latrobe Valley  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12336_AUR##AUR/AUR" xmltv_id="VIC-Latrobe Valley  Aurora">VIC-Latrobe Valley  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_TVS##TVS/TVS" xmltv_id="VIC-Latrobe Valley  TVSN">VIC-Latrobe Valley  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12336_EXP##EXP/EXP" xmltv_id="VIC-Latrobe Valley  EXPO">VIC-Latrobe Valley  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12336_EXP##EXP/EXP" xmltv_id="VIC-Latrobe Valley  TVSN2">VIC-Latrobe Valley  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_ACC##ACC/ACC" xmltv_id="VIC-Latrobe Valley  GOOD">VIC-Latrobe Valley  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_DAS##DAS/DAS" xmltv_id="VIC-Latrobe Valley  Daystar">VIC-Latrobe Valley  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_SLT##SLT/SLT" xmltv_id="VIC-Latrobe Valley  SonLife">VIC-Latrobe Valley  SonLife</channel>
@@ -2754,7 +2719,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12336_FXW##FXW/FXW" xmltv_id="VIC-Latrobe Valley  SKY Weather">VIC-Latrobe Valley  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_ASP##ASP/ASP" xmltv_id="VIC-Latrobe Valley  Sky News Extra">VIC-Latrobe Valley  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_CNN##CNN/CNN" xmltv_id="VIC-Latrobe Valley  CNN">VIC-Latrobe Valley  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12336_MSN##MSN/MSN" xmltv_id="VIC-Latrobe Valley  MSNBC">VIC-Latrobe Valley  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12336_MSN##MSN/MSN" xmltv_id="VIC-Latrobe Valley  MS NOW">VIC-Latrobe Valley  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_CNB##CNB/CNB" xmltv_id="VIC-Latrobe Valley  CNBC">VIC-Latrobe Valley  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_BLM##BLM/BLM" xmltv_id="VIC-Latrobe Valley  Bloomberg Television">VIC-Latrobe Valley  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12336_ANS##FTA/ANS" xmltv_id="VIC-Latrobe Valley  ABC News">VIC-Latrobe Valley  ABC News</channel>
@@ -2803,9 +2768,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12368_SBN##FTA/SBN" xmltv_id="VIC-Mildura Sunraysia  SBS Viceland">VIC-Mildura Sunraysia  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_NFN##FTA/NFN" xmltv_id="VIC-Mildura Sunraysia  SBS Food">VIC-Mildura Sunraysia  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_NIT##FTA/NIT" xmltv_id="VIC-Mildura Sunraysia  NITV">VIC-Mildura Sunraysia  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12368_AUR##AUR/AUR" xmltv_id="VIC-Mildura Sunraysia  Aurora">VIC-Mildura Sunraysia  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_TVS##TVS/TVS" xmltv_id="VIC-Mildura Sunraysia  TVSN">VIC-Mildura Sunraysia  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12368_EXP##EXP/EXP" xmltv_id="VIC-Mildura Sunraysia  EXPO">VIC-Mildura Sunraysia  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12368_EXP##EXP/EXP" xmltv_id="VIC-Mildura Sunraysia  TVSN2">VIC-Mildura Sunraysia  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_ACC##ACC/ACC" xmltv_id="VIC-Mildura Sunraysia  GOOD">VIC-Mildura Sunraysia  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_DAS##DAS/DAS" xmltv_id="VIC-Mildura Sunraysia  Daystar">VIC-Mildura Sunraysia  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_SLT##SLT/SLT" xmltv_id="VIC-Mildura Sunraysia  SonLife">VIC-Mildura Sunraysia  SonLife</channel>
@@ -2831,7 +2795,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12368_FXW##FXW/FXW" xmltv_id="VIC-Mildura Sunraysia  SKY Weather">VIC-Mildura Sunraysia  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_ASP##ASP/ASP" xmltv_id="VIC-Mildura Sunraysia  Sky News Extra">VIC-Mildura Sunraysia  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_CNN##CNN/CNN" xmltv_id="VIC-Mildura Sunraysia  CNN">VIC-Mildura Sunraysia  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12368_MSN##MSN/MSN" xmltv_id="VIC-Mildura Sunraysia  MSNBC">VIC-Mildura Sunraysia  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12368_MSN##MSN/MSN" xmltv_id="VIC-Mildura Sunraysia  MS NOW">VIC-Mildura Sunraysia  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_CNB##CNB/CNB" xmltv_id="VIC-Mildura Sunraysia  CNBC">VIC-Mildura Sunraysia  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_BLM##BLM/BLM" xmltv_id="VIC-Mildura Sunraysia  Bloomberg Television">VIC-Mildura Sunraysia  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12368_ANS##FTA/ANS" xmltv_id="VIC-Mildura Sunraysia  ABC News">VIC-Mildura Sunraysia  ABC News</channel>
@@ -2880,9 +2844,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12384_SBN##FTA/SBN" xmltv_id="VIC-Upper Murray  SBS Viceland">VIC-Upper Murray  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_NFN##FTA/NFN" xmltv_id="VIC-Upper Murray  SBS Food">VIC-Upper Murray  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_NIT##FTA/NIT" xmltv_id="VIC-Upper Murray  NITV">VIC-Upper Murray  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12384_AUR##AUR/AUR" xmltv_id="VIC-Upper Murray  Aurora">VIC-Upper Murray  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_TVS##TVS/TVS" xmltv_id="VIC-Upper Murray  TVSN">VIC-Upper Murray  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12384_EXP##EXP/EXP" xmltv_id="VIC-Upper Murray  EXPO">VIC-Upper Murray  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12384_EXP##EXP/EXP" xmltv_id="VIC-Upper Murray  TVSN2">VIC-Upper Murray  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_ACC##ACC/ACC" xmltv_id="VIC-Upper Murray  GOOD">VIC-Upper Murray  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_DAS##DAS/DAS" xmltv_id="VIC-Upper Murray  Daystar">VIC-Upper Murray  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_SLT##SLT/SLT" xmltv_id="VIC-Upper Murray  SonLife">VIC-Upper Murray  SonLife</channel>
@@ -2908,7 +2871,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12384_FXW##FXW/FXW" xmltv_id="VIC-Upper Murray  SKY Weather">VIC-Upper Murray  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_ASP##ASP/ASP" xmltv_id="VIC-Upper Murray  Sky News Extra">VIC-Upper Murray  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_CNN##CNN/CNN" xmltv_id="VIC-Upper Murray  CNN">VIC-Upper Murray  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12384_MSN##MSN/MSN" xmltv_id="VIC-Upper Murray  MSNBC">VIC-Upper Murray  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12384_MSN##MSN/MSN" xmltv_id="VIC-Upper Murray  MS NOW">VIC-Upper Murray  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_CNB##CNB/CNB" xmltv_id="VIC-Upper Murray  CNBC">VIC-Upper Murray  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_BLM##BLM/BLM" xmltv_id="VIC-Upper Murray  Bloomberg Television">VIC-Upper Murray  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12384_ANS##FTA/ANS" xmltv_id="VIC-Upper Murray  ABC News">VIC-Upper Murray  ABC News</channel>
@@ -2957,9 +2920,8 @@
     <channel update="i" site="foxtel.com.au" site_id="12289_SBN##FTA/SBN" xmltv_id="VIC-Western Victoria  SBS Viceland">VIC-Western Victoria  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_NFN##FTA/NFN" xmltv_id="VIC-Western Victoria  SBS Food">VIC-Western Victoria  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_NIT##FTA/NIT" xmltv_id="VIC-Western Victoria  NITV">VIC-Western Victoria  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12289_AUR##AUR/AUR" xmltv_id="VIC-Western Victoria  Aurora">VIC-Western Victoria  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_TVS##TVS/TVS" xmltv_id="VIC-Western Victoria  TVSN">VIC-Western Victoria  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12289_EXP##EXP/EXP" xmltv_id="VIC-Western Victoria  EXPO">VIC-Western Victoria  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12289_EXP##EXP/EXP" xmltv_id="VIC-Western Victoria  TVSN2">VIC-Western Victoria  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_ACC##ACC/ACC" xmltv_id="VIC-Western Victoria  GOOD">VIC-Western Victoria  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_DAS##DAS/DAS" xmltv_id="VIC-Western Victoria  Daystar">VIC-Western Victoria  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_SLT##SLT/SLT" xmltv_id="VIC-Western Victoria  SonLife">VIC-Western Victoria  SonLife</channel>
@@ -2985,7 +2947,7 @@
     <channel update="i" site="foxtel.com.au" site_id="12289_FXW##FXW/FXW" xmltv_id="VIC-Western Victoria  SKY Weather">VIC-Western Victoria  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_ASP##ASP/ASP" xmltv_id="VIC-Western Victoria  Sky News Extra">VIC-Western Victoria  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_CNN##CNN/CNN" xmltv_id="VIC-Western Victoria  CNN">VIC-Western Victoria  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="12289_MSN##MSN/MSN" xmltv_id="VIC-Western Victoria  MSNBC">VIC-Western Victoria  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="12289_MSN##MSN/MSN" xmltv_id="VIC-Western Victoria  MS NOW">VIC-Western Victoria  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_CNB##CNB/CNB" xmltv_id="VIC-Western Victoria  CNBC">VIC-Western Victoria  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_BLM##BLM/BLM" xmltv_id="VIC-Western Victoria  Bloomberg Television">VIC-Western Victoria  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="12289_ANS##FTA/ANS" xmltv_id="VIC-Western Victoria  ABC News">VIC-Western Victoria  ABC News</channel>
@@ -3033,9 +2995,8 @@
     <channel update="i" site="foxtel.com.au" site_id="37088_SBN##FTA/SBN" xmltv_id="WA-Regional WA  SBS Viceland">WA-Regional WA  SBS Viceland</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_NFN##FTA/NFN" xmltv_id="WA-Regional WA  SBS Food">WA-Regional WA  SBS Food</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_NIT##FTA/NIT" xmltv_id="WA-Regional WA  NITV">WA-Regional WA  NITV</channel>
-    <channel update="i" site="foxtel.com.au" site_id="37088_AUR##AUR/AUR" xmltv_id="WA-Regional WA  Aurora">WA-Regional WA  Aurora</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_TVS##TVS/TVS" xmltv_id="WA-Regional WA  TVSN">WA-Regional WA  TVSN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="37088_EXP##EXP/EXP" xmltv_id="WA-Regional WA  EXPO">WA-Regional WA  EXPO</channel>
+    <channel update="i" site="foxtel.com.au" site_id="37088_EXP##EXP/EXP" xmltv_id="WA-Regional WA  TVSN2">WA-Regional WA  TVSN2</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_ACC##ACC/ACC" xmltv_id="WA-Regional WA  GOOD">WA-Regional WA  GOOD</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_DAS##DAS/DAS" xmltv_id="WA-Regional WA  Daystar">WA-Regional WA  Daystar</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_SLT##SLT/SLT" xmltv_id="WA-Regional WA  SonLife">WA-Regional WA  SonLife</channel>
@@ -3061,7 +3022,7 @@
     <channel update="i" site="foxtel.com.au" site_id="37088_FXW##FXW/FXW" xmltv_id="WA-Regional WA  SKY Weather">WA-Regional WA  SKY Weather</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_ASP##ASP/ASP" xmltv_id="WA-Regional WA  Sky News Extra">WA-Regional WA  Sky News Extra</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_CNN##CNN/CNN" xmltv_id="WA-Regional WA  CNN">WA-Regional WA  CNN</channel>
-    <channel update="i" site="foxtel.com.au" site_id="37088_MSN##MSN/MSN" xmltv_id="WA-Regional WA  MSNBC">WA-Regional WA  MSNBC</channel>
+    <channel update="i" site="foxtel.com.au" site_id="37088_MSN##MSN/MSN" xmltv_id="WA-Regional WA  MS NOW">WA-Regional WA  MS NOW</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_CNB##CNB/CNB" xmltv_id="WA-Regional WA  CNBC">WA-Regional WA  CNBC</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_BLM##BLM/BLM" xmltv_id="WA-Regional WA  Bloomberg Television">WA-Regional WA  Bloomberg Television</channel>
     <channel update="i" site="foxtel.com.au" site_id="37088_ANS##FTA/ANS" xmltv_id="WA-Regional WA  ABC News">WA-Regional WA  ABC News</channel>
