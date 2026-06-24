@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.2 -- Jan van Straaten" site="mts.rs">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.3 -- Jan van Straaten" site="mts.rs">
   <channels>
     <channel update="i" site="mts.rs" site_id="iris_tv_promo" xmltv_id="Promo kanal">Promo kanal</channel>
     <channel update="i" site="mts.rs" site_id="rts_1_hd" xmltv_id="RTS 1">RTS 1</channel>
@@ -51,6 +51,7 @@
     <channel update="i" site="mts.rs" site_id="bloomberg_adria" xmltv_id="Bloomberg Adria">Bloomberg Adria</channel>
     <channel update="i" site="mts.rs" site_id="tv_lav_plus" xmltv_id="TV Lav Plus">TV Lav Plus</channel>
     <channel update="i" site="mts.rs" site_id="kuvo_tv_hd" xmltv_id="Kuvo TV">Kuvo TV</channel>
+    <channel update="i" site="mts.rs" site_id="pozicija-rastuce" xmltv_id="Pozicija - Rastuće">Pozicija - Rastuće</channel>
     <channel update="i" site="mts.rs" site_id="rts_kolo" xmltv_id="RTS Kolo">RTS Kolo</channel>
     <channel update="i" site="mts.rs" site_id="rts_muzika" xmltv_id="RTS Muzika">RTS Muzika</channel>
     <channel update="i" site="mts.rs" site_id="rts_klasika" xmltv_id="RTS Klasika">RTS Klasika</channel>
@@ -99,10 +100,10 @@
     <channel update="i" site="mts.rs" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="mts.rs" site_id="cinemax_2" xmltv_id="Cinemax 2">Cinemax 2</channel>
     <channel update="i" site="mts.rs" site_id="diva" xmltv_id="Diva">Diva</channel>
-    <channel update="i" site="mts.rs" site_id="filmbox_premium" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
-    <channel update="i" site="mts.rs" site_id="filmbox_stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
-    <channel update="i" site="mts.rs" site_id="filmbox_extra" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
-    <channel update="i" site="mts.rs" site_id="filmbox_arthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_premium" xmltv_id="Filmbox+ hits">Filmbox+ hits</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_stars" xmltv_id="Filmbox+ love&amp;crime">Filmbox+ love&amp;crime</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_extra" xmltv_id="Filmbox+ emotion">Filmbox+ emotion</channel>
+    <channel update="i" site="mts.rs" site_id="filmbox_arthouse" xmltv_id="Filmbox+ festival">Filmbox+ festival</channel>
     <channel update="i" site="mts.rs" site_id="viasat_epic_drama" xmltv_id="Viasat Epic Drama">Viasat Epic Drama</channel>
     <channel update="i" site="mts.rs" site_id="sci_fi" xmltv_id="Sci Fi">Sci Fi</channel>
     <channel update="i" site="mts.rs" site_id="pink_family" xmltv_id="Pink Family">Pink Family</channel>
@@ -120,7 +121,7 @@
     <channel update="i" site="mts.rs" site_id="k1_hd" xmltv_id="K1">K1</channel>
     <channel update="i" site="mts.rs" site_id="agro_tv_duplicate" xmltv_id="Agro TV">Agro TV</channel>
     <channel update="i" site="mts.rs" site_id="balkan_trip_hd" xmltv_id="Balkan Trip">Balkan Trip</channel>
-    <channel update="i" site="mts.rs" site_id="zdravlje_tv" xmltv_id="Zelena TV Zdravlje">Zelena TV Zdravlje</channel>
+    <channel update="i" site="mts.rs" site_id="zdravlje_tv" xmltv_id="Komitet">Komitet</channel>
     <channel update="i" site="mts.rs" site_id="turizam_+_tv" xmltv_id="Turizam + TV">Turizam + TV</channel>
     <channel update="i" site="mts.rs" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="mts.rs" site_id="fashion_tv" xmltv_id="Fashion TV">Fashion TV</channel>
@@ -187,7 +188,6 @@
     <channel update="i" site="mts.rs" site_id="TravelXP_4K" xmltv_id="TravelXP">TravelXP</channel>
     <channel update="i" site="mts.rs" site_id="Love Nature" xmltv_id="Love Nature">Love Nature</channel>
     <channel update="i" site="mts.rs" site_id="Yachting_TV" xmltv_id="Yachting TV ">Yachting TV </channel>
-    <channel update="i" site="mts.rs" site_id="Viasat_History_madjarski" xmltv_id="Viasat History ">Viasat History </channel>
     <channel update="i" site="mts.rs" site_id="kazbuka" xmltv_id="Kazbuka">Kazbuka</channel>
     <channel update="i" site="mts.rs" site_id="dexy_tv_duplicate" xmltv_id="Dexy TV">Dexy TV</channel>
     <channel update="i" site="mts.rs" site_id="rts_poletarac" xmltv_id="RTS Poletarac">RTS Poletarac</channel>
@@ -200,13 +200,14 @@
     <channel update="i" site="mts.rs" site_id="pink_super_kids" xmltv_id="Pink Super Kids">Pink Super Kids</channel>
     <channel update="i" site="mts.rs" site_id="disney_junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="mts.rs" site_id="disney_channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="mts.rs" site_id="Cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="mts.rs" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
     <channel update="i" site="mts.rs" site_id="cartoon_network" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="mts.rs" site_id="hayatovci" xmltv_id="Hayatovci">Hayatovci</channel>
     <channel update="i" site="mts.rs" site_id="nickelodeon_hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel update="i" site="mts.rs" site_id="da_vinci_learning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
     <channel update="i" site="mts.rs" site_id="rtl_kockica" xmltv_id="RTL KOCKICA">RTL KOCKICA</channel>
+    <channel update="i" site="mts.rs" site_id="Cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="mts.rs" site_id="Viasat_History_madjarski" xmltv_id="Viasat History ">Viasat History </channel>
     <channel update="i" site="mts.rs" site_id="pink_music" xmltv_id="Pink Music">Pink Music</channel>
     <channel update="i" site="mts.rs" site_id="pink_music_2" xmltv_id="Pink Music 2">Pink Music 2</channel>
     <channel update="i" site="mts.rs" site_id="bravo_music" xmltv_id="Bravo Music">Bravo Music</channel>
@@ -252,6 +253,8 @@
     <channel update="i" site="mts.rs" site_id="humana_tv_plus" xmltv_id="Humana TV Plus">Humana TV Plus</channel>
     <channel update="i" site="mts.rs" site_id="studio_b_duplicate" xmltv_id="Studio B">Studio B</channel>
     <channel update="i" site="mts.rs" site_id="rtv_fortuna" xmltv_id="RTV Fortuna">RTV Fortuna</channel>
+    <channel update="i" site="mts.rs" site_id="TV_KOLUBARA" xmltv_id="TV Kolubara">TV Kolubara</channel>
+    <channel update="i" site="mts.rs" site_id="tv_mačva" xmltv_id="TV Mačva">TV Mačva</channel>
     <channel update="i" site="mts.rs" site_id="tv_ras" xmltv_id="TV Ras">TV Ras</channel>
     <channel update="i" site="mts.rs" site_id="tv_bap" xmltv_id="TV Bap">TV Bap</channel>
     <channel update="i" site="mts.rs" site_id="tv_subotica" xmltv_id="TV Subotica">TV Subotica</channel>
@@ -267,13 +270,13 @@
     <channel update="i" site="mts.rs" site_id="novosadska_tv" xmltv_id="Novosadska TV">Novosadska TV</channel>
     <channel update="i" site="mts.rs" site_id="tv_delta" xmltv_id="TV Delta">TV Delta</channel>
     <channel update="i" site="mts.rs" site_id="tv_most" xmltv_id="TV Most">TV Most</channel>
-    <channel update="i" site="mts.rs" site_id="RTI" xmltv_id="RTI">RTI</channel>
+    <channel update="i" site="mts.rs" site_id="sremska_tv" xmltv_id="Sremska TV">Sremska TV</channel>
     <channel update="i" site="mts.rs" site_id="vtv" xmltv_id="VTV">VTV</channel>
     <channel update="i" site="mts.rs" site_id="tv_santos" xmltv_id="TV Santos">TV Santos</channel>
     <channel update="i" site="mts.rs" site_id="tv_kikinda" xmltv_id="TV Kikinda">TV Kikinda</channel>
     <channel update="i" site="mts.rs" site_id="tv_lav" xmltv_id="TV Lav">TV Lav</channel>
     <channel update="i" site="mts.rs" site_id="tv_cink" xmltv_id="TV CINK">TV CINK</channel>
-    <channel update="i" site="mts.rs" site_id="sremska_tv" xmltv_id="Sremska TV">Sremska TV</channel>
+    <channel update="i" site="mts.rs" site_id="Sremska S tv" xmltv_id="Sremska S tv">Sremska S tv</channel>
     <channel update="i" site="mts.rs" site_id="tv_petrovec" xmltv_id="TV Petrovec">TV Petrovec</channel>
     <channel update="i" site="mts.rs" site_id="rtv_stara_pazova" xmltv_id="RTV Stara Pazova">RTV Stara Pazova</channel>
     <channel update="i" site="mts.rs" site_id="tv_fruska_gora" xmltv_id="TV Fruška Gora">TV Fruška Gora</channel>
@@ -428,6 +431,7 @@
     <channel update="i" site="mts.rs" site_id="adult_6" xmltv_id="Adult 6">Adult 6</channel>
     <channel update="i" site="mts.rs" site_id="adult_7" xmltv_id="Adult 7">Adult 7</channel>
     <channel update="i" site="mts.rs" site_id="erox" xmltv_id="Erox">Erox</channel>
+    <channel update="i" site="mts.rs" site_id="Naxi_radio_kids " xmltv_id="Naxi radio kids">Naxi radio kids</channel>
     <channel update="i" site="mts.rs" site_id="Radio Hit FM" xmltv_id="Hit FM radio">Hit FM radio</channel>
     <channel update="i" site="mts.rs" site_id="Radio Lola_HD (Radiovizijski) " xmltv_id="Radio Lola HD (Radiovizijski) ">Radio Lola HD (Radiovizijski) </channel>
     <channel update="i" site="mts.rs" site_id="radio_beograd_1" xmltv_id="Radio Beograd 1">Radio Beograd 1</channel>
@@ -500,6 +504,5 @@
     <channel update="i" site="mts.rs" site_id="nezne_note" xmltv_id="Today's K-Pop">Today's K-Pop</channel>
     <channel update="i" site="mts.rs" site_id="decja_muzika" xmltv_id="Greatest Hits">Greatest Hits</channel>
     <channel update="i" site="mts.rs" site_id="srpski_rok" xmltv_id="Serbian Rock">Serbian Rock</channel>
-    <channel update="i" site="mts.rs" site_id="pozicija-rastuce" xmltv_id="Pozicija - Rastuće">Pozicija - Rastuće</channel>
   </channels>
 </site>
