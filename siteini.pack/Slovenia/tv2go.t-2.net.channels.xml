@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.3 -- Jan van Straaten" site="tv2go.t-2.net">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.4 -- Jan van Straaten" site="tv2go.t-2.net">
   <channels>
     <channel update="i" site="tv2go.t-2.net" site_id="1000259##145597" xmltv_id="TV Slovenija 1">TV Slovenija 1</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000260##145598" xmltv_id="TV Slovenija 2">TV Slovenija 2</channel>
@@ -12,7 +12,7 @@
     <channel update="i" site="tv2go.t-2.net" site_id="1000368##4992836" xmltv_id="BRIO">BRIO</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000366##2618178" xmltv_id="KINO">KINO</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000365##145666" xmltv_id="OTO">OTO</channel>
-    <channel update="i" site="tv2go.t-2.net" site_id="1000543##1517351" xmltv_id="T-2 Info">T-2 Info</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000826##4992846" xmltv_id="Harmonik TV">Harmonik TV</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000407##145695" xmltv_id="GOLD TV">GOLD TV</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000485##3220941" xmltv_id="Planet TV 2">Planet TV 2</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000531##4582695" xmltv_id="Nova 24 TV 2">Nova 24 TV 2</channel>
@@ -111,7 +111,6 @@
     <channel update="i" site="tv2go.t-2.net" site_id="1000815##3662470" xmltv_id="Hit TV">Hit TV</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000510##6444272" xmltv_id="TV 3">TV 3</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000285##145618" xmltv_id="Jugoton TV">Jugoton TV</channel>
-    <channel update="i" site="tv2go.t-2.net" site_id="1000826##4992846" xmltv_id="Harmonik TV">Harmonik TV</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000275##145610" xmltv_id="Muzika Pervogo">Muzika Pervogo</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000307##145635" xmltv_id="24Kitchen Adria">24Kitchen Adria</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000814##3662474" xmltv_id="Non Stop">Non Stop</channel>
@@ -182,9 +181,10 @@
     <channel update="i" site="tv2go.t-2.net" site_id="1000352##145657" xmltv_id="Pink World">Pink World</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="66##145334" xmltv_id="ORF1">ORF1</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="67##145335" xmltv_id="ORF2">ORF2</channel>
-    <channel update="i" site="tv2go.t-2.net" site_id="105##145360" xmltv_id="HRT 1">HRT 1</channel>
-    <channel update="i" site="tv2go.t-2.net" site_id="106##145361" xmltv_id="HRT 2">HRT 2</channel>
-    <channel update="i" site="tv2go.t-2.net" site_id="1000620##1402180" xmltv_id="Tržič TV">Tržič TV</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="105##6516720" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="106##6516722" xmltv_id="HRT 2">HRT 2</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000962##6514946" xmltv_id="HRT 3">HRT 3</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000963##6514948" xmltv_id="HRT 4">HRT 4</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000625##1904252" xmltv_id="RAI 1">RAI 1</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000626##1904274" xmltv_id="RAI 2">RAI 2</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000627##1904286" xmltv_id="RAI 3">RAI 3</channel>
@@ -206,6 +206,7 @@
     <channel update="i" site="tv2go.t-2.net" site_id="1000064##145429" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000812##3575351" xmltv_id="Espreso TV">Espreso TV</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="36##145315" xmltv_id="EWTN Europe">EWTN Europe</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000620##1402180" xmltv_id="Tržič TV">Tržič TV</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000001##145381" xmltv_id="ATM Kranjska Gora">ATM Kranjska Gora</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000727##2771811" xmltv_id="TV Miklavž">TV Miklavž</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000474##173597" xmltv_id="Koroška TV">Koroška TV</channel>
@@ -256,6 +257,7 @@
     <channel update="i" site="tv2go.t-2.net" site_id="1000226##145577" xmltv_id="Telma">Telma</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000050##3218944" xmltv_id="M2">M2</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000201##145552" xmltv_id="Sitel">Sitel</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000961##6514950" xmltv_id="Balkan Music">Balkan Music</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="2000000050##145771" xmltv_id="TV Atlas">TV Atlas</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000207##2334774" xmltv_id="B92">B92</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000686##5218412" xmltv_id="Agro TV">Agro TV</channel>
@@ -283,7 +285,7 @@
     <channel update="i" site="tv2go.t-2.net" site_id="2000000046##145767" xmltv_id="KCN 3">KCN 3</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000549##6458230" xmltv_id="FILMBOX+ love&amp;crime">FILMBOX+ love&amp;crime</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000551##2586384" xmltv_id="Docubox">Docubox</channel>
-    <channel update="i" site="tv2go.t-2.net" site_id="1000614##1325393" xmltv_id="Sci Fi">Sci Fi</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000614##6497024" xmltv_id="Sci Fi">Sci Fi</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000945##5745055" xmltv_id="LangLab">LangLab</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000946##5745057" xmltv_id="LingoToons">LingoToons</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000527##999170" xmltv_id="Festival">Festival</channel>
@@ -327,5 +329,6 @@
     <channel update="i" site="tv2go.t-2.net" site_id="1000294##145624" xmltv_id="Play House">Play House</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000490##191619" xmltv_id="RED xxx">RED xxx</channel>
     <channel update="i" site="tv2go.t-2.net" site_id="1000682##2786003" xmltv_id="Extasy">Extasy</channel>
+    <channel update="i" site="tv2go.t-2.net" site_id="1000543##1517351" xmltv_id="T-2 Info">T-2 Info</channel>
   </channels>
 </site>
