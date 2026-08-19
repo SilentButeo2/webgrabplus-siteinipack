@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.3 -- Jan van Straaten" site="musor.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.0.6 -- Jan van Straaten" site="musor.tv">
   <channels>
     <channel update="i" site="musor.tv" site_id="DUNA" xmltv_id="Duna TV (HD)">Duna TV (HD)</channel>
     <channel update="i" site="musor.tv" site_id="DUNAWORLD" xmltv_id="Duna World (HD)">Duna World (HD)</channel>
+    <channel update="i" site="musor.tv" site_id="M1" xmltv_id="M1 (HD)">M1 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="RTL" xmltv_id="RTL (HD)">RTL (HD)</channel>
     <channel update="i" site="musor.tv" site_id="RTL2" xmltv_id="RTL KETTŐ (HD)">RTL KETTŐ (HD)</channel>
     <channel update="i" site="musor.tv" site_id="RTL3" xmltv_id="RTL HÁROM (HD)">RTL HÁROM (HD)</channel>
@@ -63,6 +64,7 @@
     <channel update="i" site="musor.tv" site_id="TV2_KIDS" xmltv_id="TV2 Kids">TV2 Kids</channel>
     <channel update="i" site="musor.tv" site_id="ANIMAL" xmltv_id="Animal Planet (HD)">Animal Planet (HD)</channel>
     <channel update="i" site="musor.tv" site_id="APOSTOL_TV" xmltv_id="Apostol TV">Apostol TV</channel>
+    <channel update="i" site="musor.tv" site_id="AXN_CRIME" xmltv_id="AXN Crime (HD)">AXN Crime (HD)</channel>
     <channel update="i" site="musor.tv" site_id="BBC_EARTH" xmltv_id="BBC Earth (HD)">BBC Earth (HD)</channel>
     <channel update="i" site="musor.tv" site_id="D1TV" xmltv_id="D1 Televízió">D1 Televízió</channel>
     <channel update="i" site="musor.tv" site_id="DAVINCI" xmltv_id="Da Vinci (HD)">Da Vinci (HD)</channel>
@@ -130,7 +132,6 @@
     <channel update="i" site="musor.tv" site_id="ATV_EXTRA" xmltv_id="ATV Extra (HD)">ATV Extra (HD)</channel>
     <channel update="i" site="musor.tv" site_id="EURONEWS" xmltv_id="Euronews (HD)">Euronews (HD)</channel>
     <channel update="i" site="musor.tv" site_id="HIRTV" xmltv_id="Hír TV (HD)">Hír TV (HD)</channel>
-    <channel update="i" site="musor.tv" site_id="M1" xmltv_id="M1 (HD)">M1 (HD)</channel>
     <channel update="i" site="musor.tv" site_id="7TV" xmltv_id="7.TV">7.TV</channel>
     <channel update="i" site="musor.tv" site_id="BALATON_TV" xmltv_id="Balaton TV">Balaton TV</channel>
     <channel update="i" site="musor.tv" site_id="BUDAPEST_TV" xmltv_id="Budapest TV HD">Budapest TV HD</channel>
@@ -142,7 +143,6 @@
     <channel update="i" site="musor.tv" site_id="HEGYVIDEK_TV" xmltv_id="Hegyvidék TV">Hegyvidék TV</channel>
     <channel update="i" site="musor.tv" site_id="KAPOS_TV" xmltv_id="Kapos TV">Kapos TV</channel>
     <channel update="i" site="musor.tv" site_id="PANNON_TV" xmltv_id="Pannon TV (Vajdaság)">Pannon TV (Vajdaság)</channel>
-    <channel update="i" site="musor.tv" site_id="PESTBUDA_TV" xmltv_id="PestBuda TV HD">PestBuda TV HD</channel>
     <channel update="i" site="musor.tv" site_id="SZEGED_TV" xmltv_id="Szeged TV">Szeged TV</channel>
     <channel update="i" site="musor.tv" site_id="TV_EGER" xmltv_id="TV Eger">TV Eger</channel>
     <channel update="i" site="musor.tv" site_id="UJBUDA_TV" xmltv_id="Újbuda TV">Újbuda TV</channel>
@@ -165,6 +165,10 @@
     <channel update="i" site="musor.tv" site_id="RUSSKOE_KINO" xmltv_id="TV1000 Russian Kino">TV1000 Russian Kino</channel>
     <channel update="i" site="musor.tv" site_id="SKYNEWS" xmltv_id="Sky News">Sky News</channel>
     <channel update="i" site="musor.tv" site_id="TRACESPORTS" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="musor.tv" site_id="EUROSPORT4K" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel update="i" site="musor.tv" site_id="FUNBOX_UHD" xmltv_id="Funbox UltraHD 4K">Funbox UltraHD 4K</channel>
+    <channel update="i" site="musor.tv" site_id="LOVE_NATURE" xmltv_id="Love Nature (HD / 4K)">Love Nature (HD / 4K)</channel>
+    <channel update="i" site="musor.tv" site_id="TRAVELXP_4K" xmltv_id="Travel XP 4K">Travel XP 4K</channel>
     <channel update="i" site="musor.tv" site_id="MR1" xmltv_id="Kossuth Rádió">Kossuth Rádió</channel>
     <channel update="i" site="musor.tv" site_id="MR2" xmltv_id="Petőfi Rádió">Petőfi Rádió</channel>
     <channel update="i" site="musor.tv" site_id="MR3" xmltv_id="Bartók Rádió">Bartók Rádió</channel>
