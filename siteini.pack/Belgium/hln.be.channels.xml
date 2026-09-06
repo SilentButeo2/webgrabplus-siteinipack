@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="espn.com">
+  <channels>
+    <channel update="i" site="hln.be" site_id="vtm" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="hln.be" site_id="vrt-1" xmltv_id="VRT 1">VRT 1</channel>
+    <channel update="i" site="hln.be" site_id="play" xmltv_id="Play">Play</channel>
+    <channel update="i" site="hln.be" site_id="vrt-canvas" xmltv_id="VRT Canvas">VRT Canvas</channel>
+    <channel update="i" site="hln.be" site_id="vtm-2" xmltv_id="VTM 2">VTM 2</channel>
+    <channel update="i" site="hln.be" site_id="vtm-3" xmltv_id="VTM 3">VTM 3</channel>
+    <channel update="i" site="hln.be" site_id="vtm-4" xmltv_id="VTM 4">VTM 4</channel>
+    <channel update="i" site="hln.be" site_id="play-fictie" xmltv_id="Play Fictie">Play Fictie</channel>
+    <channel update="i" site="hln.be" site_id="play-actie" xmltv_id="Play Actie">Play Actie</channel>
+    <channel update="i" site="hln.be" site_id="play-reality" xmltv_id="Play Reality">Play Reality</channel>
+    <channel update="i" site="hln.be" site_id="play-crime" xmltv_id="Play Crime">Play Crime</channel>
+    <channel update="i" site="hln.be" site_id="vtm-gold" xmltv_id="VTM GOLD">VTM GOLD</channel>
+    <channel update="i" site="hln.be" site_id="vtm-series" xmltv_id="VTM series">VTM series</channel>
+    <channel update="i" site="hln.be" site_id="ketnet" xmltv_id="Ketnet">Ketnet</channel>
+    <channel update="i" site="hln.be" site_id="qmusic" xmltv_id="Qmusic">Qmusic</channel>
+    <channel update="i" site="hln.be" site_id="joe" xmltv_id="JOE">JOE</channel>
+    <channel update="i" site="hln.be" site_id="willy" xmltv_id="Willy">Willy</channel>
+    <channel update="i" site="hln.be" site_id="npo-1" xmltv_id="NPO 1">NPO 1</channel>
+    <channel update="i" site="hln.be" site_id="npo-2" xmltv_id="NPO 2">NPO 2</channel>
+    <channel update="i" site="hln.be" site_id="npo-3" xmltv_id="NPO 3">NPO 3</channel>
+    <channel update="i" site="hln.be" site_id="bbc-belgium" xmltv_id="BBC Belgium">BBC Belgium</channel>
+    <channel update="i" site="hln.be" site_id="bbc-one" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="hln.be" site_id="bbc-two" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="hln.be" site_id="bbc-news" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="hln.be" site_id="cnn-europe" xmltv_id="CNN Europe">CNN Europe</channel>
+    <channel update="i" site="hln.be" site_id="rtl-tvi" xmltv_id="RTL tvi">RTL tvi</channel>
+    <channel update="i" site="hln.be" site_id="rtl-club" xmltv_id="RTL club">RTL club</channel>
+    <channel update="i" site="hln.be" site_id="la-une" xmltv_id="La Une">La Une</channel>
+    <channel update="i" site="hln.be" site_id="tipik" xmltv_id="Tipik">Tipik</channel>
+    <channel update="i" site="hln.be" site_id="la-trois" xmltv_id="La Trois">La Trois</channel>
+    <channel update="i" site="hln.be" site_id="tf1" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="hln.be" site_id="france-2" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="hln.be" site_id="france-3" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="hln.be" site_id="france-4" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="hln.be" site_id="france-5" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="hln.be" site_id="arte" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="hln.be" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="hln.be" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="hln.be" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="hln.be" site_id="history" xmltv_id="History">History</channel>
+    <channel update="i" site="hln.be" site_id="kanaal-z" xmltv_id="Kanaal Z">Kanaal Z</channel>
+    <channel update="i" site="hln.be" site_id="national-geographic-vlaanderen" xmltv_id="National Geographic Vlaanderen">National Geographic Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="star-belgium" xmltv_id="STAR Belgium">STAR Belgium</channel>
+    <channel update="i" site="hln.be" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="hln.be" site_id="tlc-vlaanderen" xmltv_id="TLC Vlaanderen">TLC Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="hln.be" site_id="discovery-vlaanderen" xmltv_id="Discovery Vlaanderen">Discovery Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="hln.be" site_id="eurosport-1-be" xmltv_id="Eurosport 1 BE">Eurosport 1 BE</channel>
+    <channel update="i" site="hln.be" site_id="eurosport-2-be" xmltv_id="Eurosport 2 BE">Eurosport 2 BE</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-1" xmltv_id="Play Sports 1">Play Sports 1</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-2" xmltv_id="Play Sports 2">Play Sports 2</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-3" xmltv_id="Play Sports 3">Play Sports 3</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-4" xmltv_id="Play Sports 4">Play Sports 4</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-5" xmltv_id="Play Sports 5">Play Sports 5</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-6" xmltv_id="Play Sports 6">Play Sports 6</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-7" xmltv_id="Play Sports 7">Play Sports 7</channel>
+    <channel update="i" site="hln.be" site_id="play-sports-golf" xmltv_id="Play Sports Golf">Play Sports Golf</channel>
+    <channel update="i" site="hln.be" site_id="play-more-cinema" xmltv_id="Play More Cinema">Play More Cinema</channel>
+    <channel update="i" site="hln.be" site_id="play-more-kicks" xmltv_id="Play More Kicks">Play More Kicks</channel>
+    <channel update="i" site="hln.be" site_id="tve-internacional-belgica" xmltv_id="TVE Internacional / Bélgica">TVE Internacional / Bélgica</channel>
+    <channel update="i" site="hln.be" site_id="rai-1" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="hln.be" site_id="studio-100-tv" xmltv_id="Studio 100 TV">Studio 100 TV</channel>
+    <channel update="i" site="hln.be" site_id="comedy-central-vlaanderen" xmltv_id="Comedy Central Vlaanderen">Comedy Central Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="disney-channel-vlaanderen" xmltv_id="Disney Channel Vlaanderen">Disney Channel Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="nickelodeon-vlaanderen" xmltv_id="Nickelodeon Vlaanderen">Nickelodeon Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="cartoon24" xmltv_id="Cartoon24">Cartoon24</channel>
+    <channel update="i" site="hln.be" site_id="mtv-global" xmltv_id="MTV Global">MTV Global</channel>
+    <channel update="i" site="hln.be" site_id="mtv-vlaanderen" xmltv_id="MTV Vlaanderen">MTV Vlaanderen</channel>
+    <channel update="i" site="hln.be" site_id="radio-1" xmltv_id="Radio 1">Radio 1</channel>
+    <channel update="i" site="hln.be" site_id="radio-2" xmltv_id="Radio 2">Radio 2</channel>
+    <channel update="i" site="hln.be" site_id="studio-brussel" xmltv_id="Studio Brussel">Studio Brussel</channel>
+    <channel update="i" site="hln.be" site_id="klara" xmltv_id="Klara">Klara</channel>
+    <channel update="i" site="hln.be" site_id="mnm" xmltv_id="MNM">MNM</channel>
+    <channel update="i" site="hln.be" site_id="nostalgie" xmltv_id="Nostalgie">Nostalgie</channel>
+  </channels>
+</site>
