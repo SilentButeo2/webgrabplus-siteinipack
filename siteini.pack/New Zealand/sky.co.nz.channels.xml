@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.11 -- Jan van Straaten" site="sky.co.nz">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="sky.co.nz">
   <channels>
     <channel update="i" site="sky.co.nz" site_id="TV2A" xmltv_id="TVNZ 1">TVNZ 1</channel>
     <channel update="i" site="sky.co.nz" site_id="TV2H" xmltv_id="TVNZ 2">TVNZ 2</channel>
@@ -10,21 +10,22 @@
     <channel update="i" site="sky.co.nz" site_id="UKTV" xmltv_id="BBC UKTV">BBC UKTV</channel>
     <channel update="i" site="sky.co.nz" site_id="BBCF" xmltv_id="BBC First">BBC First</channel>
     <channel update="i" site="sky.co.nz" site_id="0058" xmltv_id="JONES!">JONES!</channel>
-    <channel update="i" site="sky.co.nz" site_id="0031" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="sky.co.nz" site_id="0205" xmltv_id="Sky Drama">Sky Drama</channel>
+    <channel update="i" site="sky.co.nz" site_id="LIV1" xmltv_id="Living">Living</channel>
     <channel update="i" site="sky.co.nz" site_id="0198" xmltv_id="Universal">Universal</channel>
-    <channel update="i" site="sky.co.nz" site_id="0092" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="sky.co.nz" site_id="0092" xmltv_id="Sky Comedy">Sky Comedy</channel>
     <channel update="i" site="sky.co.nz" site_id="TV4" xmltv_id="Bravo">Bravo</channel>
     <channel update="i" site="sky.co.nz" site_id="0202" xmltv_id="eden">eden</channel>
+    <channel update="i" site="sky.co.nz" site_id="0206" xmltv_id="Sky Factual">Sky Factual</channel>
     <channel update="i" site="sky.co.nz" site_id="0098" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="sky.co.nz" site_id="LIV1" xmltv_id="Living">Living</channel>
     <channel update="i" site="sky.co.nz" site_id="0197" xmltv_id="ID">ID</channel>
     <channel update="i" site="sky.co.nz" site_id="MTSC" xmltv_id="Whakaata Māori">Whakaata Māori</channel>
     <channel update="i" site="sky.co.nz" site_id="ART2" xmltv_id="Sky Arts">Sky Arts</channel>
     <channel update="i" site="sky.co.nz" site_id="0130" xmltv_id="HGTV">HGTV</channel>
-    <channel update="i" site="sky.co.nz" site_id="0036" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="sky.co.nz" site_id="0025" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="sky.co.nz" site_id="0165" xmltv_id="TVNZ DUKE">TVNZ DUKE</channel>
     <channel update="i" site="sky.co.nz" site_id="0201" xmltv_id="Rush">Rush</channel>
+    <channel update="i" site="sky.co.nz" site_id="0036" xmltv_id="Juice TV">Juice TV</channel>
+    <channel update="i" site="sky.co.nz" site_id="0025" xmltv_id="J2">J2</channel>
     <channel update="i" site="sky.co.nz" site_id="MOVI" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
     <channel update="i" site="sky.co.nz" site_id="0065" xmltv_id="Sky Movies Comedy">Sky Movies Comedy</channel>
     <channel update="i" site="sky.co.nz" site_id="0064" xmltv_id="Sky Movies Action">Sky Movies Action</channel>
@@ -42,8 +43,16 @@
     <channel update="i" site="sky.co.nz" site_id="0009" xmltv_id="Sky Sport 7">Sky Sport 7</channel>
     <channel update="i" site="sky.co.nz" site_id="0004" xmltv_id="Sky Sport Premier League">Sky Sport Premier League</channel>
     <channel update="i" site="sky.co.nz" site_id="0016" xmltv_id="Sky Sport 9">Sky Sport 9</channel>
+    <channel update="i" site="sky.co.nz" site_id="0802" xmltv_id="Sky Sport 4K UHD">Sky Sport 4K UHD</channel>
     <channel update="i" site="sky.co.nz" site_id="0026" xmltv_id="ESPN ">ESPN </channel>
     <channel update="i" site="sky.co.nz" site_id="0082" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="sky.co.nz" site_id="0047" xmltv_id="Sky Sport Pop Up 1">Sky Sport Pop Up 1</channel>
+    <channel update="i" site="sky.co.nz" site_id="0122" xmltv_id="Sky Sport Pop Up 2">Sky Sport Pop Up 2</channel>
+    <channel update="i" site="sky.co.nz" site_id="0135" xmltv_id="Sky Sport Pop Up 3">Sky Sport Pop Up 3</channel>
+    <channel update="i" site="sky.co.nz" site_id="0136" xmltv_id="Sky Sport Pop Up 4">Sky Sport Pop Up 4</channel>
+    <channel update="i" site="sky.co.nz" site_id="0137" xmltv_id="Sky Sport Pop Up 5">Sky Sport Pop Up 5</channel>
+    <channel update="i" site="sky.co.nz" site_id="0138" xmltv_id="Sky Sport Pop Up 6">Sky Sport Pop Up 6</channel>
+    <channel update="i" site="sky.co.nz" site_id="0139" xmltv_id="Sky Sport Pop Up 7">Sky Sport Pop Up 7</channel>
     <channel update="i" site="sky.co.nz" site_id="0093" xmltv_id="Trackside 1">Trackside 1</channel>
     <channel update="i" site="sky.co.nz" site_id="0094" xmltv_id="Trackside 2">Trackside 2</channel>
     <channel update="i" site="sky.co.nz" site_id="SARA" xmltv_id="Sky Arena">Sky Arena</channel>
@@ -54,35 +63,32 @@
     <channel update="i" site="sky.co.nz" site_id="0100" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
     <channel update="i" site="sky.co.nz" site_id="ANIM" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="sky.co.nz" site_id="CNTV" xmltv_id="Country TV">Country TV</channel>
-    <channel update="i" site="sky.co.nz" site_id="TREO" xmltv_id="Te Reo">Te Reo</channel>
     <channel update="i" site="sky.co.nz" site_id="0057" xmltv_id="Face TV">Face TV</channel>
-    <channel update="i" site="sky.co.nz" site_id="NEWS" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="sky.co.nz" site_id="NEWS" xmltv_id="News24">News24</channel>
     <channel update="i" site="sky.co.nz" site_id="GOTV" xmltv_id="Parliament">Parliament</channel>
     <channel update="i" site="sky.co.nz" site_id="CNNS" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="sky.co.nz" site_id="FOXN" xmltv_id="Fox News">Fox News</channel>
     <channel update="i" site="sky.co.nz" site_id="BBCV" xmltv_id="BBC World News">BBC World News</channel>
     <channel update="i" site="sky.co.nz" site_id="0062" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel update="i" site="sky.co.nz" site_id="CBNC" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="sky.co.nz" site_id="0021" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="sky.co.nz" site_id="CRTN" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="sky.co.nz" site_id="0021" xmltv_id="Sky Kids">Sky Kids</channel>
     <channel update="i" site="sky.co.nz" site_id="0166" xmltv_id="CBeebies">CBeebies</channel>
-    <channel update="i" site="sky.co.nz" site_id="0020" xmltv_id="Nick Jr">Nick Jr</channel>
     <channel update="i" site="sky.co.nz" site_id="STPH" xmltv_id="Star Plus Hindi">Star Plus Hindi</channel>
     <channel update="i" site="sky.co.nz" site_id="0107" xmltv_id="Colors">Colors</channel>
     <channel update="i" site="sky.co.nz" site_id="0108" xmltv_id="Star Gold">Star Gold</channel>
     <channel update="i" site="sky.co.nz" site_id="SHIN" xmltv_id="SHINE">SHINE</channel>
     <channel update="i" site="sky.co.nz" site_id="0015" xmltv_id="DAYSTAR">DAYSTAR</channel>
-    <channel update="i" site="sky.co.nz" site_id="0078" xmltv_id="SonLife">SonLife</channel>
     <channel update="i" site="sky.co.nz" site_id="0099" xmltv_id="Hope Channel">Hope Channel</channel>
     <channel update="i" site="sky.co.nz" site_id="0131" xmltv_id="Firstlight">Firstlight</channel>
     <channel update="i" site="sky.co.nz" site_id="CGTN" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
     <channel update="i" site="sky.co.nz" site_id="CCTV" xmltv_id="CGTN: China Global Television Network">CGTN: China Global Television Network</channel>
-    <channel update="i" site="sky.co.nz" site_id="AUX1" xmltv_id="CH 888">CH 888</channel>
+    <channel update="i" site="sky.co.nz" site_id="RNZ1" xmltv_id="RNZ National">RNZ National</channel>
+    <channel update="i" site="sky.co.nz" site_id="RNZ2" xmltv_id="RNZ Concert">RNZ Concert</channel>
+    <channel update="i" site="sky.co.nz" site_id="TAHU" xmltv_id="Tahu FM">Tahu FM</channel>
     <channel update="i" site="sky.co.nz" site_id="0049" xmltv_id="TVNZ 1 +1">TVNZ 1 +1</channel>
     <channel update="i" site="sky.co.nz" site_id="0063" xmltv_id="TVNZ 2 +1">TVNZ 2 +1</channel>
     <channel update="i" site="sky.co.nz" site_id="0055" xmltv_id="Three +1">Three +1</channel>
     <channel update="i" site="sky.co.nz" site_id="0195" xmltv_id="TVNZ DUKE +1">TVNZ DUKE +1</channel>
-    <channel update="i" site="sky.co.nz" site_id="0203" xmltv_id="Eden +1">Eden +1</channel>
     <channel update="i" site="sky.co.nz" site_id="0079" xmltv_id="Bravo +1">Bravo +1</channel>
   </channels>
 </site>
