@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="antiktv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="antiktv">
   <channels>
     <channel update="i" site="antiktv" site_id="sk/sk##stv_1" xmltv_id="Jednotka">Jednotka</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##stv_2" xmltv_id="Dvojka">Dvojka</channel>
@@ -8,7 +8,7 @@
     <channel update="i" site="antiktv" site_id="sk/sk##markiza" xmltv_id="Markíza">Markíza</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##joj" xmltv_id="JOJ">JOJ</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##markiza_plus_jedna" xmltv_id="Markíza +1">Markíza +1</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##joj_plus_jedna" xmltv_id="JOJ +1">JOJ +1</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##coronavirus_info_tv" xmltv_id="HaHa TV">HaHa TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##markiza_klasik" xmltv_id="Markíza Klasik">Markíza Klasik</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##dajto" xmltv_id="DajTo">DajTo</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##doma" xmltv_id="Doma">Doma</channel>
@@ -16,10 +16,10 @@
     <channel update="i" site="antiktv" site_id="sk/sk##joj_plus" xmltv_id="JOJ Plus">JOJ Plus</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##joj_sport" xmltv_id="JOJ Šport">JOJ Šport</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##joj_sport_2" xmltv_id="JOJ Šport 2">JOJ Šport 2</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##wau" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##wau" xmltv_id="JOJ Krimi">JOJ Krimi</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##joj_svet" xmltv_id="JOJ Svet">JOJ Svet</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##joj_cinema" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##joj_cinema_plus_jedna" xmltv_id="JOJ Cinema +1">JOJ Cinema +1</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##infokanal_tango" xmltv_id="Antik Info TV">Antik Info TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ta_3" xmltv_id="TA3">TA3</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##joj_24" xmltv_id="JOJ 24">JOJ 24</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##up_network" xmltv_id="Kanal1">Kanal1</channel>
@@ -29,8 +29,11 @@
     <channel update="i" site="antiktv" site_id="sk/sk##lala_tv" xmltv_id="LALA TV">LALA TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##turbo_tv" xmltv_id="Turbo TV">Turbo TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##kviff" xmltv_id="KVIFF TV">KVIFF TV</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##coronavirus_info_tv" xmltv_id="HaHa TV">HaHa TV</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##infokanal_tango" xmltv_id="Antik Info TV">Antik Info TV</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##via_tv" xmltv_id="VIA TV">VIA TV</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##ballcasterz" xmltv_id="Ballcasterz">Ballcasterz</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##pohoda_rebel" xmltv_id="Rebel">Rebel</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##pohoda_relax" xmltv_id="Relax">Relax</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##nase_kosice" xmltv_id="Naše Košice">Naše Košice</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##senzi" xmltv_id="Senzi">Senzi</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##folklorika" xmltv_id="Folklorika">Folklorika</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##slager_premium" xmltv_id="PREMIUM">PREMIUM</channel>
@@ -54,10 +57,9 @@
     <channel update="i" site="antiktv" site_id="sk/sk##kino_barrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##barrandov_plus" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##regionalni_televize" xmltv_id="A11">A11</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##fashion_tv" xmltv_id="Fashion TV Czech &amp; Slovak">Fashion TV Czech &amp; Slovak</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##tv_pianko" xmltv_id="TV Piánko">TV Piánko</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##arena_sport_1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##arena_sport_2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##arena_sport_1" xmltv_id="Kanal1 Sport">Kanal1 Sport</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##arena_sport_2" xmltv_id="Kanal1 Xtra">Kanal1 Xtra</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##nova_sport_1_hd" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##nova_sport_2_hd" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##esp_4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
@@ -67,9 +69,10 @@
     <channel update="i" site="antiktv" site_id="sk/sk##sport_2" xmltv_id="Sport 2">Sport 2</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##auto_motor_und_sport" xmltv_id="Auto Motor und Sport">Auto Motor und Sport</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##gttv" xmltv_id="GTTV">GTTV</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##real_madrid_tv" xmltv_id="Realmadrid TV">Realmadrid TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##golf_channel" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##super_yacht_tv" xmltv_id="SuperYacht TV">SuperYacht TV</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##yachting_tv" xmltv_id="Yachting TV">Yachting TV</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##yachting_tv" xmltv_id="Yachting TV 4K">Yachting TV 4K</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##bbc_earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##national_geographic_channel_hd" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##national_geographic_wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
@@ -105,20 +108,21 @@
     <channel update="i" site="antiktv" site_id="sk/sk##hbo_3" xmltv_id="HBO 3">HBO 3</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##cinemax_2" xmltv_id="Cinemax 2">Cinemax 2</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##epic_drama" xmltv_id="Viasat Epic Drama">Viasat Epic Drama</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##bbc_first" xmltv_id="BBC First">BBC First</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##story4_cze" xmltv_id="Story4">Story4</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##amc" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##film_plus" xmltv_id="Film +">Film +</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##axn" xmltv_id="AXN">AXN</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##axn_white" xmltv_id="AXN White">AXN White</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##axn_black" xmltv_id="AXN Black">AXN Black</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##filmbox" xmltv_id="FilmBox">FilmBox</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_extra_hd" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_premium" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_family" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_plus" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##filmbox" xmltv_id="FilmBox+ One">FilmBox+ One</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_extra_hd" xmltv_id="FilmBox+ Emotion">FilmBox+ Emotion</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_premium" xmltv_id="FilmBox+ hits">FilmBox+ hits</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_family" xmltv_id="FilmBox+ Comedy">FilmBox+ Comedy</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_plus" xmltv_id="FilmBox+ Love &amp; Crime">FilmBox+ Love &amp; Crime</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fightbox_hd" xmltv_id="FightBox">FightBox</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_arthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##filmbox_arthouse" xmltv_id="FilmBox+ Festival">FilmBox+ Festival</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fashionbox_hd" xmltv_id="FashionBox">FashionBox</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fast_and_funbox_hd" xmltv_id="Fast and Funbox">Fast and Funbox</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##docubox_hd" xmltv_id="DocuBox">DocuBox</channel>
@@ -193,7 +197,7 @@
     <channel update="i" site="antiktv" site_id="sk/sk##tv_2" xmltv_id="TV 2">TV 2</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##super_tv2_dvbt" xmltv_id="Super TV2">Super TV2</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##lichi_tv" xmltv_id="TV2 Séf">TV2 Séf</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##fem3" xmltv_id="TV2Klub">TV2Klub</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##fem3" xmltv_id="FEM3">FEM3</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##atv" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##atv_spirit" xmltv_id="ATV Extra">ATV Extra</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##rtl_gold" xmltv_id="RTL Gold">RTL Gold</channel>
@@ -203,21 +207,21 @@
     <channel update="i" site="antiktv" site_id="sk/sk##rtl_plus" xmltv_id="RTL Három">RTL Három</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##csaba_tv" xmltv_id="Csaba TV">Csaba TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##muzsika" xmltv_id="Muzsika">Muzsika</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##1_1_international" xmltv_id="1+1 International">1+1 International</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##marathon" xmltv_id="1+1 Marathon">1+1 Marathon</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ua_tv" xmltv_id="UA TV">UA TV</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##otv" xmltv_id="OTV">OTV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##epsreso_tv" xmltv_id="Espreso TV">Espreso TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##current_time" xmltv_id="Current Time">Current Time</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##1_1_international" xmltv_id="1+1 International">1+1 International</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##marathon" xmltv_id="1+1 Marathon">1+1 Marathon</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##dacha" xmltv_id="Dacha">Dacha</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##rybalka" xmltv_id="Rybalka TV">Rybalka TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##kuskus" xmltv_id="Kus Kus">Kus Kus</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##film_ua_drama" xmltv_id="Film UA Drama">Film UA Drama</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##xsport" xmltv_id="X Sport">X Sport</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##film_ua_life" xmltv_id="Film UA Live">Film UA Live</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##star_cinema" xmltv_id="Star Cinema">Star Cinema</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##star_family" xmltv_id="Star Family">Star Family</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##tv_366" xmltv_id="36,6">36,6</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##kvartal" xmltv_id="Kvartal TV International">Kvartal TV International</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##kvartal" xmltv_id="RAZ 3">RAZ 3</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##dim" xmltv_id="DIM">DIM</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##armenia_1_tv" xmltv_id="Armenia 1 TV">Armenia 1 TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##bbc_world" xmltv_id="BBC News">BBC News</channel>
@@ -248,6 +252,7 @@
     <channel update="i" site="antiktv" site_id="sk/sk##leo_tv" xmltv_id="Leo TV">Leo TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##extasy" xmltv_id="Extasy HD">Extasy HD</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##leo_gold" xmltv_id="Leo TV Gold">Leo TV Gold</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##vixen" xmltv_id="Vixen">Vixen</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##reality_tv" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##passion_xxx" xmltv_id="Passion XXX">Passion XXX</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##dusk" xmltv_id="Dusk! TV">Dusk! TV</channel>
@@ -256,20 +261,12 @@
     <channel update="i" site="antiktv" site_id="sk/sk##mb_dance" xmltv_id="Music Box Dance">Music Box Dance</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##mb_hits" xmltv_id="Music Box Hits">Music Box Hits</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##mb_sexy" xmltv_id="Music Box Sexy">Music Box Sexy</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##mtv_rocks" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##mtv_dance" xmltv_id="club MTV">club MTV</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##vh_1" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##vh1_classic" xmltv_id="MTV 80s">MTV 80s</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ocko" xmltv_id="Óčko">Óčko</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ocko_black_hd" xmltv_id="Óčko Black">Óčko Black</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ocko_expres" xmltv_id="Óčko Expres">Óčko Expres</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ocko_star" xmltv_id="Óčko Star">Óčko Star</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##retro_music_television" xmltv_id="Retro Music Television">Retro Music Television</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##pohoda_rebel" xmltv_id="Rebel">Rebel</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##pohoda_relax" xmltv_id="Relax">Relax</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##stingray_iconcerts" xmltv_id="STINGRAY iConcerts">STINGRAY iConcerts</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##funradio_vianoce" xmltv_id="Fun Rádio Vianoce">Fun Rádio Vianoce</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fun_radio" xmltv_id="Fun rádio">Fun rádio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##radio_expres" xmltv_id="Rádio Expres">Rádio Expres</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##europa_2" xmltv_id="Europa2">Europa2</channel>
@@ -282,7 +279,6 @@
     <channel update="i" site="antiktv" site_id="sk/sk##kiks_rock" xmltv_id="Rádio KIKS Rock Music">Rádio KIKS Rock Music</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##lem_fm" xmltv_id="LEM.fm">LEM.fm</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##radio_sky" xmltv_id="Rádio SKY">Rádio SKY</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##sirava_vianoce" xmltv_id="Rádio Šírava Vianoce">Rádio Šírava Vianoce</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##rusyn_fm" xmltv_id="rusyn FM">rusyn FM</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##sro_1_slovensko" xmltv_id="Rádio Slovensko">Rádio Slovensko</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##sro2_regina_kosice" xmltv_id="Rádio Regina Východ">Rádio Regina Východ</channel>
@@ -299,11 +295,12 @@
     <channel update="i" site="antiktv" site_id="sk/sk##trnavske_radio" xmltv_id="Trnavské rádio">Trnavské rádio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##sub_fm" xmltv_id="SUB FM">SUB FM</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##viva_radio" xmltv_id="Rádio Viva">Rádio Viva</channel>
-    <channel update="i" site="antiktv" site_id="sk/sk##dance_radio" xmltv_id="Dance Rádio">Dance Rádio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fit_family_radio" xmltv_id="FIT Family Radio">FIT Family Radio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##dobre_radio" xmltv_id="Dobré Rádio">Dobré Rádio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##world_radio" xmltv_id="World Radio">World Radio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fr_dance" xmltv_id="Fun Rádio Dance">Fun Rádio Dance</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##fr_mlienialky" xmltv_id="Fun Rádio Mileniálky">Fun Rádio Mileniálky</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##dance_radio" xmltv_id="Dance Rádio">Dance Rádio</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fr_sk_cz" xmltv_id="Fun Rádio CZ-SK">Fun Rádio CZ-SK</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fr_80_90" xmltv_id="Fun Rádio 80s - 90s">Fun Rádio 80s - 90s</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##fr_chill" xmltv_id="Fun Rádio Chill">Fun Rádio Chill</channel>
@@ -344,6 +341,7 @@
     <channel update="i" site="antiktv" site_id="sk/sk##ke_mier" xmltv_id="KE Mier">KE Mier</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ke_amfiteater" xmltv_id="KE Amfiteáter">KE Amfiteáter</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##ke_magistrat" xmltv_id="KE Magistrát">KE Magistrát</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##ke_letisko" xmltv_id="Aeroklub Košice">Aeroklub Košice</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##he_mala_stanica" xmltv_id="HE Malá stanica">HE Malá stanica</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##kameravystatry" xmltv_id="Vysoké Tatry">Vysoké Tatry</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##kojsovska_hola" xmltv_id="Kojšovská hoľa">Kojšovská hoľa</channel>
@@ -361,5 +359,7 @@
     <channel update="i" site="antiktv" site_id="sk/sk##chopok" xmltv_id="Chopok">Chopok</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##strbske_pleso_5" xmltv_id="Štrbské Pleso">Štrbské Pleso</channel>
     <channel update="i" site="antiktv" site_id="sk/sk##rk_scp" xmltv_id="RK - Tatranská cesta">RK - Tatranská cesta</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##lomnicak" xmltv_id="Lomnický Štít">Lomnický Štít</channel>
+    <channel update="i" site="antiktv" site_id="sk/sk##rk_panorama" xmltv_id="RK - Panoráma">RK - Panoráma</channel>
   </channels>
 </site>

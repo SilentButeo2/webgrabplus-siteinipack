@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="antiktv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="antiktv">
   <channels>
     <channel update="i" site="antiktv" site_id="cz/cs##ct_1" xmltv_id="ČT1">ČT1</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##mb_sexy" xmltv_id="Music Box Sexy">Music Box Sexy</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ct_2" xmltv_id="ČT2">ČT2</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ct_24" xmltv_id="ČT24">ČT24</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##nova" xmltv_id="Nova">Nova</channel>
@@ -21,6 +20,7 @@
     <channel update="i" site="antiktv" site_id="cz/cs##prima_zoom" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##prima_news" xmltv_id="CNN Prima News">CNN Prima News</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ct_sport" xmltv_id="ČT sport">ČT sport</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##prima_sport" xmltv_id="Prima sport">Prima sport</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ct_detem_ct_art" xmltv_id="ČT :D / ČT art">ČT :D / ČT art</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##barrandov" xmltv_id="Barrandov">Barrandov</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##kino_barrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
@@ -28,8 +28,8 @@
     <channel update="i" site="antiktv" site_id="cz/cs##seznam_tv" xmltv_id="Seznam.cz TV">Seznam.cz TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##kviff" xmltv_id="KVIFF TV">KVIFF TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##dvtv" xmltv_id="DVTV Extra">DVTV Extra</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##prima_comedy_central" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##warner" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##ballcasterz" xmltv_id="Ballcasterz">Ballcasterz</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##regionalni_televize" xmltv_id="A11">A11</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##story4_cze" xmltv_id="Story4">Story4</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##joj_cinema" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
@@ -48,13 +48,13 @@
     <channel update="i" site="antiktv" site_id="cz/cs##eurosport_1" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##esp_4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##eurosport_2" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##sport_1" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##sport_1_cz" xmltv_id="Sport 1">Sport 1</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##sport_2" xmltv_id="Sport 2">Sport 2</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##arena_sport_1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##arena_sport_2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##arena_sport_1" xmltv_id="Kanal1 Sport">Kanal1 Sport</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##arena_sport_2" xmltv_id="Kanal1 Xtra">Kanal1 Xtra</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##nova_sport_1_hd" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##nova_sport_2_hd" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##sporty_tv" xmltv_id="Sporty TV">Sporty TV</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##real_madrid_tv" xmltv_id="Realmadrid TV">Realmadrid TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##auto_motor_und_sport" xmltv_id="Auto Motor und Sport">Auto Motor und Sport</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##golf_channel" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##super_yacht_tv" xmltv_id="SuperYacht TV">SuperYacht TV</channel>
@@ -89,7 +89,6 @@
     <channel update="i" site="antiktv" site_id="cz/cs##hgtv" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##tv_paprika" xmltv_id="TV Paprika">TV Paprika</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##food_network" xmltv_id="Food Network">Food Network</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##fashion_tv" xmltv_id="Fashion TV Czech &amp; Slovak">Fashion TV Czech &amp; Slovak</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##english_club_tv" xmltv_id="English Club TV">English Club TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##lingo_toons" xmltv_id="Lingo Toons">Lingo Toons</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##lang_lab" xmltv_id="LangLab">LangLab</channel>
@@ -98,13 +97,14 @@
     <channel update="i" site="antiktv" site_id="cz/cs##hbo_3" xmltv_id="HBO 3">HBO 3</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cinemax" xmltv_id="Cinemax">Cinemax</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cinemax_2" xmltv_id="Cinemax 2">Cinemax 2</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##epic_drama" xmltv_id="Epic Drama">Epic Drama</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##filmbox" xmltv_id="FilmBox">FilmBox</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_extra_hd" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_premium" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_family" xmltv_id="FilmBox Family">FilmBox Family</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_plus" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_arthouse" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##epic_drama" xmltv_id="Viasat Epic Drama">Viasat Epic Drama</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##bbc_first" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_cz" xmltv_id="FilmBox+ One">FilmBox+ One</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_extra_hd" xmltv_id="FilmBox+ Emotion">FilmBox+ Emotion</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_premium" xmltv_id="FilmBox+ Hits">FilmBox+ Hits</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_family" xmltv_id="FilmBox+ Comedy">FilmBox+ Comedy</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_plus" xmltv_id="FilmBox+ Love &amp; Crime">FilmBox+ Love &amp; Crime</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##filmbox_arthouse" xmltv_id="FilmBox+ Festival">FilmBox+ Festival</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##fightbox_hd" xmltv_id="FightBox">FightBox</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##fashionbox_hd" xmltv_id="FashionBox">FashionBox</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##gttv" xmltv_id="GTTV">GTTV</channel>
@@ -139,12 +139,8 @@
     <channel update="i" site="antiktv" site_id="cz/cs##senzi" xmltv_id="Senzi">Senzi</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##mb_classic" xmltv_id="Music Box Classic">Music Box Classic</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##mb_dance" xmltv_id="Music Box Dance">Music Box Dance</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##mb_hitsw" xmltv_id="Music Box Hits">Music Box Hits</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##vh1_classic" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##mtv_rocks" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##vh_1" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##mtv_hits" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##mtv_dance" xmltv_id="club MTV">club MTV</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##mb_hits" xmltv_id="Music Box Hits">Music Box Hits</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##mb_sexy" xmltv_id="Music Box Sexy">Music Box Sexy</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ocko" xmltv_id="Óčko">Óčko</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ocko_black_hd" xmltv_id="Óčko Black">Óčko Black</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##ocko_expres" xmltv_id="Óčko Expres">Óčko Expres</channel>
@@ -186,6 +182,7 @@
     <channel update="i" site="antiktv" site_id="cz/cs##extasy" xmltv_id="Extasy HD">Extasy HD</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##extasy_passion" xmltv_id="Extasy 4K Platinum">Extasy 4K Platinum</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##leo_gold" xmltv_id="Leo TV Gold">Leo TV Gold</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##vixen" xmltv_id="Vixen">Vixen</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##reality_kings_tv" xmltv_id="Reality Kings TV">Reality Kings TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##true_amateurs" xmltv_id="True Amateurs">True Amateurs</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##bang_u" xmltv_id="Bang U">Bang U</channel>
@@ -196,7 +193,7 @@
     <channel update="i" site="antiktv" site_id="cz/cs##praha" xmltv_id="Praha TV">Praha TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##brno" xmltv_id="TV Brno 1">TV Brno 1</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##polar" xmltv_id="Polar TV">Polar TV</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##roma_tv" xmltv_id="Roma TV">Roma TV</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##oik" xmltv_id="OIK TV">OIK TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##slovacko" xmltv_id="TV S">TV S</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##utv" xmltv_id="UTV">UTV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##jc1" xmltv_id="JČ 1">JČ 1</channel>
@@ -205,6 +202,7 @@
     <channel update="i" site="antiktv" site_id="cz/cs##ivysocina" xmltv_id="i-Vysočina.CZ">i-Vysočina.CZ</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##tv_kladno" xmltv_id="TV Kladno">TV Kladno</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##tv_beskyd" xmltv_id="TV Beskyd">TV Beskyd</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##gimi_tv" xmltv_id="Gimi TV">Gimi TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##jtv" xmltv_id="JTV">JTV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##zak" xmltv_id="TV ZAK">TV ZAK</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##plzen" xmltv_id="Plzeň TV">Plzeň TV</channel>
@@ -220,25 +218,26 @@
     <channel update="i" site="antiktv" site_id="cz/cs##ct_1_svc" xmltv_id="ČT 1 SVC">ČT 1 SVC</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##1_1_international" xmltv_id="1+1 International">1+1 International</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##marathon" xmltv_id="1+1 Marathon">1+1 Marathon</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##kvartal" xmltv_id="Kvartal TV International">Kvartal TV International</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##kvartal" xmltv_id="RAZ 3">RAZ 3</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##dacha" xmltv_id="Dacha">Dacha</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##rybalka" xmltv_id="Rybalka TV">Rybalka TV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##kuskus" xmltv_id="Kus Kus">Kus Kus</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##film_ua_drama" xmltv_id="Film UA Drama">Film UA Drama</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##xsport" xmltv_id="X Sport">X Sport</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##film_ua_life" xmltv_id="Film UA Live">Film UA Live</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##star_cinema" xmltv_id="Star Cinema">Star Cinema</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##star_family" xmltv_id="Star Family">Star Family</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##dim" xmltv_id="DIM">DIM</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##otv" xmltv_id="OTV">OTV</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##tv_366" xmltv_id="36,6">36,6</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cro1_zurnal" xmltv_id="ČRO1 - Rádiožurnál">ČRO1 - Rádiožurnál</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cro2_dvojka" xmltv_id="ČRO2 - Dvojka">ČRO2 - Dvojka</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cro3_vltava" xmltv_id="ČRO3 - Vltava">ČRO3 - Vltava</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##plusjazz" xmltv_id="ČRO - Plus">ČRO - Plus</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##cro_plus" xmltv_id="ČRO Plus/jazz">ČRO Plus/jazz</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##cro_plus" xmltv_id="ČRO - Jazz">ČRO - Jazz</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##d_dur" xmltv_id="ČRO - D-dur">ČRO - D-dur</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##wawe" xmltv_id="ČRO Wave">ČRO Wave</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cro_sport" xmltv_id="ČRo - Radiožurnál Sport">ČRo - Radiožurnál Sport</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##world_radio" xmltv_id="World Radio">World Radio</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cro_sever" xmltv_id="ČRO - Sever">ČRO - Sever</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##region_radio" xmltv_id="ČRO Region">ČRO Region</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##cro_junior" xmltv_id="ČRO - Junior">ČRO - Junior</channel>
@@ -254,7 +253,6 @@
     <channel update="i" site="antiktv" site_id="cz/cs##beat_radio" xmltv_id="Beat">Beat</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##radio_dechovka" xmltv_id="Rádio Dechovka">Rádio Dechovka</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##proglas" xmltv_id="Proglas">Proglas</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##world_radio" xmltv_id="World Radio">World Radio</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##fun_radio" xmltv_id="Fun rádio">Fun rádio</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##radio_expres" xmltv_id="Rádio Expres">Rádio Expres</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##radio_rock" xmltv_id="Radio Rock">Radio Rock</channel>
@@ -276,8 +274,19 @@
     <channel update="i" site="antiktv" site_id="cz/cs##fr_80_90" xmltv_id="Fun Rádio 80s - 90s">Fun Rádio 80s - 90s</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##fr_chill" xmltv_id="Fun Rádio Chill">Fun Rádio Chill</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##dychovka" xmltv_id="Rádio Dychovka">Rádio Dychovka</channel>
-    <channel update="i" site="antiktv" site_id="cz/cs##planespotting_praha" xmltv_id="Planespotting Praha">Planespotting Praha</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##zoo_praha_1" xmltv_id="Zoo Praha">Zoo Praha</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##zoo_brno_1" xmltv_id="ZOO Brno 1">ZOO Brno 1</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##zoo_brno_2" xmltv_id="ZOO Brno 2">ZOO Brno 2</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##zoo_brno_3" xmltv_id="Zoo Brno 3">Zoo Brno 3</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##spindleruv_mlyn" xmltv_id="Špindleruv Mlýn">Špindleruv Mlýn</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##ceske_budejovice_2" xmltv_id="České Budejovice - Staré mesto">České Budejovice - Staré mesto</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##ceske_budejovice_1" xmltv_id="České Budejovice - Náměstí">České Budejovice - Náměstí</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##prisovice_capi" xmltv_id="Příšovice - čapí hnízdo">Příšovice - čapí hnízdo</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##stribro_namesti" xmltv_id="Stříbro - náměstí">Stříbro - náměstí</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##zubri" xmltv_id="Zubří - panoráma">Zubří - panoráma</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##lazne_karlova_studanka" xmltv_id="Lázně Karlova Studánka">Lázně Karlova Studánka</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##kameravystatry" xmltv_id="Vysoké Tatry">Vysoké Tatry</channel>
     <channel update="i" site="antiktv" site_id="cz/cs##banska_stiavncia_panorama" xmltv_id="Banská Štiavnica">Banská Štiavnica</channel>
+    <channel update="i" site="antiktv" site_id="cz/cs##planespotting_praha" xmltv_id="Planespotting Praha">Planespotting Praha</channel>
   </channels>
 </site>
