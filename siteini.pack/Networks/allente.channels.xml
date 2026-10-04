@@ -1,6 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="allente">
   <channels>
+    <channel update="i" site="allente" site_id="se_30001" xmltv_id="DR1 HD">DR1 HD</channel>
+    <channel update="i" site="allente" site_id="se_30003" xmltv_id="TV 2 HD (D)">TV 2 HD (D)</channel>
+    <channel update="i" site="allente" site_id="se_30007" xmltv_id="TV3 HD (D)">TV3 HD (D)</channel>
+    <channel update="i" site="allente" site_id="se_30032" xmltv_id="TV3+ HD (D)">TV3+ HD (D)</channel>
+    <channel update="i" site="allente" site_id="se_30008" xmltv_id="TV3 Puls HD">TV3 Puls HD</channel>
+    <channel update="i" site="allente" site_id="se_30004" xmltv_id="Kanal 4 HD">Kanal 4 HD</channel>
+    <channel update="i" site="allente" site_id="se_30005" xmltv_id="Kanal 5 HD (D)">Kanal 5 HD (D)</channel>
+    <channel update="i" site="allente" site_id="se_30012" xmltv_id="TV 2 News HD">TV 2 News HD</channel>
+    <channel update="i" site="allente" site_id="se_30013" xmltv_id="TV 2 Charlie HD">TV 2 Charlie HD</channel>
+    <channel update="i" site="allente" site_id="se_30014" xmltv_id="TV 2 Fri HD">TV 2 Fri HD</channel>
+    <channel update="i" site="allente" site_id="se_30002" xmltv_id="DR2 HD">DR2 HD</channel>
+    <channel update="i" site="allente" site_id="se_30006" xmltv_id="6'eren HD">6'eren HD</channel>
+    <channel update="i" site="allente" site_id="se_30015" xmltv_id="dk4 HD">dk4 HD</channel>
+    <channel update="i" site="allente" site_id="se_50057" xmltv_id="V crime HD">V crime HD</channel>
+    <channel update="i" site="allente" site_id="se_50052" xmltv_id="V classics HD">V classics HD</channel>
+    <channel update="i" site="allente" site_id="se_30019" xmltv_id="TV 2 Echo HD">TV 2 Echo HD</channel>
+    <channel update="i" site="allente" site_id="se_50026" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="allente" site_id="se_50038" xmltv_id="BBC Nordic HD">BBC Nordic HD</channel>
+    <channel update="i" site="allente" site_id="se_50012" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="allente" site_id="se_30017" xmltv_id="TLC Danmark">TLC Danmark</channel>
     <channel update="i" site="allente" site_id="se_50143" xmltv_id="Mezzo Live">Mezzo Live</channel>
     <channel update="i" site="allente" site_id="se_50142" xmltv_id="Love Nature HD">Love Nature HD</channel>
     <channel update="i" site="allente" site_id="se_50007" xmltv_id="HISTORY">HISTORY</channel>
@@ -58,6 +78,29 @@
     <channel update="i" site="allente" site_id="se_30042" xmltv_id="TV 2 / Bornholm">TV 2 / Bornholm</channel>
     <channel update="i" site="allente" site_id="se_10002" xmltv_id="NRK2 HD">NRK2 HD</channel>
     <channel update="i" site="allente" site_id="se_10003" xmltv_id="NRK Super / NRK3 HD">NRK Super / NRK3 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20001" xmltv_id="SVT1 HD">SVT1 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20002" xmltv_id="SVT2 HD">SVT2 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20003" xmltv_id="TV3 HD (S)">TV3 HD (S)</channel>
+    <channel update="i" site="allente" site_id="fi_20004" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20005" xmltv_id="Kanal 5 HD (S)">Kanal 5 HD (S)</channel>
+    <channel update="i" site="allente" site_id="fi_20064" xmltv_id="TV6 HD (S)">TV6 HD (S)</channel>
+    <channel update="i" site="allente" site_id="fi_20007" xmltv_id="Sjuan HD">Sjuan HD</channel>
+    <channel update="i" site="allente" site_id="fi_20008" xmltv_id="TV8 HD">TV8 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20009" xmltv_id="Kanal 9 HD">Kanal 9 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20060" xmltv_id="TV10 HD">TV10 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20011" xmltv_id="Kanal 11 HD">Kanal 11 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20012" xmltv_id="TV12 HD">TV12 HD</channel>
+    <channel update="i" site="allente" site_id="fi_20147" xmltv_id="Viaplay Sport HD">Viaplay Sport HD</channel>
+    <channel update="i" site="allente" site_id="fi_50057" xmltv_id="V crime HD">V crime HD</channel>
+    <channel update="i" site="allente" site_id="fi_20023" xmltv_id="TV4 Film">TV4 Film</channel>
+    <channel update="i" site="allente" site_id="fi_20022" xmltv_id="TV4 Guld">TV4 Guld</channel>
+    <channel update="i" site="allente" site_id="fi_50026" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="allente" site_id="fi_20016" xmltv_id="TLC Sverige HD">TLC Sverige HD</channel>
+    <channel update="i" site="allente" site_id="fi_20146" xmltv_id="BBC Nordic HD (S)">BBC Nordic HD (S)</channel>
+    <channel update="i" site="allente" site_id="fi_20104" xmltv_id="ATG Live HD">ATG Live HD</channel>
+    <channel update="i" site="allente" site_id="fi_20150" xmltv_id="Köket">Köket</channel>
+    <channel update="i" site="allente" site_id="fi_20059" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel update="i" site="allente" site_id="fi_50012" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="allente" site_id="fi_50143" xmltv_id="Mezzo Live">Mezzo Live</channel>
     <channel update="i" site="allente" site_id="fi_20017" xmltv_id="TV4 Fakta">TV4 Fakta</channel>
     <channel update="i" site="allente" site_id="fi_20013" xmltv_id="Kunskapskanalen HD">Kunskapskanalen HD</channel>
@@ -123,6 +166,43 @@
     <channel update="i" site="allente" site_id="fi_40024" xmltv_id="Yle TV2 HD">Yle TV2 HD</channel>
     <channel update="i" site="allente" site_id="fi_80004" xmltv_id="892 - TVN accessibility test">892 - TVN accessibility test</channel>
     <channel update="i" site="allente" site_id="fi_80001" xmltv_id="895 GC 5 test">895 GC 5 test</channel>
+    <channel update="i" site="allente" site_id="no_40023" xmltv_id="Yle TV1 HD">Yle TV1 HD</channel>
+    <channel update="i" site="allente" site_id="no_40024" xmltv_id="Yle TV2 HD">Yle TV2 HD</channel>
+    <channel update="i" site="allente" site_id="no_40025" xmltv_id="MTV3 HD">MTV3 HD</channel>
+    <channel update="i" site="allente" site_id="no_40056" xmltv_id="Viaplay TV HD">Viaplay TV HD</channel>
+    <channel update="i" site="allente" site_id="no_40009" xmltv_id="MTV Juniori HD">MTV Juniori HD</channel>
+    <channel update="i" site="allente" site_id="no_50052" xmltv_id="V classics HD">V classics HD</channel>
+    <channel update="i" site="allente" site_id="no_50026" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="allente" site_id="no_50057" xmltv_id="V crime HD">V crime HD</channel>
+    <channel update="i" site="allente" site_id="no_50142" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel update="i" site="allente" site_id="no_50113" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="allente" site_id="no_50114" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="allente" site_id="no_50115" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel update="i" site="allente" site_id="no_50054" xmltv_id="National Geographic HD (S/F)">National Geographic HD (S/F)</channel>
+    <channel update="i" site="allente" site_id="no_50007" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="allente" site_id="no_50008" xmltv_id="HISTORY 2">HISTORY 2</channel>
+    <channel update="i" site="allente" site_id="no_20059" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel update="i" site="allente" site_id="no_50038" xmltv_id="BBC Nordic HD">BBC Nordic HD</channel>
+    <channel update="i" site="allente" site_id="no_50133" xmltv_id="SkyShowtime 1 HD">SkyShowtime 1 HD</channel>
+    <channel update="i" site="allente" site_id="no_50132" xmltv_id="SkyShowtime 2 HD">SkyShowtime 2 HD</channel>
+    <channel update="i" site="allente" site_id="no_50078" xmltv_id="V sport premium HD (S)">V sport premium HD (S)</channel>
+    <channel update="i" site="allente" site_id="no_50079" xmltv_id="V sport 1 HD (S)">V sport 1 HD (S)</channel>
+    <channel update="i" site="allente" site_id="no_50144" xmltv_id="Dizi">Dizi</channel>
+    <channel update="i" site="allente" site_id="no_50056" xmltv_id="V sport football HD (S)">V sport football HD (S)</channel>
+    <channel update="i" site="allente" site_id="no_50049" xmltv_id="V sport vinter HD (S)">V sport vinter HD (S)</channel>
+    <channel update="i" site="allente" site_id="no_50030" xmltv_id="SF-kanalen">SF-kanalen</channel>
+    <channel update="i" site="allente" site_id="no_40052" xmltv_id="V sport premium HD (F)">V sport premium HD (F)</channel>
+    <channel update="i" site="allente" site_id="no_40051" xmltv_id="V sport 1 HD (F)">V sport 1 HD (F)</channel>
+    <channel update="i" site="allente" site_id="no_50077" xmltv_id="V sport golf HD">V sport golf HD</channel>
+    <channel update="i" site="allente" site_id="no_40030" xmltv_id="Viaplay 3 Urheilu HD">Viaplay 3 Urheilu HD</channel>
+    <channel update="i" site="allente" site_id="no_40031" xmltv_id="Viaplay 2 Urheilu HD">Viaplay 2 Urheilu HD</channel>
+    <channel update="i" site="allente" site_id="no_40049" xmltv_id="V sport football HD (F)">V sport football HD (F)</channel>
+    <channel update="i" site="allente" site_id="no_40032" xmltv_id="Viaplay 1 Urheilu HD">Viaplay 1 Urheilu HD</channel>
+    <channel update="i" site="allente" site_id="no_40050" xmltv_id="V sport vinter HD (F)">V sport vinter HD (F)</channel>
+    <channel update="i" site="allente" site_id="no_40014" xmltv_id="MTV Max HD">MTV Max HD</channel>
+    <channel update="i" site="allente" site_id="no_40015" xmltv_id="MTV Urheilu 1 HD">MTV Urheilu 1 HD</channel>
+    <channel update="i" site="allente" site_id="no_40016" xmltv_id="MTV Urheilu 2 HD">MTV Urheilu 2 HD</channel>
+    <channel update="i" site="allente" site_id="no_40054" xmltv_id="MTV Urheilu 3 HD">MTV Urheilu 3 HD</channel>
     <channel update="i" site="allente" site_id="no_20025" xmltv_id="Eurosport 1 HD (F)">Eurosport 1 HD (F)</channel>
     <channel update="i" site="allente" site_id="no_50055" xmltv_id="Eurosport 2 HD (S/F)">Eurosport 2 HD (S/F)</channel>
     <channel update="i" site="allente" site_id="no_40041" xmltv_id="MTV Liiga 1">MTV Liiga 1</channel>
@@ -154,6 +234,40 @@
     <channel update="i" site="allente" site_id="no_50107" xmltv_id="V film action HD">V film action HD</channel>
     <channel update="i" site="allente" site_id="no_50108" xmltv_id="V film hits HD">V film hits HD</channel>
     <channel update="i" site="allente" site_id="no_50109" xmltv_id="V film family">V film family</channel>
+    <channel update="i" site="allente" site_id="dk_10001" xmltv_id="NRK1 HD">NRK1 HD</channel>
+    <channel update="i" site="allente" site_id="dk_10002" xmltv_id="NRK2 HD">NRK2 HD</channel>
+    <channel update="i" site="allente" site_id="dk_10003" xmltv_id="NRK Super / NRK3 HD">NRK Super / NRK3 HD</channel>
+    <channel update="i" site="allente" site_id="dk_10004" xmltv_id="TV 2 Direkte HD">TV 2 Direkte HD</channel>
+    <channel update="i" site="allente" site_id="dk_10006" xmltv_id="TV 2 Nyheter HD">TV 2 Nyheter HD</channel>
+    <channel update="i" site="allente" site_id="dk_10009" xmltv_id="TVNorge HD">TVNorge HD</channel>
+    <channel update="i" site="allente" site_id="dk_10013" xmltv_id="TV3 HD (N)">TV3 HD (N)</channel>
+    <channel update="i" site="allente" site_id="dk_10011" xmltv_id="REX HD">REX HD</channel>
+    <channel update="i" site="allente" site_id="dk_50045" xmltv_id="TV3+ HD (N)">TV3+ HD (N)</channel>
+    <channel update="i" site="allente" site_id="dk_10005" xmltv_id="TV 2 Zebra HD">TV 2 Zebra HD</channel>
+    <channel update="i" site="allente" site_id="dk_10007" xmltv_id="TV 2 Livsstil HD">TV 2 Livsstil HD</channel>
+    <channel update="i" site="allente" site_id="dk_10010" xmltv_id="FEM HD">FEM HD</channel>
+    <channel update="i" site="allente" site_id="dk_10019" xmltv_id="TV6 (N)">TV6 (N)</channel>
+    <channel update="i" site="allente" site_id="dk_10100" xmltv_id="Heim HD">Heim HD</channel>
+    <channel update="i" site="allente" site_id="dk_50057" xmltv_id="V crime HD">V crime HD</channel>
+    <channel update="i" site="allente" site_id="dk_10099" xmltv_id="TV 2 Sport 1 HD">TV 2 Sport 1 HD</channel>
+    <channel update="i" site="allente" site_id="dk_10021" xmltv_id="TV 2 Sport 2 HD">TV 2 Sport 2 HD</channel>
+    <channel update="i" site="allente" site_id="dk_50047" xmltv_id="V sport 1 HD (N)">V sport 1 HD (N)</channel>
+    <channel update="i" site="allente" site_id="dk_50026" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="allente" site_id="dk_50080" xmltv_id="V sport 2 HD">V sport 2 HD</channel>
+    <channel update="i" site="allente" site_id="dk_10018" xmltv_id="Discovery Channel HD (N)">Discovery Channel HD (N)</channel>
+    <channel update="i" site="allente" site_id="dk_10017" xmltv_id="TLC Norge HD">TLC Norge HD</channel>
+    <channel update="i" site="allente" site_id="dk_10023" xmltv_id="National Geographic HD (N)">National Geographic HD (N)</channel>
+    <channel update="i" site="allente" site_id="dk_10012" xmltv_id="VOX HD">VOX HD</channel>
+    <channel update="i" site="allente" site_id="dk_10025" xmltv_id="BBC Nordic HD (N)">BBC Nordic HD (N)</channel>
+    <channel update="i" site="allente" site_id="dk_50113" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="allente" site_id="dk_50114" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="allente" site_id="dk_50115" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+    <channel update="i" site="allente" site_id="dk_50133" xmltv_id="SkyShowtime 1 HD">SkyShowtime 1 HD</channel>
+    <channel update="i" site="allente" site_id="dk_50132" xmltv_id="SkyShowtime 2 HD">SkyShowtime 2 HD</channel>
+    <channel update="i" site="allente" site_id="dk_50012" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="allente" site_id="dk_50052" xmltv_id="V classics HD">V classics HD</channel>
+    <channel update="i" site="allente" site_id="dk_10101" xmltv_id="Naturkanal1">Naturkanal1</channel>
+    <channel update="i" site="allente" site_id="dk_20059" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
     <channel update="i" site="allente" site_id="dk_50143" xmltv_id="Mezzo Live">Mezzo Live</channel>
     <channel update="i" site="allente" site_id="dk_50142" xmltv_id="Love Nature HD">Love Nature HD</channel>
     <channel update="i" site="allente" site_id="dk_50010" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
