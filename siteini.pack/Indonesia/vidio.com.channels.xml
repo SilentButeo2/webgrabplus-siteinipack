@@ -1,45 +1,70 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.0.8 -- Jan van Straaten" site="vidio.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="vidio.com">
   <channels>
-    <channel update="i" site="vidio.com" site_id="204204/4e9f5c.png" xmltv_id="SCTV">SCTV</channel>
-    <channel update="i" site="vidio.com" site_id="205205/54ab19.png" xmltv_id="Indosiar">Indosiar</channel>
-    <channel update="i" site="vidio.com" site_id="733733/ecaa60.png" xmltv_id="TRANS TV">TRANS TV</channel>
-    <channel update="i" site="vidio.com" site_id="734734/131514.png" xmltv_id="Trans7">Trans7</channel>
-    <channel update="i" site="vidio.com" site_id="206206/1823dc.png" xmltv_id="Moji">Moji</channel>
-    <channel update="i" site="vidio.com" site_id="777777/ea8483.png" xmltv_id="Metro TV">Metro TV</channel>
-    <channel update="i" site="vidio.com" site_id="874874/042ca3.png" xmltv_id="Kompas TV">Kompas TV</channel>
-    <channel update="i" site="vidio.com" site_id="15611561/665aea.png" xmltv_id="RTV">RTV</channel>
-    <channel update="i" site="vidio.com" site_id="875875/cfcc85.png" xmltv_id="NET TV">NET TV</channel>
-    <channel update="i" site="vidio.com" site_id="61656165/8c950f.png" xmltv_id="BTV">BTV</channel>
-    <channel update="i" site="vidio.com" site_id="62996299/d74f54.png" xmltv_id="Bein 1">Bein 1</channel>
-    <channel update="i" site="vidio.com" site_id="63176317/4a8762.png" xmltv_id="Bein 3">Bein 3</channel>
-    <channel update="i" site="vidio.com" site_id="66856685/a2ed39.png" xmltv_id="Champions TV 1">Champions TV 1</channel>
-    <channel update="i" site="vidio.com" site_id="782782/e1af8b.png" xmltv_id="ANTV">ANTV</channel>
-    <channel update="i" site="vidio.com" site_id="783783/07750c.png" xmltv_id="TVOne">TVOne</channel>
-    <channel update="i" site="vidio.com" site_id="63626362/dcd434.png" xmltv_id="TVN">TVN</channel>
-    <channel update="i" site="vidio.com" site_id="74647464/e69965.png" xmltv_id="AJWA TV">AJWA TV</channel>
-    <channel update="i" site="vidio.com" site_id="82378237/18585d.png" xmltv_id="Mentari TV">Mentari TV</channel>
-    <channel update="i" site="vidio.com" site_id="63976397/d422cd.png" xmltv_id="Horee">Horee</channel>
-    <channel update="i" site="vidio.com" site_id="1819018190/541269.png" xmltv_id="Champions Golf 2">Champions Golf 2</channel>
-    <channel update="i" site="vidio.com" site_id="64416441/528cc9.png" xmltv_id="TVRI">TVRI</channel>
-    <channel update="i" site="vidio.com" site_id="68526852/1047bc.png" xmltv_id="Makkah TV">Makkah TV</channel>
-    <channel update="i" site="vidio.com" site_id="1818918189/8180b2.png" xmltv_id="Champions Golf 1">Champions Golf 1</channel>
-    <channel update="i" site="vidio.com" site_id="1787517875/afb4ca.png" xmltv_id="Bein 2">Bein 2</channel>
-    <channel update="i" site="vidio.com" site_id="67866786/d2ebc5.png" xmltv_id="Champions TV 3">Champions TV 3</channel>
-    <channel update="i" site="vidio.com" site_id="1816218162/b4bea2.png" xmltv_id="Garuda TV">Garuda TV</channel>
-    <channel update="i" site="vidio.com" site_id="1810518105/25d569.png" xmltv_id="GGS TV">GGS TV</channel>
-    <channel update="i" site="vidio.com" site_id="81218121/e9e2b9.png" xmltv_id="Rock Action">Rock Action</channel>
-    <channel update="i" site="vidio.com" site_id="66866686/14270d.png" xmltv_id="Champions TV 2">Champions TV 2</channel>
-    <channel update="i" site="vidio.com" site_id="67176717/790cc9.png" xmltv_id="NBA TV">NBA TV</channel>
-    <channel update="i" site="vidio.com" site_id="74327432/bfecbc.png" xmltv_id="Nusantara TV">Nusantara TV</channel>
-    <channel update="i" site="vidio.com" site_id="97139713/a11faf.png" xmltv_id="JTV">JTV</channel>
-    <channel update="i" site="vidio.com" site_id="91829182/13b733.png" xmltv_id="Champions TV 5">Champions TV 5</channel>
-    <channel update="i" site="vidio.com" site_id="71507150/2de77e.png" xmltv_id="ABC Australia">ABC Australia</channel>
-    <channel update="i" site="vidio.com" site_id="54155415/802b76.png" xmltv_id="Jaktv">Jaktv</channel>
-    <channel update="i" site="vidio.com" site_id="70527052/63032e.png" xmltv_id="Hip Hip Horee!">Hip Hip Horee!</channel>
-    <channel update="i" site="vidio.com" site_id="1713917139/e5207b.png" xmltv_id="SPOTV">SPOTV</channel>
-    <channel update="i" site="vidio.com" site_id="64116411/e600b8.jpg" xmltv_id="News Asia">News Asia</channel>
-    <channel update="i" site="vidio.com" site_id="64106410/6027db.png" xmltv_id="Aljazeera">Aljazeera</channel>
-    <channel update="i" site="vidio.com" site_id="64826482/e83fcf.png" xmltv_id="DAAI TV">DAAI TV</channel>
+    <channel update="i" site="vidio.com" site_id="Ued7cpbsAhZhZM9mHZMVb1R2OF4=/204/4e9f5c.png" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="vidio.com" site_id="XK2gTvwCd4ePgcSM4hQzau0L7lY=/205/54ab19.png" xmltv_id="Indosiar">Indosiar</channel>
+    <channel update="i" site="vidio.com" site_id="8uyGN8ro7p1SWsCgQOFidd-cz1Y=/733/ecaa60.png" xmltv_id="TRANS TV">TRANS TV</channel>
+    <channel update="i" site="vidio.com" site_id="l5TjD581Gd52Na027XzvztBlA1c=/734/131514.png" xmltv_id="Trans7">Trans7</channel>
+    <channel update="i" site="vidio.com" site_id="WqWHsGyTe9RzS8tgHmemQT2QTT4=/206/1823dc.png" xmltv_id="Moji">Moji</channel>
+    <channel update="i" site="vidio.com" site_id="60DNnaTD09N05GWdzrWQeEzgJyc=/777/ea8483.png" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="vidio.com" site_id="Kzz1dWgw9kR9FkGkhBCBYyP0u5w=/874/042ca3.png" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel update="i" site="vidio.com" site_id="mVhP1N5izN2koob5r1WS1BAEgkg=/783/07750c.png" xmltv_id="TVOne">TVOne</channel>
+    <channel update="i" site="vidio.com" site_id="ot6wuFB7eQyb6RNLO6syHQKcAfU=/6441/528cc9.png" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="vidio.com" site_id="FTC9Tvd28XOalTVkGicEGEeCaxo=/782/e1af8b.png" xmltv_id="ANTV">ANTV</channel>
+    <channel update="i" site="vidio.com" site_id="ISnbOKLRmsaKkosLH6uWBsjDawk=/870/ca65b5.png" xmltv_id="MNCTV">MNCTV</channel>
+    <channel update="i" site="vidio.com" site_id="a5ZpTlVd_UxcprxeV7jnHlis55s=/665/337c4d.png" xmltv_id="RCTI">RCTI</channel>
+    <channel update="i" site="vidio.com" site_id="idNs0c-ropLtPx85oDsGvZTmkjU=/5409/c40666.png" xmltv_id="iNews">iNews</channel>
+    <channel update="i" site="vidio.com" site_id="uj8BQQxA0_H_bX40VPk6x6Z-aYY=/778/810229.png" xmltv_id="GTV">GTV</channel>
+    <channel update="i" site="vidio.com" site_id="gXoMYs0bom5dEZGXeaK_-efC9a0=/1561/665aea.png" xmltv_id="RTV">RTV</channel>
+    <channel update="i" site="vidio.com" site_id="CfDXlzdqejm5cF9BXOU95Gsic2I=/875/325605.png" xmltv_id="MDTV">MDTV</channel>
+    <channel update="i" site="vidio.com" site_id="1nK2F8U-XNp877ekgiDhddhD4Fs=/6165/7cd920.png" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="vidio.com" site_id="-JKk3iTPeveKEwzEcluCSm4lMts=/18280/c7fc8f.png" xmltv_id="Berita Satu">Berita Satu</channel>
+    <channel update="i" site="vidio.com" site_id="aRhv_g5XUCMcGb0tIvirsdYhzZE=/18162/b4bea2.png" xmltv_id="Garuda TV">Garuda TV</channel>
+    <channel update="i" site="vidio.com" site_id="10BeR50GodPzL51K7estpRcJqgA=/5415/802b76.png" xmltv_id="Jaktv">Jaktv</channel>
+    <channel update="i" site="vidio.com" site_id="9S2KUd6y_4PzLp6ywlFSraQyx88=/9713/1119f8.png" xmltv_id="JTV">JTV</channel>
+    <channel update="i" site="vidio.com" site_id="lrUKNI0nbOJBhg6OKkH4YqNymLQ=/7432/bfecbc.png" xmltv_id="Nusantara TV">Nusantara TV</channel>
+    <channel update="i" site="vidio.com" site_id="eLJ_xPxl6WM1zgoyNjhTdsNlcXc=/9714/5a2fad.jpg" xmltv_id="jawaposTV">jawaposTV</channel>
+    <channel update="i" site="vidio.com" site_id="HwIfmxOGLIKB03toopIzIgFbzAo=/19046/aaa3fa.png" xmltv_id="Sin Po TV">Sin Po TV</channel>
+    <channel update="i" site="vidio.com" site_id="lEx6FCKyVU-Hy4b_dWa-0IXZVyA=/6482/e83fcf.png" xmltv_id="DAAI TV">DAAI TV</channel>
+    <channel update="i" site="vidio.com" site_id="Iwam8TZg1IczhRO5BI2xp9QESTs=/7464/e69965.png" xmltv_id="AJWA TV">AJWA TV</channel>
+    <channel update="i" site="vidio.com" site_id="f3hdIHaahnANkU0uSklwpaq6TlM=/8237/18585d.png" xmltv_id="Mentari TV">Mentari TV</channel>
+    <channel update="i" site="vidio.com" site_id="1xwpxzLtco3_8ITCfMBIxYo7lyw=/6397/d422cd.png" xmltv_id="Horee">Horee</channel>
+    <channel update="i" site="vidio.com" site_id="gkcZoMlasWB9RlL120fry1ZbB3M=/7052/63032e.png" xmltv_id="Hip Hip Horee!">Hip Hip Horee!</channel>
+    <channel update="i" site="vidio.com" site_id="wSDoZQVVJjdAl5uDKIHx6Gww80c=/6299/d74f54.png" xmltv_id="Bein 1">Bein 1</channel>
+    <channel update="i" site="vidio.com" site_id="1PyBLhRYdn16STKUOhtfwesJGv8=/17875/afb4ca.png" xmltv_id="Bein 2">Bein 2</channel>
+    <channel update="i" site="vidio.com" site_id="tQGRFmOnAckF8HpTU4k_mUKmTWM=/6317/4a8762.png" xmltv_id="Bein 3">Bein 3</channel>
+    <channel update="i" site="vidio.com" site_id="jWCAr7aSuc4AvvQ-KJjq3xH1KaE=/20216/1a9c41.png" xmltv_id="Champions Fight">Champions Fight</channel>
+    <channel update="i" site="vidio.com" site_id="0i2trvaiAnlwnK3a9RWJnIz4aLE=/6685/a2ed39.png" xmltv_id="Champions TV 1">Champions TV 1</channel>
+    <channel update="i" site="vidio.com" site_id="A8DgS8eYhBYDnUdM4ZkkzrFnI5w=/6686/14270d.png" xmltv_id="Champions TV 2">Champions TV 2</channel>
+    <channel update="i" site="vidio.com" site_id="meDW2eIx05Hx8_GNAIgyES04J84=/6786/d2ebc5.png" xmltv_id="Champions TV 3">Champions TV 3</channel>
+    <channel update="i" site="vidio.com" site_id="r3ZDSFjLdonYGLkJlR_NzZ64Z_A=/9182/13b733.png" xmltv_id="Champions TV 5">Champions TV 5</channel>
+    <channel update="i" site="vidio.com" site_id="3z2C6g21MiF4R8ydJjCLtswgYDg=/9183/33e19d.png" xmltv_id="Champions TV 6">Champions TV 6</channel>
+    <channel update="i" site="vidio.com" site_id="2i24vtPQkYadui6mr2t1biCDw4M=/18189/8180b2.png" xmltv_id="Champions Golf 1">Champions Golf 1</channel>
+    <channel update="i" site="vidio.com" site_id="W0oo8NZ6NEYzpc62TjIbI-PloKU=/18190/541269.png" xmltv_id="Champions Golf 2">Champions Golf 2</channel>
+    <channel update="i" site="vidio.com" site_id="vD5_Bk3PSBUmLnEH0A3Ymq6nDnA=/17139/e5207b.png" xmltv_id="SPOTV">SPOTV</channel>
+    <channel update="i" site="vidio.com" site_id="YHrOBAb7ZODRM_n9Lq8CYAZqyMY=/17140/18e12a.png" xmltv_id="SPOTV 2">SPOTV 2</channel>
+    <channel update="i" site="vidio.com" site_id="mC10k5ouItm5lJ-0hipaSw3FAs8=/6362/dcd434.png" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="vidio.com" site_id="BmgtNM-Chv9nhFT9Yk4j_k-VBHM=/8121/e9e2b9.png" xmltv_id="Rock Action">Rock Action</channel>
+    <channel update="i" site="vidio.com" site_id="V98kFWE8kSX24xbgPmdAn7IWqRQ=/6784/b9cb20.png" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="vidio.com" site_id="CgYAY8LID4iwDJ8I6yHY6yTZE5A=/7968/069757.png" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="vidio.com" site_id="7p4eNW5U_-tilz68Apep6KpQjhU=/5075/f6106b.png" xmltv_id="DW English">DW English</channel>
+    <channel update="i" site="vidio.com" site_id="MPzFu1qaq-Eb4TFUuK0ZSRCn4hU=/7150/2de77e.png" xmltv_id="ABC Australia">ABC Australia</channel>
+    <channel update="i" site="vidio.com" site_id="3eOT2unns1b3eMS7uMPzJSIlYsI=/6412/c0e105.png" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="vidio.com" site_id="_OgngejT-5aBjh4UqHPkyR05lm8=/17278/8e6d94.png" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="vidio.com" site_id="lie2ZRWn6XFjT2eZiNiMUe-er8A=/6410/6027db.png" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="vidio.com" site_id="qFWkiN1wkTeqvgffDi7A2VPgu-8=/6411/49242c.png" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="vidio.com" site_id="PAUCzF5tX6mT2Oc0yEWxPDsesgs=/18622/d20ab7.png" xmltv_id="Daystar TV">Daystar TV</channel>
+    <channel update="i" site="vidio.com" site_id="YlM6ZXMDPBI488_WAyRXHpdcNB8=/12784/b75a42.png" xmltv_id="Africanews">Africanews</channel>
+    <channel update="i" site="vidio.com" site_id="tY2VFEH1KblsHHpClEGAnKXIss4=/9353/a79dfe.png" xmltv_id="Premier League TV">Premier League TV</channel>
+    <channel update="i" site="vidio.com" site_id="FSdtXyx_jieGl3BU1Grt4FHQ0qU=/19538/c129a3.png" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="vidio.com" site_id="0k6GGofQ3N1ywnKENFTE80uI5b0=/6852/1047bc.png" xmltv_id="Makkah TV">Makkah TV</channel>
+    <channel update="i" site="vidio.com" site_id="9p5kOs_udy6akoXFdYxoVwz4Itk=/7619/379f71.png" xmltv_id="MUSICA">MUSICA</channel>
+    <channel update="i" site="vidio.com" site_id="x7dVSHyViTR5dTvPEMYJ_BlmJM4=/6898/7e119a.png" xmltv_id="U-Channel TV">U-Channel TV</channel>
+    <channel update="i" site="vidio.com" site_id="GR_VdLCahNEVwbTh0W8JIbJaBAI=/12607/de1855.png" xmltv_id="DMI TV">DMI TV</channel>
+    <channel update="i" site="vidio.com" site_id="hr3l92ltHJXHWqoFDKQZucGOArc=/7230/7d6bf5.jpg" xmltv_id="Magna TV">Magna TV</channel>
+    <channel update="i" site="vidio.com" site_id="a5BFyVvQ44YvngwwFpzBL5f6ARQ=/10975/0dc2d8.png" xmltv_id="Elshinta TV">Elshinta TV</channel>
+    <channel update="i" site="vidio.com" site_id="2x4BLTjI91danPP7cyvJGEpaTN8=/21179/13c032.png" xmltv_id="Citra Drama">Citra Drama</channel>
+    <channel update="i" site="vidio.com" site_id="1DqHbHGTjj8rDTriqI7pvnUSjJY=/21289/95b5b6.png" xmltv_id="Citra Plus">Citra Plus</channel>
+    <channel update="i" site="vidio.com" site_id="mcy1lDmBKOXISUxxdwBdO9i8iQ4=/22252/df871e.png" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
   </channels>
 </site>
