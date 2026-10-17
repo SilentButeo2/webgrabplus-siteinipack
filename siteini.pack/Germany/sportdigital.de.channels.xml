@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.2.1.2 -- Jan van Straaten" site="sportdigital.de">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="sportdigital.de">
   <channels>
-    <channel update="i" site="sportdigital.de" site_id="sdf" xmltv_id="Sportdigital">Sportdigital</channel>
-    <channel update="i" site="sportdigital.de" site_id="sdf2" xmltv_id="Sportdigital 2">Sportdigital 2</channel>
-    <channel update="i" site="sportdigital.de" site_id="scooore" xmltv_id="SCOOORE">SCOOORE</channel>
+    <channel update="i" site="sportdigital.de" site_id="sdf" xmltv_id="Sportdigital FUSSBALL">Sportdigital FUSSBALL</channel>
+    <channel update="i" site="sportdigital.de" site_id="sdf2" xmltv_id="Sportdigital FUSSBALL2">Sportdigital FUSSBALL2</channel>
+    <channel update="i" site="sportdigital.de" site_id="sd1p" xmltv_id="Sportdigital1+">Sportdigital1+</channel>
+    <channel update="i" site="sportdigital.de" site_id="edge" xmltv_id="Sportdigital EDGE">Sportdigital EDGE</channel>
+    <channel update="i" site="sportdigital.de" site_id="esportsone" xmltv_id="eSportsONE">eSportsONE</channel>
+    <channel update="i" site="sportdigital.de" site_id="scooorefast" xmltv_id="scooore">scooore</channel>
   </channels>
 </site>
