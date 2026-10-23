@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.4.1.6 -- Jan van Straaten" site="radiotimes.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="radiotimes.com">
   <channels>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##4seven" xmltv_id="4seven">4seven</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5" xmltv_id="5">5</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5Action" xmltv_id="5Action">5Action</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5SELECT" xmltv_id="5SELECT">5SELECT</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5ACTION" xmltv_id="5ACTION">5ACTION</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5DRAMA" xmltv_id="5DRAMA">5DRAMA</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5STAR" xmltv_id="5STAR">5STAR</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5USA" xmltv_id="5USA">5USA</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
@@ -39,7 +39,6 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Great! Christmas" xmltv_id="Great! Christmas">Great! Christmas</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Great! Mystery" xmltv_id="Great! Mystery">Great! Mystery</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Great! TV" xmltv_id="Great! TV">Great! TV</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##HGTV" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITV Quiz" xmltv_id="ITV Quiz">ITV Quiz</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITV1 London" xmltv_id="ITV1 London">ITV1 London</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITV2" xmltv_id="ITV2">ITV2</channel>
@@ -49,6 +48,7 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Legend Xtra" xmltv_id="Legend Xtra">Legend Xtra</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##More4" xmltv_id="More4">More4</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MysteryX" xmltv_id="MysteryX">MysteryX</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##National Geographic Channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##National Geographic WILD" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Nick Jr." xmltv_id="Nick Jr.">Nick Jr.</channel>
@@ -56,8 +56,6 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##PBS America (Freeview)" xmltv_id="PBS America (Freeview)">PBS America (Freeview)</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Pop" xmltv_id="Pop">Pop</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Pop Max" xmltv_id="Pop Max">Pop Max</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Premier Sports 1 HD" xmltv_id="Premier Sports 1 HD">Premier Sports 1 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Premier Sports 2 HD" xmltv_id="Premier Sports 2 HD">Premier Sports 2 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Quest" xmltv_id="Quest">Quest</channel>
@@ -72,15 +70,12 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Crime" xmltv_id="Sky Crime">Sky Crime</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Documentaries" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky History" xmltv_id="Sky History">Sky History</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky History 2" xmltv_id="Sky History 2">Sky History 2</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Kids" xmltv_id="Sky Kids">Sky Kids</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Max" xmltv_id="Sky Max">Sky Max</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Mix" xmltv_id="Sky Mix">Sky Mix</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Nature" xmltv_id="Sky Nature">Sky Nature</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky News" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Replay" xmltv_id="Sky Replay">Sky Replay</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky One" xmltv_id="Sky One">Sky One</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Sci-Fi" xmltv_id="Sky Sci-Fi">Sky Sci-Fi</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Showcase" xmltv_id="Sky Showcase">Sky Showcase</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Sports +" xmltv_id="Sky Sports +">Sky Sports +</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Sports Cricket" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Sports F1" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
@@ -115,7 +110,7 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##4seven HD" xmltv_id="4seven HD">4seven HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5 +1" xmltv_id="5 +1">5 +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5 HD" xmltv_id="5 HD">5 HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5Action HD" xmltv_id="5Action HD">5Action HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5ACTION HD" xmltv_id="5ACTION HD">5ACTION HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5STAR +1" xmltv_id="5STAR +1">5STAR +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##5USA +1" xmltv_id="5USA +1">5USA +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Aaj Tak" xmltv_id="Aaj Tak">Aaj Tak</channel>
@@ -169,7 +164,7 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC One Yorkshire &amp; Lincolnshire" xmltv_id="BBC One Yorkshire &amp; Lincolnshire">BBC One Yorkshire &amp; Lincolnshire</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC One Yorkshire &amp; Lincolnshire HD" xmltv_id="BBC One Yorkshire &amp; Lincolnshire HD">BBC One Yorkshire &amp; Lincolnshire HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC One Yorkshire HD" xmltv_id="BBC One Yorkshire HD">BBC One Yorkshire HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC Red Button 1" xmltv_id="BBC Red Button 1">BBC Red Button 1</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC Red Button" xmltv_id="BBC Red Button">BBC Red Button</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC Red Button HD" xmltv_id="BBC Red Button HD">BBC Red Button HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC Scotland HD" xmltv_id="BBC Scotland HD">BBC Scotland HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##BBC Scotland HD (Freeview)" xmltv_id="BBC Scotland HD (Freeview)">BBC Scotland HD (Freeview)</channel>
@@ -198,7 +193,8 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Channel 4 HD" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Channel 44" xmltv_id="Channel 44">Channel 44</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Channels 24" xmltv_id="Channels 24">Channels 24</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Club MTV UK" xmltv_id="Club MTV UK">Club MTV UK</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Christmas 24" xmltv_id="Christmas 24">Christmas 24</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Christmas 24+" xmltv_id="Christmas 24+">Christmas 24+</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Clubland TV" xmltv_id="Clubland TV">Clubland TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##CNBC Europe" xmltv_id="CNBC Europe">CNBC Europe</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##CNBC UK" xmltv_id="CNBC UK">CNBC UK</channel>
@@ -207,7 +203,7 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##CNN HD" xmltv_id="CNN HD">CNN HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Colors" xmltv_id="Colors">Colors</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Colors Cineplex" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Colors Gujrati" xmltv_id="Colors Gujrati">Colors Gujrati</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Colors Gujarati" xmltv_id="Colors Gujarati">Colors Gujarati</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Colors HD" xmltv_id="Colors HD">Colors HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Colors Rishtey" xmltv_id="Colors Rishtey">Colors Rishtey</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Comedy Central +1" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
@@ -221,16 +217,19 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Discovery Science +1" xmltv_id="Discovery Science +1">Discovery Science +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Discovery Turbo" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Discovery Turbo +1" xmltv_id="Discovery Turbo +1">Discovery Turbo +1</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Disney+ Cinema" xmltv_id="Disney+ Cinema">Disney+ Cinema</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##DMAX +1" xmltv_id="DMAX +1">DMAX +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##E4 +1" xmltv_id="E4 +1">E4 +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##E4 HD" xmltv_id="E4 HD">E4 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##EWTN Catholic" xmltv_id="EWTN Catholic">EWTN Catholic</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Fashion TV" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Film4 +1" xmltv_id="Film4 +1">Film4 +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Film4 HD" xmltv_id="Film4 HD">Film4 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Food Network +1" xmltv_id="Food Network +1">Food Network +1</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##France 24 English" xmltv_id="France 24 English">France 24 English</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##France 24 English HD" xmltv_id="France 24 English HD">France 24 English HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##France 24" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##France 24 HD" xmltv_id="France 24 HD">France 24 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##GB News HD" xmltv_id="GB News HD">GB News HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##GEO News" xmltv_id="GEO News">GEO News</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##GEO TV" xmltv_id="GEO TV">GEO TV</channel>
@@ -238,9 +237,8 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Great! Christmas +1" xmltv_id="Great! Christmas +1">Great! Christmas +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Great! Mystery +1" xmltv_id="Great! Mystery +1">Great! Mystery +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Great! TV +1" xmltv_id="Great! TV +1">Great! TV +1</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##HGTV +1" xmltv_id="HGTV +1">HGTV +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##HUM Europe" xmltv_id="HUM Europe">HUM Europe</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##HUM Masala" xmltv_id="HUM Masala">HUM Masala</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##HUM News" xmltv_id="HUM News">HUM News</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Investigation Discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Investigation Discovery +1" xmltv_id="Investigation Discovery +1">Investigation Discovery +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITV Quiz HD" xmltv_id="ITV Quiz HD">ITV Quiz HD</channel>
@@ -287,6 +285,7 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITV4 HD" xmltv_id="ITV4 HD">ITV4 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITVBe +1" xmltv_id="ITVBe +1">ITVBe +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##ITVBe +1 (Freeview)" xmltv_id="ITVBe +1 (Freeview)">ITVBe +1 (Freeview)</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Kantipur Television" xmltv_id="Kantipur Television">Kantipur Television</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Leeds TV" xmltv_id="Leeds TV">Leeds TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Legend Xtra +1" xmltv_id="Legend Xtra +1">Legend Xtra +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##LFC TV" xmltv_id="LFC TV">LFC TV</channel>
@@ -294,19 +293,14 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Liverpool TV" xmltv_id="Liverpool TV">Liverpool TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##More4 +1" xmltv_id="More4 +1">More4 +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##More4 HD" xmltv_id="More4 HD">More4 HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Movies 24" xmltv_id="Movies 24">Movies 24</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Movies 24+" xmltv_id="Movies 24+">Movies 24+</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV 80s" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV 90s" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV HD" xmltv_id="MTV HD">MTV HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV Ireland" xmltv_id="MTV Ireland">MTV Ireland</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV Live HD" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MTV Music" xmltv_id="MTV Music">MTV Music</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MUTV HD" xmltv_id="MUTV HD">MUTV HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##MysteryX HD" xmltv_id="MysteryX HD">MysteryX HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##National Geographic Channel +1" xmltv_id="National Geographic Channel +1">National Geographic Channel +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##National Geographic Channel HD" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##National Geographic WILD HD" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NDTV World" xmltv_id="NDTV World">NDTV World</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NDTV" xmltv_id="NDTV">NDTV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##New Vision TV" xmltv_id="New Vision TV">New Vision TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NHK World - Japan" xmltv_id="NHK World - Japan">NHK World - Japan</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NHK World - Japan HD" xmltv_id="NHK World - Japan HD">NHK World - Japan HD</channel>
@@ -315,15 +309,14 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Nickelodeon +1" xmltv_id="Nickelodeon +1">Nickelodeon +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Nickelodeon HD" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##North Wales TV" xmltv_id="North Wales TV">North Wales TV</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Notts TV" xmltv_id="Notts TV">Notts TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NOW 70s" xmltv_id="NOW 70s">NOW 70s</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NOW 80s" xmltv_id="NOW 80s">NOW 80s</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##NOW Rock" xmltv_id="NOW Rock">NOW Rock</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Oireachtas TV" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##PBS America" xmltv_id="PBS America">PBS America</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##PBS America +1" xmltv_id="PBS America +1">PBS America +1</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##PBS America HD" xmltv_id="PBS America HD">PBS America HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Phoenix CNE Channel" xmltv_id="Phoenix CNE Channel">Phoenix CNE Channel</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Pop +1" xmltv_id="Pop +1">Pop +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Premier Sports 1 ROI" xmltv_id="Premier Sports 1 ROI">Premier Sports 1 ROI</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Premier Sports 2" xmltv_id="Premier Sports 2">Premier Sports 2</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Premier Sports 2 ROI" xmltv_id="Premier Sports 2 ROI">Premier Sports 2 ROI</channel>
@@ -339,8 +332,9 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##QVC2" xmltv_id="QVC2">QVC2</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Racing TV" xmltv_id="Racing TV">Racing TV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Racing TV HD" xmltv_id="Racing TV HD">Racing TV HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Really +1" xmltv_id="Really +1">Really +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Republic Bharat" xmltv_id="Republic Bharat">Republic Bharat</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##RTE Jr" xmltv_id="RTE Jr">RTE Jr</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##RTE KIDSjr" xmltv_id="RTE KIDSjr">RTE KIDSjr</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##RTE News" xmltv_id="RTE News">RTE News</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##RTE One" xmltv_id="RTE One">RTE One</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##RTE One +1" xmltv_id="RTE One +1">RTE One +1</channel>
@@ -353,8 +347,6 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Arts HD" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Atlantic +1" xmltv_id="Sky Atlantic +1">Sky Atlantic +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Atlantic HD" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema 00s" xmltv_id="Sky Cinema 00s">Sky Cinema 00s</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema 00s HD" xmltv_id="Sky Cinema 00s HD">Sky Cinema 00s HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Action HD" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Animation" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Animation HD" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
@@ -363,12 +355,12 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Drama" xmltv_id="Sky Cinema Drama">Sky Cinema Drama</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Drama HD" xmltv_id="Sky Cinema Drama HD">Sky Cinema Drama HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Family HD" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Gems" xmltv_id="Sky Cinema Gems">Sky Cinema Gems</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Gems HD" xmltv_id="Sky Cinema Gems HD">Sky Cinema Gems HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Greats HD" xmltv_id="Sky Cinema Greats HD">Sky Cinema Greats HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Halloween" xmltv_id="Sky Cinema Halloween">Sky Cinema Halloween</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Halloween HD" xmltv_id="Sky Cinema Halloween HD">Sky Cinema Halloween HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Premiere HD" xmltv_id="Sky Cinema Premiere HD">Sky Cinema Premiere HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Sci-fi/Horror" xmltv_id="Sky Cinema Sci-fi/Horror">Sky Cinema Sci-fi/Horror</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Sci-fi/Horror HD" xmltv_id="Sky Cinema Sci-fi/Horror HD">Sky Cinema Sci-fi/Horror HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Sci-Fi" xmltv_id="Sky Cinema Sci-Fi">Sky Cinema Sci-Fi</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Sci-Fi HD" xmltv_id="Sky Cinema Sci-Fi HD">Sky Cinema Sci-Fi HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Thriller" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Cinema Thriller HD" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Comedy HD" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
@@ -376,13 +368,13 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Crime HD" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Documentaries HD" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky History +1" xmltv_id="Sky History +1">Sky History +1</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky History 2 HD" xmltv_id="Sky History 2 HD">Sky History 2 HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky History HD" xmltv_id="Sky History HD">Sky History HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Kids HD" xmltv_id="Sky Kids HD">Sky Kids HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Max HD" xmltv_id="Sky Max HD">Sky Max HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Nature HD" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky News HD" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky One HD" xmltv_id="Sky One HD">Sky One HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Sci-Fi HD" xmltv_id="Sky Sci-Fi HD">Sky Sci-Fi HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Showcase" xmltv_id="Sky Showcase">Sky Showcase</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Showcase +1" xmltv_id="Sky Showcase +1">Sky Showcase +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Showcase HD" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sky Sports + HD" xmltv_id="Sky Sports + HD">Sky Sports + HD</channel>
@@ -408,6 +400,11 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sony MAX HD" xmltv_id="Sony MAX HD">Sony MAX HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sony SAB" xmltv_id="Sony SAB">Sony SAB</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Sportystuff TV" xmltv_id="Sportystuff TV">Sportystuff TV</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Star Bharat" xmltv_id="Star Bharat">Star Bharat</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Star Gold" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Star Gold HD" xmltv_id="Star Gold HD">Star Gold HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Star Plus" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Star Plus HD" xmltv_id="Star Plus HD">Star Plus HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##STV Central" xmltv_id="STV Central">STV Central</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##STV Central +1" xmltv_id="STV Central +1">STV Central +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##STV HD" xmltv_id="STV HD">STV HD</channel>
@@ -417,15 +414,17 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Talk HD" xmltv_id="Talk HD">Talk HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##TG4" xmltv_id="TG4">TG4</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##TG4 HD" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 20th Century" xmltv_id="That's 20th Century">That's 20th Century</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 60s" xmltv_id="That's 60s">That's 60s</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 60s (Freeview)" xmltv_id="That's 60s (Freeview)">That's 60s (Freeview)</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 60s (MCR)" xmltv_id="That's 60s (MCR)">That's 60s (MCR)</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 60s MCR" xmltv_id="That's 60s MCR">That's 60s MCR</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 70s" xmltv_id="That's 70s">That's 70s</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's 70s (MCR Freeview)" xmltv_id="That's 70s (MCR Freeview)">That's 70s (MCR Freeview)</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Melody" xmltv_id="That's Melody">That's Melody</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Melody (MCR)" xmltv_id="That's Melody (MCR)">That's Melody (MCR)</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Rock" xmltv_id="That's Rock">That's Rock</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Rock (MCR)" xmltv_id="That's Rock (MCR)">That's Rock (MCR)</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Classics" xmltv_id="That's Classics">That's Classics</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Oldies" xmltv_id="That's Oldies">That's Oldies</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's Oldies (MCR)" xmltv_id="That's Oldies (MCR)">That's Oldies (MCR)</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's TV (MCR)" xmltv_id="That's TV (MCR)">That's TV (MCR)</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##That's TV 3" xmltv_id="That's TV 3">That's TV 3</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##TLC +1" xmltv_id="TLC +1">TLC +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##TLC HD" xmltv_id="TLC HD">TLC HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##TNT Sports 1 HD" xmltv_id="TNT Sports 1 HD">TNT Sports 1 HD</channel>
@@ -459,7 +458,7 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Alibi +1" xmltv_id="U&amp;Alibi +1">U&amp;Alibi +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Alibi HD" xmltv_id="U&amp;Alibi HD">U&amp;Alibi HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Dave HD" xmltv_id="U&amp;Dave HD">U&amp;Dave HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Dave ja vu" xmltv_id="U&amp;Dave ja vu">U&amp;Dave ja vu</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;DaveJaVu" xmltv_id="U&amp;DaveJaVu">U&amp;DaveJaVu</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Drama +1" xmltv_id="U&amp;Drama +1">U&amp;Drama +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Drama HD" xmltv_id="U&amp;Drama HD">U&amp;Drama HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Eden +1" xmltv_id="U&amp;Eden +1">U&amp;Eden +1</channel>
@@ -470,11 +469,6 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;W HD" xmltv_id="U&amp;W HD">U&amp;W HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Yesterday +1" xmltv_id="U&amp;Yesterday +1">U&amp;Yesterday +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##U&amp;Yesterday HD" xmltv_id="U&amp;Yesterday HD">U&amp;Yesterday HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Utsav Bharat" xmltv_id="Utsav Bharat">Utsav Bharat</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Utsav Gold" xmltv_id="Utsav Gold">Utsav Gold</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Utsav Gold HD" xmltv_id="Utsav Gold HD">Utsav Gold HD</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Utsav Plus" xmltv_id="Utsav Plus">Utsav Plus</channel>
-    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Utsav Plus HD" xmltv_id="Utsav Plus HD">Utsav Plus HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##UTV" xmltv_id="UTV">UTV</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##UTV +1" xmltv_id="UTV +1">UTV +1</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##UTV HD" xmltv_id="UTV HD">UTV HD</channel>
@@ -487,9 +481,14 @@
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Virgin Media Three HD" xmltv_id="Virgin Media Three HD">Virgin Media Three HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Virgin Media Two" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Virgin Media Two HD" xmltv_id="Virgin Media Two HD">Virgin Media Two HD</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##wedotv Movies UK" xmltv_id="wedotv Movies UK">wedotv Movies UK</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##WildEarth" xmltv_id="WildEarth">WildEarth</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Yanga!" xmltv_id="Yanga!">Yanga!</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Yesterday +1 (Freeview)" xmltv_id="Yesterday +1 (Freeview)">Yesterday +1 (Freeview)</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Your Christmas" xmltv_id="Your Christmas">Your Christmas</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Your Christmas MCR" xmltv_id="Your Christmas MCR">Your Christmas MCR</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Your TV" xmltv_id="Your TV">Your TV</channel>
+    <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Your TV MCR" xmltv_id="Your TV MCR">Your TV MCR</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Zee Cinema" xmltv_id="Zee Cinema">Zee Cinema</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Zee Cinema HD" xmltv_id="Zee Cinema HD">Zee Cinema HD</channel>
     <channel update="i" site="radiotimes.com" site_id="tv##default##hnq7@@hnrv##Zee TV" xmltv_id="Zee TV">Zee TV</channel>
