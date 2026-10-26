@@ -1,135 +1,247 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="starzplay.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="starzplay.com">
   <channels>
-    <channel update="i" site="starzplay.com" site_id="en##golflife" xmltv_id="en: Golf Life">en: Golf Life</channel>
+    <channel update="i" site="starzplay.com" site_id="en##skynewsarabia" xmltv_id="en: Sky News Arabia - Live">en: Sky News Arabia - Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##admnadsports1" xmltv_id="en: Abu Dhabi Sports 1">en: Abu Dhabi Sports 1</channel>
+    <channel update="i" site="starzplay.com" site_id="en##admnadsports2" xmltv_id="en: Abu Dhabi Sports 2">en: Abu Dhabi Sports 2</channel>
+    <channel update="i" site="starzplay.com" site_id="en##abudhabisportshdr" xmltv_id="en: Abu Dhabi Sports HDR">en: Abu Dhabi Sports HDR</channel>
     <channel update="i" site="starzplay.com" site_id="en##starzplaysports1" xmltv_id="en: STARZPLAY Sports 1">en: STARZPLAY Sports 1</channel>
     <channel update="i" site="starzplay.com" site_id="en##starzplaysports2" xmltv_id="en: STARZPLAY Sports 2">en: STARZPLAY Sports 2</channel>
-    <channel update="i" site="starzplay.com" site_id="en##starzplaysport1" xmltv_id="en: STARZPLAY Sports">en: STARZPLAY Sports</channel>
-    <channel update="i" site="starzplay.com" site_id="en##adsportsasia01" xmltv_id="en: YAS TV Extra">en: YAS TV Extra</channel>
-    <channel update="i" site="starzplay.com" site_id="en##sonytv" xmltv_id="en: Sony TV">en: Sony TV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##bloomtv" xmltv_id="en: Bloom">en: Bloom</channel>
-    <channel update="i" site="starzplay.com" site_id="en##skynewsarabia" xmltv_id="en: Sky News Arabia - Live">en: Sky News Arabia - Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##tomandjerry" xmltv_id="en: Ben 10 by WBTV">en: Ben 10 by WBTV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##arydigital" xmltv_id="en: ARY Digital">en: ARY Digital</channel>
-    <channel update="i" site="starzplay.com" site_id="en##geotv" xmltv_id="en: Geo TV">en: Geo TV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##cnnfast" xmltv_id="en: CNN Headlines">en: CNN Headlines</channel>
-    <channel update="i" site="starzplay.com" site_id="en##wedosports" xmltv_id="en: Wedo Sports MENA">en: Wedo Sports MENA</channel>
-    <channel update="i" site="starzplay.com" site_id="en##admnadsports2" xmltv_id="en: Abu Dhabi Sports 2">en: Abu Dhabi Sports 2</channel>
-    <channel update="i" site="starzplay.com" site_id="en##admnabudhabichannel" xmltv_id="en: Abu Dhabi TV">en: Abu Dhabi TV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##aljadeed" xmltv_id="en: Al Jadeed">en: Al Jadeed</channel>
-    <channel update="i" site="starzplay.com" site_id="en##mbcpluselife" xmltv_id="en: MBC+ e&amp;">en: MBC+ e&amp;</channel>
-    <channel update="i" site="starzplay.com" site_id="en##unbeatensports" xmltv_id="en: Unbeaten Sports">en: Unbeaten Sports</channel>
-    <channel update="i" site="starzplay.com" site_id="en##starzplay-klassicz" xmltv_id="en: STARZPLAY KLASSICZ">en: STARZPLAY KLASSICZ</channel>
-    <channel update="i" site="starzplay.com" site_id="en##alarabiya" xmltv_id="en: Al Arabiya HD">en: Al Arabiya HD</channel>
-    <channel update="i" site="starzplay.com" site_id="en##zeeaflam" xmltv_id="en: Zee Aflam - Live">en: Zee Aflam - Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##criclifemax" xmltv_id="en: STARZPLAY Cricket 2">en: STARZPLAY Cricket 2</channel>
-    <channel update="i" site="starzplay.com" site_id="en##starzplayrugby" xmltv_id="en: StarzPlay Rugby - Live">en: StarzPlay Rugby - Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##easl" xmltv_id="en: EASL (East Asia Super League 2025-2026)">en: EASL (East Asia Super League 2025-2026)</channel>
-    <channel update="i" site="starzplay.com" site_id="en##criclife1" xmltv_id="en: STARZPLAY Cricket 1">en: STARZPLAY Cricket 1</channel>
-    <channel update="i" site="starzplay.com" site_id="en##adsportsasia02" xmltv_id="en: AD Sports Extra">en: AD Sports Extra</channel>
-    <channel update="i" site="starzplay.com" site_id="en##awsn" xmltv_id="en: AWSN+">en: AWSN+</channel>
-    <channel update="i" site="starzplay.com" site_id="en##redbulltv" xmltv_id="en: Red Bull TV Live">en: Red Bull TV Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##dazncombat" xmltv_id="en: DAZN Combat &amp; Fighting">en: DAZN Combat &amp; Fighting</channel>
-    <channel update="i" site="starzplay.com" site_id="en##criclifewoman" xmltv_id="en: STARZPLAY Cricket 3">en: STARZPLAY Cricket 3</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cricbuzz1" xmltv_id="en: Cricbuzz 1">en: Cricbuzz 1</channel>
+    <channel update="i" site="starzplay.com" site_id="en##criclife3" xmltv_id="en: Cricbuzz 2">en: Cricbuzz 2</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnalemarattv" xmltv_id="en: Al Emarat TV">en: Al Emarat TV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##baynouahtv" xmltv_id="en: Baynounah TV">en: Baynounah TV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##admnmajidtv" xmltv_id="en: Majid TV">en: Majid TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##admnabudhabichannel" xmltv_id="en: Abu Dhabi TV">en: Abu Dhabi TV</channel>
     <channel update="i" site="starzplay.com" site_id="en##nationalgeographicabudhabitv" xmltv_id="en: National Geographic Abu Dhabi">en: National Geographic Abu Dhabi</channel>
-    <channel update="i" site="starzplay.com" site_id="en##admnadsports1" xmltv_id="en: Abu Dhabi Sports 1">en: Abu Dhabi Sports 1</channel>
-    <channel update="i" site="starzplay.com" site_id="en##admnyastv" xmltv_id="en: Yas">en: Yas</channel>
-    <channel update="i" site="starzplay.com" site_id="en##samadubai" xmltv_id="en: Sama Dubai">en: Sama Dubai</channel>
     <channel update="i" site="starzplay.com" site_id="en##twommonde" xmltv_id="en: 2M Monde">en: 2M Monde</channel>
-    <channel update="i" site="starzplay.com" site_id="en##royatv" xmltv_id="en: Roya TV Live">en: Roya TV Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##zeealwan" xmltv_id="en: Zee Alwan">en: Zee Alwan</channel>
-    <channel update="i" site="starzplay.com" site_id="en##karyamnissaram" xmltv_id="en: Karyam Nissaram - Live">en: Karyam Nissaram - Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##m80moasa" xmltv_id="en: M80 Moosa">en: M80 Moosa</channel>
-    <channel update="i" site="starzplay.com" site_id="en##curiositystream" xmltv_id="en: Curiosity Stream">en: Curiosity Stream</channel>
-    <channel update="i" site="starzplay.com" site_id="en##kdramalive" xmltv_id="en: K-Drama+">en: K-Drama+</channel>
-    <channel update="i" site="starzplay.com" site_id="en##colorshd" xmltv_id="en: Colors HD">en: Colors HD</channel>
-    <channel update="i" site="starzplay.com" site_id="en##zeetvhd" xmltv_id="en: Zee TV HD">en: Zee TV HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##e-junior" xmltv_id="en: ejunior">en: ejunior</channel>
+    <channel update="i" site="starzplay.com" site_id="en##admnmajidtv" xmltv_id="en: Majid TV">en: Majid TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##spacetoon" xmltv_id="en: Spacetoon">en: Spacetoon</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cartoonnetworkarabic" xmltv_id="en: Cartoon Network Arabic">en: Cartoon Network Arabic</channel>
     <channel update="i" site="starzplay.com" site_id="en##asianethd" xmltv_id="en: Asianet ME">en: Asianet ME</channel>
-    <channel update="i" site="starzplay.com" site_id="en##asianetplushd" xmltv_id="en: Asianet Plus HD">en: Asianet Plus HD</channel>
-    <channel update="i" site="starzplay.com" site_id="en##asianetmovieshd" xmltv_id="en: Asianet Movies HD">en: Asianet Movies HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##asianetcinema" xmltv_id="en: Asianet Cinema">en: Asianet Cinema</channel>
+    <channel update="i" site="starzplay.com" site_id="en##colorshd" xmltv_id="en: Colors HD">en: Colors HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##colorskannada" xmltv_id="en: Colors Kannada">en: Colors Kannada</channel>
+    <channel update="i" site="starzplay.com" site_id="en##skynews" xmltv_id="en: Sky News">en: Sky News</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cnninternational" xmltv_id="en: CNN International">en: CNN International</channel>
+    <channel update="i" site="starzplay.com" site_id="en##indiatoday" xmltv_id="en: India Today TV">en: India Today TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##republictv" xmltv_id="en: Republic TV">en: Republic TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##asianetnews" xmltv_id="en: Asianet News">en: Asianet News</channel>
+    <channel update="i" site="starzplay.com" site_id="en##manoramanews" xmltv_id="en: Manorama News">en: Manorama News</channel>
+    <channel update="i" site="starzplay.com" site_id="en##reportertv" xmltv_id="en: Reporter TV">en: Reporter TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##bloombergasharqlive" xmltv_id="en: Asharq Bloomberg">en: Asharq Bloomberg</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cnbcarabiya" xmltv_id="en: CNBC Arabiya HD">en: CNBC Arabiya HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cgtn" xmltv_id="en: CGTN">en: CGTN</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cnnfast" xmltv_id="en: CNN Headlines International">en: CNN Headlines International</channel>
+    <channel update="i" site="starzplay.com" site_id="en##france24arabic" xmltv_id="en: France 24 Arabic">en: France 24 Arabic</channel>
+    <channel update="i" site="starzplay.com" site_id="en##france24french" xmltv_id="en: France 24 French">en: France 24 French</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starzplaysport1" xmltv_id="en: STARZPLAY Sports 3">en: STARZPLAY Sports 3</channel>
+    <channel update="i" site="starzplay.com" site_id="en##adsportsasia01" xmltv_id="en: YAS TV Extra">en: YAS TV Extra</channel>
+    <channel update="i" site="starzplay.com" site_id="en##criclife1" xmltv_id="en: STARZPLAY Cricket">en: STARZPLAY Cricket</channel>
+    <channel update="i" site="starzplay.com" site_id="en##golflife" xmltv_id="en: STARZPLAY Golf">en: STARZPLAY Golf</channel>
+    <channel update="i" site="starzplay.com" site_id="en##adsportsasia02" xmltv_id="en: AD Sports Extra">en: AD Sports Extra</channel>
+    <channel update="i" site="starzplay.com" site_id="en##redbulltv" xmltv_id="en: Red Bull TV Live">en: Red Bull TV Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##daznringside" xmltv_id="en: DAZN Ringside">en: DAZN Ringside</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starzplayrugby" xmltv_id="en: StarzPlay Rugby">en: StarzPlay Rugby</channel>
+    <channel update="i" site="starzplay.com" site_id="en##fifaplus" xmltv_id="en: FIFA+ Live">en: FIFA+ Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##superleaguekerala" xmltv_id="en: Super League Kerala">en: Super League Kerala</channel>
+    <channel update="i" site="starzplay.com" site_id="en##baynouahtv" xmltv_id="en: Baynounah TV">en: Baynounah TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##admnyastv" xmltv_id="en: Yas">en: Yas</channel>
+    <channel update="i" site="starzplay.com" site_id="en##adfight" xmltv_id="en: AD Fight">en: AD Fight</channel>
+    <channel update="i" site="starzplay.com" site_id="en##kanalddrama" xmltv_id="en: Kanal D Drama">en: Kanal D Drama</channel>
+    <channel update="i" site="starzplay.com" site_id="en##sharjahtv" xmltv_id="en: Sharjah TV">en: Sharjah TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rotanaclassic" xmltv_id="en: Rotana Classic">en: Rotana Classic</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rotanacomedy" xmltv_id="en: Rotana Comedy">en: Rotana Comedy</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rotanadrama" xmltv_id="en: Rotana Drama">en: Rotana Drama</channel>
+    <channel update="i" site="starzplay.com" site_id="en##mbcpluselife" xmltv_id="en: MBC+ e&amp;">en: MBC+ e&amp;</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starzplayaction" xmltv_id="en: STARZPLAY Action">en: STARZPLAY Action</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starzplaycomedy" xmltv_id="en: STARZPLAY Comedy">en: STARZPLAY Comedy</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starzplayseries" xmltv_id="en: STARZPLAY Series">en: STARZPLAY Series</channel>
+    <channel update="i" site="starzplay.com" site_id="en##saudionehd" xmltv_id="en: Saudi 1">en: Saudi 1</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rotanakhaleejiah" xmltv_id="en: Rotana Khaleejiah">en: Rotana Khaleejiah</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeealwan" xmltv_id="en: Zee Alwan">en: Zee Alwan</channel>
+    <channel update="i" site="starzplay.com" site_id="en##royatv" xmltv_id="en: Roya TV Live">en: Roya TV Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##lbcsat" xmltv_id="en: LBC Sat">en: LBC Sat</channel>
+    <channel update="i" site="starzplay.com" site_id="en##curiositystream" xmltv_id="en: Curiosity Stream">en: Curiosity Stream</channel>
     <channel update="i" site="starzplay.com" site_id="en##starplushd" xmltv_id="en: Star Plus HD">en: Star Plus HD</channel>
-    <channel update="i" site="starzplay.com" site_id="en##admnemaratfm" xmltv_id="en: Emarat FM">en: Emarat FM</channel>
+    <channel update="i" site="starzplay.com" site_id="en##sharqiyafromKalba" xmltv_id="en: Sharqiya from Kalba">en: Sharqiya from Kalba</channel>
+    <channel update="i" site="starzplay.com" site_id="en##alwoustaaldhaid" xmltv_id="en: Al Wousta Al Dhaid">en: Al Wousta Al Dhaid</channel>
+    <channel update="i" site="starzplay.com" site_id="en##aljadeed" xmltv_id="en: Al Jadeed">en: Al Jadeed</channel>
+    <channel update="i" site="starzplay.com" site_id="en##6tertv" xmltv_id="en: 6ter">en: 6ter</channel>
+    <channel update="i" site="starzplay.com" site_id="en##m6television" xmltv_id="en: M6">en: M6</channel>
+    <channel update="i" site="starzplay.com" site_id="en##m6music" xmltv_id="en: M6 Music">en: M6 Music</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rfmtv" xmltv_id="en: RFM">en: RFM</channel>
+    <channel update="i" site="starzplay.com" site_id="en##w9television" xmltv_id="en: W9">en: W9</channel>
+    <channel update="i" site="starzplay.com" site_id="en##colorsbangla" xmltv_id="en: Colors Bangla">en: Colors Bangla</channel>
+    <channel update="i" site="starzplay.com" site_id="en##mtvindia" xmltv_id="en: MTV India">en: MTV India</channel>
+    <channel update="i" site="starzplay.com" site_id="en##bloomtv" xmltv_id="en: Bloom">en: Bloom</channel>
+    <channel update="i" site="starzplay.com" site_id="en##tomandjerry" xmltv_id="en: Looney Tunes By CN">en: Looney Tunes By CN</channel>
+    <channel update="i" site="starzplay.com" site_id="en##alsanafer" xmltv_id="en: Al Sanafer">en: Al Sanafer</channel>
+    <channel update="i" site="starzplay.com" site_id="en##kartoonchannel" xmltv_id="en: Kartoon Channel! - Live">en: Kartoon Channel! - Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##gulli" xmltv_id="en: Gulli">en: Gulli</channel>
+    <channel update="i" site="starzplay.com" site_id="en##tijitv" xmltv_id="en: TiJi">en: TiJi</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeebangla" xmltv_id="en: Zee Bangla">en: Zee Bangla</channel>
+    <channel update="i" site="starzplay.com" site_id="en##setmax" xmltv_id="en: SET Max">en: SET Max</channel>
+    <channel update="i" site="starzplay.com" site_id="en##stargold" xmltv_id="en: Star Gold">en: Star Gold</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeecinema" xmltv_id="en: Zee Cinema">en: Zee Cinema</channel>
+    <channel update="i" site="starzplay.com" site_id="en##asianetplushd" xmltv_id="en: Asianet Plus HD">en: Asianet Plus HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##embollywoodunlimited" xmltv_id="en: em Bollywood Unlimited">en: em Bollywood Unlimited</channel>
+    <channel update="i" site="starzplay.com" site_id="en##sonytv" xmltv_id="en: Sony TV">en: Sony TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeetvhd" xmltv_id="en: Zee TV HD">en: Zee TV HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##sabtv" xmltv_id="en: Sab TV">en: Sab TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##flowersinternational" xmltv_id="en: Flowers International">en: Flowers International</channel>
+    <channel update="i" site="starzplay.com" site_id="en##geotv" xmltv_id="en: Geo TV">en: Geo TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##asianetmovieshd" xmltv_id="en: Asianet Movies HD">en: Asianet Movies HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##mazhavilmanorama" xmltv_id="en: Mazhavil Manorama">en: Mazhavil Manorama</channel>
+    <channel update="i" site="starzplay.com" site_id="en##ntvhd" xmltv_id="en: NTV HD">en: NTV HD</channel>
+    <channel update="i" site="starzplay.com" site_id="en##emsimplysouth" xmltv_id="en: Emasala Simply South">en: Emasala Simply South</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeekeralam" xmltv_id="en: Zee Keralam">en: Zee Keralam</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeetamil" xmltv_id="en: Zee Tamil">en: Zee Tamil</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeemarathi" xmltv_id="en: Zee Marathi">en: Zee Marathi</channel>
+    <channel update="i" site="starzplay.com" site_id="en##m80moasa" xmltv_id="en: M80 Moosa">en: M80 Moosa</channel>
+    <channel update="i" site="starzplay.com" site_id="en##karyamnissaram" xmltv_id="en: Karyam Nissaram - Live">en: Karyam Nissaram - Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starjalsha" xmltv_id="en: Star Jalsha">en: Star Jalsha</channel>
+    <channel update="i" site="starzplay.com" site_id="en##arydigital" xmltv_id="en: ARY Digital">en: ARY Digital</channel>
+    <channel update="i" site="starzplay.com" site_id="en##starzplaymovie" xmltv_id="en: STARZPLAY Movies">en: STARZPLAY Movies</channel>
+    <channel update="i" site="starzplay.com" site_id="en##zeeaflam" xmltv_id="en: Zee Aflam - Live">en: Zee Aflam - Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rotanacinemaksa" xmltv_id="en: Rotana Cinema KSA">en: Rotana Cinema KSA</channel>
+    <channel update="i" site="starzplay.com" site_id="en##rotanacinemaegypt" xmltv_id="en: Rotana Cinema Egypt">en: Rotana Cinema Egypt</channel>
+    <channel update="i" site="starzplay.com" site_id="en##kmusiclive" xmltv_id="en: K Music - Live">en: K Music - Live</channel>
+    <channel update="i" site="starzplay.com" site_id="en##ctgndiscoveringchina" xmltv_id="en: CGTN Discovering China">en: CGTN Discovering China</channel>
+    <channel update="i" site="starzplay.com" site_id="en##cgtnchinatravel" xmltv_id="en: CGTN China Travel">en: CGTN China Travel</channel>
+    <channel update="i" site="starzplay.com" site_id="en##concerto" xmltv_id="en: Concerto TV">en: Concerto TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##nowrock" xmltv_id="en: That's Rock">en: That's Rock</channel>
+    <channel update="i" site="starzplay.com" site_id="en##now80s" xmltv_id="en: That’s 80s">en: That’s 80s</channel>
+    <channel update="i" site="starzplay.com" site_id="en##petclubtv" xmltv_id="en: Pet Club TV">en: Pet Club TV</channel>
+    <channel update="i" site="starzplay.com" site_id="en##nowchristmas" xmltv_id="en: That’s 70s">en: That’s 70s</channel>
+    <channel update="i" site="starzplay.com" site_id="en##saudiquranhd" xmltv_id="en: Saudi Quran">en: Saudi Quran</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnqurankareemfm" xmltv_id="en: Quran Kareem">en: Quran Kareem</channel>
+    <channel update="i" site="starzplay.com" site_id="en##admnemaratfm" xmltv_id="en: Emarat FM">en: Emarat FM</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnstarfm" xmltv_id="en: Star FM">en: Star FM</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnradio2fm" xmltv_id="en: Radio 2">en: Radio 2</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnkadakfm" xmltv_id="en: KADAK FM">en: KADAK FM</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnadclassicfm" xmltv_id="en: Abu Dhabi Classic FM">en: Abu Dhabi Classic FM</channel>
     <channel update="i" site="starzplay.com" site_id="en##admnradio1fm" xmltv_id="en: Radio 1">en: Radio 1</channel>
     <channel update="i" site="starzplay.com" site_id="en##abudhabifm" xmltv_id="en: Abu Dhabi FM">en: Abu Dhabi FM</channel>
-    <channel update="i" site="starzplay.com" site_id="en##indiatoday" xmltv_id="en: India Today TV">en: India Today TV</channel>
-    <channel update="i" site="starzplay.com" site_id="en##bloombergasharqlive" xmltv_id="en: Asharq News">en: Asharq News</channel>
-    <channel update="i" site="starzplay.com" site_id="en##cnbcarabiya" xmltv_id="en: CNBC Arabiya HD">en: CNBC Arabiya HD</channel>
-    <channel update="i" site="starzplay.com" site_id="en##cgtn" xmltv_id="en: CGTN">en: CGTN</channel>
-    <channel update="i" site="starzplay.com" site_id="en##alarabiyabusiness" xmltv_id="en: Al Arabiya Business - Live">en: Al Arabiya Business - Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##alhadath" xmltv_id="en: Al Hadath Live">en: Al Hadath Live</channel>
-    <channel update="i" site="starzplay.com" site_id="en##setmax" xmltv_id="en: SET Max">en: SET Max</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##golflife" xmltv_id="ar: جولف لايف">ar: جولف لايف</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##skynewsarabia" xmltv_id="ar: سكاي نيوز عربية - مباشر">ar: سكاي نيوز عربية - مباشر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##admnadsports1" xmltv_id="ar: 1 أبوظبي الرياضية">ar: 1 أبوظبي الرياضية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##admnadsports2" xmltv_id="ar: 2 أبوظبي الرياضية">ar: 2 أبوظبي الرياضية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##abudhabisportshdr" xmltv_id="ar: أبوظبي الرياضية">ar: أبوظبي الرياضية</channel>
     <channel update="i" site="starzplay.com" site_id="ar##starzplaysports1" xmltv_id="ar: ستارز بلاي سبورتس 1">ar: ستارز بلاي سبورتس 1</channel>
     <channel update="i" site="starzplay.com" site_id="ar##starzplaysports2" xmltv_id="ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي">ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##starzplaysport1" xmltv_id="ar: STARZPLAY Sports">ar: STARZPLAY Sports</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##adsportsasia01" xmltv_id="ar: ياس تي في إكسترا">ar: ياس تي في إكسترا</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##sonytv" xmltv_id="ar: سوني تي في">ar: سوني تي في</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##bloomtv" xmltv_id="ar: بلوم">ar: بلوم</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##skynewsarabia" xmltv_id="ar: سكاي نيوز عربية - مباشر">ar: سكاي نيوز عربية - مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##tomandjerry" xmltv_id="ar: غامبول باي دبليو بي تي في">ar: غامبول باي دبليو بي تي في</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##arydigital" xmltv_id="ar: قناة إي آر واي ديجيتال">ar: قناة إي آر واي ديجيتال</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##geotv" xmltv_id="ar: قناة جيو">ar: قناة جيو</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##cnnfast" xmltv_id="ar: عناوين أخبار سي إن إن">ar: عناوين أخبار سي إن إن</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##wedosports" xmltv_id="ar: ويدوسبورتس مينا">ar: ويدوسبورتس مينا</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##admnadsports2" xmltv_id="ar: 2 أبوظبي الرياضية">ar: 2 أبوظبي الرياضية</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##admnabudhabichannel" xmltv_id="ar: قناة أبوظبي">ar: قناة أبوظبي</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##aljadeed" xmltv_id="ar: Al Jadeed">ar: Al Jadeed</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##mbcpluselife" xmltv_id="ar: MBC+ e&amp;">ar: MBC+ e&amp;</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##unbeatensports" xmltv_id="ar: يونبيتن سبورتس">ar: يونبيتن سبورتس</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##starzplay-klassicz" xmltv_id="ar: ستارز بلاي كلاسيكز">ar: ستارز بلاي كلاسيكز</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##alarabiya" xmltv_id="ar: قناة العربية - مباشر">ar: قناة العربية - مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##zeeaflam" xmltv_id="ar: زي أفلام - مباشر">ar: زي أفلام - مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##criclifemax" xmltv_id="ar: ستارزبلاي كريكيت 2">ar: ستارزبلاي كريكيت 2</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##starzplayrugby" xmltv_id="ar: ستارزبلاي رغبي">ar: ستارزبلاي رغبي</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##easl" xmltv_id="ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026)">ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026)</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##criclife1" xmltv_id="ar: ستارزبلاي كريكيت 1">ar: ستارزبلاي كريكيت 1</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##adsportsasia02" xmltv_id="ar: أبوظبي الرياضية إكسترا">ar: أبوظبي الرياضية إكسترا</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##awsn" xmltv_id="ar: أيه دبل يو إس إن بلس">ar: أيه دبل يو إس إن بلس</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##redbulltv" xmltv_id="ar: Red Bull TV Live">ar: Red Bull TV Live</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##dazncombat" xmltv_id="ar: DAZN Combat &amp; Fighting">ar: DAZN Combat &amp; Fighting</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##criclifewoman" xmltv_id="ar: ستارزبلاي كريكيت 3">ar: ستارزبلاي كريكيت 3</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cricbuzz1" xmltv_id="ar: كريكبز 1">ar: كريكبز 1</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##criclife3" xmltv_id="ar: كريكبز 2">ar: كريكبز 2</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnalemarattv" xmltv_id="ar: قناة الإمارات">ar: قناة الإمارات</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##baynouahtv" xmltv_id="ar: قناة بينونة">ar: قناة بينونة</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##admnmajidtv" xmltv_id="ar: قناة ماجد">ar: قناة ماجد</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##admnabudhabichannel" xmltv_id="ar: قناة أبوظبي">ar: قناة أبوظبي</channel>
     <channel update="i" site="starzplay.com" site_id="ar##nationalgeographicabudhabitv" xmltv_id="ar: ناشيونال جيوغرافيك أبوظبي">ar: ناشيونال جيوغرافيك أبوظبي</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##admnadsports1" xmltv_id="ar: 1 أبوظبي الرياضية">ar: 1 أبوظبي الرياضية</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##admnyastv" xmltv_id="ar: قناة ياس">ar: قناة ياس</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##samadubai" xmltv_id="ar: سما دبي">ar: سما دبي</channel>
     <channel update="i" site="starzplay.com" site_id="ar##twommonde" xmltv_id="ar: 2M Monde">ar: 2M Monde</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##royatv" xmltv_id="ar: Roya TV Live">ar: Roya TV Live</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##zeealwan" xmltv_id="ar: زي ألوان - البث المباشر">ar: زي ألوان - البث المباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##karyamnissaram" xmltv_id="ar: كاريم نيسارام-مباشر">ar: كاريم نيسارام-مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##m80moasa" xmltv_id="ar: M80 موسى">ar: M80 موسى</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##curiositystream" xmltv_id="ar: كيوريوسيتي ستريم">ar: كيوريوسيتي ستريم</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##kdramalive" xmltv_id="ar: ك-دراما+">ar: ك-دراما+</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##e-junior" xmltv_id="ar: إي جونيور">ar: إي جونيور</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##admnmajidtv" xmltv_id="ar: قناة ماجد">ar: قناة ماجد</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##spacetoon" xmltv_id="ar: سبيستون">ar: سبيستون</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cartoonnetworkarabic" xmltv_id="ar: كرتون نتورك بالعربية">ar: كرتون نتورك بالعربية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##asianethd" xmltv_id="ar: آسيا نت مي">ar: آسيا نت مي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##asianetcinema" xmltv_id="ar: آسيانت سينما">ar: آسيانت سينما</channel>
     <channel update="i" site="starzplay.com" site_id="ar##colorshd" xmltv_id="ar: كلرز إتش دي">ar: كلرز إتش دي</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##zeetvhd" xmltv_id="ar: زي تي في">ar: زي تي في</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##asianethd" xmltv_id="ar: آسيا نت">ar: آسيا نت</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##asianetplushd" xmltv_id="ar: آسيا نت بلس">ar: آسيا نت بلس</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##asianetmovieshd" xmltv_id="ar: آسيا نت موفيز">ar: آسيا نت موفيز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##colorskannada" xmltv_id="ar: كولورز كانادا">ar: كولورز كانادا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##skynews" xmltv_id="ar: سكاي نيوز">ar: سكاي نيوز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cnninternational" xmltv_id="ar: سي إن إن إنترناشيونال">ar: سي إن إن إنترناشيونال</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##indiatoday" xmltv_id="ar: قناة إنديا توداي التلفزيونية">ar: قناة إنديا توداي التلفزيونية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##republictv" xmltv_id="ar: ريبابليك تي في">ar: ريبابليك تي في</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##asianetnews" xmltv_id="ar: آسيانيت نيوز">ar: آسيانيت نيوز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##manoramanews" xmltv_id="ar: مانوراما نيوز">ar: مانوراما نيوز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##reportertv" xmltv_id="ar: ريبورتر تي في">ar: ريبورتر تي في</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##bloombergasharqlive" xmltv_id="ar: الشرق بلومبرغ">ar: الشرق بلومبرغ</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cnbcarabiya" xmltv_id="ar: سي إن بي سي عربية - مباشر">ar: سي إن بي سي عربية - مباشر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cgtn" xmltv_id="ar: سي جي تي إن">ar: سي جي تي إن</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cnnfast" xmltv_id="ar: عناوين سي إن إن الدولية">ar: عناوين سي إن إن الدولية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##france24arabic" xmltv_id="ar: فرانس 24 العربية">ar: فرانس 24 العربية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##france24french" xmltv_id="ar: فرانس 24 الفرنسية">ar: فرانس 24 الفرنسية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starzplaysport1" xmltv_id="ar: STARZPLAY Sports 3">ar: STARZPLAY Sports 3</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##adsportsasia01" xmltv_id="ar: ياس تي في إكسترا">ar: ياس تي في إكسترا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##criclife1" xmltv_id="ar: ستارزبلاي كريكيت">ar: ستارزبلاي كريكيت</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##golflife" xmltv_id="ar: ستارزبلاي جولف">ar: ستارزبلاي جولف</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##adsportsasia02" xmltv_id="ar: أبوظبي الرياضية إكسترا">ar: أبوظبي الرياضية إكسترا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##redbulltv" xmltv_id="ar: Red Bull TV Live">ar: Red Bull TV Live</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##daznringside" xmltv_id="ar: دازن رينغسايد">ar: دازن رينغسايد</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starzplayrugby" xmltv_id="ar: ستارزبلاي رغبي">ar: ستارزبلاي رغبي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##fifaplus" xmltv_id="ar: فيفا+">ar: فيفا+</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##superleaguekerala" xmltv_id="ar: دوري كيرالا الممتاز">ar: دوري كيرالا الممتاز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##baynouahtv" xmltv_id="ar: قناة بينونة">ar: قناة بينونة</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##admnyastv" xmltv_id="ar: قناة ياس">ar: قناة ياس</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##adfight" xmltv_id="ar: أبوظبي فايت">ar: أبوظبي فايت</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##kanalddrama" xmltv_id="ar: كنال دي دراما">ar: كنال دي دراما</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##sharjahtv" xmltv_id="ar: تلفزيون الشارقة">ar: تلفزيون الشارقة</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rotanaclassic" xmltv_id="ar: روتانا كلاسيك">ar: روتانا كلاسيك</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rotanacomedy" xmltv_id="ar: روتانا كوميدي">ar: روتانا كوميدي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rotanadrama" xmltv_id="ar: روتانا دراما">ar: روتانا دراما</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##mbcpluselife" xmltv_id="ar: MBC+ e&amp;">ar: MBC+ e&amp;</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starzplayaction" xmltv_id="ar: ستارزبلاي أكشن">ar: ستارزبلاي أكشن</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starzplaycomedy" xmltv_id="ar: ستارزبلاي كوميدي">ar: ستارزبلاي كوميدي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starzplayseries" xmltv_id="ar: ستارزبلاي سيريز">ar: ستارزبلاي سيريز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##saudionehd" xmltv_id="ar: السعودية 1">ar: السعودية 1</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rotanakhaleejiah" xmltv_id="ar: روتانا خليجية">ar: روتانا خليجية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeealwan" xmltv_id="ar: زي ألوان - البث المباشر">ar: زي ألوان - البث المباشر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##royatv" xmltv_id="ar: Roya TV Live">ar: Roya TV Live</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##lbcsat" xmltv_id="ar: أل بي سي سات">ar: أل بي سي سات</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##curiositystream" xmltv_id="ar: كيوريوسيتي ستريم">ar: كيوريوسيتي ستريم</channel>
     <channel update="i" site="starzplay.com" site_id="ar##starplushd" xmltv_id="ar: ستار بلس">ar: ستار بلس</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##admnemaratfm" xmltv_id="ar: إذاعة الإمارات إف إم">ar: إذاعة الإمارات إف إم</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##sharqiyafromKalba" xmltv_id="ar: الشرقية من كلباء">ar: الشرقية من كلباء</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##alwoustaaldhaid" xmltv_id="ar: الوسطى من الذيد">ar: الوسطى من الذيد</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##aljadeed" xmltv_id="ar: Al Jadeed">ar: Al Jadeed</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##6tertv" xmltv_id="ar: سيكستير">ar: سيكستير</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##m6television" xmltv_id="ar: إم 6">ar: إم 6</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##m6music" xmltv_id="ar: إم 6 ميوزيك">ar: إم 6 ميوزيك</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rfmtv" xmltv_id="ar: آر إف إم">ar: آر إف إم</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##w9television" xmltv_id="ar: دبليو 9">ar: دبليو 9</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##colorsbangla" xmltv_id="ar: كولورز بانغلا">ar: كولورز بانغلا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##mtvindia" xmltv_id="ar: إم تي في إنديا">ar: إم تي في إنديا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##bloomtv" xmltv_id="ar: بلوم">ar: بلوم</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##tomandjerry" xmltv_id="ar: لوني تونز باي سي إن">ar: لوني تونز باي سي إن</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##alsanafer" xmltv_id="ar: أل سنافر">ar: أل سنافر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##kartoonchannel" xmltv_id="ar: كارتون شانل">ar: كارتون شانل</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##gulli" xmltv_id="ar: غولي">ar: غولي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##tijitv" xmltv_id="ar: تي جي">ar: تي جي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeebangla" xmltv_id="ar: زي بنغلا">ar: زي بنغلا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##setmax" xmltv_id="ar: ست ماكس">ar: ست ماكس</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##stargold" xmltv_id="ar: ستار غولد">ar: ستار غولد</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeecinema" xmltv_id="ar: زي سينما">ar: زي سينما</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##asianetplushd" xmltv_id="ar: آسيا نت بلس">ar: آسيا نت بلس</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##embollywoodunlimited" xmltv_id="ar: إي إم بوليوود بلا حدود">ar: إي إم بوليوود بلا حدود</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##sonytv" xmltv_id="ar: سوني تي في">ar: سوني تي في</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeetvhd" xmltv_id="ar: زي تي في">ar: زي تي في</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##sabtv" xmltv_id="ar: ساب تي في">ar: ساب تي في</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##flowersinternational" xmltv_id="ar: فلورز إنترناشيونال">ar: فلورز إنترناشيونال</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##geotv" xmltv_id="ar: قناة جيو">ar: قناة جيو</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##asianetmovieshd" xmltv_id="ar: آسيا نت موفيز">ar: آسيا نت موفيز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##mazhavilmanorama" xmltv_id="ar: مازافيل مانوراما">ar: مازافيل مانوراما</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##ntvhd" xmltv_id="ar: این ٹی وی">ar: این ٹی وی</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##emsimplysouth" xmltv_id="ar: إي مسالا سيمبلي ساوث">ar: إي مسالا سيمبلي ساوث</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeekeralam" xmltv_id="ar: زي كيرلام">ar: زي كيرلام</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeetamil" xmltv_id="ar: زي تاميل">ar: زي تاميل</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeemarathi" xmltv_id="ar: زي ماراثي">ar: زي ماراثي</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##m80moasa" xmltv_id="ar: M80 موسى">ar: M80 موسى</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##karyamnissaram" xmltv_id="ar: كاريم نيسارام-مباشر">ar: كاريم نيسارام-مباشر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starjalsha" xmltv_id="ar: ستار جالسا">ar: ستار جالسا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##arydigital" xmltv_id="ar: قناة إي آر واي ديجيتال">ar: قناة إي آر واي ديجيتال</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##starzplaymovie" xmltv_id="ar: ستارزبلاي موفيز ">ar: ستارزبلاي موفيز </channel>
+    <channel update="i" site="starzplay.com" site_id="ar##zeeaflam" xmltv_id="ar: زي أفلام - مباشر">ar: زي أفلام - مباشر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rotanacinemaksa" xmltv_id="ar: روتانا سينما السعودية">ar: روتانا سينما السعودية</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##rotanacinemaegypt" xmltv_id="ar: روتانا سينما مصر">ar: روتانا سينما مصر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##kmusiclive" xmltv_id="ar: كيه ميوزيك - مباشر">ar: كيه ميوزيك - مباشر</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##ctgndiscoveringchina" xmltv_id="ar: سي جي تي ان ديسكفرينغ تشاينا">ar: سي جي تي ان ديسكفرينغ تشاينا</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##cgtnchinatravel" xmltv_id="ar: سي جي تي ان تشاينا ترافل">ar: سي جي تي ان تشاينا ترافل</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##concerto" xmltv_id="ar: تلفزيون كونشيرتو">ar: تلفزيون كونشيرتو</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##nowrock" xmltv_id="ar: ذاتس روك">ar: ذاتس روك</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##now80s" xmltv_id="ar: ذاتس إيتيز">ar: ذاتس إيتيز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##petclubtv" xmltv_id="ar: برنامج نادي الحيوانات الأليفة التلفزيوني">ar: برنامج نادي الحيوانات الأليفة التلفزيوني</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##nowchristmas" xmltv_id="ar: ذاتس سيفنتيز">ar: ذاتس سيفنتيز</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##saudiquranhd" xmltv_id="ar: القرآن الكريم السعودية">ar: القرآن الكريم السعودية</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnqurankareemfm" xmltv_id="ar: قناة القرآن الكريم">ar: قناة القرآن الكريم</channel>
+    <channel update="i" site="starzplay.com" site_id="ar##admnemaratfm" xmltv_id="ar: إذاعة الإمارات إف إم">ar: إذاعة الإمارات إف إم</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnstarfm" xmltv_id="ar: ستار إف إم">ar: ستار إف إم</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnradio2fm" xmltv_id="ar: راديو 2">ar: راديو 2</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnkadakfm" xmltv_id="ar: كدك إف إم">ar: كدك إف إم</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnadclassicfm" xmltv_id="ar: أبوظبي كلاسيك إف إم">ar: أبوظبي كلاسيك إف إم</channel>
     <channel update="i" site="starzplay.com" site_id="ar##admnradio1fm" xmltv_id="ar: راديو 1">ar: راديو 1</channel>
     <channel update="i" site="starzplay.com" site_id="ar##abudhabifm" xmltv_id="ar: إذاعة أبوظبي إف إم">ar: إذاعة أبوظبي إف إم</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##indiatoday" xmltv_id="ar: قناة إنديا توداي التلفزيونية">ar: قناة إنديا توداي التلفزيونية</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##bloombergasharqlive" xmltv_id="ar: الشرق للأخبار- لايف">ar: الشرق للأخبار- لايف</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##cnbcarabiya" xmltv_id="ar: سي إن بي سي عربية - مباشر">ar: سي إن بي سي عربية - مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##cgtn" xmltv_id="ar: سي جي تي إن">ar: سي جي تي إن</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##alarabiyabusiness" xmltv_id="ar: العربية بيزنس - مباشر">ar: العربية بيزنس - مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##alhadath" xmltv_id="ar: قناة الحدث - مباشر">ar: قناة الحدث - مباشر</channel>
-    <channel update="i" site="starzplay.com" site_id="ar##setmax" xmltv_id="ar: ست ماكس">ar: ست ماكس</channel>
   </channels>
 </site>
