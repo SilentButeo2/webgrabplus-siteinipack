@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.5.0.3 -- Jan van Straaten" site="ziggogo.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.6.1.0 -- Jan van Straaten" site="ziggogo.tv">
   <channels>
     <channel update="i" site="ziggogo.tv" site_id="NL_000001_019401" xmltv_id="NPO 1">NPO 1</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000002_019402" xmltv_id="NPO 2">NPO 2</channel>
@@ -14,7 +14,7 @@
     <channel update="i" site="ziggogo.tv" site_id="NL_000011_019563" xmltv_id="STAR Channel">STAR Channel</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000012_019191" xmltv_id="RTL Z">RTL Z</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000231_000000" xmltv_id="Viaplay TV">Viaplay TV</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_000014_019661" xmltv_id="Ziggo Sport">Ziggo Sport</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000014_019661" xmltv_id="Ziggo Sport 1">Ziggo Sport 1</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000015_019166" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000016_019388" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000017_019222" xmltv_id="Discovery">Discovery</channel>
@@ -54,7 +54,7 @@
     <channel update="i" site="ziggogo.tv" site_id="NL_000080_019484" xmltv_id="NPO 2 Extra">NPO 2 Extra</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000114_019151" xmltv_id="NPO Politiek en Nieuws">NPO Politiek en Nieuws</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000235_000000" xmltv_id="Film1 Pakket">Film1 Pakket</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_000213_020003" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000213_020003" xmltv_id="FILMBOX+ One">FILMBOX+ One</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000052_019655" xmltv_id="Film1 Premiere">Film1 Premiere</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000053_019653" xmltv_id="Film1 Action">Film1 Action</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000054_019654" xmltv_id="Film1 Family">Film1 Family</channel>
@@ -89,18 +89,22 @@
     <channel update="i" site="ziggogo.tv" site_id="NL_000236_000000" xmltv_id="Ziggo Sport Totaal">Ziggo Sport Totaal</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000013_019327" xmltv_id="Ziggo TV">Ziggo TV</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000233_000000" xmltv_id="Ziggo Sport Extra">Ziggo Sport Extra</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_000094_019321" xmltv_id="Ziggo Sport">Ziggo Sport</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000094_019321" xmltv_id="Ziggo Sport 1">Ziggo Sport 1</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000095_019371" xmltv_id="Ziggo Sport 2">Ziggo Sport 2</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000096_019382" xmltv_id="Ziggo Sport 3">Ziggo Sport 3</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000097_019370" xmltv_id="Ziggo Sport 4">Ziggo Sport 4</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000098_019255" xmltv_id="Ziggo Sport 5">Ziggo Sport 5</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000099_019256" xmltv_id="Ziggo Sport 6">Ziggo Sport 6</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000103_019581" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_000237_000000" xmltv_id="ESPN Compleet">ESPN Compleet</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000237_000000" xmltv_id="ESPN Premium">ESPN Premium</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000107_019441" xmltv_id="ESPN">ESPN</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000108_019561" xmltv_id="ESPN 2">ESPN 2</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000109_019464" xmltv_id="ESPN 3">ESPN 3</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000110_019562" xmltv_id="ESPN 4">ESPN 4</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000202_019006" xmltv_id="ESPN UHD">ESPN UHD</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_200037_100000" xmltv_id="ESPN 2 UHD">ESPN 2 UHD</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_200038_100000" xmltv_id="ESPN 3 UHD">ESPN 3 UHD</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_200039_100000" xmltv_id="ESPN 4 UHD">ESPN 4 UHD</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000238_000000" xmltv_id="Viaplay">Viaplay</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_900017_000000" xmltv_id="Viaplay TV">Viaplay TV</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000232_000000" xmltv_id="Viaplay TV+">Viaplay TV+</channel>
@@ -111,6 +115,7 @@
     <channel update="i" site="ziggogo.tv" site_id="NL_000119_019481" xmltv_id="CNBC Europe">CNBC Europe</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000122_019495" xmltv_id="TV538">TV538</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000230_000000" xmltv_id="TOP40 TV">TOP40 TV</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000242_000000" xmltv_id="Qmusic Kijk Live">Qmusic Kijk Live</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000125_019294" xmltv_id="SLAM!TV">SLAM!TV</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000124_019487" xmltv_id="DanceTelevision">DanceTelevision</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000127_019295" xmltv_id="Stingray LiteTV">Stingray LiteTV</channel>
@@ -135,8 +140,8 @@
     <channel update="i" site="ziggogo.tv" site_id="NL_000148_019144" xmltv_id="L1 TV">L1 TV</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000149_019210" xmltv_id="AT5">AT5</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000239_000000" xmltv_id="Hindi Pakket">Hindi Pakket</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_000150_020075" xmltv_id="Utsav Plus">Utsav Plus</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_000151_020074" xmltv_id="Utsav Gold">Utsav Gold</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000150_020075" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="ziggogo.tv" site_id="NL_000151_020074" xmltv_id="Star Gold">Star Gold</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000152_020077" xmltv_id="Zee TV">Zee TV</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000153_020076" xmltv_id="Zee Cinema">Zee Cinema</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000154_020078" xmltv_id="Zing">Zing</channel>
@@ -160,7 +165,6 @@
     <channel update="i" site="ziggogo.tv" site_id="NL_000175_019312" xmltv_id="Meiden van Holland Hard">Meiden van Holland Hard</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000176_019308" xmltv_id="X-MO">X-MO</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_000217_019123" xmltv_id="Playboy TV Europe">Playboy TV Europe</channel>
-    <channel update="i" site="ziggogo.tv" site_id="NL_005049_018501" xmltv_id="NPO Soul &amp; Jazz">NPO Soul &amp; Jazz</channel>
     <channel update="i" site="ziggogo.tv" site_id="NL_900019_000000" xmltv_id="Ziggo TV">Ziggo TV</channel>
   </channels>
 </site>
