@@ -52,7 +52,7 @@
     <channel update="i" site="hoerzu.de" site_id="df1" xmltv_id="DF1">DF1</channel>
     <channel update="i" site="hoerzu.de" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="hoerzu.de" site_id="anixehdserie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
-    <channel update="i" site="hoerzu.de" site_id="anixeplus" xmltv_id="Anixe Plus">Anixe Plus</channel>
+    <channel update="i" site="hoerzu.de" site_id="anixeplus" xmltv_id="Anixe+">Anixe+</channel>
     <channel update="i" site="hoerzu.de" site_id="ric" xmltv_id="RiC">RiC</channel>
     <channel update="i" site="hoerzu.de" site_id="deluxemusic" xmltv_id="Deluxe Music">Deluxe Music</channel>
     <channel update="i" site="hoerzu.de" site_id="schlagerdeluxe" xmltv_id="Schlager Deluxe">Schlager Deluxe</channel>
@@ -64,6 +64,7 @@
     <channel update="i" site="hoerzu.de" site_id="frankenfernsehen" xmltv_id="Franken Fernsehen">Franken Fernsehen</channel>
     <channel update="i" site="hoerzu.de" site_id="hamburg1" xmltv_id="Hamburg 1">Hamburg 1</channel>
     <channel update="i" site="hoerzu.de" site_id="muenchentv" xmltv_id="München TV">München TV</channel>
+    <channel update="i" site="hoerzu.de" site_id="spreekanal" xmltv_id="Spreekanal">Spreekanal</channel>
     <channel update="i" site="hoerzu.de" site_id="tidetv" xmltv_id="Tide TV">Tide TV</channel>
     <channel update="i" site="hoerzu.de" site_id="servustv" xmltv_id="Servus TV">Servus TV</channel>
     <channel update="i" site="hoerzu.de" site_id="orf1" xmltv_id="ORF 1">ORF 1</channel>
@@ -76,8 +77,11 @@
     <channel update="i" site="hoerzu.de" site_id="srf1" xmltv_id="SRF 1">SRF 1</channel>
     <channel update="i" site="hoerzu.de" site_id="srfzwei" xmltv_id="SRF zwei">SRF zwei</channel>
     <channel update="i" site="hoerzu.de" site_id="srfinfo" xmltv_id="SRF info">SRF info</channel>
-    <channel update="i" site="hoerzu.de" site_id="3plus" xmltv_id="3plus">3plus</channel>
-    <channel update="i" site="hoerzu.de" site_id="5plus" xmltv_id="5plus">5plus</channel>
+    <channel update="i" site="hoerzu.de" site_id="3plus" xmltv_id="3+">3+</channel>
+    <channel update="i" site="hoerzu.de" site_id="3plusmovies" xmltv_id="3+ Movies">3+ Movies</channel>
+    <channel update="i" site="hoerzu.de" site_id="3plusseries" xmltv_id="3+ Series">3+ Series</channel>
+    <channel update="i" site="hoerzu.de" site_id="3plusadrenalin" xmltv_id="3+ Adrenalin">3+ Adrenalin</channel>
+    <channel update="i" site="hoerzu.de" site_id="3plusfocus" xmltv_id="3+ Focus">3+ Focus</channel>
     <channel update="i" site="hoerzu.de" site_id="startv" xmltv_id="Star TV">Star TV</channel>
     <channel update="i" site="hoerzu.de" site_id="bibeltv" xmltv_id="Bibel TV">Bibel TV</channel>
     <channel update="i" site="hoerzu.de" site_id="bbcnews" xmltv_id="BBC News">BBC News</channel>
@@ -87,10 +91,6 @@
     <channel update="i" site="hoerzu.de" site_id="tv5monde" xmltv_id="TV5MONDE">TV5MONDE</channel>
     <channel update="i" site="hoerzu.de" site_id="france24" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="hoerzu.de" site_id="france2" xmltv_id="France 2">France 2</channel>
-    <channel update="i" site="hoerzu.de" site_id="france3" xmltv_id="France 3">France 3</channel>
-    <channel update="i" site="hoerzu.de" site_id="dr1" xmltv_id="DR 1">DR 1</channel>
-    <channel update="i" site="hoerzu.de" site_id="tv2" xmltv_id="TV 2">TV 2</channel>
-    <channel update="i" site="hoerzu.de" site_id="trttuerk" xmltv_id="TRT Türk">TRT Türk</channel>
     <channel update="i" site="hoerzu.de" site_id="skycinemapremiere" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
     <channel update="i" site="hoerzu.de" site_id="skycinemablockbuster" xmltv_id="Sky Cinema Blockbuster">Sky Cinema Blockbuster</channel>
     <channel update="i" site="hoerzu.de" site_id="skycinemaaction" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
@@ -111,6 +111,7 @@
     <channel update="i" site="hoerzu.de" site_id="skysporttennis" xmltv_id="Sky Sport Tennis">Sky Sport Tennis</channel>
     <channel update="i" site="hoerzu.de" site_id="skysportgolf" xmltv_id="Sky Sport Golf">Sky Sport Golf</channel>
     <channel update="i" site="hoerzu.de" site_id="skysportf1" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel update="i" site="hoerzu.de" site_id="skysportnfl" xmltv_id="Sky Sport NFL">Sky Sport NFL</channel>
     <channel update="i" site="hoerzu.de" site_id="skysportnews" xmltv_id="Sky Sport News">Sky Sport News</channel>
     <channel update="i" site="hoerzu.de" site_id="skysportaustria1" xmltv_id="Sky Sport Austria 1">Sky Sport Austria 1</channel>
     <channel update="i" site="hoerzu.de" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
